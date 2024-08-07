@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Gaming Experience: Fix Anthem's No-Sound Glitch in Windows N10"
-date: 2024-08-04 11:48:52
-updated: 2024-08-07 12:13:30
+date: 2024-08-06T09:17:30.204Z
+updated: 2024-08-07T09:17:30.204Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
 ## Mastering Windows Media Player Sound Settings - Avoid Silence with These Proven Fixes
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-150.png)
 
 **Windows Media Player no sound** ? You’re not the only one. But don’t worry, it’s often quite easy to fix…
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes For**Windows Media Player No Sound**
 
  Here’re 3 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -35,6 +41,9 @@ To make sure the volume is not muted but audible:
 
  1) In**Windows Media Player** , move the slider of the volume control bar to at least half way up.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
 
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
@@ -46,6 +55,9 @@ To make sure the volume is not muted but audible:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This problem may occur if you have the wrong or outdated audio driver. So you should update your audio driver to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -62,6 +74,9 @@ To make sure the volume is not muted but audible:
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -72,6 +87,9 @@ To make sure the volume is not muted but audible:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update or reinstall Windows Media Player
 
  If you still experience no sound coming from Windows Media Player issue, then it’s possible that the app itself in your system is faulty. You can check Windows Store to see if there’s any updates available, or reinstall the app.

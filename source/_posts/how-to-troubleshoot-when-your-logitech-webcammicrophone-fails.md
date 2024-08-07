@@ -1,0 +1,210 @@
+---
+title: How to Troubleshoot When Your Logitech Webcam/Microphone Fails
+date: 2024-08-06T09:18:06.985Z
+updated: 2024-08-07T09:18:06.985Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes How to Troubleshoot When Your Logitech Webcam/Microphone Fails
+excerpt: This Article Describes How to Troubleshoot When Your Logitech Webcam/Microphone Fails
+thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93ddb7e4b8427aaf47d96a723.jpg
+---
+
+## MPOW Microphone Trouble? Here's How to Make It Work on Your PC
+
+When you’re using a microphone such as MPOW attached to your computer, you may be frustrated as the microphone is not picking up your voice and you cannot be heard on calls. But since you’ve come across this article, you don’t have to be scratching your head asking why your headset microphone isn’t working. We’ve put together some methods to help you troubleshoot the issues.
+
+ Before getting started, you should do a restart. A simple reboot can resolve many issues almost immediately. But before restarting your computer, be sure to bookmark this page in case the restart didn’t help you fix your issues and you’ll need to follow the instructions below for further troubleshooting.
+
+ If restarting your computer didn’t do the trick, try to connect or pair your headset to another computer. If it isn’t working on the different computer, chances are your microphone or headset is malfunctioning or damaged. In this case, you need to reach out to the manufacturer for further assistance. You can send it for repairs or replacement if it’s still under warranty.
+
+ If you’re quite sure that your headset isn’t broken, try these fixes:
+
+1. [Run the audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)
+2. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
+3. [Set your microphone as the default device](https://tools.techidaily.com/drivereasy/download/)
+4. [Make sure apps have access to your microphone](https://tools.techidaily.com/drivereasy/download/)
+5. [Make sure your microphone is enabled](https://tools.techidaily.com/drivereasy/download/)
+6. [Download and install Windows updates](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Run the audio troubleshooter
+
+ When you run into audio or sound issues, using the troubleshooting tool can help you identify what’s going on. To run the audio troubleshooter, take these steps:
+
+ 1) In the search box on the taskbar, type **audio troubleshooter** . Then click **Find and fix problems with playing sound**  from the results.  
+  
+![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
+
+ 2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
+  
+![run the audio troubleshooter MPOW Microphone not working](https://images.drivereasy.com/wp-content/uploads/2021/04/select-the-device-you-want-to-troubleshoot.png)
+
+ Now Windows will help you scan for issues. Simply follow the on-screen instructions to resolve your problems.
+
+ If running the audio troubleshooter didn’t get your microphone back to a working state, try the fixes above.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+## 2\. Update your audio driver
+
+ Most of the audio or sound issues are driver related. If you’re using an audio driver which is outdated or corrupted, your headset mic would not be working properly and the sound coming from your headset could be crackling, popping or static. In this situation, updating your audio driver becomes quite crucial as this may fix your issues immediately.
+
+ You can update your audio driver from the manufacturer’s website of your sound card and you may also need to update your MPOW driver corresponding with your product model from the[download](https://www.xmpow.com/pages/download) page. This requires a certain level of computer knowledge and you need to know the specifications of your PC.
+
+ However, if you don’t have the time, patience or computer skills to update your audio driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact device, and your Windows version, and it will download and install them correctly:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
+
+![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
+
+ 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver-1200x901.png)
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, restart your computer and then try to use the microphone to check if it’s working now. If not, try the next fix below.
+
+---
+
+## 3\. Set your microphone as the default device
+
+ Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But you may have multiple input or recording devices connected. It would occur to you that your computer is using another device instead of the one you’re attempting to. In order to set your MPOW microphone as your input device, follow the instructions below:
+
+ 1) At the bottom-right corner of your taskbar, right-click your speaker icon and select **Open Sound settings** .
+
+![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
+
+ 2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
+  
+![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
+
+ 3) When the Sound window opens, select the**Recording** tab. Click on your microphone and then click**Set Default > OK** .  
+  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+![set MPOW microphone as the default device](https://images.drivereasy.com/wp-content/uploads/2021/04/image.png)
+
+ After you’ve saved the changes, use your microphone to check if your problems have been solved.
+
+---
+
+## 4\. Make sure apps have access to your microphone
+
+ In order to access your microphone, the apps need permissions. To let apps access your microphone, take these steps:
+
+ 1) Press the **Windows logo key + R**  at the same time to open the Run dialog box.
+
+ 2) Click **Privacy** .  
+  
+![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
+
+ 3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
+  
+![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
+
+ 4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
+  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
+
+ 5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
+
+ After you’ve confirmed the changes, try to make a recording or call to check if it’s picking up your voice.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+## 5\. Make sure your microphone is enabled
+
+ It may sound odd but there are just possibilities that your microphone has accidentally been disabled. If that’s your case, your microphone definitely wouldn’t be recording any sound. To make sure your mic is enabled, take these steps:
+
+ 1) At the bottom-right corner of your taskbar, right-click your speaker icon and select **Open Sound settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
+
+ 2) Under the **Input**  section, make sure that your headset is selected as the input device. Then click **Device Properties** .  
+  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
+
+ 3) Make sure that your headset is not disabled.  
+  
+![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
+
+ Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
+
+---
+
+## 6\. Download and install Windows updates
+
+ Windows updates come with bug fixes and bring new features. When your microphone isn’t working, it could be a compatibility issue. To take advantage of Windows new features and fix the compatibility issue, you should install all Windows updates:
+
+ 1) In the Search box, type **check for updates** . Click **Check for updates**  from results.  
+  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
+
+ 2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
+  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
+
+ After installing the latest Windows updates, use your headset mic and it should be functioning now.
+
+---
+
+ Hopefully this tutorial helped get your MPOW microphone back to the working state. If you have any suggestions or questions, don’t hesitate to leave us a comment below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>

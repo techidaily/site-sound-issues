@@ -1,7 +1,7 @@
 ---
 title: "Defeating Discord's Persistent Echo on Your PC: The Definitive 2024 Tutorial"
-date: 2024-08-04 20:24:49
-updated: 2024-08-07 12:55:42
+date: 2024-08-06T09:17:58.187Z
+updated: 2024-08-07T09:17:58.187Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
@@ -37,14 +40,24 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  2) View by **Large icons** and select **Power Options** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ab2cb848.jpg)
 
  3) Select **Change plan settings** of whichever plan you’re with now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ae2775a7.jpg)
 
  4) Click **Change advanced power settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
 
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
@@ -53,16 +66,39 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 6) Check to see if your audio crackling problem is gone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## **2\. Disable ATI HDMI Audio**
 
  In some cases, ATI HDMI Audio device in your Device Manager could be the culprit of the popping sound on your Windows PC. You can disable it for your audio to go back to normal again. To do it:
 
  1) On your keyboard, press the **Windows logo key** and **X** at the same time, then choose **Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
 
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52db77fe74.png)
 
 If you don’t see this option here, move on to the next steps.

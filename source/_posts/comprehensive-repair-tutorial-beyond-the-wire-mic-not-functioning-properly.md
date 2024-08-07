@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Repair Tutorial: Beyond the Wire Mic Not Functioning Properly"
-date: 2024-08-06 15:19:54
-updated: 2024-08-07 10:39:56
+date: 2024-08-06T09:17:40.116Z
+updated: 2024-08-07T09:17:40.116Z
 tags:
   - win11
   - win10
@@ -27,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
  1) On your keyboard, press the**Win+R** (the Windows logo key and the R key) at the same time to invoke the run box. Type control panel in the run box then click the**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642607bba2.png)
 
  2) **View by large icons** and click **Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4d734d2c.jpg)
 
 3) See the Speakers is disabled:
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
  If it is disabled, right click on it and select **Enable** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4eb667e9.jpg)
 
  If you don’t see **Speakers** option listed, it could be disabled and hidden. Right click on the blank space and select **Show Disabled Devices** . Then Enable it.
@@ -65,12 +74,18 @@ Follow these steps:
 
  2) Expand the category “**Sound, video and game controllers** “. Under this category, right-click on the audio device name. A context menu will pop up, then select **Disable** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
 
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 2: Update the audio driver**
 
  The problem can be caused by faulty audio drivers. The above steps above may resolve your laptop no sound issue, but if they don’t, you can update the audio driver. If you don’t have the time, patience or computer skills to update the audio driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,6 +104,9 @@ Follow these steps:
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-406.png)
 
  Hopefully you can fix your laptop no sound issues with the steps above. If you have any questions, please feel free to leave your comment below.

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Unresponsive Voice Chatting in Black Ops Cold War Multiplayer Mode
-date: 2024-08-05 11:24:45
-updated: 2024-08-07 10:17:45
+date: 2024-08-06T09:17:38.360Z
+updated: 2024-08-07T09:17:38.360Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/b274fcba0e007ea79b7a5404662f5559df1dd58ab
 
 ## 'Back 4 Blood': Overcoming Voice Chat Failures - Effective Solutions Inside
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/back-4-blood.jpg)
 
  Voice chat not working in Back 4 Blood? You’re not alone. Recently many players have reported the very same issue. But don’t worry. In this post, we’ve got you covered with some working fixes you can try.
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/b274fcba0e007ea79b7a5404662f5559df1dd58ab
 
 If the in-game voice chat is still not working, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  The voice chat not working issue can be caused by a corrupted or outdated audio driver. To fix it, you’ll need to update your audio driver.
@@ -53,6 +59,9 @@ If the in-game voice chat is still not working, try the next fix.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-scan-audio.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
@@ -63,6 +72,9 @@ If the in-game voice chat is still not working, try the next fix.
 
  If updating your audio driver doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Set your audio device as the default device
 
  If you don’t have the correct audio devices set in Windows and Steam, your microphone or headset may not work properly. To ensure the voice chat works properly, you’ll need to set your audio device as the default device. Here’s how:
@@ -72,12 +84,34 @@ If the in-game voice chat is still not working, try the next fix.
 2. Under the**Playback** tab, select the**speakers or headset** you want to use and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Click the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Launch Steam. At the bottom-right corner of the Steam client, click**FRIENDS & CHAT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-friends-chat.jpg)
 5. In the pop-up window, click**the gear icon** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/friends-chat-gear.jpg)
 6. Select**VOICE** . In**VOICE INPUT DEVICE** , select the microphone you set as the default device in step 3). In**VOICE OUTPUT DEVICE** , select the headset you set as the default device in step 2).  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-voice-set.jpg)
 7. Launch Back 4 Blood again to see if the voice chat is working properly.
 
@@ -87,12 +121,18 @@ If the issue remains, check out the next fix.
 
  Some console players have found that the voice chat may not work if you’ve your headset connected through a Mixamp. To ensure the voice chat works properly in Back 4 Blood, you might need to connect your microphone directly to your controller.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Reinstall Back 4 Blood
 
  If none of the fixes above solve your chat problem, try uninstalling and reinstalling Back 4 Blood as a last resort. Here’s how:
 
 1. Open Steam and click**LIBRARY** .
 2. **Right-click** Back 4 Blood and select**Manage** \>**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-uninstall-game.jpg)
 3. After the process completes, reinstalling the game.
 

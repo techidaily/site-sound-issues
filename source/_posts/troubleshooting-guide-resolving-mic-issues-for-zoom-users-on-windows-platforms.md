@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Mic Issues for Zoom Users on Windows Platforms"
-date: 2024-08-04 17:55:20
-updated: 2024-08-07 11:13:49
+date: 2024-08-06T09:17:50.251Z
+updated: 2024-08-07T09:17:50.251Z
 tags:
   - win11
   - win10
@@ -29,18 +29,36 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
  To troubleshot your Logitech G533 microphone not working issue, you should first make sure it’s correctly configured on your PC.
 
 1. Click the**Start** button. Then, type**control panel** in the search box and click**Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1-3.jpg)
 2. Select**Small icons** from the drop-down menu next to**View by** . Then, click**Sound** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-0.jpg)
 3. Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-3-1.jpg)
 4. If your Logitech G533 microphone is disabled, right-click it and click**Enable** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-4-1.jpg)
 5. Make sure the microphone is set as the default device. If not, click it and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-5.jpg)
 6. Right-click your microphone and click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7.jpg)
 7. Select the**Levels** tab. If the microphone is muted, click the**speaker icon** to unmute it.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-2.jpg)
 8. Drag the slider under Microphone to the left to maximize the volume. Then, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-3.jpg)
@@ -49,16 +67,26 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Fix 2 – Update your audio driver
 
  If you’re using the wrong audio driver or it’s out of date, the Logitech G533 headset microphone won’t function properly. So you should update your audio driver to see if it fixes the problem. Here are two options you can get the latest and right audio driver in a safe way: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### Option 1 – Manually download and install the driver
 
  Logitech keeps updating drivers for its devices. All you need is go to the **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Option 2 – Automatically update the driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your audio driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -107,8 +135,14 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 2. Click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-7.jpg)
 3. Click**Microphone** on the left pane. Then, click the**Change** button, and make sure Microphone access for this device is**On** .  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-6.jpg)
 4. Make sure**Allow apps to access your microphone** is turned**on** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)
 
  After finishing the steps above, check if your mic-not-working issue is resolved. If unfortunately, none of the preceding fixes does the trick, chances are that the microphone is physically broken and you may consider contacting the vendor for further assistance.

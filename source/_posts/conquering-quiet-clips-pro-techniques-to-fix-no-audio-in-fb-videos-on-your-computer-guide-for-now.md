@@ -1,7 +1,7 @@
 ---
 title: "Conquering Quiet Clips: Pro Techniques to Fix No Audio in FB Videos on Your Computer - Guide for Now"
-date: 2024-08-05 14:42:14
-updated: 2024-08-07 11:15:13
+date: 2024-08-06T09:17:33.059Z
+updated: 2024-08-07T09:17:33.059Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
 If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound coming out from your speaker and/or your headphones, you’re not alone. We’ve received reports from many Windows users reporting it. But no worries, you can get it fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## **How do I fix it?**
 
  Here are 3 solutions you can try to get this problem fixed. You may not need to try them all. Just work from the top down until you find the one that works for you.
@@ -27,6 +30,9 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
@@ -53,12 +59,18 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 6) Check to see if your audio crackling problem is gone.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## **2\. Disable ATI HDMI Audio**
 
  In some cases, ATI HDMI Audio device in your Device Manager could be the culprit of the popping sound on your Windows PC. You can disable it for your audio to go back to normal again. To do it:
 
  1) On your keyboard, press the **Windows logo key** and **X** at the same time, then choose **Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
 
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
@@ -67,6 +79,9 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 If you don’t see this option here, move on to the next steps.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## **3\. DPC Latency**
 
  In some cases, high latency could be the cause of your static audio among many other audio problems. Luckily, there’s a handy tool called **DPC Latency Checker** . It helps monitor your PC performance and tells you what’s causing the latency.
@@ -93,10 +108,16 @@ If you don’t see this option here, move on to the next steps.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

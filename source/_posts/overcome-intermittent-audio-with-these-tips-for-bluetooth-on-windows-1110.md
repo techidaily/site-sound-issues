@@ -1,7 +1,7 @@
 ---
 title: Overcome Intermittent Audio with These Tips for Bluetooth on Windows 11/10
-date: 2024-08-04 21:30:37
-updated: 2024-08-07 12:37:51
+date: 2024-08-06T09:17:47.977Z
+updated: 2024-08-07T09:17:47.977Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 Many users have updated to Windows 11, but some of them encounter Bluetooth not working issues. If you’re looking for a cure for the **Bluetooth not working**  issue, you’re in the right place. In this tutorial, we’ll walk you through all the working fixes and get your Bluetooth device working in a jiff.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all; just work your way down until you find the one that suits you.
@@ -39,6 +42,9 @@ Many users have updated to Windows 11, but some of them encounter Bluetooth not 
 Here’s how to check on Windows 11 PC:
 
 1. Press the**Windows logo key + A** to open**Quick Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/quick-settings.jpg)
 2. Make sure the Bluetooth option is enabled.
 3. You can re-enable Bluetooth on your PC by turning off Bluetooth and then enabling it later. Then check if your device can work on your PC. It may work for some users. If you need help doing this, please skip to here:[how to pair your Bluetooth device on Windows 11](https://tools.techidaily.com/drivereasy/download/)
@@ -53,6 +59,9 @@ Here’s how:
 
 1. Press the**Windows logo key + I (i) key** together to open**Settings** .
 2. Click**System** in the left panel. Then scroll down on the right panel and click**Troubleshoot** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-1.jpg)
 3. Click**Other troubleshooters** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-2.jpg)
@@ -62,18 +71,28 @@ Here’s how:
 
  If the Bluetooth troubleshooter doesn’t work, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Update your Bluetooth driver
 
  One of the most common causes of Bluetooth not working problem is an outdated or faulty Bluetooth driver. If you never bother to or don’t remember when was the last time you updated your Bluetooth driver, definitely do it now. It might just fix your problem right away.
 
  There’re mainly 2 ways you can update your Bluetooth driver: manually or automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### Option 1: Update your Bluetooth driver manually
 
  If you’re familiar with computer hardware, you can try to update the Bluetooth driver manually.
 
  To do so, first, visit the website of your device manufacturer, then search for your device model. Be sure to download only the latest driver that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### Option 2:Update your Bluetooth driver automatically (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your Bluetooth driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact device, and your Windows version, and it will download and install them correctly.
@@ -86,6 +105,9 @@ Here’s how:
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/01/intel-wireless-bluetooth.png)
 4. After updating, restart your computer to take effect.
 
@@ -100,12 +122,18 @@ Here’s how:
 2. Scroll down to find**Bluetooth Support Service** , then double-click it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-service-1.jpg)
 3. In the pop-up window, go to the**General** tab. Click**Stop** under Service status. Then click**Start** next to it.  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/blutooth-service-restart.jpg)
 4. Select**Automatic** in the Startup type drop-down menu. Then click**Apply > OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-service-2.jpg)
 
  The Bluetooth Support Service is running in normal terms and you should be able to pair your device and use it normally.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Change the Bluetooth devices discovery setting
 
  As per quite some Reddit readers, setting the Bluetooth devices discovery setting to Advanced helps to fix the Bluetooth not working problem on their Windows 11 computers. To see if this does the trick for you as well:
@@ -117,6 +145,10 @@ Here’s how:
 
  Try to see if your Bluetooth starts working properly. If the problem remains, please move on.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Fix 6: Repair your system files
 
  It’s possible that Bluetooth not working issue is caused by a Windows system error. Corrupt, damaged, or missing system files can cause Windows issues. To check if this is the exact cause, you can either use the Windows built-in tool to run a basic check or use an automatic tool to perform a complete diagnosis.
@@ -132,10 +164,16 @@ Here’s how:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -157,16 +195,25 @@ sfc /scannow
 
  Then press **Enter** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/sfc-1.jpg)
 
  Windows will scan your system for corrupted files, and attempt to fix any it finds. The results will display in this window, so please leave it open until the operation is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## How to pair your Bluetooth device on Windows 11
 
 1. Press the**Windows logo key + I (i)** key together to open**Settings** .
 2. Click**Bluetooth & devices** . In the right panel, click**Add device** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-add.jpg)
 3. Click**Bluetooth** . Make sure your Bluetooth device is turned on and discoverable. Then wait the device the show up in the list.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-add-1.jpg)
 4. Click the device you want to pair and wait for a while. It should appear as**Connected** or**Paired** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-add-2.jpg)

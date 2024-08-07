@@ -1,7 +1,7 @@
 ---
 title: "Instant Repairs: Resolve Oculus Rift S Mic Issues in Just Five Steps"
-date: 2024-08-06 10:21:45
-updated: 2024-08-07 10:56:29
+date: 2024-08-06T09:17:50.041Z
+updated: 2024-08-07T09:17:50.041Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
 Find your mic not working in Squad? That’s definitely annoying when you have trouble hearing other people or them hearing you. But don’t worry. After reading this post, you’ll learn how to fix this issue easily & quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
  Here are 5 tried-and-true fixes for Squad mic not working. You may not try them all. Simply work your way down the list until you find the one that does the trick.
@@ -27,6 +30,9 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Fix 1 – Double-check your device and connection
 
  Before trying anything more complicated, you should do some basic checks to make sure your device and connection work fine.
@@ -38,6 +44,9 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 
  If your hardware and connection are both good to go, check out more fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Configure the sound settings
 
  In most cases, your headset microphone will be set as the default input device once it’s connected. However, Windows updates may sometimes screw up the configurations and you need to tweak the settings manually.
@@ -47,6 +56,9 @@ Follow the steps here:
 #### Step 1 – Disable unneeded audio devices
 
 1. At the bottom right corner of your desktop, right-click the**speaker icon** and select**Sounds** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. Then right-click**other unnecessary audio devices** and**disable** them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-3-1.jpg)
@@ -54,8 +66,14 @@ Follow the steps here:
 #### Step 2 – Set your main microphone as the default device
 
 1. On the**Recording** tab, select your primary microphone and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-4-2.jpg)
 2. Right-click your microphone and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-5-1.jpg)
 3. Go to the**Levels** tab. Then,**drag the microphone volume slider to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-6-2.jpg)
@@ -63,8 +81,14 @@ Follow the steps here:
 #### Step 3 – Change the sample rate
 
 1. On the Microphone Properties window, select the**Advanced** tab.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-1.jpg)
 2. Select**2 channel, 16 bit, 48000 Hz (DVD Quality)** from the drop-down menu under Default Format. Then, click**OK** to apply the changes.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-2.jpg)
 
  If you’ve configured the microphone properly in Windows and still encounter the same problem, the next thing is to look at the in-game mic settings.
@@ -75,6 +99,9 @@ Follow the steps here:
 
 1. Launch your Steam client.
 2. Click**Friends** at the upper left corner and choose**View Friends List** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-0.jpg)
 3. Click the**cogwheel icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-1-1.jpg)
@@ -105,6 +132,9 @@ Follow the steps here:
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

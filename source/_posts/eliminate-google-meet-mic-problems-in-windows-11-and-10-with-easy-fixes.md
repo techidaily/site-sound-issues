@@ -1,7 +1,7 @@
 ---
 title: Eliminate Google Meet Mic Problems in Windows 11 and 10 with Easy Fixes
-date: 2024-08-04 11:43:24
-updated: 2024-08-07 12:47:17
+date: 2024-08-06T09:18:05.465Z
+updated: 2024-08-07T09:18:05.465Z
 tags:
   - win11
   - win10
@@ -37,34 +37,64 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-1-3.jpg)
 3. Select**Microphone** in the left pane.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2-1.jpg)
 4. Click the**Change** button and**turn on** Microphone access for this device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3-1.jpg)
 5. Under Allow apps to access your microphone,**toggle on** the button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4-1.jpg)
 6. Scroll down and set Allow desktop apps to access your microphone to**On** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-5-1.jpg)
 
  Does your microphone return to normal? If not, proceed to more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Configure the microphone settings
 
  To make your microphone work, it’s also important to configure the microphone settings correctly on your PC. You need to ensure the microphone is not muted and set as the default device.
 
 1. Type**control panel** in the search box and click**Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-team-control-panel.jpg)
 2. Select**Small icons** from the drop-down menu next to View by. Then, click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Navigate to the**Recording** tab, and right-click any empty space below. Then, tick Show**Disabled Devices** .  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-4.jpg)
 4. Right-click the idle microphone and click**Disable** one by one.
 5. Select the correct input device and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-5.jpg)
 6. Click the microphone you’re using and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-6.jpg)
 7. Go to the**Levels** tab. Then make sure**it’s not muted** and**drag the volume slider to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-7.jpg)
 8. Click**OK** to apply the changes.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-8.jpg)
 
  Now that everything is set up in the right way, test your microphone in Microsoft Team. If it still fails to work, check out the next fix.
@@ -75,8 +105,14 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 
 1. Run Microsoft Teams and join a meeting.
 2. Click the**settings icon** at the upper right corner and click**Device Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1-1.jpg)
 3. Under the microphone section, choose the device you’re using.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-teams-settings.jpg)
 
  Re-open the app and join a call to test your microphone. If the issue persists, check out the next fix.
@@ -101,6 +137,9 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-5.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -113,6 +152,9 @@ Microsoft Teams offers a variety of convenient features for online conferencing.
  If none of the solutions above get your microphone back to working, the cause might be on the software’s end. Download and reinstall the latest Microsoft Teams to resolve the errors during the previous installation.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then, type**appwiz.cpl** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-2.jpg)
 2. Right-click**Microsoft Teams** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-2.jpg)

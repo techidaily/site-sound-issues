@@ -1,7 +1,7 @@
 ---
 title: "No More Silence in Battlegrounds: Get Your World of Warcraft Voice Chat Running Smoothly Again!"
-date: 2024-08-04 19:12:46
-updated: 2024-08-07 12:12:40
+date: 2024-08-06T09:17:58.296Z
+updated: 2024-08-07T09:17:58.296Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ Having problems with the**voice chat** in**World of Warcraft** ? You’re surely
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Scan and repair WoW](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1:**Check your audio input device**
 
  There’re many reasons for microphone problems, but the first thing you should do when troubleshooting is to**check the physical connections** . Make sure the cables of your microphone are securely plugged into the**correct audio jack** .
@@ -38,6 +41,9 @@ Having problems with the**voice chat** in**World of Warcraft** ? You’re surely
 
  If there’s nothing wrong with your input device, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Configure your system microphone settings
 
  Normally when you plugged in your microphone, Windows will set it as the default recording device. But that’s not always the case. Sometimes you’ll need to configure this setting manually.
@@ -45,17 +51,26 @@ Having problems with the**voice chat** in**World of Warcraft** ? You’re surely
 You can use these steps to check:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Type or paste**ms-settings:sound** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to the desired one. Then click**Device properties and test microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/input-device.jpg)
 3. Make sure you’ve**unchecked the box** next to**Disable** , and the slider under the**Volume** section is set to**100** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click**Start test** and tap or speak to your microphone. Then click**Stop test** . If you’re prompted**The highest value we saw was xx percent** , it means your microphone is working correctly.  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
 5. Launch World of Warcraft and test your in-game voice chat.
 
  If this method doesn’t tackle your problem, please continue to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3:**Check your in-game settings**
 
  If your microphone is working outside the game, you should check if you’ve configured the in-game settings correctly.
@@ -72,6 +87,9 @@ Here’re the steps:
 
  If configuring in-game settings doesn’t give you any luck, take a look at the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4:**Update your audio driver**
 
  The voice chat issue could occur when you’re using a**faulty or outdated audio driver** . You should be sure that you’re using the latest audio driver, especially when you’ve spend top dollar for your peripherals, which often ship with edgy features that need to be unlocked by additional drivers.
@@ -80,6 +98,10 @@ Here’re the steps:
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -98,8 +120,14 @@ Here’re the steps:
 By the way, it’s surprisingly easy to update too:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Type or paste**control /name Microsoft.WindowsUpdate** , then press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-windows-update.jpg)
 2. Click**Check for updates** . Windows will then search and install the system updates automatically. Once it’s done, restart your computer.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed**all** the system updates, repeat these steps until it prompts “You’re up to date” when you click**Check for updates** .
@@ -111,6 +139,9 @@ By the way, it’s surprisingly easy to update too:
  This issue might occur when you have some game components missing. To check the integrity of your game files, simply follow these steps:
 
 1. Open your Blizzard client and select**World of Warcraft** . Then click**Options** and select**Scan and Repair** .  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-wow-scan-and-repair-1.jpg)
 2. It will take**5-30 minutes** to verify the integrity of your game files. Once completed, launch WoW and check your in-game voice chat.
 

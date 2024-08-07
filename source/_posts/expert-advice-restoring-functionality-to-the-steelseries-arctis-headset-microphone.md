@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Restoring Functionality to the SteelSeries Arctis Headset Microphone"
-date: 2024-08-05 20:20:12
-updated: 2024-08-07 11:40:12
+date: 2024-08-06T09:17:47.872Z
+updated: 2024-08-07T09:17:47.872Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
 ## Logitech G533 Headset Microphone Not Functioning? Here's How to Resolve It
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![logitech g533 mic not working](https://images.drivereasy.com/wp-content/uploads/2021/02/logitech-g533.jpg)
 
  You’re using Logitech G533 gaming headset but find the microphone isn’t working? This sort of issue is quite annoying, but fortunately it’s not hard to solve. Here’re 4 simple fixes that helped a lot of Windows users to get their Logitech G533 mic back working. Check out and give them a try!
@@ -29,20 +32,41 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
  To troubleshot your Logitech G533 microphone not working issue, you should first make sure it’s correctly configured on your PC.
 
 1. Click the**Start** button. Then, type**control panel** in the search box and click**Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1-3.jpg)
 2. Select**Small icons** from the drop-down menu next to**View by** . Then, click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-0.jpg)
 3. Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-3-1.jpg)
 4. If your Logitech G533 microphone is disabled, right-click it and click**Enable** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-4-1.jpg)
 5. Make sure the microphone is set as the default device. If not, click it and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-5.jpg)
 6. Right-click your microphone and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7.jpg)
 7. Select the**Levels** tab. If the microphone is muted, click the**speaker icon** to unmute it.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-2.jpg)
 8. Drag the slider under Microphone to the left to maximize the volume. Then, click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-3.jpg)
 
  Now that your Logitech G533 headset microphone is set as the default device and not disabled or muted, it should work as expected. If not, we’ve got more fixes for you below.
@@ -79,17 +103,26 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3 – Reinstall Logitech Gaming Software
 
  Reinstalling the Logitech software could also solve a variety of unexplained bugs with the Logitech devices. So, if you have Logitech Gaming Software installed on your PC, follow the guide below to perform a fresh reinstallation.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 2. Type**appwiz.cpl** in the field and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-3.jpg)
 3. Click**Logitech Gaming Software** and click**Uninstall/Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-1.jpg)
 4. Follow the on-screen instructions to completely uninstall the program.
 5. Go to **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  . Then find the latest version of Logitech Gaming Software that is suitable for your operating system and click**Download Now** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-1.jpg)
 6. Once you finish downloading, double-click the downloaded file and follow the wizard to install the software.
 
@@ -105,8 +138,14 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to enter the Windows settings menu.
 2. Click**Privacy** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-7.jpg)
 3. Click**Microphone** on the left pane. Then, click the**Change** button, and make sure Microphone access for this device is**On** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-6.jpg)
 4. Make sure**Allow apps to access your microphone** is turned**on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)

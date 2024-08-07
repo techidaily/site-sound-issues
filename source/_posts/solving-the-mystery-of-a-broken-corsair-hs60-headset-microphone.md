@@ -1,7 +1,7 @@
 ---
 title: Solving the Mystery of a Broken Corsair HS60 Headset Microphone
-date: 2024-08-05 16:17:56
-updated: 2024-08-07 12:11:18
+date: 2024-08-06T09:17:51.438Z
+updated: 2024-08-07T09:17:51.438Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ You may not have to try them all. Just work your way down the list until you fin
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Method 1: Allow access to your headset microphone (for Windows 10 users)
 
 You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:**1)** Click the**Start**button in the lower left corner of your screen, then click the**Settings**icon.
@@ -38,18 +41,30 @@ You should allow your Windows 10 system and your application to access your head
 
 **2)** Click**Privacy**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e85bc8fdf.jpg)
 
 **3)** Click**Microphone**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e8bd4fd27.jpg)
 
 **4)** Click the**Change**button, then make sure **Microphone for this device** is turned**on**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9221f920.jpg)
 
 **5)** Make sure**Allow apps to access your microphone**is turned**on**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9a89f2b6.jpg)
 
 Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
@@ -68,6 +83,9 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 **3)**Select **Sound**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 **4)** Select the **Recording**tab, then right click on any empty place inside the device list and tick **Show Disabled Devices**.
@@ -80,10 +98,16 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 **6)**Right click it again and select **Set as Default Device**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
 **7)** Right click**Headset Microphone**and click**Properties**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
 **8)** Click the**Levels**tab, then drag the volume slider towards the_largest value_.
@@ -94,10 +118,17 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Method 3: Update your audio drivers
 
 The mic on your Logitech G933 headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.  You can update your driver manually or automatically. The manual process is time consuming, technical and risky, so we won’t cover it here. Nor do we recommend it unless you have excellent computer knowledge.  Updating your driver automatically, on the other hand, is very easy. Simply install and run [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), and it will automatically find all the devices on your PC that need new drivers, and install them for you. Here’s how to use it. **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/)and install**Driver Easy**.**2)** Run**Driver Easy**and click the **Scan Now**button.**Driver Easy**will scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
 **3)** Click the**Update**button next to your sound device or your headset to download the latest and correct driver for it.

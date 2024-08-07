@@ -1,7 +1,7 @@
 ---
 title: Solve Your PC's Microphone Problems During Zoom Meetings - A Complete Guide
-date: 2024-08-06 16:11:35
-updated: 2024-08-07 12:31:23
+date: 2024-08-06T09:17:34.746Z
+updated: 2024-08-07T09:17:34.746Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 7. **[Check the Party Chat settings](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1 – Perform basic troubleshooting
 
  When Sea of Thieves voice chat/mic stops working, the first thing is to do a basic check to rule out the connection and hardware issue.
@@ -45,6 +48,9 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
  Sometimes the sound settings on your PC might be messed up after a system update and your microphone is not recognized correctly or set as the default device. If so, you should manually adjust the settings to make your headset work.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**control** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2-1.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2-2.jpg)
@@ -65,8 +71,14 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
  If Sea of Thieves is not allowed to use your microphone, you won’t be able to chat with other players in the game. To check if you’ve enabled the permission, follow the steps below:
 
 1. Type**microphone privacy** in the Windows search bar and click**Microphone privacy settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy-settings-2-1.jpg)
 2. Click the**Change** button and**turn on** Microphone access for this device. Then,**toggle on** Allow apps to access your microphone below.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy-settings-4-1.jpg)
 3. Scroll down to**toggle on the button next to Sea of Thieves and Xbox** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy-settings-1-2.jpg)
@@ -95,6 +107,10 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -102,6 +118,9 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 
  Normally the driver update could fix most device glitches. But if the problem persists, try the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5 – Restart Windows audio service
 
  If the Windows audio service isn’t running properly, sound problem is likely to occur. To fix it, you need to restart the audio service. Here’s how:
@@ -114,6 +133,9 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 
  Check if the Sea of Thieves voice chat goes back to normal. If not, there are a few more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Fix 6 – Check the in-game audio settings
 
  If everything in the PC sound settings is good to go, make sure to turn on your voice chat in the in-game settings. You can take these steps to check:
@@ -121,14 +143,26 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 1. While in-game, press the**Esc key** on your keyboard and select**My Crew** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-1.jpg)
 2. On the right pane, make sure**you don’t mute all other crews voice chat** .  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-2.jpg)
 3. Exit the Window and open the**Settings** menu.  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-3.jpg)
 4. Select**Audio Settings** from the left pane. Then, make sure the**Crew Chat Output** is set to the correct device and**Push To Talk is turned on** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-4.jpg)
 
  Now relaunch Sea of Thieves to test. If this method doesn’t help, proceed to the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7 – Check the Party Chat settings
 
  If you’ve set up Xbox Party Chat, you also need to enable the chat access in Xbox settings. Otherwise, you might not use the voice chat in Sea of Thieves as intended. Follow the instruction below to do this.
@@ -137,10 +171,19 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 2. Click your**user name** at the upper right corner and select**Xbox settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/xbox-settings-1.jpg)
 3. Select the**Privacy & online safety** tab.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/xbox-settings-2.jpg)
 4. Under the**You Can** section, tick**Allow** next to **You can communicate outside of Xbox Live with voice & text** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/xbox-settings-3.jpg)
 5. Scroll to the**Others can** section. For**Others can communicate with voice, text, or invites** , select**Everyone** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/xbox-settings-4.jpg)
 6. Open your Xbox app. Then click your**avatar** at the upper right corner and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/xbox-settings-6.jpg)
@@ -149,6 +192,9 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 
  After you’ve made those tweaks, launch SoT again to test whether you can talk to your crews. If not, try the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 8 – Temporarily disable your antivirus
 
  According to some players, Sea of Thieves voice chat won’t work when their antivirus is enabled. The anti-virus software aims to protect your PC from potential threats but sometimes it can block certain features of other apps or games. To see if that’s the cause, turn off the antivirus and relaunch your game. If the problem gets fixed,**add SoT into the exception list** so that you can use both without conflicts.

@@ -1,7 +1,7 @@
 ---
 title: "Fix Mac Computer Audio Issues: A Comprehensive Guide"
-date: 2024-08-04 18:41:55
-updated: 2024-08-07 11:30:30
+date: 2024-08-06T09:17:46.297Z
+updated: 2024-08-07T09:17:46.297Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound coming out from your speaker and/or your headphones, you’re not alone. We’ve received reports from many Windows users reporting it. But no worries, you can get it fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How do I fix it?**
 
  Here are 3 solutions you can try to get this problem fixed. You may not need to try them all. Just work from the top down until you find the one that works for you.
@@ -33,6 +36,9 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  1) On your keyboard, press the **Windows logo key**  and **S** at the same time and then type in **control** . Select **Control Panel** from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52a57919f5.png)
 
  2) View by **Large icons** and select **Power Options** .
@@ -45,6 +51,9 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  4) Click **Change advanced power settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
 
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
@@ -53,12 +62,27 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 6) Check to see if your audio crackling problem is gone.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **2\. Disable ATI HDMI Audio**
 
  In some cases, ATI HDMI Audio device in your Device Manager could be the culprit of the popping sound on your Windows PC. You can disable it for your audio to go back to normal again. To do it:
 
  1) On your keyboard, press the **Windows logo key** and **X** at the same time, then choose **Device Manager** .
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
 
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
@@ -79,6 +103,9 @@ If you don’t see this option here, move on to the next steps.
 
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
 
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
@@ -93,6 +120,9 @@ If you don’t see this option here, move on to the next steps.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).

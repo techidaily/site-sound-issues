@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for the Astro A50 Audio Problem – Get Clear Sounds Back
-date: 2024-08-05 13:48:32
-updated: 2024-08-07 11:29:37
+date: 2024-08-06T09:17:48.349Z
+updated: 2024-08-07T09:17:48.349Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  If your**Astro A50 headset’s microphone** **is not working** , please check the[microphone troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  We’ve put together 4 simple fixes for you when your Astro A50 has no sound. You may not need to try them all; just walk your way down until you find the one that works.
@@ -28,6 +31,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 3. [**Update the sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 1: Troubleshoot the connection
 
  The first thing you need to try is to make sure the headset’s volume wheel is set to a reasonable value.
@@ -43,6 +49,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  When the connections are fine, but the Astro A50 no sound issue persists, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2: Set your Astro A50 as the default
 
  Next, you need to**check if your headset is properly configured on Windows** .
@@ -59,8 +68,14 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**mmsys.cpl** and hit Enter.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/win11-mmsys.cpl_.jpg)
 3. Go to the**Playback** tab and make sure your Astro A50 is the default output device and shows strong signals.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
 4. Test the audio.
 
@@ -72,6 +87,9 @@ If the problem remains, you can move on to the next method.
 
  There are two ways you can get the right drivers for your sound card: manually or automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Option 1: Update your sound card driver manually
 
  You can update your sound drivers manually by going to the manufacturer’s website for your sound card and searching for the most recent correct sound driver. Be sure to choose only drivers that are compatible with your variant of Windows 10.
@@ -84,6 +102,9 @@ If the problem remains, you can move on to the next method.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -104,6 +125,9 @@ If the problem remains, you can move on to the next method.
 2. Right-click your default playback device and click **Properties** .  
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
 

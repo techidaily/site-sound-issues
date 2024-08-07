@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing Lenovo Lack of Volume Solutions
-date: 2024-08-05 19:46:51
-updated: 2024-08-07 12:16:28
+date: 2024-08-06T09:17:39.477Z
+updated: 2024-08-07T09:17:39.477Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
 **SteelSeries Arctis 9** and**SteelSeries Arctis 9X** are premium gaming headsets that allow users to connect to the PC through the use of an adapter. Recently, quite a few players are reporting**the mic not working problem** on their**SteelSeries Arctis 9** **or 9X** gaming headsets. If you happen to be in the same boat, don’t worry. It is not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to fix SteelSeries Arctis 9/9X Mic Not Working on PC
 
  Here are five fixes that have helped other players resolve the SteelSeries Arctis 9/9X Mic Not Working on PC problem. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -34,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
  You should make sure the volume is set to an audible level, check that the adapter you use to connect your headset to the PC (such as bluetooth, Micro USB port or the Xbox dongle) is in working condition.
 
  SteelSeries Arctis 9/9X also has a hardware reset switch that allows you to reset the headphone. Press it and hold it down for around 1 second.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/arctis9.png)
 
  Once you have double-checked these items, test your mic to see if it’s working properly. If yes, then great! If the problem persists, please move on to **Fix 2** below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2: Update your audio drivers
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer and check if the mic not working on your SteelArctis 9/9X problem is resolved. If it’s no joy, head onto**Fix 3** , below.
 
@@ -61,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
  When you want to use mic, you should make sure that you give apps permission for access to your microphone. Otherwise, you’ll not be able to communicate from that specific app.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. On your keyboard, press the **Windows** **logo** **key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , and type**privacy** . Click on**Microphone privacy settings** when it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.png)
 2. In the **Allow Apps To Access Your Microphone** section, make sure the toggle is**On** .  
@@ -69,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-7.png)
 4. Test your mic to see if it’s working properly. If yes, congrats – you’ve resolved the issue! If the problem persists, please try**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Modify your audio settings
 
  You may not be able to hear any voice if you have misconfigured your audio settings.
@@ -76,10 +97,19 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 So in this fix, you can follow the steps below to check:
 
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/mmsys.cpl_.png)
 2. Click the **Recording** tab. Then make sure that your SteelSeries Arctis 9/9X mic is set as **Default Device** and click **Properties** (Here I just attach a screenshot as a reference of instruction).  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-17.png)
 3. In**Levels** , make sure you have slided the Digital Audio (S/PDIF) bar to an appropriate level. Then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123.png)
 4. Click the**Advanced** tab. Under the **Default Format** section, choose a different sample rate and bit depth and click **Test** . Repeat this process until you find a format that works for you. Then, make sure the box for **Allow application to take exclusive control of this deviice** is **unticked** . After that, click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1234-3.png)

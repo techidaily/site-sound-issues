@@ -1,7 +1,7 @@
 ---
 title: "Corsair HS35 Headset Mic Won't Work on Windows: Diagnosis and Fixes"
-date: 2024-08-05 11:13:59
-updated: 2024-08-07 11:20:32
+date: 2024-08-06T09:17:53.247Z
+updated: 2024-08-07T09:17:53.247Z
 tags:
   - win11
   - win10
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 ## Get Your Windows Groove Back: Why the Mic Isn't Working and How to Fix It
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db29239db22.png)
   
  Users have reported that they are having problems using their microphone on Windows 7 all of a sudden, which makes it impossible to communicate with others online if they want to use programs such as Skype.
@@ -39,9 +43,16 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
  1) Right click the volume icon and then choose**Playback devices** .
   
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db4f8a348e2.png)
 
  2) Navigate to Recording tab, then check if there is a green icon on your Microphone, which indicates that your microphone should be working properly.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db52bbcd86d.jpg)
   
  3) Noted that the Microphone here is set as**Default Device** . If yours doesn’t show as a Default Device, please select it and choose **Set Default.**
@@ -58,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
   
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
   
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56426d3c7.png)
   
  3) Then choose**Search automatically for updated driver software** .
@@ -66,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
   
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56c3a8acb.png)
   
  5) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Press the**Scan Now** button right in the middle.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db58bff02a9.png)
   
  6) Then press the**Update** button next to the audio driver that you have to get it updated automatically.

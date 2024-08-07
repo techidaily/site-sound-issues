@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silence: Resolving the Issue of Missing Audio in Cyberpunk 2077 for Windows 10 Users"
-date: 2024-08-05 15:16:20
-updated: 2024-08-07 11:15:17
+date: 2024-08-06T09:17:35.035Z
+updated: 2024-08-07T09:17:35.035Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
 
 ## Resolving Audio Glitches: Fixing Windows Press Microphones that Aren't Functioning Properly on Your PC
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db29239db22.png)
   
  Users have reported that they are having problems using their microphone on Windows 7 all of a sudden, which makes it impossible to communicate with others online if they want to use programs such as Skype.
@@ -54,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
   
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
   
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db560286c8c.png)
   
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
@@ -62,18 +68,30 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
   
  3) Then choose**Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db567b2d6cf.jpg)
   
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  
   
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56c3a8acb.png)
   
  5) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Press the**Scan Now** button right in the middle.
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db58bff02a9.png)
   
  6) Then press the**Update** button next to the audio driver that you have to get it updated automatically.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db59148e846.jpg)
 
  As you can see here, more device drivers needs an update so as to make sure that they stay at their peak performance. With the help of[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , you can update all of them by just pressing the**Update All** button. Fast and easily!

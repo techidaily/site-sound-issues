@@ -1,7 +1,7 @@
 ---
 title: Simple Repair Steps for Non-Functioning Hangouts Audio Input
-date: 2024-08-06 15:42:27
-updated: 2024-08-07 12:27:29
+date: 2024-08-06T09:17:54.606Z
+updated: 2024-08-07T09:17:54.606Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 ## Audio System Malfunction? Here’s How to Get Your Sounds Running Again
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa8e3647763.jpg)
 
  If your computer is having problems playing sound, and you receive the **One or more audio service isn’t running** error message, you’re not alone. Many Windows users have been reporting it. But the good news is you can fix it. This article gives you three fixes to try…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -31,15 +37,30 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
  Whenever you encounter the **One or more audio service isn’t running** problem, the first thing you should do is make sure the service in question is running. Here’s how to check the status of your audio services:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) **key** and **R** at the same time to invoke the Run box.
 2. Type**services.msc** and press**Enter** to open the**Services** window.  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
 4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
 5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
 6. Click**OK** , then close the Service window.
 7. Test by playing a song. If your problem still exists, try Fix 2, below.
@@ -75,6 +96,9 @@ OR
 
 1. Press the **Windows logo key** and **R** simultaneously to open the Run box.
 2. Type **devmgmt.msc** and click**OK** to access Device Manager.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)

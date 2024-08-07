@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Repairing Your Sound Blaster Mic When It Fails to Work
-date: 2024-08-04 12:58:26
-updated: 2024-08-07 10:15:35
+date: 2024-08-06T09:17:40.168Z
+updated: 2024-08-07T09:17:40.168Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/80487076e4697eef4efba80b6644ec3d63e792257
 
 Find your mic not working in Squad? That’s definitely annoying when you have trouble hearing other people or them hearing you. But don’t worry. After reading this post, you’ll learn how to fix this issue easily & quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
  Here are 5 tried-and-true fixes for Squad mic not working. You may not try them all. Simply work your way down the list until you find the one that does the trick.
@@ -49,6 +52,9 @@ Follow the steps here:
 1. At the bottom right corner of your desktop, right-click the**speaker icon** and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. Then right-click**other unnecessary audio devices** and**disable** them one by one.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-3-1.jpg)
 
 #### Step 2 – Set your main microphone as the default device
@@ -58,6 +64,9 @@ Follow the steps here:
 2. Right-click your microphone and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-5-1.jpg)
 3. Go to the**Levels** tab. Then,**drag the microphone volume slider to the max** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-6-2.jpg)
 
 #### Step 3 – Change the sample rate
@@ -65,18 +74,39 @@ Follow the steps here:
 1. On the Microphone Properties window, select the**Advanced** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-1.jpg)
 2. Select**2 channel, 16 bit, 48000 Hz (DVD Quality)** from the drop-down menu under Default Format. Then, click**OK** to apply the changes.  
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-2.jpg)
 
  If you’ve configured the microphone properly in Windows and still encounter the same problem, the next thing is to look at the in-game mic settings.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3 – Check the in-game settings
 
  For your headset mic to work in Squad, you also need to set it as the right input device in Steam. Here’s how:
 
 1. Launch your Steam client.
 2. Click**Friends** at the upper left corner and choose**View Friends List** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-0.jpg)
 3. Click the**cogwheel icon** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-1-1.jpg)
 4. Select**Voice** from the left pane. Then, make sure the microphone you’re actually using is set as the Voice Input Device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-2-2.jpg)
@@ -101,10 +131,16 @@ Follow the steps here:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -117,6 +153,9 @@ Follow the steps here:
  Missing or faulty game files can also cause random bugs in your game. So you can verify the integrity of game files to see if that helps your case.
 
 1. Launch Steam and click the**Library** tab.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-4.jpg)
 2. Right-click**Squad** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)

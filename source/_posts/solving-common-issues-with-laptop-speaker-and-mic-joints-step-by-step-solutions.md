@@ -1,7 +1,7 @@
 ---
 title: Solving Common Issues with Laptop Speaker & Mic Joints - Step-by-Step Solutions!
-date: 2024-08-04 20:20:39
-updated: 2024-08-07 12:32:56
+date: 2024-08-06T09:17:47.111Z
+updated: 2024-08-07T09:17:47.111Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to enable your**HDMI sound** ? Don’t panic. You’re definitely not alone. Many Windows users are reporting exactly the same issue. But most important of all, you can fix it quickly and easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Check NVIDIA Output Port Settings](https://tools.techidaily.com/drivereasy/download/)**
@@ -40,6 +43,9 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
  If you bump into HDMI no sound issues, you can check this article:  
 [How to Fix HDMI No Sound after Connecting Computer to Monitor and TV.](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update NVIDIA graphics driver
 
  In most cases, if this error persists, you may have faulty or outdated NVIDIA drivers installed. To fix it, you should update your NVIDIA graphics driver to the latest version. Although it seems like a sound card driver issue, many users solved the issue by updating their NVIDIA graphics driver.
@@ -51,13 +57,22 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
  To update your NVIDIA graphics driver manually, you’ll need to go to **[NVIDIA Driver Downloads](https://www.nvidia.com/Download/index.aspx?lang=en-us)**  of NVIDIA official website to download the latest & correct driver and install it manually.
 
 1. After NVIDIA automatically detects your system and graphics card, click**Search** . (If not, you need to enter all required information.)  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-downloads.jpg)
 2. Click the**DOWNLOAD** button.
 3. Double click the downloaded file and follow the onscreen instructions to extract it to your computer.  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/extract.jpg)
 4. After performing the system check, select only**NVIDIA Graphics Driver** . Then click**AGREE AND CONTINUE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/select.jpg)
 5. Select**Custom(Advanced)** \>**NEXT** .  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/installation-options.jpg)
 6. Be sure to tick the box next to**Perform a clean installation** , then click**NEXT** .  
  (You can uncheck the software you don’t need.)  
@@ -81,6 +96,9 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 3. Click the**Update** button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-all-your-drivers-3.jpg)
 4. Restart your computer for the changes to take effect.
 5. Go to Playback devices and see if the issue has been solved. Your audio output devices should be “ready” instead of “not plugged in” now.
@@ -94,11 +112,20 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 1. Right click the**Start** menu and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manger.png)
 2. Double click**Display Adapters** , then right click your graphics card driver and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/properties.png)
 3. Go to the**Driver** tab, and select**Roll Back Driver** if the option is not gray.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver.png)
 4. Follow the on-screen instructions to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Use the generic high definition audio device driver
 
  If working on your graphics card driver has no effect, you should try switching to the generic audio driver that Windows offers, especially for Intel-based computer users.

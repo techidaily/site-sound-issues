@@ -1,7 +1,7 @@
 ---
 title: "Top Solutions: Get Your WebEx Mic Up & Running"
-date: 2024-08-06 16:45:57
-updated: 2024-08-07 12:47:43
+date: 2024-08-06T09:17:41.065Z
+updated: 2024-08-07T09:17:41.065Z
 tags:
   - win11
   - win10
@@ -27,12 +27,19 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 2. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Enable Stereo Mix**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ##  Method 1: Make sure your computer sound is going through your sound card
 
  To ensure your Stereo Mix works well, all your audio output has to go through your sound card so that it can record the output. If your sound is sent around the sound card (using HDMI to output video and audio together, for example), your Stereo Mix is unable to work.
 
  To use Stereo Mix, you should make sure your computer sound is coming from your sound card. Connect your sound card directly to your speakers and set up the proper output. After that, check to see if your Stereo Mix works normally.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Method 2: Update your sound driver
 
  Your Stereo Mix may not be working properly if you’re using a wrong sound driver or it’s out of date. You should update your driver to see if this is able to resolve your problem. If you don’t have the time, patience or skills to update your driver, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -45,10 +52,16 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddea556a6b.png)
 
 **3)**  Click the **Update**  button next to the sound card to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddeecd0d61.jpg)
 
 ##  Method 3: Enable Stereo Mix
@@ -65,10 +78,16 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **3)** Right click**Stereo Mix** , then click**Enable** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde32cf0472.png)
 
 **4)** Right click**Stereo Mix** , then click**Set as Default Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde42a1495a.png)
 
 **5)** Click**OK** , then check to see if you’re able to record audio on your computer with Stereo Mix.

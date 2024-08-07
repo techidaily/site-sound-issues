@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Silent Skype Conversations: Effective Strategies Inside"
-date: 2024-08-04 22:41:38
-updated: 2024-08-07 10:54:33
+date: 2024-08-06T09:18:04.297Z
+updated: 2024-08-07T09:18:04.297Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
 ## 'Back 4 Blood': Overcoming Voice Chat Failures - Effective Solutions Inside
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/back-4-blood.jpg)
 
  Voice chat not working in Back 4 Blood? You’re not alone. Recently many players have reported the very same issue. But don’t worry. In this post, we’ve got you covered with some working fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -36,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 1. On your keyboard, press the**Windows logo key** and**I** together to open**Windows Settings** . Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/settings-privacy.jpg)
 2. In the left panel, select**Microphone** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/settings-privacy-microphone.jpg)
 3. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** , and the status is**On** for**Back 4 Blood** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/tun-on-allow-apps-to-access-your-microphone.jpg)
@@ -68,25 +78,43 @@ If the in-game voice chat is still not working, try the next fix.
  If you don’t have the correct audio devices set in Windows and Steam, your microphone or headset may not work properly. To ensure the voice chat works properly, you’ll need to set your audio device as the default device. Here’s how:
 
 1. On your keyboard, press the**Windows logo key** and**R** together to open the Run dialog box. Then type**mmsys.cpl** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headset** you want to use and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Click the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Launch Steam. At the bottom-right corner of the Steam client, click**FRIENDS & CHAT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-friends-chat.jpg)
 5. In the pop-up window, click**the gear icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/friends-chat-gear.jpg)
 6. Select**VOICE** . In**VOICE INPUT DEVICE** , select the microphone you set as the default device in step 3). In**VOICE OUTPUT DEVICE** , select the headset you set as the default device in step 2).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-voice-set.jpg)
 7. Launch Back 4 Blood again to see if the voice chat is working properly.
 
 If the issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Fix 4: Connect your microphone directly to your controller
 
  Some console players have found that the voice chat may not work if you’ve your headset connected through a Mixamp. To ensure the voice chat works properly in Back 4 Blood, you might need to connect your microphone directly to your controller.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Reinstall Back 4 Blood
 
  If none of the fixes above solve your chat problem, try uninstalling and reinstalling Back 4 Blood as a last resort. Here’s how:

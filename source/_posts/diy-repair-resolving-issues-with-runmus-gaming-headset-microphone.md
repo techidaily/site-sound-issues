@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair: Resolving Issues with Runmus Gaming Headset Microphone"
-date: 2024-08-06 11:23:20
-updated: 2024-08-07 12:54:41
+date: 2024-08-06T09:17:49.934Z
+updated: 2024-08-07T09:17:49.934Z
 tags:
   - win11
   - win10
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 3. **[Reinstall Logitech Gaming Software](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Allow access to your headset microphone (for Windows 10 users)](https://www.drivereasy.com/knowledge/logitech-g533-mic-not-working-solved/#fix4)**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1 – Check your microphone settings
 
  To troubleshot your Logitech G533 microphone not working issue, you should first make sure it’s correctly configured on your PC.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 4. If your Logitech G533 microphone is disabled, right-click it and click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-4-1.jpg)
 5. Make sure the microphone is set as the default device. If not, click it and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-5.jpg)
 6. Right-click your microphone and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7.jpg)
@@ -49,16 +55,25 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2 – Update your audio driver
 
  If you’re using the wrong audio driver or it’s out of date, the Logitech G533 headset microphone won’t function properly. So you should update your audio driver to see if it fixes the problem. Here are two options you can get the latest and right audio driver in a safe way: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1 – Manually download and install the driver
 
  Logitech keeps updating drivers for its devices. All you need is go to the **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install it.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Option 2 – Automatically update the driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your audio driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 3. Click the **Update**  button next to the flagged _Logitech G533 driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-6.jpg)
 
  Check how your Logitech G533 headset microphone works after the driver update. Still no luck? Then try the next fix below.
@@ -85,8 +103,14 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 2. Type**appwiz.cpl** in the field and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-3.jpg)
 3. Click**Logitech Gaming Software** and click**Uninstall/Change** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-1.jpg)
 4. Follow the on-screen instructions to completely uninstall the program.
 5. Go to **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  . Then find the latest version of Logitech Gaming Software that is suitable for your operating system and click**Download Now** .  
@@ -99,14 +123,23 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4 – Allow access to your headset microphone (for Windows 10 users)
 
  You need to allow your Windows 10 system and application to access the headset microphone before you can use it as intended. Here is how to check and modify these settings:
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to enter the Windows settings menu.
 2. Click**Privacy** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-7.jpg)
 3. Click**Microphone** on the left pane. Then, click the**Change** button, and make sure Microphone access for this device is**On** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-6.jpg)
 4. Make sure**Allow apps to access your microphone** is turned**on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)

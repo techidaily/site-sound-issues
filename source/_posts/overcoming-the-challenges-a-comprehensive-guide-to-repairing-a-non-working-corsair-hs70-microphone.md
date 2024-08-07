@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Challenges: A Comprehensive Guide to Repairing a Non-Working Corsair HS70 Microphone"
-date: 2024-08-06 13:32:56
-updated: 2024-08-07 11:42:32
+date: 2024-08-06T09:17:55.195Z
+updated: 2024-08-07T09:17:55.195Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 External speakers such as Creative Pebble speakers are engineered with clear dialog audio processing to give us rich and clear dialog. But sometimes you may run into the issue that your speakers aren’t working. That’s indeed frustrating but it’s fixable. In this post, we’ll show you how.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to fix Creative Pebble speakers not working](https://images.drivereasy.com/wp-content/uploads/2021/03/featured-image-1.jpg)
 
  Before attempting the other troubleshooting steps in this article, we suggest you restart your computer and test the audio to check if the problem is resolved. Becuase chances are, an application may be controlling your device or preventing other applications from using it.
@@ -31,6 +34,9 @@ External speakers such as Creative Pebble speakers are engineered with clear dia
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Install all Windows updates
 
  Windows updates are used to keep Microsoft Windows and several other Microsoft programs updated. They often include feature enhancements and security updates to protect Windows from the malware attacks which would probably lead to sound failures. Therefore, you should download and install the latest Windows updates to check if this helps you fix the issue.
@@ -39,6 +45,9 @@ Here’s how you can do this:
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
@@ -55,6 +64,10 @@ Here’s how you can do this:
 
 1. From the bottom-right corner of your screen, right-click on the Speaker icon and select**Open Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
@@ -62,6 +75,9 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 3\. Update your sound driver
 
  If you are experiencing audio issues, you may need to check if your sound card driver is outdated or faulty. Using outdated drivers can affect performance and you may lack certain features required for the speakers to function properly. Therefore, you need to update your sound driver as this may solve your issue immediately.
@@ -74,6 +90,9 @@ Here’s how to update drivers with Driver Easy:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -94,6 +113,9 @@ Here’s how to update drivers with Driver Easy:
 
 1. In the search box on the taskbar, type**audio troubleshooter** . Then click**Find and fix problems with playing sound** from the results.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
 2. Select your device and click**Next** to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
@@ -102,6 +124,14 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 5\. Contact the customer service
 
  If, unfortunately, none of the methods listed above worked for you but other speakers are working normally on your computer, then your creative pebble speakers may be broken. In this case, you’re supposed to[contact](https://us.creative.com/contactus/) the customer service for a replacement or repair if your device is still within warranty. Otherwise, you may need to invest in the new speakers.

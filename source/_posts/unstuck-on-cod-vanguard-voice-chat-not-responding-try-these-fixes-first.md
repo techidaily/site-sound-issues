@@ -1,7 +1,7 @@
 ---
 title: "Unstuck on Cod: Vanguard Voice Chat Not Responding? Try These Fixes First"
-date: 2024-08-05 10:22:50
-updated: 2024-08-07 12:18:32
+date: 2024-08-06T09:18:05.759Z
+updated: 2024-08-07T09:18:05.759Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Randomly can’t hear anyone on Discord? You’re not alone. This can happen whe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/how-to-fix-cant-hear-anyone-on-Discord-1200x396.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Fix 1: Refresh your Discord app
 
  Sometimes the problem is temporary and performing a refresh on the Discord app can fix it. To do this, simply press the**Ctrl+R** key to automatically refresh and reboot the app. This will trigger an update. Once done, check if you can hear people now.
@@ -37,6 +41,9 @@ If that didn’t work, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Fix 2: Use Legacy Audio Subsystem
 
  There are instances where there’s an incompatibility between your hardware and Discord’s latest subsystem. Therefore, it’s recommended to revert to Legacy Audio Subsystem to fix the issue. To do this, follow these steps:
@@ -47,6 +54,10 @@ If that didn’t work, proceed to the next fix.
 
  2) On the left pane, select**Voice & Video** . Scroll down to the**AUDIO SUBSYSTEM** section. Click on the down arrow and select**Legacy** .  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
 
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
@@ -57,6 +68,9 @@ Once Discord reboots, check to see if the problem is resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Update your audio driver
 
  An audio driver is an essential piece of software that lets your system communicate with your sound card. If it is outdated or misconfigured, it will cause noticeable performance problems. Therefore, you would need to update your audio driver.
@@ -75,6 +89,9 @@ Here’s how to update drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
@@ -113,6 +130,9 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Use the correct output device
 
  If you are not using the correct output device, you definitely can’t hear anyone on Discord. To check if that’s your case, take these steps:
@@ -123,6 +143,9 @@ Here’s how to update drivers with Driver Easy:
 
  2) On the left pane, select**Voice & Video** . Under the**OUTPUT DEVICE** section, click on the down arrow and select your output device instead of Default.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
 
  3) Exit the Settings and you should be able to hear something from Discord.
@@ -135,6 +158,9 @@ Here’s how to update drivers with Driver Easy:
 
  2) Type**taskmgr** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
  3) Under the**Processes** tab, navigate to your game. Right-click it and select**Go to details** . Then you’ll be directed to the**Details** tab and your game will be highlighted. Till then, right-click it and select**Set priority > Normal/ Realtime** .

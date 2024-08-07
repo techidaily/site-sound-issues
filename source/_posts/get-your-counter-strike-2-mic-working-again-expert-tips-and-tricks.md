@@ -1,7 +1,7 @@
 ---
 title: Get Your Counter-Strike 2 Mic Working Again - Expert Tips & Tricks
-date: 2024-08-05 17:41:33
-updated: 2024-08-07 10:30:23
+date: 2024-08-06T09:17:28.295Z
+updated: 2024-08-07T09:17:28.295Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ Communication is key in Counter-Strike 2, allowing you to provide valuable callo
 * **Outdated audio drivers** : If your audio drivers are outdated or incompatible, they can cause mic issues. Keeping them updated is essential.
 * **Conflicts with other apps** : Too many apps running in the background can interfere with your mic input in CS2.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/how-to-fix-Counter-Strik-2-mic-not-working-problem-1200x675.jpg)
 
 ## How to fix CS2 mic not working
@@ -45,6 +48,9 @@ Communication is key in Counter-Strike 2, allowing you to provide valuable callo
 
  The screenshots shown below come from Windows 11\. If you’re running Windows 10, your screen might look slightly different. But the steps you take will remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Check if it’s a hardware issue
 
  To isolate the problem, you should check if your microphone or headset is broken.
@@ -59,6 +65,9 @@ Communication is key in Counter-Strike 2, allowing you to provide valuable callo
 
  If you’re sure that your microphone is functioning well but your teammates still cannot hear you, you’ll need to tweak some settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### 2\. Make sure your mic is set as the default input device
 
  Sometimes, your microphone may not be set as the default input device, both on your operating system’s sound settings and in-game settings.
@@ -69,6 +78,9 @@ Follow the steps below to check it.
 
 1. Press the**Windows logo key** , then type**Sound settings** . Click it from the list of results.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows 11 - Open sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Open-sound-settings.jpg)
 2. In the section of**Choose a device for speaking or recording** , select the correct microphone device.  
 
@@ -87,6 +99,9 @@ Follow the steps below to check it.
 
 1. On Steam, locate your game title and click**PLAY** .  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Counter-Strike 2 PLAY](https://images.drivereasy.com/wp-content/uploads/2023/11/Counter-Strike-2-PLAY.jpg)
 2. Now press the**Shift + Tab** keys simultaneously. Then click the**gear icon** in the bottom right corner of your screen. Select**Voice** from the left panel. Find**Voice Input Device** and make sure that your headset or microphone is selected, instead of making it set as default.  
 
@@ -94,6 +109,10 @@ Follow the steps below to check it.
 
  Scroll a bit and find**Voice Transmission Threshold** . Select**Off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Counter-Strike 2 - Voice Transmission Threshold - Off](https://images.drivereasy.com/wp-content/uploads/2023/11/Counter-Strike-2-Voice-Transmission-Threshold-Off.jpg)
 
  After making these changes, test your microphone. If your problem persists, no worries! Below are some other fixes for you to try.
@@ -116,6 +135,9 @@ Follow the steps below to check it.
 
  If you confirm that both Steam and your game have access to your microphone but your issue still occurs, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### 4\. Close unused background processes
 
  Too many programs accessing the mic can step on each other’s toes. To reduce conflicts, try to shut down background apps that can access the mic like Discord, Skype, VR clients, etc. Fewer apps accessing the mic reduces interference.
@@ -123,9 +145,15 @@ Follow the steps below to check it.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**taskmgr** and hit Ener to open the Task Manager.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Right-click the process that you don’t need to run while playing CS2 and select**End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Discord-End-task.jpg)
 
  Close the window after you’re done and relaunch CS2 to check if your problem is solved.
@@ -136,6 +164,10 @@ Follow the steps below to check it.
 
 1. On your keyboard, press the**Windows logo key** , then type**check for updates** . Open the settings**Check for updates** from the list of results.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Start-menu-Check-for-udpates.jpg)
 2. When the updates are available, simply click on the button**Download & install** .  
 
@@ -143,6 +175,9 @@ Follow the steps below to check it.
 
  Or click on the**Check for updates** button and follow the on-screen instructions to download the latest updates for your system. You’ll be asked to restart your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  After the reboot, test your microphone and see if your teammates can hear you. If your problem persists, go to the next fix.
@@ -163,6 +198,9 @@ Follow the steps below to check it.
 
  This requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is download them one at a time and manually install them.  
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/update-audio-driver-automatically-with-Driver-Easy.png)
 
  If you need any assistance, do not hesitate to reach out to our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -177,18 +215,27 @@ After downloading and installing driver updates, reboot your device.
 
 1. On your keyboard, press the**Windows logo key** , then type**create a restore point** . Click**Create a restore point** from the list of results.  
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-create-a-restore-point.jpg)
 2. Click**System Restore** .  
 
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-System-Restore.jpg)
 3. Click**Next** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Restore-system-files-and-settings.jpg)
 4. Select the restore point that you want to use from the list of results, then click**Scan for affected programs** .  
 
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Scan-for-affected-programs.jpg)
 5. You will see a list of items that will be deleted if you restore to this restore point. If you’re OK with the deletions, select**Close** to proceed.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-Programs-and-drivers-that-will-be-deleted.jpg)  
 
  If this is not what you’re going to restore, go back to the previous step to select another restore point.
@@ -197,6 +244,9 @@ After downloading and installing driver updates, reboot your device.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Restore-your-computer-to-the-state-it-was-in-before-the-selected-event.jpg)
 7. Confirm your restore point and click**Finish** . Then click**Yes** to start restoring the system from the restore point.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-your-restore-point.jpg)  
 
  Wait for the process to complete and your computer will be restarted.
@@ -209,6 +259,9 @@ To do this, all you have to do is:
 
 1. Open Steam. Under**LIBRARY** , right-click your game and select **Properties**  from the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Counter-Strike-2-properties.jpg)
 2. Select the **Installed Files**  tab and click on the **Verify integrity of game files**  button.  
 
@@ -217,6 +270,9 @@ To do this, all you have to do is:
 
  When the verification process is finished, get into your gameplay and check if your in-game mic is working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. Repair system files
 
  If all else fails, it’s time to dig something deeper. You should check if you have any corrupted system files that may be disrupting proper audio input. System file errors could prevent microphone data from being processed correctly.
@@ -229,9 +285,16 @@ To fix it, run the System File Checker scan:
 2. Click**Yes** when you receive the UAC prompt.
 3. Type**sfc /scannow** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 4. If damaged files are found, run **DISM /Online /Cleanup-Image /RestoreHealth**  to repair them.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-DISM-Online-Cleanup-Image-RestoreHealth.jpg)
 
  This built-in tool can detect and replace corrupt operating system files. However, it is limited in scope and may miss some problems. In this situation, you might need a more advanced repair tool – **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to help you.

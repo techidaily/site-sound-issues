@@ -1,7 +1,7 @@
 ---
 title: "Solved: Troubleshooting Steps for a Non-Functional Corsair HS60 Headset Microphone"
-date: 2024-08-05 11:43:15
-updated: 2024-08-07 11:44:14
+date: 2024-08-06T09:17:50.643Z
+updated: 2024-08-07T09:17:50.643Z
 tags:
   - win11
   - win10
@@ -35,16 +35,25 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### Fix 1: Check your Sound settings
 
  Usually Windows will identify your plugged-in headset as the default playback/recording device, but that’s not always the case. To see if there’s anything wrong with the settings for your Razer ManO’War, please perform the following procedure:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  1) Click the speaker icon![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-26_14-41-05.jpg) in the notification area of your task bar. Then click**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-101.png)
 
  2) Go to the**Recording** tab, right-click an empty area inside the devices’ display list, and then tick**Show Disabled Devices** to ensure that your headset shows up.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
  3) Click to highlight**Razer ManO’War** , then click**Set Default > Default Device** .
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
  4) Right-click**Razer ManO’War** and select**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-106.png)
 
  On the**Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click**OK** .
@@ -69,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Modify Privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, some programs (e.g. a video game) might be forbidden to access your mic. Here’s how to check and modify these settings:
@@ -85,12 +100,18 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
  3) Scroll down and head to the part of **Choose which apps can access your microphone** . Make sure you**toggle on** the apps in which you want to use the mic.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 If this fix didn’t help, please try out the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Reinstall Razer Synapse
 
  Razer Synapse is a piece of configuration software developed by Razer to help you better control your Razer peripherals. To know more about its features, please refer to the[**official introduction**](https://www.razer.com/synapse-2#:~:targetText=Razer%20Synapse%20is%20our%20unified,settings%20automatically%20to%20the%20cloud.) of Razer Synapse.
@@ -119,6 +140,9 @@ If this fix didn’t help, please try out the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your device drivers
 
  Sometimes an out-dated or corrupt device driver (e.g., audio drivers, CPU drivers) may give rise to the mic-not-working issue. The reasons can hardly be elaborated, but chances are your Razer ManO’War mic may be messed up with its drivers or those of other hardware components. If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -133,10 +157,16 @@ If this fix didn’t help, please try out the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your audio driver for now, simply click the **Update**  button next to it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -145,6 +175,9 @@ If this fix didn’t help, please try out the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Check for hardware malfunction
 
  If none of the above fixes work, you should do some basic check and find out whether your Razer ManO’War mic fails. Here’s something you may need to do:

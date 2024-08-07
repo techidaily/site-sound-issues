@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Restore Audio in Your Headphones on Windows 11"
-date: 2024-08-05 16:31:30
-updated: 2024-08-07 11:52:22
+date: 2024-08-06T09:18:02.445Z
+updated: 2024-08-07T09:18:02.445Z
 tags:
   - win11
   - win10
@@ -21,6 +21,9 @@ This post provides you with some of the most effective methods that will help yo
 [**Step Two: Troubleshoot Possible Audio Problem**](https://tools.techidaily.com/drivereasy/download/)
 [**Step Three: Check Hardware**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b1f5cc45b.png)
 
  **Step One: Set Your Headphone** **as Default Device**
@@ -29,6 +32,9 @@ This post provides you with some of the most effective methods that will help yo
 
  1) Right-click the volume icon and then choose**Playback devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b25760043.png)
 
  2) Click the empty space and make sure that you have selected both of the options: **Show Disconnected Devices** and**Show Disabled Devices** .
@@ -37,10 +43,16 @@ This post provides you with some of the most effective methods that will help yo
 
  3) See if you spot the name of your headphone and speakers. If you can see the name of your headphone listed here, and there is a green icon on the corner of the device, then you should be good to go.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b68c79f52.png)
 
  4) If the icon here is grey, please right-click it and choose**Enable** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b6c77f069.png)
 
 **Step Two: Troubleshoot Possible Audio Problem**
@@ -49,10 +61,17 @@ This post provides you with some of the most effective methods that will help yo
 
  1) Click the**Start** button, then choose**Control Panel** . On the search box of the Control Panel, type in**troubleshooting** and select**Troubleshooting** from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b87be4771.png)
 
  2) Choose**Hardware and Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b99e78e85.jpg)
 
  3) Then choose**Playback Audio** .

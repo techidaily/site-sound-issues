@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Recent System Glitches: Expert Tips for Fixing Sounds"
-date: 2024-08-06 12:47:43
-updated: 2024-08-07 12:21:59
+date: 2024-08-06T09:17:47.281Z
+updated: 2024-08-07T09:17:47.281Z
 tags:
   - win11
   - win10
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
  1) Right click the volume icon and then choose**Playback devices** .
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db4f8a348e2.png)
 
  2) Navigate to Recording tab, then check if there is a green icon on your Microphone, which indicates that your microphone should be working properly.
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
   
  3) Noted that the Microphone here is set as**Default Device** . If yours doesn’t show as a Default Device, please select it and choose **Set Default.**
   
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db55263a687.jpg)
   
  **Step 3: Update Audio Driver**
@@ -54,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
   
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db560286c8c.png)
   
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
@@ -62,10 +71,16 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
   
  3) Then choose**Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db567b2d6cf.jpg)
   
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  
   
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56c3a8acb.png)
   
  5) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Press the**Scan Now** button right in the middle.
@@ -74,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
   
  6) Then press the**Update** button next to the audio driver that you have to get it updated automatically.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db59148e846.jpg)
 
  As you can see here, more device drivers needs an update so as to make sure that they stay at their peak performance. With the help of[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , you can update all of them by just pressing the**Update All** button. Fast and easily!

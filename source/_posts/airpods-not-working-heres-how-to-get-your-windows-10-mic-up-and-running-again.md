@@ -1,7 +1,7 @@
 ---
 title: AirPods Not Working? Here's How to Get Your Windows 10 Mic Up & Running Again
-date: 2024-08-06 11:33:20
-updated: 2024-08-07 10:15:32
+date: 2024-08-06T09:17:38.307Z
+updated: 2024-08-07T09:17:38.307Z
 tags:
   - win11
   - win10
@@ -39,6 +39,9 @@ If the issue still exists, move to the below fixes.
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 4. [Use a Bluetooth adapter](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Set as default communications device
 
  To make your AirPods mic work, you have to set it as default communications device.
@@ -46,8 +49,15 @@ If the issue still exists, move to the below fixes.
 1. Right-click on the**sound** icon then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-41-45.jpg)
 2. In the**Playback** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
 3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
 4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
@@ -62,10 +72,16 @@ There’re 2 ways to update drivers, manually and automatically.
 
 1. On your keyboard, press the **Windows logo key** and**R** at the same time to invoke the Run box.  
  Then, type**devmgmt.msc** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Click **Bluetooth** to expand the category. Right-click your Bluetooth adapter and select **Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Restart your PC and check your AirPods mic.
@@ -78,6 +94,9 @@ There’re 2 ways to update drivers, manually and automatically.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
@@ -88,6 +107,9 @@ There’re 2 ways to update drivers, manually and automatically.
 
 If it’s not working, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Install Windows updates
 
  Microsoft releases Windows 10 updates to fix certain issues and offer new features. Many times, users find their problems were solved after running Microsoft Windows updates, and there’re users have reported the mic started working after updating Windows 10 to the latest build.
@@ -95,6 +117,9 @@ If it’s not working, move to the next fix.
 So follow the steps below to install the latest Windows updates.
 
 1. Press the **Windows logo key** and**I** at the same time on your keyboard to open Windows Settings. Then, click **Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. In the Windows Update panel, click **Check for updates** . Windows will check and download the latest available patches automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  

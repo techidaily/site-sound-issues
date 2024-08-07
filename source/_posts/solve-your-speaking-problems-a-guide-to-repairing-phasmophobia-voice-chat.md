@@ -1,7 +1,7 @@
 ---
 title: "Solve Your Speaking Problems: A Guide to Repairing Phasmophobia Voice Chat"
-date: 2024-08-05 18:21:27
-updated: 2024-08-07 12:55:53
+date: 2024-08-06T09:17:28.540Z
+updated: 2024-08-07T09:17:28.540Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
  If you’re also experiencing this Stereo Mix not working issue, don’t worry. The following are a few methods that have helped many users.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +30,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 2. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Enable Stereo Mix**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Method 1: Make sure your computer sound is going through your sound card
 
  To ensure your Stereo Mix works well, all your audio output has to go through your sound card so that it can record the output. If your sound is sent around the sound card (using HDMI to output video and audio together, for example), your Stereo Mix is unable to work.
@@ -45,10 +51,16 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddea556a6b.png)
 
 **3)**  Click the **Update**  button next to the sound card to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddeecd0d61.jpg)
 
 ##  Method 3: Enable Stereo Mix
@@ -65,10 +77,16 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **3)** Right click**Stereo Mix** , then click**Enable** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde32cf0472.png)
 
 **4)** Right click**Stereo Mix** , then click**Set as Default Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde42a1495a.png)
 
 **5)** Click**OK** , then check to see if you’re able to record audio on your computer with Stereo Mix.

@@ -1,7 +1,7 @@
 ---
 title: "Uncover the Reasons Behind Your Mic’s Failure to Record: Expert Diagnosis and Fixes"
-date: 2024-08-06 13:10:50
-updated: 2024-08-07 11:50:27
+date: 2024-08-06T09:17:56.506Z
+updated: 2024-08-07T09:17:56.506Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c
 
 You care about stunning sound quality but find that you can’t use the microphone. If you’re one of those who’re experiencing Sound Blaster microphone not working issues, you’ll learn how to fix it in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Make sure your mic is not muted](https://tools.techidaily.com/drivereasy/download/)**
@@ -36,12 +39,18 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Check if your microphone is physically muted on your headset switch or inline mute. Sometimes you may accidentally flip mute.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/SRX3flipmute.png)
 
  3) If you’re using a 6.3mm microphone, make sure that there’s no microphone connected to the 3.5mm microphone port and vice versa.
 
  4) Now you can test your microphone again.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Allow your device and apps to access the microphone
 
  Another cause of the Sound Blaster mic not working is that your PC can’t access your microphone. Here’s how to allow microphone access for your device:
@@ -66,6 +75,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  Or you can check**Playback** \>**Direct Mode** in Sound Blaster Command software, and make sure it’s turned**Off** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/direct-mode.jpg)
 
  2) Go to the**Recording** tab, make sure the microphone is not muted in Sound Blaster Command and has an adequate volume level. Tick**Listen to this device** under**Microphone/Headset (Mic)** to verify Mic function.
@@ -82,6 +94,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Go to the**Recording** tab, choose**External Mic** . Set**Line In** as the default device if you’re using a Line-in source.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set as the default](https://images.drivereasy.com/wp-content/uploads/2021/04/save.jpg)
 
  3) Right-click and select**Properties** .
@@ -90,6 +105,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  5) Then go to the**Advanced** tab, and select**2 channel, 16 bit, 48000 Hz (DVD Quality)** for the**Default Format** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-all-boxes.jpg)
 
 6) Check all the boxes below.
@@ -110,6 +128,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3) Click the**Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -123,6 +144,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Reinstall Sound Blaster Command
 
  If the Sound Blaster mic not working persists, there might be some issues with your software.
@@ -135,6 +159,10 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  3) Press the**Windows** key +**R** to open the Run box, and enter**appwiz.cpl** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
  4) Right-click Sound Blaster Command and select**Uninstall** .

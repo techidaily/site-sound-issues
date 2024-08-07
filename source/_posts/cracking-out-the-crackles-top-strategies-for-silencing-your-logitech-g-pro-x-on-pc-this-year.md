@@ -1,7 +1,7 @@
 ---
 title: "Cracking Out the Crackles: Top Strategies for Silencing Your Logitech G Pro X on PC This Year"
-date: 2024-08-05 22:59:22
-updated: 2024-08-07 12:11:54
+date: 2024-08-06T09:17:38.318Z
+updated: 2024-08-07T09:17:38.318Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Solution 1: Check if all hardware devices work properly
 
  Broken hardware devices probably cause HDMI not to work. So before moving on to other solutions, check if all hardware devices work properly:
@@ -38,13 +42,26 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Solution 2: Set HDMI Device as Default Device
 
  If the HDMI device is not set as default device, you cannot hear the sound from HDMI output. Follow steps below to set the HDMI device as Default Device:
 
 1. Right-click on the sound volume icon in the lower right corner of Windows. A context menu will pop up. Click **Playback devices** .  
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59a3d159c97f2.png)
 2. In the**Playback** tab, select**Digital Output Device** or**HDMI** option. Click**Set Default** and click**OK** . Then the HDMI sound output will be set as default.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-29.png)
 
  If you do not see the Digital Output Device or HDMI option in the Playback tab, right-click on the blank place, then click Show disconnected devices and Show disabled devices on the context menu. Then set it as the default device.
@@ -78,8 +95,14 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Solution 4: Switch to ChromeOS
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).

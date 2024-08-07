@@ -1,7 +1,7 @@
 ---
 title: Can Stress Cause Me to Hear Voices?
-date: 2024-08-05 14:33:23
-updated: 2024-08-07 11:23:26
+date: 2024-08-06T09:17:50.909Z
+updated: 2024-08-07T09:17:50.909Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 3. [**Update the sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 1: Troubleshoot the connection
 
  The first thing you need to try is to make sure the headset’s volume wheel is set to a reasonable value.
@@ -50,8 +53,15 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 #### 1\. Check Volume mixer settings
 
 1. Right-click the **volume icon** at the bottom right corner, and click **Open Volume mixer** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/02/open-volume-mixer.jpg)
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
 3. Now test and see if there is any sound from your Astro A50.
 
@@ -61,6 +71,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. Type**mmsys.cpl** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/win11-mmsys.cpl_.jpg)
 3. Go to the**Playback** tab and make sure your Astro A50 is the default output device and shows strong signals.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
 4. Test the audio.
 
@@ -76,6 +89,9 @@ If the problem remains, you can move on to the next method.
 
  You can update your sound drivers manually by going to the manufacturer’s website for your sound card and searching for the most recent correct sound driver. Be sure to choose only drivers that are compatible with your variant of Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Option 2: Update your sound card driver automatically (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -100,10 +116,19 @@ If the problem remains, you can move on to the next method.
  Most of the time, Audio Enhancement makes your system sound perfect, but things can go wrong sometimes. To fix your Astro A50 no sound issue, you can follow these steps:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time. Type in **mmsys.cpl** and press **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
 

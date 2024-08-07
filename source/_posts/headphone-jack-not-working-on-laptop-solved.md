@@ -1,7 +1,7 @@
 ---
 title: Headphone Jack Not Working On Laptop [SOLVED]
-date: 2024-08-04 20:46:34
-updated: 2024-08-07 10:50:35
+date: 2024-08-06T09:17:46.856Z
+updated: 2024-08-07T09:17:46.856Z
 tags:
   - win11
   - win10
@@ -40,12 +40,19 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
  If your sound isn’t muted but sound won’t work properly, don’t worry. Move on to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 2: Check headphones or speakers work properly
 
  If the sound problem occurs when headphones or speakers are plugged in to your laptop, make sure your headphones or speakers are working properly.
 
  You can try to plug your headphones or speakers to another laptop, and see if it works properly. If they are not working at all, then it looks like a hardware problem on your headphones or speakers, and you should head to the manufacturer; if they work perfectly when plugging on another laptop, then the problem lies in your Toshiba laptop, and you can move to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Fix 3: Make sure your audio device is enabled
 
  If your audio device has been disabled in Windows, anything related to the sound won’t work at all. So you should check and make sure the audio device in your Toshiba laptop is enabled.
@@ -60,14 +67,23 @@ Here are the instructions:
 
  3) Double click**Sound, video and game controllers** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-743.png)
 
  4) Right click on your**audio device** (in my case it’s AMD High Definition Audio Device), and click**Enable device** .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-745.png)
 
  If you see**Disable device** in the right-click context menu, it means that your audio device is enabled already. Then you can click**Disable device** then**Enable device** to re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-744.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-745.png)
@@ -76,6 +92,9 @@ Here are the instructions:
 
 Your sound problem still persists? Move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  An audio driver problem can result in your sound not working. For instance, if your audio driver is missing or corrupted, your laptop won’t play any sound at all. To rule it out as the cause, you can update your audio driver to the latest version.
@@ -102,6 +121,9 @@ Your sound problem still persists? Move to the next method.
 
 Now try playing sound in your laptop and your problem should be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Run the sound troubleshooter
 
  Windows has introduced the built-in troubleshooter which allows Windows users to troubleshoot the hardware problem and try to fix it. So if sound is not working in your Toshiba laptop, you can run the Windows troubleshooter and see if helps resolve your problem.
@@ -110,6 +132,9 @@ Here’s what you can do:
 
  1) Type**Control Panel** in the search bar on your desktop, and click**Control Panel** to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-540.png)
 
  2) Ensure to choose**View by Large icons** or**View by Small icons** , and click**Troubleshooting** .
@@ -118,10 +143,16 @@ Here’s what you can do:
 
  3) Click**Hardware and Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-543.png)
 
  4) Click**Playing Audio** to find and fix problems with playing sound.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-544-1024x578.png)
 
  5) Click**Next** .
@@ -146,14 +177,28 @@ Still no luck? Don’t give up hope.
 
  2) Ensure to choose**View by Large icons** or**View by Small icons** . Then click**Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-749-1024x575.png)
 
  3) In the**Playback** tab, right click the empty area and select**Show Disabled Devices** and**Show Disconnected Devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-752.png)
 
  4) From the list of the playback device, select your audio device and click**Set Default** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-755.png)
 
  Ensure there’s a**green check mark** next to your audio device.
@@ -174,6 +219,9 @@ If this step doesn’t work, try step 2.
 
  2) Ensure to choose**View by Large icons** or**View by Small icons** . Then click**Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-750-1024x575.png)
 
  3) In the**Playback** tab, right click the empty area and select**Show Disabled Devices** and**Show Disconnected Devices** .
@@ -192,14 +240,23 @@ Once completed, play sound and see if it works.
 
  1) Type**Control Panel** in the search bar on your laptop, and click**Control Panel** to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-540.png)
 
  2) Ensure to choose**View by Large icons** or**View by Small icons** . Then click**Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-751-1024x575.png)
 
  3) In the**Playback** tab, right click the empty area and select**Show Disabled Devices** and**Show Disconnected Devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-754.png)
 
  4) From the list of the playback device, select your audio device and click**Properties** .

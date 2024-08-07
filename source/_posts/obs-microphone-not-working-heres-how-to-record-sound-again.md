@@ -1,7 +1,7 @@
 ---
 title: OBS Microphone Not Working? Here's How to Record Sound Again
-date: 2024-08-04 21:36:29
-updated: 2024-08-07 11:35:29
+date: 2024-08-06T09:17:45.280Z
+updated: 2024-08-07T09:17:45.280Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Fix 1 – Unmute OBS
 
  If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. So the first troubleshooting step is to check your Volume Mixer.
@@ -66,18 +73,30 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 **4)** In the Playback tab, click the device (speaker or headset) you’re using and click**Set Default** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-5.jpg)
 
 **5)** Click the device and click**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-5.jpg)
 
 **6)** Select the**Levels** tab. Then, make sure**the device is not muted** and**drag the slider** to turn up its volume.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-4.jpg)
 
 **7)** Select the**Advanced** tab, and untick**Allow applications to take exclusive control of this device** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-6.jpg)
 
 **8)** Click**OK** to save the changes.
@@ -86,10 +105,16 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 **9)** Click your audio device and click**Configure** .
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-8-1.jpg)
 
 **10)** Select**Stereo** from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-9.jpg)
 
  After going through the steps, launch OBS to test if the desktop audio is correctly detected and recorded. If not, please move on to the next fix below.
@@ -112,12 +137,18 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 **4)** Scroll to Global Audio Devices and make sure you’ve selected the actual device you’re using for**Desktop Audio** and**Mic/Auxiliary Audio** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/mIv00M.jpg)
 
  Now that you’ve made the tweaks, see if OBS desktop audio works the right way. If the no audio issue persists, keep reading to find out more solutions.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Remove other programs for audio control
 
  If you’ve installed other audio-related programs such as Nahimic, they will possibly conflict with OBS and thus cause the desktop audio not working issue. Many users also reported that Realtek Gaming Software and Razer Synapse will interfere with OBS.
@@ -126,6 +157,9 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5 – Update your audio driver
 
  If you constantly bump into audio issues when using OBS, chances are that your audio driver is faulty or outdated. To make sure the audio works as expected when recording with OBS or other applications, you should always keep your audio driver up-to-date.
@@ -159,16 +193,25 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6 – Reinstall OBS
 
  If none of the fixes above restores your OBS desktop audio, consider a full reinstall of OBS to fix any in-depth program issues. Here is how:
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then, type**appwiz.cpl** and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-5.jpg)
 
 **2)** Right-click**OBS Studio** and click**Uninstall/Change** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-5.jpg)
 
 **3)** Download OBS from the **[official website](https://obsproject.com/)**  and install it on your computer again.

@@ -1,7 +1,7 @@
 ---
 title: Counter-Strike 2 Audio Glitches? Here's How to Repair Your Game Microphone
-date: 2024-08-06 10:48:46
-updated: 2024-08-07 10:47:27
+date: 2024-08-06T09:17:34.517Z
+updated: 2024-08-07T09:17:34.517Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ When it comes to gaming equipment, the Logitech G series is a go-to option for m
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall G Hub](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Fix 1 – Troubleshoot the hardware issues
 
  Before trying anything more complicated, you should perform some simple troubleshooting steps. Here’s how:
@@ -45,8 +48,15 @@ If everything is fine with the hardware, read on to more fixes below.
 **On Windows 11:**
 
 1. On your keyboard, press the**Windows** key and type**microphone privacy** and click**Microphone privacy settings** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-25.png)
 2. Make sure**Microphone access** and**Logitech G Pro X** are both set to**On** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-26.png)
 
 **On Windows 10:**
@@ -56,8 +66,23 @@ If everything is fine with the hardware, read on to more fixes below.
 2. Click the**Change** button and**turn on** the Microphone access for this device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. **Toggle on** the button under Allow apps to access your microphone.  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Scroll down to make sure the desktop app’s access to your microphone is set to**On** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
 If your microphone still acts up, try the third solution below.
@@ -67,18 +92,33 @@ If your microphone still acts up, try the third solution below.
  The sound settings may sometimes be messed up after a system update and thus you need to configure the proper setup manually.
 
 1. In the search box, type**control** **panel** and select**Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-team-control-panel.jpg)
 2. Select**Small icons** from the drop-down menu next to View by, and click**Sounds** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Navigate to the**Recording** tab, and make sure your Logitech G Pro X headset microphone is**enabled** (there should be a green checkmark). Then, click the microphone and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-5.jpg)
 4. Right-click the microphone and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-6.jpg)
 5. Go to the**Levels** tab. Then,**drag the volume slider to the max** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-11.jpg)
 
  Now that your Logitech Pro X microphone is set as default and the volume is turned up, test the issue again. If this method doesn’t help, proceed to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4 – Update your audio driver
 
  If the audio driver is faulty or outdated, you’re likely to encounter the Logitech Pro X microphone not working problem. To keep your gaming headset work in tip-top condition as always, you should install the latest audio driver.
@@ -108,6 +148,9 @@ If your microphone still acts up, try the third solution below.
  Many players reported the latest update in G Hub would cause their Logitech headset microphones not to work or not being detected. If you also have G Hub installed, try to reinstall it and see if that solves your issue.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**appwiz.cpl** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-2.jpg)
 2. Click**Logitech G Hub** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/reinstall-g-hub-1-1.jpg)

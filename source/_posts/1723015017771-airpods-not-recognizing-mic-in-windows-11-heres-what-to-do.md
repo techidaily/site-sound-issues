@@ -1,7 +1,7 @@
 ---
 title: AirPods Not Recognizing Mic in Windows 11? Here’s What to Do
-date: 2024-08-05 15:35:22
-updated: 2024-08-07 11:52:36
+date: 2024-08-06T09:17:53.167Z
+updated: 2024-08-07T09:17:53.167Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ If you’re trying to make your Airpods pro mic working on Windows PC, you’ve 
 
 If the issue still exists, move to the below fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,6 +42,9 @@ If the issue still exists, move to the below fixes.
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 4. [Use a Bluetooth adapter](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Fix 1: Set as default communications device
 
  To make your AirPods mic work, you have to set it as default communications device.
@@ -46,10 +52,19 @@ If the issue still exists, move to the below fixes.
 1. Right-click on the**sound** icon then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-41-45.jpg)
 2. In the**Playback** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
 3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
 4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
 
 ### Fix 2: Update your Bluetooth Drivers
@@ -66,6 +81,10 @@ There’re 2 ways to update drivers, manually and automatically.
 2. Click **Bluetooth** to expand the category. Right-click your Bluetooth adapter and select **Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Restart your PC and check your AirPods mic.
@@ -95,8 +114,14 @@ If it’s not working, move to the next fix.
 So follow the steps below to install the latest Windows updates.
 
 1. Press the **Windows logo key** and**I** at the same time on your keyboard to open Windows Settings. Then, click **Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. In the Windows Update panel, click **Check for updates** . Windows will check and download the latest available patches automatically.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  
  If you see “You’re up to date” after clicking the button, your PC confirms that it has all Windows updates.
 3. Restart your PC and check the AirPods microphone after the whole process is finished.

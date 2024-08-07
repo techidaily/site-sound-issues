@@ -1,7 +1,7 @@
 ---
 title: Resolving Your Lenovo PC's Audio Problems Effortlessly
-date: 2024-08-04 13:19:46
-updated: 2024-08-07 10:29:39
+date: 2024-08-06T09:17:58.334Z
+updated: 2024-08-07T09:17:58.334Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ To make sure the volume is audible:
 
  1) Click **the sound icon** on the lower-right of your screen, then move **the volume slider** all the way to at least halfway up.If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7da01ab6db.jpg)
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
@@ -58,6 +62,9 @@ To make sure the volume is audible:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,6 +81,9 @@ To make sure the volume is audible:
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -94,6 +104,9 @@ To do so:
 
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
 
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
@@ -102,6 +115,9 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Disable audio enhancements
 
  Audio enhancements, as the name suggests, are features that allow for highest sound fidelity from your hardware. But depending on your configuration, they can also interfere with your system and trigger sound problems. So we should disable audio enhancements to see if it fixes the no sound on laptop problem.
@@ -110,10 +126,16 @@ Here’s how:
 
  1) Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
 
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .

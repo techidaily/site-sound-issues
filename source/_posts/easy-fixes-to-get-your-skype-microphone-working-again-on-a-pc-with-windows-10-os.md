@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes to Get Your Skype Microphone Working Again on a PC with Windows 10 OS
-date: 2024-08-04 20:55:54
-updated: 2024-08-07 12:31:34
+date: 2024-08-06T09:17:53.264Z
+updated: 2024-08-07T09:17:53.264Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 
 ## Trouble with Your PC's Mic on Windows 7? Top Fixes to Get You Talking Again
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db29239db22.png)
   
  Users have reported that they are having problems using their microphone on Windows 7 all of a sudden, which makes it impossible to communicate with others online if they want to use programs such as Skype.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 
  1) Right click the volume icon and then choose**Playback devices** .
   
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db4f8a348e2.png)
 
  2) Navigate to Recording tab, then check if there is a green icon on your Microphone, which indicates that your microphone should be working properly.
@@ -46,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
   
  3) Noted that the Microphone here is set as**Default Device** . If yours doesn’t show as a Default Device, please select it and choose **Set Default.**
   
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db55263a687.jpg)
   
  **Step 3: Update Audio Driver**
@@ -54,14 +63,23 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
   
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
   
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db560286c8c.png)
   
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
   
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56426d3c7.png)
   
  3) Then choose**Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db567b2d6cf.jpg)
   
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  

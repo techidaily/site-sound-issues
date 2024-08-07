@@ -1,7 +1,7 @@
 ---
 title: IDT High-Definition Audio Device Driver Installation Guide for Windows 11
-date: 2024-08-06 20:12:20
-updated: 2024-08-07 11:17:55
+date: 2024-08-06T09:17:33.235Z
+updated: 2024-08-07T09:17:33.235Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
 Issue “ **Unable to start the Dolby audio driver. Please restart the computer or reinstall the driver if the problem persists**.” usually occurs after Windows upgrade or reinstall, especially upgrading to Windows 10\. If you meet this problem, don’t worry, as it could be easily fixed. Just follow steps in this post. Then the pop-up error message will be gone.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57997056c52fb.png)
   
  To resolve the problem, follow these steps.  
@@ -27,16 +30,25 @@ Issue “ **Unable to start the Dolby audio driver. Please restart the computer 
  2\. In Device Manager, expand category “Sound, video and game controllers”.  
  3\. Right-click on the device and select**Uninstall** from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_579976b886c3f.png)
 
  4\.  Windows may prompt you to confirm the uninstallation. Check the box next to “Delete the driver software for this device.” then click “ **OK**  ” button.
   
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5799771ad17f6.png)
   
  If you have more than one audio device under category “Sound, video and game controllers”, repeat these steps to uninstall them one by one.  
   
  5\. Go to**Control Panel** \->**Programs and Features** .  
   
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_57997925e13a3.png)
   
  6\. Uninstall all programs relates to the audio & Dolby software. You can locate them from the program name.

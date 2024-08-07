@@ -1,7 +1,7 @@
 ---
 title: "Resolving Silent Screens: Troubleshooting Steps for HDMI Audio Issues with PC, Monitor & TV"
-date: 2024-08-06 18:23:56
-updated: 2024-08-07 10:53:52
+date: 2024-08-06T09:17:49.119Z
+updated: 2024-08-07T09:17:49.119Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ When you connect any pair of Bluetooth headphones or Bluetooth devices to your c
 6. **[Stop Bluetooth support service](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Fix 1: Run the Bluetooth troubleshooter
 
  Windows has built-in troubleshooters to fix some common errors. You can run the Bluetooth troubleshooter to fix the Windows 10 Bluetooth audio stutter problem. This is the most common and easy way to fix the problem.
@@ -39,8 +43,14 @@ If you’re using the Windows 11 system, follow the steps below:
 
 1. Press the **Windows logo key + I** keys to open **Settings** .
 2. Click**System > Troubleshoot > Other troubleshooters** .  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-other-troubleshooter.jpg)
 3. Click the**Run** button next to the Bluetooth, and follow the instructions.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/win11-bluetooth.jpg)
 
 Here’s how to do it on Windows 10:
@@ -57,12 +67,18 @@ Here’s how to do it on Windows 10:
 
 If this fix was unable to solve the issue, please move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2: Disable audio enhancement
 
  Audio enhancement is designed to make your system sound perfect. But things can go wrong somethings. To fix your sound stuttering problem, please perform:
 
 1. On your keyboard, press the **Windows logo key** \+ **R** on the keyboard at the same time.
 2. Type **mmsys.cpl** and press **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
@@ -81,11 +97,17 @@ If this fix was unable to solve the issue, please move to the next fix.
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. Click the **Advanced** tab. Select **16 bit, 48000 Hz (DVD Quality)** . Click **Apply** and **OK** to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/speaker.jpg)
 5. Test to see if your sound is still stuttering. If yes, go back to step 4 and try some other formats until you find the one that works for you.
 
  If your audio problem remains, don’t worry, you need to update your audio drivers. Move on to method 4 for help.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Fix 4: Update the Bluetooth and audio drivers
 
  Wrong or outdated Bluetooth adapter and audio drivers could be the reason for the Bluetooth audio stuttering issue. So you should ensure that these drivers are updated to the latest versions.
@@ -98,6 +120,9 @@ If this fix was unable to solve the issue, please move to the next fix.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -116,12 +141,26 @@ If this fix was unable to solve the issue, please move to the next fix.
 
 1. On your keyboard, press the **Windows logo key** and the**I** key to open Windows Settings.
 2. Select**Bluetooth & devices** , then**Devices** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-37.png)
 3. Scroll down and select**More devices and printer settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-36.png)
 4. Right-click your headset and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-38.png)
 5. Go to**Services** , and untick the box for**Hands-free Telephony** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-39.png)
 6. Click**Apply** and**OK** to save and exit.
 
@@ -129,13 +168,26 @@ If this fix was unable to solve the issue, please move to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Fix 6: Stop Bluetooth support service
 
  For some, stopping the Bluetooth support service helps to stop the audio stuttering problem for them. To see if this does the wonders for you too:
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time. Copy and paste**services.msc** and hit**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-40.png)
 2. Right-click**Bluetooth support service** and select**Stop** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-41.png)
 3. Reconnect your Bluetooth device and see if the audio stuttering problem persists. If so, please move on to the next fix.
 

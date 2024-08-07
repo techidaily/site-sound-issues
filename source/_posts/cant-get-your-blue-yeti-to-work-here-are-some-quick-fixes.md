@@ -1,7 +1,7 @@
 ---
 title: Can't Get Your Blue Yeti to Work? Here Are Some Quick Fixes
-date: 2024-08-04 13:14:44
-updated: 2024-08-07 10:39:38
+date: 2024-08-06T09:17:31.000Z
+updated: 2024-08-07T09:17:31.000Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/85ea88a283ba15f13d63e8eaf5823127ecc1dabd5
 
 Blue Yeti is an excellent microphone for beginners. However, many users may experience the ‘Blue Yeti not recognized’ issue. This can be quite easy to troubleshoot and in this post, you will learn every possible fix to get your microphone working.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just walk your way down until you find the one that works for you.
@@ -67,6 +70,9 @@ There are mainly two methods for you to fix this driver issue:
 
 3) Type**devmgmt.msc** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://images.drivereasy.com/wp-content/uploads/2021/01/devmgmt.msc_.jpg)
 
  4) Expand the**Sound, video and game controllers** category, check if your Blue Yeti device is listed there.
@@ -75,10 +81,21 @@ There are mainly two methods for you to fix this driver issue:
 
  (If not, you can skip to[Step 8](https://tools.techidaily.com/drivereasy/download/) )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/yeti-uninstall.jpg)
 
  6) Right-click the**Sound, video and game controllers** , and select**Scan for hardware changes** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/scan-for-hardware-changes.jpg)
 
  7) The driver software will be reinstalled automatically. Now your Blue Yeti microphone can be recognized successfully.
@@ -103,6 +120,10 @@ There are mainly two methods for you to fix this driver issue:
 
  1) On your keyboard, press**Win + R** , and then enter**mmsys.cpl** in the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-set.jpg)
 
  2) Select the**Recording** tab.
@@ -111,6 +132,9 @@ There are mainly two methods for you to fix this driver issue:
 
  3) Check if the**Blue Yeti Microphone** is listed. If so, you need to set Blue Yeti as your default device. But if not, you can right-click the empty space and select**Show Disabled Devices** and**Show Disconnected Devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/show-disabled.jpg)
 
 4) Enable/reconnect your Blue Yeti Microphone if it appears.

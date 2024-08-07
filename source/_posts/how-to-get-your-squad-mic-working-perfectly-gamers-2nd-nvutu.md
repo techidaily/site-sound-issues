@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Squad Mic Working Perfectly - Gamer's 2nD Nvutu
-date: 2024-08-06 13:22:49
-updated: 2024-08-07 11:36:44
+date: 2024-08-06T09:17:39.178Z
+updated: 2024-08-07T09:17:39.178Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
  If you’re also experiencing this Stereo Mix not working issue, don’t worry. The following are a few methods that have helped many users.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +30,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 2. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Enable Stereo Mix**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Method 1: Make sure your computer sound is going through your sound card
 
  To ensure your Stereo Mix works well, all your audio output has to go through your sound card so that it can record the output. If your sound is sent around the sound card (using HDMI to output video and audio together, for example), your Stereo Mix is unable to work.
@@ -45,10 +51,16 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddea556a6b.png)
 
 **3)**  Click the **Update**  button next to the sound card to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddeecd0d61.jpg)
 
 ##  Method 3: Enable Stereo Mix
@@ -65,10 +77,16 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **3)** Right click**Stereo Mix** , then click**Enable** .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde32cf0472.png)
 
 **4)** Right click**Stereo Mix** , then click**Set as Default Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde42a1495a.png)
 
 **5)** Click**OK** , then check to see if you’re able to record audio on your computer with Stereo Mix.

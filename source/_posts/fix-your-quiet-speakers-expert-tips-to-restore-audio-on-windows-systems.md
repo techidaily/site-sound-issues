@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Quiet Speakers: Expert Tips to Restore Audio on Windows Systems"
-date: 2024-08-04 20:18:52
-updated: 2024-08-07 10:25:11
+date: 2024-08-06T09:17:50.413Z
+updated: 2024-08-07T09:17:50.413Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
  If you’re also experiencing this Stereo Mix not working issue, don’t worry. The following are a few methods that have helped many users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +30,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 2. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Enable Stereo Mix**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Method 1: Make sure your computer sound is going through your sound card
 
  To ensure your Stereo Mix works well, all your audio output has to go through your sound card so that it can record the output. If your sound is sent around the sound card (using HDMI to output video and audio together, for example), your Stereo Mix is unable to work.
@@ -45,6 +51,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddea556a6b.png)
 
 **3)**  Click the **Update**  button next to the sound card to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
@@ -57,10 +66,16 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **1)** Right click your**volume icon** on your taskbar, then click**Recording devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde029539aa.png)
 
 **2)** Right click any empty space inside the device box, then make sure**Show Disabled Devices** is**ticked** .
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde288b285c.png)
 
 **3)** Right click**Stereo Mix** , then click**Enable** .
@@ -69,6 +84,9 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 **4)** Right click**Stereo Mix** , then click**Set as Default Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde42a1495a.png)
 
 **5)** Click**OK** , then check to see if you’re able to record audio on your computer with Stereo Mix.

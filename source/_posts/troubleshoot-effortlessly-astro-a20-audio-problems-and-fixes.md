@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Effortlessly: Astro A20 Audio Problems and Fixes"
-date: 2024-08-05 22:31:24
-updated: 2024-08-07 12:16:50
+date: 2024-08-06T09:17:53.016Z
+updated: 2024-08-07T09:17:53.016Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  If your**Astro A50 headset’s microphone** **is not working** , please check the[microphone troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  We’ve put together 4 simple fixes for you when your Astro A50 has no sound. You may not need to try them all; just walk your way down until you find the one that works.
@@ -28,6 +31,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 3. [**Update the sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Troubleshoot the connection
 
  The first thing you need to try is to make sure the headset’s volume wheel is set to a reasonable value.
@@ -38,6 +44,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. Place A50 headset on the Base Station, and make sure it’s seated correctly.
 3. Once synced together, you will see the LED lights on the front of the Base Station will starting Blinking.
 4. Make sure the optical cable is fully plugged into the “**MICRO USB** ” and the other end of the cable is plugged firmly into the USB port of your PC.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect astro a50](https://images.drivereasy.com/wp-content/uploads/2021/02/connect.jpg)
 5. Ensure that the game voice balance on the right ear cup of the headset is somewhere in the middle.
 
@@ -52,6 +61,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 1. Right-click the **volume icon** at the bottom right corner, and click **Open Volume mixer** .  
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/02/open-volume-mixer.jpg)
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
 3. Now test and see if there is any sound from your Astro A50.
 
@@ -59,6 +71,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**mmsys.cpl** and hit Enter.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/win11-mmsys.cpl_.jpg)
 3. Go to the**Playback** tab and make sure your Astro A50 is the default output device and shows strong signals.  
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
@@ -66,6 +81,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
 If the problem remains, you can move on to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Update the sound card driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your sound card driver to see if it fixes your problem.
@@ -76,6 +94,9 @@ If the problem remains, you can move on to the next method.
 
  You can update your sound drivers manually by going to the manufacturer’s website for your sound card and searching for the most recent correct sound driver. Be sure to choose only drivers that are compatible with your variant of Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Update your sound card driver automatically (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -100,6 +121,9 @@ If the problem remains, you can move on to the next method.
  Most of the time, Audio Enhancement makes your system sound perfect, but things can go wrong sometimes. To fix your Astro A50 no sound issue, you can follow these steps:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time. Type in **mmsys.cpl** and press **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Restoring Your Sony Noise-Canceling Headphones' Mic Functionality on Laptops and Desktops"
-date: 2024-08-06 12:59:58
-updated: 2024-08-07 11:54:16
+date: 2024-08-06T09:17:55.901Z
+updated: 2024-08-07T09:17:55.901Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
  This is very annoying. You can’t use your headphone or microphone with the front jacks. But don’t worry. It can be fixed…
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
  The following are a few methods that have helped many people fix their front audio jack issues. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,16 +30,25 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Try the back audio jacks**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Set your audio device as default
 
  Perhaps your device connected to your front audio jack is not working properly because it’s not set as the default device. To check your default audio device:
 
 **1)** Right click the**volume icon** , then click**Sounds** .
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348985cac7a.jpg)
 
 **2)** If you connect your_headphone_ or your_speakers_ to the front audio jack, click the**Playback** tab. If you connect your_microphone_ , click the**Recording** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348efb28884.jpg)
 
 **3)** Right click your_audio device_ , then click**Set as Default Device** . After that, click**OK** .
@@ -63,12 +75,18 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 **3)**  Click the **Update**  button next to_each of your devices_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3494ff64802.jpg)
 
  You can do it for free, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3: Try the back audio jacks
 
  You may have hardware issues with your front audio jacks. So it’s worth checking the audio jacks on your motherboard to see if your issues are occurring on your front jack only.

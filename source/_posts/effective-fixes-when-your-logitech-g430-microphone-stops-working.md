@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes When Your Logitech G430 Microphone Stops Working
-date: 2024-08-05 21:54:24
-updated: 2024-08-07 10:10:15
+date: 2024-08-06T09:17:42.323Z
+updated: 2024-08-07T09:17:42.323Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 When it comes to gaming equipment, the Logitech G series is a go-to option for many. However, there have been some complaints about the Logitech G Pro X microphone not working issue. It’s very annoying when you can’t talk to others on the mic, but in fact, this problem is not hard to solve.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
  Here are 5 fixes that helped other users with the Logitech G Pro mic not working issue. You may not try them all; just work your way down the list until you find the one that does the trick.
@@ -27,11 +30,17 @@ When it comes to gaming equipment, the Logitech G series is a go-to option for m
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall G Hub](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1 – Troubleshoot the hardware issues
 
  Before trying anything more complicated, you should perform some simple troubleshooting steps. Here’s how:
 
 * **Double-check the connection** . You should see two input jacks on your headset, one for the cable connected to the PC and the other for the microphone. Make sure you plug in the microphone securely and also press your PC connectivity cable into the correct jack harder until you feel two firm clicks.  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/connection-1.jpg)
 * **Connect your headset to another computer** to test. If it fails to work either, chances are the headset is physically damaged, and you should contact Logitech for further assistance.
 * Make sure the**mute switch is disabled** .
@@ -52,6 +61,9 @@ If everything is fine with the hardware, read on to more fixes below.
 **On Windows 10:**
 
 1. In the search box, type**microphone privacy** and click**Microphone privacy settings** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-1-4.jpg)
 2. Click the**Change** button and**turn on** the Microphone access for this device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
@@ -69,16 +81,25 @@ If your microphone still acts up, try the third solution below.
 1. In the search box, type**control** **panel** and select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-team-control-panel.jpg)
 2. Select**Small icons** from the drop-down menu next to View by, and click**Sounds** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Navigate to the**Recording** tab, and make sure your Logitech G Pro X headset microphone is**enabled** (there should be a green checkmark). Then, click the microphone and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-5.jpg)
 4. Right-click the microphone and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-6.jpg)
 5. Go to the**Levels** tab. Then,**drag the volume slider to the max** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-11.jpg)
 
  Now that your Logitech Pro X microphone is set as default and the volume is turned up, test the issue again. If this method doesn’t help, proceed to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4 – Update your audio driver
 
  If the audio driver is faulty or outdated, you’re likely to encounter the Logitech Pro X microphone not working problem. To keep your gaming headset work in tip-top condition as always, you should install the latest audio driver.
@@ -91,10 +112,21 @@ If your microphone still acts up, try the third solution below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/logitech-pro-x-gaming.png)
 4. Restart your computer for the changes to take effect.
 
@@ -110,9 +142,15 @@ If your microphone still acts up, try the third solution below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-2.jpg)
 2. Click**Logitech G Hub** and click**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/reinstall-g-hub-1-1.jpg)
 3. Restart your computer.
 4. Go to Logitech G Hub’s **[download page](https://www.logitechg.com/en-us/innovation/g-hub.html)**  , and click**Download for Windows** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-logitech-g-hub.jpg)
 5. After the download process finishes, open the file and follow the on-screen instructions to install the software.
 

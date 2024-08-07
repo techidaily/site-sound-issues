@@ -1,7 +1,7 @@
 ---
 title: Hassle-Free Strategies to Correct 'Failed Tone Replay' Problem
-date: 2024-08-06 21:59:59
-updated: 2024-08-07 11:59:51
+date: 2024-08-06T09:18:05.144Z
+updated: 2024-08-07T09:18:05.144Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  If your**Astro A50 headset’s microphone** **is not working** , please check the[microphone troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  We’ve put together 4 simple fixes for you when your Astro A50 has no sound. You may not need to try them all; just walk your way down until you find the one that works.
@@ -28,6 +32,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 3. [**Update the sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Fix 1: Troubleshoot the connection
 
  The first thing you need to try is to make sure the headset’s volume wheel is set to a reasonable value.
@@ -50,6 +57,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 #### 1\. Check Volume mixer settings
 
 1. Right-click the **volume icon** at the bottom right corner, and click **Open Volume mixer** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/02/open-volume-mixer.jpg)
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
@@ -66,6 +76,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
 If the problem remains, you can move on to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Fix 3: Update the sound card driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your sound card driver to see if it fixes your problem.
@@ -76,6 +89,9 @@ If the problem remains, you can move on to the next method.
 
  You can update your sound drivers manually by going to the manufacturer’s website for your sound card and searching for the most recent correct sound driver. Be sure to choose only drivers that are compatible with your variant of Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Option 2: Update your sound card driver automatically (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your audio drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,6 +105,9 @@ If the problem remains, you can move on to the next method.
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
@@ -100,10 +119,16 @@ If the problem remains, you can move on to the next method.
  Most of the time, Audio Enhancement makes your system sound perfect, but things can go wrong sometimes. To fix your Astro A50 no sound issue, you can follow these steps:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time. Type in **mmsys.cpl** and press **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
 

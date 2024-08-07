@@ -1,7 +1,7 @@
 ---
 title: Noise Loss on Astro A50? Here Are Quick Remedies!
-date: 2024-08-04 14:28:44
-updated: 2024-08-07 12:35:44
+date: 2024-08-06T09:17:40.653Z
+updated: 2024-08-07T09:17:40.653Z
 tags:
   - win11
   - win10
@@ -39,18 +39,27 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
   
  However, if it keeps giving you the silent treatment, you can try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Fix 1: Check your default output device
 
  First, you need to make sure that the default playback device (your headset or speaker) is correctly set, especially when you have multiple audio outputs.
 
 1. Right-click the volume icon on the right corner of your taskbar.
 2. Click Sounds.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sound-settings-1.jpg)
 3. In the Playback tab, select your device and click Set Default. Then click Apply to save the changes. (If already default, you can set another device as default and set it back again.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/default-device-1.jpg)
 4. Go to**Audio Settings** of Borderlands 3 and make sure the output audio is set to your default device.
 5. Launch your Borderlands 3.
 6. Go to**Settings > System > Sound** , then click**App volume and device preferences** under**Advanced sound options** .  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanded-sounds-1.jpg)
 7. You’ll see all apps currently using audio and their sound levels. Make sure there’s no**x** symbol for**Borderlands 3** and move the volume slider of Borderlands 3 up and down to ensure it’s working properly.
 8. Restart your Borderlands 3 to test the sound.
@@ -63,6 +72,9 @@ The annoying sound bugs in Borderlands 3 are spoiling your fun. Many players are
 
 If the sound issue still persists, then head on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Fix 2: Turn off Spatial sound
 
  Many Borderlands players find Spatial sound is always the culprit of their Borderlands 3 no sound issue. To fix it, you need to turn off Spatial sound both in your Windows settings and in-game settings.
@@ -70,8 +82,14 @@ If the sound issue still persists, then head on to the next fix.
 1. Select your default audio device and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/audio-device-properties-1.jpg)
 2. Choose the**Spatial sound** tab. Then select**Windows Sonic for Headphones** and click**Apply** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/spatial-sounds-turn-on-1.jpg)
 3. Choose**None** to turn it back off and click**Apply** again.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/spatial-sounds-turn-off-1.png)
 4. In Borderlands 3, go to**Sound** settings and set**Spatial Sound** to**Disabled** .
 5. Restart your game and see if this fixes your sound not working issue.
@@ -115,16 +133,25 @@ If the sound issue still persists, then head on to the next fix.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-4.png)
 3. Click the**Update** button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-all-your-drivers-1.jpg)
 4. Restart your computer for the changes to take effect.
 5. Launch your Borderlands 3 again to test the sound issue.
 
  If you need assistance, please contact **Driver Easy’s support** **team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Turn off Social Notification Frequency
 
  If the issue still bugs you after updating your audio driver, then you can try to turn off Social Notification Frequency to reduce input lag. Here is how to do it:
@@ -134,6 +161,9 @@ If the sound issue still persists, then head on to the next fix.
 2. Turn off**Notification Frequency** .
 3. Restart your game and test the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Run as administrator
 
  Whenever you bump into game issues, it never hurts to run both your game launcher and Borderlands 3 as administrator. These sound issues might occur if you have limited access to your game files.
@@ -151,6 +181,18 @@ If the sound issue still persists, then head on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/borderlands-exe.-compatibility-modeadmin.jpg)
 6. Launch your Borderlands 3 to see if the sound issue still persists.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Check the integrity of game files
 
  Verify your Borderlands 3 game files in case any corrupt files prevent the sound from working properly.
@@ -164,10 +206,16 @@ If the sound issue still persists, then head on to the next fix.
 ### Fix 8: Change your default device to the stereo mix
 
 1. Right-click the volume icon and select**Sound** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sound-settings-2.jpg)
 2. Under the**Playback** tab, select your default device and click**Configure** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/configure.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/speaker-set-up.jpg)
 4. Check the**Front left and right** box. Then click**Next** .
 5. Click**Finish** to save changes.
@@ -177,6 +225,9 @@ If the sound issue still persists, then head on to the next fix.
 8. Launch your Borderlands 3 again to test the sound issue.
 9. If the issue still persists, you can change the audio channel to**5.1 Surround** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9: Reinstall Borderlands 3
 
  Try as you might, if all these fixes above failed to solve your issue, you can perform a clean reinstall of Borderlands 3 to see if this does the trick.

@@ -1,7 +1,7 @@
 ---
 title: OBS Audio Failures? Here's How You Can Get Your Desktop Recordings Up & Running Again!
-date: 2024-08-06 16:27:12
-updated: 2024-08-07 10:27:36
+date: 2024-08-06T09:18:00.968Z
+updated: 2024-08-07T09:18:00.968Z
 tags:
   - win11
   - win10
@@ -33,6 +33,9 @@ The problem would be caused by broken hardware devices. Test the related hardwar
   
  If you have problem downloading drivers manually, click **[here](https://tools.techidaily.com/drivereasy/download/)**  to download Driver Easy to help you. Driver Easy will detect all problem drivers in your computer and recommend new drivers. You can use it to download and install new audio drivers easily.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f0a91831558.jpg)
 
  Driver Easy has Free version and PRO version. You can download the Free version for a try. If you find it helpful, you can consider upgrading to PRO version. With PRO version, you can enjoy free technical support guarantee. You can contact us for further assistance regarding the HDMI problem. And you will have 30-day money back guarantee. You can ask for a full refund if you are not satisfied with the product.  
@@ -45,14 +48,24 @@ The problem would be caused by broken hardware devices. Test the related hardwar
   
  2\. Put**Control Panel** in the search box and click “Control Panel” on the menu. Then Control Panel window will open.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5774bfb775931.png)
   
  3\. View by Large icons and click on**Sound** option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5774c057b2dac.png)
 
  4\. Go to Playback tab. Select **Digital Output Device** or **HDMI** option. Click **Set Default**  and Press**OK** button to apply the change  . Then the HDMI sound output will be set as default.  
   
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5774c399405c3.png)
   
  **Solution 4: Enable High Definition Audio Controller**
@@ -63,6 +76,9 @@ The problem would be caused by broken hardware devices. Test the related hardwar
   
  2\. Expand category**System devices** and you will see two identical items called High Definition Audio Controller under this category. If they are disabled, you can see there is an arrow mark next to the device name. In this case, right-click on the one which is disabled and click**Enable** on the context menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5774c621c7e99.png)
 
  Try solutions above to resolve your HDMI sound not working issue in Windows 7\. One should work for you.

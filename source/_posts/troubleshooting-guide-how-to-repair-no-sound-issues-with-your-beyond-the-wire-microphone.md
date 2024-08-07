@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How To Repair 'No Sound' Issues With Your Beyond The Wire Microphone"
-date: 2024-08-06 18:54:58
-updated: 2024-08-07 12:36:11
+date: 2024-08-06T09:17:58.391Z
+updated: 2024-08-07T09:17:58.391Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 If you’re encountering Cyberpunk 2077 sound crackling or buzzing background noise during the gameplay, you’re not alone. Many players reported the same issue whatever audio devices they’re using, but fortunately, there are some simple fixes that work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not try them all. Simply work your way down the list until you find the one that gets your audio back to normal.
@@ -39,14 +42,26 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
  Improper sound settings on your PC will also lead to audio crackling throughout the Cyberpunk 2077 game. Make some tweaks as follow and see if that solves your issue.
 
 1. On your keyboard, press the**Windows key** and**R** at the same time to invoke the Run command. Then, type**control** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3.jpg)
 2. Select**Small icons** next to View by, and click**Sound** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-5.jpg)
 3. Right-click your audio device and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-6.jpg)
 4. Go to the**Spatial sound** tab, and set it to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.jpg)
 5. Navigate to the**Advanced** tab. Then, select**2 channel, 16 bit, 96000Hz (Studio Quality)** from the drop-down menu under Default Format.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.jpg)
 6. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1.jpg)
@@ -69,6 +84,9 @@ There are two ways for you to do this:
 3. Click the**Update** button next to the flagged sound driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

@@ -1,7 +1,7 @@
 ---
 title: Resolving Headphone Malfunctions in Windows 10 Operating System
-date: 2024-08-06 19:23:22
-updated: 2024-08-07 12:37:56
+date: 2024-08-06T09:17:51.263Z
+updated: 2024-08-07T09:17:51.263Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ## Resolving Audio Glitches: Fixing Windows Press Microphones that Aren't Functioning Properly on Your PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db29239db22.png)
   
  Users have reported that they are having problems using their microphone on Windows 7 all of a sudden, which makes it impossible to communicate with others online if they want to use programs such as Skype.
@@ -54,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
   
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db560286c8c.png)
   
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
@@ -62,18 +68,30 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
   
  3) Then choose**Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db567b2d6cf.jpg)
   
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  
   
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56c3a8acb.png)
   
  5) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Press the**Scan Now** button right in the middle.
   
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db58bff02a9.png)
   
  6) Then press the**Update** button next to the audio driver that you have to get it updated automatically.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db59148e846.jpg)
 
  As you can see here, more device drivers needs an update so as to make sure that they stay at their peak performance. With the help of[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , you can update all of them by just pressing the**Update All** button. Fast and easily!

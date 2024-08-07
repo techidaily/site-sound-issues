@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: How to Get Your Microsoft Teams Microphone Up and Running Again on PCs"
-date: 2024-08-05 20:37:16
-updated: 2024-08-07 11:15:52
+date: 2024-08-06T09:18:00.780Z
+updated: 2024-08-07T09:18:00.780Z
 tags:
   - win11
   - win10
@@ -33,6 +33,9 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
  Under the cushion of the left ear cup, you will find a pinhole. Then, get a paperclip or pin and press that button for about 1 second.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1.png)
 
  Check whether your microphone works or not after the reset. If not, please move on to the second fix.
@@ -57,22 +60,46 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 **4)** Check if your SteelSeries Arctis 7 headset microphone is enabled. If not, right-click it and click**Enable** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-4-2.jpg)
 
 **5)** Make sure your microphone is set as the default device. If not, click it and click**Set Default** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-5-1.jpg)
 
 **6)** Right-click your microphone and click**Properties** .
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7-2.jpg)
 
 **7)** Select the**Levels** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7-3.jpg)
 
 **8)** If the microphone is muted, click the**speaker icon** to unmute it. Then,**drag the volume slider to the largest** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-8.jpg)
 
 **9)** Click**OK** .
@@ -83,6 +110,10 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Fix 3 â€“ Update your audio driver
 
  If youâ€™re using the wrong audio driver or itâ€™s out-of-date, the SteelSeries Arctis 7 mic-not-working issue is likely to occur. To make your audio devices work properly at all times, itâ€™s necessary to keep your audio driver up to date.
@@ -103,6 +134,10 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. Youâ€™ll be prompted to upgrade when you click**Update All** .)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-14.jpg)
 
  You can do it for free if you like, but itâ€™s partly manual.
@@ -114,6 +149,9 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4 â€“ Allow access to your SteelSeries Arctis 7 microphone
 
  If your SteelSeries Arctis 7 mic refuses to work after a new system update, itâ€™s likely Windows has disabled the apps from accessing your microphone. If so, you need to allow the permission manually.
@@ -132,12 +170,18 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 **4)** Make sure to turn on**Allow apps to access your microphone** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-8.jpg)
 
  After you complete the process, test your SteelSeries Arctis 7 microphone. If it still doesnâ€™t work, try the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5 â€“ Reinstall the SteelSeries Engine software
 
  The SteelSeries Engine software offers users better control over their SteelSeries gaming devices, but sometimes the app updates can mess with your SteelSeries Arctis headset. In this case, try to reinstall the program to cure the mic not working problem.

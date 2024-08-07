@@ -1,7 +1,7 @@
 ---
 title: Bypassing the Mute Issue on Realtek Chipset After Updates
-date: 2024-08-04 21:10:27
-updated: 2024-08-07 12:51:57
+date: 2024-08-06T09:18:00.531Z
+updated: 2024-08-07T09:18:00.531Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 
 **Bluetooth audio lags** on your Windows PC? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
  Here’s a list of fixes that have resolved this problem for other users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -53,12 +56,18 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Run Windows audio playback troubleshooter
 
  The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issue. Follow the instructions below to run Windows audio playback troubleshooter:
 
  1)**Right-click** the speaker icon at the bottom-right corner, then select **Troubleshoot sound problems** . You’ll be prompted for permission. Click **Yes** to run Windows audio playback troubleshooter.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap187-5.png)
 
  2) In the pop-up window, click **Next** .
@@ -91,6 +100,9 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 
  3) Click**Update** next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -107,6 +119,9 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
  1)**Right-click** the speaker icon at the bottom-right corner, then select **Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap188-5.png)
 
  2) Navigate to the**Playback** tab. Select your Bluetooth audio device and click **Set Default** . Then click **OK** to save the changes and close the window.
@@ -115,6 +130,9 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
  See if Bluetooth audio lag issue reappears. If this issue is not fixed, try the next fix to restart Windows audio service.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Restart Windows audio service
 
  If there is something wrong with Windows audio service, you may run into the audio lag issue. Try restarting Windows audio service to see if you can resolve this issue. Here is how to do it:
@@ -125,14 +143,23 @@ See if Bluetooth audio lags or not. If not, try the next fix, below.
 
  2) Scroll down to locate**Windows Audio** . **Right-click** it and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
  3) Under the**General** tab, if the service is disabled, click **Star** to enable it. For **Startup type** , select **Automatic** .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 
  4) Navigate to the**Recovery** tab. For **First failure** , select **Restart the Service** . Then click **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 
  5) Locate the service**Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.

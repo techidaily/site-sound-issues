@@ -1,7 +1,7 @@
 ---
 title: "Banish the Buzz: Effortless Remedies for Sound Issues in Earphones"
-date: 2024-08-06 21:54:18
-updated: 2024-08-07 11:51:23
+date: 2024-08-06T09:17:47.754Z
+updated: 2024-08-07T09:17:47.754Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  If your**Astro A50 headset’s microphone** **is not working** , please check the[microphone troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  We’ve put together 4 simple fixes for you when your Astro A50 has no sound. You may not need to try them all; just walk your way down until you find the one that works.
@@ -38,6 +42,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. Place A50 headset on the Base Station, and make sure it’s seated correctly.
 3. Once synced together, you will see the LED lights on the front of the Base Station will starting Blinking.
 4. Make sure the optical cable is fully plugged into the “**MICRO USB** ” and the other end of the cable is plugged firmly into the USB port of your PC.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect astro a50](https://images.drivereasy.com/wp-content/uploads/2021/02/connect.jpg)
 5. Ensure that the game voice balance on the right ear cup of the headset is somewhere in the middle.
 
@@ -50,8 +57,14 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 #### 1\. Check Volume mixer settings
 
 1. Right-click the **volume icon** at the bottom right corner, and click **Open Volume mixer** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/02/open-volume-mixer.jpg)
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
 3. Now test and see if there is any sound from your Astro A50.
 
@@ -61,6 +74,9 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. Type**mmsys.cpl** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/win11-mmsys.cpl_.jpg)
 3. Go to the**Playback** tab and make sure your Astro A50 is the default output device and shows strong signals.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
 4. Test the audio.
 
@@ -95,6 +111,9 @@ If the problem remains, you can move on to the next method.
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Fix 4: Disable Audio Enhancement
 
  Most of the time, Audio Enhancement makes your system sound perfect, but things can go wrong sometimes. To fix your Astro A50 no sound issue, you can follow these steps:
@@ -102,8 +121,14 @@ If the problem remains, you can move on to the next method.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time. Type in **mmsys.cpl** and press **Enter** .  
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
 

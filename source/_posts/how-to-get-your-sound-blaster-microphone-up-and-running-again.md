@@ -1,7 +1,7 @@
 ---
 title: How To Get Your Sound Blaster Microphone Up and Running Again
-date: 2024-08-04 16:53:14
-updated: 2024-08-07 11:24:51
+date: 2024-08-06T09:17:58.965Z
+updated: 2024-08-07T09:17:58.965Z
 tags:
   - win11
   - win10
@@ -36,12 +36,18 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Check if your microphone is physically muted on your headset switch or inline mute. Sometimes you may accidentally flip mute.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/SRX3flipmute.png)
 
  3) If you’re using a 6.3mm microphone, make sure that there’s no microphone connected to the 3.5mm microphone port and vice versa.
 
  4) Now you can test your microphone again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Allow your device and apps to access the microphone
 
  Another cause of the Sound Blaster mic not working is that your PC can’t access your microphone. Here’s how to allow microphone access for your device:
@@ -66,22 +72,35 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  Or you can check**Playback** \>**Direct Mode** in Sound Blaster Command software, and make sure it’s turned**Off** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/direct-mode.jpg)
 
  2) Go to the**Recording** tab, make sure the microphone is not muted in Sound Blaster Command and has an adequate volume level. Tick**Listen to this device** under**Microphone/Headset (Mic)** to verify Mic function.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 4\. Adjust Windows sound settings
 
  Many Sound Blaster users have fixed this issue by changing the default frequency for the microphone. Here’s how:
 
  1) In the notification area, right-click the volume icon, and select**Sounds** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![sounds settings](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds-1.jpg)
 
  2) Go to the**Recording** tab, choose**External Mic** . Set**Line In** as the default device if you’re using a Line-in source.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set as the default](https://images.drivereasy.com/wp-content/uploads/2021/04/save.jpg)
 
  3) Right-click and select**Properties** .
@@ -90,6 +109,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  5) Then go to the**Advanced** tab, and select**2 channel, 16 bit, 48000 Hz (DVD Quality)** for the**Default Format** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-all-boxes.jpg)
 
 6) Check all the boxes below.
@@ -110,10 +132,16 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3) Click the**Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings.jpg)
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)

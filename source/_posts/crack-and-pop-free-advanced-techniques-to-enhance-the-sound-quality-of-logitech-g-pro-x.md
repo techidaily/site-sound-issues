@@ -1,7 +1,7 @@
 ---
 title: "Crack and Pop Free: Advanced Techniques to Enhance the Sound Quality of Logitech G Pro X"
-date: 2024-08-06 18:22:57
-updated: 2024-08-07 11:48:52
+date: 2024-08-06T09:18:03.002Z
+updated: 2024-08-07T09:18:03.002Z
 tags:
   - win11
   - win10
@@ -39,20 +39,44 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
  Improper sound settings on your PC will also lead to audio crackling throughout the Cyberpunk 2077 game. Make some tweaks as follow and see if that solves your issue.
 
 1. On your keyboard, press the**Windows key** and**R** at the same time to invoke the Run command. Then, type**control** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3.jpg)
 2. Select**Small icons** next to View by, and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-5.jpg)
 3. Right-click your audio device and select**Properties** .  
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-6.jpg)
 4. Go to the**Spatial sound** tab, and set it to**Off** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.jpg)
 5. Navigate to the**Advanced** tab. Then, select**2 channel, 16 bit, 96000Hz (Studio Quality)** from the drop-down menu under Default Format.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.jpg)
 6. Click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1.jpg)
 
  If the 96000 Hz sample rate doesn’t give any luck, you can try the other options until you find the one that stops the sound from crackling. If none of them works, continue to the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Update your audio driver
 
  The audio issues of Cyberpunk 2077 may indicate your audio driver is wrong, faulty or outdated. To improve the audio quality and enjoy the stunning sound effect of Cyberpunk 2077, you should install the latest audio driver.
@@ -69,6 +93,9 @@ There are two ways for you to do this:
 3. Click the**Update** button next to the flagged sound driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

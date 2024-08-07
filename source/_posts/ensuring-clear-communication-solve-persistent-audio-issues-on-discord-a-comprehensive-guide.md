@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Clear Communication: Solve Persistent Audio Issues on Discord - A Comprehensive Guide"
-date: 2024-08-06 16:14:12
-updated: 2024-08-07 12:51:46
+date: 2024-08-06T09:17:59.760Z
+updated: 2024-08-07T09:17:59.760Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound coming out from your speaker and/or your headphones, you’re not alone. We’ve received reports from many Windows users reporting it. But no worries, you can get it fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## **How do I fix it?**
 
  Here are 3 solutions you can try to get this problem fixed. You may not need to try them all. Just work from the top down until you find the one that works for you.
@@ -27,12 +30,19 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
 
  1) On your keyboard, press the **Windows logo key**  and **S** at the same time and then type in **control** . Select **Control Panel** from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52a57919f5.png)
 
  2) View by **Large icons** and select **Power Options** .
@@ -45,6 +55,9 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  4) Click **Change advanced power settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
 
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
@@ -67,6 +80,9 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 If you don’t see this option here, move on to the next steps.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **3\. DPC Latency**
 
  In some cases, high latency could be the cause of your static audio among many other audio problems. Luckily, there’s a handy tool called **DPC Latency Checker** . It helps monitor your PC performance and tells you what’s causing the latency.
@@ -75,6 +91,9 @@ If you don’t see this option here, move on to the next steps.
 
  2) If you’re seeing green bars as shown in the screenshot below, and nothing in the top red section, your PC is in a good state. Move on to the next step below.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5313c8fd13.png)
 
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
@@ -97,6 +116,9 @@ If you don’t see this option here, move on to the next steps.
 
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

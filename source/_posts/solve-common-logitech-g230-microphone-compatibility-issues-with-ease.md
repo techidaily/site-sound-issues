@@ -1,7 +1,7 @@
 ---
 title: Solve Common Logitech G230 Microphone Compatibility Issues with Ease
-date: 2024-08-05 19:14:52
-updated: 2024-08-07 10:41:58
+date: 2024-08-06T09:17:47.598Z
+updated: 2024-08-07T09:17:47.598Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ If you’re trying to make your Airpods pro mic working on Windows PC, you’ve 
 
 If the issue still exists, move to the below fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,14 +47,24 @@ If the issue still exists, move to the below fixes.
  To make your AirPods mic work, you have to set it as default communications device.
 
 1. Right-click on the**sound** icon then click**Sounds** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-41-45.jpg)
 2. In the**Playback** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
 3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
 4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your Bluetooth Drivers
 
  Normally, if your AirPods microphone isn’t working properly, it’s probably using a broken or outdated Bluetooth driver. Then, updating your Bluetooth driver would fix this problem.
@@ -62,6 +75,9 @@ There’re 2 ways to update drivers, manually and automatically.
 
 1. On your keyboard, press the **Windows logo key** and**R** at the same time to invoke the Run box.  
  Then, type**devmgmt.msc** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Click **Bluetooth** to expand the category. Right-click your Bluetooth adapter and select **Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
@@ -78,6 +94,9 @@ There’re 2 ways to update drivers, manually and automatically.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
@@ -88,6 +107,9 @@ There’re 2 ways to update drivers, manually and automatically.
 
 If it’s not working, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Install Windows updates
 
  Microsoft releases Windows 10 updates to fix certain issues and offer new features. Many times, users find their problems were solved after running Microsoft Windows updates, and there’re users have reported the mic started working after updating Windows 10 to the latest build.
@@ -103,6 +125,9 @@ So follow the steps below to install the latest Windows updates.
 
 If this fix doesn’t work for you, the next one might suit you.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### Fix 4: Use a Bluetooth adapter
 
  In some cases, the built-in Bluetooth adapter cannot handle AirPods, so your AirPods microphone can’t work properly. The solution is to use a new Bluetooth adapter.

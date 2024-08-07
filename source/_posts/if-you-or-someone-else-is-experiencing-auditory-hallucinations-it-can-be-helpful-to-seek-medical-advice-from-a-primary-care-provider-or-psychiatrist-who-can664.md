@@ -1,7 +1,7 @@
 ---
 title: If You or Someone Else Is Experiencing Auditory Hallucinations, It Can Be Helpful to Seek Medical Advice From a Primary Care Provider or Psychiatrist Who Can Offer Appropriate Assessments and Guidance Based on the Individual Case
-date: 2024-08-04 13:27:20
-updated: 2024-08-07 10:40:19
+date: 2024-08-06T09:17:56.016Z
+updated: 2024-08-07T09:17:56.016Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ If your Corsair HS70 Mic Stopped Working on Windows, don’t worry. You can use 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Allow access to your microphone
 
  If your microphone is not allowed to access on your computer, you can’t use it properly. So first, check if it’s allowed to access on your computer. If it’s not allowed to access, configure the setting to make it work.
@@ -47,6 +50,9 @@ To do this, you can follow these steps:
 
  3) Click**Microphone** .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-150.png)
 
  4) Click the**Change** button.
@@ -65,6 +71,9 @@ To do this, you can follow these steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Check your microphone device settings
 
  When any headset mic including Corsair HS70 is not working, we can check if the mic is disabled or not set as the default device on the computer. Usually, once you plug the mic to computer, it will be set as the default device automatically. But in some cases, you may need to enable the device manually.
@@ -75,22 +84,37 @@ To do this, you can follow these steps:
 
  2) Type “control panel” in the box and click**OK** to open Control Panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-161.png)
 
  3) In Control Panel, View by**Large icons** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-162.png)
 
  4) Click**Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-163.png)
 
  5) Select the**Recording** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-164.png)
 
  If you see microphone is disabled,**right click the device** and select**Enable** .
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-165.png)
 
  If you don’t see microphone in the device list, you need to show it first, then enable it manually.
@@ -107,6 +131,9 @@ To do this, you can follow these steps:
 
  7) Select the microphone and click**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-168.png)
 
  8) Click the**Levels** tab, and drag the volume slider to the top.
@@ -147,6 +174,9 @@ To do this, you can follow these steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Troubleshoot hardware issues
 
  If the above fixes don’t resolve the problem, your Corsair HS70 mic not working might be caused by hardware issues. The mic or the port on the computer might have physical issues. To troubleshoot hardware issues, you can do these things:

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Laptop Speaker Problems Effectively
-date: 2024-08-05 19:23:46
-updated: 2024-08-07 10:11:48
+date: 2024-08-06T09:17:55.392Z
+updated: 2024-08-07T09:17:55.392Z
 tags:
   - win11
   - win10
@@ -28,10 +28,16 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 `` 2) Click the**sound** icon on your taskbar and choose**Mixer** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
  3) Drag the slider to increase the volume to test if the sound could work.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
 ## Fix 2: Set your speakers as default device
@@ -42,6 +48,9 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
@@ -50,10 +59,16 @@ Go with the easy steps to show it.
 
  1) On the Sound window, right-click on the blank area of the playback device list. Then choose**Show disabled devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 ## Fix 3:**Reinstall your sound card driver**
@@ -66,6 +81,9 @@ Go with the easy steps to show it.
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
@@ -84,6 +102,9 @@ Go with the easy steps to show it.
 
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

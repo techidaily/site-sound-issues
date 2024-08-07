@@ -1,7 +1,7 @@
 ---
 title: Resolving Microphone and Headphone Recognition Problems in Windows Operating Systems (11, 8, 7)
-date: 2024-08-05 10:20:33
-updated: 2024-08-07 11:50:54
+date: 2024-08-06T09:17:27.370Z
+updated: 2024-08-07T09:17:27.370Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 Many **Logitech G933** users are reporting that their headset**microphone**is not working properly. They can’t talk to people on the headset microphone. If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
 You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -34,6 +37,9 @@ You may not have to try them all. Just work your way down the list until you fin
 
 You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:**1)** Click the**Start**button in the lower left corner of your screen, then click the**Settings**icon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e7c0cc25a.jpg)
 
 **2)** Click**Privacy**.
@@ -42,6 +48,9 @@ You should allow your Windows 10 system and your application to access your head
 
 **3)** Click**Microphone**.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e8bd4fd27.jpg)
 
 **4)** Click the**Change**button, then make sure **Microphone for this device** is turned**on**.
@@ -56,6 +65,10 @@ Hopefully this fixes your microphone issue. But if not, there are still three fi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Method 2: Check your microphone device settings
 
 Your Logitech G933 mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:**1) Hold down the Windows logo** **key** and**press the R** **key**on your keyboard at the same time to bring up the Run dialog, then type “_**control**_” and press **Enter**.
@@ -68,14 +81,23 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 **3)**Select **Sound**.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 **4)** Select the **Recording**tab, then right click on any empty place inside the device list and tick **Show Disabled Devices**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
 **5)** Right click the**Headset Microphone**and click **Enable**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 **6)**Right click it again and select **Set as Default Device**.
@@ -88,12 +110,18 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 **8)** Click the**Levels**tab, then drag the volume slider towards the_largest value_.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
 **9)** Click**OK**, then click**OK**. Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Update your audio drivers
 
 The mic on your Logitech G933 headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.  You can update your driver manually or automatically. The manual process is time consuming, technical and risky, so we won’t cover it here. Nor do we recommend it unless you have excellent computer knowledge.  Updating your driver automatically, on the other hand, is very easy. Simply install and run [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/), and it will automatically find all the devices on your PC that need new drivers, and install them for you. Here’s how to use it. **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/)and install**Driver Easy**.**2)** Run**Driver Easy**and click the **Scan Now**button.**Driver Easy**will scan your computer and detect any problem drivers.
@@ -102,6 +130,9 @@ The mic on your Logitech G933 headset won’t work if you’re using an incorrec
 
 **3)** Click the**Update**button next to your sound device or your headset to download the latest and correct driver for it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
 You can also click the **Update All**button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All**.) Once you’ve updated the driver for your Logitech G933 headset, restart your computer. Then log in again and see if the microphone is working.

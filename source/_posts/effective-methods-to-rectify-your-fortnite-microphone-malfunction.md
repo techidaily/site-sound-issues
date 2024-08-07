@@ -1,7 +1,7 @@
 ---
 title: Effective Methods to Rectify Your Fortnite Microphone Malfunction
-date: 2024-08-06 12:20:30
-updated: 2024-08-07 12:16:31
+date: 2024-08-06T09:17:31.054Z
+updated: 2024-08-07T09:17:31.054Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ When it comes to gaming equipment, the Logitech G series is a go-to option for m
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall G Hub](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 1 – Troubleshoot the hardware issues
 
  Before trying anything more complicated, you should perform some simple troubleshooting steps. Here’s how:
@@ -38,6 +41,9 @@ When it comes to gaming equipment, the Logitech G series is a go-to option for m
 
 If everything is fine with the hardware, read on to more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2 – Allow access to your Logitech G Pro X microphone
 
  Windows 10 and 11 allow users to control whether the system and apps can use their microphones. So if you’ve disabled the access, your Logitech G Pro X mic won’t work properly. To grant the permission, follow the steps:
@@ -45,15 +51,27 @@ If everything is fine with the hardware, read on to more fixes below.
 **On Windows 11:**
 
 1. On your keyboard, press the**Windows** key and type**microphone privacy** and click**Microphone privacy settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-25.png)
 2. Make sure**Microphone access** and**Logitech G Pro X** are both set to**On** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-26.png)
 
 **On Windows 10:**
 
 1. In the search box, type**microphone privacy** and click**Microphone privacy settings** .  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-1-4.jpg)
 2. Click the**Change** button and**turn on** the Microphone access for this device.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. **Toggle on** the button under Allow apps to access your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
@@ -67,6 +85,9 @@ If your microphone still acts up, try the third solution below.
  The sound settings may sometimes be messed up after a system update and thus you need to configure the proper setup manually.
 
 1. In the search box, type**control** **panel** and select**Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microsoft-team-control-panel.jpg)
 2. Select**Small icons** from the drop-down menu next to View by, and click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
@@ -79,6 +100,9 @@ If your microphone still acts up, try the third solution below.
 
  Now that your Logitech Pro X microphone is set as default and the volume is turned up, test the issue again. If this method doesn’t help, proceed to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Fix 4 – Update your audio driver
 
  If the audio driver is faulty or outdated, you’re likely to encounter the Logitech Pro X microphone not working problem. To keep your gaming headset work in tip-top condition as always, you should install the latest audio driver.
@@ -91,10 +115,16 @@ If your microphone still acts up, try the third solution below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/logitech-pro-x-gaming.png)
 4. Restart your computer for the changes to take effect.
 
@@ -108,6 +138,9 @@ If your microphone still acts up, try the third solution below.
  Many players reported the latest update in G Hub would cause their Logitech headset microphones not to work or not being detected. If you also have G Hub installed, try to reinstall it and see if that solves your issue.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**appwiz.cpl** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-2.jpg)
 2. Click**Logitech G Hub** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/reinstall-g-hub-1-1.jpg)

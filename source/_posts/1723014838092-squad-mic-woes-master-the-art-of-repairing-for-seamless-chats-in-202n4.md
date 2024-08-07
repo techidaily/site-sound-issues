@@ -1,7 +1,7 @@
 ---
 title: Squad Mic Woes? Master the Art of Repairing for Seamless Chats in 202N4
-date: 2024-08-04 17:17:20
-updated: 2024-08-07 10:25:50
+date: 2024-08-06T09:17:47.724Z
+updated: 2024-08-07T09:17:47.724Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 
  If your hardware and connection are both good to go, check out more fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Configure the sound settings
 
  In most cases, your headset microphone will be set as the default input device once it’s connected. However, Windows updates may sometimes screw up the configurations and you need to tweak the settings manually.
@@ -49,6 +52,9 @@ Follow the steps here:
 1. At the bottom right corner of your desktop, right-click the**speaker icon** and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. Then right-click**other unnecessary audio devices** and**disable** them one by one.  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-3-1.jpg)
 
 #### Step 2 – Set your main microphone as the default device
@@ -58,6 +64,9 @@ Follow the steps here:
 2. Right-click your microphone and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-5-1.jpg)
 3. Go to the**Levels** tab. Then,**drag the microphone volume slider to the max** .  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-6-2.jpg)
 
 #### Step 3 – Change the sample rate
@@ -69,20 +78,32 @@ Follow the steps here:
 
  If you’ve configured the microphone properly in Windows and still encounter the same problem, the next thing is to look at the in-game mic settings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3 – Check the in-game settings
 
  For your headset mic to work in Squad, you also need to set it as the right input device in Steam. Here’s how:
 
 1. Launch your Steam client.
 2. Click**Friends** at the upper left corner and choose**View Friends List** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-0.jpg)
 3. Click the**cogwheel icon** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-1-1.jpg)
 4. Select**Voice** from the left pane. Then, make sure the microphone you’re actually using is set as the Voice Input Device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-2-2.jpg)
 
  Restart Squad to see if your microphone transmits your voice as normal. If not, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Update your audio driver
 
  Squad mic not working may indicate your audio driver is faulty or outdated. To avoid the compatibility issues with Squad and keep your microphone working with the best performance, you should update your audio driver on a regular basis.
@@ -101,6 +122,9 @@ Follow the steps here:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -117,8 +141,16 @@ Follow the steps here:
  Missing or faulty game files can also cause random bugs in your game. So you can verify the integrity of game files to see if that helps your case.
 
 1. Launch Steam and click the**Library** tab.  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-4.jpg)
 2. Right-click**Squad** from the game list and click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**Local Files** and then click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-2.jpg)

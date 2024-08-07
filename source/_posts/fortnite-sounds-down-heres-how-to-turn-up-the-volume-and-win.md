@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sounds Down? Here’s How to Turn Up the Volume and Win
-date: 2024-08-05 23:24:23
-updated: 2024-08-07 10:54:23
+date: 2024-08-06T09:17:55.096Z
+updated: 2024-08-07T09:17:55.096Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 5. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Some quick checks
 
  Before we move on to fix the Fortnite sound not working on Windows problem, here are some quick and usually effective fixes that you can try:
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 3. Check if the Epic Games Voice Chat server is up and running on this[**page**](https://status.epicgames.com/) .
 4. Make sure that your network environment is fast enough for the sound to work properly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 1: Set the default playback device
 
  This problem may occur if the sound output or input device is not set as the default playback device on your computer. So you should make sure to set the right playback device to see if it fixes the issue.
@@ -46,12 +52,22 @@ Here’s how to do it:
 1. Exit Fortnite.
 2. Unplug your sound devices from your PC and plug them back in.
 3. On your keyboard, press**the Windows logo key** and**R** at the same time, then type**control panel** and press**Enter** to open Control Panel.  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-81.png)
 4. In**View by** , select**Large icons** . Then click**Sound** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-82.png)
 5. In the**Playback** tab, click on**the device you use** , and then click**Set default** .  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-87.png)
 6. Click the**Recording** tab, then**make sure your microphone device is set as default** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 
  Open Fortnite and check to see if the Fortnite no sound problem is resolved. If yes, then great! If the problem remains, please try the next fix, below.
@@ -66,8 +82,14 @@ Here’s how to do it:
 2. Type **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. In the **Enhancements** tab, tick**Disable all sound effects** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. For some sound cards, this feature is listed under the**Advanced** tab, and you should untick the box for**Enable audio enhancements** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/disable-audio-enhancements.png)
@@ -76,6 +98,9 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Adjust in-game settings
 
  Once you make sure to have the right playback devices set as default in Windows, you should also make sure the in-game audio settings are right.
@@ -87,6 +112,9 @@ Here is how to adjust Fortnite game settings:
 2. Click**SETTINGS** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-101.png)
 3. Click**the sound icon** . Then make sure**Voice Chat** and**Push To Talk** are both set**On** . In**Voice Chat Input Device** and**Voice Chat Output Device** , make sure**the devices are the ones you’ve set in Fix 1** . Once one, click**Apply** to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-104.png)
 
  4) Open Fortnite to see if the no sound on Fortnite issue is fixed. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -103,6 +131,9 @@ Here is how to adjust Fortnite game settings:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 

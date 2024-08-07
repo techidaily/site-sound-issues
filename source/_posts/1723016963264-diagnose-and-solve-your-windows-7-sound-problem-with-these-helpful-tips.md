@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Solve Your Window's 7 Sound Problem with These Helpful Tips!
-date: 2024-08-04 13:42:17
-updated: 2024-08-07 11:32:48
+date: 2024-08-06T09:17:34.009Z
+updated: 2024-08-07T09:17:34.009Z
 tags:
   - win11
   - win10
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/d3d66d8b680735b12538b785459e7f45b24c283f5
 
  1) Right-click on**Speakers/Headphone** icon at the bottom right of your task bar. Then click **Playback devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
  2) Click your default audio device, and click **Properties** .
@@ -56,18 +59,33 @@ thumbnail: https://thmb.techidaily.com/d3d66d8b680735b12538b785459e7f45b24c283f5
 
  Play a music or a video to see if there is sound. If you find a format works, set it and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Method 3: Reinstall your audio driver
 
 1) On your keyboard, press the   **Windows logo key**  and **R**  at the same time to invoke the Run box.
 
 2) Type **devmgmt.msc**  and press **Enter**  to open **Device Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-8.jpg)
 
  3) In the **Sound, video and game controllers**  section, right-click on your audio device, then click **Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-12.jpg)
 
  4) Reboot your Windows 7\. Windows should reinstall the audio driver automatically.
@@ -76,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/d3d66d8b680735b12538b785459e7f45b24c283f5
 
  If your Windows 7 still keeps no sound, not to be frustrated, move on to the Method 4 to update your audio driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Method 4: Automatically update your audio driver
 
  The methods above may resolve the problem, but if they don’t, please update your audio driver. If you’re not confident playing around with drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -88,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/d3d66d8b680735b12538b785459e7f45b24c283f5
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-7.png)
 
 3) Click the **Update**  button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).

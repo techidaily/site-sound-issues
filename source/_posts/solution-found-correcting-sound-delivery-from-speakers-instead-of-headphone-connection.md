@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Correcting Sound Delivery From Speakers Instead of Headphone Connection"
-date: 2024-08-04 19:47:59
-updated: 2024-08-07 10:48:31
+date: 2024-08-06T09:18:04.381Z
+updated: 2024-08-07T09:18:04.381Z
 tags:
   - win11
   - win10
@@ -17,12 +17,18 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
 When you wear your headphones and plug it into your computer, you may hear the buzzing noise from headphones. It’s not a pleasant sound and may scare you. Don’t worry. Many people have resolved the buzzing noise issue with the solutions below. Read on to find how…
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Why is there a buzzing sound in your headphones?
 
  There are many causes for the buzzing noise in headphones issue. One of the common reasons is the electronic interference. While frequency interference is also likely to lead to the buzzing sound issue, you can’t ignore the audio output disturbances. Apart from that, the hardware issue can result in the buzzing sound from the headphones. In addition, the software issue, such as driver corruption probably causes the issue.
 
  Sometimes it’s hard to identify the issue. But you can still try to troubleshoot the problem and fix it by following the solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to fix buzzing noise in headphones
 
 You can try these solutions to fix buzzing sound from headphones.
@@ -45,6 +51,9 @@ You can try these solutions to fix buzzing sound from headphones.
 
  While connected, turn the volume up and down to test if the sound works properly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Turn off other electronic devices
 
  One of the possible causes of buzzing sound is electrical interference. It’s common to have many devices near together, but the frequency between different devices can be interfered with each other, such as cordless cellphones, microwave oven, and Bluetooth speaker. Therefore, you can check these devices to see if it’s where the problem lies in.
@@ -81,6 +90,9 @@ If the issue is coming from the PC, the next method may help you fix it.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26d624ac18.png)
 3. Click the **Update** button next to the flagged audio device to automatically download the correct version this driver (you can do this with the **FREE** version).  
  Or click **Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1cfada499.jpg)
 4. Restart your computer to make it take effect.
 
@@ -98,8 +110,14 @@ If the issue is coming from the PC, the next method may help you fix it.
 3. Click **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1da9de109.jpg)
 4. In the popup pane, right-click on your speaker device, and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1de596e87.jpg)
 5. Click the **Enhancements** tab, and uncheck the box next to **Disable all sound effects** . Then click **Apply** and **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1ecabd099.jpg)
 6. Try your headphones again to see if the sound works.
 

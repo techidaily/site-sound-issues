@@ -1,7 +1,7 @@
 ---
 title: How to Fix Audio Issues with Headphones on Windows 7 Computers
-date: 2024-08-05 11:57:10
-updated: 2024-08-07 12:21:19
+date: 2024-08-06T09:17:32.211Z
+updated: 2024-08-07T09:17:32.211Z
 tags:
   - win11
   - win10
@@ -29,14 +29,23 @@ This post provides you with some of the most effective methods that will help yo
 
  1) Right-click the volume icon and then choose**Playback devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b25760043.png)
 
  2) Click the empty space and make sure that you have selected both of the options: **Show Disconnected Devices** and**Show Disabled Devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b4b199809.png)
 
  3) See if you spot the name of your headphone and speakers. If you can see the name of your headphone listed here, and there is a green icon on the corner of the device, then you should be good to go.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b68c79f52.png)
 
  4) If the icon here is grey, please right-click it and choose**Enable** .
@@ -49,14 +58,23 @@ This post provides you with some of the most effective methods that will help yo
 
  1) Click the**Start** button, then choose**Control Panel** . On the search box of the Control Panel, type in**troubleshooting** and select**Troubleshooting** from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b87be4771.png)
 
  2) Choose**Hardware and Sound** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b99e78e85.jpg)
 
  3) Then choose**Playback Audio** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b9cf767f3.jpg)
 
  4) Follow the on-screen instructions to find out if there is anything wrong with your audio device or device driver.

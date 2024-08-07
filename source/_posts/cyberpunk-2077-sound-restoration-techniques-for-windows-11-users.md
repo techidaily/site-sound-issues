@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Sound Restoration Techniques for Windows 11 Users
-date: 2024-08-06 14:33:41
-updated: 2024-08-07 11:31:52
+date: 2024-08-06T09:17:49.922Z
+updated: 2024-08-07T09:17:49.922Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 If you’re encountering Cyberpunk 2077 sound crackling or buzzing background noise during the gameplay, you’re not alone. Many players reported the same issue whatever audio devices they’re using, but fortunately, there are some simple fixes that work.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not try them all. Simply work your way down the list until you find the one that gets your audio back to normal.
@@ -30,19 +33,31 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 
  It seems a cliche but a simple restart can usually fix various game glitches. Restart your PC and relaunch Cyberpunk 2077 to test. If this doesn’t help, move on to the second trick.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2 – Change USB port
 
  Cyberpunk 2077 audio not working properly might be caused by a faulty headphone port. To rule out this possibility, simply**replug your audio equipment to another USB port** which should be located at both the front and back of your PC, and play the game again. If sound crackling persists, take a look at the solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Fix 3 – Adjust the sound settings
 
  Improper sound settings on your PC will also lead to audio crackling throughout the Cyberpunk 2077 game. Make some tweaks as follow and see if that solves your issue.
 
 1. On your keyboard, press the**Windows key** and**R** at the same time to invoke the Run command. Then, type**control** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3.jpg)
 2. Select**Small icons** next to View by, and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-5.jpg)
 3. Right-click your audio device and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-6.jpg)
 4. Go to the**Spatial sound** tab, and set it to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.jpg)
@@ -65,6 +80,9 @@ There are two ways for you to do this:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1.jpg)
 3. Click the**Update** button next to the flagged sound driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 

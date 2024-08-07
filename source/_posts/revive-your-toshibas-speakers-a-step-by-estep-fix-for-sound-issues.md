@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Toshiba's Speakers: A Step-by-eStep Fix for Sound Issues"
-date: 2024-08-06 16:16:48
-updated: 2024-08-07 10:29:27
+date: 2024-08-06T09:17:47.044Z
+updated: 2024-08-07T09:17:47.044Z
 tags:
   - win11
   - win10
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 2. [Update your speakers related drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Reset your sound controller](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Plug in and take out your headphone
 
  There is a small switch inside the headphone input jack on your laptop. When your plug in your headphone, the small switch would shut off the speakers. And when you unplug your headphone, the speakers should be turned on again.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  3) After those testing, see if the sound comes from your speakers.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Method 2: Update your speakers related drivers
 
  An old, corrupted or missing driver related your speakers can also cause this error, like**a sound card driver** ,**a Bluetooth driver** (if yo’re using a Bluetooth speakers). You can solve it through updating the driver.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -61,6 +70,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Method 3\. Reset your sound controller
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, try to reset your sound controller.
@@ -77,8 +89,14 @@ Or click **Update All**  to automatically download and install the correct versi
 
  4) Click**Yes** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3e821f53.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
 
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .

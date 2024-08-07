@@ -1,7 +1,7 @@
 ---
 title: "How-To Fix: Sound Should Play on Headphones, But Is Coming Through the External Speakers"
-date: 2024-08-06 19:37:44
-updated: 2024-08-07 12:40:30
+date: 2024-08-06T09:17:48.986Z
+updated: 2024-08-07T09:17:48.986Z
 tags:
   - win11
   - win10
@@ -17,12 +17,18 @@ thumbnail: https://thmb.techidaily.com/cb27e7874253d83d60486ff74dc0d04ef8e649683
 
 When you wear your headphones and plug it into your computer, you may hear the buzzing noise from headphones. It’s not a pleasant sound and may scare you. Don’t worry. Many people have resolved the buzzing noise issue with the solutions below. Read on to find how…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Why is there a buzzing sound in your headphones?
 
  There are many causes for the buzzing noise in headphones issue. One of the common reasons is the electronic interference. While frequency interference is also likely to lead to the buzzing sound issue, you can’t ignore the audio output disturbances. Apart from that, the hardware issue can result in the buzzing sound from the headphones. In addition, the software issue, such as driver corruption probably causes the issue.
 
  Sometimes it’s hard to identify the issue. But you can still try to troubleshoot the problem and fix it by following the solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## How to fix buzzing noise in headphones
 
 You can try these solutions to fix buzzing sound from headphones.
@@ -33,6 +39,9 @@ You can try these solutions to fix buzzing sound from headphones.
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Configure audio settings in the computer](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot the hardware problem
 
  As mentioned above, the hardware issue is one of the possible reasons to cause buzzing sound in speakers, so you should check the hardware problem and fix any hardware issue found.
@@ -58,6 +67,9 @@ You can try these solutions to fix buzzing sound from headphones.
 
 If not, don’t worry. We have other solutions for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Replace your headphones
 
  If the above fixes don’t work, you should identify the issue is coming from the PC or your headphones.
@@ -78,9 +90,15 @@ If the issue is coming from the PC, the next method may help you fix it.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26d624ac18.png)
 3. Click the **Update** button next to the flagged audio device to automatically download the correct version this driver (you can do this with the **FREE** version).  
  Or click **Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1cfada499.jpg)
 4. Restart your computer to make it take effect.
 

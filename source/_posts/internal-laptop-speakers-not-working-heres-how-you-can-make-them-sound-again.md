@@ -1,7 +1,7 @@
 ---
 title: Internal Laptop Speakers Not Working? Here's How You Can Make Them Sound Again!
-date: 2024-08-06 11:19:26
-updated: 2024-08-07 10:43:39
+date: 2024-08-06T09:17:27.868Z
+updated: 2024-08-07T09:17:27.868Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 You care about stunning sound quality but find that you can’t use the microphone. If you’re one of those who’re experiencing Sound Blaster microphone not working issues, you’ll learn how to fix it in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Make sure your mic is not muted](https://tools.techidaily.com/drivereasy/download/)**
@@ -26,6 +29,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 5. **[Update audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Sound Blaster Command](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Make sure your mic is not muted
 
  To begin with, you should make sure your microphone’s volume has turned up to a proper level so that it can record your voice. You can skip this step if you have already done this.
@@ -36,6 +42,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Check if your microphone is physically muted on your headset switch or inline mute. Sometimes you may accidentally flip mute.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/SRX3flipmute.png)
 
  3) If you’re using a 6.3mm microphone, make sure that there’s no microphone connected to the 3.5mm microphone port and vice versa.
@@ -82,6 +91,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Go to the**Recording** tab, choose**External Mic** . Set**Line In** as the default device if you’re using a Line-in source.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set as the default](https://images.drivereasy.com/wp-content/uploads/2021/04/save.jpg)
 
  3) Right-click and select**Properties** .
@@ -98,6 +110,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  If this method doesn’t do the trick, you can disable all enhancements by right-clicking your microphone, and then click**Properties** \>**Enhancements** . After disabling all enhancements, you can’t apply any processing to the mic via Sound Blaster Command.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Update audio drivers
 
  If you have tried these methods above but to no avail, you should update all your audio drivers. This can be done with the latest Windows Updates. However, you can’t rely on Windows to update ([Learn Why…](https://tools.techidaily.com/drivereasy/download/) ) to do the job for you. So to make sure all your audio drivers are up to date, you can do it in the following two ways:
@@ -114,6 +129,9 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  3) Click the**Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings.jpg)
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -123,18 +141,27 @@ You care about stunning sound quality but find that you can’t use the micropho
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Reinstall Sound Blaster Command
 
  If the Sound Blaster mic not working persists, there might be some issues with your software.
 
  1) Before reinstalling your software, you can try resetting to factory default. Go to your Sound Blaster Command, and select**Settings** \> click**Reset** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reset-all.jpg)
 
  2) If the microphone issue persists, you can uninstall Sound Blaster Command.
 
  3) Press the**Windows** key +**R** to open the Run box, and enter**appwiz.cpl** .
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
  4) Right-click Sound Blaster Command and select**Uninstall** .

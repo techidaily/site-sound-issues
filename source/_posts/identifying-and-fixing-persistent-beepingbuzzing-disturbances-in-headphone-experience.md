@@ -1,7 +1,7 @@
 ---
 title: Identifying & Fixing Persistent Beeping/Buzzing Disturbances in Headphone Experience
-date: 2024-08-04 22:30:34
-updated: 2024-08-07 12:50:38
+date: 2024-08-06T09:17:27.840Z
+updated: 2024-08-07T09:17:27.840Z
 tags:
   - win11
   - win10
@@ -23,6 +23,9 @@ Is your**speaker making buzzing sound** ? Don’t worry. Many people have resolv
 
  Sometimes it’s hard to identify the issue. But you can still try to troubleshoot the problem and fix it by following the solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## How to stop speaker from buzzing sound
 
 You can try these solutions to fix buzzing sound from speakers.
@@ -75,6 +78,9 @@ You can try to power everything through a single AC socket.
 
  This should solve your buzzing sound issue. If not, don’t worry. We have other solutions for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  The missing or outdated audio driver can cause the speaker making buzzing sound. So you should verify that your audio driver has the latest version and update it if it doesn’t.
@@ -89,18 +95,27 @@ You can try to power everything through a single AC socket.
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26d624ac18.png)
 
  3) Click the **Update**   button next to the flagged audio device to automatically download the correct version the this driver (you can do this with the **FREE**   version).
 
  Or click **Update All**   the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**   – you’ll be prompted to upgrade when you click **Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1cfada499.jpg)
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at **<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
 4) Restart your computer to make it take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Fix 5: Configure audio settings in computer
 
  The improper audio settings can cause the issue. You should check it out and make sure that they are configured properly. For example, you should disable audio enhancements to fix the buzzing sound issue. To do so, follow the steps below:
@@ -109,6 +124,9 @@ You can try to power everything through a single AC socket.
 
  1) On your keyboard, press the**Windows Logo key** and type**control panel** . Then select**Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win-11-open-control-panel.jpg)
 
  2) Click**Hardware and Sound** .
@@ -125,6 +143,9 @@ You can try to power everything through a single AC socket.
 
  5) Click the**Enhancements** tab, and uncheck the box next to**Disable all sound effects** . Then click**Apply** and**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1ecabd099.jpg)
 
 6) Try the speaker again to see if the sound works.
