@@ -1,0 +1,23 @@
+# Sound Issues Site
+
+Welcome to [https://sound-issues.techidaily.com](https://sound-issues.techidaily.com)
+
+## Publish
+
+```bash
+yarn install
+yarn run publish
+```
+
+## Notes
+
+## Markdown Front Matters
+
+---
+tags:
+    - tag1
+    - tag2
+---
+
+- `tags`, `categories`, must be lower characters.
+- `tags`, `categories`, must be in array format.
