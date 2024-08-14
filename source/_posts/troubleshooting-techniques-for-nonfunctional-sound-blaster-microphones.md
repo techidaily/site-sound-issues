@@ -1,0 +1,212 @@
+---
+title: Troubleshooting Techniques for Nonfunctional Sound Blaster Microphones
+date: 2024-08-13T10:50:08.830Z
+updated: 2024-08-14T10:50:08.830Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Troubleshooting Techniques for Nonfunctional Sound Blaster Microphones
+excerpt: This Article Describes Troubleshooting Techniques for Nonfunctional Sound Blaster Microphones
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
+---
+
+## Onikuma Microphone Malfunction - Troubleshooting Solutions Revealed
+
+If you’re experiencing Onikuma headset mic not working, you’re not alone. This is a common issue reported by many users, but don’t worry. After reading this post, you’ll learn 4 quick & easy fixes to get your headset mic back to working.
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Here are the fixes
+
+ You don’t need to try them all. Simply work your way down the list until you find the one that does the trick.
+
+1. **[Run the audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Check the privacy settings](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Set your Onikuma mic as the default device](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
+
+ Before performing the fixes below, you should do some basic checks to rule out the hardware problems and connection failures.
+
+* The loose connection will prevent your microphone from working. Try**replugging your Onikuma headset** to PC securely and firmly and also**testing a different audio jack** .
+* **Use the microphone on another computer** to confirm it’s not physically damaged.
+* **Check the mute switches** on your microphone and make sure it’s disabled.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+### Fix 1 – Run the audio troubleshooter
+
+ Windows offers a set of troubleshooters to help you with the device glitches. So if something goes wrong with your Onikuma headset mic, you can start with this easy tool to detect the potential causes.
+
+1. Type**troubleshoot** in the Windows search box and select**Troubleshooting settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
+
+ Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
+
+### Fix 2 – Check the privacy settings
+
+ To ensure your Onikuma headset mic functions as intended, you should allow the system and applications to access it. You can adjust the setup in your privacy settings.
+
+1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Windows Settings menu.
+2. Select**Privacy** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
+3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. **Toggle on the button** below Allow apps to access your microphone.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
+5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
+
+ Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3 – Set your Onikuma mic as the default device
+
+ If there are multiple microphone inputs on your computer, the Onikuma headset mic might not be used properly until you set it as the default device. Here’s how:
+
+1. In the Windows search box, type**control** and select**Control Panel** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
+2. Select**Small icons** next to View by and click**Sound** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
+3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
+ If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
+4. Right-click the microphone again and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+
+ In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
+
+ If this method doesn’t help either, move on to the next fix to check your audio driver.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4 – Update your audio driver
+
+ If the audio driver is faulty or outdated, your Onikuma headset may constantly act up and the mic isn’t working. To keep your gaming headset up and running at all times, you should update the audio driver on a regular basis.
+
+ There are mainly two ways you can update your audio driver:**manually** or**automatically** .
+
+#### Option 1 – Download and install the driver manually
+
+ You can find the most recent correct driver on the website of your headset or computer manufacturer. Then download the one that is compatible with your Windows version.
+
+ Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install it.
+
+#### Option 2 – Automatically update your audio driver (recommended)
+
+ If you don’t have the time, patience or computer skills to update the audio driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  it takes just 2 clicks:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating all the available drivers, you’ll find the performance of your devices largely improves.
+
+---
+
+ Hopefully one of the fixes above resolves your Onikuma headset mic not working issue. If you have further questions or suggestions, feel free to leave a comment below and we’ll be glad to help.
+
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-seamless-integration-of-links-into-tiktok-profiles/"><u>[New] 2024 Approved  Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-auto-tracking-cameras/"><u>[New] Best Auto Tracking Cameras</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-directly-posting-tiktok-videos-on-facebook/"><u>[New] The Art of Directly Posting TikTok Videos on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unveiling-standout-cinematography-experts/"><u>[Updated] 2024 Approved  Unveiling Standout Cinematography Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-diving-deep-into-the-income-of-ajey-carryminati-for-2024/"><u>[Updated] Diving Deep Into the Income of Ajey (CarryMinati) for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlock-the-world-of-vr-with-your-phone-in-minutes-for-2024/"><u>[Updated] Unlock the World of VR with Your Phone in Minutes for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-academy-for-storytellers-top-8-recommendations/"><u>2024 Approved  Best Academy for Storytellers – [Top 8 Recommendations]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-10-budget-friendly-vectors-and-design-pages/"><u>2024 Approved  Discover 10 Budget-Friendly Vectors and Design Pages</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-superior-fb-videograbber-bundle-high-quality-downloads/"><u>2024 Approved  Superior FB Videograbber Bundle - High-Quality Downloads</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-or-sound-popping-in-windows-solved/"><u>Audio or Sound Popping in Windows [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-buzz-expert-advice-on-eliminating-popping-sounds-from-your-computers-audio-system/"><u>Beat the Buzz: Expert Advice on Eliminating Popping Sounds From Your Computer's Audio System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-kept-secrets-eclectic-windows-11-styles/"><u>Best-Kept Secrets: Eclectic Windows 11 Styles</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-x50i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X50i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-unplugged-realtek-audio-interface-malfunctions/"><u>Diagnosing and Solving Unplugged Realtek Audio Interface Malfunctions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/diverse-editions-winmovie-crafting-suite/"><u>Diverse Editions  WinMovie Crafting Suite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-solutions-for-restoring-sound-on-skype-conferencing/"><u>Easy Solutions for Restoring Sound on Skype Conferencing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-smooth-bluetooth-sound-playback-on-windows-11-machines/"><u>Effective Solutions for Smooth Bluetooth Sound Playback on Windows 11 Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-crackling-noise-from-your-cyberpunk-2077-gameplay-expert-tips-and-tricks/"><u>Eliminating Crackling Noise From Your Cyberpunk 2077 Gameplay: Expert Tips and Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-the-static-simple-steps-for-a-clearer-sound-experience/"><u>End the Static: Simple Steps for a Clearer Sound Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/exclusive-guide-fix-your-voicemod-opening-woes-with-latest-solutions/"><u>Exclusive Guide: Fix Your Voicemod Opening Woes with Latest Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-the-malfunctioning-mic-in-your-turtle-battle-ears-elite-atlas/"><u>Expert Advice on Repairing the Malfunctioning Mic in Your Turtle Battle Ears Elite Atlas</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-discord-sound-glitches-a-comprehensive-guide-to-perfect-calls-in-202/"><u>Fixing Discord Sound Glitches: A Comprehensive Guide to Perfect Calls in 202</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g633-microphone-issues-solutions-and-tips/"><u>Fixing Logitech G633 Microphone Issues: Solutions & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-your-razer-kraken-mic-functionality/"><u>Fixing the Issue: How to Restore Your Razer Kraken Mic Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-arctis-99x-fixing-a-dead-microphone-problem/"><u>Getting the Most Out of Your Arctis 9/9X: Fixing a Dead Microphone Problem</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-14-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 14 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-persistent-echos-while-using-discord-on-desktop-computers-a-2-tech-tips-2024-version/"><u>How To Resolve Persistent Echos While Using Discord on Desktop Computers – A 2# Tech Tips (2024 Version)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-from-a-plugged-in-speaker-that-isnt-working-in-windows/"><u>How to Restore Sound From a Plugged-In Speaker that Isn’t Working in Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/mastering-league-of-legends-expert-advice-on-fixing-black-screens/"><u>Mastering League of Legends: Expert Advice on Fixing Black Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016879935-mastering-microphone-troubleshooting-make-sure-it-picks-up-your-sound/"><u>Mastering Microphone Troubleshooting - Make Sure It Picks Up Your Sound!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016923644-restore-audio-to-facebook-streams-on-windowsmac-updated-fixes-for-playback-problems/"><u>Restore Audio to Facebook Streams on Windows/Mac: Updated Fixes for Playback Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-the-roars-of-midgard-troubleshooting-pc-sound-in-valheim-fixed/"><u>Restore the Roars of Midgård: Troubleshooting PC Sound in Valheim [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-harmony-simple-steps-to-fix-noise-problems-with-your-logitech-g933-headset/"><u>Restoring Harmony: Simple Steps to Fix Noise Problems with Your Logitech G933 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-why-your-corsair-hs35-microphone-wont-work-with-windows-and-how-to-fix-it/"><u>Solution Guide: Why Your Corsair HS35 Microphone Won't Work with Windows & How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steam-voice-chat-malfunctions-how-to-restore-functionality/"><u>Steam Voice Chat Malfunctions: How to Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-common-logitech-g933-mic-issues-and-how-to-avoid-them/"><u>Step-by-Step Fixes for Common Logitech G933 Mic Issues and How to Avoid Them</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-to-clear-out-your-youtube-watch-later-collection-for-2024/"><u>Steps to Clear Out Your YouTube Watch Later Collection for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-tricks-to-restore-functionality-of-turtle-beach-recon-70-headset-mic/"><u>Tips and Tricks to Restore Functionality of Turtle Beach Recon 70 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-problems-when-your-hardware-is-in-use-by-different-software/"><u>Troubleshooting HDMI Problems When Your Hardware Is in Use By Different Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-issues-how-to-fix-no-output-device-errors-on-your-pc/"><u>Troubleshooting Sound Issues: How to Fix 'No Output Device' Errors on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-to-restore-and-improve-low-sound-levels-in-windows-11/"><u>Ultimate Fixes to Restore and Improve Low Sound Levels in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-repair-a-non-functional-onikuma-headset-mic/"><u>Ultimate Guide to Repair a Non-Functional Onikuma Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-arent-my-laptop-speakers-working-heres-what-you-can-do-about-it/"><u>Why Aren't My Laptop Speakers Working? Here’s What You Can Do About It</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nokia C110 | Dr.fone</u></a></li>
+</ul></div>
