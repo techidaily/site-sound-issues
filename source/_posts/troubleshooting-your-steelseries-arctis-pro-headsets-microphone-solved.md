@@ -1,0 +1,194 @@
+---
+title: Troubleshooting Your SteelSeries Arctis Pro Headset's Microphone - Solved!
+date: 2024-08-18T08:07:18.353Z
+updated: 2024-08-19T08:07:18.353Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Troubleshooting Your SteelSeries Arctis Pro Headset's Microphone - Solved!
+excerpt: This Article Describes Troubleshooting Your SteelSeries Arctis Pro Headset's Microphone - Solved!
+thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8af17428f6e6ddf368419a301.jpg
+---
+
+## Troubleshooting Headphone/Speaker Troubles in Windows 11 - Get the Sounds Back
+
+Are you facing no sound issues on Windows 11? Or maybe you’re suffering from the terrible audio sounds after updating to Windows 11\. Don’t worry, you’re not alone. I have encountered the same problem and hope this post would help you solve the issue as well.
+
+Before you start, make sure your headset is working properly.
+
+## Try these fixes
+
+ These fixes have helped many people. Because of the different devices and environments, you may need to work your way down the list until you find the one that works for you.
+
+1. [**Enable Enhance audio**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Realtek driver issue**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Update your Windows system**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
+
+## Fix 1: Enable Enhance audio
+
+ If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
+
+1. Press the**Windows logo key + I (i) key** together to open**Settings** .
+2. Go to**System > Sound > All sound devices** and choose your device.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
+3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
+4. Check your PC sound, it should be back to normal.
+
+If this trick doesn’t work for you, please move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+## Fix 2: Update your audio driver
+
+ The Windows 11 no sound issue and other audio issues are usually caused by drivers. Outdated drivers or missing drivers are the reason for many PC problems. To fix it, you need to find the latest and compatible driver for your devices.
+
+ You can update the audio driver manually by going to the manufacturer’s official website and downloading the correct driver. Or, you can update the audio driver automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) if you don’t have the time, patience, or computer skills. Driver Easy will automatically recognize your system and find the correct drivers for your exact device, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
+4. Restart your computer for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+If this fix doesn’t help, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 3: Realtek driver issue
+
+ If you have Realtek audio on your PC, this fix might be the right one for you. Realtek driver is sometimes corrupted on Windows 11 and it can lead to Windows 11 no sound or other audio issues. Here’s how to fix it.
+
+1. Click the**Search** button on the bottom and type**device manager** . Then press the**Enter** key to open it.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
+2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
+3. Click**Browse my computer for drivers** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
+4. Click**Let me pick from a list of available drivers on my computer** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
+5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
+6. Click**Yes** in the pop-up window.  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
+7. Restart your PC for the changes to take effect.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+8. Check the sound on your PC.
+
+## Fix 4: Update your Windows system
+
+ Windows 11 will release new updates to fix some issues, so check for updates and it might cure the Windows 11 no sound issue. You can do it manually by following the steps below.
+
+1. Press the**Windows logo key + I (i) key** together to open**Settings** .
+2. Click**Windows Update** \>**Check for updates** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
+3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+4. After the whole process, restart your PC and check the effect.
+
+## Fix 5: Repair system files
+
+ If important Windows files in your PC are corrupted or missing, your PC will have problems, no sound or audio issues might be one of them. In this case, you’ll need to find and repair corrupted system files.  
+ Using a repair tool to check various areas in your computer to determine the cause of your exact problem automatically would save you time and effort.
+
+ Here we recommend **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  . It is a powerful computer repair software that can diagnose problems on your computer and fix them immediately without damaging personal data.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and click**Yes** to run a free scan of your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
+3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+ The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
+ Email: **<support@fortect.com>**
+
+ That’s all the working fixes, hope one of them would help you solve the Windows 11 no sound issue. Some sites suggest you reinstall all the related drivers and reinstall them, but it’s a time-consuming process so we don’t recommend it. If you don’t have any other options, you might want to give it a try.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-income-smart-strategies-for-profit-from-youtube-mobile-content/"><u>[Updated] 2024 Approved  Boosting Income  Smart Strategies for Profit From YouTube Mobile Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-biz-game-youtube-channels-that-succeeded-for-2024/"><u>[Updated] Elevate Your Biz Game  YouTube Channels That Succeeded for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-efficient-movie-file-management-in-windows-11-six-approaches/"><u>[Updated] In 2024, Efficient Movie File Management in Windows 11  Six Approaches</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transformative-tech-effortlessly-turning-phones-into-vr-gear/"><u>[Updated] Transformative Tech  Effortlessly Turning Phones Into VR Gear</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>2024 Approved  Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-g24-power-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola G24 Power FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-update-chromecast/"><u>How to Update Chromecast</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-a78-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo A78 Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-asmrs-upside-exploring-its-health-impacts/"><u>In 2024, ASMR's Upside  Exploring Its Health Impacts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-hot-40i-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Hot 40i Lock Screen Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-90-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 90 Lite to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-top-edge-video-editing-programs-for-instagram-on-android/"><u>In 2024, Top Edge Video Editing Programs for Instagram on Android</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-note-13-proplus-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi Note 13 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-error-when-opening-sound-device-in-audacity-top-5-fixes/"><u>Resolve 'Error When Opening Sound Device' In Audacity: Top 5 Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-windows-10-sound-problems-with-this-step-by-step-guide/"><u>Resolve Your Windows 10 Sound Problems with This Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mpow-microphone-problems-steps-for-windows-users/"><u>Resolving MPOW Microphone Problems: Steps for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mute-woes-fixing-silence-issues-in-world-of-warcraft/"><u>Resolving Mute Woes: Fixing Silence Issues in World of Warcraft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-lost-sounds-a-step-by-step-guide-to-fixing-laptop-audio/"><u>Revive Lost Sounds: A Step-by-Step Guide to Fixing Laptop Audio</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-c12-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia C12 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-ensure-your-games-play-through-loudspeakers-on-discord/"><u>Solved: How to Ensure Your Games Play Through Loudspeakers on Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-functionality-for-a-faulty-logitech-g633-mic/"><u>Solved! How To Restore Functionality For A Faulty Logitech G633 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-intermittent-bluetooth-audio-problems-on-windows-platforms/"><u>Solving Intermittent Bluetooth Audio Problems on Windows Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-eliminating-that-annoying-buzz-from-your-headphones/"><u>Solving the Mystery: A Step-by-Step Guide to Eliminating That Annoying Buzz From Your Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stable-audio-conversations-in-discord-the-ultimate-2024-solution-guide/"><u>Stable Audio Conversations in Discord: The Ultimate 2024 Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-deactivating-the-built-in-sound-effects-for-better-audio-on-windows-e/"><u>Step-by-Step Guide: Deactivating the Built-In Sound Effects for Better Audio on Windows E</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-a-non-responsive-corsair-virtuoso-microphone/"><u>Step-by-Step Guide: Fixing a Non-Responsive Corsair Virtuoso Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/successful-installation-guide-idt-high-definition-codec-driver-on-windows-10/"><u>Successful Installation Guide: IDT High Definition Codec Driver on Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-5-key-aspects-you-shouldnt-ignore-while-choosing-a-fitness-tracker/"><u>The 5 Key Aspects You Shouldn't Ignore While Choosing a Fitness Tracker</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-best-of-budget-a-guide-to-the-top-10-economical-video-design-schools-on-youtube/"><u>The Best of Budget  A Guide to the Top 10 Economical Video Design Schools on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-free-speech-to-text-apps-for-mac-you-need-to-try/"><u>Top Free Speech to Text Apps for Mac You Need to Try</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-laptop-speakers/"><u>Troubleshooting Guide: Fixing Non-Functional Laptop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functioning-astro-a20-mic/"><u>Troubleshooting Guide: How to Repair a Non-Functioning Astro A20 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-on-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-systems-how-to-restore-your-laptops-sound/"><u>Troubleshooting Silent Systems: How to Restore Your Laptop's Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-sonic-glitches-eliminating-popping-noise-effectively/"><u>Troubleshooting Window's Sonic Glitches: Eliminating Popping Noise Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-psn-crashes-top-troubleshooting-steps/"><u>Ultimate Guide: Solving PSN Crashes - Top Troubleshooting Steps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-explore-whispered-complaint-samples/"><u>Updated In 2024, Explore Whispered Complaint Samples</u></a></li>
+</ul></div>

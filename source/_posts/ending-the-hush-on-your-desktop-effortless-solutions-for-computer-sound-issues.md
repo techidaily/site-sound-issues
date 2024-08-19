@@ -1,0 +1,220 @@
+---
+title: "Ending the Hush on Your Desktop: Effortless Solutions for Computer Sound Issues"
+date: 2024-08-18T08:19:31.194Z
+updated: 2024-08-19T08:19:31.194Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Ending the Hush on Your Desktop: Effortless Solutions for Computer Sound Issues"
+excerpt: "This Article Describes Ending the Hush on Your Desktop: Effortless Solutions for Computer Sound Issues"
+thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520363f53adb487ff9f78fd127.jpg
+---
+
+## Trouble with Noisy Meetings? Restore Sound in Zoom on Your Desktop Computer
+
+![zoom no sound](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-logo.jpg)
+
+ It’s a frustrating situation that you’re on a Zoom meeting and can’t hear any other participant with no sound coming out. If you run into Zoom no sound on your Windows PC, don’t worry. We’ll show you how to fix it step by step.
+
+## Try these fixes
+
+ Here are 5 tried-and-true fixes for the**Zoom no sound** issue. You may not try them all. Just work your way down the list until you find the one that does the trick.
+
+1. **[Troubleshoot the connection](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your sound card driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Configure the PC sound settings](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Check the Zoom settings](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+ If your microphone isn’t working on Zoom, please check out this[troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
+
+### Fix 1 – Troubleshoot the connection
+
+ Before moving on to the more complicated tricks, make sure you have everything connected securely. You could simply replug your audio device, whether a speaker or headset, into the jack and see if the sound returns. If not, take a look at the second fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2 – Update your sound card driver
+
+ The Zoom no sound issue may occur when you’re using the wrong sound card driver or it’s out-of-date. So you should update the audio driver to see if it fixes your problem. There are two ways to get the correct drivers for your sound card:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+#### Option 1 – Download and install the driver manually
+
+ To update the audio driver manually, you can go to the official website of your device manufacturer, find the driver corresponding with your specific flavor of Windows version (for example, Windows 64 bit) and download it manually.
+
+#### Option 2 – Automatically update the audio driver
+
+ If you don’t have the time, patience or computer skills to update your sound driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for your exact audio device, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-1.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click the**Update** button next to the flagged audio driver to do it for free, but it’s partly manual.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ So does the driver update get your Zoom audio back on track? If not, there are a few more fixes to try.
+
+### Fix 3 – Configure the PC sound settings
+
+ You need to configure the sound settings on your computer properly before Zoom can access your speaker and microphone. In most cases, your primary device will be set as default automatically, but if you’ve constantly changed between headsets and speakers, the settings might be messed up.
+
+Below is how to configure a a correct setup:
+
+1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**control** in the field and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-1.jpg)
+2. Select**Small icons** next to View by and click**Sound** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-2.jpg)
+3. Choose your preferred output device and click**Set Default** . Then click**Apply** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/set-as-default.jpg)
+4. Click the device and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements-3.jpg)
+5. On the**Enhnacements** tab, check**Disable all enhancements** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements.jpg)
+6. Back to your desktop, right-click the**speaker icon** on the taskbar and click**Open Volume mixer** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-2.jpg)
+7. **Hold and drag the slider for Zoom** to turn up the volume.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
+
+ Now see if the Zoom audio works as expected. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+### Fix 4 – Check the Zoom settings
+
+ It’s also necessary for you to set up the output and input devices correctly on the Zoom settings. If you don’t know how, take these steps:
+
+1. Launch Zoom and click the**gear icon** at the upper right corner to access the Settings menu.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.jpg)
+2. Navigate to the**Audio** tab. Then, make sure you’re using the right device as Speaker and Microphone.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-1.jpg)
+3. Tick**Show in-meeting option to Turn on Original Sound** and disable**Echo cancellation** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-2.jpg)
+
+ Join a Zoom meeting to test. If the issue persists, proceed to the last solution.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5 – Install all Windows updates
+
+ An out-of-date operating system might trigger various weird issues including Zoom sound not working. For better performance and stability of Windows, make sure you check for the updates regularly.
+
+1. In the Windows search box, type**check for updates** and click**Check for updates** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-1.jpg)
+2. Click the **Check for updates**  button. The available updates will be automatically downloaded and installed.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-2.jpg)
+
+ Once done, restart your computer for the changes to take full effect, and you should be hearing the sound on Zoom normally.
+
+---
+
+ Hopefully you’ve resolved the Zoom no sound issue with this guide. Have further questions or suggestions? Please feel free to share your comment below.
+
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes/"><u>[New] 2024 Approved  From Ordinary to Extraordinary  The Roadmap to Likes on TikTok Unboxes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-critique-on-luminances-approach-to-hdr-creation/"><u>[New] In 2024, Critique on Luminance’s Approach to HDR Creation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-most-attractive-game-ready-gaming-equipment-for-under-100-for-2024/"><u>[New] The Most Attractive Game-Ready Gaming Equipment for Under $100 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ips-on-how-to-edit-youtube-channel-description-for-2024/"><u>[New] Tips on How to Edit YouTube Channel Description for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-strategizing-success-the-open-door-approach/"><u>[Updated] 2024 Approved  Strategizing Success  The Open Door Approach</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-6-game-changing-tactics-to-increase-watch-time-and-reduce-churn-rate-for-2024/"><u>[Updated] 6 Game-Changing Tactics to Increase Watch Time and Reduce Churn Rate for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-edge-of-entertainment-advanced-tiktok-editing-hacks/"><u>[Updated] Edge of Entertainment  Advanced TikTok Editing Hacks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-potential-of-aiseesoft-for-video-documentation/"><u>[Updated] Unlocking the Potential of Aiseesoft for Video Documentation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-light-on-shadows-techniques-for-depth-in-illustrator/"><u>2024 Approved  Light on Shadows  Techniques for Depth in Illustrator</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/advanced-techniques-to-fix-sound-latency-issues-as-of-2024/"><u>Advanced Techniques to Fix Sound Latency Issues as of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-resolving-realtek-audio-control-panel-access-problems/"><u>Comprehensive Guide: Resolving Realtek Audio Control Panel Access Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/customizing-audio-preferences-a-users-guide-to-removing-sound-effects-from-windows-11-systems/"><u>Customizing Audio Preferences: A User's Guide to Removing Sound Effects From Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-noise-issues-expert-advice-on-resolving-sound-crackles-in-gameplay/"><u>Cyberpunk 2077 Noise Issues? Expert Advice on Resolving Sound Crackles in Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-counter-strike-2-players-dealing-with-mic-failures/"><u>DIY Solutions for Counter-Strike 2 Players Dealing With Mic Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-correcting-sound-problems-in-your-windows-11-system/"><u>Expert Tips for Correcting Sound Problems in Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-corsair-hs60-microphone-back-to-life-a-step-by-step-guide/"><u>Getting the Corsair HS60 Microphone Back to Life: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-mic-on-turtle-beach-audio-devices-easily/"><u>How to Fix a Non-Functional Mic on Turtle Beach Audio Devices Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resurrect-silent-speakers-correcting-nvidia-hd-audio-problems/"><u>How to Resurrect Silent Speakers: Correcting Nvidia HD Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-gaming-experience-eliminate-cyberpunk-2077s-sound-irregularities-with-these-fixes/"><u>Improve Your Gaming Experience: Eliminate Cyberpunk 2077'S Sound Irregularities with These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-15-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 15 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-video-extraction-from-linkedin-using-these-6-choices/"><u>In 2024, Master Video Extraction From LinkedIn Using These 6 Choices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screenshoting-made-easy-leveraging-ezvid-video-maker/"><u>In 2024, Screenshoting Made Easy  Leveraging Ezvid Video Maker</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-tips-for-maximizing-youtuber-profits-on-mobile/"><u>In 2024, The Essential Tips for Maximizing YouTuber Profits on Mobile</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/league-of-legends-communication-hacks-restarting-voice-chat-services-to-work-again/"><u>League of Legends Communication Hacks: Restarting Voice Chat Services to Work Again</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-immediate-collage-making-for-social-sharing-for-2024/"><u>Mastering Immediate Collage Making for Social Sharing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-troubleshooting-for-windows-11-systems-fixed/"><u>Noise Troubleshooting for Windows 11 Systems Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-premiere-hd-startup-problems-on-windows-n-steps-for-successful-configuration/"><u>Overcoming Dolby Premiere HD Startup Problems on Windows N: Steps for Successful Configuration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007825595-overcoming-frequent-shutdowns-in-elex-ii-for-pc-players-solutions-inside/"><u>Overcoming Frequent Shutdowns in Elex II for PC Players - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-functionality-of-your-unresponsive-blue-yeti-microphone/"><u>Quick Fixes To Restore Functionality Of Your Unresponsive Blue Yeti Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-voicemod-problems-with-these-latest-tips/"><u>Resolve Your Voicemod Problems with These Latest Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-restoring-sound-to-usb-headphones-in-windows-7-systems/"><u>Solution for Restoring Sound to USB Headphones in Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-hyperx-cloud-stinger-headset-microphone-issues-a-comprehensive-guide/"><u>Solving HyperX Cloud Stinger Headset Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-restoring-audio-during-your-zoom-calls-on-windows/"><u>Solving the Silent Issue: Restoring Audio During Your Zoom Calls on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-x-fold-2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo X Fold 2? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-sounds-on-a-realtek-audio-device-after-silence/"><u>Troubleshooting Guide: How to Restore Sounds on a Realtek Audio Device After Silence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-realtek-digital-output-lacking-sound-playback/"><u>Troubleshooting Guide: Realtek Digital Output Lacking Sound Playback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-laptop-speakers-easy-fixes-that-work/"><u>Troubleshooting Silent Laptop Speakers – Easy Fixes That Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-users-overcoming-skype-mic-problems-for-clear-calls/"><u>Windows 11 Users: Overcoming Skype Mic Problems for Clear Calls</u></a></li>
+</ul></div>
