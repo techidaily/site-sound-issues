@@ -1,0 +1,274 @@
+---
+title: Activate and Repair a Defective Windows Scan Function
+date: 2024-08-23T12:16:49.298Z
+updated: 2024-08-24T12:16:49.298Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ScannerIssues
+description: This Article Describes Activate and Repair a Defective Windows Scan Function
+excerpt: This Article Describes Activate and Repair a Defective Windows Scan Function
+thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738381ce0d93994778a56e7ead.jpg
+---
+
+## How to Fix HP Scanner Not Working - 2022 Tips
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167112d84d.jpg)
+
+ If your**HP scanner is not working** , don’t worry. This is a common scanner problem and you can fix it quickly and easily.
+
+## Why is my HP scanner not working?
+
+ The HP scanner not working issues include**the** scanner won’t scan, the scanner not being detected by your computer, or errors popping**up** when you’re using your scanner, etc.
+
+ The causes for these problems are various and sometimes hard to identify. As you can imagine, the connection problem can prevent your scanner from connecting to the computer, and the software and services problems in your computer are the possible reasons for this issue.
+
+ But don’t worry. We’ll help you fix the scanner not working on HP.
+
+## How to fix the HP scanner not working
+
+ Here are solutions that have helped people resolve the same issue. You don’t need to try them all; just work your way down the list.
+
+1. [**Check the connection issue**](#F1)
+2. [**Enable Windows Image Acquisition (WIA) service and associated services**](#F2)
+3. **[Update your scanner driver](#F3)**
+4. [**Troubleshoot hardware problems**](#F4)
+5. [**Run System File Checker**](#F5)
+
+ The screenshots below come from Windows 10, and fixes apply to Windows11.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 1: Check the connection issue
+
+ To use your scanner, you need to make sure that your scanner is**powered on** in the first place.
+
+ Then you should check the**connection** **issue** . If you’re using a USB scanner, check the**USB ports** and**USB cables** to ensure it works properly. While you’re using a network scanner, ensure your computer has a good**Internet** **connection** , and your scanner connects to your computer under the Internet. In addition, if you’re using **[VPN](https://tools.techidaily.com/drivereasy/download/)**  on your computer, try**disconnecting VPN** from your computer and scanning again.
+
+ If you’ve checked the above steps and your HP scanner still doesn’t work, don’t worry. There is something else to try.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
+
+**Windows Image Acquisition** **(WIA)** is a Microsoft model that allows graphics software to communicate with imaging hardware such as scanners and cameras. So you should enable WIA service in your computer if your scanner stops working. Here’s what you need to do:
+
+1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
+2. Type**services.msc** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
+3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
+4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
+ If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
+5. Click**Apply** and**OK** to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+ Then restart your computer. Try to use your HP scanner again and see if it works now.
+
+ If your HP scanner issue still persists, follow these steps to enable some more services:
+
+1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
+2. Type**services.msc** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
+3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
+   * **Remote Procedure Call RPC**  
+   * **DCOM Server Process Launcher**  
+   * **RPC Endpoint Mapper**  
+   * **Shell Hardware Detection**  
+   ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd169897b1a1.jpg)  
+   **INFORMATION:**  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+    The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
+4. Save the changes and try your scanner again to see if it works.
+
+---
+
+### Fix 3: Update your scanner driver (Windows PC)
+
+ A missing or outdated scanner driver can cause your HP scanner not to work, so you should update your scanner driver up to date.
+
+ There are two ways to update your scanner driver:**manually** and**automatically** .
+
+**Manually update scanner driver** – You can go to the website of your scanner manufacturer, find the latest driver for your scanner, and install it on your computer. This requires time and computer skills.
+
+**Automatically update scanner driver** – If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can download and install your drivers by using either the Free or Pro version of Driver Easy. But with the Pro version, it takes only 2 clicks (and you get full support and a**30-day money-back guarantee** ):
+
+1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
+3. Click the Update button next to your scanner to download the latest driver (you can do this with the FREE version), then install it on your computer.  
+ Or click**Update All** to automatically download and install all problem drivers in your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+4) Restart your computer to take effect.
+
+Then try scanning with your scanner to see if it works.
+
+---
+
+### Fix 4: Troubleshoot hardware problems
+
+ It’s possible that there’s something wrong with your scanner, so run a troubleshooter in your computer to fix the issue.
+
+1. Type**cmd** in the Windows Search bar and select**Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
+2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
+`**msdt.exe -id DeviceDiagnostic**`
+3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
+4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+
+ After that, try your scanner again and see if it’s working properly.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+### Fix 5: Run System File Checker
+
+ System File Checker (SFC) is a built-in Windows feature that scans corrupted system files and repairs it automatically.
+
+ Your HP scanning is not working because of some corrupted system files, so you can try SFC to fix the problem.
+
+1. Type**cmd** in the search box, right-click Command Prompt, and select**Run as administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
+2. In Command Prompt, type the following command, then press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+sfc /scannow  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
+3. Then wait for**Verification 100% complete** . This can take a while.
+4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Restart your computer and see if your scanner begins to work.
+
+ However, sometimes the System File Checker may fail to detect critical or even some minor issues. If running the tool didn’t give you any luck, you should use a more powerful tool such as **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a more powerful tool that scans your computer for invalid registry issues, fragmented files, and Windows tweaks.
+
+To fix your issues, follow the steps below to run a full scan of your PC:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and it will run a free scan of your PC. Upon completion of the scan, the software will conduct a diagnosis and show you a summary of system issues. This will take a few minutes.
+3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+ The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
+
+---
+
+ So there you have it – Five effective methods to fix the**HP scanner not working** . Hope this post comes in handy and resolves your problem.
+
+* [scanner](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-epson-printer-not-scanning-solution-for-windows-11-users/"><u>[FIXED] Epson Printer Not Scanning - Solution for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-windows-11-bluetooth-not-working-issue/"><u>[FIXED] Windows 11 Bluetooth Not Working Issue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-user-friendly-guide-to-efficiently-use-ez-grabber/"><u>[New] A User-Friendly Guide to Efficiently Use EZ Grabber</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-10-must-have-terraria-extensions-for-2024/"><u>[New] Top 10 Must-Have Terraria Extensions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transforming-igtv-with-multi-language-captioning-for-2024/"><u>[New] Transforming IGTV with Multi-Language Captioning for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-razer-manowar-mic-not-working/"><u>[SOLVED] Razer ManO’War Mic Not Working</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snappy-shenanigans-top-15-funny-snap-stickers/"><u>[Updated] In 2024, Snappy Shenanigans  Top 15 Funny Snap Stickers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-telescope-truth-expose/"><u>[Updated] In 2024, Telescope Truth Exposé</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-steadicam-brands-for-drones-and-camera-work/"><u>[Updated] Premium Steadicam Brands for Drones and Camera Work</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-5-valheim-seed-recommendations-for-bountiful-crops-for-2024/"><u>[Updated] Top 5 Valheim Seed Recommendations for Bountiful Crops for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/back-e-blood-resolving-voice-chat-functionality-problems/"><u>Back E Blood - Resolving Voice Chat Functionality Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-xiaomi-redmi-note-12-proplus-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-not-picking-up-sound-heres-how-to-restore-clear-voice-communication/"><u>Discord Not Picking Up Sound? Here's How to Restore Clear Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-bring-your-hyperx-cloud-alpha-mic-back-to-life/"><u>DIY Fixes: Bring Your HyperX Cloud Alpha Mic Back to Life</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-nvidias-hd-audio-issue-a-step-by-step-guide-to-restoring-sounds/"><u>Eliminating Nvidia's HD Audio Issue: A Step-by-Step Guide to Restoring Sounds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/examining-the-usefulness-of-instagrams-selfie-validation/"><u>Examining the Usefulness of Instagram's Selfie Validation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-windows-10-sound-issues-fast-with-these-simple-effective-tips/"><u>Fix Windows 10 Sound Issues Fast with These Simple, Effective Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-with-turtletech-mic-not-functioning-properly-expert-advice/"><u>Fixing Common Issues with Turtletech Mic Not Functioning Properly – Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-your-non-functional-razer-kraken-gaming-microphone/"><u>Fixing the Issue: How to Troubleshoot Your Non-Functional Razer Kraken Gaming Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hearthstone-audio-trouble-heres-how-to-get-the-sound-back/"><u>Hearthstone Audio Trouble? Here's How to Get the Sound Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-error-when-sound-output-device-is-not-detected-or-plugged-in/"><u>How to Resolve Windows Error When Sound Output Device Is Not Detected or Plugged In</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-non-functioning-voice-chat-in-fortnite-step-by-step/"><u>Immediate Fixes for Non-Functioning Voice Chat in Fortnite - Step by Step!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-solutions-for-bringing-back-sounds-on-your-astro-a50-headphones/"><u>Instant Solutions for Bringing Back Sounds on Your Astro A50 Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-solutions-for-non-working-rust-mics-a-step-by-step-2024-manual/"><u>Modern Solutions for Non-Working Rust Mics: A Step-by-Step 2024 Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sonic-hurdles-solving-resident-evil-villages-audio-issues/"><u>Overcoming Sonic Hurdles: Solving Resident Evil Village's Audio Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-select-androidiphone-facial-editing-apps/"><u>Premier Select Android/iPhone Facial Editing Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-overcoming-the-audio-playback-failed-issue-effortlessly/"><u>Quick Fixes: Overcoming the 'Audio Playback Failed' Issue Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-lack-of-audio-post-windows-10-upgrade-simple-fixes/"><u>Resolved: Lack of Audio Post-Windows 10 Upgrade – Simple Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mpow-mic-connectivity-issues-a-comprehensive-windows-fix-guide/"><u>Resolving MPOW Mic Connectivity Issues: A Comprehensive Windows Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-silent-system-restoring-audio-post-windows-10-upgrade/"><u>Solved: Silent System - Restoring Audio Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restarting-your-dolby-sound-on-windows-10/"><u>Step-by-Step Guide to Restarting Your Dolby Sound on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-rejuvenating-stuck-windows-based-itunes/"><u>Strategies for Rejuvenating Stuck Windows-Based iTunes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-windows-11-sound-glitches-with-these-simple-5-step-techniques/"><u>Troubleshoot Your Windows 11 Sound Glitches with These Simple 5-Step Techniques</u></a></li>
+</ul></div>

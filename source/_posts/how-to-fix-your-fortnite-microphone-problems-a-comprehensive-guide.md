@@ -1,0 +1,239 @@
+---
+title: How to Fix Your Fortnite Microphone Problems - A Comprehensive Guide
+date: 2024-08-23T12:17:33.512Z
+updated: 2024-08-24T12:17:33.512Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes How to Fix Your Fortnite Microphone Problems - A Comprehensive Guide
+excerpt: This Article Describes How to Fix Your Fortnite Microphone Problems - A Comprehensive Guide
+thumbnail: https://thmb.techidaily.com/51ab56587e08f47d807c9660276e637958571843dacf99014ff4e035dcf2337d.jpg
+---
+
+## Expert Fixes for Your SteelSeries Arctis Pro Microphone Problems - Now Working
+
+Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arctis Pro has no sound or the mic is not working, we’ve put together all the troubleshooting methods for you in our post.
+
+## Why your headset mic is not working
+
+ The reasons why your SteelSeries Arctis Pro has mic problems are listed below:
+
+* The mic is muted
+* Poor positioning
+* Your headset is not set as the default device
+* The sound card driver is outdated/corrupted
+* Your microphone cannot access your device
+
+## How to fix your mic issues
+
+ You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Set up the microphone correctly](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Allow access to your microphone](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Set your headset as the default device](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update the headset driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Make sure to use the correct Default Format](https://tools.techidaily.com/drivereasy/download/)**
+
+ Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 1: Set up the microphone correctly
+
+ Before you try the following fixes, please make sure the mute button is not activated.
+
+ Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
+
+### Fix 2: Allow access to your microphone
+
+ The first thing you need to make sure of is that your device allows apps to access your microphone. This is especially true if you can’t be heard in any apps.
+
+Here’s how to do it:
+
+ 1) In the Windows Search box, type**microphone,** and select**Microphone privacy settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+ 2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
+
+ Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
+
+### Fix 3: Set your headset as the default device
+
+ In most cases, when you plug your headset into the computer, it will be set as the default device on the computer. But sometimes it can bump into issues. If your SteelSeries Actis Pro mic is not working, your headset may be disabled or not set as the default device.
+
+Here’s how to do it:
+
+ 1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+ 2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+ 3) In the Sound windows, select the **Recording**  tab.
+
+ 4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
+
+ In your VoIP application, select Actis Pro Chat Audio as the default audio device.
+
+ 5) Select the microphone and click **Properties** .
+
+ 6) Click the **Levels**  tab, and drag the slider to a proper volume.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
+
+ 7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
+
+ 8) Click**Apply** \>**OK** .
+
+ Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Update the headset driver
+
+ The microphone on your SteelSeries Arctis Pro won’t work if you’re using an incorrect or outdated driver. So if the fixes above didn’t work, you should try updating the driver to see if it does the trick.
+
+ You can update your driver manually or automatically. The manual process is time-consuming, technical, and risky, so we won’t cover it here. Nor do we recommend it unless you have excellent computer knowledge.
+
+ Updating your driver automatically, on the other hand, is very easy. Simply install and run **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , and it will automatically find all the devices on your PC that need new drivers, and install them for you. Here’s how to use it.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the**Scan Now** button. Driver Easy will scan your computer and detect any problem drivers.
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
+ 3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
+
+![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
+
+ You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
+
+ Once you’ve updated the driver for your SteelSeries Actis Pro, you can restart your computer and check if the microphone is working.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Make sure to use the correct Default Format
+
+ 1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+ 3) In the Sound windows, select the **Recording**  tab.
+
+ 4) Right-click the microphone you are using and select**Properties** .
+
+ 5) Under the**Advanced** tab, make sure the**Default Format** is set to**48000 Hz** .
+
+---
+
+ If unfortunately, the fixes above failed to fix the microphone not working for you, you should check if this is a hardware-related issue. You can connect it to another port or another device.
+
+ If it’s working properly on other devices, you can back up your files and use the[Windows 10 reset guide](https://tools.techidaily.com/drivereasy/download/) to reset/reinstall the Windows.
+
+ But if none of these works, you can[contact SteelSeries Support](https://support.steelseries.com/hc/en-us) and let the professionals do the work for you.
+
+* [headset](https://tools.techidaily.com/drivereasy/download/)
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-transform-your-tech-experience-learn-how-to-screen-record-efficiently/"><u>[New] In 2024, Transform Your Tech Experience  Learn How to Screen Record Efficiently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-art-of-live-action-sims-4-playback/"><u>[New] The Art of Live-Action Sims 4 Playback</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-webcast-winners-for-2024/"><u>[Updated] Exclusive Webcast Winners for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-improve-obs-rendering-speed-and-quality/"><u>[Updated] Improve OBS Rendering Speed and Quality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-the-cutting-room-floor-youtube-studios-editor-guide/"><u>[Updated] Mastering the Cutting Room Floor  YouTube Studio's Editor Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-labyrinth-luminaries-top-10-roguelike-highlights/"><u>2024 Approved  Labyrinth Luminaries  Top 10 Roguelike Highlights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-fixing-silent-speakers-tackling-intels-hd-audio-hdmi-compatibility-issues-on-windows-10-systems/"><u>A Comprehensive Guide to Fixing Silent Speakers - Tackling Intel's HD Audio HDMI Compatibility Issues on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015622454-anthem-on-windows-10-silent-problem-expert-fixes-and-solutions/"><u>Anthem on Windows 10 Silent Problem – Expert Fixes & Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-sound-output-on-your-pc-a-step-by-step-guide-to-enhancing-volume-in-windows-10/"><u>Boosting Sound Output on Your PC: A Step-by-Step Guide to Enhancing Volume in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-microphone-fixes-how-to-restore-audio-functionality/"><u>Corsair Virtuoso Microphone Fixes: How to Restore Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-audio-hardware-mysteries-in-windows-10-speaker-setups/"><u>Diagnosing & Solving Audio Hardware Mysteries in Windows 10 Speaker Setups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-for-non-functioning-kotion-g2000-usb-microphones/"><u>DIY Repair Guide for Non-Functioning Kotion G2000 USB Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-no-audio-in-windows-solve-your-sound-issues-fast/"><u>Easy Fixes for No Audio in Windows: Solve Your Sound Issues Fast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-malfunction-in-taotronics-g435-in-ear-headphones-easily/"><u>Fixing Audio Malfunction in TaoTronics G435 In-Ear Headphones Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-constant-audio-disruptions-during-gaming-and-streaming-windows-11/"><u>Fixing Constant Audio Disruptions During Gaming and Streaming (Windows 11)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-streets-solving-cyberpunk-2077s-audio-issues-in-windows-10/"><u>Fixing the Silent Streets: Solving Cyberpunk 2077'S Audio Issues in Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-downloads-logitech-steering-wheel-g29-driver-for-windows-1087-users/"><u>Free Downloads: Logitech Steering Wheel G29 Driver for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-crackling-in-your-arctis-7-gaming-headset-while-using-a-windows-machine/"><u>How To Eliminate Crackling in Your Arctis 7 Gaming Headset While Using a Windows Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-onikuma-headset-microphone-back-online-solutions-inside/"><u>How To Get Your Onikuma Headset Microphone Back Online – Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reinstate-audio-outputs-for-conexant-smartaudio-hd-on-a-windows-10-machine/"><u>How to Reinstate Audio Outputs for Conexant SmartAudio HD on a Windows 10 Machine</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/influencer-marketing/"><u>Influencer Marketing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-silence-restoring-voice-chat-features-for-an-uninterrupted-cod-vanguard-gaming-experience/"><u>Overcoming the Silence: Restoring Voice Chat Features for an Uninterrupted COD: Vanguard Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-easy-tips-for-fixing-a-non-functional-razer-microphone/"><u>Quick & Easy Tips for Fixing a Non-Functional Razer Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-common-skype-audio-problems/"><u>Quick Fixes for Common Skype Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/redragon-microphone-repair-fixing-unresponsive-pc-connectivity/"><u>Redragon Microphone Repair: Fixing Unresponsive PC Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-skype-audio-problems-quickly-and-effectively/"><u>Resolve Your Skype Audio Problems Quickly & Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-fortnite-communication-solve-microphone-woes-easily/"><u>Revive Your Fortnite Communication - Solve Microphone Woes Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-speaker-fixing-a-nonfunctional-front-port/"><u>Revive Your Speaker: Fixing a Nonfunctional Front Port</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-common-problems-with-logitech-g5n-mx-soundcard-and-solutions-for-the-mic-issues/"><u>Solved: Common Problems with Logitech G5n MX Soundcard & Solutions for the Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-sound-check-effective-techniques-for-quick-microphone-quality-control/"><u>Speedy Sound Check: Effective Techniques for Quick Microphone Quality Control</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-nonfunctioning-razer-headset-microphone/"><u>Step-by-Step Fixes for a Nonfunctioning Razer Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-steam-voice-chat-back-on-track/"><u>Step-by-Step Solutions: Getting Steam Voice Chat Back on Track</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-nokia-g42-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Nokia G42 5G without backup.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-4-solutions-to-repair-your-webex-mic-issues/"><u>Top 4 Solutions to Repair Your Webex Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-silent-firefox-experience/"><u>Troubleshooting Guide: Fixing Silent Firefox Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-the-non-functional-microphone-on-your-steelseries-arctis-1/"><u>Troubleshooting: Fixing the Non-Functional Microphone on Your SteelSeries Arctis 1</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-headphone-detection-in-windows-11-audio-devices/"><u>Troubleshooting: Missing Headphone Detection in Windows 11 Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tutorial-for-disabling-audio-boosters-in-windows-11-system/"><u>Ultimate Tutorial for Disabling Audio Boosters in Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-clear-audio-fixing-plugged-in-yet-silent-headphones-or-speakers-on-windows-computers/"><u>Unlocking Clear Audio: Fixing 'Plugged In, Yet Silent' Headphones or Speakers on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-and-your-hp-laptop-how-to-fix-the-sudden-loss-of-sound-output/"><u>Windows 10 and Your HP Laptop - How to Fix the Sudden Loss of Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016522622-windows-10/"><u>Windows 10에서 일시적으로 사라지는 소음을 수리하는 방법</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-back-the-volume-in-cyberpunk-2077-a-guide-for-windows-11-gamers/"><u>Winning Back the Volume in Cyberpunk 2077: A Guide for Windows 11 Gamers</u></a></li>
+</ul></div>

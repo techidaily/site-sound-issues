@@ -1,0 +1,228 @@
+---
+title: Resolve Bluetooth Audio Delay in No Time with These Simple Fixes
+date: 2024-08-23T12:21:52.733Z
+updated: 2024-08-24T12:21:52.733Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Resolve Bluetooth Audio Delay in No Time with These Simple Fixes
+excerpt: This Article Describes Resolve Bluetooth Audio Delay in No Time with These Simple Fixes
+thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d753be69ed2a2544fd8a3a51.jpg
+---
+
+## Resolve Bluetooth Audio Delay in No Time with These Simple Fixes
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/bluetooth-670069_640.png)
+
+**Bluetooth audio lags** on your Windows PC? Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+## Fixes to try
+
+ Here’s a list of fixes that have resolved this problem for other users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Try some easy troubleshooting tips](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Reconnect your Bluetooth audio device to your PC](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Run Windows audio playback troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your Bluetooth driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Set your Bluetooth audio device as default audio playback device](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Restart Windows audio service](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Try some easy troubleshooting tips
+
+ Before we dive into other fixes, try some easy troubleshooting tips first.
+
+1. **Check which Bluetooth version** your Bluetooth audio device supports. If it only supports **Bluetooth 2.0** , you may probably suffer from the audio lag issue, because the small bandwidth will lag the audio stream of high bit rate. If so, you may need to replace it with a new one that supports **Bluetooth 4.0** .
+2. **Check the battery of your Bluetooth audio device** . Make sure its battery is sufficient enough for the connection.
+3. Place your Bluetooth audio device **close to** your PC to ensure a stable connection.
+4. Turn off any other nearby Bluetooth devices to **reduce the interference** .
+
+See if Bluetooth audio lags or not. If not, try the next fix, below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2: Reconnect your Bluetooth audio device to your PC
+
+ This is the quickest and easiest fix to try when you run into Bluetooth audio lag issue. Just turn off your Bluetooth audio device and then turn it on to reconnect your Bluetooth audio device to your PC.
+
+ If Bluetooth audio still lags, try removing it first. Then pair it to your PC again. If you don’t know how to pair your Bluetooth audio device to your PC, you can refer to the article: **[ Sony Bluetooth Headphones Pairing \[Step by Step\]](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ See if the audio lag issue persists. If the audio still laggy, don’t worry. Try the next fix, below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+### Fix 3: Run Windows audio playback troubleshooter
+
+ The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issue. Follow the instructions below to run Windows audio playback troubleshooter:
+
+ 1)**Right-click** the speaker icon at the bottom-right corner, then select **Troubleshoot sound problems** . You’ll be prompted for permission. Click **Yes** to run Windows audio playback troubleshooter.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap187-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+ 2) In the pop-up window, click **Next** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap185-5.png)
+
+ 3) Select your Bluetooth audio device and click**Next** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap186-5.png)
+
+4) Follow the on-screen instructions to troubleshoot the audio lag issue.
+
+ When it is completed, see if Bluetooth audio lag issue reappears. If it persists, try updating your Bluetooth driver.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Update your Bluetooth driver
+
+ If the Bluetooth driver on your PC is missing or outdated, you may run into Bluetooth audio lag issue. It is a good idea to update your Bluetooth driver to the latest version. By doing that, you can avoid many unexpected Bluetooth problems.
+
+ There are two ways to update your Bluetooth driver: manually or automatically.
+
+**Update your Bluetooth driver manually** – You can update your Bluetooth driver manually **by going to the manufacturer’s website** , and searching for the latest driver for your Bluetooth device. Be sure to choose the driver that’s compatible with your PC model and your version of Windows.
+
+**Or**
+
+**Update your Bluetooth driver automatically** – If you don’t have the time, patience or computer skills to update your Bluetooth driver manually, you can, instead, do it automatically with **[D](https://tools.techidaily.com/drivereasy/download/) [river Easy](https://tools.techidaily.com/drivereasy/download/)** [.](https://tools.techidaily.com/drivereasy/download/) You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
+
+ 3) Click**Update** next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap15.png)
+
+ If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+---
+
+### Fix 5: Set your Bluetooth audio device as default audio playback device
+
+ You may encounter this issue if your Bluetooth audio device is not the default audio playback device. Try setting it as default audio playback device to see if Bluetooth audio will lag or not. Here is how to do it:
+
+ 1)**Right-click** the speaker icon at the bottom-right corner, then select **Sound** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap188-5.png)
+
+ 2) Navigate to the**Playback** tab. Select your Bluetooth audio device and click **Set Default** . Then click **OK** to save the changes and close the window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap189-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ See if Bluetooth audio lag issue reappears. If this issue is not fixed, try the next fix to restart Windows audio service.
+
+### Fix 6: Restart Windows audio service
+
+ If there is something wrong with Windows audio service, you may run into the audio lag issue. Try restarting Windows audio service to see if you can resolve this issue. Here is how to do it:
+
+ 1) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **services.msc** and press **Enter** . You’ll be prompted for permission. Click **Yes** to open **Services** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+ 2) Scroll down to locate**Windows Audio** . **Right-click** it and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
+
+ 3) Under the**General** tab, if the service is disabled, click **Star** to enable it. For **Startup type** , select **Automatic** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+ 4) Navigate to the**Recovery** tab. For **First failure** , select **Restart the Service** . Then click **OK** to save the changes.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+ 5) Locate the service**Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
+
+ 6) Restart your PC.
+
+ 7) Connect your Bluetooth audio device to your PC.
+
+See if the audio lag issue reappears.
+
+ Hopefully one of the fixes above resolve Bluetooth audio lag issue for you. Please leave your comment below if you have any questions or suggestions.
+
+* [Audio](https://tools.techidaily.com/drivereasy/download/)
+* [Bluetooth](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-ideal-fps-levels-in-slow-motion-cinema/"><u>[New] Ideal FPS Levels in Slow Motion Cinema</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-predictive-analytics-anticipating-future-consumer-trends/"><u>[New] Leveraging Predictive Analytics  Anticipating Future Consumer Trends</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-to-crafting-striking-youtube-thumbnails-mac-edition/"><u>[New] Step by Step Guide to Crafting Striking YouTube Thumbnails - Mac Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-your-personalized-top-10-playlist/"><u>[New] Your Personalized Top 10 Playlist</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-increase-engagement-on-igtv-with-top-notch-titles-and-summaries/"><u>[Updated] 2024 Approved  Increase Engagement on IGTV with Top-Notch Titles and Summaries</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instacapture-the-ultimate-download-toolkit-unveiled/"><u>[Updated] 2024 Approved  InstaCapture  The Ultimate Download Toolkit Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-to-splendid-windows-11-backdrops/"><u>2024 Approved  Secrets to Splendid Windows 11 Backdrops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/call-of-duty-enthusiasts-rejoice-as-cod-warzone-pacific-crashing-gets-a-permanent-fix/"><u>Call of Duty Enthusiasts Rejoice as COD: Warzone Pacific Crashing Gets a Permanent Fix</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1716464343160-embark-into-the-best-youtube-vr-content-ever/"><u>Embark Into the Best YouTube VR Content Ever!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-4-stuttering-heres-the-fix/"><u>Fallout 4 Stuttering? Here’s the Fix!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-problems-with-sound-blaster-microphones-expert-advice/"><u>Fixing Common Problems with Sound Blaster Microphones - Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-using-tozo-t6-with-windows-lete-the-device-is-up-to-date-and-make-sure-your-computers-drivers-are-also-current-as-outdated-driv653/"><u>Fixing Connectivity Problems: Using Tozo T6 with Windows Lete the Device Is up to Date, and Make Sure Your Computer's Drivers Are Also Current as Outdated Drivers Can Cause Compatibility Issues.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-corsair-hs35-headset-microphone-issues-in-windows-environments/"><u>Fixing Corsair HS35 Headset Microphone Issues in Windows Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-persistent-sound-cutouts-in-discord-comprehensive-2-steps-to-stability/"><u>Fixing Persistent Sound Cutouts in Discord - Comprehensive 2# Steps to Stability</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-when-your-league-of-legends-voice-chat-fails/"><u>Fixing the Issue: Troubleshooting When Your League of Legends Voice Chat Fails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-creative-pebble-speakers-troubleshooting-tips/"><u>Fixing Your Creative Pebble Speakers: Troubleshooting Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-instagram-video-to-mp3-sound-for-2024/"><u>From Instagram Video to Mp3 Sound for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-mpow-microphone-working-on-a-pc-windows/"><u>How to Get Your MPOW Microphone Working on a PC (Windows)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-when-discords-push-to-talk-isnt-functioning-properly/"><u>How To Resolve When Discord's Push-to-Talk Isn't Functioning Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-realteks-digital-output-unit-a-step-by-step-solution/"><u>How To Restore Sounds on Realtek's Digital Output Unit: A Step-By-Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-computer-a-step-by-step-guide/"><u>How to Restore Sounds on Your Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-remedies-for-lack-of-sound-on-astro-a50-headphones-get-the-fix-now/"><u>Immediate Remedies for Lack of Sound on Astro A50 Headphones - Get the Fix Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-headset-wont-connect-master-the-fix-with-our-expert-tips/"><u>Jabra Headset Won't Connect? Master the Fix with Our Expert Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/league-of-legends-voice-chat-problems-solutions-to-get-you-talking-again/"><u>League of Legends Voice Chat Problems? Solutions to Get You Talking Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-guide-to-fix-idt-hd-audio-codec-driver-quirks-for-a-smooth-experience-with-windows-10/"><u>Master Guide to Fix IDT HD Audio Codec Driver Quirks for a Smooth Experience with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-malfunction-solutions-for-windows-operating-system-users/"><u>MPOW Microphone Malfunction: Solutions for Windows Operating System Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-easy-ways-to-repair-your-fortnite-voice-chat-connection/"><u>Quick and Easy Ways to Repair Your Fortnite Voice Chat Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-functioning-voice-chat-in-fortnite-games/"><u>Quick Solutions for Non-Functioning Voice Chat in Fortnite Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-issue-audio-outputs-to-headphones-not-speakers/"><u>Resolved Issue: Audio Outputs to Headphones, Not Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-rust-mic-problems-a-step-by-step-solution-manual/"><u>Resolving Rust Mic Problems: A Step-by-Step Solution Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-in-windows-media-player-effective-solutions-and-tips/"><u>Restoring Audio in Windows Media Player - Effective Solutions and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-fixing-logitech-g933-microphone-issues/"><u>Solution Guide: Fixing Logitech G933 Microphone Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-smart-eyewear-options/"><u>Top Rated Smart Eyewear Options</u></a></li>
+</ul></div>

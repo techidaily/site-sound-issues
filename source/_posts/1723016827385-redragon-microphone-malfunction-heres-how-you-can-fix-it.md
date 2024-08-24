@@ -1,0 +1,167 @@
+---
+title: Redragon Microphone Malfunction? Here's How You Can Fix It!
+date: 2024-08-23T12:16:06.720Z
+updated: 2024-08-24T12:16:06.720Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Redragon Microphone Malfunction? Here's How You Can Fix It!
+excerpt: This Article Describes Redragon Microphone Malfunction? Here's How You Can Fix It!
+thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f566a19e1bcefd1ff9d258319.jpg
+---
+
+## Windows 11 Skype Microphone Malfunction? Here's How to Fix It
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab602132d542.jpg)
+
+ If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
+
+## Fixes for ‘Skype Microphone not working’
+
+1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
+2. [Adjust the audio settings on Skype](https://tools.techidaily.com/drivereasy/download/)
+3. [Update your sound card driver](https://tools.techidaily.com/drivereasy/download/)
+4. [Restart the Windows audio service](https://tools.techidaily.com/drivereasy/download/)
+
+###
+
+### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
+
+ If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
+
+Follow these:
+
+1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
+2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
+3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
+ If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
+4. Log in Skype and check to see if your Microphone works.
+
+###
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+### Fix 2: Adjust the audio settings on Skype
+
+1. Login Skype with your own account.
+2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
+3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+ Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
+4. Check to see if your Microphone works.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+
+###
+
+### Fix 3: Update your sound card driver
+
+ Skype Microphone not working problem can be also cause by the incorrect or outdated sound card driver. The solutions above may solve the problem, but if they don’t, please update your sound card driver.
+
+ To update your sound card driver, you can download the latest one from its manufacturer’s website and install it on your computer, like**Realtek** . If you’re not confident playing around with drivers manually,  or if you want to save much more time, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . to do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for your exact sound card, and your variant of Windows system, and it will download and install them correctly:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
+3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
+4. Restart your computer and run Skype to see if your Microphone works.
+
+###
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+### Fix 4: Restart Windows audio service
+
+1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
+2. Type**services.msc** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
+3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+4. Log in Skype and check to see if your Microphone works.
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-1-3-in-ipad-voice-memos-and-recorders/"><u>[New] 2024 Approved  1-3 in iPad Voice Memos & Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-handheld-film-smoother-companion-2022/"><u>[New] 2024 Approved  Handheld Film Smoother Companion 2022</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expanding-digital-presence-stream-to-youtube-plus-additional-platforms/"><u>[New] In 2024, Expanding Digital Presence  Stream to YouTube + Additional Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-speedy-realignment-youtube-videos-for-mac-views/"><u>[New] In 2024, Speedy Realignment  YouTube Videos for MAC Views</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-engaging-screen-free-mobile-games-for-android-users-for-2024/"><u>[New] Top 10 Engaging Screen-Free Mobile Games for Android Users for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-troubleshooting-guide-addressing-headphones-and-speakers-not-recognized-on-windows/"><u>Audio Troubleshooting Guide: Addressing Headphones & Speakers Not Recognized on WIndows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-lag-a-comprehensive-approach-to-fixing-audio-delays/"><u>Beat the Lag: A Comprehensive Approach to Fixing Audio Delays</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-overcoming-voice-chat-connectivity-problems/"><u>COD: Vanguard - Overcoming Voice Chat Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-steps-to-resolve-crackling-sounds-from-your-windows-pc-speakers/"><u>Easy Steps to Resolve Crackling Sounds From Your Windows PC Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-discords-microphone-problems/"><u>Effective Solutions for Discord's Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-repair-your-bose-speaker-and-enhance-sound-quality/"><u>Effective Techniques to Repair Your Bose Speaker and Enhance Sound Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-audio-functionality-in-conexant-smartaudio-hd-devices-compatible-with-windows/"><u>Effective Techniques to Restore Audio Functionality in Conexant SmartAudio HD Devices Compatible with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-fixes-to-eliminate-bluetooth-sound-delays/"><u>Effortless Fixes to Eliminate Bluetooth Sound Delays</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-wow-audio-troubles-making-sure-your-voice-works-in-the-realm/"><u>Expert Tips to Overcome WoW Audio Troubles – Making Sure Your Voice Works in the Realm</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-steelseries-arctis-pro-mic-comprehensive-guide/"><u>How To Repair A Non-Functional SteelSeries Arctis Pro Mic - Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-deep-examination-of-androids-photo-editing-tool-lightroom/"><u>In 2024, A Deep Examination of Android's Photo Editing Tool, Lightroom</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-universal-approach-to-smartphone-mac-and-pc-video-filming/"><u>In 2024, Universal Approach to Smartphone, Mac, and PC Video Filming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-audio-restoration-tips-solutions-for-non-functional-internal-speakers/"><u>Laptop Audio Restoration Tips: Solutions for Non-Functional Internal Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-problems-heres-a-step-by-step-solution-for-you/"><u>Logitech G533 Microphone Problems? Here’s a Step-by-Step Solution for You</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-stream-with-these-pioneering-7-twitch-ai-partners/"><u>Master Your Stream with These Pioneering 7 Twitch AI Partners</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-your-nonfunctional-astro-a20-microphone/"><u>Quick Solutions for Your Nonfunctional Astro A20 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-headsets-microphone-with-these-5-simple-repair-strategies/"><u>Revive Your Razer Headset's Microphone with These 5 Simple Repair Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-hearthstone-essential-troubleshooting-steps-for-silent-issues/"><u>Reviving Audio on Hearthstone – Essential Troubleshooting Steps for Silent Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016600224-sound-troubles-with-battlefield-4-uncover-easy-fixes-here/"><u>Sound Troubles with Battlefield 4? Uncover Easy Fixes Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/specific-heat-plays-an-important-role-in-climate-science-as-it-affects-how-quickly-land-or-water-bodies-can-warm-up-or-cool-down-under-sunlight-or-during-ni639/"><u>Specific Heat Plays an Important Role in Climate Science as It Affects How Quickly Land or Water Bodies Can Warm up or Cool Down Under Sunlight or During Nighttime</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-overcoming-forbidden-play-in-fortnite/"><u>Step-by-Step Guide: Overcoming Forbidden Play in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-get-your-hyperx-cloud-alpha-mic-working-again/"><u>Step-by-Step Solution to Get Your HyperX Cloud Alpha Mic Working Again</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-note-30-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix Note 30 without backup.</u></a></li>
+<li><a href="https://facebook.techidaily.com/transform-your-chat-vibes-with-fbs-messenger-sounds/"><u>Transform Your Chat Vibes with FB's Messenger Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-silent-astro-a50-speakers-with-these-fast-solutions/"><u>Troubleshoot Silent Astro A50 Speakers with These Fast Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-non-functional-redragon-pc-mic/"><u>Troubleshooting and Solutions for Non-Functional Redragon PC Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015907731-troubleshooting-bluetooth-audio-jitters-in-windows-10-and-11-solutions-inside/"><u>Troubleshooting Bluetooth Audio Jitters in Windows 10 & 11 – Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-common-issues-with-creative-pebble-bluetooth-speakers/"><u>Troubleshooting Guide: Fixing Common Issues with Creative Pebble Bluetooth Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-non-functional-steelseries-arctis-7-microphone/"><u>Troubleshooting Guide: Solving Issues with Your Non-Functional SteelSeries Arctis 7 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016100156-troubleshooting-mac-audio-issues-effective-fixes-that-work/"><u>Troubleshooting Mac Audio Issues – Effective Fixes That Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-fortnites-audio/"><u>Troubleshooting Steps: Resolving Issues with Fortnite's Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-logitech-g-pro-x-microphone-expert-tips-to-get-you-back-online/"><u>Troubleshooting the Logitech G Pro X Microphone - Expert Tips to Get You Back Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-guide-solving-your-sound-sync-issues/"><u>Ultimate 2024 Guide: Solving Your Sound Sync Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-fixing-webex-audio-malfunctions/"><u>Ultimate Guide to Fixing Webex Audio Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-skype-mic-troubleshooting-steps-to-fix-audio-malfunctions/"><u>Windows 10 Skype Mic Troubleshooting: Steps to Fix Audio Malfunctions</u></a></li>
+</ul></div>
