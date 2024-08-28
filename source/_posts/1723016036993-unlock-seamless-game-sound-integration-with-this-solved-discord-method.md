@@ -1,0 +1,181 @@
+---
+title: Unlock Seamless Game Sound Integration with This Solved Discord Method
+date: 2024-08-27T21:09:44.885Z
+updated: 2024-08-28T21:09:44.885Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Unlock Seamless Game Sound Integration with This Solved Discord Method
+excerpt: This Article Describes Unlock Seamless Game Sound Integration with This Solved Discord Method
+thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c1304de3ac8c4843a110a218e6.jpg
+---
+
+## Unlock Seamless Game Sound Integration with This Solved Discord Method
+
+It’s annoying that your Discord is picking up game audio all of a sudden. But you’re not alone here. Many gamers have been reporting the same issue. The good news is that you can fix it easily.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-game-edited.jpg)
+
+**Why is Discord picking up the game audio?**
+
+* **Wrong connection type:** It’s recommended to plug your headphone into the correct USB port, instead of the USB port in your keyboard.
+* **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
+* **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
+
+## How to fix Discord audio issues?
+
+* [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
+* [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
+* [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
+
+### 1\. Update audio drivers
+
+ A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
+
+There’re mainly two ways for you to update an audio driver:
+
+**Manually –** You will need to open Device Manager to expand the Sound, video, and game controllers list, right-click your sound card, and select**Update driver** \>**Search automatically for updated driver software** . You can let Windows update the driver for you, but if it doesn’t work, you can uninstall the driver and restart your PC, or visit your device manufacturer’s website and install the most recent audio/sound drivers for your device.
+
+**Automatically –** Updating your driver automatically, on the other hand, is quite easy – all done in a few clicks with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You can choose to do it with our FREE Version or purchase the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  to unlock more advanced features.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+
+ 3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
+
+ 4) Once the driver is updated, reboot your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+### 2\. Change sound settings
+
+ This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
+
+ 1) Right-click the volume icon and select**Sounds** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+ 2) Go to the**Recording** tab.
+
+ 3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) Open Discord application, and go to**User Settings** .
+
+ 5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+### 3\. Reinstall Discord
+
+ If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
+
+ 1) On your keyboard, press the**Windows + R** key.
+
+ 2) Type in**appwiz.cpl** and press**Enter** .
+
+![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+
+ 3) Right-click Discord, and select**Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+ Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
+
+---
+
+* [Audio](https://tools.techidaily.com/drivereasy/download/)
+* [discord](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-equitable-technology-review-by-inclusive-gurus-for-2024/"><u>[New] Equitable Technology Review by Inclusive Gurus for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-screen-recording-on-skype-innovative-uses-of-obs/"><u>[New] In 2024, Mastering Screen Recording on Skype  Innovative Uses of OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-boost-ig-content-three-steps-for-compelling-video-descriptions/"><u>[Updated] 2024 Approved  Boost IG Content - Three Steps for Compelling Video Descriptions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-wisdom-warriors-top-11-trivia-videos-for-2024/"><u>[Updated] Wisdom Warriors' Top 11 Trivia Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-capturing-facebook-hd-videos-for-later-use/"><u>2024 Approved  Capturing Facebook HD Videos for Later Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-matches-top-8-stability-tools-for-4k-cameras/"><u>2024 Approved  Ideal Matches  Top 8 Stability Tools for 4K Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-new-tech-horizon-with-microsofts-hololens-review/"><u>2024 Approved  The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016459970-clear-sound-ahead-solve-cracking-noises-in-headphones-effectively-and-swiftly/"><u>Clear Sound Ahead! Solve Cracking Noises in Headphones Effectively & Swiftly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-the-mute-effective-fixes-for-noise-less-conexant-smartaudio-hd-on-win10-platforms/"><u>Conquer the Mute: Effective Fixes for Noise-Less Conexant SmartAudio HD on Win10 Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-atomic-heart-issues-during-initial-boot-sequence/"><u>Diagnosing and Fixing 'Atomic Heart' Issues During Initial Boot Sequence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-troubleshooting-how-to-restore-and-improve-voice-chat-in-valorant/"><u>DIY Troubleshooting: How to Restore and Improve Voice Chat in Valorant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-troubleshooting-steps-for-toshibes-silent-pc-problems/"><u>Effective Troubleshooting Steps for Toshibe's Silent PC Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-systems-volume-resolving-windows-11s-soft-speaker-issue/"><u>Enhance Your System's Volume: Resolving Windows 11'S Soft Speaker Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-your-steelseries-arctis-pro-microphone-problems-now-working/"><u>Expert Fixes for Your SteelSeries Arctis Pro Microphone Problems - Now Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-nonfunctional-corsair-virtuosity-microphone-a-complete-tutorial/"><u>Fixing a Nonfunctional Corsair Virtuosity Microphone - A Complete Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-nonfunctional-realtek-mic-troubleshooting-tips/"><u>Fixing a Nonfunctional Realtek Mic: Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mic-issues-on-razer-barracuda-x-solutions-for-windows-11-and-10/"><u>Fixing Mic Issues on Razer Barracuda X: Solutions for Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/front-speaker-connection-issues-heres-how-to-restore-sound-output/"><u>Front Speaker Connection Issues? Here's How to Restore Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-laptop-speakers-a-comprehensive-guide/"><u>How to Fix Silent Laptop Speakers – A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-7-microphone-issues-a-step-by-step-guide/"><u>How to Fix Windows 7 Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functioning-speakers-on-your-windows-11-system/"><u>How to Resolve Non-Functioning Speakers on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-pubg-mobile-with-easy-steps/"><u>How to Restore Voice Chat Functionality in PUBG Mobile with Easy Steps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-a14-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy A14 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nokia-c300-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nokia C300 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-fb-audio-problems-revive-your-videos-sounds-on-desktop-systems/"><u>Mastering FB Audio Problems: Revive Your Videos' Sounds on Desktop Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-battle-against-audio-distortion-in-resident-evil-village-gameplay/"><u>Overcoming the Battle Against Audio Distortion in Resident Evil Village Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-disruptions-in-the-game-back-4-blood/"><u>Overcoming Voice Chat Disruptions in the Game 'Back 4 Blood'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/post-update-sound-loss-on-windows-11-heres-your-easy-remedy/"><u>Post-Update Sound Loss on Windows 11? Here's Your Easy Remedy!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-communication-breakdown-solve-your-voice-chat-dilemmas-with-these-simple-steps/"><u>PUBG Communication Breakdown? Solve Your Voice Chat Dilemmas with These Simple Steps!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-non-functioning-logitech-g933-microphone-step-by-step/"><u>Quick Fix for Non-Functioning Logitech G933 Microphone - Step by Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-a-comprehensive-guide-for-fixing-the-microphone-in-counter-strike-2-gameplay/"><u>Resolved: A Comprehensive Guide for Fixing the Microphone in Counter-Strike 2 Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-discords-push-to-talk-step-by-step-solution/"><u>Resolving Issues with Discord's Push-to-Talk - Step by Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-repairing-headphone-connections-on-laptops/"><u>Reviving the Sound: Repairing Headphone Connections on Laptops</u></a></li>
+<li><a href="https://facebook.techidaily.com/simplified-steps-how-to-disassociate-from-facebook-tags/"><u>Simplified Steps: How to Disassociate From Facebook Tags</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-for-when-steelseries-arctis-1-mic-stops-working/"><u>Solution Guide for When SteelSeries Arctis 1 Mic Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-silent-systems-post-windows-11-upgrade-simple-fixes-inside/"><u>Solved: Silent Systems Post-Windows 11 Upgrade – Simple Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-audio-silence-solving-your-laptops-sound-problem/"><u>Troubleshooting Complete Audio Silence: Solving Your Laptop's Sound Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-realtek-hd-audio-connection-issues/"><u>Troubleshooting Steps for Realtek HD Audio Connection Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-non-responsive-voice-chat-in-call-of-dutys-modern-warfare/"><u>Troubleshooting Steps: Fixing Non-Responsive Voice Chat in Call of Duty's Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-restore-your-voice-chat-functionality-expert-tips-and-tricks/"><u>World of Warcraft: Restore Your Voice Chat Functionality – Expert Tips & Tricks</u></a></li>
+</ul></div>

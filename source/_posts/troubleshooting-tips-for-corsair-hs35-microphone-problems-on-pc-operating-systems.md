@@ -1,0 +1,167 @@
+---
+title: Troubleshooting Tips for Corsair HS35 Microphone Problems on PC Operating Systems
+date: 2024-08-27T21:05:05.123Z
+updated: 2024-08-28T21:05:05.123Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Troubleshooting Tips for Corsair HS35 Microphone Problems on PC Operating Systems
+excerpt: This Article Describes Troubleshooting Tips for Corsair HS35 Microphone Problems on PC Operating Systems
+thumbnail: https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f897f024e133b92335d61d4b28.jpg
+---
+
+## Razer Kraken Microphone Troubleshooting Guide - Problem Solved
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4d9e81f401f.jpg)
+
+ Has the microphone on your Razer Kraken headset stopped working? You’re not alone. Many users have had the same problem occurring randomly–even the first time they use the headset.
+
+ This is incredibly frustrating; you bought the headset so you could talk to people on it, and now you can’t! But don’t worry; you haven’t wasted your money. It can be fixed…
+
+## How to fix Razer Kraken Mic Not Working
+
+ Here are two fixes for you to try. You may not have to try them all. Just work your way down the list until you find the one that works for you.
+
+1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
+
+## Method 1: Check your microphone device settings
+
+ Your Razer Kraken mic may not be working because it’s disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
+
+**1) Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
+
+**2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+**3)** Select **Sound** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+**4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
+
+**5)**  Right click the**Headset Microphone** and click **Enable** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
+**6)** Right click it again and select **Set as Default Device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
+
+**7)** Right click**Headset Microphone** and click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
+
+**8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+**9)** Click**OK** , then click**OK** .
+
+ Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 2: Update your audio drivers
+
+ The mic on your Razer Kraken headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
+
+ You can update your driver manually or automatically. The manual process is time consuming, technical and risky, so we won’t cover it here. Nor do we recommend it unless you have excellent computer knowledge.
+
+ Updating your driver automatically, on the other hand, is very easy. Simply install and run [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , and it will automatically find all the devices on your PC that need new drivers, and install them for you. Here’s how to use it.
+
+**1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install**Driver Easy** .
+
+**2)**  Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+**3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
+
+ Once you’ve updated the driver for your Razer Kraken headset, restart your computer. Then log in again and see if the microphone is working.
+
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/rafting-a-viral-video-journey-6-key-strategies-on-youtube-for-2024/"><u>[New] Crafting a Viral Video Journey  6 Key Strategies on YouTube for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unveiling-the-ultimate-tools-for-high-quality-monitoring/"><u>[Updated] 2024 Approved  Unveiling the Ultimate Tools for High-Quality Monitoring</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-creating-a-personalized-google-cardboard-vr-setup/"><u>[Updated] Creating a Personalized Google Cardboard VR Setup</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-the-pinnacle-of-editing-android-edition-for-2024/"><u>[Updated] Explore the Pinnacle of Editing  Android Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-reddit-poster-canvas-ratio-for-2024/"><u>[Updated] Reddit Poster Canvas Ratio for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-troubles-on-windows-11-uncover-these-fixes-and-get-connected-again/"><u>Bluetooth Troubles on Windows 11? Uncover These Fixes and Get Connected Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-battle-cries-restoring-sounds-in-wow/"><u>Bring Back the Battle Cries: Restoring Sounds in WoW</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-tutorial-implementing-idt-high-quality-audio-codec-driver-on-your-windows-10-device/"><u>Comprehensive Tutorial: Implementing IDT High-Quality Audio Codec Driver on Your Windows 10 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-making-your-stereo-audio-work-again-problems-addressed/"><u>Expert Tips for Making Your Stereo Audio Work Again - Problems Addressed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-oculus-rift-s-microphone-issues-fast-top-5-tips/"><u>Fix Your Oculus Rift S Microphone Issues Fast: Top 5 Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-corsair-audio-device-troubleshooting-guide/"><u>Fixing a Non-Functional Corsair Audio Device: Troubleshooting Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-can-you-alter-content-of-your-instagram-messages/"><u>How Can You Alter Content of Your Instagram Messages?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-v30t-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme V30T For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016275811-how-to-repair-your-logitech-g230-mic-solved/"><u>How to Repair Your Logitech G230 Mic - Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-continuous-cut-out-sounds-on-your-windows-11-device-expert-tips-included/"><u>How to Resolve Continuous Cut-Out Sounds on Your Windows 11 Device - Expert Tips Included</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-dell-device-fast-and-simple/"><u>How to Restore Audio on Your Dell Device Fast and Simple</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-solutions-for-non-functional-speakers-in-windows-10-environments/"><u>In-Depth Solutions for Non-Functional Speakers in Windows 10 Environments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinetic-illustration-101-core-skills-and-concepts/"><u>Kinetic Illustration 101  Core Skills & Concepts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-obs-sound-issues-how-to-ensure-perfect-audio-during-live-streams-and-recordings/"><u>Mastering OBS Sound Issues: How to Ensure Perfect Audio During Live Streams and Recordings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-video-misalignment-advanced-tips-and-tricks-playback/"><u>Overcoming Audio-Video Misalignment: Advanced Tips & Tricks Playback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-level-strategies-for-photo-color-enhancement/"><u>Pro-Level Strategies for Photo Color Enhancement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repairing-an-unresponsive-astro-a10-microphone-in-minutes-quick-troubleshooting-guide/"><u>Repairing an Unresponsive Astro A10 Microphone in Minutes: Quick Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repairing-and-enhancing-the-performance-of-your-logitech-g933-microphone/"><u>Repairing and Enhancing the Performance of Your Logitech G933 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-pc-problems-easy-solutions-for-windows-10-sound-failures/"><u>Resolve Silent PC Problems: Easy Solutions for Windows 10 Sound Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-inactive-mic-on-the-turtle-beach-elite-atlas-controller/"><u>Resolving Issues with Inactive Mic on the Turtle Beach Elite Atlas Controller</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-restore-cod-vanguards-voice-chat-feature/"><u>Solution Guide: How to Restore Cod: Vanguard's Voice Chat Feature</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962946686-solution-magnetic-particle-testing-mpt-is-most-suitable-for-ferromagnetic-materials-that-can-be-magnetized/"><u>Solution: Magnetic Particle Testing (MPT) Is Most Suitable for Ferromagnetic Materials that Can Be Magnetized.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-silent-problem-restoring-audio-in-windows-media-player/"><u>Solve the Silent Problem: Restoring Audio in Windows Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-idt-hd-audio-driver-issues-in-windows-11-effective-techniques-and-tips/"><u>Solve Your IDT HD Audio Driver Issues in Windows 11: Effective Techniques and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-to-get-your-realtek-hd-sound-driver-running-again/"><u>Step-by-Step Fixes to Get Your RealTek HD Sound Driver Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-get-your-headphones-working-on-windows-11/"><u>Step-by-Step Solution to Get Your Headphones Working on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-overwatch-voip-heres-how-you-can-get-it-running-smoothly-again/"><u>Trouble with Overwatch VOIP? Here's How You Can Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016547827-trouble-with-your-razer-man-o-war-mic-heres-how-to-fix-it/"><u>Trouble with Your Razer Man O' War Mic? Here’s How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-correct-sound-driver-glitches-for-dell-pcs-running-windows-7/"><u>Troubleshoot and Correct Sound Driver Glitches for Dell PCs Running Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-reactivate-sounds-in-google-chrome/"><u>Troubleshooting Complete: Reactivate Sounds in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-skype-mic-on-windows-11/"><u>Troubleshooting Guide: Fixing Non-Functional Skype Mic on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-resolve-nvidia-card-unplugged-issues/"><u>Troubleshooting Guide: How To Resolve Nvidia Card Unplugged Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-sound-on-windows-11-systems/"><u>Troubleshooting Non-Functional Sound on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-speakers-in-windows-7/"><u>Troubleshooting Non-Functional Speakers in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-making-the-corsair-hs70-mic-function-properly-again/"><u>Troubleshooting Tips: Making the Corsair HS70 Mic Function Properly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-a-broken-astro-a1n-ten-microphone/"><u>Ultimate Fixes for a Broken Astro A1n Ten Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-amplify-audio-in-windows-10-easily/"><u>Ultimate Tricks to Amplify Audio in Windows 10 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unseen-audio-devices-make-headphones-visible-again-on-your-windows-10-machine/"><u>Unseen Audio Devices? Make Headphones Visible Again on Your Windows 10 Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016058518-unstuck-your-voice-communication-in-apex-legends-fixes-you-need-today/"><u>Unstuck Your Voice Communication in Apex Legends – Fixes You Need Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-microphone-fixes-overcoming-common-audio-troubleshooting-hurdles/"><u>Windows 7 Microphone Fixes: Overcoming Common Audio Troubleshooting Hurdles</u></a></li>
+</ul></div>

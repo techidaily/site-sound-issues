@@ -1,0 +1,215 @@
+---
+title: "Revive the Beats of Cyberpunk 2077: A Guide for Fixing Sound Malfunctions on Windows 10 Systems"
+date: 2024-08-27T21:03:45.245Z
+updated: 2024-08-28T21:03:45.245Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Revive the Beats of Cyberpunk 2077: A Guide for Fixing Sound Malfunctions on Windows 10 Systems"
+excerpt: "This Article Describes Revive the Beats of Cyberpunk 2077: A Guide for Fixing Sound Malfunctions on Windows 10 Systems"
+thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0cadba6aa4959212fd46b070e.jpg
+---
+
+## No More Silent World: Restoring Sounds to Cyberpunk 2077 on Windows 11
+
+After several patches, many gamers are still reporting a no sound/no dialogue audio issue in Cyberpunk 2077\. But don’t worry if you happen to be one of them. Here we put together some working fixes for you, try them and restore the audio in a jiff.
+
+## Try these fixes
+
+ You might not need to try them all. Simply work your way down until you find the one that rocks.
+
+1. [**Check the connection of your audio device**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Make sure your audio device is set up properly**](https://tools.techidaily.com/drivereasy/download/)
+3. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
+5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Check the connection of your audio device
+
+ Let’s start with some easy troubleshooting. If your in-game audio isn’t working, first you want to**make sure the physical connection is robust** . Be sure the cable is not broken, and is securely plugged into the correct headphone jack. You can also try a replug and see if it gets your audio back. And if you’re using a headset with a volume switch, make sure it’s set to a moderate value.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
+
+If the connection is fine, you can take a look at the next fix below.
+
+### Fix 2: Make sure your audio device is set up properly
+
+ Next you need to**check if your audio device is properly configured on Windows** . (If your device works everywhere except in Cyberpunk 2077, you can jump to the next fix.)
+
+Here’s how:
+
+1. On the bottom right corner of your screen, right-click the**Sound** icon and select**Open Sound settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings-1.jpg)
+2. Under the**Output** section, expand the menu below**Choose your output device** . Then select your desired output device. On the bar below**Master volume** , toggle the slider several times until you hear beeps coming out your device.  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-up-output-device.jpg)
+3. Now you can launch Cyberpunk 2077 and test the audio.
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+If the problem remains, you can move on to the next method.
+
+### Fix 3: Update your audio driver
+
+ Though Cyberpunk 2077 is filled with bugs, the sound not working issue could result from**a faulty or outdated audio driver** . If you didn’t update any drivers before installing Cyberpunk 2077, definitely do it now as it could save your day.
+
+ To update the audio driver manually, you can go to your audio card manufacturer’s website, then download and install the correct driver step-by-step. If you don’t have the time, patience or computer skills to update your device drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that detects, downloads and installs any driver updates your computer needs.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Once you’ve updated your device drivers, restart your PC and see if the audio is restored in Cyberpunk 2077.
+
+ If updating drivers doesn’t help you, simply take a look at the next fix.
+
+### Fix 4: Verify the integrity of your game files
+
+ New games tend to be buggy, so there’ll be multiple patches after the release.[According to some gamers](https://forums.cdprojektred.com/index.php?threads/sound-issues.11040671/post-12308855) , the Cyberpunk 2077 no sound issue could be fixed by scanning and repairing game files. So you can try the same and see how it goes.
+
+Here’re the guides on how to do that on different platforms:
+
+#### GOG GALAXY
+
+1. Launch GOG GALAXY 2.0\. From the left menu, select Owned games. Click the Cyberpunk picture.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-gog-1.jpg)
+2. Click the **Settings icon** next to the**Play** button. Hover your mouse cursor on**Manage installation** and select**Verify / Repair** . Then wait for the checking to complete.  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-gog-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+#### Steam
+
+1. Open your Steam client. Navigate to the**LIBRARY** tab. Right-click**Cyberpunk 2077** and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-steam-1.jpg)
+2. Navigate to the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME FILES** , then wait for it to complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-steam-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+#### Epic Games
+
+1. Open your Epic Games client. From the left menu, select**Library** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/epic-games-launcher-library.jpg)
+2. Click the Cyberpunk 2077 tile and click the icon with three dots. Then click **Verify** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-epic-2.jpg)
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+ You might need to verify the game a couple of times to repair all the files.
+
+Now launch Cyberpunk 2077 and see if you can hear anything.
+
+If this solution doesn’t help you, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+### Fix 5: Install all Windows updates
+
+ Windows updates include security patches that tackle compatibility issues. They can also help avoid loads of strange issues. If you never bother to check for system updates, definitely do it now.
+
+Here’s how:
+
+1. On your keyboard, press the **Windows logo key**  and **I** (the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
+![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
+2. Click **Check for updates** . It might take up to an hour for Windows to download and install available updates.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+ To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
+
+---
+
+ So these are the solutions for your no sound issue in Cyberpunk 2077\. If you have any ideas or questions, jot them down below and we’ll get back to you asap.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-essential-tactics-for-viral-fb-video-marketing-for-2024/"><u>[New] Essential Tactics for Viral FB Video Marketing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-no-sound-in-world-of-warcraft/"><u>[Solved] No Sound in World of Warcraft</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-maximizing-your-dslr-footage-with-pc-or-mac-for-social-media/"><u>[Updated] 2024 Approved  Maximizing Your DSLR Footage with PC or Mac for Social Media</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-memes-unite-reddit-and-twitters-top-twenty/"><u>[Updated] In 2024, Memes Unite  Reddit & Twitter's Top Twenty</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-shadowy-snapshots-skills-for-stunning-night-images/"><u>[Updated] In 2024, Shadowy Snapshots  Skills for Stunning Night Images</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-rapid-reader-advanced-windows-photoshop-for-2024/"><u>[Updated] Rapid Reader - Advanced Windows Photoshop for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bringing-life-to-slides-adding-audio-effectively-powerpoint/"><u>2024 Approved  Bringing Life to Slides  Adding Audio Effectively (PowerPoint)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-future-of-video-capturing-embracing-vimeo-record/"><u>2024 Approved  The Future of Video Capturing  Embracing Vimeo Record</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/breaking-the-quiet-barrier-effective-techniques-for-restoring-your-laptops-audio-output/"><u>Breaking the Quiet Barrier: Effective Techniques for Restoring Your Laptop's Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-annoying-audio-pops-on-your-computer-quick-fix-guide/"><u>Dealing With Annoying Audio Pops on Your Computer: Quick Fix Guide.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016363571-effortless-ways-to-eliminate-bluetooth-audio-lag/"><u>Effortless Ways to Eliminate Bluetooth Audio Lag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ensuring-device-compatibility-a-how-to-for-backing-up-drivers-in-windows-1110/"><u>Ensuring Device Compatibility: A How-To for Backing Up Drivers in Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-microphone-functionality-in-steelseries-arctis-1/"><u>Expert Tips: Restoring Microphone Functionality in SteelSeries Arctis 1</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-guide-getting-audio-devices-recognized-in-windows-11-media-player/"><u>Fix Guide: Getting Audio Devices Recognized in Windows 11 Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-intermittent-bluetooth-sound-disruptions-in-windows-10-and-11/"><u>Fixes for Intermittent Bluetooth Sound Disruptions in Windows 10 & 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-the-oculus-quest-2-headsets-microphone/"><u>Fixing Issues with the Oculus Quest 2 Headset's Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-dilemma-solving-airpods-not-playing-audio-in-windows-11-and-10/"><u>Fixing the Silent Dilemma: Solving 'AirPods Not Playing Audio' In Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-fortnite-audio-back-on-track-expert-tips-for-repairing-the-in-game-mic/"><u>Get Your Fortnite Audio Back On Track: Expert Tips for Repairing the In-Game Mic</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-glitch-fixed-uninterrupted-video-output-now/"><u>GPU Glitch Fixed: Uninterrupted Video Output Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-repairing-microphone-malfunctions-in-your-turtle-beach-elite-atlas-gaming-headset/"><u>Guide to Repairing Microphone Malfunctions in Your Turtle Beach Elite Atlas Gaming Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-disabling-windows-11s-acoustic-enhancement-settings/"><u>Guide: Disabling Windows 11'S Acoustic Enhancement Settings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hear-better-again-correcting-distorted-and-silent-audio-in-ios-devices/"><u>Hear Better Again: Correcting Distorted and Silent Audio in iOS Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-deactivate-windows-10s-audio-boost-functionality/"><u>How to Deactivate Windows 10'S Audio Boost Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-speakers-on-your-windows-11-pc-solved/"><u>How to Fix Non-Functional Speakers on Your Windows 11 PC - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-speaker-setup-unknown-on-windows-11/"><u>How to Fix Speaker Setup (Unknown) on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016194624-how-to-get-your-onikuma-headset-mic-up-and-running-again/"><u>How To Get Your Onikuma Headset Mic Up And Running Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-increase-system-speaker-volume-efficiently-on-a-windows-11-pc/"><u>How to Increase System Speaker Volume Efficiently on a Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-sound-functionality-in-windows-7-solutions-revealed/"><u>How to Restore HDMI Sound Functionality in Windows 7 - Solutions Revealed</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-6s-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 6s Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funnyframefactory-imggigglesworkshop/"><u>In 2024, FunnyFrameFactory  ImgGigglesWorkshop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-remedies-for-common-playback-issues-a-guide-to-silencing-errors/"><u>Instant Remedies for Common Playback Issues – A Guide to Silencing Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g230-mic-problem-solved-step-by-step-troubleshooting-tips/"><u>Logitech G230 Mic Problem Solved? Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-sound-quality-fixing-common-auditory-faults-in-resident-evil-village/"><u>Mastering the Sound Quality: Fixing Common Auditory Faults in Resident Evil Village</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-battles-wows-sound-problem-solved/"><u>No More Quiet Battles: WoW's Sound Problem Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-one-or-more-nonfunctional-audio-streams/"><u>Overcoming Issues with One or More Nonfunctional Audio Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-to-restoring-sounds-on-the-astro-a50-wireless-speakers/"><u>Quick Guide to Restoring Sounds on the Astro A50 Wireless Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-the-puzzle-of-audio-hiccups-in-bluetooth-connections-on-microsofts-latest-os/"><u>Resolve the Puzzle of Audio Hiccups in Bluetooth Connections on Microsoft's Latest OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-microphones-volume-issues-a-comprehensive-guide/"><u>Solve Your Microphone's Volume Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-microphones-volume-problem-a-step-by-step-guide/"><u>Solving Your Microphone’s Volume Problem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-malfunction-solutions-and-tips-for-gamers-edition/"><u>Squad Mic Malfunction Solutions & Tips for Gamers - Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-strategies-for-dealing-with-playback-tone-issues/"><u>Step-by-Step Strategies for Dealing with 'Playback Tone Issues'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016606425-stereo-speaker-mix-malfunction-repairs-get-your-left-and-right-channels-back-on-track/"><u>Stereo Speaker Mix Malfunction Repairs: Get Your Left and Right Channels Back on Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-for-eliminating-audio-delays-2024s-top-strategies/"><u>The Definitive Solution for Eliminating Audio Delays: 2024'S Top Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-unconnected-nvidia-ports-with-proven-techniques/"><u>Troubleshoot Unconnected Nvidia Ports with Proven Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting and Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+</ul></div>

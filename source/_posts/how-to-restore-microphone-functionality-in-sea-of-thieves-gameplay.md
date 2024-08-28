@@ -1,0 +1,236 @@
+---
+title: How to Restore Microphone Functionality in Sea of Thieves Gameplay
+date: 2024-08-27T21:11:28.007Z
+updated: 2024-08-28T21:11:28.007Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes How to Restore Microphone Functionality in Sea of Thieves Gameplay
+excerpt: This Article Describes How to Restore Microphone Functionality in Sea of Thieves Gameplay
+thumbnail: https://thmb.techidaily.com/ee509985fa8ab0e5a1522d3ddaaa35b579b8ee6b6edaefb4d7205a810da0e219.jpg
+---
+
+## Fixing Issues: How to Restore Microphone Functionality in Corsair HS35 Headset (Windows) | Solved
+
+The Corsair HS35 mic is a good-value product but it might be frustrating when it suddenly stops working sometimes. If you’re having the same issue, we have a few solutions that might work for you!
+
+## Try these fixes
+
+ **Before trying the fixes below, you should have a simple check first:**
+**–** Make sure your headset is not muted on the left earcup.
+ **–** Replug the mic (removable) on your Corsair HS35 headset.  
+**–** Check if your device’s ports are clogged by dust or obstacles.  
+**–** If you’re using a Desktop PC, try both the front and rear 3.5mm jacks.
+
+ You may not need to try them all; just work your way down the list until you find the fix that works.
+
+1. **[Allow access to your microphone on your PC](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Check the audio settings](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your sound card driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Reinstall the Corsair headset and iCUE software](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Use a USB audio card](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Seek technical support or after-sales service](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+## Fix 1 – Allow access to your microphone on your PC
+
+ If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
+
+1. Press the**Windows + I** keys to open Windows settings, then select**Privacy** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
+2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
+3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
+
+ Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+## Fix 2 – Check the audio settings
+
+ Sometimes your computer’s audio settings might be messed up because of frequent or erroneous operations. In this case, you should try the steps below to configure the audio settings.
+
+1. Right-click the**volume icon** on the task bar and then select**Sounds** from the mune that appears.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
+2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
+3. Right-click the headset microphone again and select **Properties.**  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
+4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
+
+ If this fix doesn’t give you the luck, try the next below to update your audio drives.
+
+---
+
+## Fix 3 – Update your audio driver
+
+ The mic not working problem may also occur if you are using the wrong audio driver or it’s out of date. Therefore you should update your audio driver to see if it fixes your problem.
+
+ You can manually install the most recent driver from your PC manufacturer’s official website or from the **[Corsair download page](https://www.corsair.com/us/en/downloads)**  . But if you don’t have the time, patience or skills to update the driver manually, **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  can do it for you.
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
+3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
+4. After updating your audio driver, restart your PC for the trick to take effect.
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
+
+---
+
+## Fix 4 – Reinstall the Corsair headset and iCUE software
+
+ When you have problems using your microphone, you can try reinstalling your Corsair headset and the iCUE software. This will enable your computer to reload data from your Corsair headset and resolve the conflict between your PC and the iCUE software. Here’s how it’s done:
+
+1. Press**Windows + X** keys to open the quick access menu and select**Device Manager** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
+2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
+3. Click**Uninstall** in the confirmation box that pops up.
+4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
+5. Select**iCUE** and then click**Uninstall** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
+6. Click**Yes** in the confirmation box.
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+7. Restart your PC and replug your Corsair headset into your computer.
+8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
+
+ If this method doesn’t work, then try the one below.
+
+---
+
+## Fix 5 – Use a USB audio card
+
+ If your computer’s sound card is defective or if your laptop/desktop system has a faulty 3.5mm audio port, the Corsair HS35 mic may not be able to work properly. If that is the case, you might think about using a USB Audio Card, which is an external sound device that can **bypass problems in your built-in sound card and regain the audio function for you** .
+
+Top Pick
+
+[PHOINIKAS External Sound Card](https://m.media-amazon.com/images/I/41olD79ItNL._SL500_.jpg) ](https://www.amazon.com/dp/B07FP8PG9N?tag=ad00905-20&rfsn=7084458.e07eac)
+
+[PHOINIKAS External Sound Card](https://www.amazon.com/dp/B07FP8PG9N?tag=ad00905-20&rfsn=7084458.e07eac)
+
+* PLUG & PLAY USB
+* 4 FEET CABLE
+* STEREO SOUND ADAPTER
+* MULTI-PORT SOUND CARD
+
+[See It](https://www.amazon.com/dp/B07FP8PG9N?tag=ad00905-20&rfsn=7084458.e07eac)
+
+Top Pick
+
+[Creative External Sound Adapter](https://m.media-amazon.com/images/I/31-Bovd6FkL._SL500_.jpg) ](https://www.amazon.com/dp/B08T9LM3LM?tag=ad00905-20&rfsn=7084458.e07eac)
+
+[Creative External Sound Adapter](https://www.amazon.com/dp/B08T9LM3LM?tag=ad00905-20&rfsn=7084458.e07eac)
+
+* SUPER EASY TO SET UP
+* AUTO MIC MUTE AND UNMUTE
+* TWO-WAY NOISE CANCELLATION
+* BUILT-IN EQ MODES
+
+[See It](https://www.amazon.com/dp/B08T9LM3LM?tag=ad00905-20&rfsn=7084458.e07eac)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 6 – Seek technical support or after-sales service
+
+ If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
+
+---
+
+ That’s it – hopefully the six fixes we have here can help you resolve your Corsair HS35 mic not working problem. If you have any other solutions or ideas for this problem, please leave a comment below and share them with us!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-avatar-makeover-building-your-cartoon-personality/"><u>[New] 2024 Approved  Avatar Makeover  Building Your Cartoon Personality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-behind-the-smile-the-deeper-story-in-each-snapchat-emoji/"><u>[Updated] 2024 Approved  Behind the Smile  The Deeper Story in Each Snapchat Emoji</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-devising-a-personalized-tiktok-alphanumeric-marker/"><u>[Updated] 2024 Approved  Devising a Personalized TikTok Alphanumeric Marker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-visuals-using-chroma-key-effectively/"><u>[Updated] 2024 Approved  Enhancing Visuals  Using Chroma Key Effectively</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-minisculecam-record-evaluation-and-comparisons/"><u>[Updated] 2024 Approved  MinisculeCam Record Evaluation & Comparisons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-insights-on-incorporating-hashtags-for-game-streams-for-2024/"><u>[Updated] Expert Insights on Incorporating Hashtags for Game Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-finalizing-your-video-with-a-bold-statement/"><u>[Updated] Finalizing Your Video with a Bold Statement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luminous-leap-forward-three-hacks-to-shine-your-iphone-videography/"><u>[Updated] Luminous Leap Forward  Three Hacks to Shine Your iPhone Videography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-premier-paint-shop-pro-tricks/"><u>[Updated] Premier Paint Shop Pro Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pricing-guide-youtube-marketing-expenses/"><u>2024 Approved  Pricing Guide  YouTube Marketing Expenses</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-x90s-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo X90S Unlock Without Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bridging-the-gap-between-standard-and-superior-video-quality-techniques/"><u>Bridging the Gap Between Standard and Superior Video Quality Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-for-a-non-functioning-steelseries-arctis-7-headset-mic/"><u>DIY Repair Tips for a Non-Functioning SteelSeries Arctis 7 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-corsair-void-microphone-malfunctions/"><u>Effective Solutions for Corsair Void Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-guide-fixing-voice-chat-disruptions-on-fortnite-asap/"><u>Effortless Guide: Fixing Voice Chat Disruptions on Fortnite ASAP!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-razer-manowar-microphone-failure/"><u>Expert Advice on Resolving Razer ManO'War Microphone Failure</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-s23-fe-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy S23 FE Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016633491-how-to-get-your-league-of-legends-voice-communication-back-on-track-solutions-inside/"><u>How To Get Your League of Legends Voice Communication Back On Track - Solutions Inside!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-break-free-the-chuckles-ranking-20-hilarious-fb-detention-scenes/"><u>In 2024, Break Free the Chuckles  Ranking 20 Hilarious FB Detention Scenes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y27s-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y27s Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-pictorial-archive-networks/"><u>In 2024, Excellent Pictorial Archive Networks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-note-30-vip-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Note 30 VIP Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-the-broken-voice-chat-on-valorant/"><u>Step-by-Step Guide to Fixing the Broken Voice Chat on Valorant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-restoring-your-nvidia-monitor-connection/"><u>Step-by-Step Solutions for Restoring Your Nvidia Monitor Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015811553-tackle-sound-problems-head-on-fix-windows-stutter-and-distortion-issues-today/"><u>Tackle Sound Problems Head-On: Fix Window's Stutter and Distortion Issues Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-voice-chat-glitches-on-valorant-platform/"><u>The Ultimate Guide to Fixing Voice Chat Glitches on Valorant Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooting-checklist-overcoming-voicemod-not-working-problem-latest-tips/"><u>The Ultimate Troubleshooting Checklist: Overcoming Voicemod Not Working Problem - Latest Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-fortnite-microphone-issue-easily/"><u>Troubleshoot and Fix Your Fortnite Microphone Issue Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-effective-solutions-when-hyperx-cloud-alpha-microphone-stops-working/"><u>Troubleshoot and Repair: Effective Solutions When HyperX Cloud Alpha Microphone Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-microsoft-surface-earbud-microphone-issues-in-windows-11/"><u>Troubleshooting and Repairing Microsoft Surface Earbud Microphone Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-device-problems-fixing-no-speakers-or-headphones-detected-on-windows-10-8-and-7/"><u>Troubleshooting Audio Device Problems: Fixing 'No Speakers or Headphones' Detected on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-onikuma-microphone-issues-now-resolved/"><u>Troubleshooting Guide: Fixing Onikuma Microphone Issues - Now Resolved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-call-of-duty-warzones-voice-and-microphone-functionality-on-pc-and-consoles/"><u>Troubleshooting Guide: Resolving Issues with Call of Duty Warzone's Voice and Microphone Functionality on PC and Consoles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-for-silent-usb-headphones-on-windows-7-computers/"><u>Troubleshooting Solutions for Silent USB Headphones on Windows 7 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-eliminate-the-crackling-noise-in-your-arctisys-7-headset-on-a-pc/"><u>Troubleshooting Solutions: Eliminate the Crackling Noise in Your ArctiSys 7 Headset on a PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-black-ops-cold-war-when-voice-chat-fails-to-function/"><u>Troubleshooting Steps for Black Ops Cold War When Voice Chat Fails to Function</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-phasmophobia-voice-chat-issues/"><u>Troubleshooting: How To Fix 'Phasmophobia' Voice Chat Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-support-article-why-wont-my-headphones-work-solutions-inside/"><u>Windows 11 Support Article: Why Won't My Headphones Work? Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-microphone-not-functioning-heres-how-to-fix-it-step-by-step/"><u>Windows 7 Microphone Not Functioning? Here's How to Fix It Step-by-Step</u></a></li>
+</ul></div>

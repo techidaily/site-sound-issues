@@ -1,0 +1,192 @@
+---
+title: Configuring and Repairing Unseen Speakers on Windows 11 Systems with Ease
+date: 2024-08-27T21:13:08.023Z
+updated: 2024-08-28T21:13:08.023Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Configuring and Repairing Unseen Speakers on Windows 11 Systems with Ease
+excerpt: This Article Describes Configuring and Repairing Unseen Speakers on Windows 11 Systems with Ease
+thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d1008a2fd7cf38de6f5c41cb.jpg
+---
+
+## Anthem on Windows 11 Won't Sound? Here's How to Get Your Game Roaring Again
+
+**Playing Anthem without sound** would be unplayable. For a gamer like you, it’s a problem that needs to be fixed. Don’t worry, you’re not alone. This post gives you 6 fixes to help you solve the issue.
+
+But first, ensure that your device has been connected and set correctly.
+
+ You may plug your audio playback devices (e.g. headphones) in your computer and wear them to play Anthem. Unplugged your devices and plugged them back in, may give you the sound.  
+ But even if this method works, it may work once, can’t last long. To solve the issue permanently, you can move down to check other fixes.
+
+## Try these fixes
+
+ The “Anthem no sound” issue can be caused by several reasons: hardware; software; driver; incorrect settings or the game itself.
+
+1. [**Set your device as Default**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Run audio troubleshooting**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Set the Default Format in the lowest mode**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Uncheck “Disable all sound effects”**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
+6. [**Restart the game**](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Set your device as Default
+
+ If you have multiple output devices (more than two), you’d better set the headset as default. It probably the reason for “Anthem no sound” error.
+
+1. Right-click the Sound icon on the right corner of your taskbar.
+2. Click**Sound** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
+3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
+4. Go back to the Anthem and check it has sound or not.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Run audio troubleshooting
+
+ Windows 10 has a built-in troubleshooter to diagnose and automatically fix common problems. There are many troubleshooters for different problems. For the “Anthem no sound” error, you can run the audio troubleshooter to resolve the issue.
+
+1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
+2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Follow the on-screen instructions to finish the process.
+4. Restart your computer and check whether Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Set the Default Format in the lowest mode
+
+ Excessive sound quality requirements may cause too much load on the game and lead to the “Anthem no sound” issue. So adjust the Sound default format into the lowest mode may help you solve the issue.
+
+1. Right-click the Sound icon on the right corner of your taskbar.
+2. Click**Sound** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
+3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
+4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+5. Reboot your computer and check whether Anthem has sound or not.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 4: Uncheck “Disable all sound effects”
+
+ To solve the issue, you can try changing the sound settings. Uncheck “Disable all sound effect” has been proven effective by many users in audio issues.
+
+1. In the right-bottom toolbar, right-click on the volume icon.
+2. Click **Sounds** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
+3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
+4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
+5. Click **Apply > OK** .
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Reboot your computer and go back to the game, you should have audio now.
+
+### Fix 5: Update your audio driver
+
+ One reason for many computer errors is outdated drivers for your hardware devices. You should verify that your devices have the right and latest drivers, and update those that don’t.
+
+ There are two ways you can get the right drivers: manually or automatically.
+
+**Download and install the driver manually** – You can update your driver manually by going to the manufacturer’s website, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version.
+
+**Automatically update drivers** – If you don’t have the time, patience or computer skills to update your driver manually, you can do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your device, and your Windows version, and it will download and install it correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
+3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
+4. Restart your computer and check the Anthem has sound or not.
+
+### Fix 6: Restart the game
+
+ If the “Anthem no sound” error is nothing to do with the hardware, audio program and windows system, the error is caused by the game itself.
+
+ Make sure you’ve got the latest version for Anthem. If you don’t, update your game version. Except for waiting for Anthem releases a new update to solve the bug, the only current way to deal with the bug is to reboot the game.
+
+---
+
+ We hope you find these techniques useful. You’re welcome to leave comments and questions below.
+
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/best-fixes-toshiba-laptop-sound-not-working/"><u>[Best Fixes] Toshiba Laptop Sound Not Working</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-skills-for-non-audio-shooting/"><u>[New] 2024 Approved  Essential Skills for Non-Audio Shooting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-igniting-creativity-in-your-channel-top-youtube-video-ideas/"><u>[New] 2024 Approved  Igniting Creativity in Your Channel  Top YouTube Video Ideas</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-pinpoint-and-eliminate-android-video-glitches-for-2024/"><u>[New] Pinpoint & Eliminate Android Video Glitches for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-bite-sized-script-producer-for-2024/"><u>[Updated] Bite-Sized Script Producer for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-striking-setups-to-impress-online-audiences/"><u>[Updated] Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-best-of-the-brainless-top-zombie-game-sweepstakes/"><u>2024 Approved  The Best of the Brainless  Top Zombie Game Sweepstakes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-swift-fixes-to-get-your-oculus-rift-ss-microphone-up-and-running/"><u>5 Swift Fixes to Get Your Oculus Rift S's Microphone Up and Running</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g34-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G34 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-mutism-problems-on-your-discord-conversations/"><u>Addressing Mutism Problems on Your Discord Conversations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-troubles-restore-computer-sounds-quickly-with-these-tips/"><u>Audio Troubles? Restore Computer Sounds Quickly With These Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-guide-downloading-torrents-a-beginners-tutorial/"><u>Comprehensive Guide: Downloading Torrents - A Beginner's Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016396465-csgo-audio-trouble-heres-how-to-resolve-mic-problems/"><u>CS:GO Audio Trouble? Here's How to Resolve Mic Problems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267419141-dont-lose-anythpressentiment-recover-iphone-files-quickly-with-stellar-order-now/"><u>Don't Lose Anythpressentiment; Recover iPhone Files Quickly with Stellar - Order Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-mobile-filming-tech-for-iphones/"><u>Elite Mobile Filming Tech for iPhones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-experience-on-your-computer-with-easy-windows-11-settings/"><u>Enhancing Audio Experience on Your Computer with Easy Windows 11 Settings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/evolutionary-advantages/"><u>Evolutionary Advantages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-making-your-microsoft-teams-microphone-work-properly-on-latest-windows-versions/"><u>Expert Advice: Making Your Microsoft Teams Microphone Work Properly on Latest Windows Versions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insights-into-motorola-mg7700-balancing-speed-with-dependable-quality/"><u>Expert Insights Into Motorola MG7700: Balancing Speed with Dependable Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-functionality-of-your-hyperx-cloud-alpha-mic-troubleshooting-steps/"><u>Expert Tips to Restore Functionality of Your HyperX Cloud Alpha Mic - Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-to-gaming-with-friends-resolving-voice-chat-problems-in-valorant/"><u>Get Back to Gaming with Friends: Resolving Voice Chat Problems in Valorant</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-realme-c67-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Realme C67 5G Phones with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-8-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-corsair-void-mic-not-working/"><u>How To Fix Corsair Void Mic Not Working</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-12-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 12 Factory Reset? | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-bluetooth-connectivity-problems/"><u>How to Repair Windows 11 Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a60s-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel A60s to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-rhythmic-revolution-top-tracks-reshaping-the-rap-scene-on-tiktok/"><u>In 2024, Rhythmic Revolution  Top Tracks Reshaping the Rap Scene on TikTok</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-viral-loop-creations-instagrams-boomerang-guide/"><u>In 2024, Viral Loop Creations  Instagram's Boomerang Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-speaker-levels-in-windows-11-essential-tips-and-tricks/"><u>Maximizing Speaker Levels in Windows 11: Essential Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenge-of-non-functional-microphone-with-your-airpods-on-a-pc-running-windows-10/"><u>Overcoming the Challenge of Non-Functional Microphone with Your AirPods on a PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-pc-gaming-overcoming-silent-mode-on-black-ops-cold-war/"><u>Restoring Sounds in PC Gaming - Overcoming Silent Mode on Black Ops: Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-mouses-volume-a-user-friendly-guide-to-restoring-sound-on-a-logitech-g933/"><u>Revive Your Mouse's Volume: A User-Friendly Guide to Restoring Sound on a Logitech G933</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-sound-experience-with-easy-fixes-for-windows-11-devices/"><u>Revive Your Sound Experience with Easy Fixes for Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-when-windows-10-fails-to-detect-your-headphones-during-playback/"><u>Solution Guide: When Windows 10 Fails to Detect Your Headphones During Playback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-implemented-eliminating-audio-issues-within-firefox-web-browser/"><u>Solution Implemented: Eliminating Audio Issues Within Firefox Web Browser</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-windows-11-microphone-problems-with-these-easy-fixes/"><u>Solve Windows 11 Microphone Problems with These Easy Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-restoring-audio-in-your-pcs-zoom-calls/"><u>Solving the Dilemma: Restoring Audio in Your PC's Zoom Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-a-non-functional-mic-on-your-steelseries-arctis-7-headset/"><u>Solving the Problem of a Non-Functional Mic on Your SteelSeries Arctis 7 Headset</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-rearranged-input-on-microsoft-devices/"><u>Tackling Rearranged Input on Microsoft Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-crafting-unique-chatgpt-directives/"><u>The Art of Crafting Unique ChatGPT Directives</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repair-tips-for-your-non-functional-logitech-g933-mic/"><u>Troubleshooting and Repair Tips for Your Non-Functional Logitech G933 Mic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-selection-of-omnidirectional-recording-devices/"><u>Ultimate Selection of Omnidirectional Recording Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo S17t | Dr.fone</u></a></li>
+</ul></div>
