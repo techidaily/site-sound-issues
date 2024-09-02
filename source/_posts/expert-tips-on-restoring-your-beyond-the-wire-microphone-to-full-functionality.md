@@ -1,0 +1,230 @@
+---
+title: Expert Tips on Restoring Your 'Beyond The Wire' Microphone to Full Functionality
+date: 2024-08-31T23:57:04.205Z
+updated: 2024-09-01T23:57:04.205Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Expert Tips on Restoring Your 'Beyond The Wire' Microphone to Full Functionality
+excerpt: This Article Describes Expert Tips on Restoring Your 'Beyond The Wire' Microphone to Full Functionality
+thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c10e7d8eb07bd33367c48152.jpg
+---
+
+## Beyond The Wire Microphone Malfunction Solutions: Making Your Microphone Work Again
+
+Beyond The Wire is available in Early Access now! While the immersive and cinematic warfare of WW1 is exciting enough, many players complained their mic not working during gameplay and they couldn’t talk to teammates at all. Don’t worry. We’ve put together some possible workarounds here.
+
+## Try these fixes
+
+ You don’t need to try them all, just work your way down the list until you find the one that solves the problem.
+
+1. **[Restart your game](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Allow the game to access your microphone](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Configure the sound settings correctly](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Run Beyond The Wire as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1 – Restart your game
+
+ If your microphone accidentally disconnects during the play sessions, it may stop working until you restart the game completely. Make sure the microphone is securely connected and then restart Beyond The Wire to see if everything goes back to normal. If not, go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+### Fix 2 – Allow the game to access your microphone
+
+ Windows 10 enables users to control whether an app can access the microphone via the privacy settings. If the settings are improperly modified, some programs may fail to use your microphone.
+
+**1)** On your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings window.
+
+**2)** Click**Privacy** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-2.jpg)
+
+**3)** Select**Microphone** on the left pane. Then, click the**Change** button, and make sure**Microphone access for this device** is turned**on** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-3.jpg)
+
+**4)** Scroll down and toggle on**Allow apps to access your microphone** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+**5)** Locate**Allow desktop apps to access your microphone** and toggle on the button below.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-4.jpg)
+
+ Test how the microphone works in Beyond The Wire. If the mic-not-working issue reoccurs, read on to more solutions below.
+
+### Fix 3 – Configure the sound settings correctly
+
+ To use your microphone properly, it’s essential to make everything right in your sound settings. If you don’t know how, simply follow the steps below:
+
+**1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**control** in the field and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)** Select**Small icons** under**View by** . Then, click**Sound** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Click the**Recording** tab. Then, right-click on any empty space and tick**Show Disabled Devices** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-0-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Right-click microphones you’re not using and click**Disable** one by one.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-9.jpg)
+
+**5)** Click the microphone you’re using and click**Set Default** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-5.jpg)
+
+**6)** Click the**Levels** tab. If your microphone is muted, click the**speaker icon** to unmute it. Then, drag the slider to**set the microphone volume to the max** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+**7)** Click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-49.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ Now that you’ve set your desired microphone as the default device, disabled other microphones, and also turned up the volume to the max, it should be working fine when you’re playing Beyond The Wire. If not, check out the next fix below.
+
+### Fix 4 – Update your audio driver
+
+ The Beyond The Wire mic-not-working problem may occur if you are using the wrong audio driver or it’s out of date. So you should update the audio driver to see if it brings your microphone back to life.
+
+ You can download the latest audio driver from the device manufacturers and install it manually. But this process requires some time, patience and computer skills. If you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+**1)** **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-8.jpg)
+
+**3)** Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the**FREE version** ).
+
+ Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-4.jpg)
+
+ You can do it for free if you like, but it’s partly manual.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Now check whether you’re able to use the microphone normally in Beyond The Wire or not. If the problem persists, please try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5 – Run Beyond The Wire as an administrator
+
+ When you run a game as an administrator, it will access unrestricted privileges. Many players suggest putting Beyond The Wire in the administrator mode as this amazingly solved the mic-not-working issue.
+
+**1)** Right-click the Beyond The Wire icon on your desktop, and click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-2.jpg)
+
+**2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+ Launch your game again and the microphone should be transmitting your voice in the right way.
+
+---
+
+ There you have it – 5 simple fixes for the Beyond The Wire mic-not-working issue. If you have further questions or suggestions, please leave a comment below and we’ll be glad to help.
+
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-masterful-descriptions-for-youtube-success/"><u>[Updated] In 2024, Masterful Descriptions for YouTube Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instantaneous-aspect-alteration-for-visual-content/"><u>[Updated] Instantaneous Aspect Alteration for Visual Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-effective-strategies-to-minimize-ai-misinterpretations-through-smart-prompting/"><u>6 Effective Strategies to Minimize AI Misinterpretations Through Smart Prompting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-buzz-to-your-airpods-solutions-for-when-they-wont-play-audio-in-modern-windows-environments/"><u>Bring Back the Buzz to Your AirPods: Solutions for When They Won't Play Audio in Modern Windows Environments</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-cams-what-to-look-for/"><u>Budget-Friendly Cams: What to Look For</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-astro-a10-mic-issues-and-proven-fixes-overcoming-audio-troubles/"><u>Common Astro A10 Mic Issues and Proven Fixes: Overcoming Audio Troubles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-overcoming-silent-speakers-fixes-for-conexant-smartaudio-hd-on-windows-11/"><u>Comprehensive Solutions: Overcoming Silent Speakers – Fixes for Conexant SmartAudio HD on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-mic-woes-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Mic Woes? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciding-on-a-device-comparing-iphones-with-android-phones-for-you/"><u>Deciding on a Device: Comparing iPhones with Android Phones for You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-selection-of-26-gratis-pc-registry-cleaners-for-a-faster-system/"><u>Discover the Ultimate Selection of 26 Gratis PC Registry Cleaners for a Faster System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-scanner-non-operative-issues-in-windows-11-fixes/"><u>Epson Scanner Non-Operative Issues in Windows 11: Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-repairing-your-google-meet-audio-setup-in-windows-1110-environments/"><u>Expert Tips: Repairing Your Google Meet Audio Setup in Windows 11/10 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-scanner-issues-permanently/"><u>Fixing Windows Scanner Issues Permanently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-discord-push-to-talk-back-online-a-fix-for-when-it-stops-responding/"><u>Getting Discord Push-to-Talk Back Online: A Fix For When It Stops Responding</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-huawei-p60-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Huawei P60 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-razer-man-o-war-microphone-a-step-by-step-guide/"><u>How to Fix a Non-Functional Razer Man O' War Microphone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-keeps-cutting-out-windows-11/"><u>How to Fix Audio Keeps Cutting Out Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-windows-media-player-troubleshooting-guide/"><u>How to Fix Silent Windows Media Player: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g933-microphone-working-again-simple-steps/"><u>How to Get Your Logitech G933 Microphone Working Again [Simple Steps]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-hd-audio-codec-drivers-on-windows-11-a-complete-guide/"><u>How to Install IDT HD Audio Codec Drivers on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-output-error-for-headphones-and-speakers-in-windows-operating-systems-windows-1087/"><u>How to Resolve No Sound Output Error for Headphones and Speakers in Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015681830-how-to-restore-audio-functionality-on-your-windows-11-pc-now-fixed/"><u>How to Restore Audio Functionality on Your Windows 11 PC - Now Fixed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-se-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone SE for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-stability-mastering-shaky-images/"><u>In 2024, Capturing Stability  Mastering Shaky Images</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/july-7th-walter-a-brown-an-american-ice-hockey-player-who-achieved-great-success-as-both-a-player-and-coach-his-legacy-continues-to-inspire-future-generatio638/"><u>July 7Th - Walter A. Brown, an American Ice Hockey Player Who Achieved Great Success as Both a Player and Coach. His Legacy Continues to Inspire Future Generations of Athletes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017054667-logitech-g633-headset-not-working-heres-how-to-get-it-up-and-running-again/"><u>Logitech G633 Headset Not Working? Here's How to Get It Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g933-mic-issues-resolved-a-step-by-step-fixing-guide/"><u>Logitech G933 Mic Issues Resolved - A Step-by-Step Fixing Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-discord-chat-troubleshooting-solving-the-non-responsive-push-to-talk-problem/"><u>Mastering Discord Chat Troubleshooting: Solving the Non-Responsive Push-To-Talk Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/outriders-gameplay-interrupted-by-audio-errors-heres-how-to-fix-them/"><u>Outriders Gameplay Interrupted by Audio Errors? Here's How to Fix Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-voice-chat-trouble-heres-how-to-restore-audio-connection/"><u>PUBG Voice Chat Trouble? Here's How to Restore Audio Connection!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/recon-70-headset-repair-fixing-your-turtle-beach-microphone-issues/"><u>Recon 70 Headset Repair: Fixing Your Turtle Beach Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regain-lost-sound-fx-in-anthem-post-windows-10-enhancements/"><u>Regain Lost Sound Fx in Anthem Post-Windows 10 Enhancements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-malfunctions-on-mac-computers-step-by-step-solutions/"><u>Resolving Audio Malfunctions on Mac Computers: Step-by-Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-and-headphone-recognition-problems-in-windows-operating-systems-11-8-7/"><u>Resolving Microphone and Headphone Recognition Problems in Windows Operating Systems (11, 8, 7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-to-your-lenovo-laptop-essential-tips-and-fixes-for-audio-issues/"><u>Restore Sound to Your Lenovo Laptop: Essential Tips and Fixes for Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sounds-to-silent-systems-a-simple-guide-to-fixing-computer-audio-issues/"><u>Restore Sounds to Silent Systems: A Simple Guide To Fixing Computer Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-computer-sounds-fixing-noise-issues-in-google-chrome/"><u>Revive Your Computer Sounds: Fixing Noise Issues in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-void-mic-expert-advice-on-making-it-work-again/"><u>Revive Your Corsair Void Mic: Expert Advice on Making It Work Again</u></a></li>
+<li><a href="https://video-capture.techidaily.com/seamless-storytelling-with-on-screen-annotations-and-timestamps-for-2024/"><u>Seamless Storytelling with On-Screen Annotations & Timestamps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-your-laptops-internal-speakers-might-be-silent-and-what-to-do-about-it/"><u>Solved: Why Your Laptop's Internal Speakers Might Be Silent and What to Do About It</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-a-non-functioning-paradox-launcher/"><u>Troubleshooting Guide: Resolving Issues with a Non-Functioning Paradox Launcher</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-repairing-your-hyperx-cloud-alpha-microphone-issues/"><u>Troubleshooting Tips: Repairing Your HyperX Cloud Alpha Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-hyperx-cloud-stinger-mic-working-expert-advice-and-fixes-for-common-issues/"><u>Why Isn't My HyperX Cloud Stinger Mic Working? Expert Advice and Fixes for Common Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-skype-microphone-malfunction-heres-how-to-fix-it/"><u>Windows 11 Skype Microphone Malfunction? Here's How to Fix It</u></a></li>
+</ul></div>

@@ -1,0 +1,174 @@
+---
+title: Solving Windows 11/10 Connection Problems for AirPods Without Audio Output
+date: 2024-08-31T23:58:57.236Z
+updated: 2024-09-01T23:58:57.236Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Solving Windows 11/10 Connection Problems for AirPods Without Audio Output
+excerpt: This Article Describes Solving Windows 11/10 Connection Problems for AirPods Without Audio Output
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
+---
+
+## Dealing with Cut-Out Audio in Windows 10? Here's The Solution
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594a25a314e33.png)
+
+ Many Windows 10 users have reported saying that their sound cuts in and out so rapidly that they can’t even finish watching a video on YouTube. If you’re also bothered by this annoying issue, calm down. We’ve found some effective ways that are going to fix the problem for you.
+
+Read on and follow the easy-doing images below!
+
+1. [**Option 1: Try the generic audio driver**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
+
+## Option 1: Try the generic audio driver
+
+ Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
+
+1. On your keyboard, press the**Windows key** and**X** at the same time, then choose**Device Manager** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
+2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
+3. Choose**Browse my computer for driver software** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
+4. Then choose**Let me pick from a list of available drivers on my computer** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
+5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
+6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
+7. Restart your computer when the installation finishes.
+
+ If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
+4. Restart your computer for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ If your computer sound still keeps cutting out, please move on to the next option.
+
+## Option 2: Change Sound Enhancement Settings
+
+ The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
+
+1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
+2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
+3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
+4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
+
+ Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Option 3: Change Speaker Settings
+
+ Incorrect speaker settings could also relate to the sound keeping cutting out on Windows 10 issue. To see if this is your case:
+
+1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
+2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
+3. Click**Next** to move forward from the sound test.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
+4. Un-tick the box for**Front left and right** and then hit**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
+5. Click**Finish** to end the configuration.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+ Try to play audio with your computer again to see if the sound still cuts out.
+
+ Hope one of the fixes above helps to fix the sound keeps cutting out on Windows 10 problem for you. If you have any other suggestions, please feel free to leave a comment below.
+
+* [Audio](https://tools.techidaily.com/drivereasy/download/)
+* [sound](https://tools.techidaily.com/drivereasy/download/)
+* [volume](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-mac-best-screen-capture-applications-reviewed/"><u>[New] 2024 Approved  Mastering Mac  Best Screen Capture Applications Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-tips-record-powerpoint-live-with-webcam/"><u>[Updated] In 2024, Essential Tips  Record PowerPoint Live with Webcam</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-sound-delay-fast-fixes-and-solutions/"><u>Bluetooth Sound Delay: Fast Fixes and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/destiny-2-and-no-more-silent-battles-solving-voice-communication-errors/"><u>Destiny 2 and No More Silent Battles: Solving Voice Communication Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-audio-problems-in-windows-11-effective-solutions-and-advice/"><u>Eliminating Audio Problems in Windows 11: Effective Solutions and Advice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/emblem-of-success-create-and-tailor-professional-logos-with-free-models/"><u>Emblem of Success  Create & Tailor Professional Logos with Free Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-performance-to-unresponsive-bose-headphonesspeakers/"><u>Expert Advice on Restoring Performance to Unresponsive Bose Headphones/Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-sudden-sound-cutoffs-in-windows-10-now-fixed/"><u>Expert Tips for Resolving Sudden Sound Cutoffs in Windows 10 - Now Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-windows-media-player-volume-issues-ultimate-guide-with-solutions/"><u>Fix Windows Media Player Volume Issues: Ultimate Guide with Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-mic-problems-with-razer-barracuda-x-on-pc-windows-1110/"><u>How to Resolve Mic Problems with Razer Barracuda X on PC (Windows 11/10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-non-functioning-webex-mic-solutions-updated/"><u>How to Troubleshoot Non-Functioning Webex Mic – Solutions Updated</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mov-files-saving-methods-for-windows-10-users/"><u>In 2024, .mov Files  Saving Methods for Windows 10 Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x50iplus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X50i+ Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-s17-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo S17 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-stable-discord-sound-quality-expert-strategies-and-fixes-for-the-modern-user/"><u>Mastering Stable Discord Sound Quality - Expert Strategies and Fixes for the Modern User</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-voice-chat-with-in-game-audio-on-discord-platforms/"><u>Mastering Voice Chat with In-Game Audio on Discord Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools/"><u>New Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-creative-pebble-speaker-problems-expert-advice-for-resolution/"><u>Overcoming Creative Pebble Speaker Problems: Expert Advice for Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/pixel-perfect-designs-for-your-pc-wallpaper/"><u>Pixel Perfect Designs for Your PC Wallpaper</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-problems-with-your-discord-voice-communication/"><u>Quick Solutions: Resolving Problems with Your Discord Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016417937-realtek-microphone-problems-heres-how-you-can-solve-them/"><u>Realtek Microphone Problems? Here's How You Can Solve Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reinstating-soundscape-troubleshooting-conexant-smartaudio-hd-issues-in-win10/"><u>Reinstating Soundscape: Troubleshooting Conexant SmartAudio HD Issues in Win10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-intermittent-sound-dropouts-in-windows-10-a-step-by-step-guide/"><u>Resolving Intermittent Sound Dropouts in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-razer-mic-issues-instantly-a-five-step-fix-guide/"><u>Solve Razer Mic Issues Instantly: A Five-Step Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-voice-chatting-in-black-ops-cold-war/"><u>Solving Common Problems with Voice Chatting in Black Ops Cold War</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/surging-up-the-search-listings-key-tips-for-optimizing-your-videos-for-2024/"><u>Surging Up the Search Listings  Key Tips for Optimizing Your Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-viral-marketing-mastering-instagram-fame-through-9-key-tips/"><u>The Art of Viral Marketing  Mastering Instagram Fame Through 9 Key Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-gamers-blueprint-achieve-smoother-gameplay-with-fps-optimization-tricks-2024-guide/"><u>The Gamer's Blueprint: Achieve Smoother Gameplay with FPS Optimization Tricks - 2024 Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-path-to-success-starts-on-screen-10-must-see-films/"><u>The Path to Success Starts on Screen  10 Must-See Films</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-places-to-find-background-music-for-videos/"><u>Top Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016870444-trouble-with-your-blue-yeti-here-are-solutions-to-get-it-recognized-again/"><u>Trouble with Your Blue Yeti? Here Are Solutions to Get It Recognized Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-hyperx-cloud-alpha-s-mic-expert-tips/"><u>Troubleshoot and Repair Your HyperX Cloud Alpha S Mic - Expert Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-direct-audio-to-plugged-in-headphones-rather-than-outside-speakers/"><u>Troubleshooting Guide: Direct Audio to Plugged-In Headphones Rather Than Outside Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016993847-windows-11-update-causes-audio-issues-heres-how-to-get-your-sounds-back/"><u>Windows 11 Update Causes Audio Issues? Here's How To Get Your Sounds Back!</u></a></li>
+</ul></div>

@@ -1,0 +1,190 @@
+---
+title: Solving the Problem When Your Logitech G430 Microphone Won't Work
+date: 2024-09-01T00:03:18.058Z
+updated: 2024-09-02T00:03:18.058Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes Solving the Problem When Your Logitech G430 Microphone Won't Work
+excerpt: This Article Describes Solving the Problem When Your Logitech G430 Microphone Won't Work
+thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8a6cd21a0ae3357ed65bdbc2.jpg
+---
+
+## Addressing the Problems with Your Logitech G733 Microphone - Solutions Inside
+
+**Logitech G733** lightspeed wireless gaming headset is a go-to option for lots of gamers. However, many players are reporting that their Logitech G733 mic is not working properly.
+
+ If you cannot be heard on the microphone, you’re not alone. Although it’s quite frustrating, you should be able to fix this issue on your own easily using one of the fixes we’ve listed below.
+
+## Try these fixes
+
+ You may not have to try them all. Just work your way down the list until you find the one that works for you.
+
+1. **[Troubleshoot the hardware issues](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Allow access to your Logitech G733 microphone](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Check Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
+
+## Fix 1: Troubleshoot the hardware issues
+
+ Just do some basic troubleshooting steps before trying anything more complicated:
+
+1. Check if the mic**is muted** . If it is, then you just need to**unmute** the mic.
+2. Ensure the detachable microphone**is firmly plugged in** .
+3. If the microphone is not muted and is connected properly, then**try the microphone on another device** to see if the mic works.
+
+ If the mic of your Logitech G733 works on other devices, it suggests that the hardware is fine. If it’s the case, read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 2: Allow access to your Logitech G733 microphone
+
+ First, ensure that you allow Windows and your application to access your headset microphone. To check this, follow the steps below:
+
+ _Note that the screenshots below come from Windows 10\. If you’re using Windows 11, your screen might look slightly different. However, the steps you perform remain consistent._
+
+1. On your keyboard, press**the Windows logo** **\+ R keys** simultaneously to open the Run box.
+2. Type or paste**ms-settings:privacy-microphone** , then hit Enter.  
+![](https://www.drivereasy.com/wp-content/uploads/2021/04/win11-microphone-privacy.jpg)
+3. Ensure microphpne access for this device is**on** . If it is off, then check the**Change** button below to turn it on. You should also**turn on the toggle** under**Allow apps to access your microphone** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
+4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+ Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
+
+## Fix 3: Check Windows sound settings
+
+ Your Logitech G733 mic may not be working on your computer if it’s disabled or not set as the default recording device. If this is the case, re-enable it and set it as the default device:
+
+1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control mmsys.cpl sounds** and press**Enter** to open**Windows audio settings** .  
+![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds.jpg)
+2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
+![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
+3. **Right-click** the**Headset Microphone** and click **Enable** .  
+![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
+4. Then**right-click** it again and select **Set as Default Device** .  
+![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
+5. Right-click **Headset Microphone** and click **Properties** .  
+![Headset microphone properties](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
+6. Click the **Levels** tab, then drag the volume slider towards the _maximum value_ .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![drag the volume slider towards the maximum value.](https://images.drivereasy.com/wp-content/uploads/2020/12/img_5b4db71801655.jpg)
+7. Click**OK** to save the changes.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+
+ Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 4: Update your audio drivers
+
+ The outdated or corrupted audio driver would also cause the headset mic not to work. Many users find that re-installing/updating audio drivers makes their headset mic work again.
+
+ You can update your driver manually or automatically. The manual process is time-consuming, technical, and error-prone, so we won’t cover it here. Nor do we recommend it unless you have excellent computer knowledge.
+
+ Updating your driver automatically, on the other hand, is very easy. Simply install and run **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , and it will automatically find all the devices on your PC that need new drivers, and install them for you. Here’s how to use it.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install **Driver Easy** .
+2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will scan your computer and detect any problem drivers.  
+![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
+
+ You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
+![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
+4. Reboot your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+---
+
+ Hopefully, one of the fixes above helped you resolve the Logitech G733 mic not working issue. If you’ve tried all these fixes, and the mic on your Logitech G733 headset still isn’t working, it’s probably a hardware issue. Contact **[Logitech’s customer service](https://www.logitech.com/en-us/about/contact.html)**  for further assistance.
+
+* [Logitech](https://tools.techidaily.com/drivereasy/download/)
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+* [sound](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-hidden-treasure-of-free-macos-transcription-tools/"><u>[New] In 2024, Hidden Treasure of Free macOS Transcription Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-turning-memories-into-snaps/"><u>[New] In 2024, The Ultimate Guide to Turning Memories Into Snaps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-acclaimed-editing-software-for-virtual-recordings/"><u>[Updated] 2024 Approved  Acclaimed Editing Software for Virtual Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-blueprint-for-lifelong-memories-storing-vintage-photos-digitally/"><u>[Updated] The Blueprint for Lifelong Memories  Storing Vintage Photos Digitally</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-companions-premium-mac-programs-for-videography/"><u>2024 Approved  Best Companions  Premium Mac Programs for Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-digital-picks-free-alarm-ringtones-download/"><u>2024 Approved  Top Digital Picks  Free Alarm Ringtones Download</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-solution-for-when-your-laptop-is-mute-get-it-working-again/"><u>A Comprehensive Solution for When Your Laptop Is Mute – Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-sound-ahead-solve-cracking-noises-in-headphones-effectively-and-swiftly/"><u>Clear Sound Ahead! Solve Cracking Noises in Headphones Effectively & Swiftly!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-cod-vanguards-malfunctioning-voice-chat-system/"><u>Expert Advice on Repairing COD: Vanguard's Malfunctioning Voice Chat System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-fortnites-voice-chat-problems-instantly-effective-and-easy-methods-inside/"><u>Fix Fortnite's Voice Chat Problems Instantly: Effective & Easy Methods Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-to-get-your-webex-microphone-up-and-running-again/"><u>Fixes to Get Your Webex Microphone Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-microphone-functionality-on-logitech-cameras/"><u>Guide to Restoring Microphone Functionality on Logitech Cameras</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctional-mic-on-your-oculus-quest-2/"><u>How to Fix a Nonfunctional Mic on Your Oculus Quest 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-interruptions-on-windows-107-a-step-by-step-guide/"><u>How to Resolve Audio Interruptions on Windows 10/7 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>In 2024, A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-video-timelines-on-youtube/"><u>In 2024, Implementing Video Timelines on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-converter-youtube-dialogue-to-text/"><u>Leading Converter  YouTube Dialogue to Text</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g733-not-working-heres-how-you-can-fix-it/"><u>Logitech G733 Not Working? Here's How You Can Fix It</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-live-twitch-streams-top-5-tips/"><u>Mastering Live Twitch Streams  Top 5 Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-repair-solutions-for-silent-microphones-in-boostq-certified-xeno-ut-recon-70s/"><u>Mastering the Repair: Solutions for Silent Microphones in BOOST!Q-Certified Xeno UT Recon 70S</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-developments-in-facebook-2023-edition-for-2024/"><u>New Developments in Facebook - 2023 Edition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-logitech-webcam-and-mic-a-guide-to-overcoming-technical-hiccups/"><u>Reviving Logitech Webcam & Mic: A Guide to Overcoming Technical Hiccups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-system-syndrome-expert-tips-on-fixing-sound-issues-in-lenovo-notebooks/"><u>Silent System Syndrome: Expert Tips on Fixing Sound Issues in Lenovo Notebooks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-for-the-astro-a20-microphone-malfunction/"><u>Simple Solutions for the Astro A20 Microphone Malfunction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-your-logitech-g533-microphone-isnt-working-and-how-to-fix-it-fast/"><u>Solved: Why Your Logitech G533 Microphone Isn't Working and How to Fix It Fast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-astro-a10-microphone-issues-troubleshooting-and-fixes/"><u>Solving Astro A10 Microphone Issues: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-hitches-in-dota-2-repairing-the-mic-on-pc-easily/"><u>Solving Audio Hitches in Dota 2: Repairing the Mic on PC Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-crackling-noise-in-your-arctis-7-headphones-on-windows/"><u>Solving the Issue of Crackling Noise in Your Arctis 7 Headphones on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-problem-how-to-get-your-pcs-microphone-working-with-zoom-again/"><u>Solving the Silent Problem: How to Get Your PC's Microphone Working with Zoom Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repair-a-non-functional-razer-manowar-mic/"><u>Step-by-Step Guide to Repair a Non-Functional Razer ManO’War Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-remedies-for-reviving-malfunctioning-computer-speakers/"><u>Step-by-Step Remedies for Reviving Malfunctioning Computer Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-unresponsive-razer-barracuda-x-headset-microphone-on-windows-pcs/"><u>Step-by-Step Solution for Unresponsive Razer Barracuda X Headset Microphone on WIndows PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-resolving-mobile-network-problems-sim-not-provisioned-message/"><u>Step-by-Step Solution: Resolving Mobile Network Problems - SIM Not Provisioned Message</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-astro-a50s-mic-heres-how-you-can-fix-it/"><u>Trouble with Astro A50's Mic? Here’s How You Can Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-pc-microphone-in-zoom-heres-how-to-restore-it/"><u>Trouble with PC Microphone in Zoom? Here's How to Restore It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-a-broken-primary-audio-input-on-your-gadget/"><u>Troubleshoot and Repair a Broken Primary Audio Input on Your Gadget</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-the-unplayable-test-sound-in-minutes/"><u>Troubleshoot the Unplayable Test Sound in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-get-your-fortnite-voice-chat-up-and-running-today/"><u>Troubleshooting Guide: Get Your Fortnite Voice Chat Up & Running Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-sennheiser-gaming-headset-microphone/"><u>Troubleshooting Guide: Solving Issues with Your Sennheiser Gaming Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-high-definition-hd-audio-codec-driver-issues-on-windows-10-solutions/"><u>Troubleshooting IDT High Definition (HD) Audio Codec Driver Issues on Windows 10 - Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-high-fidelity-audio-codec-installation-for-superior-sound-quality-in-windows-10-solved/"><u>Troubleshooting IDT High Fidelity Audio Codec Installation for Superior Sound Quality in Windows 10 [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-silent-hdmi-connection-between-pc-monitor-and-tv/"><u>Troubleshooting Steps: Resolving Silent HDMI Connection Between PC, Monitor & TV</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-off-sound-improvement-features-on-windows-11-a-complete-guide/"><u>Turn Off Sound Improvement Features on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-how-to-reset-final-cut-pro-x-to-troubleshoot-issues-in-2024/"><u>Updated How to Reset Final Cut Pro X to Troubleshoot Issues, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/webcam-woes-mastering-microphone-troubleshooting-for-windows-users/"><u>Webcam Woes? Mastering Microphone Troubleshooting for Windows Users</u></a></li>
+</ul></div>

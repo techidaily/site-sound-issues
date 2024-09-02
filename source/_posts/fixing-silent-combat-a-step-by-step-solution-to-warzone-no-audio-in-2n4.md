@@ -1,0 +1,205 @@
+---
+title: "Fixing Silent Combat: A Step-by-Step Solution to Warzone No Audio in 2N4"
+date: 2024-08-31T23:55:35.719Z
+updated: 2024-09-01T23:55:35.719Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Fixing Silent Combat: A Step-by-Step Solution to Warzone No Audio in 2N4"
+excerpt: "This Article Describes Fixing Silent Combat: A Step-by-Step Solution to Warzone No Audio in 2N4"
+thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d858089a4c1425190ddca7b5f2e2.png
+---
+
+## Fixing the Silent Bluetooth Connection: Solutions That Work
+
+If you run into the**Bluetooth** connected but no sound coming out issue on your computer, don’t worry. It’s often quite easy to fix…
+
+## 5 fixes for Bluetooth Connected But No Sound
+
+ The screenshots below are from**Windows 10** , but the fixes also work in**Windows 8.1** and**7** .
+
+ Here are 4 fixes that have helped other users resolve the problem. Just work your way down the list until your**Bluetooth paired but no sound** problem is resolved.
+
+1. [**Select the Bluetooth device as the default playback device**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Make sure the audio level is high enough**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Make sure the Bluetooth Support Service is enabled**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Update your Bluetooth driver**](https://tools.techidaily.com/drivereasy/download/)
+5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+### Fix 1: Select the Bluetooth device as the default playback device
+
+ Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
+
+1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
+2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
+3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Make sure the audio level is high enough
+
+ In**Fix 2** , we make sure our Bluetooth speaker/headphone’s is at least audible. Here’s how:
+
+1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
+2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
+3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
+4. Click**Apply** \>**OK** .
+5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
+
+---
+
+### Fix 3: Make sure the Bluetooth Support Service is enabled
+
+ Another reason for this **Bluetooth Connected But No Sound**  problem is the service simply disabled. To turn it back on:
+
+1. On your keyboard, press the **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
+2. Double-click on**Bluetooth Support Service** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
+3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
+4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Update your Bluetooth driver
+
+ This problem may occur if you have the wrong or outdated (or even none) Bluetooth driver. So you should update your Bluetooth driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either **[the FREE](https://tools.techidaily.com/drivereasy/download/)**  or **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+ 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+ 4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+### Fix 5: Repair corrupted system files
+
+ If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
+
+ In situations where the SFC tool falls short, a more powerful and specialized Windows repair tool is recommended.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is an automated Windows repair tool that excels in identifying problematic files and replacing malfunctioning ones. By scanning your PC comprehensively, Fortect can provide a more comprehensive and effective solution for repairing your Windows system.
+
+1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
+2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
+3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
+![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+ The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
+
+Once finished with the repair, check if the error has been resolved.
+
+---
+
+ There you go – top 5 fixes for your Bluetooth connected but no sound problem. Hope this helps and feel free to drop a comment below if you have any further questions or ideas to share with us. 🙂
+
+* [Bluetooth](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>[New] 2024 Approved  Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-engaging-unboxings-to-skyrocket-like-counts/"><u>[New] Crafting Engaging Unboxings to Skyrocket Like Counts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-all-inclusive-iptv-delivery-systems/"><u>[Updated] 2024 Approved  All-Inclusive IPTV Delivery Systems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-curating-youtube-music-experiences/"><u>[Updated] 2024 Approved  Curating YouTube Music Experiences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unlocking-the-vault-of-online-videos-via-facebook/"><u>[Updated] 2024 Approved  Unlocking the Vault of Online Videos via Facebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-prime-selection-of-invisible-android-recorders/"><u>[Updated] In 2024, Prime Selection of Invisible Android Recorders</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagonal-adjustment-success-portable-device/"><u>Diagonal Adjustment Success: Portable Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-for-a-non-functioning-steelseries-arctis-7-headset-mic/"><u>DIY Repair Tips for a Non-Functioning SteelSeries Arctis 7 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-corsair-void-microphone-malfunctions/"><u>Effective Solutions for Corsair Void Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-guide-fixing-voice-chat-disruptions-on-fortnite-asap/"><u>Effortless Guide: Fixing Voice Chat Disruptions on Fortnite ASAP!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevating-visual-clarity-in-digital-facebook-broadcasts/"><u>Elevating Visual Clarity in Digital Facebook Broadcasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-system-refreshes-on-windows-11-strategies-to-correct-the-there-was-a-problem-message/"><u>Error-Free System Refreshes on Windows 11: Strategies to Correct the 'There Was a Problem' Message</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-razer-manowar-microphone-failure/"><u>Expert Advice on Resolving Razer ManO'War Microphone Failure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-the-inoperative-mic-on-an-oculus-quest-2-device/"><u>Expert Tips for Repairing the Inoperative Mic on an Oculus Quest 2 Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-differences-between-ipad-mini-and-ipad-air-models/"><u>Exploring the Differences Between IPad Mini and iPad Air Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-bluetooth-audio-delay-simple-solutions/"><u>Fast Fixes for Bluetooth Audio Delay - Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-black-ops-cold-war-missing-audio-issues-in-pc-version/"><u>Fix Black Ops: Cold War Missing Audio Issues in PC Version</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-quiet-speakers-expert-tips-to-restore-audio-on-windows-systems/"><u>Fix Your Quiet Speakers: Expert Tips to Restore Audio on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-your-kotion-g2000-microphone-expert-tips-and-solutions/"><u>Fixing Issues with Your Kotion G2000 Microphone: Expert Tips and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-hangouts-mic-not-working-heres-how-to-solve-it-easily/"><u>Google Hangouts Mic Not Working? Here's How to Solve It Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016633491-how-to-get-your-league-of-legends-voice-communication-back-on-track-solutions-inside/"><u>How To Get Your League of Legends Voice Communication Back On Track - Solutions Inside!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo Y17s Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-commandments-of-eye-catching-podcast-album-imagery/"><u>In 2024, 10 Commandments of Eye-Catching Podcast Album Imagery</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-f34-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy F34 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-kid-friendly-flying-toys/"><u>In 2024, Top 5 Kid-Friendly Flying Toys</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-srt-in-depth-with-this-guidebook/"><u>In 2024, Understanding SRT in Depth with This Guidebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-color-grading-with-ease-a-compreranble-guide-for-pscc-users/"><u>Mastering Color Grading with Ease  A Compreranble Guide for PSCC Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-to-your-keys-easily-with-our-top-pickings-from-2024s-best-locators/"><u>Navigate to Your Keys Easily with Our Top Pickings From 2024'S Best Locators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-stunning-bokeh-best-apps-for-iphone-and-android/"><u>New 2024 Approved Unlock Stunning Bokeh Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-fix-absence-of-wi-fi-network-option-in-windows-11-interface/"><u>Solution: Fix - Absence of Wi-Fi Network Option in Windows 11 Interface</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-14-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi 14 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-what-to-do-when-your-youtube-comments-dont-appear/"><u>Solving the Issue: What to Do When Your YouTube Comments Don’t Appear</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-the-broken-voice-chat-on-valorant/"><u>Step-by-Step Guide to Fixing the Broken Voice Chat on Valorant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-restoring-your-nvidia-monitor-connection/"><u>Step-by-Step Solutions for Restoring Your Nvidia Monitor Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015811553-tackle-sound-problems-head-on-fix-windows-stutter-and-distortion-issues-today/"><u>Tackle Sound Problems Head-On: Fix Window's Stutter and Distortion Issues Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-voice-chat-glitches-on-valorant-platform/"><u>The Ultimate Guide to Fixing Voice Chat Glitches on Valorant Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooting-checklist-overcoming-voicemod-not-working-problem-latest-tips/"><u>The Ultimate Troubleshooting Checklist: Overcoming Voicemod Not Working Problem - Latest Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-fortnite-microphone-issue-easily/"><u>Troubleshoot and Fix Your Fortnite Microphone Issue Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-effective-solutions-when-hyperx-cloud-alpha-microphone-stops-working/"><u>Troubleshoot and Repair: Effective Solutions When HyperX Cloud Alpha Microphone Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-microsoft-surface-earbud-microphone-issues-in-windows-11/"><u>Troubleshooting and Repairing Microsoft Surface Earbud Microphone Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-device-problems-fixing-no-speakers-or-headphones-detected-on-windows-10-8-and-7/"><u>Troubleshooting Audio Device Problems: Fixing 'No Speakers or Headphones' Detected on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-onikuma-microphone-issues-now-resolved/"><u>Troubleshooting Guide: Fixing Onikuma Microphone Issues - Now Resolved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-call-of-duty-warzones-voice-and-microphone-functionality-on-pc-and-consoles/"><u>Troubleshooting Guide: Resolving Issues with Call of Duty Warzone's Voice and Microphone Functionality on PC and Consoles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-for-silent-usb-headphones-on-windows-7-computers/"><u>Troubleshooting Solutions for Silent USB Headphones on Windows 7 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-eliminate-the-crackling-noise-in-your-arctisys-7-headset-on-a-pc/"><u>Troubleshooting Solutions: Eliminate the Crackling Noise in Your ArctiSys 7 Headset on a PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-black-ops-cold-war-when-voice-chat-fails-to-function/"><u>Troubleshooting Steps for Black Ops Cold War When Voice Chat Fails to Function</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-phasmophobia-voice-chat-issues/"><u>Troubleshooting: How To Fix 'Phasmophobia' Voice Chat Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-support-article-why-wont-my-headphones-work-solutions-inside/"><u>Windows 11 Support Article: Why Won't My Headphones Work? Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-microphone-not-functioning-heres-how-to-fix-it-step-by-step/"><u>Windows 7 Microphone Not Functioning? Here's How to Fix It Step-by-Step</u></a></li>
+</ul></div>

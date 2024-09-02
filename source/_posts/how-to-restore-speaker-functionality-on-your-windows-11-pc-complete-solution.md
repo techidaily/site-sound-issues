@@ -1,0 +1,189 @@
+---
+title: How to Restore Speaker Functionality on Your Windows 11 PC [COMPLETE SOLUTION]
+date: 2024-08-31T23:56:44.955Z
+updated: 2024-09-01T23:56:44.955Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes How to Restore Speaker Functionality on Your Windows 11 PC [COMPLETE SOLUTION]
+excerpt: This Article Describes How to Restore Speaker Functionality on Your Windows 11 PC [COMPLETE SOLUTION]
+thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd615beb8c551d393f04156cd7b.jpg
+---
+
+## How to Fix Non-Functional Speakers on Your Windows 11 PC - Solved
+
+If your external speakers are not working on Windows 10, don’t worry, you’re not alone. The speakers not working problem could relate to many factors, for instance, the speakers, the hardware themselves, could be damaged, your system sound could be muted, your audio driver could be faulty, and so forth. If you encounter this problem, follow the troubleshooting tips here and find the solution that works for you.
+
+## Step 1, make sure your speakers are not the problem
+
+ Try to test your speakers on another device (a computer or a mobile phone would both do) to see if they are working properly. This will help determine if the issue is with the speakers themselves or with your computer.
+
+ When the above check is done, and you find the problem on your computer, please move on.
+
+## Step 2, make sure the connection between your speakers and computer is good
+
+ If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
+
+ For instance, if you’re using Bluetooth speakers, make sure the Bluetooth connection is working well, which can be proved by a second Bluetooth device connected to your computer.
+
+ If you’re using a wired connection, make sure the cables are plugged into the correct ports. This is because many computers have three or more jacks that connect to a sound card or sound processor, including a microphone jack, line-in jack, and line-out jack.
+
+ And your speakers should be plugged into the line-out jack. If you’re not sure which jack this is, try plugging your speakers or headphones into each of the jacks to see if any of them produce sound.
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Step 3, check the volume settings
+
+ If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
+
+1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the run box.
+2. Type control panel and click**OK** . This is to open Control Panel window.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
+3. In Control Panel, view by Category, click **Hardware and Sound** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
+4. Under **Sound** , click **Adjust system volume** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
+5. If the sound is unmuted, move to the next step.
+6. Try to move the slider up to increase the volume.  
+![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+ If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Set Speakers as Default
+
+ Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
+
+1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
+2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
+![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+ If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
+
+![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
+
+ After it is listed, right-click on the speakers and click**Enable** .
+
+![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
+
+ The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## 1\. Uninstall the Audio Driver
+
+Follow these steps:
+
+1. Press the**Windows logo** key and**R** key at the same time. A Run dialog box will appear.
+2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
+![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
+3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
+4. Tick the box for**Delete the driver software for this device** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
+5. Reboot your PC and check to see if the problem is resolved.
+
+## 2\. Update the Audio Driver
+
+ The steps above may resolve it, but if they don’t, try to update the audio driver. If you’re not confident playing around with drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
+4. Restart your computer for the changes to take effect.
+
+ Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-live-link-lifters-annual-archive-access/"><u>[New] Live Link Lifters - Annual Archive Access</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-quick-click-compilation-top-10-fastest-phone-and-pc-apps-for-2024/"><u>[New] Quick Click Compilation  Top 10 Fastest Phone & PC Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-15-youtube-openings-elevate-your-contents-impact/"><u>[New] Top 15 YouTube Openings  Elevate Your Content's Impact</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers/"><u>[Updated] Extract YouTube Soundtracks for Free With This List of 25 Rippers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-loop-video-magic-keep-your-followers-hooked-with-instagram-boomers-for-2024/"><u>[Updated] Loop Video Magic  Keep Your Followers Hooked with Instagram Boomers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-itunes-archives-in-3-easy-steps/"><u>[Updated] Mastering iTunes Archives in 3 Easy Steps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-recording-practices-for-remote-work-conferences-for-2024/"><u>[Updated] Optimal Recording Practices for Remote Work Conferences for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-soundcheck-summary/"><u>[Updated] SoundCheck Summary</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-motorola-moto-g13-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola Moto G13 Unlock Without Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-logitech-g-pro-x-cracking-popping-noise-on-pc-2024-tips/"><u>How to Fix Logitech G Pro X Cracking/ Popping Noise on PC - 2024 Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-microphone-issues-in-microsoft-teams-a-guide-for-windows-11-and-10-users/"><u>How to Fix Microphone Issues in Microsoft Teams: A Guide for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microphone-problems-with-your-razer-barracuda-x-in-windows-1110/"><u>How to Resolve Microphone Problems with Your Razer Barracuda X in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor X50 GT?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-microphone-functionality-on-zoom-in-windows-1011-computers/"><u>How to Restore Your Microphone Functionality on Zoom in Windows 10/11 Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy A14 5G Phone Without Password?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/league-of-legends-voice-chat-malfunction-discover-the-fixes-that-worked-for-others/"><u>League of Legends Voice Chat Malfunction? Discover the Fixes That Worked for Others!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-discord-gaming-sound-a-guide-to-capturing-and-playing-game-audio-correctly/"><u>Mastering Discord Gaming Sound: A Guide to Capturing and Playing Game Audio Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-squad-voice-chat-a-complete-solution-for-non-responsive-mics/"><u>Mastering Squad Voice Chat: A Complete Solution for Non-Responsive Mics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/neueste-erweiterung-fur-die-3m-360-encompass-software-abbyy-text-recognition-von-kunftig-ausgerustet/"><u>Neueste Erweiterung Für Die 3M 360 Encompass Software - ABBYY Text Recognition Von Künftig Ausgerüstet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-microphone-malfunctions-on-windows-7-with-our-proven-fixes-resolved/"><u>Overcome Microphone Malfunctions on Windows 7 with Our Proven Fixes [Resolved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-audio-trouble-heres-how-to-resolve-the-hd-not-plugged-in-problem/"><u>Realtek Audio Trouble? Here’s How to Resolve the HD Not Plugged-In Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-your-corsair-virtuoso-microphone/"><u>Resolving Issues with Your Corsair Virtuoso Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-error-audio-device-malfunction-headphones-connected-but-receiving-output-from-speakers/"><u>Resolving the Error: Audio Device Malfunction - Headphones Connected but Receiving Output From Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-google-hangouts-audio-issue-mic-troubleshooting-guide/"><u>Resolving Your Google Hangouts Audio Issue - Mic Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-volume-quick-remedies-to-restore-noise-on-windows-10-systems/"><u>Revive Your Volume: Quick Remedies to Restore Noise on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-reviving-your-onikuma-microphone-for-optimal-performance/"><u>Solved! Reviving Your Onikuma Microphone for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-it-takes-two-game-error-quick-guide-to-fixing-silent-playback-on-your-computer/"><u>Solving 'It Takes Two' Game Error: Quick Guide to Fixing Silent Playback on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-hitches-fixing-airpod-mic-malfunctions-on-win-10/"><u>Solving Audio Hitches: Fixing AirPod Mic Malfunctions on Win 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-google-meet-audio-issues-fixing-non-functional-mic-on-windows-1110/"><u>Solving Google Meet Audio Issues: Fixing Non-Functional Mic on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-an-inoperative-headset-microphone/"><u>Solving the Problem of an Inoperative Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-when-wow-voice-chat-stops-responding/"><u>Solving the Problem: When WoW Voice Chat Stops Responding</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-why-is-my-valorant-in-game-voice-chat-malfunctioning/"><u>Solving the Problem: Why Is My Valorant In-Game Voice Chat Malfunctioning?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-discord-audio-issues-a-step-by-step-guide/"><u>Solving Your Discord Audio Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-reviving-your-squads-silent-mic-as-of-2024/"><u>Step-by-Step Guide to Reviving Your Squad's Silent Mic as of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-restoring-sound-functionality-to-your-conexant-smartaudio-hd-with-windows-10/"><u>Step-by-Step Solution: Restoring Sound Functionality to Your Conexant SmartAudio HD with Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-restarting-windows-default-settings/"><u>Steps for Restarting Windows Default Settings</u></a></li>
+</ul></div>

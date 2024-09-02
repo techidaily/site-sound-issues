@@ -1,0 +1,269 @@
+---
+title: "Audio Editing Success: How to Overcome Common Audacity Sound Device Glitches [5 Effective Fixes]"
+date: 2024-08-31T23:58:13.765Z
+updated: 2024-09-01T23:58:13.765Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Audio Editing Success: How to Overcome Common Audacity Sound Device Glitches [5 Effective Fixes]"
+excerpt: "This Article Describes Audio Editing Success: How to Overcome Common Audacity Sound Device Glitches [5 Effective Fixes]"
+thumbnail: https://thmb.techidaily.com/10d09cb93e07ee59e0a22acff845b375c79c46fae8d6511978a41c0031c4032e.jpg
+---
+
+## Revive the Soundscape: Effortless Solutions to Fixed PC Audio Glitches
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfee116cfcc.jpg)
+
+ Your audio or**sound is not working on PC** ? Don’t worry. There are solutions to fix your PC sound not working issue.
+
+**Why is sound on PC not working?** The connection problem can cause the issue. Meanwhile, your incorrect audio settings in your computer can be the reason, since your sound won’t be working if your audio is set wrong.
+
+ To rule it out the cause of the sound problem in your PC and resolve your issue, you can follow the instructions below.
+
+## Try these solutions
+
+ Here are some fixes you can try. You don’t have to try them all; just work your way down the list until your sound gets working again.
+
+1. [Make sure your volume is not muted](https://tools.techidaily.com/drivereasy/download/)
+2. [Check the hardware problem](https://tools.techidaily.com/drivereasy/download/)
+3. [Run Hardware and Sound troubleshooter](https://tools.techidaily.com/drivereasy/download/)
+4. [Update your sound card driver](https://tools.techidaily.com/drivereasy/download/)
+5. [Configure the audio settings in your PC](https://tools.techidaily.com/drivereasy/download/)
+6. [Make sure Windows Audio service is running](https://tools.techidaily.com/drivereasy/download/)
+
+ Note: the screenshots below come from Windows 10, and fixes apply to Widows 8 and Windows 7.
+
+---
+
+### Fix 1: Make sure your volume is not muted
+
+ As we know, if your volume is muted, you won’t be able to hear any sound from your PC. So make sure your volume is not muted.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff2a8dbdca.png)
+
+ In addition, sometimes your sound is not working if your volume is set minimum. With that being said, drag your volume slider to maximum and play any sound to see if it works.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff2e94ca54.jpg)
+
+ If your sound starts working again, then you should have found and fixed your problem.
+
+If your sound is not working, try the following solutions.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2: Check the hardware problem
+
+Your hardware issues can cause your sound not working on PC.
+
+#### 1\. Check the speaker on your computer
+
+ Simply take a look at the speaker on your computer and see whether there is anything covering upon the speaker, which could cause no sound on your computer. Make sure there is no dust or cloth that can cover the sound on your computer.
+
+#### 2\. Check the headphone jack
+
+ You should check the headphone jack if you’re connecting headphone to your PC. Look inside the headphone jack see if there is any obstacle that may stop the headphone from working properly.
+
+ If there is, clean the jacks with a cotton swab or soft brush. Push it into the jack and swirl it around a little bit to get the dust and lint out.
+
+#### 3\. Check your headset
+
+ If your PC is connecting to your headphone, you should also take a look at your headphone to make sure that the devices are working normally.
+
+ You can disconnect your headphone, then see there is any sound from your PC. If yes, it seems to be an issue with your headset, so you can replace with a headphone that works.
+
+ If your sound is still not working, it should be a problem with your PC. Continue with the methods below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Run Hardware and Sound troubleshooter
+
+ The Hardware and Sound troubleshooter scans your PC and provides solutions for detected issues. So you can run the troubleshooter and see if it helps with your sound problem.
+
+Here’s what you can do:
+
+1. Type**Control Panel** in the search box on your PC, and click**Control Panel** in the list.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfee79972a5.jpg)
+2. Ensure to view by large icons or small icons. Click**Troubleshooting** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeea70b4c6.jpg)
+3. Click**Hardware** **and Sound** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeee6b6fce.jpg)
+4. Click**Playing Audio** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef0aa581c.jpg)
+5. Ensure to check the box next to**Apply repairs automatically** . Then click**Next** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef327fb38.jpg)
+6. Select your**audio device** that you want to troubleshoot, then click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef5c55867.jpg)
+7. Wait for a while for the troubleshooting to be completed, and follow the on-screen instructions to finish it.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+
+Then try playing any sound in your PC and see if it works.
+
+---
+
+### Fix 4: Update your sound card driver
+
+ If your sound card driver is missing or outdated, you’ll have the sound problems on PC, so you should update your sound card driver to the latest version.
+
+ There are two ways to update your driver:**manually** and**automatically** .
+
+**Manual driver update** – You can go to the website of your audio card manufacturer, find the latest correct driver for your sound card, then download and install it manually into your computer. This requires time and computer skills.
+
+OR
+
+**Automatic driver update** – If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff38bc0d8a.jpg)
+3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All and get a**30-day money back guarantee** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3a386818.jpg)
+4. Restart your computer to take effect.
+
+Test and see if PC sound starts working.
+
+ If the sound problem still persists, don’t worry. There are other solutions.
+
+---
+
+### Fix 5: Configure the audio settings in your PC
+
+ Improper audio settings in your computer can also cause your sound not working. So you should check the following audio settings to fix your sound problem.
+
+To do so:
+
+1. Right click the volume icon at the bottom right corner, and click**Playback devices** . (If there is no Playback devices in the right-click context menu, click**Sounds** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeff9ac647.png)
+2. In the**Playback** tab, right click on any**empty area** and check the box next to**Show Disabled Devices** and**Show Disconnected Devices** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0531a8bf.jpg)
+3. Select your**audio device** and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff073c7190.jpg)  
+Ensure there’s a green check next to your audio device.
+4. Click**Apply** and**OK** to save the changes.
+
+Test and see if there is any sound from your speaker.
+
+If it works now, then your problem should have been resolved.
+
+If not, continue these steps:
+
+1. On the same**Playback** pane, select your audio device and click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0a2d3420.jpg)
+2. Click the**Advanced** tab. In the**Default Format** section, choose different**audio rate** and click**Test** to see if there’s sound.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0bb5c7f2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+Try different audio format until you find the one that works.
+
+Still no luck? Okay, there’s one more thing to try.
+
+---
+
+### Fix 6: Make sure Windows Audio service is running
+
+ The Windows Audio service manages audio for Windows-based programs. If this service is stopped or disabled, audio services and effects won’t function normally. So make sure the Windows Audio service is enabled and running. Here’s how to check:
+
+1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
+2. Type**services.msc** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff15fea14e.jpg)
+3. Scroll down and double click**Windows Audio** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff17e0a729.jpg)
+4. Ensure the**Startup type** is set to**Automatic** , and**Service status** is**Running** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff1a46292f.jpg)
+5. Click**Apply** and**OK** to save the changes.
+
+Restart your PC and check your sound works or not.
+
+---
+
+ So there you go. Hope this post serves its purpose and fixes your**PC sound not working** problem. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
+
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-list-of-engaging-history-content-on-youtube-for-2024/"><u>[New] The Ultimate List of Engaging History Content on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-the-secrets-of-youtubes-shorts-revenue-sharing-for-2024/"><u>[New] Unlocking the Secrets of YouTube’s Shorts Revenue Sharing for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-battle-of-video-capturing-apps/"><u>[Updated] 2024 Approved  Ultimate Battle of Video Capturing Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-live-discussions-iphoneandroids-screen-recording/"><u>[Updated] Capturing Live Discussions  IPhone/Android's Screen Recording</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[Updated] In 2024, Giggles Galore  Celebrating the Funniest Web Content Creators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/"><u>[Updated] Kids' Car Clubbing Capers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-powerdirector-handbook-24/"><u>[Updated] The Essential PowerDirector Handbook '24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-meme-making-tools-discover-your-favorites/"><u>2024 Approved  Top Meme-Making Tools  Discover Your Favorites</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-windows-10-sound-issue-troubleshooting-steps-for-fixing-missing-voice/"><u>Anthem Windows 10 Sound Issue – Troubleshooting Steps for Fixing Missing Voice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-for-sound-interruptions-and-windows-audio-pop-ups/"><u>Comprehensive Solutions for Sound Interruptions and Windows Audio Pop-Ups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-a-faulty-razer-microphone-in-just-5-steps/"><u>Diagnose and Repair a Faulty Razer Microphone in Just 5 Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-skype-microphone-functionality-on-microsofts-latest-os/"><u>Expert Tips to Restore Skype Microphone Functionality on Microsoft's Latest OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-of-unresponsive-microphone-in-cs-go-comprehensive-guide/"><u>Fixing the Issue of Unresponsive Microphone in CS: GO - Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-magic5-ultimate-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor Magic5 Ultimate Phone | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-windows-11-simple-steps-for-restoring-audio/"><u>How to Fix Silent Windows 11: Simple Steps for Restoring Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-bluetooth-connectivity-issues/"><u>How to Repair Windows 11 Bluetooth Connectivity Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-2023-guide-to-your-updated-lg-bp550/"><u>In 2024, Ultimate 2023 Guide to Your Updated LG BP550</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-speaker-not-working-heres-the-ultimate-fix-for-audio-problems/"><u>Laptop Speaker Not Working? Here's the Ultimate Fix for Audio Problems!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016255772-logitech-g230-headset-mic-issues-heres-how-to-get-it-working-again/"><u>Logitech G230 Headset Mic Issues? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g933-mic-malfunction-heres-how-to-restore-its-functionality/"><u>Logitech G933 Mic Malfunction? Here's How to Restore Its Functionality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c110-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C110 and Browser | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-working-computer-sounds-easy-fixes-inside/"><u>Quick Solutions for Non-Working Computer Sounds | Easy Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-steams-voice-call-feature-when-it-wont-work-properly/"><u>Repair Steam's Voice Call Feature When It Won't Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-interruptions-from-bluetooth-devices-on-your-pc-with-windows-1110/"><u>Resolving Audio Interruptions From Bluetooth Devices on Your PC with Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revamp-your-webex-experience-with-these-4-key-fixes-for-microphone-problems/"><u>Revamp Your WebEx Experience with These 4 Key Fixes for Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skylab-is-launched-by-the-united-states-from-apollo-launch-complex-39-at-kennedy-space-center-using-an-unmodified-saturn-v-rocket-it-becomes-the-first-ameri645/"><u>Skylab Is Launched by the United States From Apollo Launch Complex 39 at Kennedy Space Center Using an Unmodified Saturn V Rocket. It Becomes the First American Space Station, Providing Valuable Data for Future Missions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-functionality-to-non-responsive-bose-audio-devices/"><u>Step-by-Step Guide: Restoring Functionality to Non-Responsive Bose Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-steelseries-arctis-pro-microphone-issues-resolved/"><u>Troubleshooting Guide: Fixing SteelSeries Arctis Pro Microphone Issues - Resolved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-the-steelseries-arctis-7-mic/"><u>Troubleshooting Guide: Resolving Issues with the SteelSeries Arctis 7 Mic</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-convert-video-voice-to-text-online-for-free-fast-and-easy-ways-for-2024/"><u>Updated Convert Video Voice to Text Online for Free Fast and Easy Ways for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-fixes-and-tweaks-how-to-successfully-launch-and-use-the-app-updated-techniques/"><u>Voicemod Fixes and Tweaks: How to Successfully Launch & Use the App (Updated Techniques )</u></a></li>
+</ul></div>
