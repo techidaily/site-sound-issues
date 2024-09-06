@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Resolving Issues With Broken Pebble Speakers
-date: 2024-08-06T09:17:42.089Z
-updated: 2024-08-07T09:17:42.089Z
+date: 2024-09-05T03:53:08.009Z
+updated: 2024-09-06T03:53:08.009Z
 tags:
   - win11
   - win10
@@ -24,7 +24,16 @@ Is your**speaker making buzzing sound** ? Don’t worry. Many people have resolv
  Sometimes it’s hard to identify the issue. But you can still try to troubleshoot the problem and fix it by following the solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to stop speaker from buzzing sound
 
@@ -36,9 +45,6 @@ You can try these solutions to fix buzzing sound from speakers.
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Configure audio settings in computer](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot the hardware problem
 
  As mentioned above, the hardware issue is one of the possible reasons to cause buzzing sound in speakers, so you should check the hardware problem and fix any hardware issue found.
@@ -59,6 +65,18 @@ Check the audio cable and port to see if they work properly.
 
  The unstable transformer should also arise your attention. If there’s something wrong with the transformer, you can consider change to a better transformer with the same output voltage.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Break the electrical ground loop
 
  One of the possible causes for buzzing sound is the electrical ground loop, so you should break the loop to fix the problem.
@@ -68,7 +86,10 @@ You can try to power everything through a single AC socket.
  You can remove the cables connecting the receiver or device powering your speakers, and only connect your speakers to have a try.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Avoid frequency interference
 
@@ -98,9 +119,6 @@ You can try to power everything through a single AC socket.
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26d624ac18.png)
 
  3) Click the **Update**   button next to the flagged audio device to automatically download the correct version the this driver (you can do this with the **FREE**   version).
@@ -109,6 +127,12 @@ You can try to power everything through a single AC socket.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1cfada499.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at **<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
 4) Restart your computer to make it take effect.
@@ -127,25 +151,34 @@ You can try to power everything through a single AC socket.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win-11-control-panel-hardware-and-sound.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/win-11-control-panel-sound.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) In the popup pane, right click on your speaker device, and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/win-11-control-panel-sound-device-property.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Click the**Enhancements** tab, and uncheck the box next to**Disable all sound effects** . Then click**Apply** and**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1ecabd099.jpg)
 
 6) Try the speaker again to see if the sound works.
@@ -168,3 +201,64 @@ You can try to power everything through a single AC socket.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/udiovisual-authority-the-finest-computers-for-professional-edits/"><u>[New] Audiovisual Authority  The Finest Computers for Professional Edits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-deciphering-instagram-highlights-the-stories-guide/"><u>[New] Deciphering Instagram Highlights  The Stories Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-iphone-audio-downloading-manual/"><u>[New] The Complete iPhone Audio Downloading Manual</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-effortless-techniques-crafting-youtube-shorts-images-on-the-fly/"><u>[Updated] 2024 Approved  Effortless Techniques  Crafting YouTube Shorts Images on the Fly</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-essential-10-dynamic-tiktok-filters-for-fresh-looks/"><u>[Updated] 2024 Approved  Essential 10 Dynamic TikTok Filters For Fresh Looks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-reel-to-share-creating-perfect-vt-videos-in-fcpx/"><u>[Updated] 2024 Approved  From Reel to Share  Creating Perfect VT Videos in FCPX</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-tiktoks-made-easy/"><u>[Updated] 2024 Approved  Tweeting TikToks Made Easy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-voice-capture-tech-the-ultimate-5-apps-for-mac-users/"><u>[Updated] Elite Voice Capture Tech  The Ultimate 5 Apps for Mac Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-insta-spin-wonders-expert-techniques-to-enthrall-your-followers-with-flipped-photos/"><u>[Updated] Insta Spin Wonders  Expert Techniques to Enthrall Your Followers with Flipped Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-photography-editing-tips-for-making-stunning-photos/"><u>[Updated] Photography Editing Tips for Making Stunning Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-world-of-podcast-rss-formatting/"><u>2024 Approved  Navigating the World of Podcast RSS Formatting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-your-headline-for-job-searches/"><u>2024 Approved  Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/audiovisual-fusion-incorporating-songs-in-ig-media-for-2024/"><u>Audiovisual Fusion  Incorporating Songs in IG Media for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-beats-effective-remedies-for-silent-lenovo-laptops/"><u>Bring Back the Beats: Effective Remedies for Silent Lenovo Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-issues-heres-how-to-silence-the-crackles/"><u>Cyberpunk 2077 Sound Issues? Here's How to Silence the Crackles!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/elevate-your-listening-experience-with-these-proven-methods-for-increasing-volume-on-windows-11/"><u>Elevate Your Listening Experience with These Proven Methods for Increasing Volume on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-the-unresponsive-mic-on-your-steelseries-arctis-7/"><u>Expert Tips for Fixing the Unresponsive Mic on Your SteelSeries Arctis 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-easy-steps-to-get-your-razer-mic-up-and-running-again/"><u>Five Easy Steps to Get Your Razer Mic Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-malfunctions-in-windows-10-a-step-by-step-guide/"><u>Fixing Audio Malfunctions in Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-microphone-issues-on-counter-strike-2-a-comprehensive-guide/"><u>Fixing Microphone Issues on Counter Strike 2: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-persistent-audio-disruptions-on-your-pc-running-windows-10/"><u>Fixing Persistent Audio Disruptions on Your PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-airpods-troubleshooting-sound-issues-on-pcs-with-windows-11-and-10/"><u>Fixing Silent AirPods: Troubleshooting Sound Issues on PCs with Windows 11 and 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-apex-legends-troubleshooting-and-solutions/"><u>Fixing Silent Apex Legends: Troubleshooting and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016449391-hdmi-trouble-heres-what-to-do-if-another-application-is-using-the-device/"><u>HDMI Trouble? Here's What To Do If Another Application Is Using The Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-sony-xperia-5-v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Sony Xperia 5 V For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-11-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-output-on-your-realtek-device-after-a-malfunction/"><u>How to Restore Audio Output on Your Realtek Device After a Malfunction</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-g310-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on G310?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restart-the-dolby-sound-driver-in-windows-11/"><u>How to Troubleshoot and Restart the Dolby Sound Driver in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-8-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 8 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-8t-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 8T 5G Lock Screen Password?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015579100-logitech-g633-not-working-heres-what-you-need-to-do/"><u>Logitech G633 Not Working? Here's What You Need to Do</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-repairing-your-laptops-onboard-sound-system-a-stepwise-approach/"><u>Mastering the Art of Repairing Your Laptop's Onboard Sound System – A Stepwise Approach</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-5-free-video-compression-apps-for-iphone-and-ipad/"><u>New In 2024, Top 5 Free Video Compression Apps for iPhone and iPad</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-rev-up-your-slow-chrome-and-transform-your-surfing-speed/"><u>Quick Fixes to Rev Up Your Slow Chrome and Transform Your Surfing Speed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-restoring-audio-on-your-logitech-g933-headset/"><u>Quick Solutions for Restoring Audio on Your Logitech G933 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-get-your-dells-audio-working-again/"><u>Quick Solutions to Get Your Dell's Audio Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-output-successfully-mended-sound-problem-in-firefox/"><u>Reviving Audio Output: Successfully Mended Sound Problem in Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-silence-stop-your-speakers-from-buzzing/"><u>Simple Steps to Silence: Stop Your Speakers From Buzzing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-back-4-blood-voice-chat-problems-with-these-easy-steps/"><u>Solve Your 'Back # 4 Blood' Voice Chat Problems with These Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015888558-solved-lose-audio-after-updating-to-windows-10-heres-the-quick-fix/"><u>Solved: Lose Audio After Updating to Windows 10? Here's the Quick Fix!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-audio-functionality-on-your-windows-11-pc/"><u>Solved! How to Restore Audio Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-black-ops-cold-war-pc-issues-fixing-the-silent-gameplay-problem/"><u>Solving Black Ops Cold War PC Issues - Fixing the Silent Gameplay Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-malfunction-solutions-a-complete-how-to/"><u>Squad Mic Malfunction Solutions : A Complete How-To</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-hp-laptops-no-sound-dilemma-expert-tips-for-users/"><u>Troubleshoot & Fix HP Laptop's No-Sound Dilemma: Expert Tips for Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-skype-audio-problems-with-simple-steps/"><u>Troubleshoot and Fix Skype Audio Problems with Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-loss-of-sound-on-your-desktop-or-laptop/"><u>Troubleshooting Complete Loss of Sound on Your Desktop or Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolve-your-logitech-g430-headset-microphone-issues/"><u>Troubleshooting Guide: Resolve Your Logitech G430 Headset Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-nvidia-output-unplugged-issues/"><u>Troubleshooting Guide: Solving 'Nvidia Output Unplugged' Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-non-functioning-mic-on-your-steelseries-arctis-99x-wireless-earphones/"><u>Troubleshooting Tips for Non-Functioning Mic on Your SteelSeries Arctis 9/9X Wireless Earphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-why-is-my-cod-vanguards-voice-chat-unresponsive/"><u>Troubleshooting: Why Is My COD: Vanguard's Voice Chat Unresponsive?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-fixing-logitech-g933-microphone-issues/"><u>Ultimate Guide: Fixing Logitech G933 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-the-annoying-arctis-7-audio-issues-in-windows/"><u>Ultimate Guide: Solving the Annoying Arctis 7 Audio Issues in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-z-fold-6-launch-details-costs-and-latest-features/"><u>Unveiling the Samsung Galaxy Z Fold 6 - Launch Details, Costs & Latest Features</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974894923-win11-window-width-woes-now-fixed/"><u>Win11 Window Width Woes, Now Fixed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-the-battle-against-silent-mic-troubles-in-windows-7-expert-hacks-revealed/"><u>Winning the Battle Against Silent Mic Troubles in Windows 7 - Expert Hacks Revealed</u></a></li>
+</ul></div>

@@ -1,0 +1,221 @@
+---
+title: "Logitech G Pro X Microphone Fix: A Complete Troubleshooting Walkthrough"
+date: 2024-09-05T04:08:42.900Z
+updated: 2024-09-06T04:08:42.900Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Logitech G Pro X Microphone Fix: A Complete Troubleshooting Walkthrough"
+excerpt: "This Article Describes Logitech G Pro X Microphone Fix: A Complete Troubleshooting Walkthrough"
+thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b39460885352e6b8c3f7846969574b.jpg
+---
+
+## Common Problems and Fixes for a Malfunctioning Logitech G230 Microphone - Resolved
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000091-268x300.png)
+
+ **Recently we’ve seen many Logitech G230 users reporting that their mic is not working.**Although it’s very frustrating, you’re definitely not the only person to experience this issue.  More importantly,**you should be able to fix it pretty easily** …
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Try these fixes**
+
+ Here’s a list of fixes that have resolved this problem for other Logitech users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. [**Check your microphone settings**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Allow access to your headset microphone (for Windows 10 users)**](https://www.drivereasy.com/knowledge/logitech-g230-mic-not-working-solved/#b)
+3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Troubleshoot** **hardware** **issues**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **Fix 1: Check your microphone settings**
+
+This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
+
+1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
+2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
+4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
+5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
+6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
+7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+8. Click **OK** .
+See if your Logitech G230 mic works. If not, try the next fix, below.
+
+### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
+
+If you don’t allow Windows 10 and applications to access your microphone, you may also encounter this issue. You can follow the steps below to check:
+
+1. On your keyboard, press the Windows logo key and I at the same time to open Windows Settings. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
+2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
+Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **Fix 3: Update your audio driver**
+
+An outdated or corrupted audio driver can also be the root of this issue. To fix it, you just need to update your audio driver to the latest version.There are two ways to update your sound card driver: **manually**  and **automatically** . **Update your sound card driver manually**  – You can update your sound card driver manually by going to the manufacturer’s website, and searching for the latest driver for your sound card.
+
+ Be sure to choose the driver**that’s compatible with your exact sound card model** and**your version of Windows** .
+
+**Or**
+
+**Update your drivers automatically**  – If you don’t have the time, patience or computer skills to update your sound card driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
+
+**All the drivers in Driver Easy** come straight from**the manufacturer** . They‘re**all certified safe and secure** .
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
+3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
+ You can do it for free if you like, but it’s partly manual.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### **Fix 4: Troubleshoot hardware issues**
+
+If none of the fixes works for you, it’s time to troubleshoot hardware issues. You can follow the steps below to troubleshoot hardware issues:
+
+1. Try connecting your Logitech G230 to **another port**  on your computer. If the mic works in the other port, it suggests this issue is probably caused by a faulty port, if your mic still doesn’t work, move on to the next step, below.
+2. Try connecting your Logitech G230 to **another computer** . If your mic works in another PC, you should contact the vendor of your PC for advice; if your mic still doesn’t work in another PC, you should contact Logitech for support.
+Hopefully one of the fixes above resolved this issue for you. If you have any questions or suggestions, please leave your comment below.
+
+* [Logitech](https://tools.techidaily.com/drivereasy/download/)
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-explore-androids-best-moba-experiences-in-10/"><u>[New] 2024 Approved  Explore Android's Best MOBA Experiences in #10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-accurate-age-reporting-tips-for-perfecting-your-tiktok-profile/"><u>[New] Accurate Age Reporting  Tips for Perfecting Your TikTok Profile</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-optimized-broadcast-sharing-live-streams-from-twitch/"><u>[New] In 2024, Optimized Broadcast  Sharing Live Streams From Twitch</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-fusing-iphones-media-for-cohesive-outputs/"><u>[Updated] 2024 Approved  Fusing iPhones' Media for Cohesive Outputs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-integrating-zoom-with-facebook-live/"><u>[Updated] Seamlessly Integrating Zoom with Facebook Live</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-monetary-side-of-podcasting-success/"><u>[Updated] The Monetary Side of Podcasting Success</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-elevate-your-edits-the-beginners-insider-look-at-editing-techniques/"><u>2024 Approved  Elevate Your Edits  The Beginner's Insider Look at Editing Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/advanced-techniques-to-correct-delayed-audio-in-live-broadcasts/"><u>Advanced Techniques to Correct Delayed Audio in Live Broadcasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-fitness-tracking-with-the-new-fitbit-versa-lite-a-detailed-expert-review/"><u>Affordable Fitness Tracking with the New Fitbit Versa Lite - A Detailed Expert Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-issues-in-your-logitech-g230-mic-for-crystal-clear-audio/"><u>Diagnosing and Repairing Issues in Your Logitech G230 Mic for Crystal Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-razer-man-owar-microphone-malfunctions/"><u>Diagnosing and Repairing Razer Man O'War Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-a-nonfunctional-hyperx-cloud-alpha-headset-mic/"><u>Effective Fixes for a Nonfunctional HyperX Cloud Alpha Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-audio-interruptions-from-bluetooth-headsets-on-windows-computers-versions-10-and-11/"><u>Eliminating Audio Interruptions From Bluetooth Headsets on Windows Computers (Versions 10 & 11)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-no-sound-on-laptop-issue/"><u>Fix No Sound on Laptop Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-how-to-repair-unresponsive-counter-strike-go-microphone/"><u>Fixes & Solutions: How to Repair Unresponsive Counter-Strike Go Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-troubleshoot-your-logitech-g733-microphone/"><u>Fixing Issues: How to Troubleshoot Your Logitech G733 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-to-battle-a-step-by-step-solution-for-league-of-legends-voice-chat-failure/"><u>Getting Back to Battle: A Step-by-Step Solution for League of Legends Voice Chat Failure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-dilemma-fixed-audio-directs-to-speakers-instead-of-personal-earpiece-despite-connection/"><u>Headphone Dilemma Fixed: Audio Directs to Speakers Instead of Personal Earpiece Despite Connection</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-13t-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi 13T</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy XCover 6 Pro Tactical Edition Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016985236-logitech-webcam-and-microphone-malfunctions-heres-how-to-resolve-them/"><u>Logitech WebCam & Microphone Malfunctions? Here's How to Resolve Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015696857-no-audio-in-your-g435-headset-heres-what-you-can-do/"><u>No Audio in Your G435 Headset? Here's What You Can Do!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-extended-launch-delays-in-fallout-4-with-these-easy-solutions/"><u>Overcome Extended Launch Delays in Fallout 4 with These Easy Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014950690-resolved-lack-of-audio-post-windows-10-upgrade-simple-fixes/"><u>Resolved: Lack of Audio Post-Windows 10 Upgrade – Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015772582-speedy-mic-testing-tutorial-achieve-perfect-sound-fidelity-without-hassle/"><u>Speedy Mic Testing Tutorial - Achieve Perfect Sound Fidelity Without Hassle!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-to-eliminate-unwanted-user-profiles-in-windows-10-systematically/"><u>The Ultimate Walkthrough to Eliminate Unwanted User Profiles in Windows 10 Systematically</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-effortlessly-astro-a20-audio-problems-and-fixes/"><u>Troubleshoot Effortlessly: Astro A20 Audio Problems and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-how-to-solve-bluetooth-issues-in-windows-11/"><u>Troubleshooting & Fixing: How to Solve Bluetooth Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-playback-problems-a-guide-to-solving-sound-issues-on-pc/"><u>Troubleshooting and Fixing Playback Problems: A Guide to Solving Sound Issues on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fix-windows-11-audio-issues/"><u>Troubleshooting Guide: Fix Windows 11 Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting Guide: Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-corsair-virtuoso-mic/"><u>Troubleshooting Guide: Resolving Issues with Your Corsair Virtuoso Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-solve-windows-11-microphone-issues/"><u>Troubleshooting Steps to Solve Windows 11 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-eliminating-popping-sounds-from-arctis-7-on-windows-computers/"><u>Troubleshooting Techniques for Eliminating Popping Sounds From Arctis 7 on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-for-continuous-audio-cuts-during-windows-11-usage/"><u>Ultimate Solution for Continuous Audio Cuts During Windows 11 Usage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/understanding-and-resolving-microphone-voice-pickup-problems/"><u>Understanding and Resolving Microphone Voice Pickup Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-the-problems-expert-tips-on-fixing-discords-microphone-malfunctions/"><u>Unmute the Problems: Expert Tips on Fixing Discord's Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-dota-2-microphone-proven-solutions-to-restore-audio-communication/"><u>Unstuck Your Dota 2 Microphone - Proven Solutions to Restore Audio Communication</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/webcam-visuals-uncluttered-remove-obscurants-for-2024/"><u>Webcam Visuals Uncluttered  Remove Obscurants for 2024</u></a></li>
+</ul></div>

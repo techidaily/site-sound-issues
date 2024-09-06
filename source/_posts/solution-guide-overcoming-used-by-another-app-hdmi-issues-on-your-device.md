@@ -1,0 +1,268 @@
+---
+title: "Solution Guide: Overcoming 'Used By Another App' HDMI Issues on Your Device"
+date: 2024-09-05T04:11:04.598Z
+updated: 2024-09-06T04:11:04.598Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Solution Guide: Overcoming 'Used By Another App' HDMI Issues on Your Device"
+excerpt: "This Article Describes Solution Guide: Overcoming 'Used By Another App' HDMI Issues on Your Device"
+thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b93fe81ef27a5f8f7d593d55.jpg
+---
+
+## Audacity's Common Error When Opening Sound Devices? Discover 5 Effective Solutions
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/error-opening-sound-device-feature-image-2.jpg)
+
+ FIX: Error opening sound device. Please check the recording device settings and the project sample rate.
+  
+If you got error “**_Error opening sound device_**” while using Audacity to record sound, don’t worry. You can fix the error by following the simple instructions below.  
+
+ Audacity website has provided tips to fix this issue. But it seems not very easy to follow through the instructions. If you’ve tried the solutions on their website but the error persists, **[try the six solutions](https://tools.techidaily.com/drivereasy/download/)**  in this post.
+
+ There are **six**  solutions for you to try to fix this error. You may not have to try them all. Just work your way down at the top of the list until you find the one that works for you.
+
+1. **[Ensure the external sound device is plugged in (desktop only)](https://www.drivereasy.com/knowledge/fix-audacity-error-opening-sound-device-issue/#solution1)**
+2. **[Ensure the external sound device is enabled](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Ensure audio device settings in Audacity are configured correctly](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Turn off Software Playthrough in Audacity](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Update the audio driver](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
+  
+## Solution 1: Ensure the external sound device is plugged in (desktop only)
+
+ If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
+  
+ If you’ve plugged the external sound device into the computer,_**ensure they are recognized by your computer**_ .  
+**How to check** : In the system tray, if you see a red x with circle icon the speaker icon, it indicates the external sound device (for example, your speakers or your microphone) is not connected to the computer. In this case, unplug the device then replug it. After that, if the issue is still there, refer the steps in**Solution 2** to check if the device is disabled.
+
+##
+
+ Solution 2: Ensure the external sound device is enabled
+
+ If the external speakers or microphone is disabled, error “ **_Error open sound device. Try changing the audio host, recording device and the project sample rate_**  ” would occur. So when you get this error, check if the device is disabled. If it’s disabled, enable it manually.  
+  
+ Follow steps below to check if the speakers are disabled:
+
+ 1) Right-click on the speaker icon in the system tray, and select**Playback devices** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
+  
+ Follow these steps:  
+  
+ 1) Right-click on the speaker icon in the system tray, and select**Recording devices** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##
+  
+ Solution 3: Ensure audio device settings in Audacity are configured correctly
+
+ This error can be caused by incorrect audio device settings in Audacity. So check and ensure the audio device settings in Audacity are configured correctly.  
+  
+ Follow these steps:  
+  
+ 1) Open**Audacity** .
+
+ 2) Click**Edit** in the menu bar and select**Preferences** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
+
+ 3) Click**Devices** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Ensure the**Host** field set to**Windows WASAPI** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6a682959.png)
+
+ After you set the Host to Windows WASAPI, you’ll see the values of Device field under Playback and the Device under Recording change automatically.
+
+ 5) Click the**OK** button.
+
+ 6) Check to see if you can record successfully.  
+  
+##
+
+ Solution 4: Turn off Software Playthrough of input in Audacity
+
+ Software Playthrough should not be enabled when you record sound. If it’s enabled, error “Error opening sound device” will probably occur.  
+  
+ Follow below steps to check if Software Playthrough is checked. And uncheck it if you need.  
+  
+ 1) Open**Audacity** .
+
+ 2) Click**Edit** in the menu bar and select**Preferences** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
+
+ 3) Click**Recording** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
+
+##
+  
+ Solution 5: Update the audio driver
+
+ If the installed audio driver is outdated, it may not support the Audacity record feature. To fix the error, you can try to update the audio driver.  
+  
+ You can update the audio driver manually. Just go to your PC manufacturer’s website or the sound card manufacturer’s website to check for and download the latest audio driver. If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .  
+  
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):  
+  
+ 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.  
+  
+ 2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
+
+ 3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) After updating the driver, check to see if you can record sound successfully.
+
+##
+
+ Solution 6: Restart the Windows Audio Endpoint Builder service
+
+ If Windows Audio Endpoint Builder service is not running properly, this error would occur. So restart the Windows Audio Endpoint Builder service to try to fix the “Error opening sound device “ issue.  
+  
+ Follow steps below:  
+  
+ 1) On your keyboard, press the**Win+R** (Windows logo key and R key) at the same time to invoke the run box.
+
+ 2) Type**services.msc** and press**Enter** to open the Services window.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
+
+ 4) Check to see if you can record successfully.  
+  
+ Hopefully the solutions above help you resolve the problem. If you have any questions, please feel free to leave your comments. I’d love to hear of any ideas or suggestions.
+
+* [Audio](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-action-cam-battle-max-360-vs-hero-11-review/"><u>2024 Approved  Top Action Cam Battle  Max 360 vs Hero 11 Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/auditory-glitches-solved-restoring-sounds-to-cyberpunk-2077-on-windows-10-pcs/"><u>Auditory Glitches Solved: Restoring Sounds to Cyberpunk 2077 on Windows 10 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-dealing-with-a-malfunctioning-lucidsound-ls30-mic/"><u>Common Problems & Solutions: Dealing With a Malfunctioning LucidSound LS30 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-unplugged-nvidia-output-issues/"><u>Diagnosing and Fixing Unplugged Nvidia Output Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/disoriented-footage-instagrams-upside-down-trend/"><u>Disoriented Footage  Instagram's Upside-Down Trend</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-fixes-for-the-incomprehensible-error-how-to-address-stop-code-0x0000007b-bsod/"><u>DIY Fixes for the Incomprehensible Error: How to Address Stop Code 0X0000007B BSOD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-configuring-mystery-audio-devices-on-your-windows-nx-11-system/"><u>Guide: Configuring Mystery Audio Devices on Your Windows nX 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-your-computers-audio-quick-and-effective-methods/"><u>How to Reactivate Your Computer's Audio: Quick and Effective Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 5G Phones with/without a PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-diagnosis-and-repair-strategies-for-malfunctioning-beyond-the-wire-mics/"><u>In-Depth Diagnosis and Repair Strategies for Malfunctioning Beyond The Wire Mics</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/kwicut/download/"><u>KwiCut - Boost Your Productivity with Smart Video Clipping</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016274074-laptop-audio-malfunction-here-are-effective-solutions/"><u>Laptop Audio Malfunction? Here Are Effective Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-click-free-experience-how-to-resolve-crackling-sounds/"><u>Logitech G Pro X Click-Free Experience: How to Resolve Crackling Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-mic-a-guide-to-restoring-lost-sounds-in-fortnite/"><u>Mastering the Mic: A Guide to Restoring Lost Sounds in Fortnite</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-capture-your-best-self-10-top-rated-webcam-software-for-windows-10-for-2024/"><u>New Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-computers-diy-solutions-for-a-lenovo-laptop-that-wont-play-sounds/"><u>No More Quiet Computers: DIY Solutions for a Lenovo Laptop That Won't Play Sounds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/outstanding-savings-on-electronics-with-sony-psvr-69-apple-airpods-and-the-versatile-anker-power-station/"><u>Outstanding Savings on Electronics with Sony PSVR², $69 Apple AirPods, & the Versatile Anker Power Station</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-groaning-from-the-burden-of-its-own-ambition-like-an-old-man-struggling-uphill-but-hey-its-not-all-doom-and-gloom-the-iphone-12-comes-equi13/"><u>Overcoming iPhone Groaning From the Burden of Its Own Ambition, Like an Old Man Struggling Uphill. But Hey, It's Not All Doom and Gloom! The iPhone 12 Comes Equipped with a Suite of Features that Make It One Helluva Device for Photography Enthusiasts.</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/reigning-tiktoks-on-twitter-a-viral-analysis-for-2024/"><u>Reigning TikToks on Twitter  A Viral Analysis for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-virtuoso-mic-step-by-step-repair-instructions/"><u>Revive Your Corsair Virtuoso Mic: Step-by-Step Repair Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-for-usb-headsets-a-step-by-step-guide-for-windows-7-users/"><u>Reviving Audio for USB Headsets: A Step-by-Step Guide for Windows 7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-speakers-the-ultimate-solution-for-no-audio-in-zoom-meetings-on-windows-1011/"><u>Reviving Speakers: The Ultimate Solution for No Audio in Zoom Meetings on Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-g435-wireless-headset-heres-how-you-can-restore-audio/"><u>Silent G435 Wireless Headset? Here's How You Can Restore Audio!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-spells-gone-reinstating-audio-during-hearthstone-battles/"><u>Silent Spells Gone: Reinstating Audio During Hearthstone Battles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-common-gameplay-sounds-glitches-in-outriders-a-comprehensive-guide/"><u>Solve Common Gameplay Sounds Glitches in Outriders - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-issues-with-disconnected-realtek-hd-audio-drivers/"><u>Solved: Issues with Disconnected Realtek HD Audio Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-in-windows-10-a-comprehensive-5-step-guide/"><u>Solving Audio Problems in Windows 10: A Comprehensive 5-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-hyperx-cloud-alphas-mic-successful-repair-strategies-unveiled/"><u>Trouble with HyperX Cloud Alpha's Mic? Successful Repair Strategies Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-free-audio-how-to-restore-sound-on-a-bluetooth-device-that-is-connected-but-silent/"><u>Trouble-Free Audio: How to Restore Sound on a Bluetooth Device That Is Connected But Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-mpow-microphone-in-windows/"><u>Troubleshooting Guide: Fixing a Malfunctioning MPOW Microphone in Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-hangul-an-accessible-guide-to-asian-languages/"><u>Unlocking Hangul: An Accessible Guide to Asian Languages</u></a></li>
+</ul></div>

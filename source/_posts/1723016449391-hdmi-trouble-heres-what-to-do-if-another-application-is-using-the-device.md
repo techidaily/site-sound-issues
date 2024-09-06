@@ -1,7 +1,7 @@
 ---
 title: HDMI Trouble? Here's What To Do If Another Application Is Using The Device
-date: 2024-09-01T00:04:05.721Z
-updated: 2024-09-02T00:04:05.721Z
+date: 2024-09-05T03:59:18.527Z
+updated: 2024-09-06T03:59:18.527Z
 tags:
   - win11
   - win10
@@ -13,14 +13,44 @@ excerpt: This Article Describes HDMI Trouble? Here's What To Do If Another Appli
 thumbnail: https://thmb.techidaily.com/e8e4a6d6a9bc5b040ff402928b53a2666775b46cc9d58e885cce92052d4219a2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HDMI Trouble? Here's What To Do If Another Application Is Using The Device
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/the-device-is-being-used-by-another-application.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you can’t hear sound via HDMI output, and you get error message saying “The device is being used by another application……”, don’t worry. You can get the sound back by following the instructions below. The steps apply to Windows 10, 7 & 8.
 
  The issue probably is caused by corrupted hdmi audio driver installed on your computer. So to fix the issue, you can try rolling back the hdmi audio driver or updating the hdmi audio driver.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Roll Back the HDMI Audio Driver to Previous Version**
 
  Many people like AMD, Intel Graphics card users have reported this method helped resolve their ‘The device is being used by another application’ error . So it’s worth a try.
@@ -33,10 +63,22 @@ To roll back the driver, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861ec5e6b1f5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. Go to the**Driver** tab and click the**Roll Back Driver** button. Note you will need to provide administrator permission to perform this. Mare sure you have signed in to Windows with an administrator account. (If the Roll Back Driver button is grey out, it means this method doesn’t work for you. You can try the next method.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5861ef6da41f3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4\. Restart your PC and see if this resolves the sound issue.
 
 ## **Update the HDMI Audio Driver**
@@ -53,6 +95,12 @@ To roll back the driver, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-drivers-drivereasy-en-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -131,8 +179,3 @@ To roll back the driver, follow these steps:
 <li><a href="https://sound-issues.techidaily.com/windows-11-sound-problems-resolved-how-to-fix-your-speakers-now/"><u>Windows 11 Sound Problems Resolved: How to Fix Your Speakers Now</u></a></li>
 <li><a href="https://sound-issues.techidaily.com/1723016993847-windows-11-update-causes-audio-issues-heres-how-to-get-your-sounds-back/"><u>Windows 11 Update Causes Audio Issues? Here's How To Get Your Sounds Back!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

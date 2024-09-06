@@ -334,6 +334,9 @@ hexo.extend.helper.register("encodePercent", function (str) {
   // 解构HTML中的转义字符
   try { str = decodeURIComponent(str); } catch(e) {}
   
+  // 去除多余的 \"
+  str = str.replaceAll(`\\"`, "");
+  
   // 修正%%的显示内容
   return str.replace(/%+/g, '%');
 });
