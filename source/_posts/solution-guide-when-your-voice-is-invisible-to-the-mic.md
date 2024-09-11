@@ -1,0 +1,366 @@
+---
+title: "Solution Guide: When Your Voice Is Invisible to the Mic"
+date: 2024-09-10T13:08:21.105Z
+updated: 2024-09-11T13:08:21.105Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Solution Guide: When Your Voice Is Invisible to the Mic"
+excerpt: "This Article Describes Solution Guide: When Your Voice Is Invisible to the Mic"
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
+---
+
+## Apex Legends and Voice Chat Woes? Discover Simple Solutions to Sound Off in the Game
+
+**Voice chat is not working on Apex Legends** ? This can be so frustrating. But don’t worry, it’s often not hard to fix at all…
+
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+
+
+## How to fix Apex Legends Voice Chat Not Working
+
+ Here are 6 fixes that have helped other users resolve the**Apex Legends voice chat not working** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Allow Origin to access your microphone](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Make sure your microphone is set as default in Windows](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Configure in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Reinstall Origin and Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Allow Origin to access your microphone
+
+ The voice chat not working in Apex Legends error may happen if you have not allowed Origin to access your microphone.
+
+ Here are the steps to grant Origin access to the microphone on your computer:
+
+ 1) On your keyboard, press the**Windows logo key** and type**microphone** . Then click on**Microphone privacy settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-245.png)
+
+ 2) In**Allow apps to access your microphone** , and turn on**the switch** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-246.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ 3) Scroll down to**Allow desktop apps to access your microphone** , turn on**the switch** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-248.png)
+
+ By doing so, you have allowed Origin the access to the microphone on your computer.
+
+ Now run Apex Legends and check to see if the microphone not working problem is resolved. If yes, then great! If the problem still remains, please try**Fix 2** , below.
+
+---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 2: Update your audio driver
+
+ This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ 3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
+
+ You can also do it for free if you like, but it’s partly manual.
+
+4) Restart your computer for the changes to take effect.
+
+5) Launch Apex Legends to see if you can hear your friends without fail. If yes, you have solved the issue! If no, please move on to**Fix 3** , below.
+
+---
+
+### Fix 3: Make sure your microphone is set as default in Windows
+
+ Ideally Windows can automatically detect your microphone and set it as the default device every time it’s plugged into. But that’s not always the case and sometimes you’ll have to manually set it as default.[](https://tools.techidaily.com/drivereasy/download/) [](http://twitter.com/home/?status=How%20To%20Fix%20Fortnite%20Sound%20Not%20Working%20-%20https://www.drivereasy.com/knowledge/how-to-fix-fortnite-sound-not-working-on-pc/) **[](https://tools.techidaily.com/drivereasy/download/)**
+
+Here’s how to do it:
+
+ 1) On your keyboard, press **the Windows logo key** and R at the same time, then type **ms-settings:sound** and press **Enter** to open Control Panel.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-239.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ 4) In **Sound** settings, scroll down to the**Input** section, and in**Choose your input device** , make sure the microphone you are actively using is selected. Then,**test your microphone** by speaking into your mic to see if it ‘hears’ anything. If yes, it means you have configured the microphone properly.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+5) Close the window.
+
+6) Launch Apex Legends to see if the mic not working problem is fixed. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
+
+---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 4: Configure in-game settings
+
+ It is also important that you configured the audio settings right in order for the microphone to work properly.
+
+Here is how to configure in-game settings:
+
+ 1) In Origin, click**Origin** \>**Application Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-260.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ 2) Click**More** \>**VOICE** , then make sure**the microphone you’re using is selected** and**Microphone volum** e is set to**an audio volume** . After that, in**Activation mode** , choose**Push-to-talk** .
+
+![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
+
+ 3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ 4) Again, play Apex Legends to see if the voice chat not working issue is resolved.
+
+ Still no joy? Please try**Fix 5** , below.
+
+---
+
+### Fix 5: Install the latest game patch
+
+ The developers of Apex Legends, EA, keep releasing game patches to fix bugs. It’s possible that a recent patch has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to[**EA official website**](https://www.ea.com/games/apex-legends) , check for the latest patch, download and install it. Then check if it fixes the voice chat not working problem.
+
+ If there is no patches available, or the patch fails to address the problem, then please try **Fix 6** , below.
+
+---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 6: Reinstall Origin and Apex Legends
+
+ If the above steps don’t solve the issue, then it’s likely that the files in Origin or Apex Legends are corrupt. So you can reinstall the client and the game to see if it solves the problem.
+
+Here are the steps:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
+
+ 2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+ 4) Locate **Apex Legends** and uninstall it too.
+
+ 5) Restart your computer.
+
+ 6) Download and install Origin from **[its official website](https://www.origin.com/)**  .
+
+ 7) Download and install Apex Legends in your computer.
+
+ 8) Run Apex Legends and see if the voice chat works properly.
+
+---
+
+ That’s it! Hope the post has guided you in the right direction in fixing the voice chat not working in Apex Legends issue. If you have any ideas, suggestions or questions please do not hesitate to let us know in the comments. Thanks for reading!
+
+* [Apex Legends](https://tools.techidaily.com/drivereasy/download/)
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-a-cash-cascade-on-youtube-strategies-beyond-the-ad-model/"><u>[New] 2024 Approved Crafting a Cash Cascade on YouTube Strategies Beyond the Ad Model</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-expedition-tools-for-storytelling-through-lenses/"><u>[New] 2024 Approved Expedition Tools for Storytelling Through Lenses</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-deciphering-the-secrets-of-zd-soft-recorder/"><u>[New] Deciphering the Secrets of ZD Soft Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-and-master-group-communication-using-zoom-on-phone/"><u>[New] In 2024, Explore & Master Group Communication Using Zoom on Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-expert-guide-to-premiere-pro-fs-preview/"><u>[Updated] 2024 Approved Expert Guide to Premiere Pro FS Preview</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lone-earbud-problem-resolution-guide/"><u>[Updated] Lone Earbud Problem Resolution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-for-dealing-with-a-faulty-mic-in-your-steelseries-arctis-headset-model-identifier/"><u>Comprehensive Solutions for Dealing with a Faulty Mic in Your SteelSeries Arctis Headset ([Model Identifier])</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-tips-for-diagnosing-and-repairing-lack-of-audio-on-toshiba-portables/"><u>Comprehensive Tips for Diagnosing and Repairing Lack of Audio on Toshiba Portables</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-audio-problems-on-a-windows-7-machine/"><u>Diagnosing and Fixing Audio Problems on a Windows 7 Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-battlefield-4-silent-mode-a-comprehensive-audio-troubleshooting-guide/"><u>Fixing Battlefield 4 Silent Mode: A Comprehensive Audio Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-crackling-sound-from-speakers-on-windows-11-and-7-problem-solved/"><u>Fixing Crackling Sound From Speakers on Windows 11 & 7 - Problem Solved!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-compression-to-clarity-the-zip-srt-conversion-for-2024/"><u>From Compression to Clarity The ZIP-SRT Conversion for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-league-of-legends-voice-chat-back-on-track-a-guide/"><u>Get Your League of Legends Voice Chat Back On Track: A Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015699155-hearthstone-audio-malfunction-heres-how-to-restore-your-game-sounds/"><u>Hearthstone Audio Malfunction? Here's How to Restore Your Game Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-realtek-audio-input/"><u>How to Fix a Non-Functioning Realtek Audio Input</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-no-speaker-or-headphone-connected-problem-on-windows-10-8-and-7/"><u>How to Resolve the 'No Speaker or Headphone Connected' Problem on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-chat-problems-in-league-of-legends-a-step-by-step-guide/"><u>How to Resolve Voice Chat Problems in League of Legends - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-chrome-browser-solutions-at-hand/"><u>How to Restore Sound on Your Chrome Browser - Solutions at Hand</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/leading-alternatives-to-zoom-on-desktops-and-smartphones-for-2024/"><u>Leading Alternatives to Zoom on Desktops & Smartphones for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolving-logitech-g533-microphone-issues/"><u>Quick Fix Guide: Resolving Logitech G533 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-7-microphone-issues-quick-and-easy-fixes/"><u>Resolving Windows 7 Microphone Issues Quick & Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-crackles-and-clipping-eliminating-audio-problems-on-your-pc-with-windows-11-or-7/"><u>Say Goodbye to Crackles & Clipping: Eliminating Audio Problems on Your PC with Windows 11 or 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-a-non-responsive-razer-kraken-headset-microphone/"><u>Solution Steps for a Non-Responsive Razer Kraken Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-11/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-sync-issues-the-latest-techniques-for-fixing-audio-latency/"><u>Solving Your Sync Issues: The Latest Techniques for Fixing Audio Latency</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-unplugging-false-alarms-for-headphones-and-speakers-in-windows-os/"><u>Troubleshooting Audio Issues: Unplugging False Alarms for Headphones and Speakers in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-sound-issues-with-zoom-on-your-computer/"><u>Troubleshooting Steps: Resolving Sound Issues with Zoom on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-restore-destiny-2s-voice-chat-functionality/"><u>Troubleshooting Tips - How to Restore Destiny 2'S Voice Chat Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-successfully-opening-the-realtek-hd-audio-manager/"><u>Troubleshooting Tips for Successfully Opening the Realtek HD Audio Manager</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-fixing-bluetooth-sound-skips-and-lags/"><u>Troubleshooting Windows 11: Fixing Bluetooth Sound Skips and Lags</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-upping-speaker-levels-in-the-latest-windows-operating-system/"><u>Ultimate Tricks for Upping Speaker Levels in the Latest Windows Operating System</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-lenovo-tackling-bluetooth-problems-head-on/"><u>Win11 & Lenovo: Tackling Bluetooth Problems Head-On</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-fix-enabling-visibility-for-headphones-in-media-controls/"><u>Windows 11 Audio Fix: Enabling Visibility for Headphones in Media Controls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015998543-windows-10/"><u>Windows 지스 10에서 소음이 끊어질 수 있는 문제 해결</u></a></li>
+</ul></div>
+
+
+
+
