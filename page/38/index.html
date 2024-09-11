@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"sound-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8375</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8970</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8375</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8970</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/regain-your-battlefields-roar-resolve-borderlands-3s-muted-sounds-on-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/433c8db8db856104c9810f439aa52d5a8953c74930ec2a2b3bd8b6afbd328645.jpg" alt="Regain Your Battlefield&#39;s Roar - Resolve Borderlands 3’S Muted Sounds on PC." class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-the-issue-black-ops-cold-war-voice-communication-failure/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a41b00b3f13329dba336fbddc.png" alt="Fixing the Issue: Black Ops Cold War Voice Communication Failure" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/regain-your-battlefields-roar-resolve-borderlands-3s-muted-sounds-on-pc/">
-                            Regain Your Battlefield&#39;s Roar - Resolve Borderlands 3’S Muted Sounds on PC.
+                        <a href="/fixing-the-issue-black-ops-cold-war-voice-communication-failure/">
+                            Fixing the Issue: Black Ops Cold War Voice Communication Failure
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Regain Your Battlefield’s Roar - Resolve Borderlands 3’S Muted Sounds on PC.</p>
+                            <p>This Article Describes Fixing the Issue: Black Ops Cold War Voice Communication Failure</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:24 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:33 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/regain-your-battlefields-roar-resolve-borderlands-3s-muted-sounds-on-pc/">Read more<span class="seo-reader-text">Regain Your Battlefield&#39;s Roar - Resolve Borderlands 3’S Muted Sounds on PC.</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-the-issue-black-ops-cold-war-voice-communication-failure/">Read more<span class="seo-reader-text">Fixing the Issue: Black Ops Cold War Voice Communication Failure</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-tutorial-repairing-non-functional-rust-mics-a-complete-how-to-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3e3d11024602b266406d40d71c2e14542454419c94adae0ee9c1f0200c006c8b.jpg" alt="Step-by-Step Tutorial: Repairing Non-Functional Rust Mics - A Complete How-To Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/addressing-and-correcting-nonfunctional-audio-service-problems-for-optimal-performance/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1cddde4903063c61616ed0d4f.jpg" alt="Addressing and Correcting Nonfunctional Audio Service Problems for Optimal Performance" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-tutorial-repairing-non-functional-rust-mics-a-complete-how-to-guide/">
-                            Step-by-Step Tutorial: Repairing Non-Functional Rust Mics - A Complete How-To Guide
+                        <a href="/addressing-and-correcting-nonfunctional-audio-service-problems-for-optimal-performance/">
+                            Addressing and Correcting Nonfunctional Audio Service Problems for Optimal Performance
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Tutorial: Repairing Non-Functional Rust Mics - A Complete How-To Guide</p>
+                            <p>This Article Describes Addressing and Correcting Nonfunctional Audio Service Problems for Optimal Performance</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:23 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:31 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/step-by-step-tutorial-repairing-non-functional-rust-mics-a-complete-how-to-guide/">Read more<span class="seo-reader-text">Step-by-Step Tutorial: Repairing Non-Functional Rust Mics - A Complete How-To Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/addressing-and-correcting-nonfunctional-audio-service-problems-for-optimal-performance/">Read more<span class="seo-reader-text">Addressing and Correcting Nonfunctional Audio Service Problems for Optimal Performance</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-restore-audio-functionality-on-a-malfunctioning-laptop/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4dd5cf7f39a57f89da5a5decf.jpg" alt="How To Restore Audio Functionality On A Malfunctioning Laptop" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/common-problems-and-solutions-for-malfunctioning-in-ear-or-usb-microphones/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f999915018347bdff47350b20a165acd94706d7edbf7c9a39198b21a53e266f6.jpg" alt="Common Problems &amp; Solutions for Malfunctioning In-Ear or USB Microphones" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-restore-audio-functionality-on-a-malfunctioning-laptop/">
-                            How To Restore Audio Functionality On A Malfunctioning Laptop
+                        <a href="/common-problems-and-solutions-for-malfunctioning-in-ear-or-usb-microphones/">
+                            Common Problems &amp; Solutions for Malfunctioning In-Ear or USB Microphones
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How To Restore Audio Functionality On A Malfunctioning Laptop</p>
+                            <p>This Article Describes Common Problems &amp; Solutions for Malfunctioning In-Ear or USB Microphones</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:21 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:30 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/how-to-restore-audio-functionality-on-a-malfunctioning-laptop/">Read more<span class="seo-reader-text">How To Restore Audio Functionality On A Malfunctioning Laptop</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/common-problems-and-solutions-for-malfunctioning-in-ear-or-usb-microphones/">Read more<span class="seo-reader-text">Common Problems &amp; Solutions for Malfunctioning In-Ear or USB Microphones</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-troubleshoot-and-resolve-sound-issues-in-your-windows-11-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/847e9d2d8a0d47badfcd9d5626c88b53e1ba638bb9d9c4cb9258cac1b011715e.png" alt="How to Troubleshoot and Resolve Sound Issues in Your Windows 11 PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-non-responsive-speakers-in-windows-10-step-by-step-instructions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/448df8bc8afab05ea77afff59f75ded3f6194317ba1fdcc8fe15ddd6da71b787.jpg" alt="Fixing Non-Responsive Speakers in Windows 10 - Step-by-Step Instructions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-troubleshoot-and-resolve-sound-issues-in-your-windows-11-pc/">
-                            How to Troubleshoot and Resolve Sound Issues in Your Windows 11 PC
+                        <a href="/fixing-non-responsive-speakers-in-windows-10-step-by-step-instructions/">
+                            Fixing Non-Responsive Speakers in Windows 10 - Step-by-Step Instructions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Troubleshoot and Resolve Sound Issues in Your Windows 11 PC</p>
+                            <p>This Article Describes Fixing Non-Responsive Speakers in Windows 10 - Step-by-Step Instructions</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:20 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:29 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/how-to-troubleshoot-and-resolve-sound-issues-in-your-windows-11-pc/">Read more<span class="seo-reader-text">How to Troubleshoot and Resolve Sound Issues in Your Windows 11 PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-non-responsive-speakers-in-windows-10-step-by-step-instructions/">Read more<span class="seo-reader-text">Fixing Non-Responsive Speakers in Windows 10 - Step-by-Step Instructions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/optimizing-your-microphone-setup-fixing-voice-chat-glitches-in-sea-of-thieves-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea7246067d0e64ce56f240c9081.jpg" alt="Optimizing Your Microphone Setup: Fixing Voice Chat Glitches in Sea of Thieves (PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/elevating-pc-audio-levels-in-windows-11-solutions-to-boost-system-speakers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0ee73dae3abc4f97673bc3bc.jpg" alt="Elevating PC Audio Levels in Windows 11: Solutions to Boost System Speakers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/optimizing-your-microphone-setup-fixing-voice-chat-glitches-in-sea-of-thieves-pc/">
-                            Optimizing Your Microphone Setup: Fixing Voice Chat Glitches in Sea of Thieves (PC)
+                        <a href="/elevating-pc-audio-levels-in-windows-11-solutions-to-boost-system-speakers/">
+                            Elevating PC Audio Levels in Windows 11: Solutions to Boost System Speakers
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Optimizing Your Microphone Setup: Fixing Voice Chat Glitches in Sea of Thieves (PC)</p>
+                            <p>This Article Describes Elevating PC Audio Levels in Windows 11: Solutions to Boost System Speakers</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:19 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:28 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/optimizing-your-microphone-setup-fixing-voice-chat-glitches-in-sea-of-thieves-pc/">Read more<span class="seo-reader-text">Optimizing Your Microphone Setup: Fixing Voice Chat Glitches in Sea of Thieves (PC)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/elevating-pc-audio-levels-in-windows-11-solutions-to-boost-system-speakers/">Read more<span class="seo-reader-text">Elevating PC Audio Levels in Windows 11: Solutions to Boost System Speakers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-stuttering-sounds-on-windows-systems-windows-107-effective-fixes-inside/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db9f5a34232b56c8f050ef2ce.jpg" alt="Troubleshooting Stuttering Sounds on Windows Systems (Windows 10/7) – Effective Fixes Inside!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-no-sound-issues-a-comprehensive-guide-to-usb-headphones-on-windows-7/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f48925536bf6b239c0ddfd779.jpg" alt="Fixing No Sound Issues: A Comprehensive Guide to USB Headphones on Windows 7" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-stuttering-sounds-on-windows-systems-windows-107-effective-fixes-inside/">
-                            Troubleshooting Stuttering Sounds on Windows Systems (Windows 10/7) – Effective Fixes Inside!
+                        <a href="/fixing-no-sound-issues-a-comprehensive-guide-to-usb-headphones-on-windows-7/">
+                            Fixing No Sound Issues: A Comprehensive Guide to USB Headphones on Windows 7
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Stuttering Sounds on Windows Systems (Windows 10&#x2F;7) – Effective Fixes Inside!</p>
+                            <p>This Article Describes Fixing No Sound Issues: A Comprehensive Guide to USB Headphones on Windows 7</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:17 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:27 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/troubleshooting-stuttering-sounds-on-windows-systems-windows-107-effective-fixes-inside/">Read more<span class="seo-reader-text">Troubleshooting Stuttering Sounds on Windows Systems (Windows 10/7) – Effective Fixes Inside!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-no-sound-issues-a-comprehensive-guide-to-usb-headphones-on-windows-7/">Read more<span class="seo-reader-text">Fixing No Sound Issues: A Comprehensive Guide to USB Headphones on Windows 7</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solved-why-is-my-dota-2-microphone-not-capturing-audio/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3daaeb866103686a0f1d6cb404.jpg" alt="Solved: Why Is My Dota 2 Microphone Not Capturing Audio?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-guide-fixing-voice-communication-issues-in-league-of-legends/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda26cad3482a8cc47d1c6fe1b.jpg" alt="Troubleshooting Guide: Fixing Voice Communication Issues in League of Legends" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solved-why-is-my-dota-2-microphone-not-capturing-audio/">
-                            Solved: Why Is My Dota 2 Microphone Not Capturing Audio?
+                        <a href="/troubleshooting-guide-fixing-voice-communication-issues-in-league-of-legends/">
+                            Troubleshooting Guide: Fixing Voice Communication Issues in League of Legends
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solved: Why Is My Dota 2 Microphone Not Capturing Audio?</p>
+                            <p>This Article Describes Troubleshooting Guide: Fixing Voice Communication Issues in League of Legends</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:16 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:25 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/solved-why-is-my-dota-2-microphone-not-capturing-audio/">Read more<span class="seo-reader-text">Solved: Why Is My Dota 2 Microphone Not Capturing Audio?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-guide-fixing-voice-communication-issues-in-league-of-legends/">Read more<span class="seo-reader-text">Troubleshooting Guide: Fixing Voice Communication Issues in League of Legends</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/repair-steps-for-logitech-g935-headset-microphone-not-detected-by-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8a54b5f3957881ee85a4e67f8767270bede7bd83bce45614963bc600bb3e8241.jpg" alt="Repair Steps for Logitech G935 Headset Microphone Not Detected by Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-repair-what-to-do-when-your-logitech-g633-mic-stops-working/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg" alt="Step-by-Step Repair: What to Do When Your Logitech G633 Mic Stops Working" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/repair-steps-for-logitech-g935-headset-microphone-not-detected-by-windows/">
-                            Repair Steps for Logitech G935 Headset Microphone Not Detected by Windows
+                        <a href="/step-by-step-repair-what-to-do-when-your-logitech-g633-mic-stops-working/">
+                            Step-by-Step Repair: What to Do When Your Logitech G633 Mic Stops Working
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Repair Steps for Logitech G935 Headset Microphone Not Detected by Windows</p>
+                            <p>This Article Describes Step-by-Step Repair: What to Do When Your Logitech G633 Mic Stops Working</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:15 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:24 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/repair-steps-for-logitech-g935-headset-microphone-not-detected-by-windows/">Read more<span class="seo-reader-text">Repair Steps for Logitech G935 Headset Microphone Not Detected by Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-repair-what-to-do-when-your-logitech-g633-mic-stops-working/">Read more<span class="seo-reader-text">Step-by-Step Repair: What to Do When Your Logitech G633 Mic Stops Working</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolving-razer-man-owar-headset-microphone-problems-effectively/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844b7b52caccd45c8365ecdd85.jpg" alt="Resolving Razer Man O&#39;War Headset Microphone Problems Effectively" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/bust-your-earbuds-audio-glitch-a-step-by-nstep-fix-for-the-steelseries-arctis-99x-microphone-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee3e1ad9fc6da9c95dfc95571.jpg" alt="Bust Your Earbuds&#39; Audio Glitch: A Step-by-nStep Fix for the SteelSeries Arctis 9/9X Microphone Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolving-razer-man-owar-headset-microphone-problems-effectively/">
-                            Resolving Razer Man O&#39;War Headset Microphone Problems Effectively
+                        <a href="/bust-your-earbuds-audio-glitch-a-step-by-nstep-fix-for-the-steelseries-arctis-99x-microphone-problem/">
+                            Bust Your Earbuds&#39; Audio Glitch: A Step-by-nStep Fix for the SteelSeries Arctis 9/9X Microphone Problem
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolving Razer Man O’War Headset Microphone Problems Effectively</p>
+                            <p>This Article Describes Bust Your Earbuds’ Audio Glitch: A Step-by-nStep Fix for the SteelSeries Arctis 9&#x2F;9X Microphone Problem</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:13 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:23 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/resolving-razer-man-owar-headset-microphone-problems-effectively/">Read more<span class="seo-reader-text">Resolving Razer Man O&#39;War Headset Microphone Problems Effectively</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/bust-your-earbuds-audio-glitch-a-step-by-nstep-fix-for-the-steelseries-arctis-99x-microphone-problem/">Read more<span class="seo-reader-text">Bust Your Earbuds&#39; Audio Glitch: A Step-by-nStep Fix for the SteelSeries Arctis 9/9X Microphone Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-make-unrecognized-headphones-appear-as-a-sound-device-on-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1fec27f12efa09e4c48a38543461cae6de40c3455f6fddf973f89dc7d1b93e29.jpg" alt="How To Make Unrecognized Headphones Appear as a Sound Device on Windows 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/reviving-speakers-post-win-11-updates-effortless-solutions-inside/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324df271cfd9aff178b05822fa5.jpg" alt="Reviving Speakers Post-Win 11 Updates - Effortless Solutions Inside" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-make-unrecognized-headphones-appear-as-a-sound-device-on-windows-10/">
-                            How To Make Unrecognized Headphones Appear as a Sound Device on Windows 10
+                        <a href="/reviving-speakers-post-win-11-updates-effortless-solutions-inside/">
+                            Reviving Speakers Post-Win 11 Updates - Effortless Solutions Inside
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How To Make Unrecognized Headphones Appear as a Sound Device on Windows 10</p>
+                            <p>This Article Describes Reviving Speakers Post-Win 11 Updates - Effortless Solutions Inside</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Sep 05 2024 04:07:12 GMT+0800">
+            <span class="home-article-date" data-date="Tue Sep 10 2024 13:05:21 GMT+0800">
                 
-                    2024-09-05
+                    2024-09-10
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/how-to-make-unrecognized-headphones-appear-as-a-sound-device-on-windows-10/">Read more<span class="seo-reader-text">How To Make Unrecognized Headphones Appear as a Sound Device on Windows 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/reviving-speakers-post-win-11-updates-effortless-solutions-inside/">Read more<span class="seo-reader-text">Reviving Speakers Post-Win 11 Updates - Effortless Solutions Inside</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/37/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/36/">36</a><a class="page-number" href="/page/37/">37</a><span class="page-number current">38</span><a class="page-number" href="/page/39/">39</a><a class="page-number" href="/page/40/">40</a><span class="space">&hellip;</span><a class="page-number" href="/page/838/">838</a><a class="extend next" rel="next" href="/page/39/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/37/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/36/">36</a><a class="page-number" href="/page/37/">37</a><span class="page-number current">38</span><a class="page-number" href="/page/39/">39</a><a class="page-number" href="/page/40/">40</a><span class="space">&hellip;</span><a class="page-number" href="/page/897/">897</a><a class="extend next" rel="next" href="/page/39/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

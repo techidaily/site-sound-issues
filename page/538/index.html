@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"sound-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8375</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8970</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8375</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8970</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-tips-solving-windows-11s-audio-problems-easily/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1526ae325fb6d05a08910e7b5067d22acd2fa8b701444a0508efbde4504c1f0a.jpg" alt="Troubleshooting Tips: Solving Windows 11&#39;S Audio Problems Easily" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-restore-functionality-of-a-malfunctioning-corsair-void-microphone/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3ca7d54eab5f1d4007ba674c0.JPG" alt="How to Restore Functionality of a Malfunctioning Corsair Void Microphone" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-tips-solving-windows-11s-audio-problems-easily/">
-                            Troubleshooting Tips: Solving Windows 11&#39;S Audio Problems Easily
+                        <a href="/how-to-restore-functionality-of-a-malfunctioning-corsair-void-microphone/">
+                            How to Restore Functionality of a Malfunctioning Corsair Void Microphone
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Tips: Solving Windows 11’S Audio Problems Easily</p>
+                            <p>This Article Describes How to Restore Functionality of a Malfunctioning Corsair Void Microphone</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:02:06 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:58 GMT+0800">
                 
                     2024-08-18
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/troubleshooting-tips-solving-windows-11s-audio-problems-easily/">Read more<span class="seo-reader-text">Troubleshooting Tips: Solving Windows 11&#39;S Audio Problems Easily</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-restore-functionality-of-a-malfunctioning-corsair-void-microphone/">Read more<span class="seo-reader-text">How to Restore Functionality of a Malfunctioning Corsair Void Microphone</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-idt-hd-audio-codec-setup-for-windows-11-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b47b4082bc718f88eefb4ff2a.jpg" alt="Troubleshooting IDT HD Audio Codec Setup for Windows 11 Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723014700446-no-more-distractions-fixing-the-pesky-buzz-sound-on-your-favorite-headphones-today/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5163c7ab05139a28f15cb6cd.jpg" alt="No More Distractions: Fixing the Pesky Buzz Sound on Your Favorite Headphones Today!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-idt-hd-audio-codec-setup-for-windows-11-users/">
-                            Troubleshooting IDT HD Audio Codec Setup for Windows 11 Users
+                        <a href="/1723014700446-no-more-distractions-fixing-the-pesky-buzz-sound-on-your-favorite-headphones-today/">
+                            No More Distractions: Fixing the Pesky Buzz Sound on Your Favorite Headphones Today!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting IDT HD Audio Codec Setup for Windows 11 Users</p>
+                            <p>This Article Describes No More Distractions: Fixing the Pesky Buzz Sound on Your Favorite Headphones Today!</p>
 
                         
                     </div>
@@ -801,7 +858,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:02:04 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:57 GMT+0800">
                 
                     2024-08-18
                 
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/troubleshooting-idt-hd-audio-codec-setup-for-windows-11-users/">Read more<span class="seo-reader-text">Troubleshooting IDT HD Audio Codec Setup for Windows 11 Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723014700446-no-more-distractions-fixing-the-pesky-buzz-sound-on-your-favorite-headphones-today/">Read more<span class="seo-reader-text">No More Distractions: Fixing the Pesky Buzz Sound on Your Favorite Headphones Today!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-guide-razer-blackshark-v2-mic-failure-resolution/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d813f68c2847153dd0769193c.jpg" alt="Troubleshooting Guide: Razer Blackshark V2 Mic Failure Resolution" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcoming-cod-vanguards-voice-chat-obstacles-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493c4e5cd67a61fd021139d1cd.jpg" alt="Overcoming COD: Vanguard&#39;s Voice Chat Obstacles – A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-guide-razer-blackshark-v2-mic-failure-resolution/">
-                            Troubleshooting Guide: Razer Blackshark V2 Mic Failure Resolution
+                        <a href="/overcoming-cod-vanguards-voice-chat-obstacles-a-comprehensive-guide/">
+                            Overcoming COD: Vanguard&#39;s Voice Chat Obstacles – A Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Guide: Razer Blackshark V2 Mic Failure Resolution</p>
+                            <p>This Article Describes Overcoming COD: Vanguard’s Voice Chat Obstacles – A Comprehensive Guide</p>
 
                         
                     </div>
@@ -887,7 +944,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:02:03 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:56 GMT+0800">
                 
                     2024-08-18
                 
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/troubleshooting-guide-razer-blackshark-v2-mic-failure-resolution/">Read more<span class="seo-reader-text">Troubleshooting Guide: Razer Blackshark V2 Mic Failure Resolution</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcoming-cod-vanguards-voice-chat-obstacles-a-comprehensive-guide/">Read more<span class="seo-reader-text">Overcoming COD: Vanguard&#39;s Voice Chat Obstacles – A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-guide-how-to-repair-turtle-beach-elite-atlas-headset-microphone-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1226fbaa741004693d1f4b8bc9bf88f0e71c8201ee5e911ba173ac8995ac7535.jpg" alt="Troubleshooting Guide: How to Repair Turtle Beach Elite Atlas Headset Microphone Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fix-apex-legends-audio-issues-restore-game-sounds-today/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa1437abeac9a84f2773da4df.jpg" alt="Fix Apex Legends Audio Issues: Restore Game Sounds Today!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-guide-how-to-repair-turtle-beach-elite-atlas-headset-microphone-issues/">
-                            Troubleshooting Guide: How to Repair Turtle Beach Elite Atlas Headset Microphone Issues
+                        <a href="/fix-apex-legends-audio-issues-restore-game-sounds-today/">
+                            Fix Apex Legends Audio Issues: Restore Game Sounds Today!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Guide: How to Repair Turtle Beach Elite Atlas Headset Microphone Issues</p>
+                            <p>This Article Describes Fix Apex Legends Audio Issues: Restore Game Sounds Today!</p>
 
                         
                     </div>
@@ -973,7 +1030,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:02:02 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:55 GMT+0800">
                 
                     2024-08-18
                 
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/troubleshooting-guide-how-to-repair-turtle-beach-elite-atlas-headset-microphone-issues/">Read more<span class="seo-reader-text">Troubleshooting Guide: How to Repair Turtle Beach Elite Atlas Headset Microphone Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fix-apex-legends-audio-issues-restore-game-sounds-today/">Read more<span class="seo-reader-text">Fix Apex Legends Audio Issues: Restore Game Sounds Today!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-10-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg" alt="Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solve-the-mystery-configuring-unknown-speakers-in-windows-11-made-easy/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a255d5c3126b3ad30bf05b53.jpg" alt="Solve the Mystery: Configuring Unknown Speakers in Windows 11 Made Easy" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-10-users/">
-                            Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users
+                        <a href="/solve-the-mystery-configuring-unknown-speakers-in-windows-11-made-easy/">
+                            Solve the Mystery: Configuring Unknown Speakers in Windows 11 Made Easy
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users</p>
+                            <p>This Article Describes Solve the Mystery: Configuring Unknown Speakers in Windows 11 Made Easy</p>
 
                         
                     </div>
@@ -1059,7 +1116,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:02:01 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:54 GMT+0800">
                 
                     2024-08-18
                 
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-10-users/">Read more<span class="seo-reader-text">Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solve-the-mystery-configuring-unknown-speakers-in-windows-11-made-easy/">Read more<span class="seo-reader-text">Solve the Mystery: Configuring Unknown Speakers in Windows 11 Made Easy</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-device-usage-conflicts-with-hdmi-functionality/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/bfb1d21dc7d722196c5d9970ee836e32f9c269de5a947c34e2d77d2e46b3f931.jpg" alt="Troubleshooting Device Usage Conflicts with HDMI Functionality" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/cracking-the-code-on-league-of-legends-voice-chat-problems-effective-solutions-revealed/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47d56cedf742a90d738a59cc9.jpg" alt="Cracking the Code on League of Legends Voice Chat Problems - Effective Solutions Revealed!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-device-usage-conflicts-with-hdmi-functionality/">
-                            Troubleshooting Device Usage Conflicts with HDMI Functionality
+                        <a href="/cracking-the-code-on-league-of-legends-voice-chat-problems-effective-solutions-revealed/">
+                            Cracking the Code on League of Legends Voice Chat Problems - Effective Solutions Revealed!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Device Usage Conflicts with HDMI Functionality</p>
+                            <p>This Article Describes Cracking the Code on League of Legends Voice Chat Problems - Effective Solutions Revealed!</p>
 
                         
                     </div>
@@ -1145,7 +1202,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:02:00 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:53 GMT+0800">
                 
                     2024-08-18
                 
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/troubleshooting-device-usage-conflicts-with-hdmi-functionality/">Read more<span class="seo-reader-text">Troubleshooting Device Usage Conflicts with HDMI Functionality</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/cracking-the-code-on-league-of-legends-voice-chat-problems-effective-solutions-revealed/">Read more<span class="seo-reader-text">Cracking the Code on League of Legends Voice Chat Problems - Effective Solutions Revealed!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-and-resolving-loudspeaker-issues-in-modern-windows-operating-environments/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca51d81e51c29c7b758bb18642.jpg" alt="Troubleshooting and Resolving Loudspeaker Issues in Modern Windows Operating Environments" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-no-sound-issues-for-speakers-and-headphones-in-windows-operating-systems-11-8-7/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f4c731838370fc9db952e82c.jpg" alt="Troubleshooting No Sound Issues for Speakers and Headphones in Windows Operating Systems (11, 8, 7)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-and-resolving-loudspeaker-issues-in-modern-windows-operating-environments/">
-                            Troubleshooting and Resolving Loudspeaker Issues in Modern Windows Operating Environments
+                        <a href="/troubleshooting-no-sound-issues-for-speakers-and-headphones-in-windows-operating-systems-11-8-7/">
+                            Troubleshooting No Sound Issues for Speakers and Headphones in Windows Operating Systems (11, 8, 7)
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting and Resolving Loudspeaker Issues in Modern Windows Operating Environments</p>
+                            <p>This Article Describes Troubleshooting No Sound Issues for Speakers and Headphones in Windows Operating Systems (11, 8, 7)</p>
 
                         
                     </div>
@@ -1231,7 +1288,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:01:59 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:52 GMT+0800">
                 
                     2024-08-18
                 
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/troubleshooting-and-resolving-loudspeaker-issues-in-modern-windows-operating-environments/">Read more<span class="seo-reader-text">Troubleshooting and Resolving Loudspeaker Issues in Modern Windows Operating Environments</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-no-sound-issues-for-speakers-and-headphones-in-windows-operating-systems-11-8-7/">Read more<span class="seo-reader-text">Troubleshooting No Sound Issues for Speakers and Headphones in Windows Operating Systems (11, 8, 7)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/trouble-with-your-turtle-beach-microphone-heres-how-to-restore-functionality/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac033bb56636ce9acb89582f53.jpg" alt="Trouble with Your Turtle Beach Microphone? Here&#39;s How to Restore Functionality" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-hdmi-connection-resolving-conflicts-with-other-applications/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c885557e06e23ea74d7f6110b.jpg" alt="Troubleshooting HDMI Connection: Resolving Conflicts with Other Applications" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/trouble-with-your-turtle-beach-microphone-heres-how-to-restore-functionality/">
-                            Trouble with Your Turtle Beach Microphone? Here&#39;s How to Restore Functionality
+                        <a href="/troubleshooting-hdmi-connection-resolving-conflicts-with-other-applications/">
+                            Troubleshooting HDMI Connection: Resolving Conflicts with Other Applications
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Trouble with Your Turtle Beach Microphone? Here’s How to Restore Functionality</p>
+                            <p>This Article Describes Troubleshooting HDMI Connection: Resolving Conflicts with Other Applications</p>
 
                         
                     </div>
@@ -1317,7 +1374,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:01:58 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:51 GMT+0800">
                 
                     2024-08-18
                 
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/trouble-with-your-turtle-beach-microphone-heres-how-to-restore-functionality/">Read more<span class="seo-reader-text">Trouble with Your Turtle Beach Microphone? Here&#39;s How to Restore Functionality</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-hdmi-connection-resolving-conflicts-with-other-applications/">Read more<span class="seo-reader-text">Troubleshooting HDMI Connection: Resolving Conflicts with Other Applications</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-solutions-for-when-your-tozo-t6-device-fails-in-windows-11-environments/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97cb067222fedd44de8e1315f.jpg" alt="Step-by-Step Solutions for When Your Tozo T6 Device Fails in Windows 11 Environments" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723016388596-hearthstone-quieted-down-heres-how-to-turn-up-the-volume-again/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f7748d63bf7bb6a077bd78b2a6.jpg" alt="Hearthstone Quieted Down? Here&#39;s How to Turn Up the Volume Again" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-solutions-for-when-your-tozo-t6-device-fails-in-windows-11-environments/">
-                            Step-by-Step Solutions for When Your Tozo T6 Device Fails in Windows 11 Environments
+                        <a href="/1723016388596-hearthstone-quieted-down-heres-how-to-turn-up-the-volume-again/">
+                            Hearthstone Quieted Down? Here&#39;s How to Turn Up the Volume Again
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Solutions for When Your Tozo T6 Device Fails in Windows 11 Environments</p>
+                            <p>This Article Describes Hearthstone Quieted Down? Here’s How to Turn Up the Volume Again</p>
 
                         
                     </div>
@@ -1403,7 +1460,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:01:57 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:50 GMT+0800">
                 
                     2024-08-18
                 
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/step-by-step-solutions-for-when-your-tozo-t6-device-fails-in-windows-11-environments/">Read more<span class="seo-reader-text">Step-by-Step Solutions for When Your Tozo T6 Device Fails in Windows 11 Environments</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723016388596-hearthstone-quieted-down-heres-how-to-turn-up-the-volume-again/">Read more<span class="seo-reader-text">Hearthstone Quieted Down? Here&#39;s How to Turn Up the Volume Again</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-solution-for-google-meet-microphone-malfunction-on-win11win10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0b32853fb4db395a79eb5210.jpg" alt="Step-by-Step Solution for Google Meet Microphone Malfunction on Win11/Win10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/why-is-there-no-sound-in-my-game-of-apex-legends-common-causes-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a823a65d146f4fbbcbf04745.jpg" alt="Why Is There No Sound in My Game of Apex Legends? - Common Causes &amp; Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-solution-for-google-meet-microphone-malfunction-on-win11win10/">
-                            Step-by-Step Solution for Google Meet Microphone Malfunction on Win11/Win10
+                        <a href="/why-is-there-no-sound-in-my-game-of-apex-legends-common-causes-and-solutions/">
+                            Why Is There No Sound in My Game of Apex Legends? - Common Causes &amp; Solutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Solution for Google Meet Microphone Malfunction on Win11&#x2F;Win10</p>
+                            <p>This Article Describes Why Is There No Sound in My Game of Apex Legends? - Common Causes &amp; Solutions</p>
 
                         
                     </div>
@@ -1489,7 +1546,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Aug 18 2024 08:01:56 GMT+0800">
+            <span class="home-article-date" data-date="Sun Aug 18 2024 08:18:49 GMT+0800">
                 
                     2024-08-18
                 
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/step-by-step-solution-for-google-meet-microphone-malfunction-on-win11win10/">Read more<span class="seo-reader-text">Step-by-Step Solution for Google Meet Microphone Malfunction on Win11/Win10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/why-is-there-no-sound-in-my-game-of-apex-legends-common-causes-and-solutions/">Read more<span class="seo-reader-text">Why Is There No Sound in My Game of Apex Legends? - Common Causes &amp; Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/537/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/536/">536</a><a class="page-number" href="/page/537/">537</a><span class="page-number current">538</span><a class="page-number" href="/page/539/">539</a><a class="page-number" href="/page/540/">540</a><span class="space">&hellip;</span><a class="page-number" href="/page/838/">838</a><a class="extend next" rel="next" href="/page/539/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/537/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/536/">536</a><a class="page-number" href="/page/537/">537</a><span class="page-number current">538</span><a class="page-number" href="/page/539/">539</a><a class="page-number" href="/page/540/">540</a><span class="space">&hellip;</span><a class="page-number" href="/page/897/">897</a><a class="extend next" rel="next" href="/page/539/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

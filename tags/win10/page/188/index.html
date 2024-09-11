@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"sound-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8375</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8970</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-31'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-05'>
                 
                     
-                        <a href="/logitech-g733-mic-failure-heres-how-you-can-fix-it/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Logitech G733 Mic Failure? Here&#39;s How You Can Fix It</span>
+                        <a href="/how-to-fix-audio-interruptions-and-distortions-on-your-pc-windows-107-solutions/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Fix Audio Interruptions and Distortions on Your PC - Windows 10/7 Solutions</span>
                         </a>
                     
               
                 
                     
-                        <a href="/hp-laptop-audio-dilemma-in-windows-10-heres-how-to-restore-your-sound-output/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">HP Laptop Audio Dilemma in Windows 10? Here&#39;s How to Restore Your Sound Output</span>
+                        <a href="/troubleshooting-and-repairing-squad-microphones-the-ultimate-2024-handbook/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting and Repairing Squad Microphones - The Ultimate 2024 Handbook</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-restore-voice-chat-feature-for-a-smooth-teamwork-in-back-4-blood/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Restore Voice Chat Feature for a Smooth Teamwork in Back 4 Blood</span>
+                        <a href="/master-fast-fix-techniques-for-the-test-tone-not-working-glitch/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Master Fast-Fix Techniques for the &#39;Test Tone Not Working&#39; Glitch</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-resolve-no-audio-on-hp-notebooks-with-easy-fixes-complete-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Resolve No Audio on HP Notebooks with Easy Fixes [COMPLETE GUIDE]</span>
+                        <a href="/solving-the-problem-when-your-logitech-g430-microphone-wont-work/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Solving the Problem When Your Logitech G430 Microphone Won&#39;t Work</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-fix-your-mic-on-windows-7-solutions-for-common-audio-problems/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Fix Your Mic on Windows 7: Solutions for Common Audio Problems</span>
+                        <a href="/mastering-stable-sound-expert-tips-on-resolving-discord-cut-outs-updated/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering Stable Sound: Expert Tips on Resolving Discord Cut-Outs - Updated</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-fix-skype-microphone-problems-under-windows-11-step-by-step-solutions/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Fix Skype Microphone Problems Under Windows 11 – Step-by-Step Solutions</span>
+                        <a href="/troubleshoot-and-restore-your-razer-mic-in-just-five-steps/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshoot and Restore Your Razer Mic in Just Five Steps!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-enhance-audio-performance-and-fix-low-sound-in-windows-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Enhance Audio Performance and Fix Low Sound in Windows 11</span>
+                        <a href="/tutorial-for-turning-off-sound-amplification-controls-on-windows-11/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tutorial for Turning Off Sound Amplification Controls on Windows 11</span>
                         </a>
                     
               
                 
                     
-                        <a href="/hassle-free-strategies-to-repair-test-tone-did-not-play-error-messages/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Hassle-Free Strategies to Repair &#39;Test Tone Did Not Play&#39; Error Messages</span>
+                        <a href="/ultimate-troubleshooting-steps-for-a-nonfunctioning-rust-microphone/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Ultimate Troubleshooting Steps for a Nonfunctioning Rust Microphone</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fixing-silence-resolving-the-lack-of-audio-in-cyberpunk-2077-on-windows-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fixing Silence: Resolving the Lack of Audio in Cyberpunk 2077 on Windows 11</span>
+                        <a href="/astro-keyboard-a10-mic-not-working-heres-your-ultimate-solution/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Astro Keyboard A10 Mic Not Working? Here&#39;s Your Ultimate Solution!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fix-your-csgo-microphone-issues-troubleshooting-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fix Your CS:GO Microphone Issues - Troubleshooting Guide</span>
+                        <a href="/jabra-headset-malfunction-heres-your-step-by-step-solution/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Jabra Headset Malfunction? Here&#39;s Your Step-by-Step Solution</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/win10/page/187/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/win10/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win10/page/186/">186</a><a class="page-number" href="/tags/win10/page/187/">187</a><span class="page-number current">188</span><a class="page-number" href="/tags/win10/page/189/">189</a><a class="page-number" href="/tags/win10/page/190/">190</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win10/page/837/">837</a><a class="extend next" rel="next" href="/tags/win10/page/189/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/win10/page/187/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/win10/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win10/page/186/">186</a><a class="page-number" href="/tags/win10/page/187/">187</a><span class="page-number current">188</span><a class="page-number" href="/tags/win10/page/189/">189</a><a class="page-number" href="/tags/win10/page/190/">190</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win10/page/897/">897</a><a class="extend next" rel="next" href="/tags/win10/page/189/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"sound-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8375</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8970</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8375</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8970</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/comprehensive-fix-for-windows-107-sound-problems-crackling-audio-solved/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7d66b97529a73f9cf277751a.jpg" alt="Comprehensive Fix for Windows 10/7 Sound Problems: Crackling Audio Solved" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723015634476-fortnite-voice-communication-issues-fix-them-fast-with-our-simple-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c8ce7d91fb957aab4992042fdfbf5a4bd1a84b3cbd4ae7f99a3317b1ad8120c6.jpg" alt="Fortnite Voice Communication Issues? Fix Them Fast with Our Simple Solutions!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/comprehensive-fix-for-windows-107-sound-problems-crackling-audio-solved/">
-                            Comprehensive Fix for Windows 10/7 Sound Problems: Crackling Audio Solved
+                        <a href="/1723015634476-fortnite-voice-communication-issues-fix-them-fast-with-our-simple-solutions/">
+                            Fortnite Voice Communication Issues? Fix Them Fast with Our Simple Solutions!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Comprehensive Fix for Windows 10&#x2F;7 Sound Problems: Crackling Audio Solved</p>
+                            <p>This Article Describes Fortnite Voice Communication Issues? Fix Them Fast with Our Simple Solutions!</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:14 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:49 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/comprehensive-fix-for-windows-107-sound-problems-crackling-audio-solved/">Read more<span class="seo-reader-text">Comprehensive Fix for Windows 10/7 Sound Problems: Crackling Audio Solved</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723015634476-fortnite-voice-communication-issues-fix-them-fast-with-our-simple-solutions/">Read more<span class="seo-reader-text">Fortnite Voice Communication Issues? Fix Them Fast with Our Simple Solutions!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solution-found-restoring-sounds-on-your-chrome-browser/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/762eb58aca659c7ab398016eac456ae67d371642f3000355e426b137b3698ca6.jpg" alt="Solution Found: Restoring Sounds on Your Chrome Browser" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solving-your-laptops-audio-problem-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d533d7c690d2e56cf6d1507405.jpg" alt="Solving Your Laptop&#39;s Audio Problem: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solution-found-restoring-sounds-on-your-chrome-browser/">
-                            Solution Found: Restoring Sounds on Your Chrome Browser
+                        <a href="/solving-your-laptops-audio-problem-a-step-by-step-guide/">
+                            Solving Your Laptop&#39;s Audio Problem: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solution Found: Restoring Sounds on Your Chrome Browser</p>
+                            <p>This Article Describes Solving Your Laptop’s Audio Problem: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:12 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:48 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/solution-found-restoring-sounds-on-your-chrome-browser/">Read more<span class="seo-reader-text">Solution Found: Restoring Sounds on Your Chrome Browser</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solving-your-laptops-audio-problem-a-step-by-step-guide/">Read more<span class="seo-reader-text">Solving Your Laptop&#39;s Audio Problem: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolved-issue-audio-not-playing-on-mozilla-firefox/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d23f758e0b8878fbb663f8a91.jpg" alt="Resolved Issue: Audio Not Playing on Mozilla Firefox" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/airpods-muting-mystery-solved-fixing-mic-problems-on-a-windows-11-system/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c16b5c04365505f6434ed1ea0641c9d2b73bd5daa2ac9dfaad9bb392e5876080.jpg" alt="AirPods Muting Mystery Solved: Fixing Mic Problems on a Windows 11 System" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolved-issue-audio-not-playing-on-mozilla-firefox/">
-                            Resolved Issue: Audio Not Playing on Mozilla Firefox
+                        <a href="/airpods-muting-mystery-solved-fixing-mic-problems-on-a-windows-11-system/">
+                            AirPods Muting Mystery Solved: Fixing Mic Problems on a Windows 11 System
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolved Issue: Audio Not Playing on Mozilla Firefox</p>
+                            <p>This Article Describes AirPods Muting Mystery Solved: Fixing Mic Problems on a Windows 11 System</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:11 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:47 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/resolved-issue-audio-not-playing-on-mozilla-firefox/">Read more<span class="seo-reader-text">Resolved Issue: Audio Not Playing on Mozilla Firefox</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/airpods-muting-mystery-solved-fixing-mic-problems-on-a-windows-11-system/">Read more<span class="seo-reader-text">AirPods Muting Mystery Solved: Fixing Mic Problems on a Windows 11 System</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-solutions-for-silencing-interference-with-your-arctis-7-bluetooth-earphones-on-a-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5dfa6d1b3e758e9ac9f354ba6.jpg" alt="Step-by-Step Solutions for Silencing Interference with Your Arctis 7 Bluetooth Earphones on a PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/rectifying-world-of-warcrafts-voice-chat-problem-a-comprehensive-fix-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af204f20cceb82eb23a04b0c6.jpg" alt="Rectifying World of Warcraft&#39;s Voice Chat Problem - A Comprehensive Fix Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-solutions-for-silencing-interference-with-your-arctis-7-bluetooth-earphones-on-a-pc/">
-                            Step-by-Step Solutions for Silencing Interference with Your Arctis 7 Bluetooth Earphones on a PC
+                        <a href="/rectifying-world-of-warcrafts-voice-chat-problem-a-comprehensive-fix-guide/">
+                            Rectifying World of Warcraft&#39;s Voice Chat Problem - A Comprehensive Fix Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Solutions for Silencing Interference with Your Arctis 7 Bluetooth Earphones on a PC</p>
+                            <p>This Article Describes Rectifying World of Warcraft’s Voice Chat Problem - A Comprehensive Fix Guide</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:10 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:45 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/step-by-step-solutions-for-silencing-interference-with-your-arctis-7-bluetooth-earphones-on-a-pc/">Read more<span class="seo-reader-text">Step-by-Step Solutions for Silencing Interference with Your Arctis 7 Bluetooth Earphones on a PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/rectifying-world-of-warcrafts-voice-chat-problem-a-comprehensive-fix-guide/">Read more<span class="seo-reader-text">Rectifying World of Warcraft&#39;s Voice Chat Problem - A Comprehensive Fix Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-techniques-to-restore-functionality-of-a-broken-headset-mic/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe11541a9628c11209d7640f5.jpg" alt="Effective Techniques to Restore Functionality of a Broken Headset Mic" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/restoring-audio-in-valheim-pc-top-troubleshooting-tips-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8f4a4bedddf4dd27e4096c3f.jpg" alt="Restoring Audio in Valheim PC: Top Troubleshooting Tips and Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-techniques-to-restore-functionality-of-a-broken-headset-mic/">
-                            Effective Techniques to Restore Functionality of a Broken Headset Mic
+                        <a href="/restoring-audio-in-valheim-pc-top-troubleshooting-tips-and-solutions/">
+                            Restoring Audio in Valheim PC: Top Troubleshooting Tips and Solutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effective Techniques to Restore Functionality of a Broken Headset Mic</p>
+                            <p>This Article Describes Restoring Audio in Valheim PC: Top Troubleshooting Tips and Solutions</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:09 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:44 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/effective-techniques-to-restore-functionality-of-a-broken-headset-mic/">Read more<span class="seo-reader-text">Effective Techniques to Restore Functionality of a Broken Headset Mic</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/restoring-audio-in-valheim-pc-top-troubleshooting-tips-and-solutions/">Read more<span class="seo-reader-text">Restoring Audio in Valheim PC: Top Troubleshooting Tips and Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshoot-and-repair-a-broken-microphone-on-your-astro-a10-gaming-keyboard/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc18d6b9abd17e301fcbcbc6e6.jpg" alt="Troubleshoot and Repair a Broken Microphone on Your Astro A10 Gaming Keyboard" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-guide-how-to-fix-a-non-functioning-headset-microphone/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/00e2f31e790ac55444202fba1e5c20c1997bf3e57424d80191c812f9a0513c8e.jpg" alt="Troubleshooting Guide: How to Fix a Non-Functioning Headset Microphone" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshoot-and-repair-a-broken-microphone-on-your-astro-a10-gaming-keyboard/">
-                            Troubleshoot and Repair a Broken Microphone on Your Astro A10 Gaming Keyboard
+                        <a href="/troubleshooting-guide-how-to-fix-a-non-functioning-headset-microphone/">
+                            Troubleshooting Guide: How to Fix a Non-Functioning Headset Microphone
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshoot and Repair a Broken Microphone on Your Astro A10 Gaming Keyboard</p>
+                            <p>This Article Describes Troubleshooting Guide: How to Fix a Non-Functioning Headset Microphone</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:07 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:43 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/troubleshoot-and-repair-a-broken-microphone-on-your-astro-a10-gaming-keyboard/">Read more<span class="seo-reader-text">Troubleshoot and Repair a Broken Microphone on Your Astro A10 Gaming Keyboard</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-guide-how-to-fix-a-non-functioning-headset-microphone/">Read more<span class="seo-reader-text">Troubleshooting Guide: How to Fix a Non-Functioning Headset Microphone</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolved-realtek-dac-quiet-issue-restored-audio-functionality/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83b86563e047e92a3e8096101.jpg" alt="Resolved: Realtek DAC Quiet Issue - Restored Audio Functionality" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/issue-fixed-re-establishing-auditory-performance-in-mozillas-firefox/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f38856a330aa448f0606df3e468d.jpg" alt="Issue Fixed: Re-Establishing Auditory Performance in Mozilla&#39;s FireFox" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolved-realtek-dac-quiet-issue-restored-audio-functionality/">
-                            Resolved: Realtek DAC Quiet Issue - Restored Audio Functionality
+                        <a href="/issue-fixed-re-establishing-auditory-performance-in-mozillas-firefox/">
+                            Issue Fixed: Re-Establishing Auditory Performance in Mozilla&#39;s FireFox
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolved: Realtek DAC Quiet Issue - Restored Audio Functionality</p>
+                            <p>This Article Describes Issue Fixed: Re-Establishing Auditory Performance in Mozilla’s FireFox</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:06 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:41 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/resolved-realtek-dac-quiet-issue-restored-audio-functionality/">Read more<span class="seo-reader-text">Resolved: Realtek DAC Quiet Issue - Restored Audio Functionality</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/issue-fixed-re-establishing-auditory-performance-in-mozillas-firefox/">Read more<span class="seo-reader-text">Issue Fixed: Re-Establishing Auditory Performance in Mozilla&#39;s FireFox</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/astro-a50-silent-woes-troubleshoot-and-repair-the-sound-issue-fast/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c9348a795f5c9562ae265ccb3d.jpg" alt="Astro A50 Silent Woes? Troubleshoot and Repair the Sound Issue Fast!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-successful-reactivating-sound-functionality-on-firefox-browser/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b667c623d0ec997b65a2b06877.jpg" alt="Troubleshooting Successful: Reactivating Sound Functionality on Firefox Browser" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/astro-a50-silent-woes-troubleshoot-and-repair-the-sound-issue-fast/">
-                            Astro A50 Silent Woes? Troubleshoot and Repair the Sound Issue Fast!
+                        <a href="/troubleshooting-successful-reactivating-sound-functionality-on-firefox-browser/">
+                            Troubleshooting Successful: Reactivating Sound Functionality on Firefox Browser
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Astro A50 Silent Woes? Troubleshoot and Repair the Sound Issue Fast!</p>
+                            <p>This Article Describes Troubleshooting Successful: Reactivating Sound Functionality on Firefox Browser</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:05 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:40 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/astro-a50-silent-woes-troubleshoot-and-repair-the-sound-issue-fast/">Read more<span class="seo-reader-text">Astro A50 Silent Woes? Troubleshoot and Repair the Sound Issue Fast!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-successful-reactivating-sound-functionality-on-firefox-browser/">Read more<span class="seo-reader-text">Troubleshooting Successful: Reactivating Sound Functionality on Firefox Browser</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-essential-202course-on-resolving-discords-audio-disruption-issues-a-complete-how-to/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db81001d653dab278938ebfa823a1.jpg" alt="The Essential 202Course on Resolving Discord&#39;s Audio Disruption Issues - A Complete How-To" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/windows-10-audio-woes-heres-how-to-fix-your-conexant-smartaudio-hd-sound-problems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935f6ec3a823ac568973956aae.jpg" alt="Windows 10 Audio Woes? Here&#39;s How to Fix Your Conexant SmartAudio HD Sound Problems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-essential-202course-on-resolving-discords-audio-disruption-issues-a-complete-how-to/">
-                            The Essential 202Course on Resolving Discord&#39;s Audio Disruption Issues - A Complete How-To
+                        <a href="/windows-10-audio-woes-heres-how-to-fix-your-conexant-smartaudio-hd-sound-problems/">
+                            Windows 10 Audio Woes? Here&#39;s How to Fix Your Conexant SmartAudio HD Sound Problems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Essential 202Course on Resolving Discord’s Audio Disruption Issues - A Complete How-To</p>
+                            <p>This Article Describes Windows 10 Audio Woes? Here’s How to Fix Your Conexant SmartAudio HD Sound Problems</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:04 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:39 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/the-essential-202course-on-resolving-discords-audio-disruption-issues-a-complete-how-to/">Read more<span class="seo-reader-text">The Essential 202Course on Resolving Discord&#39;s Audio Disruption Issues - A Complete How-To</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/windows-10-audio-woes-heres-how-to-fix-your-conexant-smartaudio-hd-sound-problems/">Read more<span class="seo-reader-text">Windows 10 Audio Woes? Here&#39;s How to Fix Your Conexant SmartAudio HD Sound Problems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/diagnosing-and-repairing-audiovisual-issues-in-new-world-game/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81a94a966ce0f48ea51b79037.jpg" alt="Diagnosing and Repairing Audiovisual Issues in New World Game" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723016444608-get-your-logitech-g933-microphone-working-again-fixes-inside/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd2fb228b8b71882f24dcc32a.jpg" alt="Get Your Logitech G933 Microphone Working Again - Fixes Inside!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/diagnosing-and-repairing-audiovisual-issues-in-new-world-game/">
-                            Diagnosing and Repairing Audiovisual Issues in New World Game
+                        <a href="/1723016444608-get-your-logitech-g933-microphone-working-again-fixes-inside/">
+                            Get Your Logitech G933 Microphone Working Again - Fixes Inside!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Diagnosing and Repairing Audiovisual Issues in New World Game</p>
+                            <p>This Article Describes Get Your Logitech G933 Microphone Working Again - Fixes Inside!</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:16:03 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 23:57:38 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/diagnosing-and-repairing-audiovisual-issues-in-new-world-game/">Read more<span class="seo-reader-text">Diagnosing and Repairing Audiovisual Issues in New World Game</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723016444608-get-your-logitech-g933-microphone-working-again-fixes-inside/">Read more<span class="seo-reader-text">Get Your Logitech G933 Microphone Working Again - Fixes Inside!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/236/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/235/">235</a><a class="page-number" href="/page/236/">236</a><span class="page-number current">237</span><a class="page-number" href="/page/238/">238</a><a class="page-number" href="/page/239/">239</a><span class="space">&hellip;</span><a class="page-number" href="/page/838/">838</a><a class="extend next" rel="next" href="/page/238/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/236/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/235/">235</a><a class="page-number" href="/page/236/">236</a><span class="page-number current">237</span><a class="page-number" href="/page/238/">238</a><a class="page-number" href="/page/239/">239</a><span class="space">&hellip;</span><a class="page-number" href="/page/897/">897</a><a class="extend next" rel="next" href="/page/238/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
