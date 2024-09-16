@@ -1,7 +1,7 @@
 ---
 title: "Corsair HS35 Headset Mic Won't Work on Windows: Diagnosis and Fixes"
-date: 2024-08-06T09:17:53.247Z
-updated: 2024-08-07T09:17:53.247Z
+date: 2024-09-15T20:50:42.474Z
+updated: 2024-09-16T18:47:13.728Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
 ## Get Your Windows Groove Back: Why the Mic Isn't Working and How to Fix It
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db29239db22.png)
   
  Users have reported that they are having problems using their microphone on Windows 7 all of a sudden, which makes it impossible to communicate with others online if they want to use programs such as Skype.
@@ -43,16 +39,9 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
  1) Right click the volume icon and then choose**Playback devices** .
   
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db4f8a348e2.png)
 
  2) Navigate to Recording tab, then check if there is a green icon on your Microphone, which indicates that your microphone should be working properly.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db52bbcd86d.jpg)
   
  3) Noted that the Microphone here is set as**Default Device** . If yours doesn’t show as a Default Device, please select it and choose **Set Default.**
@@ -69,9 +58,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
   
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56426d3c7.png)
   
  3) Then choose**Search automatically for updated driver software** .
@@ -80,16 +66,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56c3a8acb.png)
   
  5) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Press the**Scan Now** button right in the middle.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db58bff02a9.png)
   
  6) Then press the**Update** button next to the audio driver that you have to get it updated automatically.
@@ -107,11 +87,36 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creative-channel-themes-get-them-for-free-for-2024/"><u>[New] Creative Channel Themes Get Them for Free for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-uploading-movie-maker-videos-on-vimeo/"><u>[Updated] 2024 Approved Mastering Uploading Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-building-your-brand-with-a-sports-youtube-chain-on-macos-for-2024/"><u>[Updated] Building Your Brand with a Sports YouTube Chain on macOS for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-to-proficient-gaming-recordings-for-2024/"><u>[Updated] Secrets to Proficient Gaming Recordings for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-sprint-through-your-vimeo-media-for-2024/"><u>[Updated] Sprint Through Your Vimeo Media for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-into-the-world-of-high-quality-lenovo-screen-recordings/"><u>2024 Approved Step Into the World of High-Quality Lenovo Screen Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-manual-to-crafting-impeccable-srt-files/"><u>2024 Approved The Expert's Manual to Crafting Impeccable SRT Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooting-when-your-in-ear-headset-mic-goes-silent/"><u>Comprehensive Troubleshooting: When Your In-Ear Headset Mic Goes Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-no-audio-problems-on-toshiba-computers/"><u>Effective Fixes for No Audio Problems on Toshiba Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/idt-hd-audio-codec-trouble-fix-your-windows-10-sound-drivers-here/"><u>IDT HD Audio Codec Trouble? Fix Your Windows 10 Sound Drivers Here!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhance-show-planning-with-obs-timer-functions/"><u>In 2024, Enhance Show Planning with OBS Timer Functions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-on-android-and-ios-platforms/"><u>Mastering GPT-3 on Android & iOS Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-reviving-a-broken-rec-room-microphone-in-your-pc-a-step-by-step-guide-to-success/"><u>Mastering the Fix: Reviving a Broken Rec Room Microphone in Your PC - A Step-by-Step Guide to Success!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-problems-when-voice-chat-fails-in-valorant-a-comprehensive-guide/"><u>Solve Your Problems When Voice Chat Fails in Valorant - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-microphone-issues-on-razer-barracuda-x-laptop-windows-11-and-10-solutions/"><u>Troubleshooting Steps: Fixing Microphone Issues on Razer Barracuda X Laptop – Windows 11 & 10 Solutions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

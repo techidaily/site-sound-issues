@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Issues with an Unresponsive Astro A20 Mic"
-date: 2024-09-10T13:10:39.221Z
-updated: 2024-09-11T13:10:39.221Z
+date: 2024-09-09T18:29:44.516Z
+updated: 2024-09-16T20:08:29.275Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 
  Why is there no sound after Windows 10 update? It’s likely that the new update causes conflicts with the sound card in your computer, or the update includes incompatible components with your sound card driver. Even the audio settings that are changed by the update can result in the issue.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -34,20 +31,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 1. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Update your audio driver
 
@@ -69,37 +52,9 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Check audio settings
 
@@ -118,19 +73,12 @@ To do so:
 
 Still no luck? Okay, there’s one more thing to try.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Roll back your audio driver
 
@@ -140,39 +88,21 @@ Still no luck? Okay, there’s one more thing to try.
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
-4. Double click on your**audio device** to open the properties pane.  
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
+4. Double click on your**audio device** to open the properties pane.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 7. Restart your computer.
 
@@ -191,8 +121,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,59 +128,21 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/oster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators-for-2024/"><u>[New] Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-efficient-image-capturing-made-simple-the-best-pc-snipers-listed/"><u>[Updated] 2024 Approved Efficient Image Capturing Made Simple The Best PC Snipers Listed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immaculatepixels-prograde-background-elimination/"><u>[Updated] ImmaculatePixels Prograde Background Elimination</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-online-oasis-video-vault/"><u>[Updated] In 2024, Online Oasis Video Vault</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024s-step-by-step-solution-why-isnt-my-rust-mic-working-how-to-fix-it/"><u>2024'S Step-by-Step Solution: Why Isn't My Rust Mic Working? How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-diagnosing-and-repairing-your-logitech-g430-microphone-problems/"><u>A Comprehensive Guide to Diagnosing and Repairing Your Logitech G430 Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beyond-troubleshooting-expert-tips-for-restoring-redragon-pc-microphone-functionality-and-enhancing-sound-quality/"><u>Beyond Troubleshooting: Expert Tips for Restoring Redragon PC Microphone Functionality and Enhancing Sound Quality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/borderlands-grog-3-how-to-troubleshoot-and-fix-missing-game-sounds-on-your-computer/"><u>Borderlands Grog 3 - How to Troubleshoot and Fix Missing Game Sounds on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-non-functional-redragon-mic-troubles-in-windows-operating-systems/"><u>Diagnosing and Solving Non-Functional Redragon Mic Troubles in Windows Operating Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/earning-power-leveraging-social-media-snaps-for-2024/"><u>Earning Power Leveraging Social Media Snaps for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-your-pcs-invisible-speakers-on-a-windows-10-system/"><u>Expert Tips for Fixing Your PC's Invisible Speakers on a Windows 10 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-solutions-restoring-audio-on-your-astro-a50-headphones/"><u>Fast Solutions: Restoring Audio on Your Astro A50 Headphones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-broken-paradox-launcher-effective-solutions-inside/"><u>Fix Your Broken Paradox Launcher – Effective Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silence-how-to-resolve-lack-of-sound-issues-when-connecting-two-pcs/"><u>Fixing Silence: How to Resolve Lack of Sound Issues When Connecting Two PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g633-microphone-issues-a-comprehensive-guide/"><u>Fixing Your Logitech G633 Microphone Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-f25-pro-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo F25 Pro 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-canon-printer-software-mp280-compatible-with-windows-10-8-and-7/"><u>Free Download: Canon Printer Software MP280 Compatible with Windows 10, 8 & #7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-deactivate-advanced-sound-modifications-on-your-windows-11-device/"><u>How to Deactivate Advanced Sound Modifications on Your Windows 11 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-black-ops-cold-wars-voice-communication-features-effectively/"><u>How to Repair and Restore Black Ops Cold War's Voice Communication Features Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-audio-issues-with-dell-devices-on-windows-7/"><u>How to Solve Audio Issues with Dell Devices on Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-microphone-malfunctions-on-the-razer-barracuda-x-laptop-windows-1110/"><u>How to Solve Microphone Malfunctions on the Razer Barracuda X Laptop (Windows 11/10)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-accelerate-youtube-visibility-select-top-8-rank-watchers/"><u>In 2024, Accelerate YouTube Visibility - Select Top 8 Rank Watchers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-complete-manual-for-installing-microsofts-wm6/"><u>In 2024, Complete Manual for Installing Microsoft's WM6</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-hd-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 HD Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-and-review-the-mavix-m9-for-gamers-ultimate-seating-experience/"><u>In-Depth Analysis & Review: The Mavix M9 for Gamers' Ultimate Seating Experience</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-volume-fix-your-world-of-warcraft-sound-glitches-now/"><u>Mastering the Volume: Fix Your World of Warcraft Sound Glitches Now</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-through-top-platforms-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Top Platforms: An Insight Into Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/novices-path-to-professional-gopro-video-editing-for-2024/"><u>Novice's Path to Professional GoPro Video Editing for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-easy-fixes-to-get-your-oculum-rift-s-microphone-working-again-step-by-step-guide-2/"><u>Quick & Easy Fixes to Get Your Oculum Rift S Microphone Working Again – Step-by-Step Guide (2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-glitches-fixing-windows-press-microphones-that-arent-functioning-properly-on-your-pc/"><u>Resolving Audio Glitches: Fixing Windows Press Microphones that Aren't Functioning Properly on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battlefield-no-more-overcome-pc-playback-troubles-in-call-of-duty-black-ops-cold-war/"><u>Silent Battlefield No More! Overcome PC Playback Troubles in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pubg-voice-call-issues-with-these-simple-steps/"><u>Solve Your PUBG Voice Call Issues with These Simple Steps!</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-samsung-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Samsung</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-airpod-microphone-problems-on-a-windows-10-computer/"><u>Solving AirPod Microphone Problems on a Windows 10 Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-microphone-and-speaker-issues-for-headphones-unplugged-message-in-windows-operating-systems/"><u>Solving Microphone and Speaker Issues for Headphones Unplugged Message in Windows Operating Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-windows-device-managers-code-41-issues-a-step-by-step-guide/"><u>Solving Windows Device Manager's Code 41 Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-windows-tenth-airpods-mic-glitches/"><u>Step-by-Step Guide: Resolving Windows Tenth Airpods Mic Glitches</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-path-to-windows-11-enhancement/"><u>The Complete Path to Windows 11 Enhancement</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-essential-guide-to-affordable-social-media-software/"><u>The Essential Guide to Affordable Social Media Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-7-microphone-issues-a-comprehensive-fix-guide/"><u>Troubleshooting Windows 7 Microphone Issues: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/unleash-your-creative-potential-on-tiktok-with-top-50plus-quotes/"><u>Unleash Your Creative Potential on TikTok with Top 50+ Quotes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/video-transit-route-tweeting-to-tumbling-for-2024/"><u>Video Transit Route Tweeting to Tumbling for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015889144-windows-10/"><u>Windows 10의 소음이 중단되는 폼한 문제를 해결하기 위한 안내</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-restoration-how-to-bring-back-the-buzz-and-boom/"><u>Windows 11 Audio Restoration: How to Bring Back the Buzz and Boom</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastering-live-recording-via-logitech-camera-guide/"><u>[New] 2024 Approved Mastering Live Recording via Logitech Camera Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-into-the-world-of-time-lagged-footage-with-these-android-tips/"><u>Dive Into the World of Time-Lagged Footage with These Android Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-methods-to-correct-unable-to-execute-audio-file-errors/"><u>Effortless Methods to Correct 'Unable to Execute Audio File' Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-ensure-your-microphone-properly-picks-up-voice-and-solutions/"><u>How To Ensure Your Microphone Properly Picks Up Voice & Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-6-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 6 Plus Safe and Legal</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-evaluating-active-presenter-8s-performance/"><u>In 2024, Evaluating Active Presenter 8'S Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mac-no-volume-heres-how-you-can-get-the-sound-back/"><u>Mac No Volume? Here's How You Can Get the Sound Back!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/method-to-resuscitate-windows-lost-scanning-capability/"><u>Method to Resuscitate Windows' Lost Scanning Capability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-unhandled-exception-error-on-windows-systems/"><u>Quick Fix for Unhandled Exception Error on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-obsidian-gaming-screen-problem/"><u>Resolved: How to Fix the Obsidian Gaming Screen Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/what-to-do-when-speakers-fail-to-work-consistently-on-windows-11/"><u>What to Do When Speakers Fail to Work Consistently on Windows 11?</u></a></li>
 </ul></div>
-
-
-
 

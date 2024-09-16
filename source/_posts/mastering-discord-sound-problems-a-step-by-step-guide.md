@@ -1,7 +1,7 @@
 ---
 title: "Mastering Discord Sound Problems: A Step-by-Step Guide"
-date: 2024-09-10T13:08:59.085Z
-updated: 2024-09-11T13:08:59.085Z
+date: 2024-09-10T20:23:29.558Z
+updated: 2024-09-16T19:56:01.684Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
  It’s a lot of fun to chat with friends all over the world at Rec Room, building and playing games together. However, when the microphone just stops working for no reason and other people can’t hear you, it could be very annoying. If you’re stuck in such a predicament, don’t worry, as you can fix this easily.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixes to try
 
@@ -70,34 +53,8 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
@@ -113,38 +70,26 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On Oculus or SteamVR
 
@@ -164,19 +109,18 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4 – Update your audio driver
 
@@ -190,20 +134,6 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
@@ -220,34 +150,14 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -266,8 +176,6 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -275,52 +183,16 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unlocking-cost-effective-clouds-for-the-budget-conscious/"><u>[New] 2024 Approved Unlocking Cost-Effective Clouds for the Budget-Conscious</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-step-by-step-approach-for-flawless-instagrams-for-2024/"><u>[Updated] A Step-by-Step Approach for Flawless Instagrams for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-the-secrets-to-overwatch-video-capture-for-2024/"><u>[Updated] Unlocking the Secrets to Overwatch Video Capture for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-laughter-lab-steps-to-simple-sharp-memes/"><u>2024 Approved Laughter Lab Steps to Simple, Sharp Memes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024s-prime-cameras-for-first-timers/"><u>2024'S Prime Cameras for First Timers</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-poco-x5-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Poco X5 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nubia-z50-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nubia Z50 Ultra</u></a></li>
-<li><a href="https://fox-that.techidaily.com/autonomous-vehicle-algorithms-as-autonomous-vehicles-avs-become-more-prevalent-algorithms-capable-of-making-decisions-based-on-sensor-data-are-crucial-for-s12/"><u>Autonomous Vehicle Algorithms: As Autonomous Vehicles (AVs) Become More Prevalent, Algorithms Capable of Making Decisions Based on Sensor Data Are Crucial for Safety-Critical Functions Like Obstacle Avoidance and Navigation in Complex Traffic Scenarios.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017031594-dota-groop-2-mic-not-working-heres-the-ultimate-solution/"><u>Dota Groop 2 Mic Not Working? Here's the Ultimate Solution!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015130839-effortless-fixes-for-headphone-noise-problems-get-quiet-audio-now/"><u>Effortless Fixes for Headphone Noise Problems - Get Quiet Audio Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-solutions-to-reactivate-your-astro-a2e-mic/"><u>Effortless Solutions to Reactivate Your Astro A2e Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-your-razer-manowar-microphone-malfunction/"><u>Fixing the Issue: Troubleshooting Your Razer ManO'War Microphone Malfunction</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-microphone-problems-during-zoom-calls-on-windows-1110-computers/"><u>How to Fix Microphone Problems During Zoom Calls on Windows 11/10 Computers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-motorola-moto-g34-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Motorola Moto G34 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-pioneers-guide-to-gopro-and-timelapse-magic/"><u>In 2024, The Pioneer's Guide to GoPro and Timelapse Magic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/networking-opportunities/"><u>Networking Opportunities:</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/news-endings-as-a-narrative-tool-for-2024/"><u>News Endings as a Narrative Tool for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-in-windows-7-expert-fix-strategies/"><u>Overcoming Microphone Challenges in Windows 7: Expert Fix Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-simple-solutions-for-troubleshooting-dell-audio-issues/"><u>Quick and Simple Solutions for Troubleshooting Dell Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-audio-glitches-and-distortions-in-windows-11-a-comprehensive-fix-guide/"><u>Resolve Audio Glitches & Distortions in Windows 11: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-sound-issues-in-windows-a-step-by-step-guide-to-silencing-audio-pop-ups/"><u>Resolve Sound Issues in Windows: A Step-by-Step Guide to Silencing Audio Pop-Ups</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-playback-for-anthem-a-guide-for-gamers-using-windows-11/"><u>Restore Audio Playback for Anthem - A Guide for Gamers Using Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-realtek-speakers-a-step-by-step-solution-for-loss-of-audio-feedback/"><u>Revive Your Realtek Speakers: A Step-by-Step Solution for Loss of Audio Feedback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/smooth-repair-techniques-for-overcoming-playback-error-on-devices/"><u>Smooth Repair Techniques for Overcoming Playback Error on Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016117161-solution-recording-and-playing-games-audio-on-discord-now-possible/"><u>Solution: Recording and Playing Games Audio on Discord, Now Possible!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-your-logitech-g230-mic-wont-work-and-how-to-repair-it/"><u>Solved! Why Your Logitech G230 Mic Won't Work and How to Repair It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-output-device-is-installed-error-for-speakers-and-headphones-on-windows-versions-11-8-7/"><u>Solving 'No Output Device Is Installed' Error for Speakers and Headphones on Windows Versions (11, 8, 7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-all-your-g2000-mikes-on-kotion-systems/"><u>Solving Common Problems with All Your G2000 Mikes on Kotion Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015713971-speedy-repairs-needed-heres-how-to-fix-the-microphone-on-your-oculus-rift-s-quickly/"><u>Speedy Repairs Needed? Here's How to Fix the Microphone on Your Oculus Rift S Quickly!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/stop-windows-117-from-crunching-sounds-fix-guided-tutorial/"><u>Stop Windows 11/7 From Crunching Sounds - Fix Guided Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-the-persistent-crackle-solving-sound-distortion-problems-with-your-arctis-7-and-windows-computer/"><u>The Ultimate Fix for the Persistent Crackle: Solving Sound Distortion Problems with Your Arctis 7 and Windows Computer</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-x-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone X on MetroPCS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-fortnite-audio-issues-today-a-comprehensive-tutorial/"><u>Troubleshoot & Repair Your Fortnite Audio Issues Today - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hyperx-cloud-speaker-and-mic-solved/"><u>Troubleshooting HyperX Cloud Speaker and Mic: Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-persistent-buzzing-in-your-audio-headphones-expert-tips-and-tricks/"><u>Troubleshooting Persistent Buzzing in Your Audio Headphones - Expert Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015189061-troubleshooting-stuttering-sounds-on-windows-systems-windows-107-effective-fixes-inside/"><u>Troubleshooting Stuttering Sounds on Windows Systems (Windows 10/7) – Effective Fixes Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-modern-audio-glitches-in-your-device-or-application/"><u>Ultimate Fixes for Modern Audio Glitches in Your Device or Application</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/what-to-do-if-your-nvidia-graphics-card-is-not-detected/"><u>What To Do If Your Nvidia Graphics Card Is Not Detected?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-elevate-social-media-engagement-cutting-edge-fb-ad-techniques-for-2024/"><u>[New] Elevate Social Media Engagement Cutting-Edge FB Ad Techniques for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-easily-erase-identity-blurring-techniques-in-videos-for-2024/"><u>[Updated] Easily Erase Identity Blurring Techniques in Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-deciphering-social-media-copyright-laws-including-fb/"><u>[Updated] In 2024, Deciphering Social Media Copyright Laws, Including FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-peak-psd-layer-magic/"><u>2024 Approved Peak PSD Layer Magic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/best-panzoid-intro-maker-templates-for-2024/"><u>Best Panzoid Intro Maker Templates for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-google-hangouts-microphone-problems-swiftly/"><u>Expert Tips for Fixing Google Hangouts Microphone Problems Swiftly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-functional-corsair-hs35-microphone-in-windows/"><u>Troubleshooting Fixes: How to Repair a Non-Functional Corsair HS35 Microphone in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-solve-audio-problems-on-your-windows-7-pc/"><u>Troubleshooting Guide: How to Solve Audio Problems on Your Windows 7 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-a-non-responsive-corsair-gaming-headset/"><u>Troubleshooting Steps: Fixing a Non-Responsive Corsair Gaming Headset</u></a></li>
 </ul></div>
-
-
-
 

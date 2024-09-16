@@ -1,7 +1,7 @@
 ---
 title: "Solve the Mute Mystery: Reactivating Sound in Google Chrome"
-date: 2024-08-06T09:17:53.512Z
-updated: 2024-08-07T09:17:53.512Z
+date: 2024-09-15T16:54:21.905Z
+updated: 2024-09-16T19:59:28.677Z
 tags:
   - win11
   - win10
@@ -25,22 +25,12 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix Discord audio issues?
 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -55,21 +45,10 @@ There’re mainly two ways for you to update an audio driver:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -101,9 +80,6 @@ There’re mainly two ways for you to update an audio driver:
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Reinstall Discord
 
  If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
@@ -114,12 +90,23 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click Discord, and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -135,11 +122,28 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-cutting-edge-techniques-for-clear-zoom-captures/"><u>[New] 2024 Approved Cutting Edge Techniques for Clear Zoom Captures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-latest-screens-recording-revelation-by-apeaksoft-2023/"><u>[New] In 2024, The Latest Screens Recording Revelation by Apeaksoft, 2023</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-to-platforms-for-youtube-influencer-partnerships/"><u>[New] Navigating to Platforms for YouTube Influencer Partnerships</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ps2-on-ios-selecting-the-best-emulators/"><u>[New] PS2 on iOS Selecting the Best Emulators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-preserving-your-virtual-sessions-gotomeeting-tips/"><u>[Updated] In 2024, Preserving Your Virtual Sessions GoToMeeting Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-for-sports-video-compilation/"><u>[Updated] Step-by-Step for Sports Video Compilation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-jabra-headset-a-comprehensive-walkthrough/"><u>How to Repair a Non-Functional Jabra Headset : A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-connectivity-problems-with-the-logitech-g733-headset-mic/"><u>How to Resolve Connectivity Problems with the Logitech G733 Headset Mic</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212458133-master-the-art-of-connecting-hdmi-devices-with-a-windows-11-system-no-more-frustrations/"><u>Master the Art of Connecting HDMI Devices with a Windows 11 System: No More Frustrations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rediscover-timeless-charm-meets-modern-tech-in-lgs-revamped-smartwatch-powered-by-wear-os-asterisk-20/"><u>Rediscover Timeless Charm Meets Modern Tech in LG's Revamped Smartwatch Powered by Wear OS Asterisk 2.0</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-bluetooth-earphone-lag-quickly-and-easily-today/"><u>Solve Bluetooth Earphone Lag Quickly & Easily Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overcoming-challenges-with-starting-realteks-hd-audio-software-suite/"><u>Solved: Overcoming Challenges with Starting Realtek's HD Audio Software Suite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-addressing-the-silent-issue-of-hdmi-connections-between-computer-monitor-and-tv/"><u>Step-by-Step Solution: Addressing the Silent Issue of HDMI Connections Between Computer, Monitor & TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-cutting-edge-in-photo-framing-techniques-2023-software-guide-for-2024/"><u>The Cutting Edge in Photo Framing Techniques, 2023 Software Guide for 2024</u></a></li>
+</ul></div>
+

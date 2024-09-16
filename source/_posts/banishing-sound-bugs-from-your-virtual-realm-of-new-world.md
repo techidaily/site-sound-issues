@@ -1,7 +1,7 @@
 ---
 title: Banishing Sound Bugs From Your Virtual Realm of 'New World'
-date: 2024-08-06T09:17:50.898Z
-updated: 2024-08-07T09:17:50.898Z
+date: 2024-09-12T19:53:14.416Z
+updated: 2024-09-16T16:16:58.390Z
 tags:
   - win11
   - win10
@@ -25,16 +25,10 @@ Sometimes you may find that there’s**no sound after plugging your speaker** in
 2. [Update your sound card driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot the hardware problems
 
  Your speakers are plugged in but no sound? You’ll need to troubleshoot in the first place. During troubleshooting, make sure your volume is not muted. If your volume is muted, you’ll see a cross icon next to your volume icon. Click your**volume icon** and drag the slider to the**maximum** to see if there’s any sound from your speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea46da145f7.jpg)
 
  It’s possible that your speaker is not connected correctly because of hardware problems, so you’ll find your speakers are plugged but no sound at all. To rule it out as the cause of your problem, try troubleshooting:
@@ -64,9 +58,6 @@ OR
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers on your computer.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click the**Update** button next to the flagged audio device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All and get a**30-day money-back guarantee** ).
 4. Restart your computer to take effect.
@@ -85,16 +76,25 @@ To do so:
 2. Type or paste**control mmsys.cpl sounds** , then hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/win11-playback-device.jpg)
 3. In the Playback tab, right-click on any empty area and check**Show Disabled Devices** and**Show Disconnected Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea46232c451.jpg)
 4. Select your**audio device** and click**Set Default** . Ensure there’s a**green check** next to your audio device.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea464406b93.jpg)
 5. Click**Apply** and**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Test and see if there is any sound from your speaker.
 
@@ -103,9 +103,6 @@ If it works now, then your problem should have been resolved.
 If not, continue these steps:
 
 1. On the same**Playback** pane, select your**audio** **device** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea46fb1eeb3.jpg)
 2. Click the**Advanced** tab. In the**Default** **Format** section, choose a different audio rate and click Test to see if there’s sound.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea470df3555.jpg)
 3. Try different audio formats until you find the one that works. Then save the changes and test if the sound is working.
@@ -123,11 +120,28 @@ If not, continue these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-simplified-methods-to-screen-record-instagrams-story-feature/"><u>[New] In 2024, Simplified Methods to Screen Record Instagram's Story Feature</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-strategies-to-successfully-broadcast-facespace-lives-on-tv/"><u>[New] In 2024, Strategies to Successfully Broadcast Facespace Lives on TV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-as-your-ally-composing-confidential-company-emails/"><u>AI as Your Ally: Composing Confidential Company Emails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-mic-not-working-heres-a-step-by-step-guide-to-fixing-the-problem/"><u>Astro A10 Mic Not Working? Here's a Step-by-Step Guide to Fixing the Problem!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cant-use-my-blue-yeti-mic-here-are-the-ultimate-solutions/"><u>Can't Use My Blue Yeti Mic? Here Are the Ultimate Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-audio-jack-malfunctions-with-windows-7-operating-system/"><u>Effective Remedies for Audio Jack Malfunctions with Windows 7 Operating System</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-guide-to-comparing-4k-youtube-converter-tools/"><u>Essential Guide to Comparing 4K YouTube Converter Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-pathway-to-pairing-perfection-obspluszoom-guide/"><u>In 2024, The Pathway to Pairing Perfection OBS+Zoom Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-convert-mp4-to-mp3-top-tools-for-easy-audio-extraction/"><u>New 2024 Approved Convert MP4 to MP3 Top Tools for Easy Audio Extraction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-safari-problems-with-this-essential-guide-of-ten-tips/"><u>Resolve Your iPhone's Safari Problems with This Essential Guide of Ten Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-it-takes-two-silent-computer-troubleshooting-guide/"><u>Resolving 'It Takes Two' Silent Computer: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-your-facebook-videos-pc-edition-top-strategies/"><u>Reviving Audio on Your Facebook Videos (PC Edition): Top Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-corsair-hs60-mic-issues-a-comprehensive-guide-to-restoring-audio-functionality/"><u>Solving Corsair HS60 Mic Issues - A Comprehensive Guide to Restoring Audio Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-secrets-of-gopro-chrono-photography/"><u>Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
+</ul></div>
+

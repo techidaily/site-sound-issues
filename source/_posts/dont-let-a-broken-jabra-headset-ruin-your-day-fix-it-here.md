@@ -1,7 +1,7 @@
 ---
 title: Don’t Let a Broken Jabra Headset Ruin Your Day - Fix It Here
-date: 2024-09-10T13:12:13.185Z
-updated: 2024-09-11T13:12:13.185Z
+date: 2024-09-13T20:44:58.542Z
+updated: 2024-09-16T19:45:21.891Z
 tags:
   - win11
   - win10
@@ -21,27 +21,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
  This is incredibly frustrating; you bought the headset so you could talk to people on it, and now you can’t! But don’t worry; you haven’t wasted your money. It can be fixed…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to fix Razer Kraken Mic Not Working
 
@@ -57,20 +40,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 **1) Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
@@ -88,20 +57,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
@@ -110,55 +65,13 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Method 2: Update your audio drivers
 
@@ -190,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,57 +110,32 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-precision-review-of-the-dji-inspire-2-drone/"><u>[New] Precision Review of the DJI Inspire 2 Drone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-picks-experts-choice-of-4k-dslr-rigs/"><u>[New] Prime Picks Expert's Choice of 4K DSLR Rigs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtubers-essential-camera-guidebook/"><u>[New] YouTubers' Essential Camera Guidebook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[Updated] Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-perfect-process-iphones-podcast-downloading-technique-for-2024/"><u>[Updated] Unveiling the Perfect Process IPhone's Podcast Downloading Technique for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-in-depth-look-at-srt-knowledge-for-all-levels/"><u>2024 Approved In-Depth Look at SRT Knowledge for All Levels</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-switching-views-iphone-video-retrospect/"><u>2024 Approved Switching Views IPhone Video Retrospect</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/7-years-75-million-learners-mondly-leads-the-way/"><u>7 Years, 75 Million Learners, Mondly Leads the Way</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-silent-gamers-nightmare-fix-sounds-not-working-on-windows-11-here/"><u>Anthem Silent Gamer's Nightmare? Fix Sounds Not Working on Windows 11 Here</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-breakdown-how-to-restore-working-functionality-in-laptop-speakers/"><u>Audio Breakdown? How to Restore Working Functionality in Laptop Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/command-the-field-again-comprehensive-guide-to-restoring-psr-player-screen-refresh-on-pc-call-of-duty-warzone-2024/"><u>Command the Field Again: Comprehensive Guide to Restoring PSR (Player Screen Refresh) on PC [Call of Duty: Warzone 2024]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-fixing-your-hp-notebooks-missing-speaker-functionality/"><u>Comprehensive Guide to Fixing Your HP Notebook's Missing Speaker Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-not-picking-up-sound-heres-what-you-can-do/"><u>Corsair HS60 Not Picking Up Sound? Here's What You Can Do!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cortana-troubleshooting-top-tips-for-resolving-issues-quickly/"><u>Cortana Troubleshooting: Top Tips For Resolving Issues Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-razer-kraken-microphone-when-it-wont-work-anymore/"><u>Diagnosing and Repairing Your Razer Kraken Microphone When It Won't Work Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repairs-effective-ways-to-fix-a-malfunctioning-corsair-headset/"><u>DIY Repairs: Effective Ways to Fix a Malfunctioning Corsair Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-fix-for-windows-11-audio-problems-a-step-by-step-guide-to-solving-common-troubles/"><u>Easy Fix for Windows 11 Audio Problems: A Step-by-Step Guide to Solving Common Troubles</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhanced-personalization-with-the-help-of-cookiebot-technology/"><u>Enhanced Personalization with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-meizu-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Meizu</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-corsair-hs35-microphone-issues-in-windows-a-step-by-step-guide/"><u>Fixing Corsair HS35 Microphone Issues in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-missing-game-sounds-solutions-for-battlefield-4/"><u>Fixing Missing Game Sounds - Solutions for Battlefield 4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-idea-to-reality-harnessing-chatgpt-for-innovative-storytelling-and-worldbuilding/"><u>From Idea to Reality: Harnessing ChatGPT for Innovative Storytelling and Worldbuilding</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-970-new-compatible-software-release-by-nvidia-wins10/"><u>GTX 970: New Compatible Software Release by Nvidia, Wins10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-astro-a50-mic-malfunction-and-restore-sound-quality-perfectly/"><u>How to Repair Astro A50 Mic Malfunction and Restore Sound Quality Perfectly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-username-modification-guide-for-meet-sessions/"><u>In 2024, Step-by-Step Username Modification Guide for Meet Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-straightforward-strategies-for-iphones-screen-recording/"><u>In 2024, Straightforward Strategies for iPhone's Screen Recording</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-video-virtuosity-expertly-attaching-audio-to-youtube-videos/"><u>In 2024, Video Virtuosity Expertly Attaching Audio to YouTube Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-e-conference-headline-generator/"><u>Leading E-Conference Headline Generator</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015830048-lost-your-system-sounds-following-a-windows-10-update-lets-rectify-that-now/"><u>Lost Your System Sounds Following a Windows 10 Update? Let's Rectify That Now.</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-how-to-define-ai-video-for-2024/"><u>New How to Define AI Video for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimizing-your-sound-experience-configuring-the-idt-hd-audio-codec-on-a-windows-10-system/"><u>Optimizing Your Sound Experience: Configuring the IDT HD Audio Codec on a Windows 10 System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/picsart-app-complete-review-and-guide-2024/"><u>PicsArt App Complete Review and Guide 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-silence-crackling-sounds-in-your-headphones-now/"><u>Quick FIXES to Silence Crackling Sounds in Your Headphones Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-astro-a50-microphone-step-by-step-guide-to-a-working-speakermic-combo/"><u>Revive Your Astro A50 Microphone - Step-by-Step Guide to a Working Speaker/Mic Combo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-sound-problems-in-outriders-a-comprehensive-guide/"><u>Solving Common Sound Problems in Outriders: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-restart-and-fix-windows-scanner-failures/"><u>Steps to Restart and Fix Windows Scanner Failures</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-2023-guide-to-enhancing-audio-on-discord-top-plugins-reviewed/"><u>The Ultimate 2023 Guide to Enhancing Audio on Discord - Top Plugins Reviewed</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-list-top-10-professional-photo-restoration-apps-for-windows-and-macos/"><u>The Ultimate List: Top 10 Professional Photo Restoration Apps for Windows & MacOS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016882410-troubleshoot-and-resolve-your-counter-strike-2-audio-problems-today/"><u>Troubleshoot and Resolve Your Counter-Strike 2 Audio Problems Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-non-functional-logitech-g430-headset-mic-expert-tips-and-techniques/"><u>Troubleshooting a Non-Functional Logitech G430 Headset Mic: Expert Tips and Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-port-conflicts-with-active-applications/"><u>Troubleshooting HDMI Port Conflicts with Active Applications</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016651671-voicemod-not-working-heres-how-to-restore-functionality/"><u>Voicemod Not Working? Here's How to Restore Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/webex-audio-dilemma-try-these-four-fixes-for-non-functioning-mics/"><u>WebEx Audio Dilemma? Try These Four Fixes for Non-Functioning Mics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-automotive-traffic-cam-exploration/"><u>[New] Premium Automotive Traffic Cam Exploration</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-50plus-powerful-tiktok-inspirational-statements-for-2024/"><u>[Updated] 50+ Powerful TikTok Inspirational Statements for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-fast-forward-to-flawless-windows-11-photography/"><u>2024 Approved Fast Forward to Flawless Windows 11 Photography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-vivo-y100-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Vivo Y100 5G on Mac?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-mini-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 mini</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-gionee-f3-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Gionee F3 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-issue-audio-coming-from-external-speakers-instead-of-plugged-in-earphones/"><u>Resolving the Issue: Audio Coming From External Speakers Instead of Plugged-In Earphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-apple-airpods-mic-problems-under-windows-10-with-these-steps/"><u>Solve Your Apple AirPods Mic Problems Under Windows 10 with These Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sony-wh-100nxm34-series-diy-guide-for-repairing-pc-mic-connection-issues-and-restoring-sound-transmission/"><u>Sony WH-100nXM3/4 Series: DIY Guide for Repairing PC Mic Connection Issues and Restoring Sound Transmission</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-9-best-emulators-for-the-steam-deck/"><u>The 9 Best Emulators for the Steam Deck</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016417544-turtle-beach-recon-70-headset-mic-issue-heres-how-to-repair-it/"><u>Turtle Beach Recon 70 Headset Mic Issue? Here's How to Repair It!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-sturdiness-and-value-of-the-omoton-t1-tablet-support-accessory/"><u>Unveiling the Sturdiness and Value of the Omoton T1 Tablet Support Accessory</u></a></li>
 </ul></div>
 
-
-
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

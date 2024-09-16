@@ -1,7 +1,7 @@
 ---
 title: Logitech WebCam & Microphone Malfunctions? Here's How to Resolve Them
-date: 2024-08-06T09:17:52.077Z
-updated: 2024-08-07T09:17:52.077Z
+date: 2024-09-14T16:45:14.367Z
+updated: 2024-09-16T18:59:11.137Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Objectively, external webcams such as Logitech webcams offer better video qualit
 
 ![how to fix Logitech webcam mic not working](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-webcam-mic-not-working.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 1\. Install all Windows updates
 
  Windows updates are used to keep Microsoft Windows and several other Microsoft programs updated. They often include feature enhancements and security updates to protect Windows from the malware and malicious attacks which would probably lead to your programs malfunctioning. Therefore, before trying the solutions listed below, you need to download and install the latest Windows updates.
@@ -80,9 +77,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Allow access to your webcam built-in microphone
 
  On Windows, you can decide whether your system and apps can access the microphone. In case you’ve disabled the access for some reasons, you should check the settings and grant the permission for the access by following the instructions below:
@@ -95,16 +89,17 @@ Here’s how to update your drivers with Driver Easy:
 
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
  5) Once you’ve allowed the microphone to access your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
@@ -114,31 +109,26 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Make sure your mic isn’t disabled
 
  Sometimes you may not notice that your microphone has accidentally been disabled. To check if that’s your case, take these steps:
 
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select **Open Sound settings** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
   
@@ -146,27 +136,31 @@ No advertising on the website.
 
  3) Make sure the box next to**Disable** is unchecked.  
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 5\. Set your device as default
 
  When you’re using an external camera, you might need to set that device as the audio device in order to access the built-in microphone. Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But sometimes it just fails to do that and you have to set it manually:
 
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select **Open Sound settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
@@ -175,9 +169,6 @@ No advertising on the website.
 
  3) Select the **Recording**  tab. Select your microphone and then click **Set Default > OK** .  
   
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set your device as the default](https://images.drivereasy.com/wp-content/uploads/2021/03/microphone.png)
 
  After applying changes, do a mic test to check if this method did the trick. If the microphone is still not working, you need to check the input sensitivity of your mic to ensure it is not too low or too high which could cause issues. Here’s how you can do this:
@@ -198,10 +189,14 @@ No advertising on the website.
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -215,11 +210,29 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-solvedhow-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] 2024 Approved Solved How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-face-the-future-with-elite-iphone-and-android-modifiers/"><u>[New] Face the Future with Elite iPhone & Android Modifiers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-transforming-social-media-traffic-into-revenue/"><u>[New] In 2024, Transforming Social Media Traffic Into Revenue</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlocking-the-potential-of-screenshotting-your-android-device/"><u>[Updated] In 2024, Unlocking the Potential of Screenshotting Your Android Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-creative-commons-key-to-video-content-sharing/"><u>[Updated] YouTube Creative Commons Key to Video Content Sharing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-sound-interruptions-and-crackles-on-windows-computers/"><u>Dealing with Sound Interruptions and Crackles on Windows Computers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/establishing-baseline-metrics-for-igtv-effectiveness/"><u>Establishing Baseline Metrics for IGTV Effectiveness</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-windows-settings-crashes/"><u>How to Stop Recurring Windows Settings Crashes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-non-functional-speakers-in-windows-11-solutions-inside/"><u>How to Troubleshoot Non-Functional Speakers in Windows 11 – Solutions Inside</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insights-into-the-benefits-and-limitations-of-pidgin-im-software/"><u>Insights Into the Benefits and Limitations of Pidgin IM Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-audacity-woes-five-ways-to-tackle-sound-device-errors-easily/"><u>Resolve Your Audacity Woes: Five Ways to Tackle Sound Device Errors Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-on-your-turtle-beach-elite-pro-wireless-headset-fixes-for-dead-mics/"><u>Restore Sound on Your Turtle Beach Elite Pro Wireless Headset - Fixes for Dead Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-persistent-problems-with-voice-communication-in-the-latest-phasmophobia-version/"><u>Solved: Persistent Problems with Voice Communication in the Latest Phasmophobia Version</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-obs-studios-audio-issues-on-pc/"><u>Troubleshooting Steps: Resolving OBS Studio's Audio Issues on PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-creative-expressions-building-stories-from-photos-in-pixiz-for-2024/"><u>Unlock Creative Expressions Building Stories From Photos in Pixiz for 2024</u></a></li>
+</ul></div>
+

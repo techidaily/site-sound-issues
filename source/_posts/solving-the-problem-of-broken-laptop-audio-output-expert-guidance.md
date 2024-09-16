@@ -1,7 +1,7 @@
 ---
 title: "Solving the Problem of Broken Laptop Audio Output: Expert Guidance"
-date: 2024-08-06T09:17:50.127Z
-updated: 2024-08-07T09:17:50.127Z
+date: 2024-09-13T18:37:08.747Z
+updated: 2024-09-16T16:43:41.371Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/e37584e82cca80fba03220abdcda2f6632c85a45f
 
  1) On your keyboard, press the**Win+R** (the Windows logo key and the R key) at the same time to invoke the run box. Type control panel in the run box then click the**OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642607bba2.png)
 
  2) **View by large icons** and click **Sound** .
@@ -38,16 +35,10 @@ thumbnail: https://thmb.techidaily.com/e37584e82cca80fba03220abdcda2f6632c85a45f
 
 3) See the Speakers is disabled:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4dfc1fa7.jpg)
 
  If it is disabled, right click on it and select **Enable** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4eb667e9.jpg)
 
  If you don’t see **Speakers** option listed, it could be disabled and hidden. Right click on the blank space and select **Show Disabled Devices** . Then Enable it.
@@ -80,9 +71,6 @@ Follow these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 2: Update the audio driver**
 
  The problem can be caused by faulty audio drivers. The above steps above may resolve your laptop no sound issue, but if they don’t, you can update the audio driver. If you don’t have the time, patience or computer skills to update the audio driver manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -95,18 +83,12 @@ Follow these steps:
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-405.png)
 
  3) Click the **Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-406.png)
 
  Hopefully you can fix your laptop no sound issues with the steps above. If you have any questions, please feel free to leave your comment below.
@@ -119,11 +101,40 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-heartfelt-goodbyes-free-or-subscribed-video-endings/"><u>[New] Heartfelt Goodbyes Free or Subscribed Video Endings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exploring-the-efficiency-of-modern-tunefab-recorders/"><u>[New] In 2024, Exploring the Efficiency of Modern Tunefab Recorders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-save-your-screencasts-on-pc-with-free-tools/"><u>[New] In 2024, Save Your Screencasts on PC with Free Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-illuminating-origins-a-comprehensible-guide-to-inverted-images-in-instagram/"><u>[Updated] 2024 Approved Illuminating Origins A Comprehensible Guide to Inverted Images in Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/mac-users-tutorial-troubleshooting-swf-file-compatibility-issues/"><u>Mac Users' Tutorial: Troubleshooting SWF File Compatibility Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-gamers-handling-fortnite-error-84-unable-to-enter-parties/"><u>Quick Fixes for Gamers: Handling Fortnite Error 84 - Unable to Enter Parties</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-mic-problems-resolved-a-guide-to-restoring-audio-functionality/"><u>Razer Kraken Mic Problems Resolved: A Guide to Restoring Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-a-guide-to-resolving-valheims-mute-problem-on-pc/"><u>Restoring Soundscape: A Guide to Resolving Valheim's Mute Problem on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-mission-no-more-fixing-sound-problems-in-black-ops-cold-war-pc-edition/"><u>Silent Mission? No More! Fixing Sound Problems in Black Ops - Cold War PC Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-for-voice-chat-problems-in-battlefield-v-call-of-duty-black-ops-cold-war/"><u>Solution Guide for Voice Chat Problems in Battlefield V - Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-list-of-mac-screen-capture-tools/"><u>The Ultimate List of Mac Screen Capture Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-x-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone X</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

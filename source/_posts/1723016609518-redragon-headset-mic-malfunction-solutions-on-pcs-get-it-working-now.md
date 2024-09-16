@@ -1,7 +1,7 @@
 ---
 title: Redragon Headset Mic Malfunction Solutions on PCs - Get It Working Now
-date: 2024-08-06T09:17:49.847Z
-updated: 2024-08-07T09:17:49.847Z
+date: 2024-09-10T19:20:35.066Z
+updated: 2024-09-16T16:32:40.499Z
 tags:
   - win11
   - win10
@@ -26,14 +26,8 @@ Having an issue of your microphone not working could be quite frustrating especi
 3. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run the audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Redragon-featured-image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 1\. Set your microphone as the default device
 
  Oftentimes, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But you may have multiple input or recording devices connected. It would occur to you that your computer is using another device instead of the one you’re attempting to use. In order to set your Redragon microphone as your input device, follow the instructions below:
@@ -48,17 +42,10 @@ Having an issue of your microphone not working could be quite frustrating especi
 
  3) When the Sound window opens, select the **Recording**  tab. Click on your microphone and then click **Set Default > OK** .  
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Redragon microphone not working](https://images.drivereasy.com/wp-content/uploads/2021/05/set-as-default.png)
 
 If that didn’t help, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 2\. Turn on app permissions for your microphone
 
  Normally, when your headset is plugged in, your system will detect it and your apps can access the microphone. But for some reasons, it may fail to do that. To check if your apps have access to your microphone, follow these steps:
@@ -67,16 +54,10 @@ If that didn’t help, proceed to the next fix.
 
  2) Click **Privacy** .  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
  3) Click **Microphone**  from the left pane. Then click on the **Change**  button and click the toggle to make sure **Microphone access for this device**  is turned on.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
@@ -111,8 +92,18 @@ Here’s how to update drivers with Driver Easy:
  After updating your audio driver, restart your PC and do a mic test. If it isn’t functioning properly, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Run the audio troubleshooter
 
  When you run into audio or sound issues, using the troubleshooting tool can help you identify what’s going on. To run the audio troubleshooter, follow the instructions below.
@@ -120,6 +111,13 @@ Here’s how to update drivers with Driver Easy:
  1) In the search box on the taskbar, type **audio troubleshooter** . Then click **Find and fix problems with playing sound**  from the results.  
   
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be required to restart your computer.  
   
@@ -137,11 +135,28 @@ After the reboot, use your microphone and it should be working properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-on-the-path-equipment-for-beginners/"><u>[New] In 2024, First Steps on the Path Equipment for Beginners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-laptop-guide-conducting-live-calls-on-whatsapp-browser/"><u>[Updated] 2024 Approved Laptop Guide Conducting Live Calls on WhatsApp Browser</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bedtime-tales-in-motion-reviews-of-storytelling-videos/"><u>2024 Approved Bedtime Tales in Motion Reviews of Storytelling Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-idt-high-definition-sound-card-drivers-in-windows-10/"><u>Effective Solutions to IDT High Definition Sound Card Drivers in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-resolving-microphone-problems-in-the-steelseries-arctis-prime/"><u>Expert Fixes: Resolving Microphone Problems in the SteelSeries Arctis Prime</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-conceal-the-stubborn-threads-emblem-on-your-instagram-profile/"><u>How To Conceal The Stubborn Threads Emblem On Your Instagram Profile</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-v27-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo V27 for Free? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-video-from-japanese-to-english-online-for-2024/"><u>How To Translate Video From Japanese to English Online for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Huawei won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-g54-5g-wont-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Motorola G54 5G won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-journey-of-usb-composite-devices-from-old-to-revolutionary-technology/"><u>The Journey of USB Composite Devices: From Old to Revolutionary Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-no-sound-issues-in-your-laptop/"><u>Troubleshooting and Fixing No Sound Issues in Your Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-the-issue-with-your-razer-blackshark-v2-microphone/"><u>Troubleshooting Tips: Solving the Issue with Your Razer BlackShark V2 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tutorial-on-repairing-the-unresponsive-mic-in-turtle-beachs-recon-headset/"><u>Tutorial on Repairing the Unresponsive Mic in Turtle Beach's Recon Headset</u></a></li>
+</ul></div>
+

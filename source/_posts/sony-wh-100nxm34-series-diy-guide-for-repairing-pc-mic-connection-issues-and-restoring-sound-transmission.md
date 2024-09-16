@@ -1,7 +1,7 @@
 ---
 title: "Sony WH-100nXM3/4 Series: DIY Guide for Repairing PC Mic Connection Issues and Restoring Sound Transmission"
-date: 2024-09-10T13:12:39.988Z
-updated: 2024-09-11T13:12:39.988Z
+date: 2024-09-11T19:54:53.635Z
+updated: 2024-09-16T20:39:03.280Z
 tags:
   - win11
   - win10
@@ -26,13 +26,10 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Solution 1: Check if all hardware devices work properly
 
@@ -46,20 +43,6 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Solution 2: Set HDMI Device as Default Device
 
  If the HDMI device is not set as default device, you cannot hear the sound from HDMI output. Follow steps below to set the HDMI device as Default Device:
@@ -68,19 +51,6 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59a3d159c97f2.png)
 2. In the**Playback** tab, select**Digital Output Device** or**HDMI** option. Click**Set Default** and click**OK** . Then the HDMI sound output will be set as default.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-29.png)
 
  If you do not see the Digital Output Device or HDMI option in the Playback tab, right-click on the blank place, then click Show disconnected devices and Show disabled devices on the context menu. Then set it as the default device.
@@ -88,20 +58,6 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 [4](https://images.drivereasy.com/wp-content/uploads/2016/01/45.png) ](https://images.drivereasy.com/wp-content/uploads/2016/01/45.png)
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Solution 3: Update the Sound Driver
 
@@ -118,20 +74,6 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
@@ -142,37 +84,23 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Solution 4: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -204,8 +132,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,67 +139,20 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-free-aesthetic-essentials-for-youtube-artistry/"><u>[Updated] 2024 Approved Free Aesthetic Essentials for YouTube Artistry</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[Updated] Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filming-your-journey-essentials-checklist/"><u>[Updated] Filming Your Journey – Essentials Checklist</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-calculating-clickers-contribution-to-youtube-earnings/"><u>[Updated] In 2024, Calculating Clickers' Contribution to YouTube Earnings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-secret-pathway-to-premium-pristine-pictures-for-2024/"><u>[Updated] The Secret Pathway to Premium, Pristine Pictures for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unplug-and-replay-twitch-livestream-techniques/"><u>2024 Approved Unplug and Replay Twitch Livestream Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/android-powered-unleashing-chatgpts-potential/"><u>Android Powered: Unleashing ChatGPT's Potential</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/application-failure-due-to-missing-dll/"><u>Application Failure Due to Missing DLL</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audacity-stuck-overcome-opening-sound-device-issues-with-these-5-fixes/"><u>Audacity Stuck? Overcome 'Opening Sound Device' Issues with These 5 Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015814832-borderlands-3-audio-glitch-heres-how-to-get-your-game-sounds-back-on-pc/"><u>Borderlands 3 Audio Glitch? Here's How to Get Your Game Sounds Back on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-for-a-malfunctioning-logitech-g7/"><u>Comprehensive Fixes for a Malfunctioning Logitech G7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-no-audio-issue-with-conexant-smartaudio-hd-in-windows-11-system/"><u>Diagnosing and Fixing No Audio Issue with Conexant SmartAudio HD in Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-problems-with-your-razer-krakens-microphone/"><u>Diagnosing and Solving Problems with Your Razer Kraken's Microphone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disabling-updater-error-0x80246007-in-windows-1011-os/"><u>Disabling Updater Error 0X80246007 in Windows 10/11 OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-to-fix-astro-a20-mic-not-working/"><u>Easy To Fix Astro A20 Mic Not Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-troubleshooting-guide-solving-silent-keyboard-issue-in-logitech-g933/"><u>Easy Troubleshooting Guide: Solving Silent Keyboard Issue in Logitech G933</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-logitech-g533-microphone-malfunctions-step-by-step-resolution/"><u>Effective Fixes for Logitech G533 Microphone Malfunctions: Step-by-Step Resolution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-a-broken-logitech-audiovideo-device/"><u>Effective Remedies for a Broken Logitech Audio/Video Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-troubleshooting-tips-for-outriders-sound-glitches/"><u>Effortless Troubleshooting Tips for Outriders Sound Glitches</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/effortless-visual-corrections-macwindows/"><u>Effortless Visual Corrections (Mac/Windows)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-audio-experience-on-windows-11-tips-for-louder-speakers-and-headphones/"><u>Enhancing Audio Experience on Windows 11: Tips for Louder Speakers and Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-sound-output-for-a-better-experience-with-windows-11/"><u>Enhancing Sound Output for a Better Experience with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-no-sound-issues-in-toshiba-laptops/"><u>Expert Advice: Fixing No-Sound Issues in Toshiba Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-repair-your-logitech-camera-and-microphone-functionality/"><u>Expert Tips to Repair Your Logitech Camera and Microphone Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-track-fixes-for-bluetooth-speaker-latency-learn-how-now/"><u>Fast Track Fixes for Bluetooth Speaker Latency – Learn How Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-sound-glitches-on-windows-11-the-ultimate-5-step-solution/"><u>Fixing Sound Glitches on Windows 11 - The Ultimate 5-Step Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017006310-headphone-noise-off-tactics-silence-the-snap-pop-and-crackle/"><u>Headphone Noise-Off Tactics - Silence the Snap, Pop and Crackle!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-steelseries-arctis-9-headset-microphone-issues-resolved/"><u>How to Fix: SteelSeries Arctis 9 Headset Microphone Issues Resolved</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-launch-your-first-sporty-video-channel-on-apple-systems/"><u>How to Launch Your First Sporty Video Channel on Apple Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015720658-hp-laptop-audio-dilemma-in-windows-10-heres-how-to-restore-your-sound-output/"><u>HP Laptop Audio Dilemma in Windows 10? Here's How to Restore Your Sound Output!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/illusions-unveiled-discerning-genuine-supporters-in-digital-platforms-for-2024/"><u>Illusions Unveiled Discerning Genuine Supporters in Digital Platforms for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nubia-z50s-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nubia Z50S Pro Phone Hassle-Free</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-f5-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco F5 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-imessage-game-selection-of-2024-unveiling-our-top-seven-favorites/"><u>Leading iMessage Game Selection of 2024: Unveiling Our Top Seven Favorites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-custom-interactions-with-gpt-3-top-5-techniques-revealed/"><u>Mastering Custom Interactions with GPT-3: Top 5 Techniques Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-how-to-restore-voice-chat-feature-for-cod-black-ops-cold-war-players/"><u>Overcoming Glitches: How to Restore Voice Chat Feature for COD: Black Ops Cold War Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-lost-sounds-a-comprehensive-fix-for-silent-hearthstone-battles/"><u>Restoring Lost Sounds: A Comprehensive Fix for Silent Hearthstone Battles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sensor-error-no-read-data-present/"><u>Sensor Error: No Read Data Present</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-silent-issues-in-apex-legends-get-the-audio-back/"><u>Solved: Troubleshooting Silent Issues in Apex Legends - Get the Audio Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-restore-windows-7-audio-functionality/"><u>Step-by-Step Solution to Restore Windows 7 Audio Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-eliminating-noise-from-your-arctis-7-headset-on-pc/"><u>Step-by-Step Troubleshooting: Eliminating Noise From Your Arctis 7 Headset on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-getting-your-windows-10-headphones-working-again/"><u>Step-by-Step Tutorial: Getting Your Windows 10 Headphones Working Again</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-15-pro-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 15 Pro Activation Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-5-solutions-to-resolve-your-webex-mic-issues/"><u>Top 5 Solutions to Resolve Your Webex Mic Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-pc-microphone-problems-in-zoom-for-clear-calls/"><u>Troubleshoot PC Microphone Problems in Zoom for Clear Calls</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-sound-blaster-mic/"><u>Troubleshooting Guide: Solving Issues with Your Sound Blaster Mic</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-the-reset-failure-message-on-windows/"><u>Troubleshooting Guide: Solving the 'Reset Failure' Message on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-non-functional-steam-voice-chat/"><u>Troubleshooting Tips: Solving Issues with Non-Functional Steam Voice Chat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-your-corsair-void-microphone/"><u>Troubleshooting Tips: Solving Issues with Your Corsair Void Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turn-off-sound-improvement-features-on-windows-10/"><u>Turn Off Sound Improvement Features on Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-tailored-obs-tweaks-for-affordable-systems/"><u>[New] Tailored OBS Tweaks for Affordable Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-globally-acclaimed-video-sensations-on-youtube/"><u>[New] Top 10 Globally Acclaimed Video Sensations on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-copyrights-demystified-understanding-and-managing-strikes/"><u>[New] YouTube Copyrights Demystified Understanding and Managing Strikes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-overcoming-inaudibility-in-obs-captured-audio/"><u>[Updated] In 2024, Overcoming Inaudibility in OBS Captured Audio</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-windows-hd-color-find-out-how-to-watch-and-edit-hdr-videos-on-your-pc/"><u>[Updated] Windows HD Color Find Out How to Watch and Edit HDR Videos on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-overcoming-voice-chat-disruptions-and-issues/"><u>Black Ops Cold War - Overcoming Voice Chat Disruptions and Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-you-encounter-a-mic-issue-with-your-steelseries-arctis-prime-earphones/"><u>Effective Fixes When You Encounter a Mic Issue With Your SteelSeries Arctis Prime Earphones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-12-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 12 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-going-premium-with-chatgpt-plus-worth-it/"><u>Is Going Premium with ChatGPT Plus Worth It ?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-mpeg-mov-movavi/"><u>Movavi의 공식 MPEG MOV 라이브 리소스를 사용하여 원격 비디오 생성을 단호하고 무료로 제공 - Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-13t-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi 13T</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-fixing-audio-problems-on-your-lenovo-notebook/"><u>Troubleshooting Steps for Fixing Audio Problems on Your Lenovo Notebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/untangling-the-mystery-of-cyberpunk-2077s-sound-distortion-fixes-and-tips/"><u>Untangling the Mystery of Cyberpunk 2077'S Sound Distortion - Fixes and Tips</u></a></li>
 </ul></div>
-
-
-
 

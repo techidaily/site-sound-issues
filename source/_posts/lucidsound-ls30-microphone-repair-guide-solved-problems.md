@@ -1,7 +1,7 @@
 ---
 title: LucidSound LS30 Microphone Repair Guide - Solved Problems
-date: 2024-08-06T09:17:49.559Z
-updated: 2024-08-07T09:17:49.559Z
+date: 2024-09-13T16:28:44.882Z
+updated: 2024-09-16T17:07:31.689Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
 You care about stunning sound quality but find that you can’t use the microphone. If you’re one of those who’re experiencing Sound Blaster microphone not working issues, you’ll learn how to fix it in this post.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Make sure your mic is not muted](https://tools.techidaily.com/drivereasy/download/)**
@@ -35,9 +32,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  1) Press the**Microphone Control Button** once, and turn the**Volume Control Knob** (Red Light) right to increase the microphone’s volume.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mic not working](https://images.drivereasy.com/wp-content/uploads/2021/04/knob-right-turn.jpg)
 
  2) Check if your microphone is physically muted on your headset switch or inline mute. Sometimes you may accidentally flip mute.
@@ -76,14 +70,8 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Go to the**Recording** tab, make sure the microphone is not muted in Sound Blaster Command and has an adequate volume level. Tick**Listen to this device** under**Microphone/Headset (Mic)** to verify Mic function.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Adjust Windows sound settings
 
  Many Sound Blaster users have fixed this issue by changing the default frequency for the microphone. Here’s how:
@@ -102,9 +90,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  5) Then go to the**Advanced** tab, and select**2 channel, 16 bit, 48000 Hz (DVD Quality)** for the**Default Format** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-all-boxes.jpg)
 
 6) Check all the boxes below.
@@ -114,8 +99,18 @@ You care about stunning sound quality but find that you can’t use the micropho
  If this method doesn’t do the trick, you can disable all enhancements by right-clicking your microphone, and then click**Properties** \>**Enhancements** . After disabling all enhancements, you can’t apply any processing to the mic via Sound Blaster Command.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5\. Update audio drivers
 
  If you have tried these methods above but to no avail, you should update all your audio drivers. This can be done with the latest Windows Updates. However, you can’t rely on Windows to update ([Learn Why…](https://tools.techidaily.com/drivereasy/download/) ) to do the job for you. So to make sure all your audio drivers are up to date, you can do it in the following two ways:
@@ -128,17 +123,25 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -147,9 +150,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### 6\. Reinstall Sound Blaster Command
 
  If the Sound Blaster mic not working persists, there might be some issues with your software.
@@ -158,11 +158,25 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reset-all.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) If the microphone issue persists, you can uninstall Sound Blaster Command.
 
  3) Press the**Windows** key +**R** to open the Run box, and enter**appwiz.cpl** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click Sound Blaster Command and select**Uninstall** .
 
@@ -181,11 +195,26 @@ You care about stunning sound quality but find that you can’t use the micropho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-aligning-zoom-sessions-with-desktop-and-smartphone-calendars/"><u>[New] 2024 Approved Aligning Zoom Sessions with Desktop and Smartphone Calendars</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-collect-free-image-resources-via-top-4-online-stock-hubs/"><u>[New] 2024 Approved Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-content-spotlight-platform-perks-compared/"><u>[New] 2024 Approved Content Spotlight Platform Perks Compared</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-designing-acoustic-elements-for-film-teasers-and-previews-for-2024/"><u>[New] Designing Acoustic Elements for Film Teasers and Previews for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hacky-podcast-transmission-tactic/"><u>[Updated] Hacky Podcast Transmission Tactic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-engrossing-12-pc-clicker-games-that-keep-you-hooked/"><u>[Updated] In 2024, Engrossing 12 PC Clicker Games That Keep You Hooked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-new-buzzwords-for-vlogger-dialogues/"><u>[Updated] New Buzzwords for Vlogger Dialogues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-headphone-connectivity-in-malfunctioning-laptop-jacks/"><u>Expert Tips to Restore Headphone Connectivity in Malfunctioning Laptop Jacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-on-call-in-fortnite-swift-remedies-for-non-functioning-voice-chat/"><u>Get Back on Call in Fortnite: Swift Remedies for Non-Functioning Voice Chat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-amplify-speaker-volume-on-your-windows-11-system/"><u>How to Amplify Speaker Volume on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-volume-on-windows-11/"><u>Troubleshooting PC Audio Issues: Fixing Low Volume on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-techniques-to-amplify-volume-settings-on-your-windows-11-system/"><u>Ultimate Techniques to Amplify Volume Settings on Your Windows 11 System</u></a></li>
+</ul></div>
+
