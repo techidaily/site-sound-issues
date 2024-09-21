@@ -1,7 +1,7 @@
 ---
 title: Laptop Audio Problem? Here's How to Fix the Lack of Sound!
-date: 2024-09-13T17:44:43.271Z
-updated: 2024-09-16T17:12:58.807Z
+date: 2024-09-14T17:51:51.246Z
+updated: 2024-09-21T17:58:59.028Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ If this trick doesn’t work for you, please move to the next fix.
 
 If this fix doesn’t help, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Realtek driver issue
 
  If you have Realtek audio on your PC, this fix might be the right one for you. Realtek driver is sometimes corrupted on Windows 11 and it can lead to Windows 11 no sound or other audio issues. Here’s how to fix it.
@@ -81,40 +74,42 @@ If this fix doesn’t help, move to the next fix.
 1. Click the**Search** button on the bottom and type**device manager** . Then press the**Enter** key to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Check the sound on your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your Windows system
 
@@ -124,14 +119,15 @@ If this fix doesn’t help, move to the next fix.
 2. Click**Windows Update** \>**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
-4. After the whole process, restart your PC and check the effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. After the whole process, restart your PC and check the effect.
 
 ## Fix 5: Repair system files
 
@@ -147,6 +143,13 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -168,20 +171,20 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-making-money-with-vimeo-monetization-for-2024/"><u>[New] The Ultimate Guide to Making Money with Vimeo Monetization for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dynamic-photo-collage-hints-infuse-joy-into-life-for-2024/"><u>[Updated] Dynamic Photo Collage Hints Infuse Joy Into Life for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/4-effective-ways-to-captivate-ig-audiences-with-loop-videos/"><u>4 Effective Ways to Captivate IG Audiences with Loop Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-for-your-kotion-each-g2000-microphone-malfunctions/"><u>Comprehensive Fixes for Your Kotion Each G2000 Microphone Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g-pro-microphone-when-it-stops-working/"><u>How to Repair Your Logitech G Pro Microphone When It Stops Working</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-amplify-iphone-film-and-photo-experience-with-extra-gear/"><u>In 2024, Amplify iPhone Film & Photo Experience with Extra Gear</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimized-guide-fixing-pc-issues-for-a-smooth-cult-of-the-lamb-gaming-experience/"><u>Optimized Guide: Fixing PC Issues for a Smooth 'Cult of the Lamb' Gaming Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-methods-resolving-windows-10s-sound-malfunctions-with-ease/"><u>Quick-Fix Methods: Resolving Windows 10'S Sound Malfunctions with Ease</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-skipping-and-echo-effects-in-older-windows-operating-systems/"><u>Resolving Sound Skipping and Echo Effects in Older Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revitalize-your-audio-experience-advanced-methods-to-get-your-rust-microphone-working-again/"><u>Revitalize Your Audio Experience: Advanced Methods to Get Your Rust Microphone Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-zoom-conferences-volume-essential-tips-for-pc-owners/"><u>Reviving Your Zoom Conference's Volume: Essential Tips for PC Owners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-workflow-7-remarkable-benefits-of-using-chatgpt/"><u>Revolutionize Your Workflow: 7 Remarkable Benefits of Using ChatGPT</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-non-paged-memory-problems-a-complete-fix-for-windows-10-users/"><u>Solving Non-Paged Memory Problems: A Complete Fix for Windows ‪10 Users‬</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/teaching-you-how-to-restore-sound-on-a-malfunctioning-turtle-beach-elite-atlas-mic/"><u>Teaching You How To Restore Sound On A Malfunctioning Turtle Beach Elite Atlas Mic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-combat-guide-to-top-fps-games/"><u>[New] 2024 Approved The Ultimate Combat Guide to Top FPS Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-uniting-social-spheres-from-instagram-to-tiktok-triumphs-for-2024/"><u>[New] Uniting Social Spheres From Instagram to TikTok Triumphs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-tactical-approach-to-youtube-video-enhancement-with-imovie/"><u>[Updated] 2024 Approved A Tactical Approach to YouTube Video Enhancement with iMovie</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-fallout-eblack-screen-dilemma-troubleshooting-steps-and-tips/"><u>Fixing Fallout Eblack Screen Dilemma - Troubleshooting Steps & Tips!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-steelseries-arctis-pro-microphone-issues-a-comprehensive-guide/"><u>Fixing SteelSeries Arctis Pro Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-pova-6-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Pova 6 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-audacity-error-when-trying-to-play-sounds-top-5-solutions/"><u>How to Resolve Your Audacity Error When Trying to Play Sounds: Top 5 Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-repairs-for-a-silent-oculus-rift-s-mic-top-fixes-you-need-to-know/"><u>Instant Repairs for a Silent Oculus Rift S Mic - Top Fixes You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/iphone-audio-troubles-heres-how-you-can-restore-perfect-sound-quality/"><u>IPhone Audio Troubles? Here's How You Can Restore Perfect Sound Quality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-issue-fixing-multi-audio-services-not-operating/"><u>Resolving the Issue: Fixing Multi-Audio Services Not Operating</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-anthem-issue-restore-audio-on-windows-11/"><u>Solving the Silent Anthem Issue: Restore Audio on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-ai-search-engines-what-to-expect-from-openai-on-may-13th-beyond-just-chatgpt/"><u>The Future of AI Search Engines - What to Expect From OpenAI on May 13Th, Beyond Just ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/visioncapture-prox-briefing/"><u>VisionCapture ProX Briefing</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
 

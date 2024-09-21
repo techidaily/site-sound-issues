@@ -1,7 +1,7 @@
 ---
 title: "Revive the Music & Calls: Solving HP Laptop's No-Sound Problem in Windows 11 Easily!"
-date: 2024-09-09T20:37:21.179Z
-updated: 2024-09-16T20:48:24.866Z
+date: 2024-09-15T20:49:27.466Z
+updated: 2024-09-21T18:23:04.213Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ But first, ensure that your device has been connected and set correctly.
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Reboot your computer and check whether Anthem has sound or not.
 
 ### Fix 4: Uncheck “Disable all sound effects”
@@ -85,16 +78,24 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
-5. Click **Apply > OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+5. Click **Apply > OK** .
+
 6. Reboot your computer and go back to the game, you should have audio now.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your audio driver
 
@@ -110,22 +111,23 @@ But first, ensure that your device has been connected and set correctly.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
@@ -155,20 +157,21 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-breaking-down-instagrams-video-cap-limit/"><u>[New] Breaking Down Instagram's Video Cap Limit</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ideas-for-soundless-video-preservation/"><u>[Updated] 2024 Approved Ideas for Soundless Video Preservation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-aerial-angle-appraisal-overlook/"><u>2024 Approved Aerial Angle Appraisal Overlook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-guide-to-50-creative-free-youtube-advertising-options/"><u>2024 Approved Your Guide to 50 Creative, Free YouTube Advertising Options</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015504676-destiny-2-voice-chat-malfunction-heres-how-you-can-fix-it/"><u>Destiny 2 Voice Chat Malfunction? Here’s How You Can Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-resolving-audio-malfunctions-in-counter-strike-2-step-by-step/"><u>Expert Advice for Resolving Audio Malfunctions in Counter-Strike 2 – Step by Step</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-steps-to-resolve-your-cs-go-microphone-failure/"><u>Fixing the Issue: Steps to Resolve Your CS: GO Microphone Failure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-compatible-drivers-usb-to-hdmi-upgrade-tool-now-online/"><u>Get the Latest Compatible Drivers - USB to HDMI Upgrade Tool Now Online!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/getting-red-dead-redemption-2-up-and-running-fixes-for-when-the-game-wont-boot/"><u>Getting Red Dead Redemption 2 Up & Running: Fixes for When the Game Won't Boot</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-for-windows-10-users-expert-tips/"><u>How to Restore Audio Functionality for Windows 10 Users: Expert Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 with/without SIM Card</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014938044-realtek-audio-manager-failure-heres-your-definitive-fix/"><u>Realtek Audio Manager Failure? Here's Your Definitive Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-windows-auditory-glitches-fixing-speaker-noise-in-win7win11/"><u>Resolve Windows Auditory Glitches: Fixing Speaker Noise in Win7/Win11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/understanding-and-correcting-audible-disturbances-how-to-eradicate-that-irritating-hum-in-your-headset/"><u>Understanding and Correcting Audible Disturbances: How To Eradicate that Irritating Hum in Your Headset</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-youtubes-top-tales-who-to-follow-in-the-narrative-realm/"><u>[New] 2024 Approved YouTube's Top Tales Who to Follow in the Narrative Realm</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-peek-into-vegaspros-future-for-2024/"><u>[New] A Peek Into VegasPro's Future for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unlock-creative-communication-get-free-voice-effects-today/"><u>[New] In 2024, Unlock Creative Communication - Get FREE Voice Effects Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unified-streaming-techniques-for-youtube-and-top-networks/"><u>[New] Unified Streaming Techniques for YouTube & Top Networks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-expert-guide-moving-snaps-from-snapchat-app-effortlessly/"><u>[Updated] Expert Guide Moving Snaps From Snapchat App Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-restoration-techniques-for-fixing-sound-problems-in-windows-media-player/"><u>Audio Restoration Techniques for Fixing Sound Problems in Windows Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-restore-tozo-t6-functionality-on-windows-11/"><u>Effective Solutions to Restore Tozo T6 Functionality on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-user-experience-effortless-intuitive-conversation-via-chrome/"><u>Enhance User Experience: Effortless, Intuitive Conversation via Chrome</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-reviews-top-vertical-trackballs-of-2024-you-cant-miss/"><u>Expert Reviews: Top Vertical Trackballs of 2024 You Can't Miss</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-voice-chat-glitches-in-call-of-duty-modern-warfare-solutions/"><u>Fix Voice Chat Glitches in Call of Duty - Modern Warfare Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/high-quality-youtube-recording-techniques-for-2024/"><u>High-Quality YouTube Recording Techniques for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-stuttering-distortion-and-sound-irregularities-in-windows-operating-systems-guide/"><u>How to Eliminate Stuttering, Distortion & Sound Irregularities in Windows Operating Systems [Guide]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-front-panel-audio-jack-step-by-step-guide/"><u>How to Fix a Non-Functional Front Panel Audio Jack – Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-hp-laptops-audio-issues-with-these-proven-fixes/"><u>Resolve Your HP Laptop's Audio Issues with These Proven Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a23-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A23 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-why-isnt-my-turtle-beach-recon-not-working/"><u>Troubleshooting Guide: Why Isn't My Turtle Beach Recon Not Working?</u></a></li>
 </ul></div>
 

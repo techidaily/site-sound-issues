@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting G435 Bluetooth Earphones - Solving the Silent Audio Issue
-date: 2024-09-11T18:23:55.613Z
-updated: 2024-09-16T20:48:51.755Z
+date: 2024-09-15T20:01:19.589Z
+updated: 2024-09-21T16:57:53.807Z
 tags:
   - win11
   - win10
@@ -65,16 +65,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
@@ -92,10 +86,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
@@ -103,10 +97,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
@@ -116,16 +110,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
@@ -135,6 +123,13 @@ Here’s how to do it:
  6) Click the **Levels**  tab, and drag the slider to a proper volume.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
@@ -177,13 +172,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Right-click the microphone you are using and select**Properties** .
@@ -217,17 +205,19 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-windows-10-update-0x80240034-error/"><u>[Solved] Windows 10 Update 0X80240034 Error</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-list-of-preferred-mac-snipping-apps/"><u>[Updated] 2024 Approved The Ultimate List of Preferred Mac Snipping Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-how-to-make-money-on-youtube-shorts-effective-practical-ways-for-2024/"><u>[Updated] How to Make Money on YouTube Shorts? [Effective Practical Ways] for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y17s-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y17s? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bypassing-the-no-audio-devices-connected-problem-a-guide-for-windows-1087-users-with-external-speakers-or-headphones/"><u>Bypassing the 'No Audio Devices Connected' Problem: A Guide for Windows 10/8/7 Users with External Speakers or Headphones</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-recording-tips-capturing-video-from-macbook-pro/"><u>Essential Recording Tips Capturing Video From MacBook Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-laptops-headphone-jack-working-again-expert-advice-and-tricks/"><u>Getting Your Laptop's Headphone Jack Working Again – Expert Advice and Tricks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/instagram-engage-obs-live-streaming-for-2024/"><u>Instagram Engage OBS Live Streaming for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-ipad-recovery-mode-a-comprehensive-how-to-guide/"><u>Mastering iPad Recovery Mode: A Comprehensive How-To Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-nonworking-bose-audio-equipment/"><u>Solving Common Issues with Nonworking Bose Audio Equipment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-missing-hd-audio-on-your-nvidia-device-a-step-by-step-guide/"><u>Solving the Issue of Missing HD Audio on Your NVIDIA Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-leverage-video-platforms-with-targeted-sharing-techniques/"><u>[New] 2024 Approved Leverage Video Platforms with Targeted Sharing Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-practical-methods-for-instagram-story-capture/"><u>[New] 2024 Approved Practical Methods for Instagram Story Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-circle-construction-in-minecraft-the-ultimate-guide/"><u>[Updated] In 2024, Circle Construction in Minecraft The Ultimate Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-understanding-and-executing-photo-gender-modification-online/"><u>[Updated] In 2024, Understanding and Executing Photo Gender Modification Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-potential-of-videoleaps-zoom-functionality/"><u>2024 Approved Unlocking the Potential of VideoLeap's Zoom Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-gt-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme GT 5 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-quest-for-the-ultimate-linguistic-giant/"><u>A Quest for the Ultimate Linguistic Giant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015326252-diy-solution-to-get-your-astro-a50-headphones-mic-working-again/"><u>DIY Solution to Get Your Astro A50 Headphones' Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-silence-to-sounds-of-adventure-correcting-audio-glitches-in-pcs-valheim-gameplay/"><u>From Silence to Sounds of Adventure: Correcting Audio Glitches in PC's Valheim Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/insider-tips-for-restoring-the-full-feature-set-on-your-overwatch-game-including-push-to-talk/"><u>Insider Tips for Restoring the Full Feature Set on Your Overwatch Game, Including Push to Talk</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-sounds-of-stealth-with-these-tips-for-black-ops-cold-war-on-pc-solved/"><u>Master the Sounds of Stealth with These Tips for Black Ops: Cold War on PC [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/oculus-quest-ntrica-a-step-by-step-guide-to-resolving-microphone-problems/"><u>Oculus Quest Ntrica: A Step-by-Step Guide to Resolving Microphone Problems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screener-info-deconverter-for-2024/"><u>Screener Info Deconverter for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/transform-your-videos-into-stunning-dvds-with-ease-for-2024/"><u>Transform Your Videos Into Stunning DVDs with Ease for 2024</u></a></li>
 </ul></div>
 

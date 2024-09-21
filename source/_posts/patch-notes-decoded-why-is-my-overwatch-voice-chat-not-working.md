@@ -1,7 +1,7 @@
 ---
 title: "Patch Notes Decoded: Why Is My Overwatch Voice Chat Not Working?"
-date: 2024-09-12T17:47:52.832Z
-updated: 2024-09-16T19:32:29.664Z
+date: 2024-09-17T19:43:34.563Z
+updated: 2024-09-21T18:01:54.374Z
 tags:
   - win11
   - win10
@@ -102,22 +102,16 @@ Here’s how to update drivers with Driver Easy:
   
 ![open sound setitngs](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Output** and**Input** section, make sure your audio device is set correctly.  
   
 ![set input and output device correctly](https://images.drivereasy.com/wp-content/uploads/2020/12/input-and-output-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, follow the steps below to set your audio device as the Default Communication Device:
 
@@ -125,18 +119,18 @@ Here’s how to update drivers with Driver Easy:
   
 ![set audio device as default Discord can't hear anyone](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Sounds.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the**Playback** tab. Click on your audio device. Then in the lower right, click on the drop-down menu next to the**Set Default** option and select**Default Communication Device** .
 
  3) Click**Apply > OK** to apply the changes. Then open the Discord app to check if you can hear your people now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Use the correct output device
 
@@ -151,10 +145,10 @@ Here’s how to update drivers with Driver Easy:
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Exit the Settings and you should be able to hear something from Discord.
@@ -188,21 +182,14 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-10-affordable-mobile-apps-to-boost-your-images-visual-impact/"><u>[New] 10 Affordable Mobile Apps to Boost Your Image's Visual Impact</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-your-online-presence-with-captivating-haul-videos/"><u>[New] Elevate Your Online Presence with Captivating Haul Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-quick-guide-applying-on-screen-captions-to-photos-videos/"><u>[New] In 2024, Quick Guide Applying On-Screen Captions to Photos Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>[New] Invest in Cinematic Success Top Ten Cameras for Filmmakers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-from-basics-to-brilliance-a-complete-guide-to-writing-impactful-biographies/"><u>[Updated] From Basics to Brilliance A Complete Guide to Writing Impactful Biographies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-snapsnatcher-fb-media-extraction/"><u>[Updated] In 2024, SnapSnatcher FB Media Extraction</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-zoom-breakout-rooms-for-newcomers-explored/"><u>2024 Approved Zoom Breakout Rooms for Newcomers Explored</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/airpods-mic-malfunctioning-on-windows-11-heres-what-you-need-to-do/"><u>AirPods Mic Malfunctioning on Windows 11? Here's What You Need to Do</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bypassing-error-messages-in-audacity-a-comprehensive-guide-to-fixing-the-open-sound-device-glitch-5-solutions/"><u>Bypassing Error Messages in Audacity: A Comprehensive Guide to Fixing the 'Open Sound Device' Glitch [5 Solutions]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016823848-educational-purposes/"><u>Educational Purposes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-13t-pro-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on 13T Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-from-download-to-implementation-installing-obs-on-a-macpc/"><u>In 2024, From Download to Implementation Installing OBS on a MacPC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-troubleshooting-guide-for-call-of-duty-black-ops-cold-war-on-pc/"><u>No Audio Troubleshooting Guide for Call of Duty: Black Ops Cold War on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-challenges-with-logitech-webcam-and-microphone-syncing/"><u>Overcoming Common Challenges with Logitech Webcam & Microphone Syncing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016317209-solve-the-problem-of-a-non-functioning-logitech-g4-groove-mic-with-easy-fixes/"><u>Solve the Problem of a Non-Functioning Logitech G4 Groove Mic with Easy Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016216268-usb-headphones-not-working-solve-sound-issues-on-windows-7-easily/"><u>USB Headphones Not Working? Solve Sound Issues on Windows 7 Easily!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pixelprofilers-picks-top-tools-for-your-screen-snapping-needs/"><u>[New] 2024 Approved PixelProfiler's Picks Top Tools for Your Screen Snapping Needs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-pinnacle-platforms-alternatives-to-the-oldest-birdcalls/"><u>[New] Pinnacle Platforms Alternatives to the Oldest Birdcalls</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-update-your-shorts-are-visible-again/"><u>[New] YouTube Update - Your Shorts Are Visible Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/buying-fortnite-v-bucks-for-sony-psp5-console/"><u>Buying Fortnite V-Bucks for Sony PSP5 Console</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016910613-corsair-audio-problems-heres-how-you-can-get-them-working-again/"><u>Corsair Audio Problems? Here's How You Can Get Them Working Again</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-windows-compatible-focusrite-scarlett-nv-2i2-driver-software-instant-access/"><u>Download the Latest Windows-Compatible Focusrite Scarlett Nv 2I2 Driver Software - Instant Access</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-troubleshooting-your-hearthstone-audio-problems/"><u>Fixing Silent Gameplay: Troubleshooting Your Hearthstone Audio Problems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-honor-x50i-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Honor X50i FRP Bypass</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-malfunctions-heres-the-solution-for-windows-users/"><u>MPOW Microphone Malfunctions? Here's the Solution for Windows Users</u></a></li>
 </ul></div>
 

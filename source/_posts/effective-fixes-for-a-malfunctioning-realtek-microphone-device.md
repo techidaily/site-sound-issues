@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for a Malfunctioning Realtek Microphone Device
-date: 2024-09-11T20:41:40.800Z
-updated: 2024-09-16T19:35:31.823Z
+date: 2024-09-18T19:32:55.519Z
+updated: 2024-09-21T16:17:26.845Z
 tags:
   - win11
   - win10
@@ -71,47 +71,43 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 1. In the Windows search box, type**control** and select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
-3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
+3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -166,20 +162,18 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-sonic-spellbook-can-you-alter-your-speech-discover-different-magical-solutions/"><u>[New] Sonic Spellbook Can You Alter Your Speech? Discover Different Magical Solutions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-essential-guide-for-entrepreneurs-on-igs-business-landscape/"><u>[New] The Essential Guide for Entrepreneurs on IG's Business Landscape</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-reign-supreme-on-facebook-mastering-keyword-seo-techniques/"><u>[Updated] Reign Supreme on Facebook Mastering Keyword SEO Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-ps3-emulators-your-gateway-to-classic-games-for-2024/"><u>[Updated] Top Ps3 Emulators Your Gateway to Classic Games for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016389767-astro-a50-hearing-troubles-fast-track-to-resolving-the-soundless-dilemma/"><u>Astro A50 Hearing Troubles? Fast Track to Resolving the Soundless Dilemma!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722871973366-best-iphone-gps-applications-our-top-picks-revealed/"><u>Best iPhone GPS Applications: Our Top Picks Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-for-when-discords-voice-chat-isnt-working-as-intended/"><u>Comprehensive Solutions for When Discord's Voice Chat Isn't Working as Intended</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-wow-voice-chat-glitches-successfully/"><u>Expert Tips for Resolving WoW Voice Chat Glitches Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-failure-on-steelseries-arctis-headsets-the-ultimate-guide-to-restoration/"><u>Overcoming Microphone Failure on SteelSeries Arctis Headsets: The Ultimate Guide to Restoration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-skipping-and-echo-effects-in-older-windows-operating-systems/"><u>Resolving Sound Skipping and Echo Effects in Older Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-zoom-conferences-volume-essential-tips-for-pc-owners/"><u>Reviving Your Zoom Conference's Volume: Essential Tips for PC Owners</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor X50i+</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/teaching-you-how-to-restore-sound-on-a-malfunctioning-turtle-beach-elite-atlas-mic/"><u>Teaching You How To Restore Sound On A Malfunctioning Turtle Beach Elite Atlas Mic</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-no-audio-on-your-chromecast-device/"><u>Troubleshooting Guide: Resolving No Audio on Your Chromecast Device</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-expert-timekeeping-tools-without-a-price/"><u>[New] In 2024, Expert Timekeeping Tools Without a Price</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-journey-through-high-definition-with-lgs-31mu97-b-screen-review/"><u>[Updated] 2024 Approved Journey Through High Definition with LG’s 31MU97-B Screen Review</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-time-stamps-on-youtube-videos/"><u>2024 Approved Mastering Time Stamps on YouTube Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dell-sound-problem-master-swift-strategies-for-immediate-resolution/"><u>Dell Sound Problem? Master Swift Strategies for Immediate Resolution!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-dynamic-news-endings-for-2024/"><u>Drafting Dynamic News Endings for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-struggling-to-open-realteks-hd-audio-manager/"><u>Effective Fixes When Struggling to Open Realtek's HD Audio Manager</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>In 2024, How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplified-process-for-deleting-multiple-connections-in-snapchat/"><u>Simplified Process for Deleting Multiple Connections in Snapchat</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-p55-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015923517-troubleshoot-your-dell-sound-issues-in-minutes-with-these-simple-tips/"><u>Troubleshoot Your Dell Sound Issues in Minutes with These Simple Tips!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-logitech-g933-mouse-quick-guide-to-restoring-audio/"><u>Troubleshooting the Logitech G933 Mouse: Quick Guide to Restoring Audio</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-lava-yuva-2-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Lava Yuva 2</u></a></li>
 </ul></div>
 

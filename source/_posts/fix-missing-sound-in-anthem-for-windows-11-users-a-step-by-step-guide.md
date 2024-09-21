@@ -1,7 +1,7 @@
 ---
 title: "Fix Missing Sound in Anthem for Windows 11 Users: A Step-by-Step Guide"
-date: 2024-09-12T20:03:03.563Z
-updated: 2024-09-16T16:59:24.280Z
+date: 2024-09-19T19:25:47.870Z
+updated: 2024-09-21T20:38:00.261Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 If Windows fails to detect your issue, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your audio driver
 
  If you can’t hear any sound while gaming on Apex Legends, chances are that you’re using a wrong or outdated audio driver. It’s essential that you have the latest correct audio driver at all times.
@@ -104,10 +97,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -130,6 +123,13 @@ OR
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Apex Legends
 
  If none of the fixes above helped, reinstalling Apex Legends is very likely the solution to your issue. Here is how to do it:
@@ -141,10 +141,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
@@ -175,19 +175,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dive-into-the-art-of-asmr-recording-a-comprehensive-overview-for-2024/"><u>[New] Dive Into the Art of ASMR Recording – A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-easy-ways-to-get-free-views-on-youtube-alternative-methods-for-2024/"><u>[Updated] Easy Ways To Get Free Views on YouTube! Alternative Methods for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expertly-edit-extravagant-tiktoks-your-key-to-less-overloaded-drafts/"><u>[Updated] Expertly Edit Extravagant TikToks Your Key to Less Overloaded Drafts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/asuss-proart-pa-329q-an-elite-professional-4k-display-examination-for-2024/"><u>Asus's ProArt PA 329Q – An Elite Professional 4K Display Examination for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/best-tiktok-video-editing-tips-for-2024/"><u>Best Tiktok Video Editing Tips for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-ways-to-eliminate-bluetooth-speaker-lag-for-smooth-playback/"><u>Easy Ways to Eliminate Bluetooth Speaker Lag for Smooth Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-sound-capture-overcoming-desktop-mic-glitches-in-obs/"><u>Expert Tips to Restore Sound Capture: Overcoming Desktop Mic Glitches in OBS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-not-functional-heres-how-you-can-get-it-working-again/"><u>Logitech G533 Microphone Not Functional? Here's How You Can Get It Working Again!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-through-the-excitement-thorough-assessment-of-nhl-19s-virtual-arenas/"><u>Navigate Through the Excitement: Thorough Assessment of NHL 19'S Virtual Arenas</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-and-shortcuts-mastering-the-art-of-pc-screenshots/"><u>Quick Fixes & Shortcuts: Mastering the Art of PC Screenshots</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-g533-mic-problems-step-by-step-fixes/"><u>Troubleshooting Logitech G533 Mic Problems - Step-by-Step Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hdmi-and-aux-output-problems-connected-and-plugged-in-tips/"><u>Troubleshooting Realtek HDMI and AUX Output Problems: Connected & Plugged In Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-tips-repairing-a-non-functional-rust-microphone/"><u>Ultimate Troubleshooting Tips: Repairing a Non-Functional Rust Microphone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-using-vlc-for-videos-for-2024/"><u>[New] Ultimate Guide Using VLC for Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-portable-cost-free-software-transforming-laptop-viewers/"><u>2024 Approved Portable, Cost-Free Software Transforming Laptop Viewers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-storm-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava Storm 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-connection-problems-restoring-front-inputoutput-jack-functionality/"><u>Audio Connection Problems: Restoring Front Input/Output Jack Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-track-microphone-diagnosis-ensuring-optimal-audio-performance/"><u>Fast-Track Microphone Diagnosis: Ensuring Optimal Audio Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-a05-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy A05? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-s23plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel S23+ without App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/invisible-input-concealing-commands-in-windows-11-ui/"><u>Invisible Input: Concealing Commands in Windows 11 UI</u></a></li>
+<li><a href="https://facebook.techidaily.com/maintain-your-anonymity-elude-these-three-risks/"><u>Maintain Your Anonymity: Elude These Three Risks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repairing-windows-scanner-connectivity-problems/"><u>Repairing Windows Scanner Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-output-in-your-mute-laptop-expert-strategies-and-tips/"><u>Reviving Audio Output in Your Mute Laptop – Expert Strategies and Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sleek-design-meets-bright-performance-the-ultimate-guide-to-the-taotronics-tt-dl16-led-lamp/"><u>Sleek Design Meets Bright Performance - The Ultimate Guide to the TaoTronics TT-DL16 LED Lamp</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-3-strategies-for-clear-online-interaction-4/"><u>Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-the-lucidsound-ls30-microphone-when-it-stops-working/"><u>Troubleshoot and Repair the LucidSound LS30 Microphone When It Stops Working</u></a></li>
 </ul></div>
 

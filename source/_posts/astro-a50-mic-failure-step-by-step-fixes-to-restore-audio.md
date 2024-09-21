@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Mic Failure? Step-by-Step Fixes to Restore Audio
-date: 2024-09-15T19:18:04.801Z
-updated: 2024-09-16T21:07:19.709Z
+date: 2024-09-15T17:27:25.889Z
+updated: 2024-09-21T21:13:42.256Z
 tags:
   - win11
   - win10
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 3. Right-click any empty space and tick**Show Disabled Devices** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-3-1.jpg)
@@ -102,15 +102,22 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-4-1.jpg)
 5. Select the**Jabra Headphones** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-5-1.jpg)
 6. Back to your desktop, right-click the**speaker icon** at the lower-right corner of the taskbar and select**Open Volume mixer** .  
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/1-2.jpg)
 7. Hold and drag each slider to turn up the volume.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/1-1-1.jpg)
@@ -131,6 +138,14 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 1. Type**bluetooth** on the Windows search bar and select**Bluetooth and other devices settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-1.jpg)
 2. If you see your Jabra headphone is listed under Audio, click it and click**Remove device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-3.jpg)
 3. Turn off your Bluetooth for a few seconds and toggle it on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-4.jpg)
@@ -145,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 Does your Jabra headset work now? If not, try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4 – Check for damaged system files
@@ -164,16 +179,10 @@ Does your Jabra headset work now? If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If restoring your computer still failed, there is the last method to try.
@@ -187,13 +196,6 @@ If restoring your computer still failed, there is the last method to try.
 3. Navigate to the**Updates** tab. Then, click the**Update** button next to each available device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/firmware-update-1.jpg)
 4. Select the language you prefer and click**Update** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/firmware-update-2.jpg)
 5. Click**Ok** when the update completes.  
@@ -223,19 +225,18 @@ If restoring your computer still failed, there is the last method to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-decadal-list-prime-meme-designs/"><u>[New] 2024 Approved Decadal List Prime Meme Designs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-maximizing-visibility-with-instagrams-highlight-system/"><u>[Updated] In 2024, Maximizing Visibility with Instagram's Highlight System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-revolutionizes-laptop-performance-with-zenbook-s-and-tuf-a14-merging-intel-elegance-with-amd-strength/"><u>Asus Revolutionizes Laptop Performance with ZenBook S and TUF A14: Merging Intel Elegance with AMD Strength</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-performance-seamless-intel-iris-graphics-540-driver-updates-unveiled/"><u>Boost Performance: Seamless Intel Iris Graphics 540 Driver Updates Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bring-your-logitech-g430-microphone-back-to-life-essential-fixes-for-non-functional-issues/"><u>Bring Your Logitech G430 Microphone Back to Life: Essential Fixes for Non-Functional Issues</u></a></li>
-<li><a href="https://article-tips.techidaily.com/chromatic-coherence-helper/"><u>Chromatic Coherence Helper</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-discords-push-to-talk-feature-a-comprehensive-troubleshooting-guide/"><u>Fixing Discord's Push-to-Talk Feature: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-wont-boot-troubleshooting-the-all-too-common-bright-display-problem/"><u>Laptop Won’t Boot? Troubleshooting the All-Too-Common Bright Display Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solution-resolving-your-astro-a20-microphone-issues/"><u>Quick Solution: Resolving Your Astro A20 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-blackshark-v2-mic-issues-learn-how-to-restore-its-functionality/"><u>Razer BlackShark V2 Mic Issues? Learn How to Restore Its Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battlefields-how-to-restore-audio-on-your-battlefield-4-game/"><u>Silent Battlefields: How to Restore Audio on Your Battlefield 4 Game</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/stand-out-design-and-customize-professional-logos-via-free-templates-for-2024/"><u>Stand Out Design and Customize Professional Logos via Free Templates for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-microsoft-edges-stability-issues-in-windows-11/"><u>Troubleshooting Microsoft Edge's Stability Issues in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-an-unresponsive-epson-scan-on-windows-11/"><u>Troubleshooting Steps for an Unresponsive Epson Scan on Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unleash-creativity-complimentary-premiere-pro-toolset/"><u>[Updated] Unleash Creativity - Complimentary Premiere Pro Toolset</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-soundscapes-spectrum-music-finder-service/"><u>2024 Approved Soundscapes Spectrum Music Finder Service</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-startup-failures-for-the-new-frontiers-of-pandora-add-on/"><u>Addressing Startup Failures for the New 'Frontiers of Pandora' Add-On</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-solutions-resolving-silent-issues-with-your-astro-a50-speakers/"><u>Fast Solutions: Resolving Silent Issues with Your Astro A50 Speakers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-stream-graphics-drivers-fast-start-here/"><u>Get the Latest HP Stream Graphics Drivers Fast: Start Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-easily-repair-google-hangouts-microphone-malfunctions/"><u>How to Easily Repair Google Hangouts Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-a-non-working-logitech-g230-microphone-expert-tips/"><u>How to Restore Sound on a Non-Working Logitech G230 Microphone: Expert Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-push-to-talk-problems-a-step-by-step-guide-to-fixing-your-overwatch-chat-setup/"><u>Overcoming Push-to-Talk Problems: A Step-by-Step Guide to Fixing Your Overwatch Chat Setup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-itel-p55-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Itel P55 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-windows-7-microphone-issues-a-comprehensive-guide/"><u>Troubleshoot and Fix Windows 7 Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-repairing-non-functional-subtitles-on-amazon-prime-videos/"><u>Troubleshooting Guide: Repairing Non-Functional Subtitles on Amazon Prime Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015630015-win7-hdmi-sounds-not-playing-heres-how-to-get-it-working-again/"><u>Win7 HDMI Sounds Not Playing? Here's How to Get It Working Again</u></a></li>
 </ul></div>
 

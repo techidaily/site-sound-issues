@@ -1,7 +1,7 @@
 ---
 title: "Revive the Sound of Your Astro A50: Correcting Mic Malfunctions"
-date: 2024-09-15T17:14:42.514Z
-updated: 2024-09-16T18:40:06.054Z
+date: 2024-09-18T17:41:13.300Z
+updated: 2024-09-21T20:05:06.571Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
  Test how the microphone works in Beyond The Wire. If the mic-not-working issue reoccurs, read on to more solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Configure the sound settings correctly
 
  To use your microphone properly, it’s essential to make everything right in your sound settings. If you don’t know how, simply follow the steps below:
@@ -72,6 +79,13 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Recording** tab. Then, right-click on any empty space and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-0-2.jpg)
@@ -80,30 +94,37 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click the microphone you’re using and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Click the**Levels** tab. If your microphone is muted, click the**speaker icon** to unmute it. Then, drag the slider to**set the microphone volume to the max** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you’ve set your desired microphone as the default device, disabled other microphones, and also turned up the volume to the max, it should be working fine when you’re playing Beyond The Wire. If not, check out the next fix below.
@@ -123,19 +144,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 **2)** Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -149,13 +157,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
  Now check whether you’re able to use the microphone normally in Beyond The Wire or not. If the problem persists, please try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Run Beyond The Wire as an administrator
 
  When you run a game as an administrator, it will access unrestricted privileges. Many players suggest putting Beyond The Wire in the administrator mode as this amazingly solved the mic-not-working issue.
@@ -163,19 +164,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 **1)** Right-click the Beyond The Wire icon on your desktop, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
@@ -206,21 +194,14 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>[New] In 2024, Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-10-premier-off-line-ipad-apps-for-pure-gaming-bliss/"><u>[New] In 2024, Top 10 Premier Off-Line iPad Apps for Pure Gaming Bliss</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-explore-affordable-cross-platform-video-chat-platforms-for-windowsmac/"><u>[Updated] Explore Affordable, Cross-Platform Video Chat Platforms for Windows/Mac</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-complete-pathway-to-personalized-ios-ringtones-for-2024/"><u>[Updated] The Complete Pathway to Personalized iOS Ringtones for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-6-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 6 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bypassing-error-messages-in-audacity-a-comprehensive-guide-to-fixing-the-open-sound-device-glitch-5-solutions/"><u>Bypassing Error Messages in Audacity: A Comprehensive Guide to Fixing the 'Open Sound Device' Glitch [5 Solutions]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016279135-corsair-hs60-mic-malfunction-heres-what-you-need-to-know/"><u>Corsair HS60 Mic Malfunction? Here's What You Need to Know!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discover-how-to-restore-hearing-capabilities-in-your-discord-calls/"><u>Discover How to Restore Hearing Capabilities in Your Discord Calls</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-airpods-mic-working-again-on-a-windows-11-pc-a-step-by-step-guide/"><u>Getting Your AirPods Mic Working Again on a Windows 11 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-introductory-handbook-on-video-quality-and-size/"><u>In 2024, Introductory Handbook on Video Quality and Size</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-premier-movie-sneak-peeks-ensemble/"><u>In 2024, Premier Movie Sneak Peeks Ensemble</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-creative-potential-adding-sound-to-your-instagram-stories/"><u>In 2024, Unlock Creative Potential Adding Sound to Your Instagram Stories</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-challenges-with-logitech-webcam-and-microphone-syncing/"><u>Overcoming Common Challenges with Logitech Webcam & Microphone Syncing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-razer-blackshark-v2-microphone-failures/"><u>Troubleshooting Tips for Razer BlackShark V2 Microphone Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016216268-usb-headphones-not-working-solve-sound-issues-on-windows-7-easily/"><u>USB Headphones Not Working? Solve Sound Issues on Windows 7 Easily!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/amplify-visual-content-embedding-audio-on-instagram-reels-for-2024/"><u>Amplify Visual Content Embedding Audio on Instagram Reels for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-restoring-audio-on-your-astro-a50-speaker-in-a-flash/"><u>Fixing the Issue: Restoring Audio on Your Astro A50 Speaker in a Flash</u></a></li>
+<li><a href="https://discover-best.techidaily.com/how-to-effortlessly-rip-a-dvd-onto-your-computer-in-202e-discover-the-best-techniques/"><u>How to Effortlessly Rip a DVD Onto Your Computer in 202E: Discover the Best Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-essential-websites-for-accessing-lofi-artwork-and-soundtracks/"><u>In 2024, Essential Websites for Accessing Lofi Artwork and Soundtracks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c67-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C67 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-loop-repeat-and-relax-top-10-free-video-looping-services-for-2024/"><u>New Loop, Repeat, and Relax Top 10 Free Video Looping Services for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-playback-problems-starting-the-dolby-sound-driver-on-windows-10-successfully/"><u>Resolving Playback Problems: Starting the Dolby Sound Driver on Windows 10 Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-tunes-troubleshooting-silent-windows-media-player-problems/"><u>Reviving Your Tunes: Troubleshooting Silent Windows Media Player Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-nas-devices-choose-the-right-network-storage-drive-for-effortless-backups-and-media-management/"><u>The Best NAS Devices: Choose the Right Network Storage Drive for Effortless Backups & Media Management</u></a></li>
 </ul></div>
 

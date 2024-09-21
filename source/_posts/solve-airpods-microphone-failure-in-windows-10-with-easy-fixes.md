@@ -1,7 +1,7 @@
 ---
 title: Solve 'AirPods Microphone Failure' In Windows 10 with Easy Fixes
-date: 2024-09-12T20:41:58.202Z
-updated: 2024-09-16T16:23:42.790Z
+date: 2024-09-20T20:21:22.567Z
+updated: 2024-09-21T18:25:42.703Z
 tags:
   - win11
   - win10
@@ -69,31 +69,19 @@ There’re 2 ways to update drivers, manually and automatically.
  Then, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Click **Bluetooth** to expand the category. Right-click your Bluetooth adapter and select **Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
 4. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your PC and check your AirPods mic.
 
@@ -109,6 +97,13 @@ There’re 2 ways to update drivers, manually and automatically.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your Bluetooth driver, reboot your PC to check if you can use AirPods microphone on Windows.
@@ -116,10 +111,10 @@ There’re 2 ways to update drivers, manually and automatically.
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install Windows updates
@@ -131,15 +126,16 @@ So follow the steps below to install the latest Windows updates.
 1. Press the **Windows logo key** and**I** at the same time on your keyboard to open Windows Settings. Then, click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. In the Windows Update panel, click **Check for updates** . Windows will check and download the latest available patches automatically.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  
- If you see “You’re up to date” after clicking the button, your PC confirms that it has all Windows updates.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  
+ If you see “You’re up to date” after clicking the button, your PC confirms that it has all Windows updates.
 
 3. Restart your PC and check the AirPods microphone after the whole process is finished.
 
@@ -172,19 +168,15 @@ If this fix doesn’t work for you, the next one might suit you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-effortless-screen-capture-on-chrome-os-devices/"><u>[Updated] 2024 Approved Effortless Screen Capture on Chrome OS Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pinnacle-creation-hub-synopsis-studio-assessment-2023/"><u>[Updated] In 2024, Pinnacle Creation Hub Synopsis, Studio Assessment 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-laughlineart-memogallery/"><u>[Updated] LaughLineArt MemoGallery</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-p40-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from P40</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-the-broken-mic-problem-on-your-steelseries-arctis-9-or-9x-gaming-headset/"><u>Expert Tips for Fixing the Broken Mic Problem on Your SteelSeries Arctis 9 or 9X Gaming Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-windows-10-speaker-problems/"><u>Expert Tips for Resolving Windows 10 Speaker Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-the-nvidia-not-connected-screen-problem/"><u>Expert Tips: Resolving the 'Nvidia Not Connected' Screen Problem</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/google-wifi-review/"><u>Google Wifi Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>In 2024, Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/must-know-windows-10-tips-and-tricks/"><u>Must-Know Windows 10 Tips and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-reviving-steelseries-arctis-primes-malfunctioning-communication-device-mic/"><u>Solved: Reviving SteelSeries Arctis Prime's Malfunctioning Communication Device (Mic)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solution-for-enabling-idt-premium-stereo-drivers-on-modern-windows-10-machines/"><u>Ultimate Solution for Enabling IDT Premium Stereo Drivers on Modern Windows 10 Machines</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-crystal-clear-communication-in-fortnite-quick-solutions-for-a-deaf-microphone/"><u>Unlock Crystal Clear Communication in Fortnite – Quick Solutions for a Deaf Microphone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-jumpstart-your-social-media-success-instagrams-top-9-hacks/"><u>[New] Jumpstart Your Social Media Success Instagram's Top 9 Hacks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-thumbnail-101-phones-edition-for-2024/"><u>[New] YouTube Thumbnail 101 Phones Edition for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-creativity-how-to-make-a-hit-music-reaction-video-on-yotube-for-2024/"><u>[Updated] Unleashing Creativity How to Make a Hit Music Reaction Video on YoTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-getting-your-stereo-sound-back-in-action/"><u>DIY Solutions: Getting Your Stereo Sound Back in Action!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-se-2022-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone SE (2022)? How to Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-fixes-for-preventing-browser-hiccups-stabilize-chrome-in-windows-10/"><u>Seamless Fixes for Preventing Browser Hiccups: Stabilize Chrome in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-your-bluetooth-device-is-connected-but-has-no-sound/"><u>Solved! Why Your Bluetooth Device Is Connected but Has No Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-dell-audio-problems-with-these-easy-steps/"><u>Troubleshoot Dell Audio Problems with These Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-modems-fixing-post-windows-10-sound-issues/"><u>Troubleshooting Silent Modems: Fixing Post-Windows 10 Sound Issues</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-free-online-video-loopers/"><u>Updated Top 10 Free Online Video Loopers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for the Astro A20's Non-Working Mic Problem
-date: 2024-09-11T19:00:56.604Z
-updated: 2024-09-16T18:04:41.616Z
+date: 2024-09-17T17:09:12.216Z
+updated: 2024-09-21T17:14:37.703Z
 tags:
   - win11
   - win10
@@ -88,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -96,22 +103,16 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
@@ -120,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Right click on your microphone again and select**Set as Default Device** .
 
@@ -137,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
@@ -181,19 +175,17 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-commanders-crusade-revealing-the-best-of-7-total-war-sagas/"><u>[Updated] 2024 Approved Commanders' Crusade Revealing the Best of 7 Total War Sagas</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-mac-compatible-video-editors-the-ultimate-top-10-list/"><u>Best Mac-Compatible Video Editors: The Ultimate Top 10 List</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/critical-fixes-for-when-your-corsair-hs70-mic-stops-working/"><u>Critical Fixes for When Your Corsair HS70 Mic Stops Working</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/hustle-free-download-free-gif-conversion-tools-ranked/"><u>Hustle-Free, Download-Free GIF Conversion Tools Ranked</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-sky-high-creations-professional-tips-for-drone-video-mastery/"><u>In 2024, Sky High Creations Professional Tips for Drone Video Mastery</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/laptop-volume-silence-discover-how-to-restore-your-devices-sound-capabilities/"><u>Laptop Volume Silence? Discover How to Restore Your Device's Sound Capabilities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/navigating-through-nvidia-essential-steps-for-restoring-high-definition-sound/"><u>Navigating Through Nvidia: Essential Steps for Restoring High-Definition Sound</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-text-generator-for-2024/"><u>New What Is an AI Text Generator for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-nonworking-bose-audio-equipment/"><u>Solving Common Issues with Nonworking Bose Audio Equipment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-missing-hd-audio-on-your-nvidia-device-a-step-by-step-guide/"><u>Solving the Issue of Missing HD Audio on Your NVIDIA Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-training-data-includes-a-diverse-range-of-internet-text-but-its-important-to-note-that-grover-is-designed-more-with-content-generation-in-mind-rather-th625/"><u>The Training Data Includes a Diverse Range of Internet Text, but It's Important to Note that Grover Is Designed More with Content Generation in Mind Rather than Deep Specialization Like Legal Reasoning.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-best-live-streaming-apps-list-for-youtube-content-creators-iosandroid/"><u>[New] In 2024, The Best Live Streaming Apps List for YouTube Content Creators (iOS/Android)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-optimize-youtube-tagstitledescription-for-more-views-for-2024/"><u>[Updated] How to Optimize YouTube Tags/Title/Description for More Views for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-correcting-outriders-audio-malfunctions/"><u>Effective Solutions for Correcting Outriders' Audio Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-silence-expert-advice-for-addressing-it-takes-two-voice-issues-on-desktops/"><u>Eliminate Silence: Expert Advice for Addressing It Takes Two Voice Issues on Desktops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-your-hands-on-hot-deals-for-top-tier-samsung-electronics-limited-time-offer/"><u>Get Your Hands On Hot Deals For Top-Tier Samsung Electronics - Limited Time Offer!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-s17e-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo S17e Phone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lottery/"><u>Lottery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-hacker-tutorial-resolve-black-ops-cold-war-sound-problems-on-windows-and-linux-systems/"><u>Master Hacker Tutorial: Resolve Black Ops Cold War Sound Problems on Windows and Linux Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-logitech-g533-headset-microphone-problems-step-by-step-solutions/"><u>Resolve Your Logitech G533 Headset Microphone Problems - Step-by-Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-google-chrome-quiet-fixing-the-silence-issue-step-by-step/"><u>Why Is My Google Chrome Quiet? Fixing the Silence Issue Step by Step</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wireless-adapter-compatibility-no-more-resolved-with-windows-fix/"><u>Wireless Adapter Compatibility No More: Resolved with Windows Fix</u></a></li>
 </ul></div>
 

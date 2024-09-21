@@ -1,7 +1,7 @@
 ---
 title: Resolved! Sony Wireless Noise-Cancelling Headset Issue - Microphone Not Functional on PC
-date: 2024-09-09T17:44:18.450Z
-updated: 2024-09-16T16:09:36.856Z
+date: 2024-09-18T17:28:33.774Z
+updated: 2024-09-21T20:53:11.563Z
 tags:
   - win11
   - win10
@@ -109,10 +109,10 @@ If this fix didn’t help, please try out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-109.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On the next page, scroll down and select**Razer ManO’War** .
@@ -124,16 +124,10 @@ If this fix didn’t help, please try out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-111.png)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Find the one compatible with your operating system, and click**Download** .
@@ -164,18 +158,18 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We’re always here to help.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware malfunction
 
@@ -210,17 +204,18 @@ If this fix didn’t help, please try out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-pathway-from-webp-files-to-jpegs/"><u>[New] In 2024, The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-wealth-wave-on-your-screen-monetizing-as-a-streamer/"><u>[Updated] Wealth Wave on Your Screen Monetizing as a Streamer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-lenovo-legion-5-pro-drivers-compatible-with-model-16ach6h/"><u>Download Lenovo Legion 5 Pro Drivers - Compatible with Model 16ACH6H</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-troubleshooting-steps-to-restore-sounds-on-your-desktop-or-laptop/"><u>Easy Troubleshooting Steps to Restore Sounds on Your Desktop or Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-airpods-microphone-not-working-on-microsofts-latest-operating-system/"><u>Effective Fixes for AirPods Microphone Not Working on Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-12plus-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme 12+ 5G Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-synergy-of-business-and-virtual-experience-design/"><u>In 2024, The Synergy of Business and Virtual Experience Design</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-xcover-7frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy XCover 7FRP Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015959378-realtek-microphone-troubles-heres-what-you-need-to-do/"><u>Realtek Microphone Troubles? Here's What You Need to Do</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-alt-codes-glitches-50-characters/"><u>Resolving Windows ALT Codes Glitches (50 Characters)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sound-effective-remedies-for-a-broken-corsair-hs60-headset-microphone/"><u>Restoring Sound: Effective Remedies for a Broken Corsair HS60 Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-and-apple-airpods-restoring-microphone-functionality-in-simple-ways/"><u>Windows 10 and Apple AirPods: Restoring Microphone Functionality in Simple Ways</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-10-apps-to-boost-audio-velocity/"><u>[Updated] In 2024, Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-fcp-tutorial-for-new-users/"><u>2024 Approved Ultimate FCP Tutorial for New Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-guide-to-restoring-sound-post-windows-11-enhancement/"><u>Effortless Guide to Restoring Sound Post-Windows 11 Enhancement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-solve-razer-barracuda-x-mic-issues-under-windows-1110-operating-systems/"><u>Expert Tips to Solve Razer Barracuda X Mic Issues Under Windows 11/10 Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-tracks-a-comprehensive-solution-for-obs-microphone-problems/"><u>Fixing Silent Tracks: A Comprehensive Solution for OBS Microphone Problems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation/"><u>Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y36i-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y36i Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-in-hearthstone-a-step-by-step-guide-to-the-fix/"><u>Restoring Audio in Hearthstone: A Step-by-Step Guide to the Fix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-error-code-130-no-more-a-comprehensive-fix/"><u>Steam Error Code 130 No More – A Comprehensive Fix</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-gaming-problems-solved-making-titles-playable-on-a-windows-10-machine/"><u>Steam Gaming Problems Solved: Making Titles Playable on a Windows 10 Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-your-computers-memory-how-to-test-genuine-ram-pace-in-latest-windows-environments/"><u>Unveiling the Secrets of Your Computer's Memory: How to Test Genuine RAM Pace in Latest Windows Environments</u></a></li>
 </ul></div>
 

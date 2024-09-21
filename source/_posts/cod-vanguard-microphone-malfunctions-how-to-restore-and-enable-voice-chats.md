@@ -1,0 +1,150 @@
+---
+title: "COD: Vanguard Microphone Malfunctions – How to Restore and Enable Voice Chats"
+date: 2024-09-18T20:39:10.915Z
+updated: 2024-09-21T21:08:16.462Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes COD: Vanguard Microphone Malfunctions – How to Restore and Enable Voice Chats"
+excerpt: "This Article Describes COD: Vanguard Microphone Malfunctions – How to Restore and Enable Voice Chats"
+thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab1ad8d0ca655a5decd1786bf.jpg
+---
+
+## Turtle Beach Microphone Malfunction? Here's How to Restore Sound
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a1e37a756-231x300.jpg)
+
+ Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Fixes to try
+
+ You may not have to try them all. Just work your way down the list until you find the one that works for you.
+
+1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+## Method 1: Check your microphone device settings
+
+ Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
+
+**1) Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
+
+**2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+**3)** Select **Sound** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+**4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
+
+**5)**  Right click the**Headset Microphone** and click **Enable** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
+**6)** Right click it again and select **Set as Default Device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
+
+**7)** Right click**Headset Microphone** and click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
+
+**8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+**9)** Click**OK** , then click**OK** .
+
+ Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
+
+---
+
+## Method 2: Update your audio drivers
+
+ The mic on your Turtle Beach headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
+
+ You can update your driver manually or automatically. The manual process is time consuming, technical and risky, so we won’t cover it here. Nor do we recommend it unless you have excellent computer knowledge.
+
+ Updating your driver automatically, on the other hand, is very easy. Simply install and run [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , and it will automatically find all the devices on your PC that need new drivers, and install them for you. Here’s how to use it.
+
+**1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install**Driver Easy** .
+
+**2)**  Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
+
+**3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+ You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
+
+ Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Method 3: Troubleshoot hardware issues
+
+ If your headset microphone is still not working, it’s likely there are hardware issues with your computer or your headset. In this case, there are a few things you need to do.
+
+ First, try connecting your headset to**another port** on your computer. This will resolve any problems you might be experiencing due to the port you’re using.
+
+ If changing the port doesn’t work for you, connect your headset to**another computer** and see if this fixes your microphone. If it does, then you should contact the vendor of your computer for advice.
+
+ If nothing above helps you, the issues may be on your headset. Then you should contact Turtle Beach for support or have your headset serviced.
+
+* [headset](https://tools.techidaily.com/drivereasy/download/)
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-chromium-device-live-screen-recorder/"><u>[New] 2024 Approved Chromium Device Live Screen Recorder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-deciphering-the-rights-based-language-of-instagrams-music-features-for-2024/"><u>[New] Deciphering the Rights-Based Language of Instagram's Music Features for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-harmonizing-horizons-easy-steps-for-sharing-soundtracks/"><u>[New] In 2024, Harmonizing Horizons Easy Steps for Sharing Soundtracks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-zoom-audio-production-comprehensive-tips-and-techniques-for-professionals/"><u>[Updated] In 2024, Mastering ZOOM Audio Production Comprehensive Tips and Techniques for Professionals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-roadmap-to-creating-your-perfect-home-sound-experience/"><u>Beginner's Roadmap to Creating Your Perfect Home Sound Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-infinix-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Infinix Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/german-weekdays-eine-sprachubung/"><u>German Weekdays: Eine Sprachübung</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017013464-playstyles/"><u>Playstyles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-disconnected-nvidia-visuals-in-pcs/"><u>Step-by-Step Solutions for Disconnected NVIDIA Visuals in PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-voice-communication-issues-in-destiny-2/"><u>Troubleshooting Guide: How to Fix Voice Communication Issues in Destiny 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-compatibility-fix-how-to-enable-game-sounds-for-anthem/"><u>Windows 11 Compatibility Fix: How to Enable Game Sounds for Anthem</u></a></li>
+</ul></div>
+

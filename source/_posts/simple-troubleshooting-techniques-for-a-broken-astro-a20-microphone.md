@@ -1,7 +1,7 @@
 ---
 title: Simple Troubleshooting Techniques for a Broken Astro A20 Microphone
-date: 2024-09-11T16:47:42.516Z
-updated: 2024-09-16T20:58:04.707Z
+date: 2024-09-15T19:00:23.676Z
+updated: 2024-09-21T16:43:52.160Z
 tags:
   - win11
   - win10
@@ -65,10 +65,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Set your Onikuma mic as the default device
@@ -80,18 +80,27 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Select**Small icons** next to View by and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
-5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
+5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
@@ -124,13 +133,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -160,14 +162,21 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-vibrant-video-vibes-merging-melodies-with-media-for-2024/"><u>[New] Vibrant Video Vibes Merging Melodies with Media for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-addressed-hidden-shorters-now-visible/"><u>[Updated] 2024 Approved Addressed Hidden Shorters, Now Visible</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a10-mic-not-working-heres-a-step-by-step-guide-to-fixing-the-problem/"><u>Astro A10 Mic Not Working? Here's a Step-by-Step Guide to Fixing the Problem!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V30 Pro Phone Without Password?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-onlinestroom-liefhebbers-zeerveilige-en-vrije-gratis-omzetting-van-wma-in-wav-formaat/"><u>Movavi's Onlinestroom Liefhebbers: Zeerveilige En Vrije Gratis Omzetting Van WMA in WAV-Formaat</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-6-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 6 WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-your-facebook-videos-pc-edition-top-strategies/"><u>Reviving Audio on Your Facebook Videos (PC Edition): Top Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-corsair-hs60-mic-issues-a-comprehensive-guide-to-restoring-audio-functionality/"><u>Solving Corsair HS60 Mic Issues - A Comprehensive Guide to Restoring Audio Functionality</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-soundwave-shift-step-by-step-mp3-to-mp4-audio-file-transformation-for-2024/"><u>Updated Soundwave Shift Step-by-Step MP3 to MP4 Audio File Transformation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-streaming-showdown-obs-vs-twitch/"><u>[Updated] In 2024, The Streaming Showdown OBS vs Twitch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-fundamentals-of-crafting-high-quality-videos-for-instagram-audiences/"><u>[Updated] The Fundamentals of Crafting High-Quality Videos for Instagram Audiences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-restore-and-enhance-laptop-sound-performance/"><u>Expert Solutions to Restore and Enhance Laptop Sound Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-missing-sound-in-anthem-for-windows-11-users-a-step-by-step-guide/"><u>Fix Missing Sound in Anthem for Windows 11 Users: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-zero-to-hero-reviving-your-logitech-g9eusmic-on-a-windows-computer/"><u>From Zero to Hero: Reviving Your Logitech G9eusmic on a Windows Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-voice-chat-running-again-on-black-ops-cold-war-expert-fixes-unveiled/"><u>Getting the Voice Chat Running Again on Black Ops Cold War - Expert Fixes Unveiled</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-on-your-windows-10-system/"><u>How to Turn Off Sound Improvement Features on Your Windows 10 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-flawed-windows-trackpad-dell/"><u>Rectify Flawed Windows Trackpad (Dell)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-sound-issues-a-guide-to-restoring-audio-on-hp-computers-with-windows-10/"><u>Resolve Sound Issues: A Guide to Restoring Audio on HP Computers with Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-your-online-world-keeping-fb-free-from-strangers-views/"><u>Secure Your Online World: Keeping FB Free From Strangers' Views</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-how-to-stop-sword-and-fairy-series-latest-installation-from-freezing-your-pc/"><u>Solution Found! How to Stop Sword & Fairy Series' Latest Installation From Freezing Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-why-isnt-my-usb-to-hdmi-adaptor-working/"><u>Solution Guide: Why Isn't My USB to HDMI Adaptor Working?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-sound-problem-in-minutes/"><u>Solve Your PC's Sound Problem in Minutes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/take-gpt-to-new-heights-explore-the-best-9-plug-ins-today/"><u>Take GPT to New Heights: Explore the Best 9 Plug-Ins Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-for-getting-netflix-up-and-running-on-your-roku-player/"><u>Troubleshooting Tips for Getting Netflix Up and Running on Your Roku Player</u></a></li>
 </ul></div>
 

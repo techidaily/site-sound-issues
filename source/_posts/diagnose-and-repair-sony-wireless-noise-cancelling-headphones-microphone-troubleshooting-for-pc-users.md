@@ -1,7 +1,7 @@
 ---
 title: "Diagnose & Repair: Sony Wireless Noise Cancelling Headphones - Microphone Troubleshooting for PC Users"
-date: 2024-09-10T19:36:33.138Z
-updated: 2024-09-16T17:48:16.769Z
+date: 2024-09-17T19:18:37.000Z
+updated: 2024-09-21T16:22:02.888Z
 tags:
   - win11
   - win10
@@ -65,10 +65,16 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
  Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the driver (recommended)
@@ -87,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check how your Logitech G533 headset microphone works after the driver update. Still no luck? Then try the next fix below.
 
 ---
@@ -100,25 +113,19 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-3.jpg)
 3. Click**Logitech Gaming Software** and click**Uninstall/Change** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-1.jpg)
 4. Follow the on-screen instructions to completely uninstall the program.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Go to **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  . Then find the latest version of Logitech Gaming Software that is suitable for your operating system and click**Download Now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-1.jpg)
 6. Once you finish downloading, double-click the downloaded file and follow the wizard to install the software.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now reconnect the Logitech G533 headset to your PC and the microphone should transmit your voice normally.
 
@@ -136,14 +143,15 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 3. Click**Microphone** on the left pane. Then, click the**Change** button, and make sure Microphone access for this device is**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-6.jpg)
 4. Make sure**Allow apps to access your microphone** is turned**on** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)
 
  After finishing the steps above, check if your mic-not-working issue is resolved. If unfortunately, none of the preceding fixes does the trick, chances are that the microphone is physically broken and you may consider contacting the vendor for further assistance.
 
@@ -169,20 +177,20 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-height-final-cut-pro-x-techniques-for-instagram-video/"><u>[New] In 2024, Mastering the Height Final Cut Pro X Techniques for Instagram Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-make-your-own-vr-gear-diy-guide-for-google-cardboard-viewers/"><u>[New] Make Your Own VR Gear DIY Guide for Google Cardboard Viewers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-copying-safely-on-tiktok-a-2023-guide-to-rights-checks/"><u>[Updated] 2024 Approved Copying Safely on TikTok A 2023 Guide to Rights Checks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-truescreenpro-windows-10s-choice/"><u>2024 Approved TrueScreenPro Windows 10'S Choice</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-drivers-repair-navigating-and-correcting-bcm2045a0-glitches-quickly/"><u>Effortless Drivers Repair: Navigating and Correcting BCM2045A0 Glitches Quickly</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/effortlessly-type-on-the-move-the-sabrent-travel-mouse-combines-top-accuracy-with-convenient-wireless-tech/"><u>Effortlessly Type on the Move: The Sabrent Travel Mouse Combines Top Accuracy with Convenient Wireless Tech!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-persistent-audio-glitches-on-your-pc-solutions-inside/"><u>Fixing Persistent Audio Glitches on Your PC: Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-correct-windows-misinterpretation-of-no-sound-output-when-devices-are-connected-in-windows-os-1087/"><u>How to Correct Windows Misinterpretation of No Sound Output when Devices Are Connected in WINDOWS (OS 10/8/7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-valheim-when-your-computer-wont-play-them/"><u>How to Restore Sounds in Valheim When Your Computer Won't Play Them</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-beyond-the-skyline-with-yuneecs-typhoon-q500/"><u>In 2024, Beyond the Skyline with Yuneec's Typhoon Q500</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-best-free-online-movie-editing-solutions/"><u>New The Best Free Online Movie Editing Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016317209-solve-the-problem-of-a-non-functioning-logitech-g4-groove-mic-with-easy-fixes/"><u>Solve the Problem of a Non-Functioning Logitech G4 Groove Mic with Easy Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pubg-voice-chat-issues-with-these-simple-steps/"><u>Solve Your PUBG Voice Chat Issues with These Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-headset-microphone/"><u>Troubleshooting Guide: How to Fix a Malfunctioning Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-clear-up-that-buzzing-from-your-speakers-now/"><u>Troubleshooting Tips: Clear Up That Buzzing From Your Speakers Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-innovative-setup-essentials-for-game-streaming/"><u>[Updated] Innovative Setup Essentials for Game Streaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-a18-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo A18 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-your-wma-audio-files-to-mp3-for-free-effortless-conversion-using-movavis-tool/"><u>Convert Your WMA Audio Files to MP3 for Free - Effortless Conversion Using Movavi's Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-steelseries-arctis-9-mic-not-working-a-complete-solution/"><u>Diagnosing and Fixing the SteelSeries Arctis 9 Mic Not Working - A Complete Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016295740-front-speaker-connection-issues-heres-how-to-restore-sound-output/"><u>Front Speaker Connection Issues? Here's How to Restore Sound Output!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratitude-for-using-movavi-slideshow-creator-download-complete/"><u>Gratitude for Using Movavi Slideshow Creator – Download Complete</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-rearrangement-of-your-personalized-lists/"><u>In 2024, Effortless Rearrangement of Your Personalized Lists</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>In 2024, Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-hurdles-of-enabling-dolby-audio-in-windows-nully-errors-a-resolution-guide/"><u>Overcoming the Hurdles of Enabling Dolby Audio in Windows Nully Errors: A Resolution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resident-evil-village-ultimate-guide-to-fixing-game-audio-problems/"><u>Resident Evil: Village - Ultimate Guide to Fixing Game Audio Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformation-facile-dun-fichier-pef-vers-un-format-jpg-gratuit-sur-la-plateforme-enligne-de-movavi/"><u>Transformation Facile D'un Fichier PEF Vers Un Format JPG Gratuit Sur La Plateforme Enligne De Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-dolby-advanced-sound-drivers-wont-start-in-windows-10/"><u>Troubleshooting Steps When Dolby Advanced Sound Drivers Won't Start in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-problems-in-co-op-game-back-4-blood/"><u>Troubleshooting Voice Chat Problems in Co-Op Game 'Back 4 Blood'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-problems-heres-how-to-get-your-sounds-back/"><u>Windows 11 Audio Problems? Here's How to Get Your Sounds Back!</u></a></li>
 </ul></div>
 

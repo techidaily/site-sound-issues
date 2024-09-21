@@ -1,7 +1,7 @@
 ---
 title: "Solve Your Silent PC Problem: Instantly Fix the Lack of Audio"
-date: 2024-09-14T20:03:46.249Z
-updated: 2024-09-16T20:25:34.682Z
+date: 2024-09-15T20:08:10.433Z
+updated: 2024-09-21T16:53:08.340Z
 tags:
   - win11
   - win10
@@ -58,6 +58,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-16_19-27-03-1.jpg)
 5. Try to send an audio message on Discord by PTT to see if it works.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  This glitch could be probably caused by an old, wrong or missing audio driver. You can solve it easily by updating your audio driver.
@@ -74,16 +87,17 @@ Here’s how:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Try to send an audio message on Discord by PTT to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -103,17 +117,10 @@ Uninstall the programs then check Discord.
 4. Download and install **[](https://discordapp.com/) [Discord](https://discordapp.com/)**  . Check the ppt function again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
@@ -125,16 +132,16 @@ Uninstall the programs then check Discord.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -161,19 +168,19 @@ Uninstall the programs then check Discord.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-iphone-camera-techniques-for-quality-shots-for-2024/"><u>[New] IPhone Camera Techniques for Quality Shots for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-sprint-showcase-short-track-22-glory-for-2024/"><u>[Updated] Sprint Showcase Short Track '22 Glory for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-alternatives-3-best-video-sharing-sites-for-2024/"><u>[Updated] YouTube Alternatives 3 Best Video Sharing Sites for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-audio-setup-now-free-m-audio-ultradriver-awaits-you/"><u>Boost Your Audio Setup Now! FREE M-Audio UltraDriver Awaits You</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-our-picked-selection-of-homework-helper-apps-to-boost-learning-efficiency/"><u>Discover Our Picked Selection of Homework Helper Apps to Boost Learning Efficiency</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016366022-expert-tips-for-making-your-stereo-audio-work-again-problems-addressed/"><u>Expert Tips for Making Your Stereo Audio Work Again - Problems Addressed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fortnite-mic-not-working-fixed/"><u>Fortnite Mic Not Working [FIXED]</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/getting-your-w7s-offline-hp-print-running/"><u>Getting Your W7's Offline HP Print Running</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-guide-to-window-recording-on-spring-screens/"><u>In 2024, The Ultimate Guide to Window Recording on Spring Screens</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-dolby-setup-in-windows-tenth-tutorial-for-starting-your-sound-driver/"><u>Master the Dolby Setup in Windows Tenth: Tutorial for Starting Your Sound Driver</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-repair-your-logitech-g230-microphone-when-it-stops-functioning/"><u>Solved: How To Repair Your Logitech G230 Microphone When It Stops Functioning</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-issues-with-robocop-rogue-city-game-crashes-on-windows-pc-troubleshooting-guide/"><u>Solving Issues with RoboCop: Rogue City Game Crashes on Windows - PC Troubleshooting Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-11-uplifting-films-that-will-motivate-you-to-achieve-greatness/"><u>Top 11 Uplifting Films That Will Motivate You to Achieve Greatness!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-strategies-to-resolve-audio-distortions-for-logitech-g-pro-x-pc-users-2024s-ultimate-fixes/"><u>Top Strategies to Resolve Audio Distortions for Logitech G Pro X PC Users - 2024'S Ultimate Fixes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-final-cut-pro-full-using-guide/"><u>[New] Final Cut Pro Full Using Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-will-televising-facebook-vids-become-a-trend/"><u>[New] Will Televising Facebook Vids Become a Trend ?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-knowledge-for-engaging-with-asmr-videos/"><u>[Updated] 2024 Approved Essential Knowledge for Engaging with ASMR Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-use-luts-to-spark-ar-and-download-free-lut/"><u>2024 Approved How to Use LUTs to Spark AR & Download Free LUT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-the-perfect-footage-editor-hero-vs-the-cube/"><u>2024 Approved Selecting the Perfect Footage Editor Hero Vs. The Cube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/constructing-visually-captivating-photo-collections/"><u>Constructing Visually Captivating Photo Collections</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-comprehensive-solutions/"><u>Fixing Dota 2 Microphone Issues: Comprehensive Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-skype-microphone-on-windows-10-devices/"><u>How to Fix a Non-Functioning Skype Microphone on Windows 10 Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-moto-g34-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola Moto G34 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolving-undetected-speakers-in-windows-10/"><u>Step-by-Step: Resolving Undetected Speakers in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-improve-your-oculus-rift-s-mic-quick-resolutions-for-gaming-aces/"><u>Troubleshoot and Improve Your Oculus Rift S Mic - Quick Resolutions for Gaming Aces</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-non-functional-turtle-beach-stealth-600-nc2-mic/"><u>Troubleshooting Guide: How to Repair Non-Functional Turtle Beach Stealth 600 NC2 Mic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-loss-of-dark-mode-functionality-in-facebook-effective-strategies-for-users/"><u>Troubleshooting Loss of Dark Mode Functionality in Facebook - Effective Strategies for Users</u></a></li>
 </ul></div>
 

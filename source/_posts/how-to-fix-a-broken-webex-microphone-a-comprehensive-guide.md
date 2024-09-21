@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Broken Webex Microphone: A Comprehensive Guide"
-date: 2024-09-12T20:33:41.913Z
-updated: 2024-09-16T20:59:05.111Z
+date: 2024-09-16T16:41:33.491Z
+updated: 2024-09-21T16:30:40.710Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 3. Follow the on-screen instructions and wait till this gets finished.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Allow access to the microphone
@@ -69,10 +69,10 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 4. Scroll down to choose which app can access your microphone, and make sure that you have it set for all the apps you want.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![choose apps to allow](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps-microphone.jpg)
@@ -97,8 +97,22 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-drivers.jpg)
 4. Restart your computer for the changes to take full effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change your microphone settings
 
@@ -108,43 +122,23 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sounds.jpg)
 2. Go to the **Recording** tab, and make sure your **Headset Microphone** is set as the default device. If not, select your headphone and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![set as default microphone](https://images.drivereasy.com/wp-content/uploads/2020/12/default.png)
 3. Also, make sure it displays your headphone name correctly and shows strong signals. If your headphone is shown as something else, there’s something wrong with your mic settings, so you should re-connect your headset.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![mic not working wrong settings](https://images.drivereasy.com/wp-content/uploads/2020/12/no-connection.png)
 4. If the display name and signal is normal, right-click **Headset Microphone** and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image.jpg)
 5. Click the **Levels** tab, then drag the volume slider towards the largest value (100).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels.jpg)
 6. Click **OK** to apply the changes, and then click **OK** on the last window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now check if your HyperX Cloud Alpha is working now. If not, you can check your game settings to make sure that it is not conflicting with your HyperX mic.
 
@@ -172,15 +166,21 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-conquering-subreddit-mastering-the-art-of-public-discussion/"><u>[New] Conquering Subreddit Mastering the Art of Public Discussion</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-a-story-unique-to-you-amongst-tiktok-titans-for-2024/"><u>[Updated] Crafting a Story Unique to You Amongst TikTok Titans for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-12-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi 12</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/critical-fixes-for-when-your-corsair-hs70-mic-stops-working/"><u>Critical Fixes for When Your Corsair HS70 Mic Stops Working</u></a></li>
-<li><a href="https://win11.techidaily.com/how-runtime-broker-enhances-system-efficiency-and-security/"><u>How Runtime Broker Enhances System Efficiency & Security</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-tutorials-for-beginners-how-to-add-audio-to-imovie/"><u>In 2024, Tutorials for Beginners How to Add Audio to iMovie</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/laptop-volume-silence-discover-how-to-restore-your-devices-sound-capabilities/"><u>Laptop Volume Silence? Discover How to Restore Your Device's Sound Capabilities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/navigating-through-nvidia-essential-steps-for-restoring-high-definition-sound/"><u>Navigating Through Nvidia: Essential Steps for Restoring High-Definition Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-training-data-includes-a-diverse-range-of-internet-text-but-its-important-to-note-that-grover-is-designed-more-with-content-generation-in-mind-rather-th625/"><u>The Training Data Includes a Diverse Range of Internet Text, but It's Important to Note that Grover Is Designed More with Content Generation in Mind Rather than Deep Specialization Like Legal Reasoning.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/turn-off-instagrams-suggested-posts-a-comprehensive-walkthrough/"><u>Turn Off Instagram’s Suggested Posts: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-world-of-facebook-cover-vids-explained/"><u>[New] 2024 Approved Navigating the World of Facebook Cover Vids Explained</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-building-a-brand-through-youtube-a-strategic-guide-for-2024/"><u>[New] Building a Brand Through YouTube A Strategic Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-playlist-on-a-page-embedding-yt-videos-online/"><u>[New] Playlist on a Page Embedding YT Videos Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sw320-unveiled-a-deep-dive-into-the-ultimate-4k-screen/"><u>[Updated] Sw320 Unveiled A Deep Dive Into The Ultimate 4K Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-screen-grabber-software-in-the-windows-10-arena/"><u>[Updated] Top Screen Grabber Software in the Windows 10 Arena</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-camon-20-premier-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Camon 20 Premier 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/breaking-the-quiet-curse-of-cyberpunk-2077-audio-on-your-windows-10-pc/"><u>Breaking the Quiet Curse of Cyberpunk 2077 Audio on Your Windows 10 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-fortnite-mic-problems-fast-expert-tips-and-solutions-inside/"><u>Fix Your Fortnite Mic Problems Fast! Expert Tips and Solutions Inside</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-pova-5-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Pova 5 Phones with/without a PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-unresponsive-laptop-audio-devices/"><u>How to Troubleshoot and Repair Unresponsive Laptop Audio Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-bluetooth-sound-latency-with-these-swift-tips/"><u>Overcome Bluetooth Sound Latency with These Swift Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/patch-notes-decoded-why-is-my-overwatch-voice-chat-not-working/"><u>Patch Notes Decoded: Why Is My Overwatch Voice Chat Not Working?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-problems-with-the-steelseries-arctis-1-mic/"><u>Resolving Connectivity Problems with the SteelSeries Arctis 1 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016174432-resolving-the-issue-of-your-webex-mic-failure-try-these-4-fixes/"><u>Resolving the Issue of Your Webex Mic Failure? Try These 4 Fixes!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/systematic-upgrade-procedures-for-macos-sierra-users-for-2024/"><u>Systematic Upgrade Procedures for macOS Sierra Users for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simple Remedies: Reviving a Malfunctioning Astro A20 Microphone"
-date: 2024-09-10T20:12:33.166Z
-updated: 2024-09-16T20:15:15.483Z
+date: 2024-09-15T18:35:44.195Z
+updated: 2024-09-21T16:29:59.921Z
 tags:
   - win11
   - win10
@@ -75,24 +75,32 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
@@ -125,13 +133,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -159,21 +160,14 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-screenshot-procedures-for-hp-devices/"><u>[New] 2024 Approved Step-by-Step Screenshot Procedures for HP Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-convert-youtube-videos-seamlessly-into-avi/"><u>[New] How to Convert YouTube Videos Seamlessly Into AVI</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pricing-guide-youtube-marketing-expenses/"><u>[Updated] Pricing Guide YouTube Marketing Expenses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/8-effective-strategies-to-maximize-the-benefits-of-auto-gpt/"><u>8 Effective Strategies to Maximize the Benefits of Auto-GPT</u></a></li>
-<li><a href="https://solve-news.techidaily.com/comment-encoder-des-fichiers-av1-a-laide-de-handbrake-guide-complet-et-astuces/"><u>Comment Encoder Des Fichiers AV1 À L'aide De Handbrake: Guide Complet Et Astuces</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-performance-intel-chipset-updates-for-win-11781/"><u>Enhance Performance: Intel Chipset Updates for Win 11/7/8.1</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-diagnosing-and-repairing-modern-warfare-3s-pc-game-breaking-glitches/"><u>Expert Advice: Diagnosing and Repairing Modern Warfare 3'S PC Game-Breaking Glitches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chatting-functionality-in-valorant-expert-tips/"><u>How to Restore Voice Chatting Functionality in VALORANT: Expert Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovating-presentation-skills-using-ai-technologies/"><u>Innovating Presentation Skills Using AI Technologies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-pcs-zoom-microphone-issues-troubleshooting-steps/"><u>Resolve Your PC's Zoom Microphone Issues: Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-common-causes-and-solutions-for-razer-man-owar-mic-failure/"><u>Resolved: Common Causes and Solutions for Razer Man O'War Mic Failure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-to-restore-sound-on-your-windows-11-computer-expert-advice/"><u>Solution Steps to Restore Sound on Your Windows 11 Computer - Expert Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015282058-solving-your-logitech-g533-mic-problems-expert-solutions-revealed/"><u>Solving Your Logitech G533 Mic Problems - Expert Solutions Revealed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-google-hangouts-speaking-capability/"><u>Step-by-Step Guide to Restore Google Hangouts Speaking Capability</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restarting-failed-sound-streams-easily-solved/"><u>Troubleshooting Guide: Restarting Failed Sound Streams Easily Solved</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-building-a-billion-view-empire-your-step-by-step-youtube-strategy-for-2024/"><u>[New] Building a Billion-View Empire Your Step-by-Step Youtube Strategy for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-your-podcasts-rss-feed-a-step-by-step-guide/"><u>2024 Approved Crafting Your Podcast's RSS Feed A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyys-innovative-in-echtzeit-texterkennung-optimiert-das-digitale-erlebnis-fur-kunden/"><u>ABBYY's Innovative 'In Echtzeit'-Texterkennung Optimiert Das Digitale Erlebnis Für Kunden</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-methods-to-restore-functionality-in-damaged-or-non-responsive-front-speaker-jack/"><u>Effective Methods to Restore Functionality in Damaged or Non-Responsive Front Speaker Jack</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016451698-headphone-troubles-stop-the-crackle-simple-fixes-inside/"><u>Headphone Troubles? Stop the Crackle - Simple Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microsoft-teams-microphone-failures-on-pc-with-windows-1110/"><u>How to Resolve Microsoft Teams Microphone Failures on PC with Windows 11/10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-complete-guideline-for-mobizen-screen-recorder/"><u>In 2024, A Complete Guideline for Mobizen Screen Recorder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-functionality-to-a-faulty-hyperx-cloud-alpha-headset-microphone-tips-and-tricks/"><u>Restoring Functionality to a Faulty HyperX Cloud Alpha Headset Microphone: Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

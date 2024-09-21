@@ -1,7 +1,7 @@
 ---
 title: DIY Solution to Get Your Astro A50 Headphones' Mic Working Again
-date: 2024-09-13T16:19:04.146Z
-updated: 2024-09-16T18:23:28.518Z
+date: 2024-09-15T20:31:02.127Z
+updated: 2024-09-21T18:30:27.958Z
 tags:
   - win11
   - win10
@@ -75,16 +75,16 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
  Once you’ve updated the driver for your Astro A50 headset, restart your computer. Then log in again and see if the microphone is working.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
@@ -115,17 +115,16 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-a-comprehensive-review-of-vidmas-screen-recorder/"><u>[New] 2024 Approved A Comprehensive Review of Vidma's Screen Recorder</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-premium-online-vendors-for-artisanal-wrapping-solutions/"><u>[New] In 2024, Premium Online Vendors for Artisanal Wrapping Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elite-6-software-for-audiovisual-translation/"><u>[Updated] Elite 6 Software for Audio/Visual Translation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-solutions-for-the-notorious-black-screen-issue-at-startup/"><u>Fixing Helldivers II: Solutions for the Notorious Black Screen Issue at Startup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-hyperx-cloud-headset-when-the-mic-isnt-functioning/"><u>How to Fix Your HyperX Cloud Headset When the Mic Isn't Functioning</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leading-lists-premium-bdr-software-on-windows-macos/"><u>Leading Lists Premium BDR Software on Windows, macOS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photoshop-simplified-beginner-friendly-editing-secrets-for-2024/"><u>Photoshop Simplified Beginner-Friendly Editing Secrets for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-repair-your-astro-a20-microphone-issue/"><u>Quick Solutions: How to Repair Your Astro A20 Microphone Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-why-isnt-your-steelseries-arctis-pro-mic-functioning/"><u>Solution Steps: Why Isn't Your SteelSeries Arctis Pro Mic Functioning?</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-when-file-explorer-wont-respond-in-windows-11/"><u>Step-by-Step Solutions for When File Explorer Won't Respond in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-why-your-sony-headphones-might-be-silent-fixes-and-tips/"><u>Troubleshooting: Why Your Sony Headphones Might Be Silent - Fixes and Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-innovative-free-chat-platforms-with-shared-screen-viewing/"><u>[New] 2024 Approved Innovative Free Chat Platforms with Shared Screen Viewing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-discover-how-these-15-advanced-facebook-gadgets-boost-e-commerce-sale-traffic/"><u>[Updated] In 2024, Discover How These 15 Advanced Facebook Gadgets Boost E-Commerce Sale Traffic</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-secrets-unlocked-mastering-the-art-of-facebook-vr-posting-for-2024/"><u>[Updated] Secrets Unlocked Mastering the Art of Facebook VR Posting for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-higher-view-counts-through-sustained-compliance-with-youtube-cc/"><u>2024 Approved Unlocking Higher View Counts Through Sustained Compliance with YouTube CC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs60-microphone-repair-guide-fixing-non-functional-speaker/"><u>Corsair HS60 Microphone Repair Guide: Fixing Non-Functional Speaker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015771007-how-to-resolve-headphone-problems-on-a-windows-10-pc-solved/"><u>How to Resolve Headphone Problems on a Windows 10 PC - Solved!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rhythmic-repository-perfect-dj-templates-instantly-downloadable/"><u>In 2024, Rhythmic Repository Perfect DJ Templates, Instantly Downloadable</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-problems-in-resident-evil-village/"><u>Resolving Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-routes-with-google-maps-live-view-a-complete-users-manual/"><u>Revolutionize Your Routes with Google Maps Live View - A Complete User's Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-remedies-reviving-a-malfunctioning-astro-a20-microphone/"><u>Simple Remedies: Reviving a Malfunctioning Astro A20 Microphone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725284939830-windows-11dvd/"><u>Windows 11へようこそ：スマートなDVD作成が今日から始まる！</u></a></li>
 </ul></div>
 
