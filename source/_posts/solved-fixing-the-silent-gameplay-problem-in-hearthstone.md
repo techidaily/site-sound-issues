@@ -1,0 +1,203 @@
+---
+title: "Solved: Fixing the Silent Gameplay Problem in Hearthstone"
+date: 2024-09-21T23:15:56.993Z
+updated: 2024-09-26T19:40:45.939Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Solved: Fixing the Silent Gameplay Problem in Hearthstone"
+excerpt: "This Article Describes Solved: Fixing the Silent Gameplay Problem in Hearthstone"
+thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f88293ec56bab464e11f46a7.jpg
+---
+
+## Apex Legends No Sound Problem Resolved: Steps to Get Your Game Cacophonous Again
+
+No sound while playing Apex Legends**on your PC** ? You’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 5 fixes to try.
+
+ If you’re having audio issues on your**PS4** , check[](https://tools.techidaily.com/drivereasy/download/) **[here](https://tools.techidaily.com/drivereasy/download/)**  .  
+ If you’re on Xbox, check[**here**](https://tools.techidaily.com/drivereasy/download/) .
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Fixes to try
+
+ You may not have to try them all. Just work your way down the list until you find the one that works for you.
+
+1. **[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run the Windows audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Restart your computer
+
+ Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 2: Run the Windows audio troubleshooter
+
+ Another quick fix to Apex Legends audio problems is running**the audio troubleshooter** . Follow the instructions below:
+
+ What is the audio troubleshooter?  
+ It’s a**Windows built-in utility** that can detect and fix common sound issues automatically.
+
+**1)** On your keyboard, press the**Windows logo** key and type**troubleshoot settings** . Then, click**Troubleshoot settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**2)** Click**Playing Audio** , then click**Run the troubleshooter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
+
+**3)** Follow the on-screen instructions to troubleshoot your problem.
+
+If Windows fails to detect your issue, move on and try the fix below.
+
+### Fix 3: Update your audio driver
+
+ If you can’t hear any sound while gaming on Apex Legends, chances are that you’re using a wrong or outdated audio driver. It’s essential that you have the latest correct audio driver at all times.
+
+ There are two ways you can update your audio driver:
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/2019-tips-apex-legends-no-sound/#c2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 – Download and install the driver manually**
+
+ The manufacturer of your sound card keeps updating the driver. To get it, you need to go to the manufacturer’s website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
+
+ Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+#### Option 2 – Automatically update your audio driver
+
+ If you don’t have the time, patience or computer skills to update the audio driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct driver for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your driver automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+ **1)[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
+
+**3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ You can do it for free if you like, but it’s partly manual.
+
+ If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+### Fix 4: Restart Windows Audio Services
+
+ Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
+
+**1)** On your keyboard, press the**Windows logo** key and type**services** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
+
+**2)** Right-click**Windows Audio** , then select**Restart** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
+
+**3)** Relaunch your game to test your issue.
+
+ This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 5: Reinstall Apex Legends
+
+ If none of the fixes above helped, reinstalling Apex Legends is very likely the solution to your issue. Here is how to do it:
+
+**1)** Run**Origin** .
+
+**2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
+
+**3)** After your game is uninstalled, restart your computer.
+
+**4)** Run Origin again to download and install Apex Legends.
+
+ Hopefully, you’re able to play your game now. Enjoy! If you have any questions or suggestions, feel free to leave a comment below.
+
+* [Apex Legends](https://tools.techidaily.com/drivereasy/download/)
+* [Sound Cards](https://tools.techidaily.com/drivereasy/download/)
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-discovering-deliciousness-tiktoks-most-shared-snacks/"><u>[Updated] 2024 Approved Discovering Deliciousness TikTok's Most Shared Snacks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimized-vimeo-video-exporting-apps/"><u>[Updated] 2024 Approved Optimized Vimeo Video Exporting Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-uncharted-film-hits-of-2023/"><u>[Updated] Uncharted Film Hits of 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-3dr-a-personal-perspective-on-printing-alone/"><u>[Updated] Unveiling '3DR' A Personal Perspective on Printing Alone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-interview-skills-using-chatgpt-a-comprehensive-guide/"><u>Boost Your Interview Skills Using ChatGPT - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-asus-rog-phone-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 13 Pro Max and iPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-star-wars-squadrons-the-ultimate-galactic-fighting-adventure/"><u>In-Depth Review of Star Wars: Squadrons - The Ultimate Galactic Fighting Adventure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-speaker-recognition-in-windows-11-fixes-for-hidden-audio-devices/"><u>Mastering Speaker Recognition in Windows 11: Fixes for Hidden Audio Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimize-media-storage-tips-and-tricks-for-mov-on-windows-pcs/"><u>Optimize Media Storage Tips & Tricks for .mov on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-issues-when-external-speaker-is-connected-with-windows/"><u>Overcoming No Sound Issues When External Speaker Is Connected with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/post-update-quiet-zone-simple-solutions-to-revive-audio-in-windows-10/"><u>Post-Update Quiet Zone? Simple Solutions to Revive Audio in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-troubles-heres-what-you-need-to-do/"><u>Realtek Microphone Troubles? Here's What You Need to Do!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-the-missing-headphones-problem-for-successful-audio-output-on-windows-nt/"><u>Resolve the Missing Headphones Problem for Successful Audio Output on Windows nT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-harmony-remedying-issues-within-the-landscape-of-new-world/"><u>Restoring Audio Harmony: Remedying Issues Within the Landscape of New World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-to-your-conexant-smartaudio-hd-device-under-windows-11/"><u>Restoring Sound to Your Conexant SmartAudio HD Device Under Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-harmony-troubleshooting-wows-muted-mystery/"><u>Restoring Soundscape Harmony: Troubleshooting WoW's Muted Mystery</u></a></li>
+</ul></div>
+

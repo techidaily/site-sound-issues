@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Creative Pebble Speaker Issues: Expert Solutions for Audio Woes"
-date: 2024-09-18T16:56:26.750Z
-updated: 2024-09-21T20:50:08.294Z
+date: 2024-09-22T17:19:57.194Z
+updated: 2024-09-26T21:25:05.975Z
 tags:
   - win11
   - win10
@@ -45,9 +45,35 @@ You should allow your Windows 10 system and your application to access your head
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e85bc8fdf.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Microphone**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e8bd4fd27.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the**Change**button, then make sure **Microphone for this device** is turned**on**.
 
@@ -67,13 +93,34 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** In Control Panel, select**Large icons**from the**View by**drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**Select **Sound**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Select the **Recording**tab, then right click on any empty place inside the device list and tick **Show Disabled Devices**.
 
@@ -95,16 +142,16 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Click**OK**, then click**OK**. Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Update your audio drivers
 
@@ -116,16 +163,16 @@ The mic on your Logitech G933 headset won’t work if you’re using an incorrec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also click the **Update All**button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All**.) Once you’ve updated the driver for your Logitech G933 headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Troubleshoot hardware issues
 
@@ -147,5 +194,24 @@ If your headset microphone is still not working, it’s likely there are hardwar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-discovering-the-syma-x5c-the-premier-drone-for-rookies/"><u>[New] Discovering the Syma X5C The Premier Drone for Rookies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-contents-impact-an-in-depth-look-at-youtube-thumbnail-size-for-2024/"><u>[New] Elevating Your Content's Impact An In-Depth Look at YouTube Thumbnail Size for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-obs-studio-masterclass-for-ps4-screen-capture/"><u>[New] Obs Studio Masterclass for PS4 Screen Capture</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-command-attention-elevating-your-page-to-the-social-summit-for-2024/"><u>[Updated] Command Attention Elevating Your Page to the Social Summit for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-free-youtube-spotlight-with-two-key-approaches/"><u>2024 Approved Free YouTube Spotlight with Two Key Approaches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-sounds-of-battle-how-to-restore-sound-for-anthem-in-windows-10/"><u>Bring Back the Sounds of Battle: How to Restore Sound for Anthem in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-unable-to-start-dolby-audio-driver-problem-on-windows-11-devices/"><u>Effective Fixes for 'Unable to Start Dolby Audio Driver' Problem on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-repair-a-broken-sennheiser-game-one-gaming-headset-microphone/"><u>Effective Ways to Repair a Broken Sennheiser Game One Gaming Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-ways-to-get-your-astro-a20-mic-back-in-action/"><u>Effortless Ways to Get Your Astro A20 Mic Back in Action</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-lol-voice-chat-today-expert-solutions-and-tips/"><u>Fix Your LoL Voice Chat Today - Expert Solutions & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-troubleshoot-your-razer-man-o-war-microphone/"><u>Fixing Issues: How to Troubleshoot Your Razer Man O' War Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-audio-problems-headphones-failure-in-windows-7-system/"><u>Guide to Fixing Audio Problems: Headphones Failure in Windows 7 System</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-motorola-edge-40-neo-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Edge 40 Neo Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-getting-started-with-obs-on-apple-a-comprehensive-guide/"><u>In 2024, Getting Started with OBS on Apple A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-look-at-12-techniques-for-storing-web-based-songs/"><u>In-Depth Look at 12 Techniques for Storing Web-Based Songs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-hurdle-how-to-get-davinci-resolve-working-again-on-your-pc/"><u>Overcoming the Hurdle: How to Get DaVinci Resolve Working Again on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-voice-communication-in-apex-legends-fixes-you-need-today/"><u>Unstuck Your Voice Communication in Apex Legends – Fixes You Need Today!</u></a></li>
+</ul></div>
 

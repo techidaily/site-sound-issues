@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing the Issue of Nonfunctional Microphone in Sony WH-1000XM3/4 Headphones with PC"
-date: 2024-09-19T17:40:44.761Z
-updated: 2024-09-21T16:53:50.151Z
+date: 2024-09-22T18:39:02.030Z
+updated: 2024-09-26T23:28:43.671Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/3a0ff2475a3d988ca582620a3d23548d82c16dbdf
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if your Logitech G633 mic works. If not, try the next fix, below.
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
@@ -56,7 +63,22 @@ thumbnail: https://thmb.techidaily.com/3a0ff2475a3d988ca582620a3d23548d82c16dbdf
 1. On your keyboard, press the**Windows logo key + I** at the same time to open Windows Settings. Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
 
@@ -84,22 +106,15 @@ There are two ways to update your sound card driver: **manually**  and **automat
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -126,5 +141,23 @@ There are two ways to update your sound card driver: **manually**  and **automat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/est-free-introduction-software-for-youtubers-for-2024/"><u>[New] Best Free Introduction Software for Youtubers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unbeatable-freefire-gaming-hashtag-and-strategy-insights/"><u>[New] In 2024, Unbeatable FreeFire Gaming Hashtag & Strategy Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-next-gen-odyssey-explore-the-best-of-windows-10s-apps-and-games/"><u>[New] Next-Gen Odyssey Explore the Best of Windows 10'S Apps & Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterworks-of-screenwriting-by-thematic-quarters-for-2024/"><u>Masterworks of Screenwriting by Thematic Quarters for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/maximizing-view-count-secrets-to-staff-picks-on-vimeo/"><u>Maximizing View Count Secrets to Staff Picks on Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-whatsapps-voice-exchange-for-2024/"><u>Navigating WhatsApp's Voice Exchange for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-webm-to-mp4-conversion-made-simple-top-10-solutions-for-2024/"><u>New WebM to MP4 Conversion Made Simple Top 10 Solutions for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolving-no-audio-issue-with-airpods-on-microsofts-latest-operating-systems/"><u>Quick Fixes: Resolving No Audio Issue with AirPods on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-issue-guide-how-to-get-your-creative-pebble-bluetooth-speaker-up-and-running-again/"><u>Resolved Issue Guide: How To Get Your Creative Pebble Bluetooth Speaker Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-dolby-atmos-on-windows-11-a-guide-to-fixing-and-starting-your-dolby-audio-driver/"><u>Resolving Issues with Dolby Atmos on Windows 11: A Guide to Fixing and Starting Your Dolby Audio Driver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-issues-restoring-audio-on-anthem-with-windows-11/"><u>Resolving Silent Issues: Restoring Audio on Anthem with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-laptops-audio-a-guide-to-fixing-silent-internal-speakers/"><u>Reviving Your Laptop's Audio - A Guide to Fixing Silent Internal Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-for-the-could-not-play-audio-message-on-your-device/"><u>Simple Solutions for the 'Could Not Play Audio' Message on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-to-restore-your-steam-voice-chat-functionality/"><u>Solutions to Restore Your Steam Voice Chat Functionality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unleash-the-power-of-zoom-with-these-tips/"><u>Unleash the Power of Zoom with These Tips</u></a></li>
+</ul></div>
 

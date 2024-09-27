@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Windows 11 Sound Cutting Out During Use
-date: 2024-09-19T21:02:22.969Z
-updated: 2024-09-21T18:15:00.960Z
+date: 2024-09-22T22:46:34.974Z
+updated: 2024-09-26T22:15:32.476Z
 tags:
   - win11
   - win10
@@ -73,11 +73,40 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -95,6 +124,13 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -117,12 +153,24 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-achieving-profitability-on-youtube-average-view-count-for-success/"><u>[New] In 2024, Achieving Profitability on YouTube Average View Count for Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-comparative-analysis-of-game-streaming-software-obs-vs-shadowplay/"><u>[Updated] 2024 Approved Comparative Analysis of Game Streaming Software OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-10-best-free-image-overlay-apps-for-android-and-iphone/"><u>[Updated] 2024 Approved Top 10 Best Free Image Overlay Apps for Android and iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-photography-without-shake/"><u>[Updated] Precision Photography without Shake</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-master-list-of-techniques-for-digital-audio-capture/"><u>2024 Approved Master List of Techniques for Digital Audio Capture</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/abbyy-commits-to-a-greener-future-by-collaborating-with-the-national-forest-foundation-for-20k-tree-plantation-in-chippewa/"><u>ABBYY Commits to a Greener Future by Collaborating with the National Forest Foundation for 20K Tree Plantation in Chippewa</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-tecno-camon-20-premier-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Tecno Camon 20 Premier 5G Lock Screen Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-11-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 11 Pro SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015696857-no-audio-in-your-g435-headset-heres-what-you-can-do/"><u>No Audio in Your G435 Headset? Here's What You Can Do!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014950690-resolved-lack-of-audio-post-windows-10-upgrade-simple-fixes/"><u>Resolved: Lack of Audio Post-Windows 10 Upgrade – Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015772582-speedy-mic-testing-tutorial-achieve-perfect-sound-fidelity-without-hassle/"><u>Speedy Mic Testing Tutorial - Achieve Perfect Sound Fidelity Without Hassle!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-eliminating-popping-sounds-from-arctis-7-on-windows-computers/"><u>Troubleshooting Techniques for Eliminating Popping Sounds From Arctis 7 on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-for-continuous-audio-cuts-during-windows-11-usage/"><u>Ultimate Solution for Continuous Audio Cuts During Windows 11 Usage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/understanding-and-resolving-microphone-voice-pickup-problems/"><u>Understanding and Resolving Microphone Voice Pickup Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-the-problems-expert-tips-on-fixing-discords-microphone-malfunctions/"><u>Unmute the Problems: Expert Tips on Fixing Discord's Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-dota-2-microphone-proven-solutions-to-restore-audio-communication/"><u>Unstuck Your Dota 2 Microphone - Proven Solutions to Restore Audio Communication</u></a></li>
+</ul></div>
 

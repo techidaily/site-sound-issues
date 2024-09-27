@@ -1,7 +1,7 @@
 ---
 title: Toshiba No Sound Problem? Here Are the Best Remedies You Can Try
-date: 2024-09-19T20:03:34.956Z
-updated: 2024-09-21T16:42:33.255Z
+date: 2024-09-24T22:16:53.035Z
+updated: 2024-09-26T23:55:35.113Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/8eee5494b28afc7aa3f86c9129d566065bf2c03da
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-740.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your sound isn’t muted but sound won’t work properly, don’t worry. Move on to the next step.
 
 ### Fix 2: Check headphones or speakers work properly
@@ -76,10 +83,16 @@ Here are the instructions:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-744.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-745.png)
@@ -108,6 +121,13 @@ Your sound problem still persists? Move to the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-746.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note: You can do it for free if you like, but it’s partly manual.
 
 4) Restart Windows to take effect.
@@ -115,16 +135,10 @@ Your sound problem still persists? Move to the next method.
 Now try playing sound in your laptop and your problem should be fixed.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Run the sound troubleshooter
@@ -138,10 +152,10 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-540.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Ensure to choose**View by Large icons** or**View by Small icons** , and click**Troubleshooting** .
@@ -156,6 +170,13 @@ Here’s what you can do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-544-1024x578.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-545.png)
@@ -166,6 +187,13 @@ Here’s what you can do:
 
 Still no luck? Don’t give up hope.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Configure sound settings
 
  The wrong sound settings in your laptop can lead to the sound not working issues, so you can adjust the sound settings in Windows.
@@ -175,13 +203,6 @@ Still no luck? Don’t give up hope.
  1) Type**Control Panel** in the search bar on your laptop, and click**Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-540.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Ensure to choose**View by Large icons** or**View by Small icons** . Then click**Sound** .
 
@@ -210,13 +231,6 @@ If this step doesn’t work, try step 2.
  1) Type**Control Panel** in the search bar on your laptop, and click**Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-540.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Ensure to choose**View by Large icons** or**View by Small icons** . Then click**Sound** .
 
@@ -260,6 +274,13 @@ Once completed, play sound and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-760.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Then see if the sound restarts to work. Try different rates until your sound begins to work again. Then click**Apply** and**OK** to save your changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-761.png)
@@ -284,5 +305,19 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/remnant-from-the-ashes-troubleshooting-persistent-game-crashes/"><u>'Remnant: From the Ashes' - Troubleshooting Persistent Game Crashes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-instagram-time-keeper-learning-to-rewind/"><u>[Updated] In 2024, The Instagram Time Keeper Learning to Rewind</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-record-video-directly-from-webcam-using-vlc-media-player/"><u>In 2024, Record Video Directly From Webcam Using VLC Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-device-detection-problems-for-windows-10-users/"><u>Resolving Audio Device Detection Problems for Windows 10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-inability-to-install-windows-store-apps/"><u>Resolving Inability to Install Windows Store Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-microphone-functionality-a-step-by-nstep-guide-to-fixing-zoom-audio-problems-on-your-computer/"><u>Restoring Microphone Functionality: A Step-by-nStep Guide to Fixing Zoom Audio Problems on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-how-to-enable-audio-for-cyberpunk-2077-on-new-windows-11-systems/"><u>Restoring Soundscape: How to Enable Audio for Cyberpunk 2077 on New Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-speaker-functionality-for-hp-laptops-in-the-latest-windows-os/"><u>Restoring Speaker Functionality for HP Laptops in the Latest Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-of-silence-repair-tips-for-a-faulty-corsair-hs60-microphone/"><u>Reviving the Sound of Silence: Repair Tips for a Faulty Corsair HS60 Microphone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/skyrocketing-sales-with-high-roi-in-dynamic-fb-ad-creations/"><u>Skyrocketing Sales with High ROI in Dynamic FB Ad Creations</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-converting-your-kindle-library-for-use-on-the-kobo-clara-hd-ebook-reader/"><u>Step-by-Step Guide: Converting Your Kindle Library for Use on the Kobo Clara HD Ebook Reader</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Restore Your Astro A20's Audio Input Easily
-date: 2024-09-15T18:34:18.728Z
-updated: 2024-09-21T17:23:25.620Z
+date: 2024-09-24T21:52:40.064Z
+updated: 2024-09-26T19:11:01.330Z
 tags:
   - win11
   - win10
@@ -46,7 +46,21 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 ![connect astro a50](https://images.drivereasy.com/wp-content/uploads/2021/02/connect.jpg)
 5. Ensure that the game voice balance on the right ear cup of the headset is somewhere in the middle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the connections are fine, but the Astro A50 no sound issue persists, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Set your Astro A50 as the default
 
@@ -69,20 +83,27 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
 4. Test the audio.
 
-If the problem remains, you can move on to the next method.
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If the problem remains, you can move on to the next method.
 
 ## Fix 3: Update the sound card driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your sound card driver to see if it fixes your problem.
 
  There are two ways you can get the right drivers for your sound card: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your sound card driver manually
 
@@ -99,16 +120,29 @@ If the problem remains, you can move on to the next method.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -123,13 +157,6 @@ If the problem remains, you can move on to the next method.
 2. Right-click your default playback device and click **Properties** .  
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
@@ -155,5 +182,24 @@ If the problem remains, you can move on to the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-pewdiepies-paycheck-profile-a-glimpse-into-his-earnings-for-2024/"><u>[New] PewDiePie’s Paycheck Profile – A Glimpse Into His Earnings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-quick-click-quest-the-art-of-facebook-id-reconnaissance/"><u>[New] Quick Click Quest The Art of Facebook ID Reconnaissance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>[Updated] In 2024, Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeating-discords-persistent-echo-on-your-pc-the-definitive-2024-tutorial/"><u>Defeating Discord's Persistent Echo on Your PC: The Definitive 2024 Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-ptt-not-working-effective-strategies-to-get-it-running-smoothly-again/"><u>Discord PTT Not Working: Effective Strategies to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-when-your-pebble-audio-device-fails/"><u>DIY Solutions for When Your Pebble Audio Device Fails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-the-no-sound-problem-in-windows-11-computers/"><u>Expert Tips to Overcome the 'No Sound' Problem in Windows 11 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-malfunctioning-rust-microphone-comprehensive-guide-for-2nnd4/"><u>Fixing a Malfunctioning Rust Microphone - Comprehensive Guide for 2Nnd4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-recognition-problems-with-your-blue-yeti-usb-microphone/"><u>Fixing Recognition Problems with Your Blue Yeti USB Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-quiet-clans-to-roaring-fights-resolving-valheim-no-sound-woes-on-windows/"><u>From Quiet Clans to Roaring Fights: Resolving Valheim No-Sound Woes on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-logitech-g933-speakers-working-again-effortless-troubleshooting-guide/"><u>Get Your Logitech G933 Speakers Working Again - Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 11 Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-9-live-game-streaming-platform-you-should-know/"><u>In 2024, Top 9 Live Game Streaming Platform You Should Know</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/increase-visits-to-your-site-from-flipbooks-with-effective-lead-generation-techniques-flipbuildercom/"><u>Increase Visits to Your Site From Flipbooks with Effective Lead Generation Techniques [FlipBuilder.com]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-hp-officejet-pro-8715-driver-on-windows-latest-version-for-11-10-and-8/"><u>Install HP OfficeJet Pro 8715 Driver on Windows - Latest Version for 11, 10 & 8</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-complete-critical-audiovideo-driver-found-and-installed/"><u>Installation Complete: Critical Audio/Video Driver Found & Installed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/take-it-upward-expert-techniques-for-phones/"><u>Take It Upward Expert Techniques for Phones</u></a></li>
+</ul></div>
 
