@@ -1,7 +1,7 @@
 ---
 title: "Logitech G Pro X Microphone Failure: Steps to Resolve the Problem Successfully"
-date: 2024-09-25T23:47:48.480Z
-updated: 2024-09-26T17:42:26.368Z
+date: 2024-09-26T20:02:02.447Z
+updated: 2024-10-01T23:46:32.898Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ Objectively, external webcams such as Logitech webcams offer better video qualit
 ![how to fix Logitech webcam mic not working](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-webcam-mic-not-working.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install all Windows updates
@@ -60,6 +60,13 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your webcam driver
 
  The built-in microphone won’t be functioning properly if you’re using a corrupted or outdated webcam driver. It would stop you from getting the most out of your device and you may be lacking a new feature required for the microphone to work as expected. Therefore, to troubleshoot the issue you’re having, you need to update your webcam driver.
@@ -78,6 +85,13 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -88,6 +102,13 @@ Here’s how to update your drivers with Driver Easy:
  After updating your drivers, restart your computer and do a mic test to check if the problem is solved. If not, then continue trying the fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Allow access to your webcam built-in microphone
 
@@ -103,29 +124,9 @@ Here’s how to update your drivers with Driver Easy:
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Once you’ve allowed the microphone to access your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
@@ -141,13 +142,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/Input-section-1.png)
@@ -156,22 +150,15 @@ Here’s how to update your drivers with Driver Easy:
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Set your device as default
@@ -185,6 +172,13 @@ Here’s how to update your drivers with Driver Easy:
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select the **Recording**  tab. Select your microphone and then click **Set Default > OK** .  
   
@@ -205,10 +199,10 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
@@ -238,20 +232,19 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/tep-by-step-success-on-youtube-with-spectacision-music-videos-for-2024/"><u>[New] Step-by-Step Success on Youtube with Spectacision Music Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-lowering-sound-gradually-a-logic-pro-method/"><u>[Updated] Lowering Sound Gradually A Logic Pro Method</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-revised-sony-s3700-experience/"><u>[Updated] Unveiling the Revised Sony S3700 Experience</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-become-a-snapchat-boomerang-pro-complete-tutorial/"><u>2024 Approved Become a Snapchat Boomerang Pro Complete Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-handy-windows-10-and-11-command-shortcuts-you-can-set-up-with-nircmd/"><u>8 Handy Windows 10 & 11 Command Shortcuts You Can Set Up With NirCmd</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/adding-brand-markers-guide-for-embedding-watermarks-and-logos-in-videos-pcmac/"><u>Adding Brand Markers: Guide for Embedding Watermarks & Logos in Videos (PC/MAC)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-on-windows-10-effective-fixes-and-workarounds/"><u>Continuous Sound Problems on Windows 10: Effective Fixes & Workarounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-steams-voice-call-problems-for-gamers/"><u>Expert Advice on Fixing Steam's Voice Call Problems for Gamers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-repairing-and-reviving-your-broken-bose-speaker-unit/"><u>Expert Advice: Repairing and Reviving Your Broken Bose Speaker Unit</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-razer-barracuda-x-microphone-issues-on-windows-11-and-10/"><u>Fixing Razer Barracuda X Microphone Issues on Windows 11 & 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/installed-app-warranty-scheme/"><u>Installed App Warranty Scheme</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-integrating-gpt-references-enhancing-conversations-with-personalized-ai/"><u>Mastering the Art of Integrating GPT References: Enhancing Conversations with Personalized AI</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-issues-in-world-of-warcraft-effective-fixes-and-solutions/"><u>Overcoming Voice Chat Issues in World of Warcraft - Effective Fixes and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-for-mute-mic-and-speakers-on-your-windows-11-system/"><u>Quick Troubleshooting for Mute Mic and Speakers on Your Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-making-your-airpods-mic-work-again-on-windows-11/"><u>Solving Audio Problems: Making Your AirPods Mic Work Again on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ranking-top-online-tutorial-providers-excluding-udemy-for-2024/"><u>[New] Ranking Top Online Tutorial Providers Excluding Udemy for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unmatched-download-experience-with-our-top-tools-list/"><u>[New] Unmatched Download Experience with Our Top Tools List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-8-superior-windows-video-call-apps-ranked/"><u>[Updated] In 2024, 8 Superior Windows Video Call Apps Ranked</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ultimate-strategies-for-stunning-iphone-nature-photography/"><u>[Updated] In 2024, Ultimate Strategies for Stunning iPhone Nature Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-list-15-must-watch-unboxing-channels/"><u>[Updated] Ultimate List 15 Must-Watch Unboxing Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-new-and-exclusive-discover-imovie-for-windows-the-ultimate-video-editing-suite-of-2024/"><u>1. New & Exclusive: Discover iMovie for Windows – The Ultimate Video Editing Suite of 2024!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-secrets-of-lut-production/"><u>2024 Approved Unlocking the Secrets of LUT Production</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-restoring-audio-on-your-astro-a50-speaker-in-a-flash/"><u>Fixing the Issue: Restoring Audio on Your Astro A50 Speaker in a Flash</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/funny-fortunes-leading-laughs-in-the-tiktok-world/"><u>Funny Fortunes Leading Laughs in the TikTok World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-audio-output-solutions-for-low-sound-levels-on-windows-11-systems/"><u>Optimizing Audio Output: Solutions for Low Sound Levels on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rapid-resolution-sound-problems-with-astro-a50-quick-fixes-needed-now/"><u>Rapid Resolution: Sound Problems with Astro A50 - Quick Fixes Needed Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-playback-problems-starting-the-dolby-sound-driver-on-windows-10-successfully/"><u>Resolving Playback Problems: Starting the Dolby Sound Driver on Windows 10 Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-tunes-troubleshooting-silent-windows-media-player-problems/"><u>Reviving Your Tunes: Troubleshooting Silent Windows Media Player Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-hp-computer-sound-issues-effectively/"><u>Troubleshooting and Resolving HP Computer Sound Issues Effectively</u></a></li>
 </ul></div>
 

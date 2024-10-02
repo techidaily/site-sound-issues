@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Call of Duty Modern Warfare Voice Chat Back On Track: A Guide to Resolving Common Issues"
-date: 2024-09-18T19:51:00.978Z
-updated: 2024-09-21T18:25:59.577Z
+date: 2024-09-27T02:20:44.998Z
+updated: 2024-10-01T16:01:59.446Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Perform basic troubleshooting
 
  If you’re having trouble hearing your friends using in-game voice chat when playing Destiny 2, you should check the following first:
@@ -74,13 +81,6 @@ Now check if voice chat functions properly.
 3. Ensure that “**Who can send you voice chat and party invites** ” is not set to Private.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/stadia-privacy-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Windows 10
 
 1. If Destiny 2 is open, close the game entirely.
@@ -88,11 +88,34 @@ Now check if voice chat functions properly.
 3. Type**ms-settings:privacy-microphone** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-ms-settings-privacy-microphone.jpg)
 4. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** . If not, you can click the**Change** button above to turn it on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-apps-to-access-your-microphone.jpg)
 5. Scroll down the list of apps below that toggle to find**Destiny 2** . Make sure it is also toggled to**ON** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. **Relaunch** the game and check if the in-game voice chat is working.
 
 If this fix doesn’t do the trick, move on to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -112,6 +135,13 @@ If this fix doesn’t do the trick, move on to the next one.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -133,13 +163,6 @@ If this solution doesn’t work for you, check out the next fix.
  Go to in-game sound settings, then hold the**square** button to reset it to default.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps4-square.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Xbox:**
 
  Go to in-game sound settings, then select the “**reset to default** ” button in the bottom right.
@@ -149,10 +172,10 @@ Now you can check if the voice chat feature works properly in Destiny 2.
 If this method still gives you no luck, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check your sound settings (PC)
@@ -162,13 +185,6 @@ If this method still gives you no luck, take a look at the next one.
 1. On your taskbar, right-click the**Speakers** icon and select**Open Volume mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer-1.jpg)
 2. You’ll see a set of volume controls for your devices. Make sure none of them are muted.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/volume-mixer.jpg)
 3. Right-click the**Speakers** icon again and select**Sounds** .  
@@ -180,16 +196,16 @@ If this method still gives you no luck, take a look at the next one.
 6. Click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After everything is set up correctly, restart Destiny 2 to see if your audio issue is resolved.
 
 If not, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Restart Windows Audio Service
 
@@ -204,6 +220,13 @@ If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/windows-audio-properties.jpg)
 5. In the Windows Audio properties window, check if the**Startup type** is set to Automatic. If not,**set it to Automatic** and click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/audio-automatic-ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, restart your computer and launch Destiny 2 to see if this solves the problem.
 
@@ -234,5 +257,22 @@ If the issue remains, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snap-it-right-15-innovative-posting-hacks/"><u>[Updated] In 2024, Snap It Right 15 Innovative Posting Hacks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-hidden-potential-essential-edits-for-starters/"><u>[Updated] In 2024, Unlock Hidden Potential Essential Edits for Starters</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016597364-5-fast-and-effective-ways-to-get-your-oculus-rift-s-microphone-up-and-running-again/"><u>5 Fast and Effective Ways to Get Your Oculus Rift S Microphone Up & Running Again</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-real-world-applications-how-chatgpt-is-revolutionizing-tech/"><u>Exploring Real-World Applications: How ChatGPT Is Revolutionizing Tech</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exporting-your-favorite-chaturbate-videos-in-high-quality-mp4-format-best-methods-and-tools/"><u>Exporting Your Favorite Chaturbate Videos in High-Quality MP4 Format: Best Methods and Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stop-crackling-sound-from-speakers-when-using-windows-11-or-windows-n/"><u>How to Stop Crackling Sound From Speakers When Using Windows 11 or Windows N</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-in-documentary-writing-essential-techniques/"><u>In 2024, Mastery in Documentary Writing Essential Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-yet-easy-to-use-the-z-edge-z3-plus-dashcam-user-guide-a-cost-effective-choice/"><u>Innovative yet Easy to Use: The Z-Edge Z3 Plus Dashcam User Guide - A Cost-Effective Choice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-mono-output-a-diy-fix-for-stereo-sound-malfunctions/"><u>Overcoming Mono Output: A DIY Fix for Stereo Sound Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-bluetooth-functionality-on-your-windows-nx-device/"><u>Restore Bluetooth Functionality on Your Windows nX Device</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/seamless-integration-a-step-by-step-guide-to-importing-avi-files-into-after-effects/"><u>Seamless Integration: A Step-by-Step Guide to Importing AVI Files Into After Effects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-mac-no-more-easy-steps-to-get-your-device-playing-again/"><u>Silent Mac No More: Easy Steps to Get Your Device Playing Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-10-compatibility-a-comprehensive-guide-for-fixing-apple-airpods-mic-problems/"><u>Solving Windows 10 Compatibility: A Comprehensive Guide for Fixing Apple AirPods Mic Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-restoring-functionality-to-a-non-working-razer-blackshark-v2-mic/"><u>Step-by-Step Solution: Restoring Functionality to a Non-Working Razer BlackShark V2 Mic</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/voiceover-dynamics-for-stellar-ppt-presentations/"><u>Voiceover Dynamics for Stellar PPT Presentations</u></a></li>
+</ul></div>
 

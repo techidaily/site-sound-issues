@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Repair Windows 11 Sound Issues in Five Easy Steps
-date: 2024-09-24T19:51:21.774Z
-updated: 2024-09-26T16:24:53.246Z
+date: 2024-09-29T00:09:33.127Z
+updated: 2024-10-01T21:52:38.529Z
 tags:
   - win11
   - win10
@@ -73,47 +73,30 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try your computer sound again to see if it still cuts out. If so, please move on.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -122,26 +105,35 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -167,15 +159,14 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-10-most-powerful-drawing-tools-on-chrome-os/"><u>[New] Explore the 10 Most Powerful Drawing Tools on Chrome OS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-persuasive-films-that-hook-and-hold-audiences/"><u>[Updated] Persuasive Films That Hook and Hold Audiences</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/achieve-seamless-audio-streaming-on-bluetooth-devices/"><u>Achieve Seamless Audio Streaming on Bluetooth Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-the-boundaries-limitations-in-vr/"><u>Beyond the Boundaries Limitations in VR</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-fixing-malfunctioning-kotion-each-g2000-microphone-units/"><u>DIY Solutions for Fixing Malfunctioning KOTION Each G2000 Microphone Units</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-heres-how-you-can-fix-them-fast-and-simple/"><u>Fortnite Voice Communication Issues? Here's How You Can Fix Them Fast and Simple</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-logitec-pro-x-mic-issues-a-step-by-step-guide/"><u>How to Fix Logitec Pro X Mic Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-and-resolving-the-issue-of-missing-shorts-thumbnails/"><u>In 2024, Understanding & Resolving the Issue of Missing Shorts Thumbnails</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-virtual-journeys-ultimate-listing-of-10-free-mmorpg-games/"><u>In 2024, Virtual Journey's Ultimate Listing of 10 Free MMORPG Games</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/atory-guidelines-youtube-video-recording-for-2024/"><u>Regulatory Guidelines YouTube Video Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-detox-how-to-turn-off-youtube-on-computers-and-phones-for-2024/"><u>[New] Digital Detox How to Turn Off Youtube on Computers and Phones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-glossary-for-googles-voice-to-text-feature/"><u>[New] Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-and-correcting-nonfunctional-audio-service-problems-for-optimal-performance/"><u>Addressing and Correcting Nonfunctional Audio Service Problems for Optimal Performance</u></a></li>
+<li><a href="https://app-tips.techidaily.com/delving-deep-into-chatsonic-a-thorough-assessment-of-the-cutting-edge-ai-chat-companion/"><u>Delving Deep Into Chatsonic: A Thorough Assessment of the Cutting-Edge AI Chat Companion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-black-ops-cold-war-voice-communication-failure/"><u>Fixing the Issue: Black Ops Cold War Voice Communication Failure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-mic-problems-solved-a-step-by-step-guide/"><u>Razer Kraken Mic Problems Solved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-reactivating-the-voice-communication-in-cod-vanguard/"><u>Solution Guide: Reactivating the Voice Communication in Cod: Vanguard</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-inverting-movies-with-iphone/"><u>Step by Step Inverting Movies with iPhone</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 6 | Stellar</u></a></li>
 </ul></div>
 

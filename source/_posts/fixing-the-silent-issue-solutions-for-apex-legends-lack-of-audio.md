@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Silent Issue: Solutions for Apex Legends Lack of Audio"
-date: 2024-09-19T16:19:36.584Z
-updated: 2024-09-26T23:15:12.048Z
+date: 2024-09-28T21:27:53.085Z
+updated: 2024-10-01T19:31:00.597Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -44,24 +51,17 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Make sure the audio level is high enough
 
@@ -73,25 +73,19 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure the Bluetooth Support Service is enabled
 
@@ -101,19 +95,27 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your Bluetooth driver
 
@@ -129,16 +131,16 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -180,19 +182,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-explore-10-open-source-teleconference-applications-for-2024/"><u>[New] Explore 10 Open Source Teleconference Applications for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-airdrop-not-working-how-to-fix-it-on-iphone-ipad-and-mac/"><u>2024 Approved Airdrop Not Working? How to Fix It on iPhone, iPad, & Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-smart-7-hd-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Smart 7 HD to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/achieve-seamless-audio-sync-top-tips-for-eliminating-speaker-delays/"><u>Achieve Seamless Audio Sync: Top Tips for Eliminating Speaker Delays</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-volume-effective-fixes-for-no-audio-issues-in-borderlands-3-on-pc/"><u>Boosting Volume: Effective Fixes for No Audio Issues in Borderlands 3 on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016408463-fortnite-sounds-down-heres-how-to-turn-up-the-volume-and-win/"><u>Fortnite Sounds Down? Here’s How to Turn Up the Volume and Win!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-corsair-hs35-back-online-expert-solutions-for-windows-audio-problems/"><u>Get Your Corsair HS35 Back Online: Expert Solutions for Windows Audio Problems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-5-groundbreaking-advice-points-from-successful-marketers-online/"><u>In 2024, 5 Groundbreaking Advice Points From Successful Marketers Online</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-100-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor 100 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-leading-free-video-conferencing-services-top-screen-sharing-list/"><u>In 2024, Leading Free Video Conferencing Services Top Screen Sharing List</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quietude-kingdoms-ultimate-zen-pc-games-for-2024/"><u>Quietude Kingdoms Ultimate Zen PC Games for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-non-functioning-microphones-on-steelseries-arctis-9-x-series/"><u>Troubleshooting Guide for Non-Functioning Microphones on SteelSeries Arctis 9 X Series</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-twin-dips-in-game-fluidity-an-advanced-guide-for-gamers/"><u>Troubleshooting Twin Dips in Game Fluidity: An Advanced Guide for Gamers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-from-amateur-to-pro-learning-audacitys-audio-recording-without-investment/"><u>Updated 2024 Approved From Amateur to Pro Learning Audacitys Audio Recording Without Investment</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ballot-battlegrounds-prime-election-strategy-games-for-2024/"><u>[New] Ballot Battlegrounds Prime Election Strategy Games for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-lens-wisdom-the-best-cinemagraph-tips/"><u>[New] Behind-the-Lens Wisdom The Best Cinemagraph Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-dive-into-creativity-mastering-artistic-elements-in-instagram-edits-for-2024/"><u>[New] Dive Into Creativity Mastering Artistic Elements in Instagram Edits for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-fitness-goals-with-the-ultimate-music-mix/"><u>2024 Approved Ignite Fitness Goals with the Ultimate Music Mix</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-obs-setup-guide-for-macos-downloading-and-setting-up/"><u>2024 Approved OBS Setup Guide for macOS Downloading & Setting Up</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-optimize-your-media-output-with-our-top-10-online-subtitles-tools/"><u>2024 Approved Optimize Your Media Output With Our Top 10 Online Subtitles Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudios-battle-for-productivity-gpt-vs-everyday-task-helper/"><u>Claudio's Battle for Productivity: GPT Vs. Everyday Task Helper</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-for-lucidsound-ls30-malfunctioning-mic/"><u>Common Problems & Solutions for LucidSound LS30 Malfunctioning Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/echoes-of-the-past-fixing-no-sound-problems-with-nvidias-high-definition-audio/"><u>Echoes of the Past? Fixing No Sound Problems with Nvidia's High Definition Audio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-targus-displaylink-driver-upgrades-compatible-with-windows-10-8-and-cuhildren/"><u>Latest Targus DisplayLink Driver Upgrades – Compatible with Windows 10, 8 & Cuhildren</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-cant-you-hear-your-games-on-discord/"><u>Solved: Why Can't You Hear Your Games on Discord?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-pro-microphone-issues-expert-advice-for-fixes/"><u>Solved! SteelSeries Arctis Pro Microphone Issues – Expert Advice for Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-no-sound-problem-in-windows-media-player-expert-solutions-revealed/"><u>Troubleshoot No Sound Problem in Windows Media Player – Expert Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repair-for-non-functional-corsair-hs35-microphones-on-pcs-with-windows-os/"><u>Troubleshooting and Repair for Non-Functional Corsair HS35 Microphones on PCs with Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-cod-vanguards-voice-chat-working-expert-fixes-and-tips/"><u>Why Isn't COD: Vanguard's Voice Chat Working? Expert Fixes & Tips</u></a></li>
 </ul></div>
 

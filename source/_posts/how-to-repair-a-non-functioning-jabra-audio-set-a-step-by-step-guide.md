@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Non-Functioning Jabra Audio Set - A Step-by-Step Guide
-date: 2024-09-25T23:52:51.245Z
-updated: 2024-09-26T16:57:35.067Z
+date: 2024-09-25T20:19:17.114Z
+updated: 2024-10-01T16:15:27.181Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -52,22 +45,16 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
@@ -116,9 +103,23 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
@@ -127,19 +128,6 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Right click on your microphone again and select**Set as Default Device** .
 
@@ -150,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
@@ -161,10 +149,10 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Save your changes and restart your computer.
@@ -201,22 +189,24 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-elevate-your-online-presence-with-expert-streaming-guide/"><u>[New] 2024 Approved Elevate Your Online Presence with Expert Streaming Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unleashing-creativity-a-tiktok-video-guide-for-devices-for-2024/"><u>[New] Unleashing Creativity A TikTok Video Guide for Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-eradicate-commercial-breaks-in-facebook-videos-for-2024/"><u>[Updated] Eradicate Commercial Breaks in Facebook Videos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-identifying-premium-free-online-tools-for-efficient-srt-translations/"><u>[Updated] Identifying Premium Free Online Tools for Efficient SRT Translations</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pro-audio-integration-essential-tips-for-podcasters/"><u>[Updated] In 2024, Pro Audio Integration Essential Tips for Podcasters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-slide-show-software-selection-from-ix-ios13/"><u>[Updated] Slide Show Software Selection From IX-IOS13</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-speaker-trouble-get-your-sound-back-on-windows-10-now/"><u>Anthem Speaker Trouble? Get Your Sound Back on Windows 10 Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-pcs-sound-a-5-step-guide-for-windows-10-users/"><u>Fix Your PC's Sound: A 5-Step Guide for Windows 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/full-fix-beyond-the-wire-mic-not-working/"><u>Full Fix: Beyond The Wire Mic Not Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-effortlessly-solve-sound-problems-on-your-windows-10-device-a-five-step-approach/"><u>How to Effortlessly Solve Sound Problems on Your Windows 10 Device: A Five-Step Approach</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/microphone-failure-heres-the-fix-for-voice-not-being-recorded/"><u>Microphone Failure? Here's the Fix for Voice Not Being Recorded</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-in-outriders-a-comprehensive-guide/"><u>Solving Sound Problems in Outriders: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-microphones-a-step-by-step-guide-to-restoring-voice-chat-in-discord/"><u>Troubleshooting Silent Microphones: A Step-by-Step Guide to Restoring Voice Chat in Discord</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-looking-for-the-best-high-quality-game-download-sites-in-this-article-youll-find-10-great-sites-in-the-most-popular-genres/"><u>Updated 2024 Approved Looking for the Best High-Quality Game Download Sites? In This Article, Youll Find 10 Great Sites in the Most Popular Genres</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/win-11-audio-fixes-no-sound-after-latest-update-resolved/"><u>Win 11 Audio Fixes: No Sound After Latest Update Resolved</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-your-gamers-channel-with-template-guidance/"><u>[New] Streamline Your Gamers' Channel with Template Guidance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-id-video-overview-length-aspect-ratio-frame-rate/"><u>[Updated] Facebook ID Video Overview Length, Aspect Ratio, Frame Rate</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nine-pinnacle-filmora-features-videographers-adore/"><u>[Updated] Nine Pinnacle Filmora Features Videographers Adore</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secrets-encased-exploring-e-commerce-realms-of-mystery-boxes/"><u>[Updated] Secrets Encased Exploring E-Commerce Realms of Mystery Boxes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-principles-of-crafting-alluring-vlog-storylines/"><u>2024 Approved Principles of Crafting Alluring Vlog Storylines</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-sound-problem-heres-the-ultimate-guide-to-fixing-it/"><u>Battlefield 4 Sound Problem? Here's the Ultimate Guide to Fixing It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-down-advertising-budgets-on-youtube/"><u>Breaking Down Advertising Budgets on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-sound-quality-on-a-windows-10-computer-practical-solutions/"><u>Enhancing Sound Quality on a Windows 10 Computer – Practical Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mpow-mic-issues-on-pc-troubleshooting-guide/"><u>Fixing MPOW Mic Issues on PC - Troubleshooting Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y78-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y78 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-narzo-60x-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme Narzo 60x 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-microphone-problems-in-google-hangouts-effortlessly-step-by-step-tips/"><u>Resolve Microphone Problems in Google Hangouts Effortlessly – Step-by-Step Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-repairing-your-corsair-hs60-when-the-mic-wont-work/"><u>Solution Guide: Repairing Your Corsair HS60 When the Mic Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-what-to-do-when-your-voice-is-unheard-by-the-mic/"><u>Solved: What To Do When Your Voice Is Unheard By The Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-microsoft-teams-microphone-problems-tips-for-windows-11-and-10-devotees/"><u>Solving Your Microsoft Teams Microphone Problems: Tips for Windows 11 & 10 Devotees</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolving-your-google-meet-mic-problem-in-windows-11-and-10-systems/"><u>Step-by-Step Tutorial: Resolving Your Google Meet Mic Problem in Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-seamless-game-sound-integration-with-this-solved-discord-method/"><u>Unlock Seamless Game Sound Integration with This Solved Discord Method!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/whatsapps-melodic-messaging-guide/"><u>WhatsApp's Melodic Messaging Guide</u></a></li>
 </ul></div>
 

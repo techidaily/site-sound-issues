@@ -1,7 +1,7 @@
 ---
 title: "DIY Audio Fixes: Getting Your Turtle Beach Elite Atlas Mic Working Again"
-date: 2024-09-15T18:55:52.365Z
-updated: 2024-09-21T19:07:29.113Z
+date: 2024-09-26T02:59:36.121Z
+updated: 2024-10-01T19:32:01.376Z
 tags:
   - win11
   - win10
@@ -61,16 +61,24 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 3. Right-click the headset then select**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-06-58-1.jpg)
-
-Check if your mic works. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-06-58-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Check if your mic works. If not, try the next solution.
 
 ### Fix 2:**Set your headset as the input device**
 
@@ -83,13 +91,20 @@ Check if your mic works. If not, try the next solution.
 3. You’ll be able to adjust the volume and output/input device for different apps as you need.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-38-57.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check if your headset microphone can record your voice. If this doesn’t help, proceed to the next solution.
 
@@ -111,13 +126,6 @@ Check if your mic works. If not, try the next solution.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -131,22 +139,15 @@ Check if your mic works. If not, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
  Check if your headset mic is working. If this doesn’t give you luck, try the last solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5:**Re-enable your headset mic via Device Manager**
@@ -159,7 +160,28 @@ Check if your mic works. If not, try the next solution.
 3. Under**Audio inputs and outputs** , right-click your headset then select**Disable Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-05-22.jpg)
 4. Again right-click your headset, then select**Enable device** .  
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-10-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if your headset mic works.
 
@@ -188,5 +210,23 @@ Check if your headset mic works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android/"><u>[New] 2024 Approved PickU's Claim – The Ultimate Editor or Just Another Featured App in Android?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-complete-guide-to-utilizing-youtubes-adsense-for-success-for-2024/"><u>[New] A Complete Guide to Utilizing YouTube’s AdSense for Success for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quickscreencapture-simple-windows-10-app/"><u>[New] QuickScreenCapture Simple Windows 10 App</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-in-depth-guide-to-installation-of-wm6/"><u>2024 Approved In-Depth Guide to Installation of WM6</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-insider-tips-the-best-instagram-strategies-for-profit/"><u>2024 Approved Insider Tips The Best Instagram Strategies for Profit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/a-decade-compared-android-pie-vs-original-marshmallow/"><u>A Decade Compared: Android Pie Vs. Original Marshmallow</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-14-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 14</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficiently-change-avi-videos-into-vob-for-dvds-using-windows-exercise)/"><u>Efficiently Change AVI Videos Into VOB for DVDs Using Windows eXercise></u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-google-pixel-7a-phone-by-drfone-android/"><u>How to Unlock a Network Locked Google Pixel 7a Phone?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-troubleshooting-guide-get-it-working-again/"><u>Logitech G533 Microphone Troubleshooting Guide: Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-windows-10-users-with-nonworking-headset-devices/"><u>Quick Fixes for Windows 10 Users with Nonworking Headset Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-dacamp-fix-overcoming-the-no-sound-error-effectively/"><u>Realtek DAC/AMP Fix: Overcoming the No Sound Error Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-for-resolving-google-hangouts-microphone-problems-quickly/"><u>Simple Steps for Resolving Google Hangouts Microphone Problems Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-silent-pc-post-windows-11-upgrade-simple-fixes/"><u>Solved: Silent PC Post-Windows 11 Upgrade - Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-sudden-popping-audio-problems-on-windows/"><u>Step-by-Step Guide to Fixing Sudden 'Popping' Audio Problems on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-improvement-tool-deactivation-tips-for-better-listening-experience/"><u>Windows 11 Audio Improvement Tool Deactivation Tips for Better Listening Experience</u></a></li>
+</ul></div>
 

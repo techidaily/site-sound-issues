@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Reactivating Your Voice Chat Feature on Modern Warfare"
-date: 2024-09-17T17:05:00.467Z
-updated: 2024-09-21T21:03:34.256Z
+date: 2024-09-29T16:40:42.012Z
+updated: 2024-10-02T01:26:03.493Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52a57919f5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) View by **Large icons** and select **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ab2cb848.jpg)
@@ -52,11 +59,25 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b6ad9a11.png)
 
 6) Check to see if your audio crackling problem is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Disable ATI HDMI Audio**
 
@@ -73,10 +94,16 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 If you don’t see this option here, move on to the next steps.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. DPC Latency**
@@ -89,16 +116,16 @@ If you don’t see this option here, move on to the next steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5313c8fd13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
 
@@ -136,5 +163,22 @@ If you don’t see this option here, move on to the next steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-aptly-convert-speech-to-text-with-googles-innovative-tech-for-2024/"><u>[Updated] Aptly Convert Speech to Text with Google's Innovative Tech for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-cutting-edge-earning-analyzers-for-tiktok-stars/"><u>[Updated] In 2024, Cutting-Edge Earning Analyzers for TikTok Stars</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-dissecting-youtubes-criteria-for-featured-community-inputs/"><u>2024 Approved Dissecting YouTube's Criteria for Featured Community Inputs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-golden-age-of-video-gamers/"><u>2024 Approved YouTube's Golden Age of Video Gamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/beginners-blueprint-for-earnings-in-periscope-livestreams-for-2024/"><u>Beginner's Blueprint for Earnings in Periscope Livestreams for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/blu-ray-collections-the-perfect-hobby-in-todays-world/"><u>Blu-Ray Collections: The Perfect Hobby in Today's World</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-huawei-p60-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei P60 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-the-astro-a50-audio-problem-get-clear-sounds-back/"><u>Immediate Fixes for the Astro A50 Audio Problem – Get Clear Sounds Back!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mac-no-volume-troubleshooting-tips-for-restoring-sound-output-on-mac-devices/"><u>Mac No Volume: Troubleshooting Tips for Restoring Sound Output on Mac Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-the-disruptions-expert-advice-on-eliminating-crackling-noise-from-your-logitech-g-pro-x-headset-pc-edition/"><u>Silencing the Disruptions: Expert Advice on Eliminating Crackling Noise From Your Logitech G Pro X Headset (PC Edition)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-why-isnt-the-call-of-duty-black-ops-cold-war-voice-chat-functioning/"><u>Solution Guide: Why Isn't the Call of Duty: Black Ops Cold War Voice Chat Functioning?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speech-capture-made-easy-a-guide-to-keyboard-shortcuts-on-windows-11/"><u>Speech Capture Made Easy: A Guide to Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-increase-in-entropy-principle-has-profound-implications-on-the-arrow-of-time-and-why-we-perceive-time-as-moving-forward-it-defines-a-directionality-to-t647/"><u>The Increase in Entropy Principle Has Profound Implications on the Arrow of Time and Why We Perceive Time as Moving Forward; It Defines a Directionality to Thermodynamic Processes.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-astro-a10-microphone-problems/"><u>Troubleshooting and Repairing Astro A10 Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-sound-problems-heres-how-you-can-stop-them/"><u>Windows Sound Problems? Here's How You Can Stop Them!</u></a></li>
+</ul></div>
 

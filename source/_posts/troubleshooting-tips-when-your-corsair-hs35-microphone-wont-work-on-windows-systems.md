@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips When Your Corsair HS35 Microphone Won't Work on Windows Systems
-date: 2024-09-14T18:33:07.004Z
-updated: 2024-09-21T19:09:02.410Z
+date: 2024-09-30T23:23:15.418Z
+updated: 2024-10-01T21:21:52.875Z
 tags:
   - win11
   - win10
@@ -59,6 +59,19 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/CORSAIR-HS60-HAPTIC-Gaming-Headset.png)
 4. After updating, restart your computer to take effect.
@@ -69,16 +82,10 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
  Does the driver update get your Corsair headset back to work now? If not, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3 – Check the sound settings
@@ -88,36 +95,39 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 1. In the Windows search box, type**control** and select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-1.jpg)
 3. On the**Playback** tab, make sure your Corsair headset is enabled (covered with a green check mark). Then, click it and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-3.jpg)
 4. Navigate to the**Recording** tab. Select the Corsair headset microphone and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-4-1.jpg)
 5. Click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-5.jpg)
 
  Once completed, check if your Corsair headset functions well. If not, try to troubleshoot the firmware.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Update the firmware
 
@@ -128,20 +138,15 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 3. Navigate to the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1-1.jpg)
 4. Select your headset first, then check**Force update** and click the**Update** button.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/firmware-update.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/firmware-update.jpg)
 
  Wait for the process to complete and see how your headset works. Still no luck with the firmware update? Don’t worry. Check out the last solution.
 
@@ -152,14 +157,22 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 1. On your keyboard, press the**Windows logo** **key** and**R** at the same time to invoke the Run command. Then type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-0.jpg)
 2. Double-click**Audio inputs and outputs** to expand the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-1.jpg)
 3. Right-click your**Corsair device** and select**Uninstall device** . Make sure you’ve uninstalled the driver for both headset earphone and microphone.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-2.jpg)
@@ -198,5 +211,18 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>[New] 2024 Approved Recommendation Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-choreographing-a-memorable-tiktok-fade-out/"><u>[New] In 2024, Choreographing a Memorable TikTok Fade-Out</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>[New] Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-to-restore-mic-functionality-in-zoom-sessions-for-windows-10-and-11-users/"><u>Effective Fixes to Restore Mic Functionality in Zoom Sessions for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4/"><u>Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-zoom-calls-heard-on-windows-1110-by-fixing-mic-difficulties/"><u>Get Your Zoom Calls Heard on Windows 11/10 by Fixing Mic Difficulties</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-cutting-edge-taggification-top-7-affordable-online-extractors-for-youtube/"><u>In 2024, Cutting-Edge Taggification Top 7 Affordable Online Extractors for YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-fixing-the-steelseries-arctis-7-headset-issue/"><u>Overcoming Microphone Challenges: Fixing the SteelSeries Arctis 7 Headset Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-mic-checks-ultimate-guide-to-effortless-microphone-testing/"><u>Speedy Mic Checks: Ultimate Guide to Effortless Microphone Testing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-honor-magic-6-lite-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor Magic 6 Lite FRP Bypass</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016813840-windows-11-audio-problem-heres-how-to-restore-your-devices-sound/"><u>Windows 11 Audio Problem? Here's How to Restore Your Device's Sound</u></a></li>
+</ul></div>
 

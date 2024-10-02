@@ -1,7 +1,7 @@
 ---
 title: Expert Guide on Resolving Razer BlackShark V2's Non-Functional Microphone Problems
-date: 2024-09-22T17:36:43.049Z
-updated: 2024-09-26T17:46:05.107Z
+date: 2024-09-30T18:43:36.209Z
+updated: 2024-10-01T22:14:13.325Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/691a0d9f6910ad496390c7d88febf7f6a054b2a52
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
@@ -71,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/691a0d9f6910ad496390c7d88febf7f6a054b2a52
  Also, if you have other output devices, go to the**Playback** tab and disable them (except the one in use) in the same way as you did on the**Recording** tab.
 8. After everything’s done, click**OK** to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-335.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now it’s time to launch CS:GO and see whether your mic is working properly. If not, please proceed to the next fix below.
 
@@ -86,15 +86,16 @@ thumbnail: https://thmb.techidaily.com/691a0d9f6910ad496390c7d88febf7f6a054b2a52
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. Go to**Advanced** , and untick the box for**Allow applications to take exclusive control of this device** . After that, click**OK** to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-36.png)
@@ -103,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/691a0d9f6910ad496390c7d88febf7f6a054b2a52
  Try the CS:GO mic again to see if it works. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Check in-game settings
 
@@ -120,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/691a0d9f6910ad496390c7d88febf7f6a054b2a52
  When you’re all set, join a squad to see if you can use the mic properly. If not, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update device drivers
 
@@ -155,22 +170,8 @@ thumbnail: https://thmb.techidaily.com/691a0d9f6910ad496390c7d88febf7f6a054b2a52
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you verify that all the cache files are in normal state, please launch CS:GO and check if your mic is working properly this time. In case the problem persists, you should move on to the next fix.
 
@@ -184,10 +185,10 @@ thumbnail: https://thmb.techidaily.com/691a0d9f6910ad496390c7d88febf7f6a054b2a52
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-363.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. In the pop-up window, scroll through the list of services to locate**Windows Audio** . Click to highlight this item and click**Restart** in the left pane.  
@@ -204,6 +205,14 @@ If this fix didn’t help, you might try out the next one.
 
 1. On your keyboard, press the**Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and**I** at the same time to open the**Settings** window. Then, select**Privacy** and**Microphone** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Check if the Microphone access button is Off. If so, simply turn it**On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access.jpg)
 3. Below you’ll see another toggle for**Let apps access your microphone** . Also turn it on if it’s been set to**Off** .  
@@ -211,10 +220,10 @@ If this fix didn’t help, you might try out the next one.
 4. Scroll down and head to the part of**Choose which apps can access your microphone** . You won’t see Steam or CS:GO there but you can toggle on the apps related to your audio output. For instance, if you use Skype to communicate in games, make sure you turn its toggle on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After making these tweaks, check to see if your mic goes back to normal in CS:GO. If not, there’s still one last fix you may try.
@@ -240,13 +249,6 @@ Test your mic in the game and see if it works properly now.
 1. [**Repair & replace corrupted system files with Fortect**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Run SFC scan**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Repair & replace corrupted system files with Fortect
 
  The issue could be caused by corrupt system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a tool that specializes in Windows repairing and fixing corrupt files automatically.  
@@ -262,17 +264,17 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Restart your computer for the changes to take effect.
 6. Check your computer to see if the issue is fixed.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) the[Fortect support team](https://www.fortect.com/support/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run SFC scan
 
@@ -310,18 +312,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-beginners-pathway-building-a-simple-youtube-signup-for-2024/"><u>A Beginner’s Pathway Building a Simple YouTube Signup for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-the-silence-comprehensive-fixes-for-rec-room-microphone-problems-in-pc/"><u>Bust the Silence! Comprehensive Fixes for Rec Room Microphone Problems in PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-battlefields-troubleshooting-audio-issues-in-apex-legends/"><u>Fixing Silent Battlefields: Troubleshooting Audio Issues in Apex Legends</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-set-up-and-use-xbox-screen-recording-tools-for-2024/"><u>How to Set Up and Use Xbox Screen Recording Tools for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-decades-most-ingenious-frames-and-organizers-24/"><u>In 2024, The Decade's Most Ingenious Frames & Organizers '24</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-10-free-video-stabilization-tools-to-smooth-out-your-footage/"><u>New 2024 Approved Top 10 Free Video Stabilization Tools to Smooth Out Your Footage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-the-livekernelevent-117-mistake/"><u>Solutions for Resolving the LiveKernelEvent 117 Mistake</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-when-your-in-game-voice-chat-fails-on-lol/"><u>Solving the Problem When Your In-Game Voice Chat Fails on LoL</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-dell-audio-problems-in-minutes-easy-steps-inside/"><u>Troubleshoot Your Dell Audio Problems in Minutes – Easy Steps Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-non-functional-mic-on-windows-11-and-10-during-google-meets/"><u>Troubleshooting Guide: How to Repair Non-Functional Mic on Windows 11 and 10 During Google Meets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-removing-applications-from-your-mac-device/"><u>Ultimate Guide: Removing Applications From Your Mac Device</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-6-best-voice-changers/"><u>Updated In 2024, 6 Best Voice Changers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exploring-new-horizons-a-guide-to-top-6-nft-innovators/"><u>[New] Exploring New Horizons A Guide to Top 6 NFT Innovators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-what-youre-really-earning-as-a-podcaster/"><u>[New] In 2024, What You're Really Earning as a Podcaster</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-image-fusion-merging-photos-into-one-masterpiece/"><u>[Updated] 2024 Approved Image Fusion Merging Photos Into One Masterpiece</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-for-the-unresponsive-razer-kraken-headset-mic/"><u>Common Problems and Fixes for the Unresponsive Razer Kraken Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crack-the-quiet-code-effective-fixes-for-pc-players-valheim-audio-issues/"><u>Crack the Quiet Code: Effective Fixes for PC Players' Valheim Audio Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-with-tom-authoritative-hardware-insights/"><u>Decoding Tech with Tom: Authoritative Hardware Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-input-device-errors-within-csgo-battles/"><u>Diagnosing And Solving Input Device Errors Within CS:GO Battles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-ensure-your-virtual-meetings-are-documented-for-2024/"><u>How to Ensure Your Virtual Meetings Are Documented for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos/"><u>In 2024, Mastering Visual Effects on a Budget Essential Tutorials and Techniques From 4 VFX Experts' Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-communication-a-guide-for-fixing-csgo-mic-failures/"><u>Mastering the Battlefield Communication: A Guide for Fixing CS:GO Mic Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hp-laptops-soundscape-expert-fixes-for-windows-10-sound-failures/"><u>Revive Your HP Laptop's Soundscape: Expert Fixes for Windows 10 Sound Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-echoes-a-2024-guide-for-clearing-up-discord-audio-glitches-on-your-pc/"><u>Say Goodbye to Echoes: A 2024 Guide for Clearing Up Discord Audio Glitches on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-wont-my-bluetooth-speaker-play-addressing-connection-issues-with-no-sound-output/"><u>Solved! Why Won't My Bluetooth Speaker Play? Addressing Connection Issues with No Sound Output</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tailor-your-viewing-angle-with-ease/"><u>Tailor Your Viewing Angle with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-metaverse-content-creators-and-their-hilarity-for-2024/"><u>Top Metaverse Content Creators & Their Hilarity for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unstuck From Silence: Solutions for a Nonfunctional Voice Chat in LoL"
-date: 2024-09-23T21:04:38.503Z
-updated: 2024-09-26T23:44:24.965Z
+date: 2024-09-25T03:08:09.452Z
+updated: 2024-10-02T00:44:27.437Z
 tags:
   - win11
   - win10
@@ -34,20 +34,27 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
 4. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Change in-game settings (PC & Console)](https://www.drivereasy.com/knowledge/fixed-cod-warzone-voice-chat-not-working/#fix5)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the connection of your device
 
  So let’s start with the basics. When your voice chat isn’t working, first you need to**check the connection of your device** . That means you should check if the cable is broken and is securely plugged into the correct headphone jack. You can also do a simple replug and see how it goes. In addition, if your device comes with a mic switch, make sure it’s turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
- If there’s nothing suspicious with the connection, you can check out the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If there’s nothing suspicious with the connection, you can check out the next fix.
 
 ### Fix 2: Make sure your recording device is set up properly
 
@@ -61,24 +68,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/bottom-right-corner-sound-settings.jpg)
 2. Under the **Input**  section, make sure your input device is set to your desired one. Then click **Device properties and test microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Uncheck the box next to**Disable** , and set the slider under **Volume**  to 100.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone is working correctly.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
@@ -121,25 +114,11 @@ Now you can launch Warzone and test the game chat.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and see if the voice chat is working in Warzone.
 
  If updating the audio driver doesn’t work for you, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -150,13 +129,27 @@ So here’s a simple guide:
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click **Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install the available updates. Wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -164,6 +157,13 @@ So here’s a simple guide:
  After installing all the system updates, do a reboot and check if you can talk in Warzone now.
 
 If the voice chat still won’t work, simply try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change in-game settings (PC & Console)
 
@@ -175,6 +175,14 @@ You can follow these steps to check:
 2. Navigate to the**AUDIO** tab. Under the**Voice Chat** section, set**Voice Chat** to**Enabled** ,**Voice Chat Recording Mode** to**Open Mic** ,**Open Mic Recording Threshold** to**0.00** ,**Voice Chat Volume** and**Microphone Volume** to a moderate value (at least over 100.00).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-voice-chat-in-game-1.jpg)
 3. Navigate to the**ACCOUNT** tab. Under the**Online** section, set**Crossplay** to**Enabled** . If you can see an option named**Crossplay Communication** , make sure it’s set to**Enabled** . (If your friend isn’t gaming on PC, make sure he or she has enabled this feature as well.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-crossplay.jpg)
 
 Now restart Warzone and check if you can chat with your friends now.
@@ -198,22 +206,24 @@ Now restart Warzone and check if you can chat with your friends now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-art-of-subtlety-decoding-snapchats-concealed-messages/"><u>[New] In 2024, The Art of Subtlety Decoding Snapchat's Concealed Messages</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-beyond-the-mic-advanced-strategies-for-professional-voice-over-work/"><u>[Updated] 2024 Approved Beyond the Mic Advanced Strategies for Professional Voice-Over Work</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-diy-filmmaking-for-youtube-personalities/"><u>[Updated] 2024 Approved DIY Filmmaking for YouTube Personalities</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevate-your-video-impact-20-essential-thumbnail-fonts-for-2024/"><u>[Updated] Elevate Your Video Impact 20 Essential Thumbnail Fonts for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/disable-the-acoustic-enhancements-a-comprehensive-tutorial-for-windows-11-users/"><u>Disable the Acoustic Enhancements: A Comprehensive Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-the-silent-problem-rapid-guide-for-astro-a50-audio-troubleshooting/"><u>Fix the Silent Problem: Rapid Guide for Astro A50 Audio Troubleshooting</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-6-sim-lock-by-drfone-ios/"><u>How to Remove iPhone 6 SIM Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s23-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S23 Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-common-problems-with-the-logitech-g733-microphone/"><u>Solutions for Common Problems with the Logitech G733 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-voice-chat-problems-on-your-pc-for-a-better-sea-of-thieves-experience/"><u>Solving Voice Chat Problems on Your PC for a Better Sea of Thieves Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-soundless-facebook-videos-on-pc-latest-tips-and-tricks/"><u>The Ultimate Guide to Fixing Soundless Facebook Videos on PC - Latest Tips & Tricks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-xcover-6-pro-tactical-edition-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy XCover 6 Pro Tactical Edition Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restoring-overwatchs-push-to-talk-capability/"><u>Troubleshooting Guide: Restoring Overwatch's Push-to-Talk Capability</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-these-top-7-meme-creation-techniques-for-2024/"><u>Unlock Creative Potential with These Top 7 Meme-Creation Techniques for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unlock-the-mystery-of-smooth-media-imports-into-windows-10-for-2024/"><u>Unlock the Mystery of Smooth Media Imports Into Windows 10 for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-volume-woes-simple-tips-to-restore-your-computers-sound/"><u>Windows 10 Volume Woes? Simple Tips to Restore Your Computer's Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-voice-chat-fixed-tips-and-solutions-to-restore-audio-contact/"><u>World of Warcraft Voice Chat Fixed - Tips and Solutions to Restore Audio Contact</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-detailed-analysis-of-dynamic-actions-capture/"><u>[New] 2024 Approved Detailed Analysis of Dynamic Actions Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-curating-a-must-see-list-of-youtubes-top-makeup-talent/"><u>[New] In 2024, Curating a Must-See List of YouTube's Top Makeup Talent</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>[New] Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-master-earning-plan-top-5-highest-paying-ig-posts/"><u>[Updated] Master Earning Plan Top 5 Highest Paying IG Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-most-enlightening-general-knowledge-trivia-channels-in-24/"><u>[Updated] Unveiling the Most Enlightening General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-headset-mic-problems-heres-how-to-repair-them/"><u>Astro A10 Headset Mic Problems? Here's How to Repair Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-with-realtek-mics-solutions-inside/"><u>Common Problems with Realtek Mics - Solutions Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-get-the-latest-samsung-nvme-ssd-drivers-right-now/"><u>Effortless Installation: Get the Latest Samsung NVMe SSD Drivers Right Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-sound-problem-for-nvidia-high-definition-audio-a-complete-tutorial/"><u>Fixing No Sound Problem for NVIDIA High Definition Audio: A Complete Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-discord-push-to-talk-back-on-track-expert-fixes-and-tips/"><u>How to Get Your Discord Push-To-Talk Back on Track: Expert Fixes and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-voice-communication-in-apex-legends/"><u>How to Troubleshoot and Restore Voice Communication in Apex Legends</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-audio-troubleshooting-guide-fixing-lack-of-sound-output/"><u>Laptop Audio Troubleshooting Guide: Fixing Lack of Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-simple-guide-to-effective-mic-checks/"><u>Quick and Simple Guide to Effective Mic Checks!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/redefine-your-digital-world-with-latest-windows-10-gaming-and-apps-for-2024/"><u>Redefine Your Digital World with Latest Windows 10 Gaming & Apps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/sifting-through-windows-logins-the-good-the-bad-and-the-ugly/"><u>Sifting Through Windows Logins: The Good, The Bad & The Ugly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-lava-yuva-2-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Lava Yuva 2 Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-your-logitech-g93e-mics-functionality/"><u>Troubleshooting Guide – How to Restore Your Logitech G93e Mic's Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-sound-cutouts-effective-strategies-revealed/"><u>Troubleshooting Windows 10 Sound Cutouts: Effective Strategies Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experience Clear Audio with Your Logitech G Pro X on PC - Eliminate Noise Popping in 202^Th Edition (Tech Tricks)
-date: 2024-09-14T19:35:51.333Z
-updated: 2024-09-21T17:18:13.006Z
+date: 2024-09-27T17:35:05.551Z
+updated: 2024-10-02T01:44:33.908Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -100,31 +114,38 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Right click your microphone, and click**Properties.**
 
@@ -139,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -173,5 +187,19 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/0-tips-for-shooting-profesional-youtube-videos/"><u>[New] 10 Tips For Shooting Profesional YouTube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nine-ways-to-unblock-live-feeds-on-firefoxchrome/"><u>[New] Nine Ways to Unblock Live Feeds on FireFox/Chrome</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-revealing-veiled-youtube-reviewers-opinions-for-2024/"><u>[New] Revealing Veiled YouTube Reviewers' Opinions for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-digital-asset-management-implementing-watermarks-on-instagram/"><u>[Updated] 2024 Approved Digital Asset Management Implementing Watermarks on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-quick-guide-to-chroma-key-background-for-2024/"><u>[Updated] A Quick Guide to Chroma Key Background for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-xiaomi-redmi-a2-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Xiaomi Redmi A2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-gt-3-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme GT 3 Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-techniques-for-unique-canon-timelapse-vids-for-2024/"><u>Innovative Techniques for Unique Canon Timelapse Vids for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-glitches-in-the-game-phasmophobia-a-helpful-guide/"><u>Overcoming Voice Chat Glitches in the Game Phasmophobia: A Helpful Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-eliminating-unwanted-noise-from-your-speakers/"><u>Quick Fixes for Eliminating Unwanted Noise From Your Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-fortnites-audio-chats-easily-a-step-by-step-fix/"><u>Revive Fortnite's Audio Chats Easily – A Step-by-Step Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/vanquish-the-silent-void-a-guide-to-fixing-audio-in-cyberpunk-2077-for-windows-10-gamers/"><u>Vanquish the Silent Void: A Guide to Fixing Audio in Cyberpunk 2077 for Windows 10 Gamers</u></a></li>
+</ul></div>
 

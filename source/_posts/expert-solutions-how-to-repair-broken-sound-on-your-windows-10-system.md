@@ -1,7 +1,7 @@
 ---
 title: "Expert Solutions: How to Repair Broken Sound on Your Windows 10 System"
-date: 2024-09-21T16:23:58.524Z
-updated: 2024-09-26T16:00:33.962Z
+date: 2024-09-28T23:21:16.056Z
+updated: 2024-10-01T20:29:51.376Z
 tags:
   - win11
   - win10
@@ -75,16 +75,23 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -96,36 +103,37 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -150,16 +158,18 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>[New] 2024 Approved Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-seamless-integration-instagram-meets-tiktok/"><u>[Updated] Seamless Integration Instagram Meets TikTok</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-shut-down-audio-enhancements-on-your-windows-10-device/"><u>Comprehensive Guide: Shut Down Audio Enhancements on Your Windows 10 Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-t2x-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo T2x 5G Face Lock?</u></a></li>
-<li><a href="https://windows11.techidaily.com/global-mouse-mastery-using-powertoys-innovative-features/"><u>Global Mouse Mastery Using PowerToys' Innovative Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-in-your-steelseries-arctis-prime-audio-gear/"><u>How To Restore Microphone Functionality in Your SteelSeries Arctis Prime Audio Gear</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-3-tactics-to-grab-twitter-gifs-on-pc/"><u>In 2024, 3 Tactics to Grab Twitter GIFs on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-headset-microphone-malfunction-heres-how-to-repair-it/"><u>Logitech G Pro X Headset Microphone Malfunction? Here's How to Repair It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-2024-solutions-for-a-working-webex-microphone/"><u>Overcoming Audio Hurdles: 2024 Solutions for a Working Webex Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-making-unlisted-headphones-visible-again-on-windows-11-sound-settings/"><u>Solution Steps: Making Unlisted Headphones Visible Again on Windows 11 Sound Settings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-guide-to-cutting-edge-gadgets-and-components/"><u>Tom's Tech Hub: Your Guide to Cutting-Edge Gadgets and Components</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cheapest-and-most-reliable-cloud-options/"><u>[New] Cheapest & Most Reliable Cloud Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-revolutionize-your-tech-life-with-no-cost-mac-recording-tools/"><u>[Updated] 2024 Approved Revolutionize Your Tech Life with No-Cost Mac Recording Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unleash-your-stories-gratis-facebook-enhancers-online-and-on-the-go-for-2024/"><u>[Updated] Unleash Your Stories Gratis, Facebook Enhancers Online & On-The-Go for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y100a-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y100A Unlock Without Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/catalyzing-stalled-gpu-fans-back-into-motion/"><u>Catalyzing Stalled GPU Fans Back Into Motion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-selection-of-top-6-nutrition-management-apps/"><u>Discover Our Selection of Top 6 Nutrition Management Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-dealing-with-unexpected-audio-output-headphones-vs-speaker-confusion-resolved/"><u>Expert Advice for Dealing With Unexpected Audio Output - Headphones Vs. Speaker Confusion Resolved</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-idea-to-screen-smartphone-video-creation-tips/"><u>From Idea to Screen Smartphone Video Creation Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-troubleshooting-and-resolving-silent-calls-on-skype/"><u>Guide: Troubleshooting and Resolving Silent Calls on Skype</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-non-functioning-mac-webcam-simple-solutions/"><u>Quick Fixes for a Non-Functioning Mac Webcam: Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silence-a-guide-to-resolve-hdmi-sound-issues-between-your-computer-and-screentv/"><u>Solving the Silence: A Guide to Resolve HDMI Sound Issues Between Your Computer and Screen/TV</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-repairing-your-non-functional-bose-speakers/"><u>Troubleshooting Guide: Repairing Your Non-Functional Bose Speakers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-epson-wf-3520-driver-for-seamless-windows-printing-experience/"><u>Update Your Epson WF-3520 Driver for Seamless Windows Printing Experience</u></a></li>
 </ul></div>
 

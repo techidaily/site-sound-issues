@@ -1,7 +1,7 @@
 ---
 title: How to Restore Voice Communication in Your Destiny 2 Gameplay
-date: 2024-09-19T16:59:05.577Z
-updated: 2024-09-26T19:26:19.485Z
+date: 2024-09-27T00:37:16.146Z
+updated: 2024-10-02T03:35:03.161Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -52,21 +59,14 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -85,13 +85,6 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
 ### Fix 4: Update your audio drivers
@@ -106,14 +99,28 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -139,17 +146,18 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-pro-techniques-for-exceptional-iphone-hdr-results-for-2024/"><u>[New] Pro Techniques for Exceptional iPhone HDR Results for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-cinematic-evolution-the-best-youtube-guides-for-new-filmmakers/"><u>[Updated] 2024 Approved Cinematic Evolution The Best YouTube Guides for New Filmmakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-volume-malfunction-heres-how-you-can-restore-game-sounds/"><u>Apex Legends Volume Malfunction? Here's How You Can Restore Game Sounds!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/crack-the-code-to-clear-audio-fixing-conexant-smartaudio-hd-sound-issues-in-your-windows-10-system/"><u>Crack the Code to Clear Audio: Fixing Conexant SmartAudio HD Sound Issues in Your Windows 10 System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dji-sky-artistry-experiment-with-color-filters-at-zero-cost/"><u>DJI Sky Artistry - Experiment with Color Filters at Zero Cost</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-balance-the-art-of-choosing-video-dimensions-for-2024/"><u>Finding Balance The Art of Choosing Video Dimensions for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016045091-how-to-get-your-call-of-duty-black-ops-cold-war-game-voice-chat-up-and-running-again/"><u>How to Get Your Call of Duty Black Ops Cold War Game Voice Chat Up and Running Again!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/joyeux-noel-french/"><u>Joyeux Noël (French)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-soundscape-a-guide-to-addressing-fortnites-muted-challenges/"><u>Restore Soundscape: A Guide to Addressing Fortnite's Muted Challenges</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-to-clear-up-erratic-sounds-and-distortions-in-windows-os/"><u>The Definitive Solution to Clear Up Erratic Sounds and Distortions in Windows OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tier-free-memes-for-everyday-chuckles-for-2024/"><u>Top-Tier Free Memes for Everyday Chuckles for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/troubleshooting-disneyplus-speed-issues-tips-and-tricks-for-enhanced-performance/"><u>Troubleshooting Disney+ Speed Issues: Tips & Tricks for Enhanced Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-insiders-guide-to-overwatch-game-recording/"><u>[New] The Insider's Guide to Overwatch Game Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-5-premium-hd-webcams-featuring-sound/"><u>[New] Top 5 Premium HD Webcams Featuring Sound</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streaming-mastery-with-obs-game-mode/"><u>[Updated] 2024 Approved Streaming Mastery with OBS Game Mode</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unveiling-vimeo-the-preferred-platform-by-directors/"><u>2024 Approved Unveiling Vimeo The Preferred Platform by Directors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-persistent-audio-glitches-on-your-pc-solutions-inside/"><u>Fixing Persistent Audio Glitches on Your PC: Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-correct-windows-misinterpretation-of-no-sound-output-when-devices-are-connected-in-windows-os-1087/"><u>How to Correct Windows Misinterpretation of No Sound Output when Devices Are Connected in WINDOWS (OS 10/8/7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-valheim-when-your-computer-wont-play-them/"><u>How to Restore Sounds in Valheim When Your Computer Won't Play Them</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unheard-voices-on-youtube-livestream-success-beyond-1000-supporters/"><u>In 2024, Unheard Voices on YouTube Livestream Success Beyond 1000 Supporters</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-a60s-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-gameplay-boosting-your-gaming-experience-on-windows-11/"><u>Maximizing Gameplay: Boosting Your Gaming Experience on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-visual-appeal-tips-for-incorporating-filters-in-media/"><u>Perfecting Visual Appeal Tips for Incorporating Filters in Media</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-headset-microphone/"><u>Troubleshooting Guide: How to Fix a Malfunctioning Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-clear-up-that-buzzing-from-your-speakers-now/"><u>Troubleshooting Tips: Clear Up That Buzzing From Your Speakers Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Banish Sound Glitches in Windows 11: Expert Solutions for a Seamless Listening Experience"
-date: 2024-09-23T21:05:29.140Z
-updated: 2024-09-26T23:27:36.059Z
+date: 2024-09-26T19:36:28.513Z
+updated: 2024-10-01T17:49:14.270Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you have not muted the sound
 
  Sometimes you hear no sound coming through Windows Media Player because you’ve muted the sound unknowingly.
@@ -50,10 +43,10 @@ To make sure the volume is not muted but audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
@@ -61,16 +54,23 @@ To make sure the volume is not muted but audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-152.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Play some music in Windows Media Player and see if the  
 **Windows Media Player no sound** issue has been resolved. If yes, then great! But if the problem persists, you should try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -90,13 +90,6 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -104,6 +97,13 @@ To make sure the volume is not muted but audible:
 5) Play some audio in Windows Media Player to see if the no sound issue has been fixed. If yes, then congrats! If the issue remains, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update or reinstall Windows Media Player
 
@@ -131,14 +131,17 @@ To make sure the volume is not muted but audible:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-join-jargon-free-youtube-chats/"><u>[New] Join Jargon-Free YouTube Chats</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-spectacular-8-ultimate-vr-play-tools-for-2024/"><u>[New] Spectacular 8 Ultimate VR Play Tools for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-back-4-blood-troubleshooting-the-voice-chat-issue/"><u>Fixing Back 4 Blood: Troubleshooting the Voice Chat Issue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-itel-p55plus-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Itel P55+ Through Google Earth?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Without Passcode?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016575811-pubg-mobile-voice-communication-problems-heres-how-to-solve-them/"><u>PUBG Mobile Voice Communication Problems? Here's How to Solve Them</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016673143-squad-mic-problems-heres-how-to-solve-them-using-our-expertise-updated/"><u>Squad Mic Problems? Here's How to Solve Them Using Our Expertise - Updated</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-overcoming-voice-chat-glitches-in-your-league-matches/"><u>Ultimate Guide: Overcoming Voice Chat Glitches in Your League Matches</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-gionee-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Gionee Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-synchronize-sound-with-picture-perfectly-an-experts-guide/"><u>How to Synchronize Sound with Picture Perfectly – An Expert’s Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-high-fidelity-portals-to-ps3-gaming-on-pcs/"><u>In 2024, High-Fidelity Portals to Ps3 Gaming on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-microphone-not-working-solved/"><u>Logitech G Pro X Microphone Not Working [Solved]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-to-restore-sounds-in-battlefield-4-gameplay/"><u>Solution Steps to Restore Sounds in Battlefield 4 Gameplay</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sound-enriched-photography-web-presence/"><u>Sound-Enriched Photography Web Presence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-windows-11-sound-cutting-out-during-use/"><u>Step-by-Step Fix for Windows 11 Sound Cutting Out During Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-act-deciphering-its-relevance-to-chat-based-artificial-intelligence-tools/"><u>The AI Act: Deciphering Its Relevance to Chat-Based Artificial Intelligence Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-audiovideo-bitrate-modifier-speed-up-conversion-of-mp4s-audios-with-ease/"><u>Ultimate Audio/Video Bitrate Modifier - Speed Up Conversion of MP4s, Audios with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808012336-ultimate-tricks-to-optimize-windows-11-and-win-at-games-faster/"><u>Ultimate Tricks to Optimize Windows 11 and Win at Games Faster!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-speaker-problems-heres-how-you-can-fix-them-easily/"><u>Windows 10 Speaker Problems? Here's How You Can Fix Them Easily!</u></a></li>
 </ul></div>
 

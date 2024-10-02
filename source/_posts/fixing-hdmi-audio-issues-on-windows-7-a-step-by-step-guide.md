@@ -1,7 +1,7 @@
 ---
 title: "Fixing HDMI Audio Issues on Windows 7: A Step-by-Step Guide"
-date: 2024-09-23T21:46:33.676Z
-updated: 2024-09-26T23:39:27.051Z
+date: 2024-09-27T02:45:22.886Z
+updated: 2024-10-01T23:10:27.213Z
 tags:
   - win11
   - win10
@@ -48,15 +48,16 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Type control panel and click**OK** . This is to open Control Panel window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
-4. Under **Sound** , click **Adjust system volume** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
+4. Under **Sound** , click **Adjust system volume** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
@@ -64,13 +65,20 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Speakers as Default
 
@@ -80,38 +88,24 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -127,23 +121,16 @@ Follow these steps:
 5. Reboot your PC and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
@@ -157,10 +144,24 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
@@ -179,24 +180,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-mac-tech-tips-5-snapshot-strategies/"><u>[New] Essential Mac Tech Tips 5 Snapshot Strategies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-incredible-analysis-and-backup-recommendations/"><u>[Updated] In 2024, Incredible Analysis & Backup Recommendations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>2024 Approved Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-refining-reality-close-up-creations-in-minecraft/"><u>2024 Approved Refining Reality Close-Up Creations in Minecraft</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/chrome-sound-troubleshooting-guide-now-fixed/"><u>Chrome Sound Troubleshooting Guide – Now Fixed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-ways-to-restore-voice-chat-in-fortnite-quick-solutions-inside/"><u>Effortless Ways to Restore Voice Chat in Fortnite – Quick Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-systems-speakers-resolving-windows-11s-quiet-output-problem/"><u>Enhance Your System's Speakers: Resolving Windows 11'S Quiet Output Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-repairing-your-razer-blackshark-v2s-malfunctioning-mic/"><u>Expert Guide: Repairing Your Razer Blackshark V2's Malfunctioning Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voicemod-startup-problems-latest-solutions/"><u>Fixing Voicemod Startup Problems - Latest Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-deactivating-window-10s-acoustic-amplification-options/"><u>Guide: Deactivating Window 10'S Acoustic Amplification Options</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-master-switch-pro-controller-gaming-in-steam/"><u>In 2024, How to Master Switch Pro Controller Gaming in Steam</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-v-purse-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor V Purse</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/pioneering-approaches-to-secure-data-destruction-featured-on-stellar/"><u>Pioneering Approaches to Secure Data Destruction Featured on Stellar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-504-gateway-timeout-issue-step-by-step-guide/"><u>Resolving the 504 Gateway Timeout Issue: Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-connexant-smartaudio-hd-speakers-a-guide-to-resolving-no-sound-problems-on-windows-10-devices/"><u>Revive Your Connexant SmartAudio HD Speakers: A Guide to Resolving No Sound Problems on Windows 10 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-no-more-getting-your-usb-headphones-working-again-in-windows-7/"><u>Silent No More: Getting Your USB Headphones Working Again in Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-enable-sound-for-connecting-airpods-on-windows-computers/"><u>Solution Guide: Enable Sound for Connecting AirPods on Windows Computers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-cartoon-video-makers-for-beginners/"><u>Updated The Ultimate List of Cartoon Video Makers for Beginners</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-do-reviewers-monetize-their-critiques-in-media/"><u>[New] 2024 Approved Do Reviewers Monetize Their Critiques in Media?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-secrets-to-successful-twitpicingvideo-edition/"><u>[New] Secrets to Successful Twitpicing—Video Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-hit-the-floor-with-optimal-posting-hours/"><u>[Updated] 2024 Approved Hit the Floor with Optimal Posting Hours</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-record-screen-with-ultra-screen-recorder/"><u>[Updated] How to Record Screen With Ultra Screen Recorder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-f54-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy F54 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/astro-a40-audio-problem-solved-reviving-the-built-in-microphone/"><u>Astro A40 Audio Problem Solved: Reviving the Built-In Microphone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/avoidance-of-windows-10-photos-application-hang-ups-for-2024/"><u>Avoidance of Windows 10 Photos Application Hang-Ups for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-speaker-performance-fixing-volume-issues-in-windows-10/"><u>Enhancing Speaker Performance: Fixing Volume Issues in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-audio-in-obs-studio-on-your-computer/"><u>Fixing Non-Functional Audio in OBS Studio on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-mic-a-step-by-step-guide-to-solving-microphone-issues/"><u>Revive Your Razer Mic: A Step-by-Step Guide to Solving Microphone Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-administrative-approval-from-the-vigilant-sentinel-of-windows-11-filesystems/"><u>Securing Administrative Approval From the Vigilant Sentinel of Windows 11 Filesystems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-techniques-for-fixing-windows-11-microphone-problems/"><u>Solution Techniques for Fixing Windows 11 Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-for-when-your-blue-yeti-microphone-wont-connect/"><u>Step-by-Step Troubleshooting for When Your Blue Yeti Microphone Won't Connect</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-meizu-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Meizu Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-crackling-sounds-on-windows-10-11-and-7/"><u>Troubleshooting Audio Issues: Solving Crackling Sounds on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-problems-with-the-logitech-g230-headset-microphone/"><u>Troubleshooting Common Problems with the Logitech G230 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015826704-troubleshooting-silent-mic-issues-how-to-get-audio-recording-again/"><u>Troubleshooting Silent Mic Issues - How to Get Audio Recording Again</u></a></li>
 </ul></div>
 

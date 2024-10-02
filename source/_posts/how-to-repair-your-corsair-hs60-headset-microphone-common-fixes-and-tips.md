@@ -1,7 +1,7 @@
 ---
 title: "How To Repair Your Corsair HS60 Headset Microphone: Common Fixes & Tips"
-date: 2024-09-19T17:04:33.897Z
-updated: 2024-09-21T18:54:11.725Z
+date: 2024-09-27T01:42:19.807Z
+updated: 2024-10-02T01:09:22.717Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -71,6 +78,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -78,6 +92,13 @@ Here’s how to do it:
 5) Check to see if the mic works properly. If yes, then great! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -89,6 +110,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Recording** tab, then click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-249.png)
@@ -99,22 +127,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click **OK** to apply the changes in the windows.
@@ -150,5 +171,24 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-deciphering-how-tseries-benefits-from-youtube/"><u>[Updated] Deciphering How TSeries Benefits From YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-guide-to-the-best-10-video-saving-devices/"><u>[Updated] Ultimate Guide to the Best 10 Video Saving Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-tips-for-youtube-edits-with-sony-vegas/"><u>2024 Approved Essential Tips for YouTube Edits with Sony Vegas</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-runmus-gaming-mic-issues-step-by-step-troubleshooting-guide/"><u>Fixing RUNMUS Gaming Mic Issues: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headset-mic-trouble-expert-tips-to-get-you-back-on-audio-track/"><u>Headset Mic Trouble? Expert Tips to Get You Back on Audio Track</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-test-audio-output-for-successful-zoom-communication-on-laptopdesktop/"><u>How to Enable and Test Audio Output for Successful Zoom Communication on Laptop/Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-audio-stops-working-randomly-on-windows-10-a-step-by-step-guide/"><u>How to Fix Your Audio Stops Working Randomly on Windows 10? A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/inoperative-fingerprint-reader-on-laptop/"><u>Inoperative Fingerprint Reader on Laptop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-romanian-with-the-award-winning-app-made-by-romanians/"><u>Learn Romanian With the Award-Winning App Made by Romanians</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-telnet-commands-seamlessly-on-your-windows-pc/"><u>Navigating Telnet Commands Seamlessly on Your Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014816879-no-more-interference-swift-fix-for-crackling-headphones/"><u>No More Interference: Swift Fix for Crackling Headphones!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-detection-problem-in-win-oses/"><u>Nvidia Detection Problem in WIN OSes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-advanced-audio-problems-launching-the-driver-successfully-on-windows-10/"><u>Overcoming Dolby Advanced Audio Problems: Launching the Driver Successfully on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-microphone-malfunctions-in-counter-strike-2-with-these-proven-techniques/"><u>Resolve Microphone Malfunctions in Counter-Strike 2 with These Proven Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-update-or-download-new-elan-smbus-drivers-on-your-windows-pc/"><u>Step-by-Step Tutorial: Update or Download New ELAN SMBus Drivers on Your Windows PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Functional Microphone on the SteelSeries Arctis 1 Headset
-date: 2024-09-14T19:29:11.611Z
-updated: 2024-09-21T17:37:55.063Z
+date: 2024-09-24T20:29:07.838Z
+updated: 2024-10-01T22:36:14.238Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 * Charge the headset to check if it has run out of battery.
 * Connect the headset to another PC. If the G935 mic still doesn’t work, it’s most likely because the headset has expired.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Allow access to your mic on your PC
 
  The first method to fix the problem is to check if your computer lacks permission to access the mic on your Logitech G935 headset. Here’s how to check:
@@ -70,22 +77,15 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 3. Click the**Update** button next to the flagged audio drivers to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/DE-realtek-audio.jpg)
 4. After updating your audio drivers, reboot your computer for the trick to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com> .
 
@@ -96,29 +96,39 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 1. Right-click the volume icon on the right side of the taskbar, and then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, right-click on any empty space inside the device list and then tick**Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Show disabled Recording Devices](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. If your Logitech G935 microphone is disabled in the sound settings, right-click on it and then select**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 4. Check if the mic is the default device. If not, click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-5-1.jpg)
 5. Now right-click the Headset Microphone again and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 6. Under the**Levels** tab, drag the microphone slider to the highest value and then click**OK** to save your changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your PC and test your microphone to see if it works properly now. If not, move on to the next fix below.
 
@@ -133,21 +143,14 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 3. After uninstalling the program, head to ​[**Logitech’s support website**](https://support.logi.com/hc/en-us/articles/360025298053) and download the latest version of Logitech Gaming Software that matches your operating system.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/logitech-gaming-software-dedownlaod.jpg)
 4. Open the downloaded file and follow the on-screen instructions to install the software.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Connect your Logitech G935 to your computer and check the mic to see if you can use it now.
 
@@ -188,7 +191,22 @@ Top Pick
 1. Type**audio troubleshooter** in the search box on the taskbar, select**Find and fix problems with playing sound** from the results  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/audio-troubleshooter-1.jpg)
 2. Click**Next** and then follow the wizard to complete the troubleshooting process.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/audio-troubleshooter-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -209,5 +227,18 @@ Top Pick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhancing-speed-and-stability-more-ram-for-minecraft/"><u>[Updated] 2024 Approved Enhancing Speed & Stability More RAM For Minecraft</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-dribbble-artwork-aspect-ratio-guide-for-2024/"><u>[Updated] Dribbble Artwork Aspect Ratio Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-guide-to-sports-highlight-video-creation/"><u>[Updated] The Essential Guide to Sports Highlight Video Creation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-10-comprehensible-and-cost-free-subtitle-downloader-sites/"><u>2024 Approved 10 Comprehensible & Cost-Free Subtitle Downloader Sites</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-resolving-power-and-connectivity-problems-with-your-runmus-gaming-mic/"><u>DIY Repair: Resolving Power and Connectivity Problems with Your RUNMUS Gaming Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-sound-card-issues-in-windows-7/"><u>Expert Tips for Fixing Sound Card Issues in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015821825-laptop-audio-not-working-solve-the-silent-problem-today/"><u>Laptop Audio Not Working? Solve the Silent Problem Today!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/permanent-record-keeper-facebook-live-extraction-techniques/"><u>Permanent Record Keeper Facebook Live Extraction Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-silent-mics-restoring-functionality-to-your-steelseries-arctis-7-audio/"><u>Quick Fix for Silent Mics: Restoring Functionality to Your SteelSeries Arctis 7 Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-20-zero-cost-pubg-visual-anthologies-for-2024/"><u>Top 20 Zero-Cost PUBG Visual Anthologies for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-no-sound-in-windows-11-effective-strategies-for-audio-restoration/"><u>Troubleshoot and Repair No Sound in Windows 11: Effective Strategies for Audio Restoration</u></a></li>
+</ul></div>
 

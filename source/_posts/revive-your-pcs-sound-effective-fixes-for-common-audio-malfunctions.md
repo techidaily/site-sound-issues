@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC's Sound: Effective Fixes for Common Audio Malfunctions"
-date: 2024-09-20T17:44:57.545Z
-updated: 2024-09-26T23:36:05.160Z
+date: 2024-09-29T21:10:44.641Z
+updated: 2024-10-01T20:39:35.221Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set your speakers as the default
 
  When you connect the external speakers to your computer, your system would recognize it. But there are some situations where the sound may not come from your external speakers. That’s because your device isn’t set as the default audio playback device that Windows uses to output sound. In this case, you need to manually set your speakers as the default:
@@ -63,23 +70,9 @@ Here’s how you can do this:
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve done that, verify via the speaker icon in the taskbar that the audio is not muted and is turned up. Then you can test by playing a song. If your Creative Pebble speakers still won’t produce any sound, don’t worry, there are a few other fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update your sound driver
 
@@ -101,18 +94,18 @@ Here’s how to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and test the audio to check if this action did the trick. If your speakers are still not working, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the audio troubleshooter
 
@@ -124,15 +117,22 @@ Here’s how to update drivers with Driver Easy:
 2. Select your device and click**Next** to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Contact the customer service
@@ -160,22 +160,24 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-fire-up-the-connections-maintaining-long-lasting-streaks-for-2024/"><u>[New] Fire Up the Connections Maintaining Long-Lasting Streaks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-def-zoom-manipulator/"><u>[New] High-Def Zoom Manipulator</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-extracting-mp3-from-instagram-videos-for-2024/"><u>[New] Techniques for Extracting MP3 From Instagram Videos for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-infuse-your-visuals-with-melody-adding-music-in-youtube-editing/"><u>[Updated] In 2024, Infuse Your Visuals With Melody Adding Music in YouTube Editing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-discords-microphone-problems/"><u>Effective Solutions for Discord's Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-audio-functionality-in-conexant-smartaudio-hd-devices-compatible-with-windows/"><u>Effective Techniques to Restore Audio Functionality in Conexant SmartAudio HD Devices Compatible with Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-fixes-to-eliminate-bluetooth-sound-delays/"><u>Effortless Fixes to Eliminate Bluetooth Sound Delays</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elite-selection-top-downloader-apps-for-vimeo-videos/"><u>Elite Selection Top Downloader Apps for Vimeo Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-to-viewing-high-definition-youtube-media-in-4k-resolution-on-apple-devices/"><u>Guide to Viewing High-Definition YouTube Media in 4K Resolution on Apple Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-secrets-of-crafting-captivating-instagram-videos/"><u>In 2024, The Secrets of Crafting Captivating Instagram Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/specific-heat-plays-an-important-role-in-climate-science-as-it-affects-how-quickly-land-or-water-bodies-can-warm-up-or-cool-down-under-sunlight-or-during-ni639/"><u>Specific Heat Plays an Important Role in Climate Science as It Affects How Quickly Land or Water Bodies Can Warm up or Cool Down Under Sunlight or During Nighttime</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-get-your-hyperx-cloud-alpha-mic-working-again/"><u>Step-by-Step Solution to Get Your HyperX Cloud Alpha Mic Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-non-functional-redragon-pc-mic/"><u>Troubleshooting and Solutions for Non-Functional Redragon PC Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-common-issues-with-creative-pebble-bluetooth-speakers/"><u>Troubleshooting Guide: Fixing Common Issues with Creative Pebble Bluetooth Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016100156-troubleshooting-mac-audio-issues-effective-fixes-that-work/"><u>Troubleshooting Mac Audio Issues – Effective Fixes That Work</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/uncover-the-best-practices-for-video-seo-on-facebook/"><u>Uncover the Best Practices for Video SEO on Facebook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/videotwitterconverter-direct-media-conversion-for-2024/"><u>VideoTwitterConverter Direct Media Conversion for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-8-youtube-imagery-techniques-for-higher-engagement/"><u>[New] 2024 Approved Top 8 YouTube Imagery Techniques for Higher Engagement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-unlock-potential-in-digital-creation-the-best-android-drawing-tools-list/"><u>[Updated] In 2024, Unlock Potential in Digital Creation The Best Android Drawing Tools List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-best-free-cloud-based-video-editing-tools-for-2024/"><u>[Updated] The Best Free, Cloud-Based Video Editing Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site/"><u>[Updated] The Entrepreneurial Roadmap for Starting an Online Product Critique Site</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016078867-dell-sound-problem-master-swift-strategies-for-immediate-resolution/"><u>Dell Sound Problem? Master Swift Strategies for Immediate Resolution</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-galaxy-m54-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Galaxy M54 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-black-ops-cold-war-voice-communication-not-functioning-properly/"><u>Effective Solutions for Black Ops Cold War Voice Communication Not Functioning Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-correct-non-functional-headphones-on-windows-7-machines/"><u>Effective Techniques to Correct Non-Functional Headphones on Windows 7 Machines</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhanced-conversion-tracking-with-the-help-of-our-proven-retargeting-system/"><u>Enhanced Conversion Tracking with the Help of Our Proven Retargeting System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-nvidia-not-connected-error-expert-solutions-for-your-computer-woes/"><u>Fixing the 'NVIDIA Not Connected' Error - Expert Solutions for Your Computer Woes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-6-lite-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Without iTunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mobile-laughs-and-memes/"><u>In 2024, Mobile Laughs & Memes</u></a></li>
+<li><a href="https://facebook.techidaily.com/silent-admiration-how-to-conceal-like-counts-on-sites/"><u>Silent Admiration: How to Conceal Like Counts on Sites</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skip-the-wait-fix-bluetooth-sync-issues-in-a-flash/"><u>Skip the Wait, Fix Bluetooth Sync Issues in a Flash</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-mystery-making-airpods-ring-out-loud-again-on-your-microsoft-windows-pc-versions-1110/"><u>Solve the Mystery: Making AirPods Ring Out Loud Again on Your Microsoft Windows PC (Versions 11/10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-a-malfunctioning-mic-in-your-steelseries-arctis-prime/"><u>Troubleshooting Guide for a Malfunctioning Mic in Your SteelSeries Arctis Prime</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-how-to-fix-voice-and-microphone-issues-in-call-of-duty-warzone-on-pc/"><u>Troubleshooting Steps: How to Fix Voice and Microphone Issues in Call of Duty Warzone on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-jabra-earpiece-top-fixes/"><u>Troubleshooting Your Jabra Earpiece: Top Fixes</u></a></li>
 </ul></div>
 

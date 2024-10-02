@@ -1,7 +1,7 @@
 ---
 title: "From Noise to Clear Audio: Restoring Sound on Laptops with Malfunctioning Speakers"
-date: 2024-09-22T19:23:19.684Z
-updated: 2024-09-26T23:07:12.472Z
+date: 2024-09-30T01:29:04.686Z
+updated: 2024-10-01T19:04:32.577Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Change your audio format**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your Windows Audio service
 
  If you Windows service is stopped or having a problem, the audio devices and effects on your laptop won’t function properly. You can restart your Windows Audio service and see if this can fix your problem.
@@ -50,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 3. Scroll down to and select**Windows Audio** , then click**Restart** on the upper left.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4188411dba.jpg)
@@ -68,26 +61,20 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 1. Press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter** to access Device Manager.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418b9425d4.png)
 3. Expand**Sound, video and game controllers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418e3d5421.jpg)
 4. Right-click on your audio device, and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4190d3f301.jpg)
 5. Click**Uninstall** as confirmation.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4192dc4abe.png)
 6. Restart your computer, and Windows will automatically install a new audio driver.
@@ -112,15 +99,15 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41665b9a39.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4166ea8070.jpg)
 4. Restart your computer and check if the sound on your laptop now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4 below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -135,26 +122,48 @@ Or
 3. Select your audio device, then click the**Properties** button on the lower right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be419cc8d388.jpg)
 4. Click the**Advanced** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be419ed81e96.jpg)
 5. Choose a different format from the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41a030600b.jpg)
 6. Click the**Test** button, then try to play a song to test.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41a2973d7c.jpg)
 7. Once you’ve picked a proper audio format, click**OK** to save the change.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -180,17 +189,24 @@ Does the sound work properly on your laptop now?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-obs-vs-shadowplay-the-streaming-software-showdown/"><u>[New] 2024 Approved Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-revolutionizing-action-video-with-polaroid-xs-100i/"><u>[Updated] 2024 Approved Revolutionizing Action Video with Polaroid XS 100I</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elusive-details-concealment-strategies-for-photos/"><u>Elusive Details Concealment Strategies for Photos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-audio-experience-in-windows-11-tips-on-amplifying-volume/"><u>Enhance Your Audio Experience in Windows 11: Tips on Amplifying Volume</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-amplify-your-speakers-using-windows-10-settings-easily/"><u>How to Amplify Your Speakers Using Windows 10 Settings Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-phone-without-password-by-drfone-android/"><u>How To Unlock Huawei Phone Without Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-f25-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo F25 Pro 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/plex-media-player-centralized-home-entertainment/"><u>Plex Media Player Centralized Home Entertainment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restored-harmony-eliminating-the-silent-chrome-conundrum-with-these-tips/"><u>Restored Harmony: Eliminating the Silent Chrome Conundrum with These Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-pc-sound-without-hassle-effective-quick-fixes-for-no-audio/"><u>Revive Your PC Sound Without Hassle: Effective Quick Fixes for No Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-volume-problem-restoring-sound-for-valheim-gamers/"><u>Solve Your PC's Volume Problem: Restoring Sound for Valheim Gamers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-enabling-revo-permission-manager-with-revouninstaller/"><u>Step-by-Step Guide: Setting Up & Enabling Revo Permission Manager with RevoUninstaller</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-10-video-screenshot-tools-reviewed/"><u>[New] Top 10 Video Screenshot Tools Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-m34-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy M34 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-sound-issues-heres-how-to-resolve-them-instantly/"><u>Astro A50 Sound Issues? Here's How to Resolve Them Instantly!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-laptop-audio-problems-a-step-by-vew-success-stories/"><u>Effective Solutions for Laptop Audio Problems: A Step-by-Vew Success Stories</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-channel-with-these-top-11-budget-friendly-tools/"><u>Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/empowerment-through-knowledge-lut-design-for-the-aspiring-film-professional/"><u>Empowerment Through Knowledge LUT Design for the Aspiring Film Professional</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-windows-7-microphone-troubleshooting-guide/"><u>Fixing Common Issues: Windows 7 Microphone Troubleshooting Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-does-downloading-windows-vary-between-online-and-offline/"><u>How Does Downloading Windows Vary Between Online & Offline?</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-in-game-mic-in-dota-2-for-windows-computers/"><u>How to Fix a Non-Functioning In-Game Mic in Dota 2 for Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-10-errors-starting-dolby-digital-drivers/"><u>How to Resolve Windows 10 Errors Starting Dolby Digital Drivers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-browsing-chrome-sound-problems-resolved/"><u>No More Quiet Browsing: Chrome Sound Problems Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-chat-woes-discover-effective-solutions-for-audio-issues-now/"><u>PUBG Chat Woes? Discover Effective Solutions for Audio Issues Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-methods-for-transferring-your-dvd-content-onto-a-pc/"><u>Top 6 Methods for Transferring Your DVD Content Onto a PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-reactivate-mic-for-microsoft-teams-users-on-windows/"><u>Troubleshooting Audio Problems: Reactivate Mic for Microsoft Teams Users on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restoring-microphone-function-in-zoom-app-on-desktop-pc/"><u>Troubleshooting Guide: Restoring Microphone Function in Zoom App on Desktop PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-power-of-technology-with-toms-hardware-tips/"><u>Unlocking the Power of Technology with Tom's Hardware Tips</u></a></li>
 </ul></div>
 

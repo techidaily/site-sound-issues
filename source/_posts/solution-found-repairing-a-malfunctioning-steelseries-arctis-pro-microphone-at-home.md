@@ -1,7 +1,7 @@
 ---
 title: Solution Found! Repairing a Malfunctioning SteelSeries Arctis Pro Microphone at Home
-date: 2024-09-17T20:26:21.563Z
-updated: 2024-09-21T21:29:21.426Z
+date: 2024-09-24T22:45:27.952Z
+updated: 2024-10-01T18:16:25.986Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ Communication is key in Counter-Strike 2, allowing you to provide valuable callo
 
  If you’re sure that your microphone is functioning well but your teammates still cannot hear you, you’ll need to tweak some settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Make sure your mic is set as the default input device
 
  Sometimes, your microphone may not be set as the default input device, both on your operating system’s sound settings and in-game settings.
@@ -83,6 +90,13 @@ Follow the steps below to check it.
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 4. Select the**Recording** tab, then select your microphone device and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Sound-settings-Recording-Properties.jpg)
 5. Select the**Levels** tab, use the slider bar to adjust the volume level, and make sure that it’s not set to the mute mode. Then click**OK** to save the changes.  
 
@@ -101,7 +115,21 @@ Follow the steps below to check it.
 
 ![Counter-Strike 2 - Voice Transmission Threshold - Off](https://images.drivereasy.com/wp-content/uploads/2023/11/Counter-Strike-2-Voice-Transmission-Threshold-Off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After making these changes, test your microphone. If your problem persists, no worries! Below are some other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Make sure apps have access to the microphone
 
@@ -145,13 +173,26 @@ Follow the steps below to check it.
 2. When the updates are available, simply click on the button**Download & install** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click on the**Check for updates** button and follow the on-screen instructions to download the latest updates for your system. You’ll be asked to restart your PC.  
 
@@ -172,13 +213,6 @@ Follow the steps below to check it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is download them one at a time and manually install them.  
 
@@ -208,6 +242,13 @@ After downloading and installing driver updates, reboot your device.
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Scan-for-affected-programs.jpg)
 5. You will see a list of items that will be deleted if you restore to this restore point. If you’re OK with the deletions, select**Close** to proceed.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-Programs-and-drivers-that-will-be-deleted.jpg)  
 
  If this is not what you’re going to restore, go back to the previous step to select another restore point.
@@ -217,13 +258,6 @@ After downloading and installing driver updates, reboot your device.
 7. Confirm your restore point and click**Finish** . Then click**Yes** to start restoring the system from the restore point.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-your-restore-point.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the process to complete and your computer will be restarted.
 
@@ -241,14 +275,14 @@ To do this, all you have to do is:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Counter-Strike-2-verify-integrity-of-game-files.jpg)
 3. Steam will verify the game’s files – this process may take several minutes.
 
- When the verification process is finished, get into your gameplay and check if your in-game mic is working properly.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ When the verification process is finished, get into your gameplay and check if your in-game mic is working properly.
 
 ### 9\. Repair system files
 
@@ -264,13 +298,6 @@ To fix it, run the System File Checker scan:
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 4. If damaged files are found, run **DISM /Online /Cleanup-Image /RestoreHealth**  to repair them.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-DISM-Online-Cleanup-Image-RestoreHealth.jpg)
 
@@ -309,5 +336,24 @@ After the repair, restart your computer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-downloading-vimeo-media-direct-conversion-to-mp3-format/"><u>[New] Downloading Vimeo Media Direct Conversion to MP3 Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-power-packed-film-titles-for-inner-growth-and-strength/"><u>[New] Power-Packed Film Titles for Inner Growth & Strength</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-tailored-approach-to-consumer-engagement-facebook-testing-newsfeed-changes/"><u>A Tailored Approach to Consumer Engagement: Facebook Testing Newsfeed Changes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-rectifying-hyperx-cloud-alpha-microphone-problems/"><u>Diagnosing and Rectifying HyperX Cloud Alpha Microphone Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-transformation-convert-your-blu-ray-discs-to-high-quality-avchd-format-using-our-advanced-conversion-tool/"><u>Effortless Transformation: Convert Your Blu-Ray Discs to High-Quality AVCHD Format Using Our Advanced Conversion Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-sony-headsets-mic-working-again-on-a-windows-computer-step-by-step-guide/"><u>Get Your Sony Headset's Mic Working Again on a Windows Computer - Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-properly-install-the-idt-hd-sound-encoderdecoder-driver-on-windows-10-resolved/"><u>How to Properly Install the IDT HD Sound Encoder/Decoder Driver on Windows 10 [Resolved]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-lost-sounds-fixing-the-no-sound-problem-in-windows-devices-with-ease/"><u>Reviving Lost Sounds: Fixing the 'No Sound' Problem in Windows Devices with Ease</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/silence-amplified-simple-steps-to-enhance-quality-by-minimizing-unwanted-sounds-in-audacity-and-filmorapro/"><u>Silence Amplified Simple Steps to Enhance Quality by Minimizing Unwanted Sounds in Audacity and FilmoraPro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-jabra-headset-issues-expert-tips-and-solutions-models/"><u>Solve Your Jabra Headset Issues: Expert Tips & Solutions Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonfunctional-astro-a20-mic-issues/"><u>Step-by-Step Fix for Nonfunctional Astro A20 Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-call-of-dutys-modern-warfare/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in Call of Duty's Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-troublesome-audio-on-your-windows-10-machine/"><u>Ultimate Fixes for Troublesome Audio on Your Windows 10 Machine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-full-potential-with-final-cut-pro/"><u>Unlocking Full Potential with Final Cut Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-8-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 8 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+</ul></div>
 

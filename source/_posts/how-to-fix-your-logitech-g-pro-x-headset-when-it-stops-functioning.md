@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Logitech G Pro X Headset When It Stops Functioning
-date: 2024-09-17T16:18:16.350Z
-updated: 2024-09-21T19:25:40.935Z
+date: 2024-09-28T17:17:49.058Z
+updated: 2024-10-01T23:14:17.616Z
 tags:
   - win11
   - win10
@@ -58,22 +58,38 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 3. Select **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-10.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 6. Right-click it again and select Set as Default Device.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Right-click **Headset Microphone** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 8. Click the **Levels** tab, then drag the volume slider towards the _largest value_ .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
 9. Click **OK** , then click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update your audio drivers
 
@@ -86,17 +102,32 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install **Driver Easy** .
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/a5.jpg)
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)![](https://images.drivereasy.com/wp-content/uploads/2019/07/a6-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve updated the driver for your Corsair HS60 headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Troubleshoot hardware issues
@@ -128,5 +159,26 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unbeatable-online-and-desktop-gif-maker-options/"><u>[New] Unbeatable Online & Desktop GIF Maker Options</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-tech-bites-the-future-of-screen-capture-apps/"><u>[Updated] In 2024, Tech Bites The Future of Screen Capture Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-ringtones-roundup-elite-download-hubs/"><u>[Updated] Superior Ringtones Roundup Elite Download Hubs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-dji-phantom-3-an-overview-review/"><u>2024 Approved DJI Phantom 3 - An Overview Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-ryzen-9000-now-available-on-best-buy-prices-slashed-below-launch-rates-of-previous-ryzen-models/"><u>AMD's Ryzen 9000 Now Available on Best Buy: Prices Slashed Below Launch Rates of Previous Ryzen Models.</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/break-boundaries-with-these-7-unique-platforms-for-art-to-nfts/"><u>Break Boundaries with These 7 Unique Platforms for Art to NFTs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-audio-issues-resolved-a-guide-to-repairing-your-unresponsive-headset/"><u>Corsair Audio Issues Resolved? A Guide to Repairing Your Unresponsive Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/deciphering-soundless-pc-mysteries-tips-for-fixing-intel-conexant-smartaudio-hd-in-the-latest-microsoft-operating-system/"><u>Deciphering Soundless PC Mysteries: Tips for Fixing Intel Conexant SmartAudio HD in the Latest Microsoft Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-corsair-audio-device-is-not-responding/"><u>Effective Solutions When Your Corsair Audio Device Is Not Responding</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-a-non-functional-logitech-g533-condenser-mic-success-stories/"><u>Expert Tips for Fixing a Non-Functional Logitech G533 Condenser Mic - Success Stories</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-mic-not-working-here-are-the-top-fixes/"><u>HyperX Cloud Stinger Mic Not Working? Here Are the Top Fixes!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-secure-your-screen-captures-online/"><u>In 2024, Secure Your Screen Captures Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-for-an-epic-quest-fixing-silent-missions-in-pcs-borderlands-3-game/"><u>Restore Audio for an Epic Quest: Fixing Silent Missions in PC's Borderlands 3 Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-oculus-rift-s-mic-in-minutes-with-these-5-troubleshooting-steps/"><u>Revive Your Oculus Rift S Mic in Minutes with These 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-broken-ultimate-solution-for-battlefield-4-sound-issues/"><u>Silence Broken: Ultimate Solution for Battlefield ^️4 Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stereo-speaker-mix-malfunction-repairs-get-your-left-and-right-channels-back-on-track/"><u>Stereo Speaker Mix Malfunction Repairs: Get Your Left and Right Channels Back on Track!</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-spark-20c-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Spark 20C</u></a></li>
+</ul></div>
 

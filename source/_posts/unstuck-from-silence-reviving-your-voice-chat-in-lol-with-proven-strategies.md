@@ -1,7 +1,7 @@
 ---
 title: "Unstuck From Silence: Reviving Your Voice Chat in LoL with Proven Strategies"
-date: 2024-09-25T17:00:25.633Z
-updated: 2024-09-26T18:18:41.975Z
+date: 2024-09-24T18:36:21.969Z
+updated: 2024-10-01T22:36:53.154Z
 tags:
   - win11
   - win10
@@ -39,19 +39,6 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Perform basic troubleshooting
 
  If you’re having trouble hearing your friends using in-game voice chat when playing Destiny 2, you should check the following first:
@@ -63,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 
  After confirming that your audio device is not the problem, go ahead with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the Voice Chat settings
 
  Some players found that the voice chat setting seems to carry over from Steam to console clients. This means that if you have ever logged into the game through Steam and disabled voice chat, then you may encounter the issue of in-game voice chat not working on your console. To fix this problem, you may have to log into the game through Steam and re-enable voice chat in settings. Here’s how:
@@ -79,15 +59,22 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/turn-on-voice-chat.jpg)
 3. Close the game on PC, and then relaunch it on your console.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now check if voice chat functions properly.
 
  If this method doesn’t solve your problem, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Check your Stadia or Windows 10 Privacy Settings
@@ -168,15 +155,38 @@ If this method still gives you no luck, take a look at the next one.
 1. On your taskbar, right-click the**Speakers** icon and select**Open Volume mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer-1.jpg)
 2. You’ll see a set of volume controls for your devices. Make sure none of them are muted.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/volume-mixer.jpg)
 3. Right-click the**Speakers** icon again and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/sounds.jpg)
 4. Choose the**Playback** tab,**select the headphones** you want to use, and click Set Default.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 5. Navigate to the Recording tab, select the microphone you want to use, and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 6. Click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After everything is set up correctly, restart Destiny 2 to see if your audio issue is resolved.
 
@@ -191,57 +201,43 @@ If not, continue to the next fix.
 2. In the pop-up window, scroll down the services list and locate**Windows Audio** . Then right-click on it and select**Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/restart-windows-audio.jpg)
 3. Check that your microphone is now working.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If your microphone doesn’t work, right-click**Windows Audio** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/windows-audio-properties.jpg)
 5. In the Windows Audio properties window, check if the**Startup type** is set to Automatic. If not,**set it to Automatic** and click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/audio-automatic-ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once done, restart your computer and launch Destiny 2 to see if this solves the problem.
 
 If the issue remains, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Disable any VPNs
@@ -271,19 +267,16 @@ If the issue remains, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-ultimate-5-social-media-films-for-2024/"><u>[New] Ultimate 5 Social Media Films for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-rotate-videos-for-instagram-a-guide-for-desktop-and-mobile-users-alke/"><u>[Updated] Rotate Videos for Instagram A Guide for Desktop and Mobile Users Alke</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ructive-communication-leads-to-more-subscribers-for-2024/"><u>Constructive Communication Leads to More Subscribers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-inshot-is-it-the-pinnacle-of-editing-in-2024/"><u>Exploring InShot Is It the Pinnacle of Editing, In 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-tutorial-to-create-engaging-valorant-videos-with-thumbnails/"><u>In 2024, Step-by-Step Tutorial to Create Engaging Valorant Videos with Thumbnails</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-top-10-free-audio-capture-tools-for-excellent-podcasts-updated/"><u>New Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-simple-solutions-for-troubleshooting-dell-audio-issues/"><u>Quick and Simple Solutions for Troubleshooting Dell Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-playback-for-anthem-a-guide-for-gamers-using-windows-11/"><u>Restore Audio Playback for Anthem - A Guide for Gamers Using Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-output-device-is-installed-error-for-speakers-and-headphones-on-windows-versions-11-8-7/"><u>Solving 'No Output Device Is Installed' Error for Speakers and Headphones on Windows Versions (11, 8, 7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-all-your-g2000-mikes-on-kotion-systems/"><u>Solving Common Problems with All Your G2000 Mikes on Kotion Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102331051-successfully-repair-iphone-and-android-mtp-connectivity-issues-with-ease/"><u>Successfully Repair iPhone and Android MTP Connectivity Issues with Ease</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-fortnite-audio-issues-today-a-comprehensive-tutorial/"><u>Troubleshoot & Repair Your Fortnite Audio Issues Today - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-persistent-buzzing-in-your-audio-headphones-expert-tips-and-tricks/"><u>Troubleshooting Persistent Buzzing in Your Audio Headphones - Expert Tips & Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/xboxs-foray-into-vr-unveiling-potential-specs-expected-price-points-and-launch-windows/"><u>Xbox's Foray Into VR: Unveiling Potential Specs, Expected Price Points, and Launch Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-comedic-counterpoints-funny-song-flips-for-2024/"><u>[New] Comedic Counterpoints Funny Song Flips for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-affordable-action-cam-top-picks/"><u>2024 Approved Affordable Action Cam Top Picks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-matched-sd-cards-to-boost-your-gopro-heros-performance-for-2024/"><u>Best Matched SD Cards to Boost Your GoPro HERO's Performance for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016739424-cyberpunk-2077-audio-issues-on-windows-11-heres-the-solution/"><u>Cyberpunk 2077 Audio Issues on Windows 11? Here's the Solution!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-flawless-remote-recording-experience/"><u>In 2024, The Ultimate Guide to Flawless Remote Recording Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/intel-conexant-hdt-troubleshooting-for-windows-10-overcoming-the-no-sound-dilemma-in-your-laptop-or-desktop/"><u>Intel Conexant HDT Troubleshooting for Windows 10: Overcoming the 'No Sound' Dilemma in Your Laptop or Desktop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securely-protecting-your-email-with-domain-safelisting-in-macos-mail/"><u>Securely Protecting Your Email with Domain Safelisting in macOS Mail</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-headphones-with-annoying-buzz-sounds-step-by-step-instructions/"><u>The Ultimate Fix for Headphones with Annoying Buzz Sounds: Step-by-Step Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-non-functional-realtek-digital-output-now-with-sound/"><u>Ultimate Fix for Non-Functional Realtek DIGITAL OUTPUT - Now with SOUND!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unparalleled-dramatic-audio-experiences/"><u>Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-compatible-how-to-successfully-implement-idt-high-definition-sound-card-driver/"><u>Windows 11 Compatible - How To Successfully Implement IDT High Definition Sound Card Driver</u></a></li>
 </ul></div>
 

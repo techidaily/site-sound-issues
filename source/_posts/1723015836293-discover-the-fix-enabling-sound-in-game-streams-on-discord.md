@@ -1,7 +1,7 @@
 ---
 title: "Discover the Fix: Enabling Sound in Game Streams on Discord!"
-date: 2024-09-23T22:57:46.994Z
-updated: 2024-09-26T18:33:53.563Z
+date: 2024-09-29T22:20:20.237Z
+updated: 2024-10-01T18:19:17.455Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ When you wear your headphones and plug it into your computer, you may hear the b
 
  Sometimes it’s hard to identify the issue. But you can still try to troubleshoot the problem and fix it by following the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix buzzing noise in headphones
 
 You can try these solutions to fix buzzing sound from headphones.
@@ -44,13 +37,6 @@ You can try these solutions to fix buzzing sound from headphones.
 3. [Replace your headphones](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Configure audio settings in the computer](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot the hardware problem
 
@@ -77,19 +63,6 @@ You can try these solutions to fix buzzing sound from headphones.
 
 If not, don’t worry. We have other solutions for you.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Replace your headphones
 
  If the above fixes don’t work, you should identify the issue is coming from the PC or your headphones.
@@ -97,13 +70,6 @@ If not, don’t worry. We have other solutions for you.
  Connect a different headset to your computer and check for a buzzing noise. If the issue persists, obviously the issue comes from the PC. But if the buzzing noise disappears, you need to contact the manufacturer’s customer service for help or replace it to a new one.
 
 If the issue is coming from the PC, the next method may help you fix it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -119,11 +85,33 @@ If the issue is coming from the PC, the next method may help you fix it.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26d624ac18.png)
 3. Click the **Update** button next to the flagged audio device to automatically download the correct version this driver (you can do this with the **FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1cfada499.jpg)
 4. Restart your computer to make it take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have problems when using Driver Easy, please feel free to contact our support team at **<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Configure audio settings in the computer
 
@@ -137,6 +125,14 @@ If the issue is coming from the PC, the next method may help you fix it.
 3. Click **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1da9de109.jpg)
 4. In the popup pane, right-click on your speaker device, and select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1de596e87.jpg)
 5. Click the **Enhancements** tab, and uncheck the box next to **Disable all sound effects** . Then click **Apply** and **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1ecabd099.jpg)
@@ -161,22 +157,18 @@ If the issue is coming from the PC, the next method may help you fix it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-speak-worldwide-with-these-27-premium-tools-to-translate-videos/"><u>[New] Speak Worldwide with These 27 Premium Tools to Translate Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-facebook-live-recording/"><u>[New] The Ultimate Guide to Facebook Live Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-to-groups-shared-content-in-messenger/"><u>[Updated] In 2024, Navigating to Group's Shared Content in Messenger</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-email-notifications-glitches-on-windows-devices/"><u>Addressing Email Notifications Glitches on Windows Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-for-sound-interruptions-and-windows-audio-pop-ups/"><u>Comprehensive Solutions for Sound Interruptions and Windows Audio Pop-Ups</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-of-unresponsive-microphone-in-cs-go-comprehensive-guide/"><u>Fixing the Issue of Unresponsive Microphone in CS: GO - Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-the-sounds-back-expert-tips-for-fixing-noise-problems-in-logitech-g933/"><u>Get the Sounds Back: Expert Tips for Fixing Noise Problems in Logitech G933</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-windows-11-simple-steps-for-restoring-audio/"><u>How to Fix Silent Windows 11: Simple Steps for Restoring Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-bluetooth-connectivity-issues/"><u>How to Repair Windows 11 Bluetooth Connectivity Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/laptop-speaker-not-working-heres-the-ultimate-fix-for-audio-problems/"><u>Laptop Speaker Not Working? Here's the Ultimate Fix for Audio Problems!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguagem-verde-saudacoes-a-toda-hora-no-brasil/"><u>Linguagem Verde - Saudações a Toda Hora No Brasil</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-working-computer-sounds-easy-fixes-inside/"><u>Quick Solutions for Non-Working Computer Sounds | Easy Fixes Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revamp-your-webex-experience-with-these-4-key-fixes-for-microphone-problems/"><u>Revamp Your WebEx Experience with These 4 Key Fixes for Microphone Problems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/save-your-favorite-wistia-content-for-free-trustworthy-strategies-revealed/"><u>Save Your Favorite Wistia Content for Free - Trustworthy Strategies Revealed!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/techniques-for-enhancing-film-scenes-with-focus/"><u>Techniques for Enhancing Film Scenes with Focus</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unveiling-the-mysteries-high-quality-minecraft-capture-on-macos/"><u>[New] 2024 Approved Unveiling the Mysteries High-Quality Minecraft Capture on MacOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-metaverse-and-omniverse-a-detailed-breakdown/"><u>[Updated] 2024 Approved The Metaverse & Omniverse A Detailed Breakdown</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-keep-the-sparkle-alive-sustaining-your-snapchat-streak/"><u>[Updated] Keep the Sparkle Alive Sustaining Your Snapchat Streak</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-3-wont-open-here-are-possible-fixes/"><u>Baldur's Gate 3 Won't Open? Here Are Possible Fixes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dial-back-your-playlist-quick-steps-to-reverse-order/"><u>Dial Back Your Playlist Quick Steps to Reverse Order</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-non-functional-sound-on-a-connected-bluetooth-device/"><u>Effective Solutions for Non-Functional Sound on a Connected Bluetooth Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-c67-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme C67 5G Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-identifying-the-top-12-easiest-to-use-flip-screen-cams/"><u>In 2024, Identifying the Top 12 Easiest to Use Flip Screen Cams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/perfect-your-yt-profile-expert-tips-for-channel-descriptors-for-2024/"><u>Perfect Your YT Profile Expert Tips for Channel Descriptors for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016328763-quickly-resolve-your-bluetooth-audio-delay-problems-today/"><u>Quickly Resolve Your Bluetooth Audio Delay Problems Today!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/reviving-your-reliable-tiktok-videos/"><u>Reviving Your Reliable TikTok Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-the-ultimate-2024-guide-to-fixing-jabra-earphones/"><u>Troubleshoot and Repair: The Ultimate 2024 Guide to Fixing Jabra Earphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-voice-communication-issues-in-destiny-2/"><u>Troubleshooting Guide: How to Fix Voice Communication Issues in Destiny 2</u></a></li>
 </ul></div>
 

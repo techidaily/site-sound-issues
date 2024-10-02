@@ -1,7 +1,7 @@
 ---
 title: Solving the Mystery of Silent Mac Computers – Techniques for Bringing Back Audio
-date: 2024-09-19T19:35:19.832Z
-updated: 2024-09-21T17:41:59.578Z
+date: 2024-10-01T01:09:07.994Z
+updated: 2024-10-01T23:04:49.578Z
 tags:
   - win11
   - win10
@@ -57,11 +57,40 @@ If this fix doesn’t help you, simply take a look at the next one.
 2. Navigate to the**Communications** tab. Under the**When Windows detects communications activity:** section, click**Do nothing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-audio-cuts-out-configure-1.jpg)
 3. Navigate to the**Recording** tab, make sure the default device is set to the desired one. Select the default device and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-audio-cuts-out-configure-2.jpg)
 4. Navigate to the **Advanced** tab. In the **Default Format** section, select a different sample rate and bit depth, then click **Test** . Repeat this process until you find a format that works, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
 
  If this solution doesn’t give you luck, check out the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable QoS High Packet Priority
 
@@ -70,6 +99,14 @@ If this fix doesn’t help you, simply take a look at the next one.
 1. Open Discord and go to**User Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-disable-qos-1.jpg)
 2. From the left menu, select**Voice & Video** . Under the**QUALITY OF SERVICE** section, make sure**Enable Quality of Service High Packet Priority** is set to disable.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-disable-qos-2.jpg)
 3. Now test if the audio cuts out again.
 
@@ -88,18 +125,18 @@ If this fix doesn’t help you, simply take a look at the next one.
  (You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/NVIDIA-High-Definition-Audio-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t help, you can move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
 
@@ -110,14 +147,34 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
@@ -126,38 +183,24 @@ Here’s how:
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now check if the audio is back on track. If so, repeat these steps but only disable half of the programs and services.
 
 If this fix doesn’t work for you, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
 
@@ -207,5 +250,24 @@ Here’s a quick guide for that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quicktime-stop-screen-recording-guide/"><u>[Updated] In 2024, Quicktime Stop Screen Recording (Guide)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-software-guide-for-video-game-shows-for-2024/"><u>[Updated] Ultimate Software Guide for Video Game Shows for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/10-amazing-emoji-facts-you-didnt-know/"><u>10 Amazing Emoji Facts You Didn't Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-solutions-restoring-audio-on-your-astro-a50-headphones/"><u>Fast Solutions: Restoring Audio on Your Astro A50 Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-on-your-computer-without-hearing-a-peep-step-by-step/"><u>Fixing Audio Issues on Your Computer Without Hearing a Peep – Step-by-Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-bluetooth-paired-but-still-silent-solutions-inside/"><u>Fixing the Issue: Bluetooth Paired but Still Silent – Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g633-microphone-issues-a-comprehensive-guide/"><u>Fixing Your Logitech G633 Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-silent-to-symphony-essential-steps-for-restoring-conexant-smartaudio-hd-sound-on-window-10-operating-systems/"><u>From Silent to Symphony: Essential Steps for Restoring Conexant SmartAudio HD Sound on Window 10 Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-audio-back-expert-tips-to-fix-broken-headphone-connections-in-windows-11/"><u>Get Your Audio Back: Expert Tips to Fix Broken Headphone Connections in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-black-ops-cold-wars-voice-communication-features-effectively/"><u>How to Repair and Restore Black Ops Cold War's Voice Communication Features Effectively</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-10-recording-tips-for-recording-audio-with-high-quality/"><u>In 2024, 10 Recording Tips for Recording Audio with High Quality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-90-lite-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor 90 Lite Phone that is Locked?</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-windows-11-quieter-stop-non-user-apps/"><u>Making Windows 11 Quieter: Stop Non-User Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pubg-voice-call-issues-with-these-simple-steps/"><u>Solve Your PUBG Voice Call Issues with These Simple Steps!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-enabling-and-repairing-miracast-on-windows-11/"><u>The Ultimate Walkthrough: Enabling and Repairing Miracast on Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-4-recommended-korean-music-sites-and-how-to-download-k-pop-tracks-effortlessly/"><u>TOP 4 Recommended Korean Music Sites & How To Download K-Pop Tracks Effortlessly</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-play-8t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Play 8T Screen | Dr.fone</u></a></li>
+</ul></div>
 

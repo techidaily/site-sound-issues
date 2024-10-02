@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Missing Sounds on Your Nvidia HD Audio Device
-date: 2024-09-22T00:03:36.968Z
-updated: 2024-09-26T18:34:53.761Z
+date: 2024-09-25T16:35:33.248Z
+updated: 2024-10-01T17:07:47.894Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure you have not muted the sound
@@ -53,16 +53,29 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-152.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Play some music in Windows Media Player and see if the  
 **Windows Media Player no sound** issue has been resolved. If yes, then great! But if the problem persists, you should try**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -79,13 +92,6 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-155.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
@@ -99,10 +105,10 @@ To make sure the volume is not muted but audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update or reinstall Windows Media Player
@@ -131,19 +137,22 @@ To make sure the volume is not muted but audible:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capturing-the-web-in-full-color-the-best-screen-recorders-reviewed/"><u>[New] 2024 Approved Capturing the Web in Full Color The Best Screen Recorders Reviewed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-craft-compelling-fb-video-covers-from-scratch/"><u>[New] 2024 Approved How to Craft Compelling FB Video Covers From Scratch</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-direct-android-image-copy-to-iphone/"><u>[New] Direct Android Image Copy to iPhone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unveiling-the-best-practices-for-skype-in-obs/"><u>[Updated] 2024 Approved Unveiling the Best Practices for Skype in OBS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-a-guide-to-top-screen-capture-for-zoom/"><u>[Updated] A Guide to Top Screen Capture for Zoom</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-c53-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-display-functionality-updating-windows-hdmi-drivers/"><u>Boost Display Functionality: Updating Windows' HDMI Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/complete-guide-installing-idt-high-definition-audio-codec-on-windows-10/"><u>Complete Guide: Installing IDT High Definition Audio Codec on Windows 10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-12t-pro-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 12T Pro has native HEVC support?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-f15-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy F15 5G Fingerprint Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-silent-void-apc-specific-solutions-for-valheims-audio-problems/"><u>Mastering the Silent Void: APC-Specific Solutions for Valheim's Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-sound-issues-in-your-hp-device-running-windows-11/"><u>Troubleshoot Sound Issues in Your HP Device Running Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-steams-voice-communication/"><u>Troubleshooting Guide: Solving Issues with Steam's Voice Communication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016513087-troubleshooting-why-isnt-my-mic-working-solutions-inside/"><u>Troubleshooting: Why Isn't My Mic Working? Solutions Inside</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-simple-strategies-for-stellar-sports-highlights/"><u>[New] In 2024, Simple Strategies for Stellar Sports Highlights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-the-way-in-high-res-display-technology/"><u>[New] Leading the Way in High-Res Display Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exceptional-windows-calls-8-highest-rated/"><u>[Updated] Exceptional Windows Calls 8 Highest Rated</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-spark-20-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Spark 20 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-your-computers-audio-problems-in-five-steps-tailored-for-windows-11/"><u>Conquer Your Computer's Audio Problems in Five Steps (Tailored for Windows 11)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-problems-on-windows-10-solutions-to-get-your-games-audio-working-again/"><u>Cyberpunk 2077 Sound Problems on Windows 10 - Solutions to Get Your Game's Audio Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-your-corsair-headset-is-not-working/"><u>Effective Fixes When Your Corsair Headset Is Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-mic-in-airpods-when-used-with-microsofts-latest-os-windows-11/"><u>Fixing Non-Functional Mic in AirPods when Used with Microsoft’s Latest OS, Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-removing-sonic-boosts-from-windows-11-computers/"><u>Guide: Removing Sonic Boosts From Windows 11 Computers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-disableremove-youtube-shorts-permanently/"><u>How to Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-chortle-curators-humor-hunt/"><u>In 2024, Chortle Curators Humor Hunt</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-y100i-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo Y100i and Browser | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016343201-mac-no-sound-dilemma-heres-how-to-get-the-audio-working-again/"><u>Mac No Sound Dilemma? Here's How to Get the Audio Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reclaiming-acoustics-effective-fixes-for-no-audio-in-valheim-on-desktop-computers/"><u>Reclaiming Acoustics: Effective Fixes for No Audio in Valheim on Desktop Computers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/universal-xbox-one-controller-support-for-winsystems/"><u>Universal Xbox One Controller Support for Winsystems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-the-secret-to-transmitting-in-game-noise-via-discord-fixed/"><u>Unlock the Secret to Transmitting In-Game Noise via Discord - Fixed!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Restoring Functionality to Your Broken or Silent Headset Microphone"
-date: 2024-09-23T18:43:54.482Z
-updated: 2024-09-26T21:20:11.557Z
+date: 2024-09-30T23:51:01.066Z
+updated: 2024-10-01T23:04:01.299Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 4. [**Close other apps that have access to your headset microphone**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution for 3.5mm wired headset
 
  If you’re using a 3.5mm wired headset and the mic not working, you’ll need a[4-pin to 3-pin adapter cable](https://www.amazon.com/UGREEN-Headphone-Splitter-Computer-Smartphone/dp/B073ZDDTH2/?tag=supereasyen05-20) . Because many headsets use a 4-pin or TRRS plug. This refers to the pin out on the 3.5mm connector, which carries the right audio, left audio, ground, and microphone. You’ll need a 4-pin or TRRS jack that is commonly used on smartphones to plug into. Older desktop PCs and older laptops will have separate jacks for mic and audio.
@@ -65,13 +58,26 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
 4. Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The screenshots above are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Set your microphone device as default
@@ -81,41 +87,43 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 1. **Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select**Large icons** from the**View by** drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select **Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick Show Disabled Devices.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 5. Right click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
-6. Right-click it again and select Set as Default Device.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Right-click it again and select Set as Default Device.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 7. Right-click Headset Microphone and click Properties.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 8. Click the Levels tab, then drag the volume slider toward the_largest value_ .  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 9. Click**OK** , then click**OK** .
 
- Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
-
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ### Fix 3: Update your audio drivers
 
@@ -129,15 +137,16 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 2. Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click the**Activate & Update** button next to your sound device or your headset to update the latest and correct driver for it. You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer.  
- (You’ll be prompted to upgrade when you click Update All. If you are not sure whether Driver Easy is right for you, our free trial version lets you try out the_full features_ of the Pro version for 7 days. You won’t be charged before your trial ends.)  
-![](https://www.drivereasy.com/wp-content/uploads/2018/09/Intel-display-audio-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ (You’ll be prompted to upgrade when you click Update All. If you are not sure whether Driver Easy is right for you, our free trial version lets you try out the_full features_ of the Pro version for 7 days. You won’t be charged before your trial ends.)  
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/Intel-display-audio-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -145,10 +154,10 @@ Many **headset** users are reporting that their headset**microphone** is not wor
  Once you’ve updated the driver for your audio devices, restart your computer. Then log in again and see if the microphone is working.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Close other apps that have access to your headset microphone
@@ -187,22 +196,20 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-building-interest-with-budget-friendly-youtube-video-intros-for-2024/"><u>[New] Building Interest with Budget-Friendly YouTube Video Intros for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-your-coding-process-using-generative-ai-understanding-potential-pitfalls/"><u>Accelerate Your Coding Process Using Generative AI: Understanding Potential Pitfalls</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015312049-corsair-virtuoso-headset-trouble-heres-how-to-get-it-working-again/"><u>Corsair Virtuoso Headset Trouble? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016631928-fixing-crackling-sound-from-speakers-on-windows-11-and-7-problem-solved/"><u>Fixing Crackling Sound From Speakers on Windows 11 & 7 - Problem Solved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-realtek-microphone-up-and-running-again/"><u>How to Get Your Realtek Microphone Up and Running Again</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-no-cost-iphone-and-android-apps-for-slow-motion-videos/"><u>In 2024, Best No-Cost iPhone & Android Apps for Slow Motion Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-free-screen-recorder-apowersoft-evaluation/"><u>In 2024, Free Screen Recorder Apowersoft Evaluation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-jokes-in-jams-best-funny-video-concepts-under-five-minutes/"><u>In 2024, Jokes in Jams Best Funny Video Concepts Under Five Minutes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/regaining-lost-sounds-a-comprehensive-guide-for-fixing-noise-problems-in-borderlands-3-on-pc/"><u>Regaining Lost Sounds: A Comprehensive Guide for Fixing Noise Problems in Borderlands 3 on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-sound-quick-fixes-for-non-responsive-headset-microphones/"><u>Revive Your Sound: Quick Fixes for Non-Responsive Headset Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-non-functioning-skype-microphones-in-windows-11-environment/"><u>Solution Guide for Non-Functioning Skype Microphones in Windows 11 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-to-reactivate-your-voice-chat-during-valorant-matches/"><u>Solutions to Reactivate Your Voice Chat During Valorant Matches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-troubles-in-fortnite-fixing-the-microphone-error/"><u>Solving Audio Troubles in Fortnite: Fixing the Microphone Error</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-c12-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia C12 Pro</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-design-cartoon-images-with-the-best-tools/"><u>Updated Design Cartoon Images With the Best Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/visual-language-in-tiktok-a-complete-overview-for-2024/"><u>Visual Language in TikTok A Complete Overview for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-avoiding-triggers-exiting-with-ease-from-discord-servers/"><u>[Updated] Avoiding Triggers Exiting with Ease From Discord Servers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/amp-up-your-computers-audio-correcting-underperforming-speakers-in-windows-11/"><u>Amp up Your Computer's Audio: Correcting Underperforming Speakers in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-downloading-and-setting-up-msixbundle-and-msix-file-types/"><u>Comprehensive Tutorial: Downloading & Setting Up Msixbundle & MSIX File Types</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-hyperx-cloud-alpha-microphone-malfunctions/"><u>Effective Solutions for HyperX Cloud Alpha Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-repairing-unresponsive-computer-audio-system/"><u>Expert Tips on Repairing Unresponsive Computer Audio System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-understanding-haul-content-production-and-post-production-techniques/"><u>In 2024, Understanding Haul Content Production & Post-Production Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-the-potential-of-onestream-live-streaming/"><u>In 2024, Unlocking the Potential of OneStream Live Streaming</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-home-network-tips-and-tricks-from-toms-hardware-pros/"><u>Mastering Your Home Network: Tips and Tricks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimized-ai-dialogues-chatgpt-for-mac-enthusiasts/"><u>Optimized AI Dialogues: ChatGPT for Mac Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-guide-reactivating-the-voice-chat-feature-in-valorant/"><u>Solutions Guide: Reactivating the Voice Chat Feature in Valorant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/successful-diagnosis-and-repair-of-headphone-failures-in-windows-11/"><u>Successful Diagnosis and Repair of Headphone Failures in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-laptop-audio-issues-a-comprehensive-guide/"><u>Troubleshoot and Resolve Laptop Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-corsair-hs60-headset-microphone/"><u>Troubleshooting Guide: Fixing a Non-Functional Corsair HS60 Headset Microphone</u></a></li>
 </ul></div>
 

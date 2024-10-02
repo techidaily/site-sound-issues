@@ -1,7 +1,7 @@
 ---
 title: No Sounds in Apex Legends? Here's How You Can Resolve It
-date: 2024-09-18T18:04:06.553Z
-updated: 2024-09-21T19:19:45.633Z
+date: 2024-09-25T02:15:42.065Z
+updated: 2024-10-01T22:44:28.594Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
@@ -49,6 +56,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot settings** . Then, click**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
@@ -100,19 +114,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -121,22 +122,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
@@ -152,6 +146,13 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -179,5 +180,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-audio-enabled-mac-video-recorder/"><u>[New] In 2024, Audio-Enabled Mac Video Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dismantling-the-profit-strategy-of-tseries-on-digital-platforms-youtube/"><u>[New] In 2024, Dismantling the Profit Strategy of TSeries on Digital Platforms (YouTube)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-prime-20-anime-openers-soundscape-for-2024/"><u>[New] Prime 20 Anime Openers' Soundscape for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-peephole-to-private-facebook-worlds/"><u>2024 Approved Peephole to Private Facebook Worlds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-list-of-no-download-online-gif-to-video-converters-for-2024/"><u>Comprehensive List of No-Download Online GIF to Video Converters for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-digital-how-to-overcome-dolby-audio-driver-not-starting-on-windows-10/"><u>Fixing Dolby Digital: How to Overcome 'Dolby Audio Driver Not Starting' On Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016444608-get-your-logitech-g933-microphone-working-again-fixes-inside/"><u>Get Your Logitech G933 Microphone Working Again - Fixes Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-microphone-problems-while-playing-sea-of-thieves-on-desktop/"><u>How to Fix Microphone Problems While Playing Sea of Thieves on Desktop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-smart-8-hd-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Smart 8 HD Unlock Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23plus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23+ Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-windows-10-compatible-drivers-for-gtx-970/"><u>New Windows 10 Compatible Drivers for GTX 970</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015924069-no-sound-on-device-heres-how-to-quickly-bring-back-the-volume/"><u>No Sound on Device? Here’s How to Quickly Bring Back the Volume</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-why-and-how-to-resolve-microsoft-teamsskype-mic-issues-on-windows-10-computers/"><u>Step-by-Step Fix: Why and How to Resolve Microsoft Teams/Skype Mic Issues on Windows 10 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-when-your-steelseries-arctis-7-mic-fails-to-work/"><u>Step-by-Step Solutions for When Your SteelSeries Arctis 7 Mic Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-repair-a-malfunctioning-steelseries-arctis-7-headset-mic/"><u>Steps to Repair a Malfunctioning SteelSeries Arctis 7 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015384700-trouble-with-cod-vanguard-voice-chat-heres-how-to-get-it-working-again/"><u>Trouble with COD: Vanguard Voice Chat? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-victory-the-resolution-of-nba-2k21s-notorious-green-bug/"><u>Unlocking Victory: The Resolution of NBA 2K21's Notorious Green Bug</u></a></li>
+</ul></div>
 

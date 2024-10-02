@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Wired: Troubleshooting and Repairing Non-Functional In-Line Mics"
-date: 2024-09-21T22:06:12.726Z
-updated: 2024-09-26T20:12:29.137Z
+date: 2024-09-30T19:40:19.396Z
+updated: 2024-10-02T00:38:46.467Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/f9167146a20f7f71fc0a8f732e38b185988119c4a
 
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Enable your headset mic for recording
 
  When your microphone doesn’t have access to your PC to record your audio, it won’t work. Here’s how to enable your headset mic:
@@ -62,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/f9167146a20f7f71fc0a8f732e38b185988119c4a
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
@@ -74,13 +67,20 @@ thumbnail: https://thmb.techidaily.com/f9167146a20f7f71fc0a8f732e38b185988119c4a
 4. Click**Apply** then**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
 
@@ -95,19 +95,19 @@ thumbnail: https://thmb.techidaily.com/f9167146a20f7f71fc0a8f732e38b185988119c4a
 3. Test your microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your headset is set as the input device but the mic still won’t work, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Turn on the mic access on your PC
@@ -118,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/f9167146a20f7f71fc0a8f732e38b185988119c4a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t fix your mic problem, try the next fix.
 
@@ -145,6 +138,13 @@ If this doesn’t fix your mic problem, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -169,20 +169,22 @@ If this doesn’t fix your mic problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-tailoring-igtv-titles-and-summaries-for-impact/"><u>[New] Tailoring IGTV Titles & Summaries for Impact</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-channels-image-a-pathway-to-more-subscribers-and-followers/"><u>[New] Transform Your Channels' Image A Pathway to More Subscribers and Followers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-100-free-windows-screen-capture-guides-and-methods/"><u>[Updated] 2024 Approved 100% Free Windows Screen Capture Guides & Methods</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dealing-with-delayed-or-non-syncing-gmail-step-by-step-solutions/"><u>Dealing With Delayed or Non-Syncing Gmail: Step-by-Step Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-what-to-do-when-your-bose-sound-system-stops-working/"><u>DIY Fixes: What to Do When Your Bose Sound System Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-microphone-troubles-in-microsoft-teams-a-step-by-step-guide-for-windows-1110-users/"><u>Fix Microphone Troubles in Microsoft Teams: A Step-by-Step Guide for Windows 11/10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-get-your-airpods-mic-working-again-in-windows-11/"><u>Fixing Connectivity Problems: Get Your Airpods Mic Working Again in Windows 11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-exploring-the-wilderness-on-your-phone-10-premium-nature-sounds-apps/"><u>New 2024 Approved Exploring the Wilderness on Your Phone 10 Premium Nature Sounds Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-sound-devices-found-in-audacity-top-5-fixes/"><u>Resolving 'No Sound Devices Found' In Audacity: Top 5 Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-playback-functionality-resolving-windows-7-sound-problems/"><u>Restoring Playback Functionality: Resolving Windows ˈ7 Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-fixing-and-preventing-persistent-echo-issues-during-discord-calls-pc-updated/"><u>The Definitive Guide: Fixing and Preventing Persistent Echo Issues During Discord Calls (PC, Updated )</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-causes-7-reasons-for-poor-iphone-and-android-connection-pace/"><u>Understanding the Causes: 7 Reasons for Poor iPhone and Android Connection Pace</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-hardware-with-tom-top-picks-and-detailed-reviews/"><u>Unveiling the Latest in Hardware with Tom - Top Picks and Detailed Reviews</u></a></li>
-<li><a href="https://video-capture.techidaily.com/veiled-vocal-vaults-top-6-under-the-radar-mobile-apps-for-2024/"><u>Veiled Vocal Vaults Top 6 Under-the-Radar Mobile Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[New] 2024 Approved From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-photo-inspector-fast-and-reliable/"><u>[New] Superior Photo Inspector, Fast & Reliable</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elevating-your-webinar-footage-with-best-practices/"><u>[Updated] 2024 Approved Elevating Your Webinar Footage with Best Practices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028755217-avimp4/"><u>大容量AVIファイルをMP4に完璧に変換する手引きと優秀無料アプリ選び術</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/discovering-charismatic-faces-on-your-snaps-for-2024/"><u>Discovering Charismatic Faces on Your Snaps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016034592-diy-solutions-getting-your-stereo-sound-back-in-action/"><u>DIY Solutions: Getting Your Stereo Sound Back in Action</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fast-and-accurate-microphone-diagnostics-at-home/"><u>Expert Tips for Fast and Accurate Microphone Diagnostics at Home</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-muted-problems-get-facebook-videos-back-with-sound-on-your-computer/"><u>Fix Muted Problems: Get Facebook Videos Back with Sound on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-papal-bulls-to-pixels-does-pope-francis-embrace-email-for-church-matters/"><u>From Papal Bulls to Pixels: Does Pope Francis Embrace Email for Church Matters?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-11-pro-maxipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 11 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-mic-and-speaker-problems-when-using-zoom-on-windows-or-mac/"><u>Resolving Mic and Speaker Problems When Using Zoom on Windows or Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-auditory-issues-essential-tricks-to-restore-sounds-in-fortnites-battle-royale-2024-edition/"><u>Solving Auditory Issues: Essential Tricks to Restore Sounds in Fortnite's Battle Royale - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-noise-issues-in-world-of-warcraft-a-comprehensive-guide/"><u>Solving Noise Issues in World of Warcraft: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-audio-in-windows-10-solved/"><u>Troubleshooting Non-Functional Audio in Windows 10 - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-cod-vanguards-voice-chat-goes-offline/"><u>Troubleshooting Tips for When Cod: Vanguard's Voice Chat Goes Offline</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-reset-and-refresh-fixing-common-issues-in-final-cut-pro-x-for-2024/"><u>Updated Reset and Refresh Fixing Common Issues in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
 

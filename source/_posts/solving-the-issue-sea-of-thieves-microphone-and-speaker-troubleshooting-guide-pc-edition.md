@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Sea of Thieves Microphone & Speaker Troubleshooting Guide - PC Edition"
-date: 2024-09-25T18:22:14.772Z
-updated: 2024-09-26T17:42:15.737Z
+date: 2024-09-29T23:53:59.724Z
+updated: 2024-10-01T20:33:16.131Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -52,8 +45,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
@@ -75,13 +84,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -97,30 +99,30 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -147,20 +149,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boost-communication-capabilities-from-skype-to-zoom/"><u>[New] Boost Communication Capabilities From Skype to Zoom</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-your-latest-fb-watch-list/"><u>[New] In 2024, Discover Your Latest FB Watch List</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>[Updated] 2024 Approved Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-adding-emojis-in-youtube-discussions/"><u>2024 Approved Adding Emojis in YouTube Discussions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-exploring-the-capabilities-of-screenflow-on-mac-devices/"><u>2024 Approved Exploring the Capabilities of ScreenFlow on Mac Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-transforming-speeches-learn-no-cost-audio-effect-techniques-here/"><u>2024 Approved Transforming Speeches Learn No-Cost Audio Effect Techniques Here</u></a></li>
-<li><a href="https://article-helps.techidaily.com/blueprinting-breathtaking-film-prologues-for-2024/"><u>Blueprinting Breathtaking Film Prologues for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-troubleshooting-making-your-mic-function-again/"><u>Corsair Virtuoso Troubleshooting - Making Your Mic Function Again</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-disconnection-alerts-due-to-multiple-software-access-on-one-device/"><u>Fixing HDMI Disconnection Alerts Due to Multiple Software Access on One Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-dell-sound-driver-errors-in-windows-7-effectively/"><u>How to Repair Dell Sound Driver Errors in Windows 7 Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-glitches-during-your-playthrough-of-resident-evil-village/"><u>Resolving Audio Glitches During Your Playthrough of Resident Evil Village</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sea-of-thieves-pc-troubleshooting-resolving-micaudio-connections/"><u>Sea of Thieves PC Troubleshooting: Resolving Mic/Audio Connections</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-your-device-is-paired-yet-silent-on-bluetooth-tips-inside/"><u>Solving the Mystery: Your Device Is Paired, Yet Silent on Bluetooth – Tips Inside</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/why-cant-i-open-my-photos/"><u>Why Can't I Open My Photos?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-complete-igtv-user-manual/"><u>[New] In 2024, The Complete IGTV User Manual</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-premium-subscription-everything-you-need-to-know/"><u>[Updated] In 2024, YouTube Premium Subscription - Everything You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-audio-problems-heres-how-you-can-get-your-mic-working-again/"><u>Astro A10 Audio Problems? Here's How You Can Get Your Mic Working Again</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/defeating-the-bluish-menace-a-complete-guide-to-solving-asmthchisys-bsod-errors/"><u>Defeating the Bluish Menace: A Complete Guide to Solving 'asmthchi.sys' BSOD Errors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/efficient-hashtag-use-for-skyrocketing-youtube-audience-for-2024/"><u>Efficient Hashtag Use for Skyrocketing YouTube Audience for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-techniques-to-correct-sound-troubles-in-your-windows-11-experience/"><u>Essential Techniques to Correct Sound Troubles in Your Windows 11 Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fast-fancy-and-expensive-the-all-new-glion-dolly-e-scooter-explored-in-detail/"><u>Fast, Fancy and Expensive: The All-New Glion Dolly E-Scooter Explored in Detail</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-astro-a50-microphone-issues-troubleshooting-guide/"><u>Fixing Astro A50 Microphone Issues: Troubleshooting Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-s18-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo S18 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-the-mechanics-of-zoom-techniques-for-top-notch-podcast-recordings/"><u>Mastering the Mechanics of Zoom Techniques for Top-Notch Podcast Recordings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-audio-experience-how-to-address-cyberpunk-2077-sound-problems-effectively/"><u>Optimizing Audio Experience: How to Address Cyberpunk 2077 Sound Problems Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-compatibility-concerns-with-the-idt-hd-audio-codec-driver-in-windows-10-expert-advice/"><u>Resolving Compatibility Concerns with the IDT HD Audio Codec Driver in Windows 10: Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-discord-voice-working-expert-advice-for-immediate-resolution/"><u>Why Isn't My Discord Voice Working? Expert Advice for Immediate Resolution</u></a></li>
 </ul></div>
 

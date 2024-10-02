@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Functional Razer Barracuda X Microphones on Latest Windows Versions
-date: 2024-09-25T21:47:37.813Z
-updated: 2024-09-26T17:12:51.602Z
+date: 2024-09-26T21:23:41.306Z
+updated: 2024-10-01T16:28:07.375Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 
  You can check your microphone to see if it works now. If it doesn’t, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow apps to access your microphone
 
  Users report that even if they set up the correct input device in an app, the microphone still won’t work. The possible reason is that the app doesn’t have access to your microphone on a system level. To allow the related program on Windows 11, here’s how:
@@ -57,22 +64,23 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Enable the microphone for recording
 
@@ -81,26 +89,20 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 1. On the taskbar, right-click the**speaker icon** and select**Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
-3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
+3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
 If this fix doesn’t solve your problem, try the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update the audio drivers
 
@@ -119,13 +121,6 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
@@ -133,10 +128,10 @@ If this fix doesn’t solve your problem, try the next one.
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: Repair corrupted system files
@@ -150,14 +145,14 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the microphone or other sound issues, you can click **START REPAIR** to fix them.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -183,24 +178,19 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-sound-not-working-on-pc-quickly-and-easily/"><u>[Fixed] Sound Not Working on PC | Quickly & Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/0-premier-travel-blogs-to-watch-online/"><u>[New] 10 Premier Travel Blogs to Watch Online</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-on-easy-ways-to-record-your-overwatch-experience/"><u>[New] 2024 Approved Game On! Easy Ways to Record Your Overwatch Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-framing-your-story-with-effective-titles/"><u>[New] Framing Your Story with Effective Titles</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-tips-for-youtube-content-creation-excellence-for-2024/"><u>[New] Ultimate Tips for YouTube Content Creation Excellence for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-ipads-and-macbooks-merging-in-game-industry/"><u>Are iPads and MacBooks Merging in Game Industry?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-no-go-zone-unpacking-italys-sudden-ban-on-ai-conversational-tool/"><u>ChatGPT No-Go Zone: Unpacking Italy’s Sudden Ban on AI Conversational Tool</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hp-notebook-audio-issues-a-step-by-step-guide/"><u>Fixing HP Notebook Audio Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-g933-microphone-troubleshooting-guide/"><u>How to Fix a Non-Functioning Logitech G933 Microphone: Troubleshooting Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issue-when-headphones-are-plugged-in-but-play-through-speakers/"><u>How to Fix Audio Issue When Headphones Are Plugged In But Play Through Speakers</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-8-multi-subtitles-translators-you-can-use/"><u>New Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015745844-pubg-voice-chat-not-functioning-expert-advice-to-restore-it/"><u>PUBG Voice Chat Not Functioning? Expert Advice to Restore It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016763288-quick-fixes-for-your-pcs-audio-problems-easy-solutions/"><u>Quick Fixes for Your PC's Audio Problems | Easy Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/skycam-conflict-dji-phantom-vs-gopro-hero5-black/"><u>SkyCam Conflict DJI Phantom Vs GoPro HERO5 Black</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-dolby-dilemma-now-addressing-the-challenge-of-starting-dolby-audio-driver-in-windows-10-computers/"><u>Solve Your Dolby Dilemma Now! Addressing the Challenge of Starting Dolby Audio Driver in Windows 10 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-audio-driver-issues-on-dell-computers-with-windows-7/"><u>Troubleshooting and Resolving Audio Driver Issues on Dell Computers with Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unplugging-mysteries-a-comprehensive-guide-to-fixing-no-sound-from-conexant-smartaudio-hd-under-windows-11/"><u>Unplugging Mysteries: A Comprehensive Guide to Fixing No Sound From Conexant SmartAudio HD Under Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/why-does-facebook-suggested-videos-not-showing-up-in-2024/"><u>Why Does Facebook Suggested Videos Not Showing Up, In 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ree-fx-library-to-enhance-youtube-productions-for-2024/"><u>[New] Free FX Library to Enhance YouTube Productions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mobile-focus-top-gimbal-systems-for-dynamic-shooting/"><u>[New] Mobile Focus Top Gimbal Systems for Dynamic Shooting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-media-conversion-with-actionable-steps-from-xml/"><u>[Updated] 2024 Approved Mastering Media Conversion with Actionable Steps From XML</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-avoiding-zoom-call-blunders-smart-filters-usage-for-2024/"><u>[Updated] Avoiding Zoom Call Blunders Smart Filters Usage for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-marker-use-in-digital-filmmaking/"><u>[Updated] Innovative Marker Use in Digital Filmmaking</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-quick-guide-to-troubleshoot-instagram-videos/"><u>[Updated] Quick Guide to Troubleshoot Instagram Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimateglobalvision-select-live-and-home-channels-together/"><u>[Updated] UltimateGlobalVision Select Live and Home Channels Together</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-functional-microphones-on-the-steelseries-arctis-7/"><u>Diagnosing and Repairing Non-Functional Microphones on the SteelSeries Arctis 7</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-beans-to-bars-heres-chocolate-in-30-languages/"><u>From Beans to Bars, Here's Chocolate in 30 Languages!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/method-to-resuscitate-windows-lost-scanning-capability/"><u>Method to Resuscitate Windows' Lost Scanning Capability</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fortnite-microphone-issues-solutions-and-fixes/"><u>Troubleshooting Fortnite Microphone Issues: Solutions & Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-sennheiser-gaming-microphone-issues/"><u>Troubleshooting Guide: Solving Sennheiser Gaming Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncover-the-fixes-for-anthems-silent-playback-issue-on-windows-11-devices/"><u>Uncover the Fixes for Anthem's Silent Playback Issue on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/what-to-do-when-speakers-fail-to-work-consistently-on-windows-11/"><u>What to Do When Speakers Fail to Work Consistently on Windows 11?</u></a></li>
 </ul></div>
 

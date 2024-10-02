@@ -1,7 +1,7 @@
 ---
 title: Turtle Beach Recon 70 Headset Mic Issue? Here's How to Repair It
-date: 2024-09-21T21:24:48.810Z
-updated: 2024-09-26T19:11:43.841Z
+date: 2024-09-25T16:46:37.761Z
+updated: 2024-10-01T22:47:38.561Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 
  If your PC has two jacks to separate input and output for headphone audio and mic audio, you would need a[mic splitter](https://www.amazon.com/Headphone-Splitter-KOOPAO-Microphone-Earphones/dp/B084V3TRTV/?tag=drivereasycom-20) to use this headset with your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Try these fixes…
 
 **[1: Enable your headset mic for recording](https://tools.techidaily.com/drivereasy/download/)**
@@ -66,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 2. Switch to the**Recording** tab and find your headset device. If you don’t see it, right-click on the empty area then select**Show Disabled Devices** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_16-57-37.jpg)
@@ -79,13 +72,26 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-06-58-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if your mic works. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2:**Set your headset as the input device**
 
@@ -98,14 +104,14 @@ Check if your mic works. If not, try the next solution.
 3. You’ll be able to adjust the volume and output/input device for different apps as you need.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-38-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check if your headset microphone can record your voice. If this doesn’t help, proceed to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Update your audio driver**
 
@@ -122,15 +128,15 @@ Check if your mic works. If not, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-35.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -145,16 +151,16 @@ Check if your mic works. If not, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
  Check if your headset mic is working. If this doesn’t give you luck, try the last solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5:**Re-enable your headset mic via Device Manager**
 
@@ -165,15 +171,16 @@ Check if your mic works. If not, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-30-17.jpg)
 3. Under**Audio inputs and outputs** , right-click your headset then select**Disable Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-05-22.jpg)
 4. Again right-click your headset, then select**Enable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-10-34.jpg)
 
 Check if your headset mic works.
@@ -205,19 +212,21 @@ Check if your headset mic works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unleashing-potential-best-macos-recording-apps-analysis/"><u>[New] In 2024, Unleashing Potential Best macOS Recording Apps Analysis</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-securing-stability-techniques-for-quality-video-with-logitech/"><u>[New] Securing Stability Techniques for Quality Video with Logitech</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-earn-on-tiktok-explore-8-effective-money-making-techniques/"><u>[Updated] 2024 Approved Earn on TikTok Explore 8 Effective Money-Making Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-add-filters-effects-and-masks-in-google-meet-for-2024/"><u>[Updated] How to Add Filters, Effects, and Masks in Google Meet for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-tecno-spark-10-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725289925749-fps/"><u>FPS（フレームレート）が画像品質に及ぼす影響：概要と最適設定手法</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/google-chrome-audio-restored-fixing-the-silent-mode-dilemma/"><u>Google Chrome Audio Restored – Fixing the Silent Mode Dilemma</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-mic-problems-on-your-windows-7-pc-complete-guide/"><u>How to Fix Mic Problems on Your Windows 7 PC - Complete Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-note-12-4g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi Note 12 4G for Parents | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-for-usb-earbuds-plugged-into-windows-aturality-with-a-sophisticated-natural-feel/"><u>Restoring Audio for USB Earbuds Plugged Into Windows Aturality with a Sophisticated, Natural Feel.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-sudden-sounds-on-your-pc-windows-troubleshooting-tips/"><u>Solving the Mystery of Sudden Sounds on Your PC - Windows Troubleshooting Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-pc-the-top-5-solutions-for-audio-problems-in-windows-10/"><u>Troubleshooting Your PC: The Top 5 Solutions for Audio Problems in Windows 10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unboxing-high-fidelity-gaming-recorders-for-2024/"><u>Unboxing High-Fidelity Gaming Recorders for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-lut-strategies-for-enhancing-ar-experiences/"><u>[Updated] Free LUT Strategies for Enhancing AR Experiences</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ranking-youtube-download-apps-for-android-users-for-2024/"><u>[Updated] Ranking YouTube Download Apps for Android Users for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-taking-flight-in-depth-review-of-the-x4-fpv-quadcopter/"><u>[Updated] Taking Flight In-Depth Review of the X4 FPV Quadcopter</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-solving-beyond-the-wire-microphone-not-working-problems/"><u>Comprehensive Fixes: Solving Beyond The Wire Microphone Not Working Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hp-laptop-audio-issues-on-windows-10-troubleshooting-steps/"><u>Fixing HP Laptop Audio Issues on Windows 10: Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-logitech-g-pro-x-mic-failure-complete-solution/"><u>How To Resolve Logitech G Pro X Mic Failure - Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-rectify-red-screen-malfunctions/"><u>How to Successfully Address and Rectify Red Screen Malfunctions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-aerial-cinematography-drone-editing-insights/"><u>In 2024, The Art of Aerial Cinematography Drone Editing Insights</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mastering-high-quality-sound-how-to-enjoy-lossless-music-on-your-android-phone-or-tablet/"><u>Mastering High-Quality Sound: How to Enjoy Lossless Music on Your Android Phone or Tablet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-hurdles-with-destiny-2-making-the-voice-chat-work-again/"><u>Overcoming Hurdles with Destiny 2 - Making the Voice Chat Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-how-to-make-headphones-appear-for-windows-11-users/"><u>Resolving Audio Problems: How to Make Headphones Appear for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016629662-simple-fix-for-crackling-headphones-a-comprehnose-guide-to-silky-audio/"><u>Simple Fix for Crackling Headphones: A Comprehnose Guide to Silky Audio!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-on-saving-nasm-courses-as-various-audiovideo-files-for-easy-access/"><u>Step-by-Step Guide on Saving NASM Courses as Various Audio/Video Files for Easy Access</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-pcs-mic-on-windows-7-top-fixes-to-get-you-talking-again/"><u>Trouble with Your PC's Mic on Windows 7? Top Fixes to Get You Talking Again</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleash-creative-potential-a-detailed-breakdown-of-photoshops-background-eraser-feature-for-2024/"><u>Unleash Creative Potential A Detailed Breakdown of Photoshop's Background Eraser Feature for 2024</u></a></li>
 </ul></div>
 

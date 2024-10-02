@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for OBS Desktop Sound Recording Problems
-date: 2024-09-20T17:58:12.839Z
-updated: 2024-09-21T17:54:13.117Z
+date: 2024-09-28T18:54:51.305Z
+updated: 2024-10-02T00:56:25.692Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having problems with the**voice chat** in**World of Warcraft** ? You’re surely
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Scan and repair WoW](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Check your audio input device**
 
  There’re many reasons for microphone problems, but the first thing you should do when troubleshooting is to**check the physical connections** . Make sure the cables of your microphone are securely plugged into the**correct audio jack** .
@@ -54,6 +61,14 @@ You can use these steps to check:
 2. Under the**Input** section, make sure your input device is set to the desired one. Then click**Device properties and test microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/input-device.jpg)
 3. Make sure you’ve**unchecked the box** next to**Disable** , and the slider under the**Volume** section is set to**100** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click**Start test** and tap or speak to your microphone. Then click**Stop test** . If you’re prompted**The highest value we saw was xx percent** , it means your microphone is working correctly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
@@ -62,10 +77,10 @@ You can use these steps to check:
  If this method doesn’t tackle your problem, please continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:**Check your in-game settings**
@@ -79,10 +94,32 @@ Here’re the steps:
 2. On the menu to your left, select**Voice Chat** . Set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Then click**Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 3. Launch WoW. Open game settings and select**Voice Chat** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Configure**Output Device** and**Microphone Device** to**System Default** . Then test your microphone. If your mic is working now, click**Okay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/wow-in-game-voice-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If configuring in-game settings doesn’t give you any luck, take a look at the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4:**Update your audio driver**
 
@@ -94,6 +131,14 @@ Here’re the steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
@@ -102,13 +147,6 @@ Here’re the steps:
  After updating your audio driver, restart your computer and check the voice chat in WoW.
 
  If updating the audio driver failed to solve your case, simply move on to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -120,21 +158,7 @@ By the way, it’s surprisingly easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-windows-update.jpg)
 2. Click**Check for updates** . Windows will then search and install the system updates automatically. Once it’s done, restart your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed**all** the system updates, repeat these steps until it prompts “You’re up to date” when you click**Check for updates** .
 
@@ -167,5 +191,21 @@ By the way, it’s surprisingly easy to update too:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-hilarious-song-mock-ups-laughter-unleashed/"><u>[New] Top 10 Hilarious Song Mock-Ups Laughter Unleashed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-epic-webcam-connectivity-quests-for-2024/"><u>[Updated] Epic Webcam Connectivity Quests for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>[Updated] In 2024, The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unearthing-inshots-video-magic-for-editors-for-2024/"><u>[Updated] Unearthing InShot’s Video Magic for Editors for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/comprehensive-tutorial-for-moving-films-off-dvd-to-computer-storage-windowsmacos-solutions/"><u>Comprehensive Tutorial for Moving Films Off DVD to Computer Storage - Windows/MacOS Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-overwatch-voice-chat-push-to-talk-failures/"><u>Fixing the Issue: Overwatch Voice Chat (Push-to-Talk) Failures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-the-art-of-iphoneipad-video-logging/"><u>In 2024, Mastering the Art of iPhone/iPad Video Logging</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-troubleshooting-a-step-by-step-guide-to-making-windows-11-speakers-functional/"><u>Mastering Troubleshooting: A Step-by-Step Guide to Making Windows 11 Speakers Functional</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/memetic-magic-unlock-with-kapwing-creator-for-2024/"><u>Memetic Magic – Unlock with Kapwing Creator for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-logiteche-g933-headset-easily-with-these-tips/"><u>Resolve Silent Logiteche G933 Headset Easily with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-on-your-gameplay-fixing-warzones-mute-dilemma/"><u>Restore Sound on Your Gameplay: Fixing Warzone's Mute Dilemma</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/starting-up-in-periscope-tips-to-launch-your-wealth-journey/"><u>Starting Up in Periscope Tips to Launch Your Wealth Journey</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-boosting-volume-on-windows-11-computers-with-troubled-sounds/"><u>Step-by-Step Guide: Boosting Volume on Windows 11 Computers with Troubled Sounds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-alert-is-ios-17-worth-it-for-enhanced-device-performance/"><u>Upgrade Alert! Is iOS 17 Worth It for Enhanced Device Performance?</u></a></li>
+</ul></div>
 

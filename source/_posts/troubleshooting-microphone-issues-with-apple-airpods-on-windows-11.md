@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Microphone Issues with Apple AirPods on Windows 11
-date: 2024-09-25T20:39:00.349Z
-updated: 2024-09-26T18:48:31.583Z
+date: 2024-09-30T01:15:51.630Z
+updated: 2024-10-01T19:03:22.712Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -45,26 +52,35 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -80,22 +96,8 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
@@ -111,17 +113,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -146,20 +149,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-supreme-display-quality-top-10-ranking-of-4k-screens/"><u>[New] Supreme Display Quality #Top 10 Ranking of 4K Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-display-settings-in-win10/"><u>Adjusting Display Settings in Win10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-mute-problems-how-to-restore-sound-on-windows-11-pcs/"><u>Cyberpunk 2077 Mute Problems: How to Restore Sound on Windows 11 PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-print-quality-with-the-latest-hp-laserjet-p1007-driver-software-free-access/"><u>Enhance Print Quality with the Latest HP LaserJet P1^007 Driver Software - Free Access</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-steelseries-arctis-1s-unresponsive-built-in-mic/"><u>Expert Tips for Fixing SteelSeries Arctis 1'S Unresponsive Built-In Mic</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/re-free-youtube-pic-themes/"><u>Explore Free YouTube Pic Themes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-audio-input-functionality-in-airpods-when-using-windows-11-operating-system/"><u>Guide to Restoring Audio Input Functionality in Airpods when Using Windows 11 Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-hyperx-cloud-stingers-unresponsive-mic-step-by-step-solutions/"><u>How to Repair Your HyperX Cloud Stinger's Unresponsive Mic – Step by Step Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-elite-comprehensive-oculus-review-guide/"><u>In 2024, Unveiling the Elite Comprehensive Oculus Review Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/installing-windows-10-a-comprehensive-tutorial-for-brand-new-drives/"><u>Installing Windows 10: A Comprehensive Tutorial for Brand New Drives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/laptop-editing-beyond-inshot-tools-for-2024/"><u>Laptop Editing Beyond Inshot Tools for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-hdmi-speaker-functionality-solutions-for-windows-7-users/"><u>Reviving HDMI Speaker Functionality: Solutions for Windows 7 Users</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaker-problems-on-your-pc-running-windows-10/"><u>Troubleshooting Speaker Problems on Your PC Running Windows 10</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1726029858827-youtubedvd/"><u>YouTube上でDVDデータを効率よくアップロードする方法説明 - ユーザーフレンドリーなチュートリアル</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>[Updated] In 2024, From Newcomer to Pro A Step-by-Step Creator Hub Guidebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-flight-a-complete-review-of-the-dji-inspire-2-drone-for-2024/"><u>[Updated] Mastering Flight A Complete Review of the DJI Inspire 2 Drone for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-random-website-tracking-on-your-iphone-through-screen-time-settings/"><u>Correcting Random Website Tracking on Your iPhone Through Screen Time Settings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016910613-corsair-audio-problems-heres-how-you-can-get-them-working-again/"><u>Corsair Audio Problems? Here's How You Can Get Them Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-troubleshooting-your-hearthstone-audio-problems/"><u>Fixing Silent Gameplay: Troubleshooting Your Hearthstone Audio Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-12-mini-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 12 mini? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-malfunctions-heres-the-solution-for-windows-users/"><u>MPOW Microphone Malfunctions? Here's the Solution for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-fortnite-voice-communication-problems-in-no-time/"><u>Resolve Your Fortnite Voice Communication Problems in No Time!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-music-and-calls-solving-hp-laptops-no-sound-problem-in-windows-11-easily/"><u>Revive the Music & Calls: Solving HP Laptop's No-Sound Problem in Windows 11 Easily!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-iphones-cellular-data-issues-top-10-quick-fixes/"><u>Solving iPhone's Cellular Data Issues: Top 10 Quick Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-it-loud-again-effective-solutions-for-fixing-no-sound-problems-with-conexants-smartaudio-on-windows-10-systems/"><u>Turn It Loud Again: Effective Solutions for Fixing No Sound Problems with Conexant's SmartAudio on Windows 10 Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-8-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 8 Before the Plan Expires</u></a></li>
 </ul></div>
 

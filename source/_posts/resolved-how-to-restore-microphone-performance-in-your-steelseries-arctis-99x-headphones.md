@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Restore Microphone Performance in Your SteelSeries Arctis 9/9X Headphones"
-date: 2024-09-19T20:17:30.112Z
-updated: 2024-09-26T21:52:25.125Z
+date: 2024-09-26T20:26:43.155Z
+updated: 2024-10-01T17:32:15.177Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,6 +50,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 5. **[Make sure to use the correct Default Format](https://tools.techidaily.com/drivereasy/download/)**
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Set up the microphone correctly
 
@@ -60,27 +74,20 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Set your headset as the default device
 
@@ -111,10 +118,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
@@ -138,16 +145,10 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
@@ -161,13 +162,6 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
@@ -179,10 +173,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
@@ -218,22 +212,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-fb-videobot-downloader-tool/"><u>[New] 2024 Approved FB Videobot Downloader Tool</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-share-wide-enhancing-instagram-stories-with-youtube-content-for-2024/"><u>[New] Share Wide Enhancing Instagram Stories With YouTube Content for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-detaching-pictures-from-video-clip-using-photos-on-windows-10-for-2024/"><u>[Updated] Detaching Pictures From Video Clip Using Photos on Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-from-concept-to-platform-crafting-engaging-fb-content/"><u>[Updated] From Concept to Platform Crafting Engaging FB Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-restoration-overcoming-the-mute-dilemma-effectively/"><u>Apex Legends Audio Restoration: Overcoming the Mute Dilemma Effectively</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-green-tools-shaping-film-for-2024/"><u>Cutting Edge Green Tools Shaping Film for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-common-issues-with-the-sennheiser-game-one-microphone-not-responding/"><u>Expert Advice: Overcoming Common Issues with the Sennheiser Game One Microphone Not Responding</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-quickly-resolve-speaker-problems-on-windows-10-a-step-by-step-approach/"><u>How to Quickly Resolve Speaker Problems on Windows 10 - A Step-by-Step Approach</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-xr-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone XR System? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-restoring-audio-on-laptops-with-silent-onboard-speakers/"><u>Step-by-Step Tutorial: Restoring Audio on Laptops with Silent Onboard Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-windows-inoperative-scanners/"><u>Troubleshooting Steps for Windows' Inoperative Scanners</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-no-audio-problem-with-conexant-smartaudio-on-windows-11/"><u>Troubleshooting Steps: Resolving 'No Audio' Problem with Conexant SmartAudio on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-your-voice-expert-tips-for-resolving-mic-not-working-problems-with-beyond-the-wire-devices/"><u>Unstuck Your Voice: Expert Tips for Resolving 'Mic Not Working' Problems with Beyond The Wire Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014936134-windows-11-skype-microphone-malfunction-heres-how-to-fix-it/"><u>Windows 11 Skype Microphone Malfunction? Here's How to Fix It!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-the-power-of-targeted-video-appeal-for-2024/"><u>[New] Harnessing the Power of Targeted Video Appeal for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-art-of-publicizing-vimeo-videos-for-2024/"><u>[New] The Art of Publicizing Vimeo Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-quickly-connect-your-fb-story-via-linked-profile/"><u>[Updated] 2024 Approved Quickly Connect Your FB Story via Linked Profile</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-transforming-footage-into-viral-content-on-tiktok-from-computer-for-2024/"><u>[Updated] Transforming Footage Into Viral Content on TikTok From Computer for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-the-speedy-and-secure-tri-band-network-of-netgears-nighthawk-x6-ac3200-router-perfect-for-busy-households/"><u>A Closer Look at the Speedy & Secure Tri-Band Network of Netgear's Nighthawk X6 AC3200 Router: Perfect for Busy Households</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-problems-with-the-turtle-beach-recon-70-headset-microphone/"><u>Diagnosing and Fixing Problems with the Turtle Beach Recon 70 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-corsair-sound-equipment-wont-work-anymore/"><u>DIY Fixes for When Your Corsair Sound Equipment Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-solutions-for-when-audio-stops-working-on-dell-computers-or-laptops/"><u>Easy Solutions for When Audio Stops Working on Dell Computers or Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-rectifying-broken-audio-features-in-astro-a50-noise-cancelling-gaming-headphones/"><u>Expert Solutions: Rectifying Broken Audio Features in Astro A50 Noise Cancelling Gaming Headphones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c67-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme C67 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/masterclass-techniques-to-get-your-pc-speakers-working-again/"><u>Masterclass Techniques to Get Your PC Speakers Working Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-inbox-instructions-for-enabling-extra-gmail-authentication-layer/"><u>Protect Your Inbox: Instructions for Enabling Extra Gmail Authentication Layer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-microphone-malfunction-on-windows-10-steps-to-restore-audio-capabilities/"><u>Skype Microphone Malfunction on Windows 10: Steps to Restore Audio Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-silent-laps-a-guide-to-repairing-laptop-sounds/"><u>Solving the Problem of Silent Laps: A Guide to Repairing Laptop Sounds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-power-of-words-enhancing-viewer-count-with-impressive-description-templates/"><u>The Power of Words Enhancing Viewer Count with Impressive Description Templates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-malfunctioning-turtle-audios-xeno-ut-recon-70-mic/"><u>Troubleshooting Guide for Malfunctioning Turtle Audio's Xeno UT Recon 70 Mic</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-tseries-income-stream-from-youtube-content-consumption/"><u>Unveiling TSeries’ Income Stream From Youtube Content Consumption</u></a></li>
 </ul></div>
 

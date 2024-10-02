@@ -1,7 +1,7 @@
 ---
 title: "Anthem Game on Windows 10: Solving the Silent Problem - Fixing Sound Issues"
-date: 2024-09-25T23:06:17.671Z
-updated: 2024-09-26T20:47:45.972Z
+date: 2024-09-29T01:12:36.492Z
+updated: 2024-10-01T19:16:26.615Z
 tags:
   - win11
   - win10
@@ -46,14 +46,15 @@ But first, ensure that your device has been connected and set correctly.
 2. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
-4. Go back to the Anthem and check it has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Go back to the Anthem and check it has sound or not.
 
 ### Fix 2: Run audio troubleshooting
 
@@ -63,14 +64,21 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Follow the on-screen instructions to finish the process.
 4. Restart your computer and check whether Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Set the Default Format in the lowest mode
 
@@ -91,16 +99,25 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
-4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
-5. Click **Apply > OK** .
-6. Reboot your computer and go back to the game, you should have audio now.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. Click **Apply > OK** .
+6. Reboot your computer and go back to the game, you should have audio now.
 
 ### Fix 5: Update your audio driver
 
@@ -117,35 +134,15 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
@@ -175,20 +172,22 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-unraveling-the-mystery-of-individual-tiktok-tags/"><u>[New] 2024 Approved Unraveling the Mystery of Individual TikTok Tags</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-how-to-create-metaverse-avatar-easily-an-ultimate-guide/"><u>[New] In 2024, How to Create Metaverse Avatar Easily An Ultimate Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-soundtrack-streamlining-top-websites-for-skype-ringtones-for-2024/"><u>[Updated] Soundtrack Streamlining Top Websites for Skype Ringtones for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-insightful-ways-of-gathering-photographic-elements/"><u>2024 Approved Insightful Ways of Gathering Photographic Elements</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-and-adventure-with-ions-pro-3-camera-insight/"><u>Action and Adventure with ION's Pro 3 Camera Insight</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/breaking-the-silence-effective-fixes-for-world-of-warcrafts-sound-problems/"><u>Breaking the Silence: Effective Fixes for World of Warcraft's Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-repair-tips-for-restoring-audio-on-logitech-g93amoji/"><u>Easy Repair Tips for Restoring Audio on Logitech G93amoji</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-bose-audio-unit-fails-to-work/"><u>Effective Solutions for When Your Bose Audio Unit Fails to Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/facebook-watch-party-gone-silent-fix-the-audio-blunder-in-your-pc-videos-with-these-2024-secrets/"><u>Facebook Watch Party Gone Silent? Fix the Audio Blunder in Your PC Videos with These 2024 Secrets</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-non-functional-headphones-issue-with-windows-11/"><u>How to Resolve Your Non-Functional Headphones Issue with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015546298-resolve-your-sound-blaster-microphone-problems-today/"><u>Resolve Your Sound Blaster Microphone Problems Today!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-revealed-mastering-chapter-integration-in-youtube-videos/"><u>Secrets Revealed Mastering Chapter Integration in YouTube Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sony-playstation-5-analysis-beyond-increased-performance/"><u>Sony PlayStation 5 Analysis: Beyond Increased Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-when-your-sennheiser-gaming-one-mic-stops-working/"><u>Step-by-Step Solutions for When Your Sennheiser Gaming One Mic Stops Working</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-digital-dialogue-mastery-connecting-with-viewers-flawlessly/"><u>[New] Digital Dialogue Mastery Connecting with Viewers Flawlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tech-insightfulness-a-global-experts-assessment/"><u>[Updated] In 2024, Tech Insightfulness A Global Experts' Assessment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-new-frontiers-a-guide-to-metaverse-promotion/"><u>[Updated] Navigating New Frontiers A Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-from-hashtags-to-challenges-insta-meets-tiktok/"><u>2024 Approved From Hashtags to Challenges Insta Meets TikTok</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-gionee-f3-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Gionee F3 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014956804-counter-strike-2-mic-not-functional-heres-your-step-by-step-fix/"><u>Counter-Strike 2 Mic Not Functional? Here's Your Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-underground-world-of-ai-tools/"><u>Exploring the Underground World of AI Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016698339-how-to-fix-rust-mic-not-working-2024-guide/"><u>How To Fix Rust Mic Not Working – 2024 Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-fix-a-broken-logitej-g733-microphone-connection/"><u>How to Repair and Fix a Broken Logitej G733 Microphone Connection</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-linux-tools-for-high-quality-screenshots-revealed/"><u>In 2024, Top Linux Tools For High-Quality Screenshots Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-razer-barracuda-x-microphone-functionality-in-win11win10-systems/"><u>Optimizing Razer Barracuda X Microphone Functionality in Win11/Win10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-disturbances-effective-ways-to-stop-sound-from-cutting-out-in-windows-11/"><u>Overcoming Audio Disturbances: Effective Ways to Stop Sound From Cutting Out in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-stereo-output-problems-quick-fixes-and-guides-for-full-speaker-functionality/"><u>Solve Stereo Output Problems: Quick Fixes and Guides for Full Speaker Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-glitches-making-your-rainbow-six-siege-chat-work-perfectly-again/"><u>Solving Audio Glitches: Making Your Rainbow Six Siege Chat Work Perfectly Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-tozo-t6-in-windows-11/"><u>Troubleshooting Steps: Resolving Issues with Tozo T6 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unreachable-ms-sql-server-for-malwarebytes-on-win-1011/"><u>Troubleshooting Unreachable MS SQL Server for Malwarebytes on Win 10/11</u></a></li>
 </ul></div>
 

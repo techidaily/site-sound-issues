@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Silent Firefox Browsing Experience
-date: 2024-09-22T22:22:05.844Z
-updated: 2024-09-26T18:48:49.090Z
+date: 2024-09-25T23:12:35.524Z
+updated: 2024-10-01T19:08:05.405Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 4. **[Modify your audio settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install the latest SteelSeries Engine software](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Perform some basic troubleshooting
 
  Whether it is that you cannot hear voice from the other end, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -48,14 +41,14 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
  SteelSeries Arctis 9/9X also has a hardware reset switch that allows you to reset the headphone. Press it and hold it down for around 1 second.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/arctis9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have double-checked these items, test your mic to see if it’s working properly. If yes, then great! If the problem persists, please move on to **Fix 2** below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your audio drivers
 
@@ -74,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer and check if the mic not working on your SteelArctis 9/9X problem is resolved. If it’s no joy, head onto**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ## Fix 3: Allow access to microphone
@@ -89,37 +75,41 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 1. On your keyboard, press the **Windows** **logo** **key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , and type**privacy** . Click on**Microphone privacy settings** when it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. In the **Allow Apps To Access Your Microphone** section, make sure the toggle is**On** .  
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-16.png)
 3. Scroll down to**Choose which app can access your microphone** section, and make sure that you have turned on the toggles for all the apps through which you need the microphone function.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-7.png)
 4. Test your mic to see if it’s working properly. If yes, congrats – you’ve resolved the issue! If the problem persists, please try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Modify your audio settings
@@ -131,25 +121,26 @@ So in this fix, you can follow the steps below to check:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/mmsys.cpl_.png)
 2. Click the **Recording** tab. Then make sure that your SteelSeries Arctis 9/9X mic is set as **Default Device** and click **Properties** (Here I just attach a screenshot as a reference of instruction).  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-17.png)
-3. In**Levels** , make sure you have slided the Digital Audio (S/PDIF) bar to an appropriate level. Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-17.png)
+3. In**Levels** , make sure you have slided the Digital Audio (S/PDIF) bar to an appropriate level. Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123.png)
 4. Click the**Advanced** tab. Under the **Default Format** section, choose a different sample rate and bit depth and click **Test** . Repeat this process until you find a format that works for you. Then, make sure the box for **Allow application to take exclusive control of this deviice** is **unticked** . After that, click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1234-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Install the latest SteelSeries Engine software
@@ -188,24 +179,18 @@ So in this fix, you can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-dismantle-that-dominating-green-distortion-in-mac-based-videos-for-2024/"><u>[New] Dismantle That Dominating Green Distortion in Mac-Based Videos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-sorbet-surveillance-complete-guide-to-ice-cream-screen-capture/"><u>[New] Sorbet Surveillance Complete Guide to Ice Cream Screen Capture</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ultimate-action-camera-review-gopro-vs-yi-4k-fresh-perspectives-for-2024/"><u>[Updated] Ultimate Action Camera Review GoPro Vs. Yi 4K - Fresh Perspectives for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-problems-with-your-runmuss-gaming-mic-not-working/"><u>Diagnosing and Fixing the Problems With Your Runmuss Gaming Mic Not Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-common-failures-in-the-main-headset-port-on-electronics/"><u>Diagnosing and Resolving Common Failures in the Main Headset Port on Electronics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-issues-how-to-resolve-dolby-audio-driver-not-found-on-windows-10/"><u>Fixing Dolby Atmos Issues: How to Resolve 'Dolby Audio Driver Not Found' On Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-resolve-igfxem-module-failure/"><u>Fixing the Issue: How to Resolve Igfxem Module Failure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-overcome-resident-evil-villages-playback-sound-errors/"><u>Guide to Overcome Resident Evil Village's Playback Sound Errors</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-13c-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi 13C?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-downsize-and-enhance-avi-files-using-handbrake-software-for-optimal-video-quality/"><u>How to Downsize and Enhance AVI Files Using Handbrake Software for Optimal Video Quality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-get-rid-of-your-computers-backup-and-restore-functionality-on-windows/"><u>How to Get Rid of Your Computer's Backup and Restore Functionality on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-squad-mic-back-in-action-latest-solutions/"><u>How To Get Your Squad Mic Back In Action – Latest Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-key-mistakes-and-how-to-prevent-them/"><u>Mastering Generative AI: Key Mistakes and How to Prevent Them</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-challenges-with-your-conexant-smartaudio-hd-in-windows-11/"><u>Overcoming No Sound Challenges with Your Conexant SmartAudio HD in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-c51-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme C51 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-hd-audio-issue-a-comprehensive-guide-for-nvidia-users/"><u>Solving the Silent HD Audio Issue: A Comprehensive Guide for Nvidia Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-interruptions-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Sound Interruptions on Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-7-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 7 Without Passcode Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-is-my-corsair-hs60-mic-dead-and-what-you-can-do-about-it/"><u>Why Is My Corsair HS60 Mic Dead and What You Can Do About It?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-live-obs-video-on-instagram/"><u>[Updated] Live OBS Video on Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-loop-expert-tips-for-fixing-recurring-restart-issues-on-windows-1110/"><u>End the Loop: Expert Tips for Fixing Recurring Restart Issues on Windows 11/10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-discords-push-to-talk-feature-a-comprehensive-troubleshooting-guide/"><u>Fixing Discord's Push-to-Talk Feature: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-layers-intricate-analysis-of-vegas-pro-21/"><u>In 2024, Unveiling the Layers Intricate Analysis of Vegas Pro '21</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-media-mix-ups-how-to-restore-facebook-video-sound-on-pc-tips-for-2aster-2024/"><u>Mastering Media Mix-Ups: How to Restore Facebook Video Sound on PC (Tips for 2Aster 2024)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solution-resolving-your-astro-a20-microphone-issues/"><u>Quick Solution: Resolving Your Astro A20 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-blackshark-v2-mic-issues-learn-how-to-restore-its-functionality/"><u>Razer BlackShark V2 Mic Issues? Learn How to Restore Its Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battlefields-how-to-restore-audio-on-your-battlefield-4-game/"><u>Silent Battlefields: How to Restore Audio on Your Battlefield 4 Game</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-to-opening-avif-images-on-windows-10-and-11/"><u>Step-by-Step Guide to Opening AVIF Images on Windows 10 and 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-the-drivers-for-your-usb-to-serial-converter/"><u>Step-by-Step Guide: Updating the Drivers for Your USB-to-Serial Converter</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-an-unresponsive-epson-scan-on-windows-11/"><u>Troubleshooting Steps for an Unresponsive Epson Scan on Windows 11</u></a></li>
 </ul></div>
 

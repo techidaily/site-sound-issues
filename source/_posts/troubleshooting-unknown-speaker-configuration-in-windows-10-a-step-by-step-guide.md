@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Unknown Speaker Configuration in Windows 10: A Step-by-Step Guide"
-date: 2024-09-21T20:32:07.924Z
-updated: 2024-09-26T18:36:34.633Z
+date: 2024-09-30T18:03:19.456Z
+updated: 2024-10-02T01:49:20.662Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ If you’re using the Windows 11 system, follow the steps below:
 3. Click the**Run** button next to the Bluetooth, and follow the instructions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/win11-bluetooth.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here’s how to do it on Windows 10:
 
 1. Press the **Windows logo key + I** keys to open **Settings** .
@@ -62,27 +55,21 @@ Here’s how to do it on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
 3. On the left pane, click **Troubleshoot** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Under **Find and Fix other problems** , click on **Bluetooth** .
 5. Click on **Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/bluetooth.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Reboot your computer and check whether the problem is fixed or not.
 
 If this fix was unable to solve the issue, please move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Disable audio enhancement
 
@@ -98,19 +85,6 @@ If this fix was unable to solve the issue, please move to the next fix.
 
  If you don’t have an Enhancement tab here, the culprit is not enhancement then. Move on to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Change audio formats
 
  If your audio driver or software doesn’t support the current audio format you have, sound issues such as static or stuttering would happen. To fix it, you can try different audio formats:
@@ -119,10 +93,25 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Type “mmsys.cpl” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. Click the **Advanced** tab. Select **16 bit, 48000 Hz (DVD Quality)** . Click **Apply** and **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/speaker.jpg)
 5. Test to see if your sound is still stuttering. If yes, go back to step 4 and try some other formats until you find the one that works for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your audio problem remains, don’t worry, you need to update your audio drivers. Move on to method 4 for help.
 
@@ -145,6 +134,13 @@ If this fix was unable to solve the issue, please move to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -160,37 +156,30 @@ If this fix was unable to solve the issue, please move to the next fix.
 3. Scroll down and select**More devices and printer settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-36.png)
 4. Right-click your headset and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-38.png)
 5. Go to**Services** , and untick the box for**Hands-free Telephony** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-39.png)
 6. Click**Apply** and**OK** to save and exit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try your Bluetooth devices again to see if the stuttering problem remains. If so, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop Bluetooth support service
 
@@ -214,16 +203,31 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -249,21 +253,20 @@ If this fix was unable to solve the issue, please move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-eliminating-watermarks-from-your-stock-collections/"><u>[New] Eliminating Watermarks From Your Stock Collections</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-intense-meetings-perfect-your-screen-focus-in-msteams/"><u>[New] In 2024, Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-top-10-screen-capture-apps-for-discord-gamers-for-2024/"><u>[New] Top 10 Screen Capture Apps for Discord Gamers for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-12-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 12 Pro Max iCloud Activation Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/csgo-mic-not-working-heres-what-you-need-to-do/"><u>CS:GO Mic Not Working? Here's What You Need to Do!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-dumb-laptop-silence-a-guide-to-restoring-lost-sounds/"><u>Dealing with Dumb Laptop Silence: A Guide to Restoring Lost Sounds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-best-alternatives-to-bandicam-for-effortless-screen-recording-on-windows-and-mac-ranked/"><u>Discover the Best Alternatives to Bandicam for Effortless Screen Recording on Windows & Mac - Ranked!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-galaxy-f34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Galaxy F34 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-fix-them-fast-with-our-simple-solutions/"><u>Fortnite Voice Communication Issues? Fix Them Fast with Our Simple Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-action-steps-for-fixing-google-hangouts-microphone-problems/"><u>Immediate Action Steps for Fixing Google Hangouts' Microphone Problems</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-quick-guide-to-purging-watched-youtube-videos/"><u>In 2024, A Quick Guide to Purging Watched YouTube Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ulate-sound-rate-in-youtube-playback/"><u>Manipulate Sound Rate in YouTube Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-discords-push-to-talk-system-a-comprehensive-guide/"><u>Overcoming Issues with Discord's Push-To-Talk System: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-tips-to-resolve-electrical-interference-causing-a-hiss-in-your-headphones/"><u>Quick Tips to Resolve Electrical Interference Causing a Hiss in Your Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-silent-system-boost-your-audio-on-windows-11-in-a-flash/"><u>Resolved: Silent System? Boost Your Audio on Windows 11 in a Flash!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-10-must-have-ig-video-editing-tools-for-2024/"><u>The Ultimate Guide to 10 Must-Have IG Video Editing Tools for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-master-iphone-video-screening/"><u>[New] How to Master iPhone Video Screening</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beyond-light-bugs-fixed-for-pc-players-in-destiny-2-patch-notes/"><u>Beyond Light Bugs Fixed for PC Players in Destiny 2 Patch Notes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-strategies-for-resolving-stalled-audio-system-problems-fixed/"><u>Effective Strategies for Resolving Stalled Audio System Problems [Fixed]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-productivity-write-automated/"><u>Enhance Productivity: Write Automated</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-sound-blaster-mic-problems-quickly-and-easily/"><u>Expert Advice on Fixing Sound Blaster Mic Problems Quickly and Easily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-navigating-the-backlink-jungle-a-video-content-guide/"><u>In 2024, Navigating the Backlink Jungle A Video Content Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/investment-edutainment-the-best-channels-reviewed/"><u>Investment Edutainment The Best Channels Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/migrate-onedrive-to-a-desired-folder-on-win-11/"><u>Migrate OneDrive to a Desired Folder on Win 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028763530-mp4/"><u>MP4アーカイブ再生不能を克服するための原因分析と方法</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016241495-no-sounds-in-apex-legends-heres-how-you-can-resolve-it/"><u>No Sounds in Apex Legends? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-audio-while-using-zoom-effective-solutions-for-desktop-users/"><u>Reactivate Audio While Using Zoom: Effective Solutions for Desktop Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-sound-problems-on-pc-fast-and-effective-solutions-inside/"><u>Solve Sound Problems on PC - Fast and Effective Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-dell-speakers-malfunctioning-with-these-simple-steps/"><u>Troubleshoot Dell Speakers Malfunctioning with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-your-microphone-lag-issues/"><u>Ultimate Guide: Solving Your Microphone Lag Issues</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-final-cut-pro-x-not-for-you-try-these-10-alternative-video-editors-for-2024/"><u>Updated Final Cut Pro X Not for You? Try These 10 Alternative Video Editors for 2024</u></a></li>
 </ul></div>
 

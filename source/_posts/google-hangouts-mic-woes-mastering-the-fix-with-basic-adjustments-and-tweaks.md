@@ -1,7 +1,7 @@
 ---
 title: Google Hangouts Mic Woes? Mastering the Fix with Basic Adjustments and Tweaks
-date: 2024-09-23T16:37:00.902Z
-updated: 2024-09-26T23:12:53.715Z
+date: 2024-09-26T17:16:01.593Z
+updated: 2024-10-01T16:31:31.612Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Making sure you’re using the right microphone**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the Steam voice chat not working issue by ruling out the hardware issues.
@@ -63,6 +56,19 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e879b5615.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
@@ -75,6 +81,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Making sure you’re using the right microphone
 
  In order for the microphone to work properly on Steam, you should make sure the microphone used by steam the same as the one you’ve set as the default input device.
@@ -85,22 +98,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-295.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In**Input** , select**the microphone** you’ve been actively using as the input device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-296.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Launch Steam.
@@ -109,16 +115,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-290.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) In the Steam Friends & Chat pop-up window, click**the gear icon** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-292.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) In**VOICE INPUT DEVICE** , make sure the microphone you set as the input device in step 2) is selected. Then in**VOLUME** , make sure the**Input volume/gain** and**Output volume/gain** slide bars are dragged to**medium or high** to make sure both you and your teammates can be heard.
 
@@ -150,18 +156,21 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-imagery-inspiration-skillful-grading-techniques/"><u>[New] 2024 Approved Imagery Inspiration Skillful Grading Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-sims-4-recording-tips-and-tricks-for-quality-for-2024/"><u>[New] Sims 4 Recording Tips and Tricks for Quality for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-recover-disappearing-watch-icon-for-fb-users/"><u>[Updated] In 2024, Recover Disappearing Watch Icon for FB Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1-how-to-easily-divide-videos-into-parts-with-vsdcs-free-video-editing-tool-a-simple-tutorial/"><u>1. How to Easily Divide Videos Into Parts with VSDC's Free Video Editing Tool: A Simple Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-comprehensive-solutions-to-stop-your-discord-from-dropping-sound/"><u>2024 Comprehensive Solutions to Stop Your Discord From Dropping Sound</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/bridging-the-visibility-gap-for-online-media/"><u>Bridging the Visibility Gap for Online Media</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015844687-experiencing-problems-with-your-webex-mic-here-are-4-fixes-to-consider/"><u>Experiencing Problems with Your Webex Mic ? Here Are 4 Fixes to Consider!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonizing-usbasp-with-windows-solutions-for-multiple-versions/"><u>Harmonizing USBasp with Windows: Solutions for Multiple Versions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/magnifying-quality-with-magix-photo-tools/"><u>Magnifying Quality with MAGIX Photo Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016300868-speedy-soundcheck-mastering-the-art-of-mic-tests-in-minutes/"><u>Speedy Soundcheck: Mastering the Art of Mic Tests in Minutes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-nonfunctional-logitech-g230-headset-microphone/"><u>Step-by-Step Fixes for a Nonfunctional Logitech G230 Headset Microphone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-bang-for-your-buck-the-tcl-50s425-50-4k-tv-reviewed/"><u>Unveiling the Best Bang for Your Buck: The TCL 50S425 50 4K TV Reviewed!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-resolving-no-video-issue-on-sony-a6400-device-for-2024/"><u>[New] Resolving No-Video Issue on Sony A6400 Device for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-essential-list-6-free-online-platforms-for-youtube-short-downloads/"><u>[Updated] 2024 Approved Essential List 6 Free Online Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-the-full-potential-sony-action-camera-review/"><u>[Updated] 2024 Approved Unveiling the Full Potential - Sony Action Camera Review</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-amazonprimes-winning-tweets-of-the-year-2023/"><u>[Updated] In 2024, AmazonPrime's Winning Tweets of the Year 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-exceptional-mobile-screen-capture-with-mobizen/"><u>2024 Approved Comprehensive Guide to Exceptional Mobile Screen Capture with Mobizen</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-guide-achieving-professional-sound-without-a-mic/"><u>2024 Approved The Ultimate Guide Achieving Professional Sound without a Mic</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-civi-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Civi 3 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-discords-pc-echo-glitches-a-comprehensive-troubleshooting-guide/"><u>Conquer Discord's PC Echo Glitches: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-fixing-a-non-functional-microphone-on-windows-11-devices/"><u>Expert Guide: Fixing a Non-Functional Microphone on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-fix-your-iphones-noisy-trouble-clearing-up-distorted-speakers/"><u>Expert Tips to Fix Your iPhone's Noisy Trouble - Clearing Up Distorted Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fix-speaker-not-producing-sound-despite-being-connected-on-a-windows-machine/"><u>Guide to Fix 'Speaker Not Producing Sound' Despite Being Connected on a Windows Machine</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-in-windows-10-for-anthem-game-effective-solutions/"><u>Restoring Sound in Windows 10 for Anthem Game: Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-fixing-corsairs-virtuoso-microphone-when-it-stops-working/"><u>Solutions for Fixing Corsair's Virtuoso Microphone When It Stops Working</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-choosing-between-igtv-and-youtube-for-content-creators-for-2024/"><u>The Ultimate Guide to Choosing Between IGTV & YouTube for Content Creators for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014940856-troubleshoot-and-repair-your-runmux-gamers-mic-to-get-back-in-action/"><u>Troubleshoot & Repair Your RunmuX Gamer's Mic to Get Back in Action!</u></a></li>
 </ul></div>
 

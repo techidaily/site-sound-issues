@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Silent Mac: Solutions to Your Mac's Audio Problem"
-date: 2024-09-21T18:23:32.758Z
-updated: 2024-09-26T22:23:51.304Z
+date: 2024-09-24T19:21:38.003Z
+updated: 2024-10-01T21:14:56.038Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes you can’t hear sound from your speakers simply because the volume is mute or set too low.
@@ -84,15 +77,22 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e879b5615.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -100,6 +100,13 @@ To make sure the volume is audible:
  4) **Restart** your computer and test if you get sound back on your Lenovo laptop. If yes, then congrats! If the no sound issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set default audio devices
 
@@ -115,13 +122,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
  3) Check to see if your Lenovo no sound problem has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5,** below.
@@ -129,10 +129,16 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
@@ -145,13 +151,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
@@ -159,6 +158,13 @@ Here’s how:
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Test your audio device and see if the no sound issue is resolved.
 
@@ -187,22 +193,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-critical-selection-of-terraria-upgrades/"><u>[New] Critical Selection of Terraria Upgrades</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-present-day-drones-paving-way-for-futuristic-advancements/"><u>2024 Approved Present-Day Drones Paving Way for Futuristic Advancements</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-crucial-checkpoints-to-validate-your-pc-component-fit/"><u>7 Crucial Checkpoints to Validate Your PC Component Fit</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-c210-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia C210?</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016035534-fortnite-sound-troubles-heres-how-to-get-your-mic-working-perfectly-again/"><u>Fortnite Sound Troubles? Here's How to Get Your Mic Working Perfectly Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-pcs-muted-microphone-after-the-latest-windows-10-upgrade/"><u>How to Fix Your PC's Muted Microphone After the Latest Windows 10 Upgrade</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unable-to-initialize-dolby-audio-in-windows-10/"><u>How to Resolve 'Unable to Initialize Dolby Audio' In Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-sounds-of-combat-ultimate-solutions-for-silent-battles-in-battlefield-4/"><u>Master the Sounds of Combat: Ultimate Solutions for Silent Battles in Battlefield 4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/materials-used-in-scaffolding-should-be-chosen-based-on-their-strength-properties-to-withstand-various-forces/"><u>Materials Used in Scaffolding Should Be Chosen Based on Their Strength Properties to Withstand Various Forces.</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-20-wonderful-stop-motion-ideas-for-beginners-and-kids-filmora/"><u>New In 2024, 20 Wonderful Stop Motion Ideas for Beginners and Kids - Filmora</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-distractions-fixing-the-pesky-buzz-sound-on-your-favorite-headphones-today/"><u>No More Distractions: Fixing the Pesky Buzz Sound on Your Favorite Headphones Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/nvidia-hd-audio-not-working-heres-how-to-restore-your-sound/"><u>NVIDIA HD Audio Not Working? Here’s How to Restore Your Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-repair-a-broken-steelseries-arctis-1-headset-mic/"><u>Solution Guide: How to Repair a Broken SteelSeries Arctis 1 Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speaker-buzz-off-five-straightforward-tips-to-cut-out-unwanted-noise/"><u>Speaker Buzz-Off: Five Straightforward Tips to Cut Out Unwanted Noise</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-valorants-continuous-launch-loop-tips-and-tricks-to-save-your-game-time/"><u>The Ultimate Fix for Valorant's Continuous Launch Loop - Tips & Tricks to Save Your Game Time</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/this-title-suggests-an-upgrade-in-skills-that-will-unlock-more-capabilities-on-your-pc-appealing-to-power-users-and-enthusiasts-looking-for-deeper-insights.79/"><u>This Title Suggests an Upgrade in Skills that Will Unlock More Capabilities on Your PC, Appealing to Power Users and Enthusiasts Looking for Deeper Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-screenshot-and-recorder-windows-10-for-2024/"><u>[New] Ultimate Screenshot & Recorder, Windows 10 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-switch-strike-force-your-top-10-game-lineup/"><u>[Updated] In 2024, Switch Strike Force Your Top 10 Game Lineup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-error-messages-in-audacity-a-comprehensive-guide-to-fixing-the-open-sound-device-glitch-5-solutions/"><u>Bypassing Error Messages in Audacity: A Comprehensive Guide to Fixing the 'Open Sound Device' Glitch [5 Solutions]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016279135-corsair-hs60-mic-malfunction-heres-what-you-need-to-know/"><u>Corsair HS60 Mic Malfunction? Here's What You Need to Know!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discover-how-to-restore-hearing-capabilities-in-your-discord-calls/"><u>Discover How to Restore Hearing Capabilities in Your Discord Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-system-audio-output-fixing-quiet-computers-on-windows-10/"><u>Enhance System Audio Output: Fixing Quiet Computers on Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expertly-reviewed-the-ultimate-list-of-secure-wi-fi-routers-for-families-2024-edition/"><u>Expertly Reviewed: The Ultimate List of Secure Wi-Fi Routers for Families, 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-airpods-mic-working-again-on-a-windows-11-pc-a-step-by-step-guide/"><u>Getting Your AirPods Mic Working Again on a Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-lava-yuva-2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Lava Yuva 2 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-c55-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-4g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Poco M6 Pro 4G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-file-to-mp3-converter-tool/"><u>In 2024, Facebook File to MP3 Converter Tool</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-streamlined-process-for-upgrading-macos-sierra/"><u>In 2024, Streamlined Process for Upgrading macOS Sierra</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-challenges-with-logitech-webcam-and-microphone-syncing/"><u>Overcoming Common Challenges with Logitech Webcam & Microphone Syncing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016010772-quick-solutions-for-a-non-functional-logitech-g733-microphone-top-tips-included/"><u>Quick Solutions for a Non-Functional Logitech G733 Microphone - Top Tips Included</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-definitive-guide-to-instagram-to-mp4-transformation-2-ways-for-2024/"><u>The Definitive Guide to Instagram-to-MP4 Transformation 2 Ways for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-razer-blackshark-v2-microphone-failures/"><u>Troubleshooting Tips for Razer BlackShark V2 Microphone Failures</u></a></li>
 </ul></div>
 

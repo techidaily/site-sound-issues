@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Voice Communication Problems in Overwatch: Push-To-Talk Guide"
-date: 2024-09-21T21:52:27.580Z
-updated: 2024-09-26T17:10:15.582Z
+date: 2024-09-24T20:13:41.472Z
+updated: 2024-10-01T23:24:41.164Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 5. **[Check in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Perform basic troubleshooting
 
  When your voice chat isn’t working, you can first do a basic troubleshooting step to see if it will fix the issue. You can follow the steps:
@@ -55,23 +62,9 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 3. In the left panel, select**Microphone** . Under**Allow desktop apps to access your microphone** , make sure the toggle is set to**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/microphone-allow-desktop-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve done these, relaunch Vanguard to see if your voice chat works properly.
 
 If this fix doesn’t do the trick, check out the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -93,19 +86,33 @@ If this fix doesn’t do the trick, check out the next one.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and check if your voice chat functions properly.
 
  If updating the audio driver doesn’t work for you, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check sound settings
 
@@ -114,37 +121,31 @@ If this fix doesn’t do the trick, check out the next one.
 1. On your keyboard, press the**Windows logo key** and**R** together to open the Run dialog box. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headphones** you want to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Navigate to the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Open your**Battle.net** client.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 6. Select**Voice Chat** , then set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Click**Done** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now launch Vanguard and see if you can talk to your teammates.
 
@@ -163,14 +164,14 @@ If the voice chat still doesn’t work, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
 5. Set**VOICE CHAT VOLUME** and**MICROPHONE VOLUME** to a moderate value. Then set**VOICE CHAT EFFECT** to**No Effect** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-volume.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can restart Vanguard and check if the voice chat is working.
 
@@ -209,20 +210,22 @@ If your problem remains, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-best-funny-fictional-frequencies/"><u>[New] The Best Funny Fictional Frequencies</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-roadmap-for-gaining-hd-footage-from-social-networks-for-2024/"><u>[New] The Roadmap for Gaining HD Footage From Social Networks for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/become-a-reddit-star-detailed-steps-for-share-success/"><u>Become a Reddit Star Detailed Steps for Share Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-steam-api64-file-loss/"><u>Eliminating Steam API64 File Loss</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-and-fixes-for-non-functional-microphones-in-razer-man-o-war-gaming-headsets/"><u>Expert Tips and Fixes for Non-Functional Microphones in Razer Man O' War Gaming Headsets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-a-non-functional-hyperx-cloud-alpha-headset-mic/"><u>Fixes for a Non-Functional HyperX Cloud Alpha Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-creative-pebble-audio-device-malfunction-success-stories-inside/"><u>Fixes for Creative Pebble Audio Device Malfunction - Success Stories Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-windows-11-no-audio-problem-a-complete-guide/"><u>How to Fix the 'Windows 11 No Audio' Problem - A Complete Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-issues-on-conexant-smartaudio-hd-under-windows-11/"><u>How to Resolve Audio Issues on Conexant SmartAudio HD Under Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>In 2024, From Viral Beats to Ringtones Transforming TikTok Sounds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-nova-y71-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Huawei Nova Y71 Phone without PIN</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenge-of-a-non-opening-realtek-audio-device-controller/"><u>Overcoming the Challenge of a Non-Opening Realtek Audio Device Controller</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-communication-stopping-chatgpt-record-keeping/"><u>Secure Communication: Stopping ChatGPT Record Keeping</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-creativity-with-costless-auditory-extras-in-2024/"><u>Spark Creativity with Costless Auditory Extras, In 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-7-sound-trouble-heres-how-to-get-it-working-again/"><u>Windows 7 Sound Trouble? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-perfect-pitch-perfection-the-top-7-apps-to-change-your-voice-online/"><u>[New] 2024 Approved Perfect Pitch Perfection The Top 7 Apps to Change Your Voice Online</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/at-127-by-antop-the-perfect-blend-of-style-and-performance-for-hassle-free-tv/"><u>AT-127 by Antop: The Perfect Blend of Style & Performance for Hassle-Free TV</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-restore-voice-chat-functionality-in-call-of-dutys-warzone-pc-and-console-solutions/"><u>Comprehensive Guide to Restore Voice Chat Functionality in Call of Duty's Warzone: PC & Console Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designer-jokes-kapwings-visual-hilarity-suite/"><u>Designer Jokes Kapwing's Visual Hilarity Suite</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-instructions-for-keeping-your-epson-xp-640-running-windows-driver-update-tips/"><u>Easy Instructions for Keeping Your Epson XP-640 Running: Windows Driver Update Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-sound-through-hdmi-on-windows-7-effective-solutions-unveiled/"><u>Fixing No Sound Through HDMI on Windows 7 - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-persistent-audio-disruptions-during-playback-on-windows-11-solutions/"><u>Fixing Persistent Audio Disruptions During Playback on Windows 11 - Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fix-lack-of-sound-detection-in-windows-10-8-and-7-when-using-headphones-or-speakers/"><u>Guide to Fix Lack of Sound Detection in Windows 10, 8 & 7 When Using Headphones or Speakers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-sound-blaster-microphone-problems-today/"><u>Resolve Your Sound Blaster Microphone Problems Today</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/seamless-workflow-achieved-utilize-the-io-screener-efficiently-for-2024/"><u>Seamless Workflow Achieved Utilize the IO Screener Efficiently for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-optimize-controllers-battery-performance/"><u>Strategies to Optimize Controllers' Battery Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-restoring-mic-functionality-on-your-steelseries-arctis-pro-headset-models-99x/"><u>The Definitive Guide to Restoring Mic Functionality on Your SteelSeries Arctis Pro Headset (Models 9/9X)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-laptops-audio-issues-a-step-by-step-guide/"><u>Troubleshoot and Fix Your Laptop's Audio Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-solving-2024s-discord-audio-dropouts/"><u>Ultimate Troubleshooting: Solving 2024'S Discord Audio Dropouts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vintage-visionary-old-iphone-xx-portraiture-for-2024/"><u>Vintage Visionary Old iPhone Xx Portraiture for 2024</u></a></li>
 </ul></div>
 

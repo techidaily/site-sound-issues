@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Mic: Eliminating Sound Problems in Zoom on Your Computer"
-date: 2024-09-17T18:46:34.830Z
-updated: 2024-09-21T16:42:31.692Z
+date: 2024-09-28T19:17:41.994Z
+updated: 2024-10-02T00:24:01.155Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Discord allows players to better enjoy the game through real-time collaboration.
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable other audio devices
 
  Usually we have connected more than one audio device to our PC, and this might be causing the cut-out issue — Windows sometimes can’t determine which is the active device. In this case, you can **disable all the audio devices except the one you’re using** .
@@ -48,6 +55,13 @@ Here’s how:
 
 If this fix doesn’t help you, simply take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Configure your sound settings correctly
 
  When troubleshooting audio issues, you need to make sure the sound settings are configured properly. You can use the following steps to check:
@@ -57,8 +71,24 @@ If this fix doesn’t help you, simply take a look at the next one.
 2. Navigate to the**Communications** tab. Under the**When Windows detects communications activity:** section, click**Do nothing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-audio-cuts-out-configure-1.jpg)
 3. Navigate to the**Recording** tab, make sure the default device is set to the desired one. Select the default device and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-audio-cuts-out-configure-2.jpg)
 4. Navigate to the **Advanced** tab. In the **Default Format** section, select a different sample rate and bit depth, then click **Test** . Repeat this process until you find a format that works, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
 
  If this solution doesn’t give you luck, check out the next one below.
@@ -73,20 +103,14 @@ If this fix doesn’t help you, simply take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/discord-disable-qos-2.jpg)
 3. Now test if the audio cuts out again.
 
- If this method doesn’t do the trick, you can continue to the next one.
-
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this method doesn’t do the trick, you can continue to the next one.
 
 ### Fix 4: Update your audio driver
 
@@ -101,18 +125,18 @@ If this fix doesn’t help you, simply take a look at the next one.
  (You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/NVIDIA-High-Definition-Audio-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t help, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
 
@@ -127,10 +151,10 @@ Here’s how:
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
@@ -144,13 +168,6 @@ Here’s how:
 
 If this fix doesn’t work for you, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Install all Windows updates
 
  Windows updates help you avoid lots of strange issues. Normally it’s done automatically, but you can check for updates manually and see if some patches are left out.
@@ -161,6 +178,19 @@ Here’s a quick guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -177,19 +207,6 @@ Here’s a quick guide for that:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -212,5 +229,18 @@ Here’s a quick guide for that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-visually-striking-fb-ad-videos/"><u>[Updated] Crafting Visually Striking FB Ad Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-11-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 11 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dota-amo-speaker-not-working-heres-the-ultimate-fix/"><u>Dota Amo Speaker Not Working? Here's the Ultimate Fix</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-access-to-canon-mg2900-print-device-software-latest-version-download/"><u>Easy Access to Canon MG2900 Print Device Software - Latest Version Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-personalized-conversations-the-ultimate-guide-to-crafted-gpt-instructions/"><u>Enhancing Personalized Conversations: The Ultimate Guide to Crafted GPT Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-auditory-glitches-while-playing-outriders-effective-strategies-inside/"><u>Fixing Auditory Glitches While Playing Outriders - Effective Strategies Inside!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/free-up-your-time-with-these-5-chrome-plugins-for-fb-video-downloads/"><u>Free Up Your Time with These 5 Chrome Plugins for FB Video Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-essential-meme-blueprints/"><u>In 2024, 10 Essential Meme Blueprints</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/microphone-not-picking-up-voice-solved/"><u>Microphone Not Picking up Voice [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-107-audio-issues-no-more-crackling-from-your-speakers/"><u>Resolving Windows 10/7 Audio Issues: No More Crackling From Your Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-epson-scanner-error-on-windows-11/"><u>Resolving: Epson Scanner Error on Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Chrome Speaker Problem Solved – Now with Sound!
-date: 2024-09-23T17:27:26.876Z
-updated: 2024-09-26T21:27:40.357Z
+date: 2024-09-24T23:05:23.383Z
+updated: 2024-10-01T19:42:16.600Z
 tags:
   - win11
   - win10
@@ -77,24 +77,24 @@ Read on and follow the easy-doing images below!
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
- Try your computer sound again to see if it still cuts out. If so, please move on.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Try your computer sound again to see if it still cuts out. If so, please move on.
 
 ## Option 3: Change Speaker Settings
 
@@ -105,25 +105,26 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -149,24 +150,14 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-discover-the-secrets-of-tailoring-your-voice-on-tiktok-for-2024/"><u>[New] Discover the Secrets of Tailoring Your Voice on TikTok for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-niche-to-mainstream-amassing-a-million-view-channel/"><u>[New] From Niche to Mainstream Amassing a Million-View Channel</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-explore-the-top-5-snipping-utilities-for-chrome-os-users/"><u>[Updated] In 2024, Explore The Top 5 Snipping Utilities For Chrome OS Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professionals-guide-to-outstanding-4k-filmmaking-gear/"><u>[Updated] Professionals' Guide to Outstanding 4K Filmmaking Gear</u></a></li>
-<li><a href="https://fox-links.techidaily.com/10-best-web-based-tools-for-clearing-up-fuzzy-images-for-2024/"><u>10 Best Web-Based Tools for Clearing Up Fuzzy Images for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/call-of-duty-modern-warfare-players-unite-resolving-voice-chat-connectivity-problems/"><u>Call of Duty Modern Warfare Players Unite! Resolving Voice Chat Connectivity Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-in-windows-10-discover-proven-fixes-now/"><u>Continuous Sound Problems in Windows 10? Discover Proven Fixes Now</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/core-concepts-in-digital-animation-for-2024/"><u>Core Concepts in Digital Animation for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-xiaomi-13t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi 13T Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-logitech-webcam-audio/"><u>Effective Fixes for Non-Functioning Logitech Webcam Audio</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/electric-cars-unveil-their-hidden-treasures-priority-parking-and-express-carpool-lanes-revealed/"><u>Electric Cars Unveil Their Hidden Treasures: Priority Parking and Express Carpool Lanes Revealed!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-acer-touchpad-working-on-windows-11-install-the-latest-drivers-here/"><u>Get Your Acer Touchpad Working on Windows 11 - Install the Latest Drivers Here!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-evolution-future-enhancements-in-gpt-5/"><u>Intelligent Evolution: Future Enhancements in GPT-5</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-sound-problems-on-new-software-platforms-effective-strategies/"><u>Overcoming Sound Problems on New Software Platforms: Effective Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-non-responsive-fortnite-microphone-or-speakers-get-back-on-voice-chat-now/"><u>Quick Fixes for a Non-Responsive Fortnite Microphone or Speakers - Get Back on Voice Chat Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rec-room-microphone-troubleshooting-fix-and-optimize-your-setup/"><u>Rec Room Microphone Troubleshooting: Fix & Optimize Your Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-when-your-laptops-headphone-input-fails-to-work/"><u>Solution Steps When Your Laptop's Headphone Input Fails to Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-interrupted-sound-solutions-for-persistent-audio-disruptions-in-windows-11/"><u>Troubleshooting Interrupted Sound: Solutions for Persistent Audio Disruptions in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-on-your-gameplay-eliminating-audio-silence-in-battlefield-4/"><u>Turn Up the Volume on Your Gameplay: Eliminating Audio Silence in Battlefield 4</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-soundsnatcher-free-guide-and-assessment-for-2024/"><u>[New] SoundSnatcher Free Guide & Assessment for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cutting-down-on-workload-the-ultimate-mac-mp4-apps-list/"><u>[Updated] Cutting Down on Workload The Ultimate Mac MP4 Apps List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-starting-dolby-pro-logic-iix-audio-on-windows-11-systems-without-errors/"><u>Expert Advice on Starting Dolby Pro Logic IIx Audio on Windows 11 Systems without Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-fixing-steelseries-arctis-amicrophone-problems/"><u>Expert Guide to Fixing SteelSeries Arctis Amicrophone Problems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-verifying-ad-revenue-on-yt-a-step-by-step-tutorial/"><u>In 2024, Verifying Ad Revenue on YT A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-audio-issues-in-windows-11/"><u>Resolved: Fixing Audio Issues in Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-10-affordable-360-degree-cameras-for-2024/"><u>Top 10 Affordable 360 Degree Cameras for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-redragn-headset-mic-step-by-step-guide-to-fixing-connection-issues-on-desktop-computers/"><u>Trouble With Your Redragn Headset Mic? Step-by-Step Guide to Fixing Connection Issues on Desktop Computers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unbeatable-free-mp4-video-editors-top-10-list-for-2024/"><u>Unbeatable Free MP4 Video Editors Top 10 List for 2024</u></a></li>
 </ul></div>
 

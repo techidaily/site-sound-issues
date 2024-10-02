@@ -1,7 +1,7 @@
 ---
 title: Fixes for When Discord's Speaking Channel Malfunctions – Expert Tips and Tricks!
-date: 2024-09-23T19:27:31.521Z
-updated: 2024-09-26T23:00:49.163Z
+date: 2024-09-27T18:57:57.959Z
+updated: 2024-10-01T18:43:18.274Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
@@ -46,10 +53,16 @@ When you try to play music or video on your laptop, but just find**no sound on t
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
@@ -69,10 +82,10 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
@@ -83,22 +96,15 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Tick on **Delete the driver software for this device.** Then click **OK** to confirm.
@@ -144,20 +150,21 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac/"><u>[New] From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-twitter-elite-moments-live-on-snapchat/"><u>[New] Twitter Elite Moments Live on Snapchat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-black-ops-cold-war-voice-chat-not-working/"><u>[SOLVED] Black Ops Cold War Voice Chat Not Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/destiny-2-communication-glitches-heres-how-to-get-your-voice-chat-back-on-track/"><u>Destiny 2 Communication Glitches? Here’s How to Get Your Voice Chat Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-your-broken-logitech-g430-microphone-in-simple-steps/"><u>Expert Advice: Fixing Your Broken Logitech G430 Microphone in Simple Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>In 2024, Bringing Rhythm to Slides Including Tunes in PPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-update-how-to-install-and-troubleshoot-the-lenovo-thunderbolt-3-dock/"><u>Latest Update: How to Install and Troubleshoot the Lenovo Thunderbolt 3 Dock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-hp-officejet-5740-printer-drivers-installed-in-a-flash/"><u>Quick Download: HP OfficeJet 5740 Printer Drivers Installed in a Flash</u></a></li>
-<li><a href="https://techidaily.com/sign-wbk-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wbk file Online with DigiSigner</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-dilemma-a-guide-to-restoring-audio-on-your-pc-using-intels-conexant-technology/"><u>Solving the Silent Dilemma: A Guide to Restoring Audio on Your PC Using Intel's Conexant Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-audacity-here-are-five-reliable-ways-to-correct-the-sound-output-error/"><u>Trouble with Audacity? Here Are Five Reliable Ways to Correct the Sound Output Error!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-sound-problems-for-a-smooth-experience-with-firefox/"><u>Troubleshooting No Sound Problems for a Smooth Experience with Firefox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-windows-11-microphone-issues-easily/"><u>Troubleshooting Tips: Resolving Windows 11 Microphone Issues Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004666700-upgrade-your-borderlands-n-experience-get-rid-of-those-irritating-lags/"><u>Upgrade Your Borderlands N Experience: Get Rid of Those Irritating Lags</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-impact-with-tailored-youtube-cards-and-ends/"><u>[New] 2024 Approved Maximizing Impact with Tailored Youtube Cards and Ends</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-slideshow-how-to-create-a-slideshow-on-facebook/"><u>[Updated] Facebook Slideshow How to Create a Slideshow on Facebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-live-footage-at-its-best-gamers-recording-tips/"><u>2024 Approved Live Footage at Its Best Gamers' Recording Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-tutorial-when-your-bluetooth-mic-stops-responding/"><u>Comprehensive Fix Tutorial: When Your Bluetooth Mic Stops Responding</u></a></li>
+<li><a href="https://article-tips.techidaily.com/creating-emotional-depth-scriptwriting-tips-for-2024/"><u>Creating Emotional Depth Scriptwriting Tips for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-fix-microphone-problems-during-google-hangouts-calls-effortlessly/"><u>Diagnose and Fix Microphone Problems During Google Hangouts Calls Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-common-issues-with-unresponsive-corsair-headsets/"><u>Diagnosing Common Issues with Unresponsive Corsair Headsets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discreet-communication-tips-for-android-users-safeguarding-your-phone-number-with-ease/"><u>Discreet Communication Tips for Android Users: Safeguarding Your Phone Number with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensure-email-security-with-these-essential-steps-for-safelist-verification/"><u>Ensure Email Security with These Essential Steps for Safelist Verification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016754005-how-to-fix-voicemod-not-workingnot-opening-2024-tips/"><u>How to Fix Voicemod Not Working/Not Opening - 2024 Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamline-screen-recording-for-gaming-joy/"><u>In 2024, Streamline Screen Recording for Gaming Joy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-motorola-moto-g14-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Motorola Moto G14 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>New 2024 Approved Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-bose-sound-system-wont-power-on/"><u>Quick Fixes for When Your Bose Sound System Won't Power On</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-audio-experience-expert-tips-to-fix-broken-stereo-mixes/"><u>Reviving Your Audio Experience: Expert Tips to Fix Broken Stereo Mixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-repairing-voice-chat-connectivity-in-black-ops-cold-war-campaign/"><u>Solution Guide: Repairing Voice Chat Connectivity in Black Ops Cold War Campaign</u></a></li>
 </ul></div>
 

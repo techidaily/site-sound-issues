@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Bluetooth Not Working? Here's the Ultimate Solution
-date: 2024-09-19T17:00:07.068Z
-updated: 2024-09-21T17:36:39.439Z
+date: 2024-09-29T01:32:06.533Z
+updated: 2024-10-01T18:07:29.769Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Many users have updated to Windows 11, but some of them encounter Bluetooth not 
 5. **[Change the Bluetooth device discovery setting](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Repair your system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your device
 
  Before starting any complicated fixes, make sure you’ve checked these things:
@@ -46,6 +53,14 @@ Here’s how to check on Windows 11 PC:
 1. Press the**Windows logo key + A** to open**Quick Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/quick-settings.jpg)
 2. Make sure the Bluetooth option is enabled.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. You can re-enable Bluetooth on your PC by turning off Bluetooth and then enabling it later. Then check if your device can work on your PC. It may work for some users. If you need help doing this, please skip to here:[how to pair your Bluetooth device on Windows 11](https://tools.techidaily.com/drivereasy/download/)
 
  If you’re sure your device supports Bluetooth and was already paired with your PC, move to the next method to get it working.
@@ -62,6 +77,20 @@ Here’s how:
 3. Click**Other troubleshooters** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-2.jpg)
 4. Find Bluetooth and click**Run** .  
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-3.jpg)
 5. The system will automatically run the troubleshooter to fix the problem. When the process is completed, Windows will let you know whether the problem is solved or not.
 
@@ -72,6 +101,13 @@ Here’s how:
  One of the most common causes of Bluetooth not working problem is an outdated or faulty Bluetooth driver. If you never bother to or don’t remember when was the last time you updated your Bluetooth driver, definitely do it now. It might just fix your problem right away.
 
  There’re mainly 2 ways you can update your Bluetooth driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your Bluetooth driver manually
 
@@ -89,6 +125,13 @@ Here’s how:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/01/intel-wireless-bluetooth.png)
@@ -119,23 +162,9 @@ Here’s how:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-settings.png)
 2. Scroll down and change the**Bluetooth devices discovery** option to**Advanced** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-settings-advanced.png)
 
  Try to see if your Bluetooth starts working properly. If the problem remains, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Repair your system files
 
@@ -145,13 +174,6 @@ Here’s how:
  Use a repair tool to check various areas in your computer to determine the cause of Windows common issues. It will deal with issues related to system errors, and critical system files and find the right fit for you.
 * [Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)  
  System File Checker is a built-in tool to check for corrupt, damaged system files and manage to restore them if there’re any. However, this tool can only diagnose major system files, and won’t deal with damaged DLL, Windows Registry key, etc.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1 – Automatically (Recommended)
 
@@ -164,6 +186,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -179,10 +208,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) In the black Command Prompt window, type:
@@ -202,15 +231,16 @@ sfc /scannow
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-add.jpg)
 3. Click**Bluetooth** . Make sure your Bluetooth device is turned on and discoverable. Then wait the device the show up in the list.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-add-1.jpg)
 4. Click the device you want to pair and wait for a while. It should appear as**Connected** or**Paired** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-add-2.jpg)
 
 <ins class="adsbygoogle"
@@ -226,5 +256,17 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-20-popular-tiktok-rap-songs-you-probably-have-listened-to/"><u>[Updated] 20 Popular TikTok Rap Songs You Probably Have Listened To</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft-for-2024/"><u>[Updated] Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-strategies-for-capturing-high-quality-periscope-broadcasts/"><u>[Updated] Strategies for Capturing High-Quality Periscope Broadcasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/discover-top-tier-computer-parts-insights-from-toms-expertise/"><u>Discover Top-Tier Computer Parts - Insights From Tom’s Expertise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/front-earphone-sock-unresponsive-a-step-by-step-fix-guide/"><u>Front Earphone Sock Unresponsive? A Step-by-Step Fix Guide!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-game-on-point-with-solved-apex-legends-voice-communication-problems/"><u>Getting Your Game On Point with Solved Apex Legends Voice Communication Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/select-8-android-apps-combining-free-and-paid-video-collages/"><u>Select 8 Android Apps Combining Free and Paid Video Collages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-broken-corsair-soundperfection-mic/"><u>Step-by-Step Solutions for a Broken Corsair SoundPerfection Mic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-and-repairing-your-malfunctioning-corsair-void-headset-microphone/"><u>Ultimate Guide: Troubleshooting and Repairing Your Malfunctioning Corsair Void Headset Microphone</u></a></li>
+</ul></div>
 

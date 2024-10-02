@@ -1,7 +1,7 @@
 ---
 title: "Reviving Sound Devices: A Step-by-Step Guide to Fixing No Output Issue for Windows 10/8/7 Users"
-date: 2024-09-21T23:05:24.713Z
-updated: 2024-09-26T19:16:23.957Z
+date: 2024-09-30T23:21:19.591Z
+updated: 2024-10-02T02:12:08.621Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
@@ -50,24 +50,38 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
@@ -89,13 +103,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
@@ -112,17 +119,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -147,24 +155,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-obs-upgrade-tips-clearer-footage/"><u>[New] 2024 Approved OBS Upgrade Tips Clearer Footage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-complete-checklist-for-capturing-flawless-ppts/"><u>[New] 2024 Approved The Complete Checklist for Capturing Flawless PPTs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-tiktok-visual-enhancements/"><u>[Updated] Mastering the Art of TikTok Visual Enhancements</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nubia-red-magic-9-proplus-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nubia Red Magic 9 Pro+? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-headset-audio-fixes-mend-that-silent-mic-now/"><u>Astro A50 Headset Audio Fixes - Mend That Silent Mic Now</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/extract-srt-from-zip-simple-subtitle-file-creation-tips/"><u>Extract SRT From ZIP Simple Subtitle File Creation Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g533-microphone-issues-solutions-and-tips/"><u>Fixing Logitech G533 Microphone Issues: Solutions & Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-the-latest-version-of-hp-printer-software-on-your-windows-11-pc-free-download-options/"><u>Getting the Latest Version of HP Printer Software on Your Windows 11 PC – Free Download Options</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-ensure-your-obs-recordings-capture-desktop-sounds-correctly/"><u>How To Ensure Your OBS Recordings Capture Desktop Sounds Correctly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-jabra-wireless-headset-working-again-a-step-by-step-guide/"><u>How to Get Your Jabra Wireless Headset Working Again: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restart-one-or-more-nonfunctional-audio-channels-successfully/"><u>How to Restart One or More Nonfunctional Audio Channels Successfully</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-pc-sound-install-and-setup-new-speakers-with-windows-10/"><u>Mastering PC Sound: Install and Setup New Speakers with Windows 10</u></a></li>
-<li><a href="https://driver-install.techidaily.com/razer-mouse-wired-and-wireless-drivers-for-windows-users/"><u>Razer Mouse Wired & Wireless Drivers for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-fix-the-crackling-noise-problem-in-cyberpunk-2077/"><u>Step-by-Step Solutions to Fix the Crackling Noise Problem in Cyberpunk 2077</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-external-microphone-not-detected-by-your-pc-running-windows-11-8-or-7/"><u>Troubleshooting External Microphone Not Detected by Your PC Running Windows 11, 8, or 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlocking-fixes-for-your-onikuma-microphone-complete-troubleshooting-tutorial/"><u>Unlocking Fixes for Your Onikuma Microphone - Complete Troubleshooting Tutorial</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-smart-7-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Smart 7 Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-color-change-pro-methods-uncovered/"><u>[New] Navigating Color Change Pro Methods Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>[New] The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-circle-designers-toolkit-for-2024/"><u>[Updated] Circle Designer's Toolkit for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-audio-clip-converter-direct-to-mp3-mode/"><u>[Updated] FB Audio Clip Converter Direct to MP3 Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-not-working-discover-effective-remedies-for-mic-recognition-issues/"><u>Blue Yeti Not Working? Discover Effective Remedies for Mic Recognition Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypass-common-problems-5-speedy-repairs-for-your-oculus-rift-s-mic/"><u>Bypass Common Problems: 5 Speedy Repairs for Your Oculus Rift S Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-with-steelseries-arctis-1-mic-and-effective-ways-to-fix-them/"><u>Common Problems with SteelSeries Arctis 1 Mic & Effective Ways to Fix Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-solutions-resolve-logitech-g933-microphone-silence-issues/"><u>Effortless Solutions: Resolve Logitech G933 Microphone Silence Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016366022-expert-tips-for-making-your-stereo-audio-work-again-problems-addressed/"><u>Expert Tips for Making Your Stereo Audio Work Again - Problems Addressed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-battle-of-mobile-platforms-apple-app-store-against-google-play-services/"><u>Exploring the Battle of Mobile Platforms: Apple App Store Against Google Play Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stop-your-bluetooth-headphones-from-jittery-sounds-on-windows-1011/"><u>How to Stop Your Bluetooth Headphones From Jittery Sounds on Windows 10/11?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix GT 10 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-dolby-setup-in-windows-tenth-tutorial-for-starting-your-sound-driver/"><u>Master the Dolby Setup in Windows Tenth: Tutorial for Starting Your Sound Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-overcoming-gtfo-system-breakdowns/"><u>Mastering the Art of Overcoming GTFO System Breakdowns</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rapid-mic-checks-a-simple-guide-to-assessing-your-microphone-quality/"><u>Rapid Mic Checks: A Simple Guide to Assessing Your Microphone Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-conexant-smartaudios-silent-mode-a-fix-guide-for-windows-10-users/"><u>Resolve Conexant SmartAudio's Silent Mode: A Fix Guide for Windows 10 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-modern-techniques-for-gesture-interpretation/"><u>Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/welcome-an-ai-companion-revolutionizing-chat/"><u>Welcome an AI Companion Revolutionizing Chat</u></a></li>
 </ul></div>
 

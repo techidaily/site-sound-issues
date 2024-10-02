@@ -1,7 +1,7 @@
 ---
 title: "Resolving HDMI Sound Problems in Windows ^ Operating System: A Step-by-Step Guide"
-date: 2024-09-20T22:42:09.979Z
-updated: 2024-09-26T23:46:53.583Z
+date: 2024-09-30T00:11:06.788Z
+updated: 2024-10-02T02:39:30.059Z
 tags:
   - win11
   - win10
@@ -35,16 +35,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -56,13 +56,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot settings** . Then, click**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
@@ -104,13 +97,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -122,10 +108,10 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
@@ -136,6 +122,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
@@ -143,6 +136,19 @@ OR
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -182,24 +188,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-eco-savvy-movie-capture-tools-usage-methods/"><u>[New] 2024 Approved Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-igtv-mastery-best-video-editors-for-social-media/"><u>[New] IGTV Mastery Best Video Editors for Social Media</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-elite-screenplay-editing-solutions-for-apps/"><u>[New] In 2024, Elite Screenplay Editing Solutions for Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[New] In 2024, Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-windows-10-syncing-guide-effortless-mov-file-management-for-2024/"><u>[New] Windows 10 Syncing Guide Effortless .mov File Management for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-your-profile-with-high-quality-videos-for-2024/"><u>[Updated] Enhancing Your Profile With High-Quality Videos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-tips-to-overcome-desktop-audio-failures-in-obs-studio/"><u>Comprehensive Tips to Overcome Desktop Audio Failures in OBS Studio</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversion-sin-costo-entre-mpe-y-aac-el-poderoso-convertidor-online-de-movavi-disponible-gratuitamente/"><u>Conversión Sin Costo Entre MPE Y AAC: El Poderoso Convertidor Online De Movavi Disponible Gratuitamente</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016503762-corsair-hs35-microphone-wont-work-with-windows-here-are-your-fixes/"><u>Corsair HS35 Microphone Won't Work with Windows? Here Are Your Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-the-problem-with-a-defective-front-speaker-jack/"><u>Diagnosing and Solving the Problem with a Defective Front Speaker Jack</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016738091-expert-tips-for-resolving-sudden-sound-cutoffs-in-windows-10-now-fixed/"><u>Expert Tips for Resolving Sudden Sound Cutoffs in Windows 10 - Now Fixed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-airpods-working-again-fixing-the-microphone-on-windows-10/"><u>Get Your AirPods Working Again: Fixing the Microphone on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-squad-mic-a-step-by-step-2ndary-guide/"><u>How to Repair a Malfunctioning Squad Mic: A Step-by-Step 2nDary Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/loud-and-clear-with-lenovos-comprehensive-troubleshooting-for-eliminating-laptop-sound-problems/"><u>Loud and Clear with Lenovos: Comprehensive Troubleshooting for Eliminating Laptop Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-tozo-t6-compatibility-challenges-with-windows-11/"><u>Overcoming Tozo T6 Compatibility Challenges with Windows 11</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/perfecting-phone-screenshots-with-snapchat/"><u>Perfecting Phone Screenshots with Snapchat</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-getting-world-of-warcraft-up-and-running-on-windows/"><u>Solution Steps: Getting World of Warcraft Up and Running on Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-roadmap-to-seamless-mass-tiktok-downloads-for-2024/"><u>The Roadmap to Seamless Mass TikTok Downloads for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-7-hdmi-audio-troubles-heres-how-you-can-get-it-working-again/"><u>Windows 7 HDMI Audio Troubles? Here's How You Can Get It Working Again</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-mac-screen-recorders-top-picks-and-features-explored/"><u>[Updated] Innovative Mac Screen Recorders Top Picks & Features Explored</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-pro-ultimate-2023-template-giveaway/"><u>[Updated] Premier Pro Ultimate 2023 Template Giveaway</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-to-framing-youtube-content-for-free/"><u>[Updated] Step-By-Step Guide to Framing YouTube Content for Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-discord-call-audio-services/"><u>Effective Fixes for Non-Functioning Discord Call Audio Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-hacks-resolve-your-xbox-one-audio-issues-now/"><u>Expert Hacks: Resolve Your Xbox One Audio Issues Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Samsung Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-capable-of-answering-mathematical-questions-effectively/"><u>Is ChatGPT Capable of Answering Mathematical Questions Effectively?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-fixing-squad-mic-issues-a-step-by-step-guide/"><u>Mastering the Art of Fixing Squad Mic Issues : A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-deactivation-windows-11-interruption-lifter/"><u>Rapid Deactivation: Windows 11 Interruption Lifter</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solutions-to-pci-cryptography-module-driver-errors-resolved/"><u>Solutions to PCI Cryptography Module Driver Errors - Resolved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-a-non-responsive-razer-man-owar-headset-microphone/"><u>Troubleshooting Guide for a Non-Responsive Razer Man O'War Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-non-functional-voice-chats-in-black-ops-cold-war-gameplay/"><u>Troubleshooting Guide for Non-Functional Voice Chats in Black Ops: Cold War Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-a-defective-microphone-in-the-oculus-quest-2-vr-headset/"><u>Troubleshooting Techniques for a Defective Microphone in the Oculus Quest 2 VR Headset</u></a></li>
 </ul></div>
 

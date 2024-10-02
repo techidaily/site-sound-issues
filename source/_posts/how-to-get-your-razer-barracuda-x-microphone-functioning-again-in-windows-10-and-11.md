@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Razer Barracuda X Microphone Functioning Again in Windows 10 and 11
-date: 2024-09-19T16:42:15.140Z
-updated: 2024-09-26T20:02:57.248Z
+date: 2024-09-30T23:16:38.993Z
+updated: 2024-10-01T23:02:23.932Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
@@ -49,6 +49,14 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
@@ -60,15 +68,15 @@ Follow these:
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###
 
@@ -83,14 +91,14 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
 
-###
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+###
 
 ### Fix 4: Restart Windows audio service
 
@@ -99,13 +107,6 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 4. Log in Skype and check to see if your Microphone works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -124,15 +125,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastering-mp3s-on-android-the-best-free-tools/"><u>[New] In 2024, Mastering MP3s on Android - The Best Free Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-inside-the-tech-a-comprehensive-review-of-apowersofts-recorder/"><u>[Updated] In 2024, Inside the Tech A Comprehensive Review of Apowersoft’s Recorder</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-step-by-step-fix-for-no-sound-error-during-call-of-duty-black-ops-cold-war-on-pc-gaming-rigs/"><u>A Step-by-Step Fix for No Sound Error During Call of Duty: Black Ops Cold War on PC Gaming Rigs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gadgets-and-pc-hardware-insights/"><u>Exploring Tom's Gadgets and PC Hardware Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/from-chaos-to-clarity-solving-severe-problems-of-arise-in-the-ue4-environment/"><u>From Chaos to Clarity: Solving Severe Problems of Arise in the UE4 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-silence-the-fuzz-a-users-handbook-to-resolve-windows-based-audio-problems-with-arctis-7/"><u>How to Silence the Fuzz: A User's Handbook to Resolve Windows-Based Audio Problems with Arctis 7</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-zero-5g-2023-turbo-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Zero 5G 2023 Turbo Phone Now with These Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/inactive-fingerprint-sensor-on-computer/"><u>Inactive Fingerprint Sensor on Computer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Computer Hardware Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolve-issues-with-fortnite-audio/"><u>Troubleshooting Steps: Resolve Issues with Fortnite Audio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>[New] Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-from-shot-to-spectacle-pro-tips-for-transformative-photographic-edits/"><u>[Updated] From Shot to Spectacle Pro Tips for Transformative Photographic Edits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capture-kings-warzone/"><u>[Updated] In 2024, Capture Kings Warzone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-video-gathering-made-easy-top-5-no-cost-online-downloaders/"><u>[Updated] In 2024, Video Gathering Made Easy Top 5 No-Cost, Online Downloaders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-music-reactions-years-top-ten-showcase-for-2024/"><u>[Updated] YouTube Music Reactions Year's Top Ten Showcase for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-trouble-shooting-restore-sound-to-your-dell-device-now/"><u>DIY Trouble Shooting: Restore Sound to Your Dell Device Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-fix-voice-chat-malfunctions-in-phasmophobia/"><u>Expert Tips to Fix Voice Chat Malfunctions in Phasmophobia</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-s18-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo S18 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-windows-11-audio-malfunctions-follow-this-easy-5-step-process/"><u>Quick Fix for Windows 11 Audio Malfunctions: Follow This Easy 5-Step Process</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-troubleshooting-airpods-silence-solutions-for-windows-users-windows-11-and-10/"><u>Resolved: Troubleshooting AirPods Silence – Solutions for Windows Users (Windows 11 & 10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016655572-silent-battles-no-more-solving-your-wow-sound-glitches-easily/"><u>Silent Battles No More: Solving Your WoW Sound Glitches Easily</u></a></li>
 </ul></div>
 

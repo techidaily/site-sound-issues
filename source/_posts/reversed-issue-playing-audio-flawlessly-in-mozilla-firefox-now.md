@@ -1,7 +1,7 @@
 ---
 title: "Reversed Issue: Playing Audio Flawlessly in Mozilla Firefox Now"
-date: 2024-09-24T18:20:08.277Z
-updated: 2024-09-26T16:09:03.515Z
+date: 2024-09-26T16:27:52.907Z
+updated: 2024-10-01T18:24:12.705Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -79,10 +79,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
@@ -97,7 +97,21 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -109,23 +123,9 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -150,22 +150,21 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-step-by-step-instruction-for-wm6-install/"><u>[New] Step-by-Step Instruction for WM6 Install</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unparalleled-sound-quality-microphone-guide/"><u>[Updated] 2024 Approved Unparalleled Sound Quality Microphone Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-excellent-ios-options-for-emulating-top-notch-psp-games-for-2024/"><u>[Updated] Excellent iOS Options for Emulating Top-Notch PSP Games for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>[Updated] In 2024, Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-buzz-ultimate-guide-to-fixing-logitech-g-pro-x-pc-noise-issues/"><u>Beat the Buzz: Ultimate Guide to Fixing Logitech G Pro X PC Noise Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/challenges/"><u>Challenges</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-how-to-restore-audio-on-your-windows-11-system/"><u>Fixing Silent PCs: How to Restore Audio on Your Windows 11 System</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-problem-addressed-full-functionality-regained/"><u>GPU Problem Addressed, Full Functionality Regained</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-hot-40-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Hot 40 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-real-time-vr-hardware-analysis/"><u>In 2024, Real-Time VR Hardware Analysis</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-unrecognized-speaker-issues-within-the-windows-10-operating-system/"><u>Resolving Unrecognized Speaker Issues Within the Windows 10 Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-of-silent-facecams-a-comprehensive-guide-for-pc-users/"><u>Solving the Dilemma of Silent FaceCams: A Comprehensive Guide for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-hushed-battlefield-correcting-audio-malfunctions-in-world-of-warcraft/"><u>The Hushed Battlefield: Correcting Audio Malfunctions in World of Warcraft</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-easy-file-movement-to-pcs/"><u>The Ultimate Guide Easy File Movement to PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-your-iphone-for-optimal-sound-quality/"><u>Troubleshooting and Repairing Your iPhone for Optimal Sound Quality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/wasteland-ii-directors-version-reviewed-revitalized-tactical-adventure-role-playing-game-unveiled/"><u>Wasteland II Director’s Version Reviewed: Revitalized Tactical Adventure Role Playing Game Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-how-to-fixing-mystery-audio-devices-and-enhancing-your-surround-system/"><u>Windows 10 How-To: Fixing Mystery Audio Devices and Enhancing Your Surround System</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-superior-live-media-transmission-tools/"><u>[New] In 2024, Superior Live Media Transmission Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-economical-desktop-encoders-under-100/"><u>[Updated] Top Economical Desktop Encoders Under $100</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-6-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 6</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a24-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy A24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-steelseries-arctis-9-mic-not-working-a-complete-solution/"><u>Diagnosing and Fixing the SteelSeries Arctis 9 Mic Not Working - A Complete Solution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exceptional-counsel-premium-ringtone-developers/"><u>Exceptional Counsel Premium Ringtone Developers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-ensuring-your-mac-detects-and-uses-an-outside-monitor-correctly/"><u>Expert Tips for Ensuring Your Mac Detects and Uses an Outside Monitor Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016295740-front-speaker-connection-issues-heres-how-to-restore-sound-output/"><u>Front Speaker Connection Issues? Here's How to Restore Sound Output!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-hardware-blockade-in-windows-environment/"><u>Graphics Hardware Blockade in Windows Environment</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-hurdles-of-enabling-dolby-audio-in-windows-nully-errors-a-resolution-guide/"><u>Overcoming the Hurdles of Enabling Dolby Audio in Windows Nully Errors: A Resolution Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-your-stories-with-lush-soundtracks/"><u>Share Your Stories with Lush Soundtracks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-dell-speaker-problems-in-windows-7-with-these-easy-fixes/"><u>Solve Your Dell Speaker Problems in Windows 7 with These Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-dolby-advanced-sound-drivers-wont-start-in-windows-10/"><u>Troubleshooting Steps When Dolby Advanced Sound Drivers Won't Start in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-making-airpods-produce-sound-on-windows-desktopslaptops/"><u>Troubleshooting Tips: Making AirPods Produce Sound on Windows Desktops/Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-problems-in-co-op-game-back-4-blood/"><u>Troubleshooting Voice Chat Problems in Co-Op Game 'Back 4 Blood'</u></a></li>
 </ul></div>
 

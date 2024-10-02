@@ -1,7 +1,7 @@
 ---
 title: Laptop Sound Not Playing? Master the Steps to Bring Back Audio Clarity
-date: 2024-09-24T16:29:56.545Z
-updated: 2024-09-26T17:57:02.452Z
+date: 2024-09-30T18:24:40.825Z
+updated: 2024-10-01T21:33:50.513Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -55,18 +48,24 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Disconnect external speakers
 
  Sometimes you can’t hear any sound from your Mac because it sends the audio to its external devices, such as headphones, TV, etc. Unplug all of them and check if you can hear the sound. If no, go with**Fix 3** .
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check the audio settings
 
@@ -96,20 +95,27 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check if the**no sound problem** has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Restart your Mac
 
@@ -118,10 +124,16 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reset **NVRAM**
@@ -131,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 1) Shut down your computer.
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
@@ -161,20 +166,27 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038a64edd48.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: no password for this account is needed since it’s only a testing account.
 
@@ -229,22 +241,20 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-revolutionize-virtual-participation-with-top-10-free-recorder-software/"><u>[New] In 2024, Revolutionize Virtual Participation with Top 10 Free Recorder Software</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-aerial-robotics-simplified-how-drones-fly-talk-and-work-for-2024/"><u>[Updated] Aerial Robotics Simplified How Drones Fly, Talk & Work for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-the-course-with-youtubes-top-makeup-influencers/"><u>[Updated] In 2024, Charting the Course with YouTube's Top Makeup Influencers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-synthesize-film-selections-on-platform-playlist-for-2024/"><u>[Updated] Synthesize Film Selections on Platform Playlist for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-creating-a-domino-effect-with-memes/"><u>2024 Approved Creating a Domino Effect with Memes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-top-10-motivational-films-for-a-zestful-life/"><u>2024 Approved Top 10 Motivational Films for a Zestful Life</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1726218582590-movavi/"><u>迅速學習簡化影片反轉方法 - 提高媒體編輯技能的Movavi指南</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11-speaker-malfunctions-a-step-by-step-fix/"><u>Diagnosing and Repairing Windows 11 Speaker Malfunctions – A Step-by-Step Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/elevating-speaker-levels-in-windows-11-simple-tweaks-and-adjustments/"><u>Elevating Speaker Levels in Windows 11 - Simple Tweaks and Adjustments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-manowar-microphone-issues-a-step-by-step-guide/"><u>Fixing Your Razer ManO'War Microphone Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-establish-an-alias-for-your-primary-gmail-account-effortlessly/"><u>How to Establish an Alias for Your Primary Gmail Account Effortlessly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-quickly-install-or-update-microsoft-drivers-on-windows-7810/"><u>How to Quickly Install or Update Microsoft Drivers on Windows 7/8/10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-pc-when-playing-call-of-duty-warzone-latest-update/"><u>How to Restore Audio on Your PC When Playing Call of Duty: Warzone (Latest Update)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/managing-application-interference-with-hdmi-connections-on-your-device/"><u>Managing Application Interference with HDMI Connections on Your Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-on-your-pc-running-windows-7-operating-system/"><u>Solving Sound Problems on Your PC Running Windows 7 Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-voicemicrophone-problems-during-warzone-matches-on-pc-and-consoles/"><u>Step-by-Step Fixes for Voice/Microphone Problems During Warzone Matches on PC and Consoles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-for-a-malfunctioning-corsair-audio-headset/"><u>Troubleshooting: Fixes for a Malfunctioning Corsair Audio Headset</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mac-users-manual-recording-high-quality-audio-with-audacity/"><u>[New] 2024 Approved Mac Users' Manual Recording High-Quality Audio with Audacity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-editors-elite-gadgets-best-machines-for-screen-magic/"><u>[Updated] 2024 Approved Editor’s Elite Gadgets Best Machines for Screen Magic</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-definitive-guide-ios-screenshots-and-recording-2inas-2023/"><u>[Updated] 2024 Approved The Definitive Guide IOS Screenshots & Recording (2Inas 2023)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smart-solutions-apply-apple-watch-open-mac/"><u>2024 Approved Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-tech-roundup-nine-innovative-mic-recorders-for-web-23/"><u>Advanced Tech Roundup Nine Innovative Mic Recorders for Web ('23)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-market-reach-the-cookiebot-way-to-digital-mastery/"><u>Elevate Your Market Reach – The Cookiebot Way to Digital Mastery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-non-responsive-audio-devices-in-windows-11-comprehensive-solutions/"><u>Fixes for Non-Responsive Audio Devices in Windows 11: Comprehensive Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-push-to-talk-on-discord-a-step-by-step-guide-to-making-it-work-again/"><u>Fixing 'Push-To-Talk on Discord': A Step-by-Step Guide to Making It Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-airpods-microphone-working-again-on-windows-10-pcs-expert-tips-and-tricks/"><u>How to Get Your AirPods' Microphone Working Again on Windows 10 PCs - Expert Tips and Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-windows-focusing-on-essential-upgrades/"><u>Reimagining Windows: Focusing on Essential Upgrades</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-connectivity-problems-a-guide-to-fixing-the-logitech-g-pro-x-microphone/"><u>Solving Connectivity Problems: A Guide to Fixing the Logitech G Pro X Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-kotions-g2000-microphone/"><u>Troubleshooting Tips: Resolving Issues with Kotion's G2000 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-problems-quick-solutions-for-bringing-back-the-sound/"><u>Windows 10 Audio Problems: Quick Solutions for Bringing Back the Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227922629-wma-m4a-movavi/"><u>WMA 대 M4A로 바꾸기: 무료 온라인 변환 도구 - Movavi</u></a></li>
 </ul></div>
 

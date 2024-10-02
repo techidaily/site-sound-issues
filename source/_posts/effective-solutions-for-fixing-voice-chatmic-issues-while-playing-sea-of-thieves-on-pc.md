@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Fixing Voice Chat/Mic Issues While Playing Sea of Thieves on PC
-date: 2024-09-22T23:28:05.400Z
-updated: 2024-09-26T19:24:53.699Z
+date: 2024-09-30T19:56:35.651Z
+updated: 2024-10-01T20:45:41.703Z
 tags:
   - win11
   - win10
@@ -64,13 +64,6 @@ To do so:
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_2.jpg)
 3. Switch to Bluetooth, the LED will light blue for five seconds.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_3.jpg)
 
  See if G435 works fine under both modes. If the headset has no sound in either mode, please move on to the next fix.
@@ -90,22 +83,15 @@ To do so:
 2. Click the**three-dot** button for your Logitech G435 headset, and select**Remove device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-14.png)
 3. Click**Add device** \>**Bluetooth** , and wait for your computer to find your G435 headset again.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your G435 headset still doesn’t have sound after this change, please try the next fix below.
 
@@ -121,13 +107,6 @@ To do so:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -161,26 +140,20 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -199,12 +172,34 @@ To do so:
 2. Double-click to expand the**Bluetooth** category, then right-click your Bluetooth adapter (it’s usually the one without any Microsoft wording) and select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-17.png)
 3. Select**Power Management** , then untick the box for**Allow the computer to turn off this device to save power** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-18.png)
 4. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then try your Logitech G435 headset again to see if it works fine now. If not, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Update the firmware
 
@@ -217,10 +212,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Repair system files
@@ -236,14 +231,14 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -270,22 +265,24 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-started-streaming-learn-obs-for-youtube-now/"><u>[New] Started Streaming? Learn OBS for Youtube Now</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-photo-to-film-the-cinematic-edge-of-iphone-x-for-2024/"><u>[Updated] From Photo to Film The Cinematic Edge of iPhone X for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-most-anticipated-facebook-trends-for-24/"><u>[Updated] The Most Anticipated Facebook Trends for '24</u></a></li>
-<li><a href="https://article-tips.techidaily.com/aeropixel-remastering-toolkit-windowsmac-for-2024/"><u>AeroPixel Remastering Toolkit (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/back-4-blood-fixing-voice-communication-issues-a-step-by-step-guide/"><u>Back 4 Blood: Fixing Voice Communication Issues – A Step-by-Step Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-mic-functionality-in-microsoft-teams-for-windows-11-and-10-users/"><u>How to Restore Mic Functionality in Microsoft Teams for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/identifying-and-fixing-audio-service-interruptions-a-comprehensive-solution/"><u>Identifying and Fixing Audio Service Interruptions: A Comprehensive Solution</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-essential-2023-techniques-for-ios-screen-recording/"><u>In 2024, The Essential 2023 Techniques for iOS Screen Recording</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photoshops-stabilization-an-essential-tool-or-overrated-feature-for-2024/"><u>Photoshop's Stabilization An Essential Tool or Overrated Feature for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-a-step-by-step-guide-to-repairing-a-nonfunctional-corsair-hs70-headset-microphone/"><u>Solving the Dilemma: A Step-by-Step Guide to Repairing a Nonfunctional Corsair HS70 Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/squad-mic-troubleshooting-and-solutions-for-gamers-guide/"><u>Squad Mic Troubleshooting and Solutions for Gamers (Guide )</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-solving-issues-with-unresponsive-wireless-microphones/"><u>Step by Step Guide: Solving Issues with Unresponsive Wireless Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-and-mic-issues-in-fortnite-on-both-pc-and-console/"><u>Troubleshooting Guide: Fixing Voice and Mic Issues in Fortnite on Both PC and Console</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-lack-of-sound-on-monitortv-with-computer-via-hdmi-connection/"><u>Ultimate Guide: Resolving Lack of Sound on Monitor/TV with Computer via HDMI Connection</u></a></li>
-<li><a href="https://win-able.techidaily.com/wolcens-latest-status-unveiling-the-challenges-preventing-its-release/"><u>Wolcen's Latest Status: Unveiling the Challenges Preventing Its Release</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-edit-your-way-to-success-iosandroid-apps-for-youtube-shorts-for-2024/"><u>[New] Edit Your Way to Success IOS/Android Apps for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-freedom-of-filmmaking-top-android-video-editing-apps/"><u>[New] The Freedom of Filmmaking Top Android Video Editing Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-learn-the-safest-ways-to-extract-and-convert-youtube-tracks-to-mp3/"><u>[Updated] Learn the Safest Ways to Extract and Convert YouTube Tracks to MP3</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal-for-2024/"><u>[Updated] Unleash Creative Potential with a Comprehensive Guide to PS Background Removal for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-edge-2023-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola Edge 2023 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-on-track-resolving-destiny-2-voice-communication-errors/"><u>Getting Back on Track: Resolving Destiny 2 Voice Communication Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015303698-hearthstone-volume-glitches-heres-how-you-can-get-your-sounds-back/"><u>Hearthstone Volume Glitches? Here's How You Can Get Your Sounds Back</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-tactical-edition-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Tactical Edition Bootloader Easily</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-brio-webcam-not-detected-after-windows-10-creators-update-solved/"><u>Logitech Brio Webcam Not Detected After Windows 10 Creators Update [Solved]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-fix-annoyance-free-deletion-of-youtube-comments/"><u>Quick Fix Annoyance-Free Deletion of Youtube Comments</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-13-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 13 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/seamless-solutions-fixing-non-responsive-bluetooth-on-your-windows-11-device/"><u>Seamless Solutions: Fixing Non-Responsive Bluetooth on Your Windows 11 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-making-sure-game-sounds-play-on-discord/"><u>Solution Found: Making Sure Game Sounds Play on Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-macs-expert-tips-for-reinstating-system-audio/"><u>Solving Silent Macs: Expert Tips for Reinstating System Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/strategies-for-silencing-disruptive-whirring-or-buzzing-in-audio-devices/"><u>Strategies for Silencing Disruptive Whirring or Buzzing in Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-eliminate-crackling-sound-on-windows-laptop-or-desktop-a-comprehensive-guide-win-107/"><u>Troubleshoot & Eliminate Crackling Sound on Windows Laptop or Desktop – A Comprehensive Guide [WIN 10/7]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-your-discord-voice-call/"><u>Troubleshooting Guide: Fixing Issues with Your Discord Voice Call</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-your-epson-printers-full-potential-in-windows-11/"><u>Unlocking Your Epson Printer's Full Potential in Windows 11</u></a></li>
 </ul></div>
 

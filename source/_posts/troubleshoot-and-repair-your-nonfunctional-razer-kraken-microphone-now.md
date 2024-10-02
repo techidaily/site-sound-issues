@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Repair Your Nonfunctional Razer Kraken Microphone Now
-date: 2024-09-22T00:04:55.904Z
-updated: 2024-09-26T23:27:32.941Z
+date: 2024-09-26T17:54:54.765Z
+updated: 2024-10-01T19:46:41.177Z
 tags:
   - win11
   - win10
@@ -42,49 +42,45 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Click **OK** .
 See if your Logitech G230 mic works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -95,10 +91,10 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
@@ -147,18 +143,22 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/anipulate-sound-rate-in-youtube-playback-for-2024/"><u>[New] Manipulate Sound Rate in YouTube Playback for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-windows-movie-maker-downloading/"><u>[New] Ultimate Guide Windows Movie Maker Downloading</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-gear-comparison-gopros-best-match-ghost-s-drift/"><u>2024 Approved High Gear Comparison GoPro's Best Match? Ghost-S Drift</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-sound-easy-steps-to-enhance-speaker-volume-on-windows-10/"><u>Boosting Sound: Easy Steps to Enhance Speaker Volume on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-look-at-the-lenovo-ideapad-series-where-solid-design-meets-functional-performance/"><u>Comprehensive Look at the Lenovo IdeaPad Series: Where Solid Design Meets Functional Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headphone-troubles-stop-the-crackle-simple-fixes-inside/"><u>Headphone Troubles? Stop the Crackle - Simple Fixes Inside!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-mix-fold-3-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Mix Fold 3 FRP Bypass</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-40-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 40 Fingerprint Lock</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-camera-elevation-best-tripods-for-smartphone-shots/"><u>In 2024, Camera Elevation Best Tripods for Smartphone Shots</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-for-idt-hd-audio-driver-issues-in-windows-10-resolved/"><u>Step-by-Step Troubleshooting for IDT HD Audio Driver Issues in Windows 10 [Resolved]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-razer-microphone-a-quick-guide-5-simple-solutions/"><u>Troubleshooting Your Razer Microphone: A Quick Guide (5 Simple Solutions)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unseen-by-your-computer-heres-how-to-reset-the-blue-yeti-microphone/"><u>Unseen by Your Computer? Here’s How to Reset the Blue Yeti Microphone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-youtube-to-mp3-conversion-apps-reviewed-for-2024/"><u>[New] Essential YouTube to Mp3 Conversion Apps Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-crafting-engaging-asmr-content/"><u>[New] The Ultimate Guide to Crafting Engaging ASMR Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-alliance-of-creativity-brands-and-youtubes-fusion/"><u>[Updated] Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-conversations-fixing-the-muted-mystery-of-discord-audio/"><u>Clear Conversations: Fixing the Muted Mystery of Discord Audio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-for-smooth-cross-sounding-with-audacity/"><u>Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-in-the-game-expert-tips-to-repair-voice-chat-glitches-in-pubg/"><u>Get Back in the Game: Expert Tips to Repair Voice Chat Glitches in PUBG</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-much-is-the-eurozone-worth-french-distributor-sets-price-for-amd-ryzen-9-9900x-at-close-to-680/"><u>How Much Is the Eurozone Worth? French Distributor Sets Price for AMD Ryzen 9 9900X at Close to €680.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-cod-vanguard-voice-chat-malfunction-quickly/"><u>How to Resolve the COD: Vanguard Voice Chat Malfunction Quickly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-entertainment-looping-youtube-videos-for-tv-viewers/"><u>In 2024, Effortless Entertainment Looping YouTube Videos for TV Viewers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-get-back-your-audio-dealing-with-no-sound-on-lenovo-devices/"><u>Quick Fixes to Get Back Your Audio: Dealing with No Sound on Lenovo Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-mic-woes-fix-it-now-five-essential-steps-for-headset-audio-troubleshooting-success/"><u>Razer Mic Woes? Fix It Now: Five Essential Steps for Headset Audio Troubleshooting Success</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/selecting-your-ideal-tablet-in-depth-analysis-of-amazon-fire-vs-samsung-models/"><u>Selecting Your Ideal Tablet: In-Depth Analysis of Amazon Fire Vs. Samsung Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-voice-communication-in-modern-warfare-online-play/"><u>Solved! How to Restore Voice Communication in Modern Warfare Online Play</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-troubleshooting-techniques-to-fix-the-mic-on-your-oculus-rift-s-whats-new/"><u>Speedy Troubleshooting Techniques to Fix the Mic on Your Oculus Rift S - What's New</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016703027-troubleshooting-a-nonfunctional-logitech-g633-mic-solutions-inside/"><u>Troubleshooting a Nonfunctional Logitech G633 Mic - Solutions Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-touchpad-integrity-with-quick-fixes/"><u>Unlock Touchpad Integrity with Quick Fixes!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-c12-plus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia C12 Plus Phone Network-Ready</u></a></li>
 </ul></div>
 

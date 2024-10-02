@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Microphone: Solutions for Silent Calls on Discord"
-date: 2024-09-25T20:52:08.205Z
-updated: 2024-09-26T16:41:58.300Z
+date: 2024-09-29T20:27:41.573Z
+updated: 2024-10-01T17:53:42.743Z
 tags:
   - win11
   - win10
@@ -46,10 +46,16 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
@@ -64,18 +70,47 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
-4. **Toggle on the button** below Allow apps to access your microphone.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
-5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
+4. **Toggle on the button** below Allow apps to access your microphone.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
+5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
@@ -87,13 +122,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
@@ -101,22 +129,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 4. Right-click the microphone again and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
@@ -147,14 +168,14 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -183,18 +204,21 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-tunes-on-your-phone-top-speed-up-apps/"><u>[New] Quick Tunes on Your Phone Top Speed-Up Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-sculpt-visual-jokes-adobe-memes-guide/"><u>2024 Approved Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adopting-claude-3-see-the-four-enhancements-in-comparison-to-chatgpt/"><u>Adopting Claude 3: See the Four Enhancements in Comparison to ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-printer-error-windows-11-workaround-and-solution/"><u>Epson Printer Error: Windows 11 Workaround and Solution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-locate-a-forgotten-or-unknown-email-account/"><u>How Can You Locate a Forgotten or Unknown Email Account?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unlock-your-creative-potential-the-leading-12-sites-for-accessible-stock-photos/"><u>In 2024, Unlock Your Creative Potential - The Leading 12 Sites for Accessible Stock Photos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016757723-mac-no-volume-heres-how-you-can-get-the-sound-back/"><u>Mac No Volume? Here's How You Can Get the Sound Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-earpods-microphone-issues-in-astro-a50-headsets-with-ease/"><u>Resolving EarPods Microphone Issues in Astro A50 Headsets with Ease</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-when-discord-voice-communication-is-not-working/"><u>Solving the Problem When Discord Voice Communication Is Not Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-razer-man-o-war-mic-issues-and-solutions/"><u>Troubleshooting Tips for Razer Man O' War Mic Issues and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-for-high-performance-audio-settings-in-windows-11/"><u>Ultimate Solutions for High-Performance Audio Settings in Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-google-nest-wi-fi-a-review-of-its-superior-and-effortless-network-speed/"><u>Unlocking the Potential of Google Nest Wi-Fi: A Review of Its Superior and Effortless Network Speed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-real-time-capture-from-obs-to-instagram/"><u>[New] 2024 Approved Real-Time Capture From OBS to Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-improving-zoom-video-fidelity-easy-steps/"><u>[Updated] 2024 Approved Improving Zoom Video Fidelity Easy Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-blurring-techniques-for-cleaner-image-edits/"><u>2024 Approved Blurring Techniques for Cleaner Image Edits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unrivaled-5-non-twitter-communities-online/"><u>2024 Approved Unrivaled 5 Non-Twitter Communities Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-the-quiet-how-to-restore-sounds-in-hearthstone/"><u>Banish the Quiet: How to Restore Sounds in Hearthstone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silence-troubleshooting-the-lack-of-audio-in-wow/"><u>Fixing Silence: Troubleshooting the Lack of Audio in WoW</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-zero-to-hero-easy-solutions-for-restarting-audio-on-it-takes-two/"><u>From Zero to Hero: Easy Solutions for Restarting Audio on 'It Takes Two'</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y100a-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y100A Location | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-15-plus-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 15 Plus and Android Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-windows-1n-compatibility-hurdles-with-dolby-sound-driver-startup-solutions/"><u>Overcoming Windows 1N Compatibility Hurdles with Dolby Sound: Driver Startup Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overwatch-fixed-graphics-driver-issues-now-resolved/"><u>Overwatch Fixed: Graphics Driver Issues Now Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-the-iphones-audio-issues-noise-free-crisp-sounds/"><u>Resolved: Fixing the iPhone's Audio Issues - Noise-Free, Crisp Sounds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/secure-storage-safeguarding-your-mov-videos-in-win-11/"><u>Secure Storage Safeguarding Your MOV Videos in Win 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016042697-silenced-by-the-latest-regain-audio-control-after-your-windows-10-update-now/"><u>Silenced by the Latest? Regain Audio Control After Your Windows 10 Update Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-tips-for-eliminating-sound-issues-in-cyberpunk-2077/"><u>Ultimate Troubleshooting Tips for Eliminating Sound Issues in Cyberpunk 2077</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-a60s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Itel A60s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

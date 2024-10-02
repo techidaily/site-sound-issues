@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Resolve Your Apex Legends Game When There Is No Sound
-date: 2024-09-19T16:55:47.601Z
-updated: 2024-09-26T19:25:27.403Z
+date: 2024-09-28T17:37:36.379Z
+updated: 2024-10-02T02:10:10.747Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -97,13 +90,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -122,25 +108,33 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
@@ -154,10 +148,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
@@ -188,22 +182,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-start-kit-top-gopro-supplementary-gear/"><u>[New] Ideal Start Kit Top GoPro Supplementary Gear</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-timers-without-a-dollar-for-2024/"><u>[New] Ultimate Timers Without a Dollar for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-breaking-into-the-world-of-social-broadcasts-and-roku-for-2024/"><u>[Updated] Breaking Into the World of Social Broadcasts & Roku for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-elevating-content-clarity-with-video-dates-and-times/"><u>[Updated] Elevating Content Clarity with Video Dates and Times</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-imagepurityplus-professional-photo-editing-suite/"><u>2024 Approved ImagePurityPlus Professional Photo Editing Suite</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digiartymacdvdand/"><u>Digiarty製Mac向けDVDコピー&ビデオ変換ソフトウェア最新版が登場</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-mic-functionality-during-zoom-calls-for-desktop-enthusiasts/"><u>Expert Advice: Restoring Mic Functionality During Zoom Calls for Desktop Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-discord-audio-calls-back-on-track-a-step-by-step-guide/"><u>Getting Your Discord Audio Calls Back on Track: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/house-flipper-two-stability-solutions-for-a-smooth-gaming-experience-on-pcs/"><u>House Flipper Two Stability Solutions for a Smooth Gaming Experience on PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-repair-obs-studio-audio-recordings/"><u>How to Enable and Repair OBS Studio Audio Recordings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-connectivity-issues-with-your-logitech-g633-microphone/"><u>How to Resolve Connectivity Issues with Your Logitech G633 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sound-output-effective-methods-for-resolving-silent-laptops/"><u>Restoring Sound Output: Effective Methods for Resolving Silent Laptops</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionize-your-video-content-with-vce-22-mastery-for-2024/"><u>Revolutionize Your Video Content with VCE 2.2 Mastery for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-connoisseurs-guide-to-youtube-music-orchestration-for-2024/"><u>The Connoisseur's Guide to YouTube Music Orchestration for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-restoring-soundscape-on-your-quieted-laptop/"><u>The Definitive Guide to Restoring Soundscape on Your Quieted Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unblocking-the-silence-resolve-non-functional-microphone-in-microsoft-teams-for-win11-and-win10/"><u>Unblocking the Silence: Resolve Non-Functional Microphone in Microsoft Teams for Win11 and Win10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-and-skype-audio-problems-solutions-for-non-working-microphones/"><u>Windows 11 and Skype Audio Problems - Solutions for Non-Working Microphones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-digital-sculptors-playground-essential-tools-for-every-animator-for-2024/"><u>[New] Digital Sculptors’ Playground Essential Tools for Every Animator for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-gaming-frontier-exploration-premium-oculus-players-guide/"><u>[New] Gaming Frontier Exploration Premium Oculus Players Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoid-mainstream-underrated-movies-of-the-year/"><u>[New] In 2024, Avoid Mainstream Underrated Movies of the Year</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-record-a-timelapse-video-on-ipad-for-2024/"><u>[Updated] How to Record a Timelapse Video on iPad for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-permanently-quit-youtube-shorts-now-in-2024/"><u>[Updated] Permanently Quit YouTube Shorts Now, In 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-detailed-breakdown-of-fbm-transcription-techniques-for-2024/"><u>[Updated] The Detailed Breakdown of FBM Transcription Techniques for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-live-stream-with-manycam-professional-virtual-camera-and-screen-capture-tools/"><u>1. 'Live Stream with ManyCam: Professional Virtual Camera and Screen Capture Tools'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-restoring-sound-capabilities-on-windows-10-systems/"><u>Effective Solutions for Restoring Sound Capabilities on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-skype-microphone-on-windows-10-devices/"><u>How to Fix a Non-Functioning Skype Microphone on Windows 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issues-crackling-sounds-from-speakers-on-windows-107/"><u>How to Fix Audio Issues: Crackling Sounds From Speakers on Windows 10/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/insiders-trick-for-fixing-nonfunctional-speakers-in-the-latest-windows-os/"><u>Insider's Trick for Fixing Nonfunctional Speakers in the Latest Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016369283-steelseries-arctis-users-say-goodbye-to-mic-woes-with-our-easy-to-follow-solutions/"><u>SteelSeries Arctis Users, Say Goodbye to Mic Woes with Our Easy-to-Follow Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolving-undetected-speakers-in-windows-10/"><u>Step-by-Step: Resolving Undetected Speakers in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-quiet-dilemma-in-valheim-heres-how-to-turn-up-the-volume-on-pc/"><u>The Quiet Dilemma in Valheim? Here's How to Turn Up the Volume on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-4-methods-for-watching-dvds-on-windows-11-a-comprehensive-guide/"><u>Top 4 Methods for Watching DVDs on Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-mundane-interviews-into-memorable-experienrances/"><u>Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-no-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting Guide: Fixing No Audio on Your HP Laptop Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-non-responsive-audio-features/"><u>Troubleshooting Tips - Resolving Non-Responsive Audio Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/wintry-wonderland-olympic-moments-from-beijing-2022/"><u>Wintry Wonderland Olympic Moments From Beijing 2022</u></a></li>
 </ul></div>
 

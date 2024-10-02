@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends No Sound Problem Resolved: Steps to Get Your Game Cacophonous Again!"
-date: 2024-09-21T22:13:07.909Z
-updated: 2024-09-26T19:43:09.710Z
+date: 2024-09-25T22:03:52.203Z
+updated: 2024-10-01T20:21:07.512Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 4. **[Modify Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Troubleshoot the connection
 
  First things first. Before trying anything more complicated, you need to do some basic troubleshooting steps:
@@ -52,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
  If you’re pretty sure that everything is OK, but there’s still no sound in the game, don’t worry. Let’s move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your audio driver
@@ -63,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
  If the audio driver on your PC is missing, corrupted or outdated, it may cause the no sound issue in It Takes Two. If you haven’t updated your audio driver for a long time, you should update the audio driver.
 
  There are two ways to update your audio driver: **[manually](https://tools.techidaily.com/drivereasy/download/)**  and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Download and install the audio driver manually
 
@@ -88,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update audio driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -120,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
  Launch It Takes Two to see if this fix works. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Modify Windows sound settings
 
  The incorrect audio settings on your computer may also trigger the no sound issues. You can follow the instructions below to check your audio settings:
@@ -129,60 +115,57 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 2. **Right-click** anywhere under the**Playback** tab of the Sound window, and make sure you select **Show Disabled Devices** and **Show Disconnected Devices** options.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows sound settings playback](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-sound-settings-playback.jpg)
 3. If your audio device is disabled, **right-click** on it and select **Enable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enable audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/Enable-audio-device.jpg)
 4. Select the speaker / headset you’re using and click **Set Default** .  
-![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
-5. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
+5. Click **OK** to save the changes.
 
 6. Launch It Takes Two.
 7. On your desktop, **right-click** **the speaker icon** on the lower-right corner, and then select **Open Volume Mixer** .  
 ![Open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-volume-mixer.jpg)
 8. If It Takes Two is muted, click **the speaker icon** under it to unmute it.  
-![Unmute It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Unmute-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Unmute It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Unmute-It-Takes-Two.jpg)
+
  Now see if the in-game audio works as expected. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Verify the integrity of game files
 
@@ -192,6 +175,14 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
 ![Steam It Takes Two game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-It-Takes-Two-game-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![It Takes Two Verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/It-Takes-Two-Verify-integrity-of-game-files.jpg)
 
  Launch It Takes Two after the verifying process is completed to see if this fix works.
@@ -219,22 +210,22 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-elite-tech-for-saving-your-on-camera-video-memories/"><u>[New] 2024 Approved Elite Tech for Saving Your On-Camera Video Memories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tale-of-htc-vive-and-total-immersion/"><u>[New] The Ultimate Tale of HTC Vive and Total Immersion</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigate-the-transfer-of-quick-images-from-popular-chat-app/"><u>[Updated] 2024 Approved Navigate the Transfer of Quick Images From Popular Chat App</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[Updated] From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-synchronized-system-apple-watch-and-mac-unlocking/"><u>2024 Approved Synchronized System Apple Watch and Mac Unlocking</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-a-broken-corsair-virtuoso-microphone-a-comprehensive-guide/"><u>Diagnosing and Fixing a Broken Corsair Virtuoso Microphone: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-nokia-c12-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Nokia C12 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-in-realtek-digital-output-systems-and-enjoy-sound-again/"><u>How to Resolve 'No Audio' In Realtek Digital Output Systems and Enjoy Sound Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-when-discords-push-to-talk-is-unresponsive/"><u>How To Resolve Issues When Discord's Push-to-Talk Is Unresponsive?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-silent-realtek-digital-speaker-audio-solutions/"><u>How to Resolve Silent Realtek DIGITAL SPEAKER - Audio Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 mini Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-g54-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola G54 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/reimagining-focus-the-new-age-of-zooming-clear/"><u>Reimagining Focus The New Age of Zooming Clear</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restarting-the-roar-of-battle-a-guide-to-fix-hearthstone-noise-issues/"><u>Restarting the Roar of Battle: A Guide to Fix Hearthstone Noise Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-boosting-audio-output-in-windows-10/"><u>Troubleshooting Steps for Boosting Audio Output in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-how-to-restore-microphone-function-in-your-airpods/"><u>Troubleshooting Windows 11: How to Restore Microphone Function in Your AirPods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-back-your-soundscape-a-step-by-step-guide-for-fixing-audio-in-windows-11/"><u>Winning Back Your Soundscape: A Step-by-Step Guide for Fixing Audio in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-high-quality-game-capture-apps-reviewed/"><u>[New] 2024 Approved High-Quality Game Capture Apps Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-brainiac-challenge-gk-quizzes/"><u>[New] Ultimate Brainiac Challenge - GK Quizzes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-video-streaming-channel-lists-films-and-series-for-2024/"><u>[New] Ultimate Video Streaming Channel Lists Films & Series for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twittickle-your-personalized-toolkit-for-cutest-tweets/"><u>2024 Approved TwitTickle Your Personalized Toolkit for Cutest Tweets</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-top-android-video-editing-apps-for-free-and-paid-users-for-2024/"><u>Best Top Android Video Editing Apps for Free and Paid Users for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-audio-issues-resolved-a-guide-to-restoring-game-sound-on-windows-10/"><u>Cyberpunk 2077 Audio Issues Resolved? A Guide to Restoring Game Sound on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-your-sound-blaster-microphone-fails/"><u>Effective Fixes When Your Sound Blaster Microphone Fails</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-oppo-a38-by-drfone-android/"><u>Full Guide to Unlock Your Oppo A38</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-playstation-vita-audio-glitches-tips-and-tricks/"><u>Quick Fixes for PlayStation Vita Audio Glitches - Tips & Tricks!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revitalize-your-audio-experience-by-eliminating-headphone-disturbances-quickly/"><u>Revitalize Your Audio Experience by Eliminating Headphone Disturbances Quickly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/slash-and-save-how-to-edit-youtube-videos-quickly/"><u>Slash and Save How to Edit YouTube Videos Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-dolby-sound-barriers-how-to-start-your-dolby-audio-driver-on-a-windows-11-pc/"><u>Solving Dolby Sound Barriers: How to Start Your Dolby Audio Driver on a Windows 11 PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-notch-value-in-depth-look-at-the-philips-hf3520-timepiece-review/"><u>Top-Notch Value: In-Depth Look at the Philips HF3520 Timepiece Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-nonfunctional-headphone-jack-on-your-laptop-a-comprehensive-guide/"><u>Troubleshooting a Nonfunctional Headphone Jack on Your Laptop: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-dell-audio-issues-on-windows-7/"><u>Troubleshooting and Resolving Dell Audio Issues on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-to-activate-dolby-digital-hd-decoding-in-windows-operating-system/"><u>Troubleshooting Techniques to Activate Dolby Digital HD Decoding in Windows Operating System</u></a></li>
 </ul></div>
 

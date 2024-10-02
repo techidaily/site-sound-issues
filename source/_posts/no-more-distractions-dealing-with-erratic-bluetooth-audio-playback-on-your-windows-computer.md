@@ -1,7 +1,7 @@
 ---
 title: "No More Distractions: Dealing with Erratic Bluetooth Audio Playback on Your Windows Computer"
-date: 2024-09-23T23:32:06.212Z
-updated: 2024-09-26T16:00:15.029Z
+date: 2024-09-26T20:47:02.470Z
+updated: 2024-10-01T16:06:30.181Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 6. [**Change your default playback device**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Check if it’s a video problem**
 
  There are many reasons why a Facebook video has no sound, and the most common one is that the video is incorrectly encoded, or is silent at the first place. In that case, you can try other videos and see if they have audio issues as well.
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
  Also don’t forget to check the video volume control in Facebook. It pops up at the bottom when you hover your mouse cursor over the video. Make sure you set the video volume correctly.
 
  If the volume is set correctly and your no sound issue reappears on other videos, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2:**Unmute your browser**
 
@@ -63,19 +63,6 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t fix your problem, please take a look at the next one.
 
 ### Fix 3: **Change to another browser**
@@ -85,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
  For a better testing result, you should stop using Internet Explorer and shift to other modern counterparts, such as[Firefox](https://www.mozilla.org/en-US/firefox/new/) ,[Chrome](https://www.google.com/chrome/) and[Opera](https://www.opera.com/) .
 
  If the problem persists after changing your browser, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4:**Restart your computer**
 
@@ -117,6 +97,14 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
@@ -135,23 +123,24 @@ This method also applies to Windows 10, 8 or 7
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**mmsys.cpl** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
-3. Play some videos and see if it fixed your no sound issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
+3. Play some videos and see if it fixed your no sound issue.
 
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7:**Change your audio channel**
@@ -169,16 +158,23 @@ Here’s how to do it:
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -201,22 +197,14 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-unveiling-the-secrets-to-audio-visual-cohesion-on-facebook-for-2024/"><u>[New] Unveiling the Secrets to Audio-Visual Cohesion on Facebook for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-dell-audio-not-working-quickly-and-easily/"><u>[Solved] Dell Audio Not Working – Quickly & Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-1-mic-not-working/"><u>[SOLVED] SteelSeries Arctis 1 Mic Not Working</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-combatting-blurry-and-warped-youtube-videos/"><u>[Updated] Combatting Blurry and Warped YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-journey-through-virtual-realms-on-youtubes-channel/"><u>[Updated] Journey Through Virtual Realms on YouTube's Channel</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-functionality-of-realtek-microphones/"><u>Expert Tips to Restore Functionality of Realtek Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016151849-get-back-to-gaming-with-full-voice-support-in-fortnite/"><u>Get Back to Gaming with Full Voice Support in Fortnite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-magixs-legacy-in-vectors-finding-future-software/"><u>In 2024, Magix's Legacy in Vectors Finding Future Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-mac-video-metadata-editors-for-beginners-and-pros-alike/"><u>New 2024 Approved The Best Mac Video Metadata Editors for Beginners and Pros Alike</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015799275-solve-bluetooth-earphone-lag-quickly-and-easily-today/"><u>Solve Bluetooth Earphone Lag Quickly & Easily Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016424663-solving-persistent-audio-disruptions-on-your-windows-11-pc-easy-fixes-inside/"><u>Solving Persistent Audio Disruptions on Your Windows 11 PC - Easy Fixes Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-superpeople-dx9-issue-a-step-by-step-guide/"><u>Solving the 'Superpeople DX9 Issue' - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-audio-problems-ensuring-proper-functionality-of-external-speakers/"><u>Solving Windows Audio Problems: Ensuring Proper Functionality of External Speakers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-canon-video-editing-handbook-software-tips-and-trends-for-2024/"><u>The Ultimate Canon Video Editing Handbook Software, Tips, and Trends for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solving-the-infamous-code-28error-on-your-pc/"><u>Troubleshooting and Solving the Infamous Code ^[[2][8]Error on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-sounds-solving-the-pop-up-issue/"><u>Troubleshooting Windows Sounds: Solving the Pop-Up Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-flip-7-insights-on-pricing-and-release-schedule-plus-detailed-features-overview/"><u>Upcoming Samsung Galaxy Z Flip 7 - Insights on Pricing & Release Schedule + Detailed Features Overview</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-best-of-both-worlds-screenflow-for-mac-creatives-reviewed-for-2024/"><u>[New] The Best of Both Worlds ScreenFlow for Mac Creatives Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-prime-8-edits-suites-on-linux-os/"><u>[Updated] 2024 Approved Prime 8 Edits Suites on Linux OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-csgo-no-login-error-with-these-5-proven-fixes/"><u>Beat the CSGO No Login Error with These 5 Proven Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-asus-rog-phone-8-pro-frp-by-drfone-android/"><u>How Can We Bypass Asus ROG Phone 8 Pro FRP?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-for-your-malfunctioning-steelseries-arctis-1-microphone/"><u>How to Restore Functionality for Your Malfunctioning SteelSeries Arctis 1 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-troubleshooting-non-working-headphones-in-windows-10-environment/"><u>Solution Guide: Troubleshooting Non-Working Headphones In Windows 10 Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-on-your-astro-a50-headset-quick-solutions-inside/"><u>Solving Audio Problems on Your Astro A50 Headset - Quick Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-dell-audio-issues-on-windows-7-a-step-by-step-guide/"><u>Troubleshooting Dell Audio Issues on Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-win10-users-rejoice-fixing-your-invisible-mouse-cursor-issue-today/"><u>Windows ([Win|10]) Users Rejoice! Fixing Your Invisible Mouse Cursor Issue Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving 'No Sound' Problem on Your Apple Device - Proven Methods
-date: 2024-09-25T22:01:07.287Z
-updated: 2024-09-27T00:16:32.557Z
+date: 2024-09-28T22:27:00.056Z
+updated: 2024-10-02T01:07:09.481Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 * The Windows Audio Enhancements setting is turned on
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -56,6 +56,19 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 
  The screenshots in this post are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Set your microphone as the default device
 
  Before you try other fixes, it’s recommended to check the microphone is set correctly on your Windows PC.
@@ -63,14 +76,22 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 1. At the bottom right corner of your computer screen – namely the notification area – you’ll find the **volume** icon. Right-click it and select **Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Under the**Input** section, drag the sliders of the**Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-input-microphone-volume.jpg)
 3. Make sure the decide is set as default if you have many.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try launching Dota 2 and see if the mic is working properly. If it does, congrats! But if not, you may want to try the next fix, below.
@@ -85,14 +106,22 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 3. Activate **Voice Chat (PARTY)** and set your **Push to Talk** shortcut key for your team.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/voice-chat.jpg)
 4. Select the appropriate **Open Mic Threshold** using the slider at the bottom of this tab to get your microphone to make sure your voice can be recorded at an appropriate level (we recommend about 30%).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/drag.jpg)
 
  When you’re all set, join a squad to see if you can use the mic properly. If not, move on to the next fix.
@@ -129,24 +158,10 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-microphone-privacy.jpg)
 2. Click **Change** to see if the toggle for **Microphone access for this device** has been set to**On** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Under the **Allow Apps To Access Your Microphone** tab, ensure that the toggle is in the **On**  position so that other apps can use your microphone.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-microphone-access-on.jpg)
 
  Check to see if your mic goes back to normal in Dota 2\. If not, you can try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify integrity of game files
 
@@ -157,15 +172,15 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-1.jpg)
 3. Go to the **LOCAL FILES** tab. Then click **VERIFY INTEGRITY OF GAME FILES…**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/cache.png)
 4. Wait for the process to complete.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you verify that all the cache files are in a normal state, please launch Dota 2 and check if your mic is working properly this time. In case the problem persists, you can move on to the next fix.
 
@@ -179,19 +194,6 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 3. Scroll through the list of services to locate **Windows Audio** . Right-click it and click **Restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/win-11-windows-audio-restart.jpg)
 4. Wait for 1-3 seconds for the process to complete.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try the microphone again, and see if it’s working this time. If not, you can uninstall the Dota 2 or[contact Dota 2 support team](https://help.steampowered.com/en/wizard/HelpWithGame/?appid=570) to further fix the microphone not working issue.
 
@@ -220,18 +222,24 @@ Find your**mic not working in Dota 2** ? Teamwork and interactivity are the bigg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-simple-process-for-preserving-tweets-imagesvideos/"><u>[New] 2024 Approved Simple Process for Preserving Tweets' Images/Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-activating-screen-recording-with-internal-devices-in-huawei-mate-and-p-series-mate-1020-p2010/"><u>[Updated] Activating Screen Recording with Internal Devices in Huawei Mate and P Series (Mate 10/20; P20/10)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-complementary-behaviors-with-audio-tales-playing/"><u>[Updated] Ideal Complementary Behaviors with Audio Tales Playing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gratuitous-green-backdrops-available/"><u>2024 Approved Gratuitous Green Backdrops Available</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-resolving-windows-7-sound-problems-efficiently/"><u>Expert Guide: Resolving Windows 7 Sound Problems Efficiently</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/gameaudioondiscord-solving-the-issue-of-voice-chat-recording-during-games/"><u>GameAudioOnDiscord: Solving the Issue of Voice Chat Recording During Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/halt-youtubes-automatic-video-screening-for-2024/"><u>Halt YouTube's Automatic Video Screening for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014172283-how-to-fix-hp-scanner-not-working-2022-tips/"><u>How to Fix HP Scanner Not Working - 2022 Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/navigating-vimeo-tiers-free-plus-and-pro-options-for-2024/"><u>Navigating Vimeo Tiers Free, Plus, and Pro Options for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-when-realtek-audio-device-is-unpluggeddisconnected/"><u>Solution Guide: When Realtek Audio Device Is Unplugged/Disconnected</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-nonfunctional-kotion-g2000-mics/"><u>Step-by-Step Guide to Fixing Nonfunctional Kotion G2000 Mics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-sound-problems-in-resident-evil-village/"><u>Troubleshooting Common Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unleash-potential-access-premium-sound-effects/"><u>[Updated] 2024 Approved Unleash Potential Access Premium Sound Effects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-your-virtual-identity-essential-tech-you-need-top-7/"><u>2024 Approved Crafting Your Virtual Identity - Essential Tech You Need (Top 7)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlock-creative-potentials-youtube-trailers-with-filmora/"><u>2024 Approved Unlock Creative Potentials YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/accurate-techniques-to-update-dell-webcam-software-on-pc/"><u>Accurate Techniques to Update Dell Webcam Software on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-9-series-troubleshooting-steps-for-non-functioning-mic-fixes/"><u>Arctis 9 Series: Troubleshooting Steps for Non-Functioning Mic Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-delay-expert-tips-to-fix-your-audio-glitches/"><u>Beat the Delay: Expert Tips to Fix Your Audio Glitches</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-virtuality-closer-a-tale-of-two-cardboards-and-gear-vrs/"><u>Bringing Virtuality Closer A Tale of Two Cardboards & Gear VRs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhancing-user-engagement-through-fb-slideshows/"><u>Enhancing User Engagement Through FB Slideshows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-fixing-realtek-hd-audio-unplugged-notifications-on-pcs/"><u>Expert Guide: Fixing Realtek HD Audio Unplugged Notifications on PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-8-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 8 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015939838-how-to-get-your-steelseries-arctis-9s-mic-working-again-proven-fixes/"><u>How to Get Your SteelSeries Arctis 9'S Mic Working Again - Proven Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-rec-room-microphone-connected-to-a-computer-comprehensive-tutorial/"><u>How to Repair Your Rec Room Microphone Connected to a Computer: Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bizarre-vertical-reversal-in-insta-videos-a-glitch/"><u>In 2024, Bizarre Vertical Reversal in Insta Videos – A Glitch?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-silencing-speaker-noise-on-your-pc-top-tips-for-windows-10-and-7/"><u>Mastering the Art of Silencing Speaker Noise on Your PC: Top Tips for Windows 10 and 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-advanced-audio-difficulties-a-guide-to-enabling-the-dolby-driver-in-windows-11/"><u>Overcoming Dolby Advanced Audio Difficulties: A Guide to Enabling the Dolby Driver in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015679174-silent-lenovo-laptop-heres-how-to-get-the-audio-working-again/"><u>Silent Lenovo Laptop? Here's How to Get the Audio Working Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-app-installations-in-windows-11-using-winstall/"><u>Simplifying App Installations in Windows 11 Using Winstall</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-sound-dilemma-headphones-attached-but-sound-streams-via-laptops-speakers/"><u>Step-by-Step Solution for Sound Dilemma: Headphones Attached but Sound Streams via Laptop's Speakers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-enhance-your-experience-with-chatgpt-plus-here-are-9-compelling-reasons/"><u>Why Enhance Your Experience with ChatGPT Plus? Here Are 9 Compelling Reasons</u></a></li>
 </ul></div>
 

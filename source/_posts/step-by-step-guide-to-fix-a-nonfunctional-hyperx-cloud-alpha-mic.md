@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fix a Nonfunctional HyperX Cloud Alpha Mic
-date: 2024-09-20T18:06:41.965Z
-updated: 2024-09-26T18:09:59.872Z
+date: 2024-09-25T00:14:39.088Z
+updated: 2024-10-02T01:44:30.448Z
 tags:
   - win11
   - win10
@@ -83,21 +83,14 @@ Follow the steps below to check it.
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 4. Select the**Recording** tab, then select your microphone device and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Sound-settings-Recording-Properties.jpg)
 5. Select the**Levels** tab, use the slider bar to adjust the volume level, and make sure that it’s not set to the mute mode. Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 11 - Adjust microphone volume level](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Adjust-microphone-volume-level.jpg)
@@ -111,6 +104,19 @@ Follow the steps below to check it.
 
 ![Counter-Strike 2 Voice Input Device](https://images.drivereasy.com/wp-content/uploads/2023/11/Counter-Strike-2-Voice-Input-Device-1.jpg)  
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll a bit and find**Voice Transmission Threshold** . Select**Off** .  
 
 ![Counter-Strike 2 - Voice Transmission Threshold - Off](https://images.drivereasy.com/wp-content/uploads/2023/11/Counter-Strike-2-Voice-Transmission-Threshold-Off.jpg)
@@ -118,16 +124,10 @@ Follow the steps below to check it.
  After making these changes, test your microphone. If your problem persists, no worries! Below are some other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Make sure apps have access to the microphone
@@ -140,14 +140,14 @@ Follow the steps below to check it.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Settings-Privacy-and-security-Microphone.jpg)
 3. Toggle on**Microphone access** and**Let apps access your microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Microphone-access-and-Let-apps-access-your-microphone-On.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, make sure that you toggle on**Let desktop apps access your microphone** .  
 
@@ -164,19 +164,6 @@ Follow the steps below to check it.
 
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Right-click the process that you don’t need to run while playing CS2 and select**End task** .  
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Discord-End-task.jpg)
 
@@ -196,13 +183,6 @@ Follow the steps below to check it.
  Or click on the**Check for updates** button and follow the on-screen instructions to download the latest updates for your system. You’ll be asked to restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the reboot, test your microphone and see if your teammates can hear you. If your problem persists, go to the next fix.
 
@@ -225,10 +205,10 @@ Follow the steps below to check it.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/update-audio-driver-automatically-with-Driver-Easy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need any assistance, do not hesitate to reach out to our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -267,6 +247,13 @@ After downloading and installing driver updates, reboot your device.
 
  Wait for the process to complete and your computer will be restarted.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Verify integrity of game files
 
  Verifying the integrity of CS2’s game files can help fix microphone issues by detecting and repairing any corrupted, incomplete, or missing files that may be causing voice chat bugs. The verification checks that all necessary audio-related files are intact since problems with those could disrupt microphone input.
@@ -277,13 +264,6 @@ To do this, all you have to do is:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Counter-Strike-2-properties.jpg)
 2. Select the **Installed Files**  tab and click on the **Verify integrity of game files**  button.  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Counter-Strike-2-verify-integrity-of-game-files.jpg)
 3. Steam will verify the game’s files – this process may take several minutes.
@@ -300,6 +280,14 @@ To fix it, run the System File Checker scan:
 
 ![how to open the Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-command-prompt-open-as-administrator.jpg)
 2. Click**Yes** when you receive the UAC prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type**sfc /scannow** and hit Enter.  
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
@@ -320,6 +308,13 @@ To fix it, run the System File Checker scan:
 3. You’ll get a scan summary listing all the issues it detects. Click **Start Repair** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back guarantee** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Should you require any assistance, feel free to email them at[support@fortect.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -344,18 +339,18 @@ After the repair, restart your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-gaming-power-up-perfecting-your-switch-pro-on-steam-for-2024/"><u>[New] Gaming Power-Up Perfecting Your Switch Pro on Steam for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-secure-your-content-top-tiktok-marker-erasers-for-iphones-and-android-for-2024/"><u>[New] Secure Your Content Top TikTok Marker Erasers for iPhones & Android for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-essential-iphone-screen-recording-manual/"><u>[New] The Essential iPhone Screen Recording Manual</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-restored-step-by-step-solutions-for-silent-windows-11-systems/"><u>Audio Restored! Step-by-Step Solutions for Silent Windows 11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-scams-at-fake-chatgpt-websites/"><u>Avoiding Scams at Fake ChatGPT Websites</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-oneplus-11r-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best OnePlus 11R Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-steam-network-problems-tips-and-solutions-for-smooth-gaming/"><u>Defeating Steam Network Problems - Tips and Solutions for Smooth Gaming</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-redragon-mic-connectivity-problems-in-pc-systems/"><u>How to Repair Redragon Mic Connectivity Problems in PC Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-full-guide-to-creating-minecraft-mashups/"><u>In 2024, Full Guide to Creating Minecraft Mashups</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-with-your-runmus-gaming-headset/"><u>Resolving Audio Problems with Your RunmuS Gaming Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-windows-11-no-sound-step-by-step-troubleshooting-tips-and-solutions/"><u>Solve 'Windows 11 No Sound' - Step-by-Step Troubleshooting Tips and Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unleash-creativity-in-youtube-short-video-production-for-2024/"><u>Unleash Creativity in YouTube Short Video Production for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlock-the-full-potential-of-media-player-through-subtitles/"><u>Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-thumbnails-for-youtube-with-mobile-phones-for-2024/"><u>[New] How to Make Thumbnails for YouTube With Mobile Phones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-creativity-using-mematic-app/"><u>[New] Unleash Creativity Using Mematic App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-secrets-detailed-guide-on-capturing-screens-with-zd/"><u>[New] Unveiling the Secrets Detailed Guide on Capturing Screens with ZD</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pro-tips-for-using-filters-on-zoom-for-crystal-clear-calls-for-2024/"><u>[Updated] Pro Tips for Using Filters on Zoom for Crystal Clear Calls for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-secrets-to-removing-green-screen-effects-on-mac/"><u>[Updated] Unveiling the Secrets to Removing Green Screen Effects on Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-non-functioning-mic-issue-in-windows-11-and-10-during-a-zoom-call/"><u>Fixes for Non-Functioning Mic Issue in Windows 11 & 10 During a Zoom Call</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015814279-fortnite-sound-not-working-heres-how-to-get-it-back/"><u>Fortnite Sound Not Working? Here's How to Get It Back</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-aoc-screen-up-and-running-again-on-windows-11-expert-fixes/"><u>Get Your AOC Screen Up and Running Again on Windows 11 - Expert Fixes!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-window-listening-the-ultimate-list-of-the-best-8-podcasts-8-for-2024/"><u>High Fidelity Window Listening The Ultimate List of the Best 8 Podcasts (#8) for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-hyperx-cloud-alpha-headset-microphone-issues-a-complete-guide/"><u>How to Fix HyperX Cloud Alpha Headset Microphone Issues: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-output-in-windows-7-tackling-noise-free-usb-headphones-problem/"><u>Restoring Audio Output in Windows 7 - Tackling Noise-Free Usb Headphones Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-sony-wh-1000xm34-headphones-fixing-pc-connectivity-issues/"><u>Troubleshooting the Sony WH-1000XM3/4 Headphones - Fixing PC Connectivity Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/where-to-download-your-own-personalized-tyrion-lannister-ringtone/"><u>Where to Download Your Own Personalized Tyrion Lannister Ringtone</u></a></li>
 </ul></div>
 

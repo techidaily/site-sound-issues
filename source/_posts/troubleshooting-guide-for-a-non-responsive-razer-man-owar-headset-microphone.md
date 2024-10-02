@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for a Non-Responsive Razer Man O'War Headset Microphone
-date: 2024-09-20T18:50:54.862Z
-updated: 2024-09-21T16:22:09.715Z
+date: 2024-09-30T00:29:36.842Z
+updated: 2024-10-02T01:00:03.752Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to your headset microphone (for Windows 10 users)
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
@@ -53,18 +60,39 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 1. On your desk, right-click on the**Start** button, and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/open-settings-from-start-button.jpg)
 2. Select the**Privacy & security** section and click**Microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 3. Click the Change button, then make sure the**Microphone for this device** is turned**on** . Also, make sure to put**Let apps access your microphone** at On.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
 4. Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The screenshots above are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Set your microphone device as default
@@ -77,22 +105,22 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 3. Select **Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick Show Disabled Devices.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 5. Right click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Right-click it again and select Set as Default Device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
@@ -116,13 +144,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click the**Activate & Update** button next to your sound device or your headset to update the latest and correct driver for it. You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (You’ll be prompted to upgrade when you click Update All. If you are not sure whether Driver Easy is right for you, our free trial version lets you try out the_full features_ of the Pro version for 7 days. You won’t be charged before your trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Intel-display-audio-1.jpg)
 
@@ -131,16 +152,16 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
  Once you’ve updated the driver for your audio devices, restart your computer. Then log in again and see if the microphone is working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Close other apps that have access to your headset microphone
 
  Sometimes, some communication apps like Discord, Skype, Zoom, etc. can play with your headset microphone when they’re not in use and make your headset mic not working properly. Shutting down all other programs that utilize the headset microphone is the easiest way to do it. Then check whether the problem is solved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Troubleshoot hardware issues
 
@@ -172,5 +193,21 @@ Many **headset** users are reporting that their headset**microphone** is not wor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-textual-transformations-the-photographers-guide-to-image-edits/"><u>[New] Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-aerial-broadcasting-a-dji-drone-guide-for-facebook/"><u>[New] The Art of Aerial Broadcasting A DJI Drone Guide for Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-free-android-capturer/"><u>[Updated] In 2024, Ultimate Free Android Capturer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-peeking-behind-the-curtain-of-virtual-reality-pros-and-cons/"><u>[Updated] Peeking Behind the Curtain of Virtual Reality Pros & Cons</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-compelling-narratives-key-market-words-and-phrases/"><u>2024 Approved Crafting Compelling Narratives Key Market Words and Phrases</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-eliminate-nvpcfsys-bsod-ensuring-seamless-pc-operation-again/"><u>Expert Tips to Eliminate nvpcf.sys BSOD – Ensuring Seamless PC Operation Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-sound-in-stereo-mode-for-home-entertainment-systems/"><u>Fixing 'No Sound' In Stereo Mode for Home Entertainment Systems</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-moto-g14-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Moto G14 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-in-depth-comparison-the-finest-streaming-tv-platforms/"><u>In 2024, In-Depth Comparison The Finest Streaming TV Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-innovating-tiktok-posts-for-twitters-platform/"><u>In 2024, Innovating TikTok Posts for Twitter's Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/outriders-audio-fixes-at-your-fingerttps-a-comprehensive-guide-to-resolving-sound-issues/"><u>Outriders Audio Fixes at Your Fingerttps: A Comprehensive Guide to Resolving Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015963111-overcoming-speakers-not-connected-errors-on-your-pc-running-windows-11-8-or-7-expert-tips-included/"><u>Overcoming 'Speakers Not Connected' Errors on Your PC Running Windows 11, 8 or 7 - Expert Tips Included!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-barracuda-x-microphone-tips-and-solutions-for-windows-users/"><u>Reviving Your Razer Barracuda X Microphone - Tips & Solutions for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-gamers-guide-to-restoring-audio-in-cyberpunk-2077-sound-solutions-explored/"><u>Windows 10 Gamers' Guide to Restoring Audio in Cyberpunk 2077: Sound Solutions Explored</u></a></li>
+</ul></div>
 

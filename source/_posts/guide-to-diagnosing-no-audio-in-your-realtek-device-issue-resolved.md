@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing No Audio in Your Realtek Device [Issue Resolved]
-date: 2024-09-17T21:08:32.088Z
-updated: 2024-09-21T17:48:28.975Z
+date: 2024-09-28T00:45:47.460Z
+updated: 2024-10-01T22:26:13.761Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -45,6 +52,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -57,11 +71,32 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure the Bluetooth Support Service is enabled
 
@@ -73,24 +108,17 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Update your Bluetooth driver
 
@@ -110,6 +138,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
@@ -124,13 +159,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -155,5 +183,20 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-minutes-to-quality-the-stepwise-conversion-of-youtube-shorts/"><u>[New] In 2024, From Minutes to Quality The Stepwise Conversion of YouTube Shorts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-new-buzzwords-for-vlogger-dialogues/"><u>2024 Approved New Buzzwords for Vlogger Dialogues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/convert-your-videos-to-audio-files-at-no-cost-with-easy-mp4-to-mp3-tools-in-windows-11/"><u>Convert Your Videos to Audio Files at No Cost with Easy MP4 to MP3 Tools in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restart-the-dolby-sound-driver-in-windows-11/"><u>How to Troubleshoot and Restart the Dolby Sound Driver in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-innovations-a-deep-dive-with-toms-hardware/"><u>Navigating the World of Computer Innovations: A Deep Dive with Tom's Hardware</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-video-production-with-captivate/"><u>Navigating Video Production with Captivate</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-easy-tutorial-how-to-make-a-talking-cartoon-video-step-by-step/"><u>New 2024 Approved Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-devices-detected-problems-across-windows-operating-systems/"><u>Resolving 'No Audio Devices Detected' Problems Across Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-output-successfully-mended-sound-problem-in-firefox/"><u>Reviving Audio Output: Successfully Mended Sound Problem in Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-silence-stop-your-speakers-from-buzzing/"><u>Simple Steps to Silence: Stop Your Speakers From Buzzing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-loss-of-sound-on-your-desktop-or-laptop/"><u>Troubleshooting Complete Loss of Sound on Your Desktop or Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-non-functioning-mic-on-your-steelseries-arctis-99x-wireless-earphones/"><u>Troubleshooting Tips for Non-Functioning Mic on Your SteelSeries Arctis 9/9X Wireless Earphones</u></a></li>
+</ul></div>
 

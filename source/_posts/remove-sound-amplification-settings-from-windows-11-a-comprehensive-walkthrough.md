@@ -1,7 +1,7 @@
 ---
 title: Remove Sound Amplification Settings From Windows 11 - A Comprehensive Walkthrough
-date: 2024-09-19T20:21:34.060Z
-updated: 2024-09-26T17:26:32.088Z
+date: 2024-09-26T16:08:10.282Z
+updated: 2024-10-01T22:00:49.032Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you have not muted the sound
 
  Sometimes you hear no sound coming through Windows Media Player because you’ve muted the sound unknowingly.
@@ -50,20 +43,40 @@ To make sure the volume is not muted but audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-152.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Play some music in Windows Media Player and see if the  
 **Windows Media Player no sound** issue has been resolved. If yes, then great! But if the problem persists, you should try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -79,13 +92,6 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-155.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
@@ -99,10 +105,10 @@ To make sure the volume is not muted but audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update or reinstall Windows Media Player
@@ -131,18 +137,18 @@ To make sure the volume is not muted but audible:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-vimeos-end-screens-for-creative-directives/"><u>[New] In 2024, Mastering Vimeo's End Screens for Creative Directives</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-concepts-for-captivating-youtube-video-thumbnails-for-2024/"><u>[Updated] Cutting-Edge Concepts for Captivating YouTube Video Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-livestream-on-facebook-from-android-and-ios/"><u>[Updated] How to Livestream on Facebook From Android and iOS?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-maximum-mac-gif-recorder-for-2024/"><u>[Updated] Maximum Mac Gif Recorder for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-master-the-art-of-captivating-instagram-video-audiences/"><u>2024 Approved Master the Art of Captivating Instagram Video Audiences</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functioning-speakers-on-your-windows-11-system/"><u>How to Resolve Non-Functioning Speakers on Your Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-pubg-mobile-with-easy-steps/"><u>How to Restore Voice Chat Functionality in PUBG Mobile with Easy Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-pova-6-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Tecno Pova 6 Pro 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-discords-push-to-talk-step-by-step-solution/"><u>Resolving Issues with Discord's Push-to-Talk - Step by Step Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-when-steelseries-arctis-1-mic-stops-working/"><u>Solution Guide for When SteelSeries Arctis 1 Mic Stops Working</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-pathway-to-youtube-prosperity-a-comprehensive-guide-for-2024/"><u>The Pathway to YouTube Prosperity - A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-livekernelevent-error-144/"><u>Troubleshooting Steps for Correcting LiveKernelEvent Error 144</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-non-responsive-voice-chat-in-call-of-dutys-modern-warfare/"><u>Troubleshooting Steps: Fixing Non-Responsive Voice Chat in Call of Duty's Modern Warfare</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-broadcasting-best-practices-twitch-facebook-integration-for-2024/"><u>[New] Broadcasting Best Practices Twitch-Facebook Integration for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-stream-tech-innovative-hardware-and-software-guide-for-youtubers/"><u>[New] In 2024, Best Stream Tech Innovative Hardware & Software Guide for Youtubers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-whipped-watchers-guide-complete-review-of-frozen-food-filming-tech/"><u>[New] Whipped Watcher's Guide Complete Review of Frozen Food Filming Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-most-lucrative-star-title/"><u>[Updated] In 2024, YouTube's Most Lucrative Star Title</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blueprint-of-unique-recording-gadgets-for-2024/"><u>Blueprint of Unique Recording Gadgets for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooting-when-your-in-ear-headset-mic-goes-silent/"><u>Comprehensive Troubleshooting: When Your In-Ear Headset Mic Goes Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-bose-speaker-not-working/"><u>How to Fix Bose Speaker Not Working</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-5-lite-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 5 Lite To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-reviving-a-broken-rec-room-microphone-in-your-pc-a-step-by-step-guide-to-success/"><u>Mastering the Fix: Reviving a Broken Rec Room Microphone in Your PC - A Step-by-Step Guide to Success!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-problems-when-voice-chat-fails-in-valorant-a-comprehensive-guide/"><u>Solve Your Problems When Voice Chat Fails in Valorant - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-80-pro-straight-screen-edition-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-15-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 15</u></a></li>
 </ul></div>
 

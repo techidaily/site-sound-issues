@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Laptop's Audio Output: Solutions for Broken Headphone Jacks"
-date: 2024-09-21T22:47:49.335Z
-updated: 2024-09-26T21:01:14.679Z
+date: 2024-09-30T21:05:55.901Z
+updated: 2024-10-01T19:54:27.103Z
 tags:
   - win11
   - win10
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 1: Disable the audio device in Device Manager and restart your PC**
@@ -75,27 +75,20 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642d9827b4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand the category “**Sound, video and game controllers** “. Under this category, right-click on the audio device name. A context menu will pop up, then select **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 2: Update the audio driver**
 
@@ -112,10 +105,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-405.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -123,6 +116,13 @@ Follow these steps:
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-406.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully you can fix your laptop no sound issues with the steps above. If you have any questions, please feel free to leave your comment below.
 
@@ -143,16 +143,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-swiveling-screens-mastering-video-rotation-on-instagram-for-2024/"><u>[New] Swiveling Screens Mastering Video Rotation on Instagram for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-iphone-photography-in-the-dark/"><u>[New] The Art of iPhone Photography in the Dark</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streaming-made-easy-with-these-11-advanced-recording-tips/"><u>[Updated] Streaming Made Easy with These 11 Advanced Recording Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-itel-p40plus-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Itel P40+</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/free-online-conversion-convert-webm-files-into-ogg-format-with-movavi/"><u>Free Online Conversion: Convert WEBM Files Into OGG Format with Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-13-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 13 Pro Max or iPad?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/navigating-and-repairing-sound-malfunctions-on-new-operating-systems/"><u>Navigating and Repairing Sound Malfunctions on New Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-in-apex-legends-troubleshooting-steps-to-restore-audio/"><u>No Sound in Apex Legends? Troubleshooting Steps to Restore Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-soundscape-of-windows-11-comprehensive-solutions-for-fixing-audio-problems/"><u>Reviving the Soundscape of Windows 11: Comprehensive Solutions for Fixing Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-restored-audio-capabilities-in-firefox/"><u>Troubleshooting Complete: Restored Audio Capabilities in Firefox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-non-functional-microphone-issues-on-the-steelseries-arctis-7/"><u>Troubleshooting Tips: Solving Non-Functional Microphone Issues on the SteelSeries Arctis 7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-tip-mastering-green-screen-techniques/"><u>[New] In 2024, Fast Tip Mastering Green Screen Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-8-validated-youtube-growth-solutions/"><u>[New] Top 8 Validated Youtube Growth Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-directing-viewers-gaze-in-iphone-compositions-through-leading-lines/"><u>2024 Approved Directing Viewers' Gaze in iPhone Compositions Through Leading Lines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-to-mitigate-vr-disorientation/"><u>2024 Approved Techniques to Mitigate VR Disorientation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/classic-stop-motion-animations-ranking-the-best-15/"><u>Classic Stop-Motion Animations Ranking the Best 15</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fix-for-astro-a20-microphone-that-wont-work/"><u>DIY Fix for Astro A20 Microphone That Won't Work</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-2-crash-solutions-diagnosing-and-correcting-common-technical-glitches-in-the-game/"><u>Dota 2 Crash Solutions: Diagnosing & Correcting Common Technical Glitches in the Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-steps-to-eliminate-the-no-sound-error-and-bring-back-audio-to-your-machine/"><u>Easy Steps to Eliminate the 'No Sound' Error & Bring Back Audio to Your Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-microphone-solutions-when-it-wont-capture-sound/"><u>Fix Your Microphone: Solutions When It Won't Capture Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-when-your-lol-voice-chat-stops-working/"><u>How to Restore Functionality When Your LoL Voice Chat Stops Working</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unveiling-the-most-effective-obs-studio-edits-methods/"><u>In 2024, Unveiling the Most Effective OBS Studio Edits Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silence-solving-back-4-blood-voice-chat-problems/"><u>No More Silence: Solving Back 4 Blood Voice Chat Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-skype-audio-problems-a-comprehensive-fix-for-windows-11-users/"><u>Solve Your Skype Audio Problems: A Comprehensive Fix for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-restart-dolby-digital-driver-issues-on-microsofts-latest-os/"><u>Step-by-Step Solution to Restart Dolby Digital Driver Issues on Microsoft's Latest OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-headphones-in-windows-10/"><u>Troubleshooting Guide: Fixing Non-Functional Headphones in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-numbers-the-ultimate-7-ai-assistants-for-tackling-math-challenges/"><u>Unlock the Power of Numbers: The Ultimate 7 AI Assistants for Tackling Math Challenges</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Astro A20 Microphone Failures Easily and Quickly
-date: 2024-09-25T18:17:21.449Z
-updated: 2024-09-26T21:56:17.328Z
+date: 2024-09-28T19:07:54.648Z
+updated: 2024-10-02T01:03:05.261Z
 tags:
   - win11
   - win10
@@ -46,22 +46,15 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
 
  You can check your microphone to see if it works now. If it doesn’t, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Allow apps to access your microphone
 
@@ -75,10 +68,16 @@ We’ve seen users reporting the microphone not working after they updated to Wi
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Enable the microphone for recording
@@ -90,23 +89,30 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 2. Scroll down and click**More sound settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this fix doesn’t solve your problem, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Update the audio drivers
@@ -133,16 +139,10 @@ If this fix doesn’t solve your problem, try the next one.
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: Repair corrupted system files
@@ -181,24 +181,22 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-step-by-step-approach-to-discard-youtube-watch-later-items-for-2024/"><u>[New] A Step-by-Step Approach to Discard YouTube Watch Later Items for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-iosandroid-tips-attaching-audio-posters-on-facebook-for-2024/"><u>[New] IOS/Android Tips Attaching Audio Posters on Facebook for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-behind-the-screencast-scenes-industry-secrets-revealed/"><u>[Updated] Behind the Screencast Scenes Industry Secrets Revealed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-speedy-strategies-storing-slideshow-scripts/"><u>[Updated] Speedy Strategies Storing Slideshow Scripts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-enhance-your-ios-experience-with-ps2-emulators/"><u>2024 Approved Enhance Your IOS Experience with PS2 Emulators</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premier-hd-picks-for-impeccable-video-recorders/"><u>In 2024, Premier HD Picks for Impeccable Video Recorders</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/internal-laptop-speakers-not-working-heres-how-you-can-get-them-back-on-track/"><u>Internal Laptop Speakers Not Working? Here’s How You Can Get Them Back on Track</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/level-up-your-farming-life-explore-7-14-mods-for-2024/"><u>Level Up Your Farming Life - Explore #7-14 Mods for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-woes-heres-what-you-can-do-about-borderlands-3-pc-issues/"><u>No Sound Woes? Here's What You Can Do About Borderlands 3 PC Issues</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/er-transcriber-platform-video-to-writing-for-2024/"><u>Premier Transcriber Platform Video to Writing for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-microsoft-teams-microphone-expert-fixes-for-windows-11-and-windows-10-pcs/"><u>Revive Your Microsoft Teams Microphone - Expert Fixes for Windows 11 and Windows 10 PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fixing-the-unresponsive-mic-on-corsairs-hs70-model/"><u>Step-by-Step Guide to Fixing the Unresponsive Mic on Corsair's HS70 Model</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-sound-in-windows-after-plugging-speakers-in/"><u>Step-by-Step Guide: Restoring Sound in Windows After Plugging Speakers In</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-on-eliminating-audio-lag-in-your-system/"><u>Step-by-Step Tutorial on Eliminating Audio Lag in Your System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-complete-guide-to-resolving-jabra-earpiece-issues-in-202-(span-stylecolor-666)24(span)/"><u>The Complete Guide to Resolving Jabra Earpiece Issues in 202 <Span Style=color: #666;>24</Span></u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-nonfunctional-voip-in-call-of-duty-warzone-on-both-pc-and-gaming-consoles/"><u>Troubleshooting Steps for Nonfunctional VOIP in Call of Duty: Warzone on Both PC and Gaming Consoles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-issues-with-a-nonfunctioning-logitech-g430-microphone/"><u>Troubleshooting Steps for Resolving Issues with a Nonfunctioning Logitech G430 Microphone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-k11x-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo K11x FRP Bypass</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-8-collage-champions-finding-affordable-premium-video-mosaics-android/"><u>[Updated] Top 8 Collage Champions Finding Affordable, Premium Video Mosaics (Android)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-celebrating-creators-top-notch-otu-designs/"><u>2024 Approved Celebrating Creators Top-Notch OTU Designs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-potential-of-onestream-live-streaming/"><u>2024 Approved Unlocking the Potential of OneStream Live Streaming</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-restoration-techniques-for-fixing-sound-problems-in-windows-media-player/"><u>Audio Restoration Techniques for Fixing Sound Problems in Windows Media Player</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-infinix-note-30i-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Infinix Note 30i</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-restore-tozo-t6-functionality-on-windows-11/"><u>Effective Solutions to Restore Tozo T6 Functionality on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-your-pubg-experience-through-sound-tweaks/"><u>Enhancing Your PUBG Experience Through Sound Tweaks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-functionality-of-a-broken-corsair-hs70-microphone/"><u>Expert Advice on Restoring Functionality of a Broken Corsair HS70 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-voice-chat-glitches-in-call-of-duty-modern-warfare-solutions/"><u>Fix Voice Chat Glitches in Call of Duty - Modern Warfare Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-steelseries-arctis-9s-mic-working-again-proven-fixes/"><u>How to Get Your SteelSeries Arctis 9'S Mic Working Again - Proven Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-11-bluetooth-device-connection-issues/"><u>How to Resolve Windows 11 Bluetooth Device Connection Issues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-crafting-compelling-ad-messages-a-3-phase-copywriting-guide/"><u>In 2024, Crafting Compelling Ad Messages A 3 Phase Copywriting Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-hp-laptops-audio-issues-with-these-proven-fixes/"><u>Resolve Your HP Laptop's Audio Issues with These Proven Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-get-your-astro-a50-microphone-up-and-running-again/"><u>Resolved! How to Get Your Astro A50 Microphone Up and Running Again</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-fast-forward-best-gif-speed-editors-for-any-device/"><u>Updated Fast Forward Best GIF Speed Editors for Any Device</u></a></li>
 </ul></div>
 

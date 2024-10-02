@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Your Bluetooth Device Is Connected, Yet It's Silent - SOLUTION"
-date: 2024-09-17T16:21:41.412Z
-updated: 2024-09-21T16:37:25.806Z
+date: 2024-09-28T19:54:34.615Z
+updated: 2024-10-01T17:24:12.425Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * Your headset is not set as the default device
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to fix your mic issues
 
@@ -68,13 +75,6 @@ Here’s how to do it:
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Set your headset as the default device
 
  In most cases, when you plug your headset into the computer, it will be set as the default device on the computer. But sometimes it can bump into issues. If your SteelSeries Actis Pro mic is not working, your headset may be disabled or not set as the default device.
@@ -84,6 +84,13 @@ Here’s how to do it:
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
@@ -95,13 +102,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
  5) Select the microphone and click **Properties** .
@@ -111,10 +111,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
@@ -137,22 +137,15 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
@@ -168,9 +161,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -203,5 +210,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-seamless-editing-mastering-the-filmora-experience/"><u>[Updated] The Art of Seamless Editing Mastering the Filmora Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversao-de-arquivos-audiovisuais-online-gratuita-movavi/"><u>Conversão De Arquivos Audiovisuais Online Gratuita - Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-how-to-restore-functionality-to-your-non-working-corsair-hs70-microphone/"><u>DIY Repairs: How to Restore Functionality to Your Non-Working Corsair HS70 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-unwanted-noise-techniques-to-silence-buzzing-problems-with-headphone-devices/"><u>Eliminating Unwanted Noise: Techniques to Silence Buzzing Problems with Headphone Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-compilation-top-6-mac-compatible-recorder-software-for-2024/"><u>Essential Compilation Top 6 Mac-Compatible Recorder Software for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-veillez-convertir-mp2-en-flvmov-en-ligne-avec-movavi/"><u>Gratuit Veillez Convertir MP2 en FLV/MOV En Ligne Avec Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-resolving-the-issue-of-airpods-mic-not-working-under-windows-11/"><u>Guide to Resolving the Issue of AirPods Mic Not Working Under Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-switch-off-windows-10-acoustic-upgrades-for-clearer-sounds/"><u>How To Switch Off Windows 10 Acoustic Upgrades for Clearer Sounds</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-webcams-designed-for-smooth-zoom-conferencing/"><u>In 2024, Optimal Webcams Designed for Smooth Zoom Conferencing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-airpods-mic-malfunction-in-windows-10-systems/"><u>Solving the AirPods Mic Malfunction in Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-astro-a50-quiet-conundrum-in-a-flash/"><u>Solving the Astro A50 Quiet Conundrum in a Flash</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016833746-troubleshoot-and-fix-audio-malfunctions-on-windows-11-effective-tips-for-immediate-results/"><u>Troubleshoot and Fix Audio Malfunctions on Windows 11 - Effective Tips for Immediate Results!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-reducing-latency-while-playing-dota-nd4-latest-techniques-unveiled/"><u>Ultimate Guide to Reducing Latency While Playing Dota nD4: Latest Techniques Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k20-simple-fixes-to-stop-playstation-4-like-crashing-issues-on-pc/"><u>WWE 2K20: Simple Fixes to Stop PlayStation 4-Like Crashing Issues on PC</u></a></li>
+</ul></div>
 

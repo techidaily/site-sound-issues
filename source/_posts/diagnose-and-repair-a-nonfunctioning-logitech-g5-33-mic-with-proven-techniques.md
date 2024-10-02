@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair a Nonfunctioning Logitech G5 33 Mic with Proven Techniques
-date: 2024-09-14T20:52:52.550Z
-updated: 2024-09-21T18:30:47.265Z
+date: 2024-09-30T20:41:00.912Z
+updated: 2024-10-01T17:43:54.637Z
 tags:
   - win11
   - win10
@@ -53,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 2. Type or paste**ms-settings:privacy-microphone** , then hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win11-microphone-privacy.jpg)
 3. Ensure microphpne access for this device is**on** . If it is off, then check the**Change** button below to turn it on. You should also**turn on the toggle** under**Allow apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
@@ -60,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
  Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Check Windows sound settings
@@ -73,39 +81,33 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** dialog. Type**control mmsys.cpl sounds** and press**Enter** to open**Windows audio settings** .  
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds.jpg)
 2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
 ![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 4. Then**right-click** it again and select **Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 5. Right-click **Headset Microphone** and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Headset microphone properties](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 6. Click the **Levels** tab, then drag the volume slider towards the _maximum value_ .  
 ![drag the volume slider towards the maximum value.](https://images.drivereasy.com/wp-content/uploads/2020/12/img_5b4db71801655.jpg)
 7. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
 
@@ -121,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
 ![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
@@ -150,5 +159,16 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>[New] 2024 Approved How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ulinary-carousel-swirling-up-top-food-network-names/"><u>[New] Culinary Carousel Swirling Up Top Food Network Names</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-innovative-leaders-in-hexadrones-10/"><u>[Updated] 2024 Approved Innovative Leaders in HexaDrones - 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bridge-the-gap-reactivate-offline-canon-printer/"><u>Bridge the Gap: Reactivate Offline Canon Printer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-sound-dropouts-on-your-windows-10-device-problem-solved/"><u>How To Fix Sound Dropouts On Your Windows 10 Device (Problem Solved!)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-successfully-diagnose-and-resolve-pc-speaker-issues/"><u>How To Successfully Diagnose and Resolve PC Speaker Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-lenovo-laptop-heres-how-to-get-the-audio-working-again/"><u>Silent Lenovo Laptop? Here's How to Get the Audio Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-stubbornly-mute-airpods-in-windows-1011-a-step-by-step-guide/"><u>Troubleshooting Stubbornly Mute AirPods in Windows 10/11 – A Step-by-Step Guide</u></a></li>
+</ul></div>
 

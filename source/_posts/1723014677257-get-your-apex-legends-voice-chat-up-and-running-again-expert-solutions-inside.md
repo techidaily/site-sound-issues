@@ -1,7 +1,7 @@
 ---
 title: Get Your Apex Legends Voice Chat Up and Running Again! Expert Solutions Inside!
-date: 2024-09-20T20:19:34.132Z
-updated: 2024-09-26T22:25:23.254Z
+date: 2024-09-27T16:00:02.919Z
+updated: 2024-10-01T23:56:01.955Z
 tags:
   - win11
   - win10
@@ -43,26 +43,26 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-245.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In**Allow apps to access your microphone** , and turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-246.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to**Allow desktop apps to access your microphone** , turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-248.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By doing so, you have allowed Origin the access to the microphone on your computer.
@@ -72,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -124,13 +124,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Configure in-game settings
 
  It is also important that you configured the audio settings right in order for the microphone to work properly.
@@ -146,15 +139,28 @@ Here is how to configure in-game settings:
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Again, play Apex Legends to see if the voice chat not working issue is resolved.
 
@@ -181,16 +187,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
@@ -229,22 +229,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-link-sharing-instagram-stories-and-posts/"><u>[New] 2024 Approved Mastering Link Sharing Instagram Stories & Posts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-step-by-step-expedition-to-youtubes-unseen-layers/"><u>[New] In 2024, A Step-by-Step Expedition to YouTube's Unseen Layers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-top-ten-accelerating-youtube-sectors-of-thought/"><u>[New] In 2024, The Top Ten Accelerating YouTube Sectors of Thought</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-the-process-windows-movie-maker-content-on-vimeo/"><u>2024 Approved Navigating the Process Windows Movie Maker Content on Vimeo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-to-reactivate-steams-audio-chatting-functionality/"><u>Effective Remedies to Reactivate Steam's Audio Chatting Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-for-bulk-folder-formation-in-windows-1011/"><u>Efficient Methods for Bulk Folder Formation in Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-razer-barracuda-x-mic-compatibility-with-windows-1110/"><u>How to Resolve Non-Functional Razer Barracuda X Mic Compatibility with Windows 11/10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-edge-with-free-best-premiere-pro-resources/"><u>In 2024, Professional Edge with FREE, Best Premiere Pro Resources</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-electronics-your-guide-to-hardware-and-software-insights/"><u>Inside Tom's Electronics: Your Guide to Hardware and Software Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/repair-guide-getting-the-valorant-audio-to-work-correctly/"><u>Repair Guide: Getting the Valorant Audio to Work Correctly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-audio-problems-in-outriders-a-comprehensive-guide/"><u>Solving Common Audio Problems in Outriders: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-resolving-undefined-audio-devices-on-windows-11/"><u>Step-by-Step Solutions for Resolving Undefined Audio Devices on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-two-channel-mix-expert-advice-on-restoring-stereo-functionality/"><u>Trouble with Two-Channel Mix? Expert Advice on Restoring Stereo Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-a-non-functional-microphone-on-your-runmus-gaming-headset/"><u>Troubleshooting Tips: Fixing a Non-Functional Microphone on Your RUNMUS Gaming Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-glitches-on-pc-solutions-to-restore-sea-of-thieves-audio/"><u>Troubleshooting Voice Chat Glitches on PC: Solutions to Restore 'Sea of Thieves' Audio</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-secrets-of-rtx-graphics-cards-by-nvidia-explained/"><u>Unraveling the Secrets of RTX Graphics Cards by Nvidia Explained</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-realme-narzo-60-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme Narzo 60 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-craft-humorous-images-on-no-cost/"><u>[Updated] In 2024, Craft Humorous Images on No-Cost</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-zd-soft-screen-recorder-key-features-and-review/"><u>[Updated] In 2024, ZD Soft Screen Recorder Key Features and Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adobes-quick-guide-for-perfect-photo-colors/"><u>2024 Approved Adobe's Quick Guide for Perfect Photo Colors</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-your-course-in-the-world-of-youtube-tracking-success-and-monetary-value/"><u>Charting Your Course in the World of YouTube Tracking Success & Monetary Value</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-disconnected-nvidia-connection-expert-tips-and-guides/"><u>Fixing a Disconnected Nvidia Connection - Expert Tips and Guides</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone XR</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-sounds-in-battlefield-aturality-is-a-characteristic-of-which-type-of-wine/"><u>Lost Sounds in Battlefield Aturality Is a Characteristic of Which Type of Wine?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-non-functional-audio-in-windows-7-a-guide/"><u>Solving the Problem of Non-Functional Audio in Windows 7: A Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-when-the-hyperx-cloud-alphas-microphone-stops-working/"><u>Step-by-Step Fixes for When the HyperX Cloud Alpha's Microphone Stops Working</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-gt-3-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme GT 3</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-techniques-for-repairing-non-functional-speakers-on-toshiba-notebooks/"><u>Top Techniques for Repairing Non-Functional Speakers on Toshiba Notebooks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpods-microphone-issues-in-windows-11/"><u>Troubleshooting AirPods Microphone Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-crackling-sound-issues-with-the-logitech-g-pro-x-mic-on-pc-tips/"><u>Troubleshooting and Repairing Crackling Sound Issues with the Logitech G Pro X Mic on PC - Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-steelseries-arctis-99x-mic-malfunction-expert-fixes-uncovered/"><u>Troubleshooting Your SteelSeries Arctis 9/9X Mic Malfunction: Expert Fixes Uncovered</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-timeline-6-ways-to-get-your-systems-timer-running/"><u>Windows Timeline: 6 Ways to Get Your System's Timer Running</u></a></li>
 </ul></div>
 

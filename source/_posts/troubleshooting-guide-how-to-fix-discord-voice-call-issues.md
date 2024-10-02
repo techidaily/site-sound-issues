@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix Discord Voice Call Issues"
-date: 2024-09-21T19:32:56.180Z
-updated: 2024-09-26T19:59:27.522Z
+date: 2024-09-26T01:20:23.418Z
+updated: 2024-10-02T01:13:15.601Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,11 +51,25 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
 
@@ -60,28 +81,15 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
@@ -97,6 +105,13 @@ Here’s how to do it:
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
@@ -115,13 +130,6 @@ Here’s how to do it:
  6) Click the **Levels**  tab, and drag the slider to a proper volume.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
@@ -143,16 +151,16 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
@@ -160,13 +168,6 @@ Here’s how to do it:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Make sure to use the correct Default Format
 
@@ -177,13 +178,6 @@ Here’s how to do it:
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -218,20 +212,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-end-credits-designed-for-you-free-top-6-suggestions/"><u>[New] In 2024, End Credits Designed for You Free Top 6 Suggestions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-potential-of-your-online-persona-on-facebook-for-2024/"><u>[Updated] Unlocking the Potential of Your Online Persona on Facebook for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-find-your-next-vector-the-best-10-pics-sites/"><u>2024 Approved Find Your Next Vector The Best 10 Pics Sites</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-zero-cost-frame-perfection-on-youtube-video-viewing/"><u>2024 Approved Zero-Cost Frame Perfection on YouTube Video Viewing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/are-scalping-subscribers-a-viable-strategy-for-2024/"><u>Are Scalping Subscribers a Viable Strategy for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-the-irqlnotlessorequal-fault-error-code-0xc00000005-in-microsoft-operating-systems/"><u>Comprehensive Fixes for the 'IRQL_NOT_LESS_OR_EQUAL' Fault (Error Code 0XC0지0000005) in Microsoft Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-eliminating-headphone-hum-and-whirring-sounds/"><u>Effective Solutions for Eliminating Headphone Hum and Whirring Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-microphone-functionality-in-google-meet-across-windows-1110-platforms/"><u>Expert Tips for Restoring Microphone Functionality in Google Meet Across Windows 11/10 Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-restoring-microphone-functionality-during-a-zoom-call-on-pc/"><u>Guide: Restoring Microphone Functionality During a Zoom Call on PC</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a25-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A25 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-broken-headphone-port-on-your-computer-or-laptop/"><u>How to Repair a Broken Headphone Port on Your Computer or Laptop</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 11 Pro Max and iPad</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g935-microphone-not-detected-heres-how-to-fix-it/"><u>Logitech G935 Microphone Not Detected? Here's How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-devices-detected-problem-on-pcs-with-windows-11-8-or-7/"><u>Resolving 'No Audio Devices Detected' Problem on PCs with Windows 11, 8, or 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sounds-on-your-computer-after-a-recent-windows-11-update-easy-steps/"><u>Restoring Sounds on Your Computer After a Recent Windows 11 Update: Easy Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fix-chrome-non-playing-androidios-videos/"><u>[New] Fix Chrome Non-Playing Android/iOS Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-hone-your-meme-skills-quickly-using-9gag-strategies/"><u>[New] In 2024, Hone Your Meme Skills Quickly Using 9GAG Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-youtubes-finest-story-sages-and-weavers-in-23-for-2024/"><u>[New] Unveiling YouTube's Finest Story Sages and Weavers in '23 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-videography-101-editing-essentials-taught/"><u>[New] YouTube Videography 101 Editing Essentials Taught</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans-for-2024/"><u>[Updated] From Passive to Active Earnings Unlocking Youtube with 500+ Fans for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-6s-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 6s</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015497673-corsair-void-mic-trouble-heres-how-you-can-repair-it-easily/"><u>Corsair Void Mic Trouble? Here's How You Can Repair It Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easily-enable-or-disable-closed-captions-on-disneyplus-a-step-by-step-guide/"><u>Easily Enable or Disable Closed Captions on Disney+: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-skype-no-sound-issues-easily/"><u>Fixed: Skype No Sound Issues Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-note-13-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi Note 13 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-when-your-fortnite-game-is-mute-or-silent/"><u>Quick Fixes When Your Fortnite Game Is Mute or Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-glitches-and-audio-quirks-in-windows-107-a-complete-fix-guide/"><u>Resolving Sound Glitches & Audio Quirks in Windows 10/7 – A Complete Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-functionality-tips-and-tricks-for-repairing-a-dysfunctional-headset-microphone/"><u>Restoring Functionality: Tips and Tricks for Repairing a Dysfunctional Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hyperx-cloud-stinger-mic-step-by-step-troubleshooting-guide/"><u>Revive Your HyperX Cloud Stinger Mic - Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-audio-proven-techniques-for-toshiba-laptop-repair/"><u>Reviving the Audio: Proven Techniques for Toshiba Laptop Repair</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-microsoft-store-errors-a-comprehensive-solution-walkthrough/"><u>Solving Microsoft Store Errors: A Comprehensive Solution Walkthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-sound-on-your-windows-10-system-solved/"><u>Troubleshooting Non-Functional Sound on Your Windows 10 System - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configurations-in-windows-1/"><u>Troubleshooting Unknown Speaker Configurations in Windows 1</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mysteries-of-machine-learning-ais/"><u>Unraveling the Mysteries of Machine Learning AIs</u></a></li>
 </ul></div>
 

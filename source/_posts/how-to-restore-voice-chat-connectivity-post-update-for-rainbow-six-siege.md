@@ -1,7 +1,7 @@
 ---
 title: How to Restore Voice Chat Connectivity Post-Update for Rainbow Six Siege
-date: 2024-09-19T18:44:24.249Z
-updated: 2024-09-21T20:26:05.684Z
+date: 2024-09-25T03:32:45.304Z
+updated: 2024-10-01T23:21:50.975Z
 tags:
   - win11
   - win10
@@ -51,12 +51,28 @@ You can follow these steps to check:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-system-sound-1.jpg)
 2. From the left menu, click**Sound** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-click-sound.jpg)
 3. First you need to test your microphone. Under the**Input** section, set your input device to the**physical one (e.g. Headset)** instead of the virtual Microphone of Voicemod. Then click**Device properties and test microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-test-mic-1.jpg)
 4. Make sure you’ve **unchecked the box** next to **Disable** , and the slider under the **Volume** section is set to **100** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 5. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx>0) percent** , it means your microphone is working correctly.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
 6. At the bottom right corner of your screen, right-click the sound icon and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bottom-right-corner-sounds.jpg)
@@ -71,13 +87,6 @@ Now you can restart Voicemod and see if it’s working.
 
 If the problem is still there, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check settings of the target program
 
  For your Voicemod to work properly, you should also make sure the target program is configured properly. Software like Discord has its own voice settings, which you should check after installing Voicemod.
@@ -91,6 +100,13 @@ Here’s an example of Discord:
 
 If this doesn’t work for you, simply move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Voicemod drivers
 
  In some cases, the problem indicates you’re using**faulty or outdated drivers** . To fix that, you can simply reinstall the Voicemod driver.
@@ -101,24 +117,18 @@ First you need to uninstall the Voicemod driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-run-box-ok.jpg)
 2. Click to expand**Audio inputs and outputs** . Right-click**Microphone (Voicemod Virtual Audio Device (WDM))** and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-reinstall-1.jpg)
 3. In the pop-up window, click**Uninstall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-reinstall-2.jpg)
-4. Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-reinstall-2.jpg)
+4. Restart your PC.
 
  Next you’ll need to install the Voicemod driver. You can do that manually or automatically.
 
@@ -135,13 +145,6 @@ First you need to uninstall the Voicemod driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-voicemod-update-all.jpg)
 
@@ -150,10 +153,10 @@ First you need to uninstall the Voicemod driver:
  Once you’ve installed the Voicemod driver, restart your PC and see if you can change your voice with Voicemod.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Make sure Windows is up to date
@@ -173,11 +176,25 @@ Here’s a quick guide for that:
 
 If this fix doesn’t work for you, simply try the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Overwrite current version with fresh install
 
  Some users reported that reinstalling could fix the Voicemod issue. You can try the same and see if this works. Note that this time we’re taking a different approach—instead of uninstalling, we just**overwrite the current version with the latest** .
 
  To do so, simply go to the[**Voicemode website**](https://www.voicemod.net/) and download the latest installer. Next open it and follow the on-screen instructions to proceed. This will automatically overwrite the previous build.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Scan and repair your system
 
@@ -190,6 +207,13 @@ If this fix doesn’t work for you, simply try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -210,5 +234,23 @@ If this fix doesn’t work for you, simply try the next one below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-breaking-down-the-best-starter-drone-a-syma-x5c-review/"><u>[New] Breaking Down the Best Starter Drone – A Syma X5C Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-kingdom-the-path-to-youtube-mastery/"><u>[New] In 2024, Crafting Kingdom The Path to YouTube Mastery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-editors-handbook-utilizing-strikethrough-and-callout-tools/"><u>[Updated] 2024 Approved The Editor's Handbook Utilizing Strikethrough and Callout Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/august-25th-dwayne-johnson-an-american-actor-known-for-his-roles-in-various-films-he-was-born-to-former-professional-wrestler-rocky-johnson-and-ata-maivia.m651/"><u>August 25Th - Dwayne Johnson, an American Actor Known for His Roles in Various Films. He Was Born to Former Professional Wrestler Rocky Johnson and Ata Maivia.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversione-gratuita-di-dvd-ad-h265hevc-mp4-con-la-massima-qualita-come-trasformare-i-tuoi-film/"><u>Conversione Gratuita Di DVD Ad H.265/HEVC MP4 Con La Massima Qualità: Come Trasformare I Tuoi Film</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-audio-gear-reviving-a-dead-steelseries-halo-30-microphone/"><u>Getting the Most Out of Your Audio Gear: Reviving a Dead SteelSeries Halo 30 Microphone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guida-rapido-come-rendere-piu-piccoli-i-file-dei-tuoi-video-senza-perdita-di-qualita/"><u>Guida Rapido: Come Rendere Più Piccoli I File Dei Tuoi Video Senza Perdita Di Qualità</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-green-screen-techniques-in-kinemaster-a-step-by-step-guide/"><u>In 2024, Mastering Green Screen Techniques in Kinemaster - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-integration-setting-up-microsoft-forms-and-excel-online-auto-sync/"><u>Seamless Integration: Setting Up Microsoft Forms & Excel Online Auto-Sync</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-and-flaws-in-windows-10-a-comprehensive-guide/"><u>Troubleshooting Audio Glitches & Flaws in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-in-discord-a-guide-for-silent-users/"><u>Troubleshooting Audio Problems in Discord - A Guide for Silent Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restoring-sound-in-your-windows-11-system/"><u>Troubleshooting Guide: Restoring Sound in Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hp-laptop-sound-problems-effective-solutions/"><u>Troubleshooting HP Laptop Sound Problems: Effective Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unsticking-stuck-playback-a-guide-to-fixing-pebble-speakers/"><u>Unsticking Stuck Playback: A Guide to Fixing Pebble Speakers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-invites-best-video-maker-apps-for-ios-and-android/"><u>Updated Create Stunning Invites Best Video Maker Apps for iOS and Android</u></a></li>
+</ul></div>
 

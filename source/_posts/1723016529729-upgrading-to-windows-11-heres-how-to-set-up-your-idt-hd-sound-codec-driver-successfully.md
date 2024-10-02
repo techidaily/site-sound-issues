@@ -1,7 +1,7 @@
 ---
 title: Upgrading to Windows 11? Here's How to Set Up Your IDT HD Sound Codec Driver Successfully!
-date: 2024-09-20T22:21:25.828Z
-updated: 2024-09-26T21:26:27.170Z
+date: 2024-09-28T02:52:55.737Z
+updated: 2024-10-01T20:12:48.338Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Faulty audio driver can be the lead cause of this problem. You can reinstall its
 2) Expand**Sound, video and game controllers** and locate**IDT High Definition Audio CODEC**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784665dcbc35.png)3) Right-click **IDT High Definition Audio CODEC** and select**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784923683fba.png)Select**OK**when the confirmation window pops up. 4) Restart your computer after this change to make sure that Windows Update help you with the update of the driver for your audio device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 2: Update driver automatically (Recommended)**
@@ -46,10 +46,10 @@ If reinstalling driver doesn’t help you with it, you should try update your au
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e04542e1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged sound card driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**_Update All_**).
@@ -57,10 +57,10 @@ If reinstalling driver doesn’t help you with it, you should try update your au
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e18a76b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve encountered any questions while using Driver Easy, please feel free to contact our support team at <support@drivereasy.com> for further assistance. Our support team would be happy to help you resolve this issue.**Please attach the URL of this article** so we could assist you better.
@@ -82,16 +82,16 @@ If you have any ideas or questions, please feel free to leave your comments belo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-prove-your-skills-with-flawless-ps4-screen-capture-for-gamers/"><u>[Updated] 2024 Approved Prove Your Skills with Flawless PS4 Screen Capture for Gamers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-cheerful-media-extractor-analysis-for-2024/"><u>[Updated] Cheerful Media Extractor Analysis for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigate-to-exciting-windows-11-gaming-world/"><u>[Updated] In 2024, Navigate to Exciting Windows 11 Gaming World</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-photographys-new-frontier-illustration-and-motion-blurring-techniques/"><u>[Updated] Photography's New Frontier Illustration and Motion Blurring Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-methods-to-get-your-voicemod-running-smoothly-again-a-users-guide/"><u>Effective Methods to Get Your Voicemod Running Smoothly Again: A User's Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/experiencing-trouble-with-steams-voice-chat-heres-how-to-fix-it/"><u>Experiencing Trouble With Steam's Voice Chat? Here's How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-windows-media-player-a-comprehensive-guide/"><u>Fixing Silent Windows Media Player: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/meilleures-solutions-logicielles-pour-confectionner-les-plus-efficaces-intros-de-youtube-top-5-classes/"><u>Meilleures Solutions Logicielles Pour Confectionner Les Plus Efficaces Intros De YouTube - Top 5 Classés</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-cyberpunk/"><u>Solve Your Cyberpunk</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-boosting-sound-quality-and-volume-on-windows-11-devices/"><u>Step-by-Step Tutorial: Boosting Sound Quality and Volume on Windows 11 Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-aether-learn-about-it-and-how-to-become-part-of-it/"><u>Unveiling the Secrets of Aether: Learn About It and How To Become Part Of It</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-maximize-ps5-space-premier-top-10-hdds/"><u>[New] 2024 Approved Maximize PS5 Space Premier Top 10 HDDs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-resolving-corsair-hs35-microphone-problems-in-windows-environments/"><u>Expert Advice for Resolving Corsair HS35 Microphone Problems in Windows Environments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/generate-official-travel-ready-portraits-download-10-free-photos-today/"><u>Generate Official Travel-Ready Portraits – Download 10 FREE Photos Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-audio-glitches-of-resident-evil-village-easily/"><u>How to Fix the Audio Glitches of Resident Evil Village Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-ai-features-guide-to-utilizing-bings-intelligent-toolkit-on-your-android-device/"><u>Mastering the AI Features: Guide to Utilizing Bing's Intelligent Toolkit on Your Android Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/seamless-transition-cropping-and-exporting-to-instagram-videos/"><u>Seamless Transition Cropping & Exporting to Instagram Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/struggling-with-a-non-cooperative-blue-yeti-mic-follow-these-steps-for-quick-repairs/"><u>Struggling with a Non-Cooperative Blue Yeti Mic? Follow These Steps for Quick Repairs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-squad-microphone-malfunctions-effectively/"><u>Troubleshoot and Resolve Squad Microphone Malfunctions Effectively</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-a-pause-on-end-to-end-encryption-makes-sense-for-meta-in-23/"><u>Why a Pause on End-to-End Encryption Makes Sense for Meta in '23</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-the-battle-against-silent-mode-fixing-windows-11s-sound-issues/"><u>Winning the Battle Against Silent Mode: Fixing Windows 11'S Sound Issues</u></a></li>
 </ul></div>
 

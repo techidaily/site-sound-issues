@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Woes: Solving World of Warcraft Audio Issues"
-date: 2024-09-15T20:21:34.375Z
-updated: 2024-09-21T16:05:52.762Z
+date: 2024-09-27T18:08:04.018Z
+updated: 2024-10-01T17:57:55.726Z
 tags:
   - win11
   - win10
@@ -46,9 +46,24 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5ca944cbd9.jpg)
 3. Click the**Update** button next to your audio device to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5cb179f761.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, you can use the built-in**Speech Recognition** tool to test your microphone:
 
@@ -57,6 +72,20 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 2. Click**Set up microphone** , and follow the Microphone Setup Wizard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b23de4e69.jpg)
 3. When you reach “Adjust the microphone volume”, please note if the volume bar moves from yellow to red.  
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b3b757a02.jpg)
 4. Is the Setup wizard complete? If your microphone works properly, congratulations! If not, you can follow Method 2 below to check your audio settings.
 
@@ -71,8 +100,24 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 2. Click the **Recording** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca5ddbaee.jpg)
 3. Right-click on the device you want to use, and select **Set as Default Device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca767b35a.jpg)  
 **Note:** You can try speaking into your microphone to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6caa71d6b3.jpg)
 4. Right click on and **disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the **Playback** tab).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6cabba2f9f.jpg)
@@ -93,34 +138,28 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d22eaa914.jpg)
 3. In the left pane, click **Microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d24e48342.jpg)
 4. In the right pane, click the **Change** button, and you’ll see your mic is turned on. Also make sure **All apps to access your microphone** is enabled.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d2820592a.jpg)
 5. In the section of **Choose which apps can access your microphone** , verify that  the program where you need to use mic is**turned on** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Test your microphone in that program.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Check in-game settings
@@ -164,5 +203,24 @@ Check to see if your mic can pick up voice now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-micro-videos-whats-the-gist/"><u>[Updated] 2024 Approved Micro Videos What's the Gist?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-creating-flipbooks-from-scratch-using-windows-movie-maker/"><u>[Updated] In 2024, Creating Flipbooks From Scratch Using Windows Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-urgent-top-10-lost-iphone-x-solutions-revealed/"><u>2024 Approved Urgent Top 10 Lost iPhone X Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016346687-cod-vanguard-voice-communication-problems-solved/"><u>Cod: Vanguard Voice Communication Problems Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-speaker-issues-within-the-latest-windows-operating-system/"><u>Expert Advice on Resolving Speaker Issues Within the Latest Windows Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-your-creative-pebble-speakers-solutions-and-troubleshooting-tips/"><u>Fixing Issues with Your Creative Pebble Speakers: Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-compatible-hp-officejet-pro-8740-printer-drivers-for-latest-windows-systems/"><u>Free Download: Compatible HP Officejet Pro 8740 Printer Drivers for Latest Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-deactivating-sonic-boosters-in-your-new-windows-11-experience/"><u>Guide: Deactivating Sonic Boosters in Your New Windows 11 Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-14-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 14 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-a05-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy A05 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016566028-pc-microphone-silent-on-zoom-heres-how-you-can-rectify-the-problem/"><u>PC Microphone Silent on Zoom? Here's How You Can Rectify the Problem!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-underwhelming-volume-advanced-tweaks-for-your-pc-audio-on-windows-11/"><u>Resolving Underwhelming Volume: Advanced Tweaks for Your PC Audio on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-audio-expert-tips-for-troubleshooting-silence-in-battlefield-4/"><u>Revive Your Audio: Expert Tips for Troubleshooting Silence in Battlefield 4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-5-fixes-to-restore-sound-on-your-windows-10-system/"><u>The Ultimate 5 Fixes to Restore Sound on Your Windows 10 System</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-reentry-guide-regaining-access-on-omegle-after-a-ban-for-2024/"><u>Updated Reentry Guide Regaining Access on Omegle After a Ban for 2024</u></a></li>
+</ul></div>
 

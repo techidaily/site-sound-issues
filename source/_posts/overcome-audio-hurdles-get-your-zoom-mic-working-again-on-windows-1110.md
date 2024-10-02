@@ -1,7 +1,7 @@
 ---
 title: "Overcome Audio Hurdles: Get Your Zoom Mic Working Again on Windows 11/10"
-date: 2024-09-24T23:24:17.100Z
-updated: 2024-09-26T22:20:49.794Z
+date: 2024-09-25T00:36:01.210Z
+updated: 2024-10-01T16:43:26.929Z
 tags:
   - win11
   - win10
@@ -43,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
@@ -60,25 +66,26 @@ If the output device works as expected, simply continue to the next step.
 1. On the taskbar, click the search icon and type**troubleshooting** . Select**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-1.jpg)
 2. Select**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Configure output device properly
 
@@ -89,19 +96,27 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows key and the i key) to open Windows Settings. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-1.jpg)
 2. Under**Output** , make sure to select your desired output device. Then click the device to view its property.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
-3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
+3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
 If the issue lingers on, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -116,25 +131,11 @@ If the issue lingers on, check out the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all the drivers, restart your PC and check if the issue persists.
 
  If the latest drivers can’t fix the problem, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for the latest system updates
 
@@ -143,6 +144,14 @@ If the issue lingers on, check out the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 ### Fix 6: Scan and pair Windows
@@ -157,13 +166,6 @@ If the issue lingers on, check out the next fix below.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ### Fix 7: Reset Windows
@@ -177,17 +179,26 @@ If the issue lingers on, check out the next fix below.
 1. On your taskbar, click the search icon and type**reset** . Click**Reset this PC** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-1.jpg)
 2. Under**Recovery options** , click**Reset PC** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
-3. In the pop-up window, select**Remove everything** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
-4. Click**Cloud download** . This will get you the latest system files.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
+3. In the pop-up window, select**Remove everything** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
+4. Click**Cloud download** . This will get you the latest system files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
 5. Follow the on-screen instructions to reset your PC.
@@ -213,21 +224,14 @@ If the issue lingers on, check out the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>[New] Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-steps-for-writing-engaging-video-blogging-content/"><u>2024 Approved Steps for Writing Engaging Video Blogging Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ahead-of-the-curve-professional-360-cams-reviewed-2023-edition-for-2024/"><u>Ahead of the Curve Professional 360° Cams Reviewed - 2023 Edition for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-corsair-hs35-microphone-issues-in-windows-troubleshooting-guide/"><u>Fixing Corsair HS35 Microphone Issues in Windows - Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-issues-for-conexant-smartsound-hd-card-users-on-the-latest-windows-11/"><u>Fixing No Audio Issues for Conexant SmartSound HD Card Users on the Latest Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-access-and-utilize-bing-artificial-intelligence-on-your-android-devices-keyboard/"><u>How To Access and Utilize Bing Artificial Intelligence on Your Android Device’s Keyboard</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-c210-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on C210?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-f25-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo F25 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-hp-laptop-heres-how-you-can-fix-it-for-good/"><u>No Sound on Your HP Laptop? Here's How You Can Fix It for Good!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-turtle-beach-mic-expert-fixes-for-common-connectivity-glitches/"><u>Revive Your Turtle Beach Mic: Expert Fixes for Common Connectivity Glitches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-fix-for-crackling-headphones-a-comprehnose-guide-to-silky-audio/"><u>Simple Fix for Crackling Headphones: A Comprehnose Guide to Silky Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-conexant-smartaudio-hd-audio-problem-in-windows-11/"><u>Solving the Conexant SmartAudio HD Audio Problem in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-reduced-audio-levels-in-windows-11-systems/"><u>Step-by-Step Guide: Fixing Reduced Audio Levels in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-navigating-openais-exclusive-custom-gpt-offerings-today/"><u>The Ultimate Guide to Navigating OpenAI’s Exclusive Custom GPT Offerings Today</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-narzo-60x-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme Narzo 60x 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-linking-ultimate-guide-to-pair-your-samsung-soundbar-with-your-television/"><u>Wireless Linking: Ultimate Guide to Pair Your Samsung Soundbar with Your Television</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-through-self-playing-options-in-fb-videos-for-2024/"><u>[New] Navigating Through Self-Playing Options in Fb Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-breaking-down-youtube-revenue-per-million-views/"><u>2024 Approved Breaking Down YouTube Revenue per Million Views</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-microphone-functionality-in-astro-a50/"><u>How to Repair and Restore Microphone Functionality in Astro A50</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-headphones-microphone-not-working-heres-how-to-resolve-it/"><u>HyperX Cloud Alpha Headphones Microphone Not Working? Here’s How to Resolve It</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-razr-40-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Razr 40 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-game-chat-problems-restoring-fortnite-mic-functionality/"><u>Quick Fixes for Game Chat Problems: Restoring Fortnite Mic Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tune-up-tricks-a-modern-how-to-for-fixing-crackling-issues-in-the-logitech-g-pro-x-headset-on-pc/"><u>Tune-Up Tricks: A Modern How-To for Fixing Crackling Issues in the Logitech G Pro X Headset on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unseen-ways-to-leverage-instagrams-query-symbol/"><u>Unseen Ways to Leverage Instagram's Query Symbol</u></a></li>
 </ul></div>
 

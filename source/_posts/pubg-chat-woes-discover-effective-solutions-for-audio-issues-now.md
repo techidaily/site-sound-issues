@@ -1,7 +1,7 @@
 ---
 title: PUBG Chat Woes? Discover Effective Solutions for Audio Issues Now
-date: 2024-09-18T20:22:17.594Z
-updated: 2024-09-21T16:46:15.296Z
+date: 2024-09-26T23:33:43.374Z
+updated: 2024-10-01T22:57:59.960Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure your mic is on for PUBG (for Windows 10 users)
 
  If you find your voice chat is not working in PUBG on Windows 10 computer, the first thing you should check is to turn on microphone permission for PUBG. Here’s what you need to do:  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**I** at the same time.  2) Click**Privacy** in**Settings** .
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
  3) Click**Microphone** on the left pane, and make sure Microphone access for this device is on, and the status is**On** for**PUBG** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Log in PUBG and see if your microphone works this time.
 
@@ -89,9 +89,29 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd3b101d73.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) In the new pop up pane, click the**Advanced** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd419e19e4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Make sure to**uncheck** the box next to**Allow application to take exclusive control of this device** . Then click**Apply** and**OK** .
 
@@ -107,9 +127,23 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged sound card (and microphone if any) to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.  Open PUBG in your computer and see if voice chat works in duo or squad mode.
 
@@ -134,26 +168,32 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd808d75a7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Voice** or**In-Game Voice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd839562f7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the**Recording (audio input) device** section, make sure your**microphone** is selected. If the detected recording device is not your microphone, click**Change** (or**Change Device** ) to change it to your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd86b39d96.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Make sure the**Microphone volume** and**Receive volume** is dragged to medium or high, so you can hear from your friends and you can be heard.
 
@@ -175,13 +215,6 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd9f253113.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Windows will open the**File Explorer** , then click**AppData** in the directory bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda44e6191.png)
@@ -194,6 +227,13 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae51587f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) In the file that you open, make sure the following settings is configured correctly:
 
 IsVoiceInputMute=False
@@ -203,13 +243,6 @@ VoiceInputVolume=100
 VoiceOutputVolume=100
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb1927f7f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Save the file and restart your computer.  Open PUBG in your computer and try if voice chat works.
 
@@ -232,5 +265,24 @@ VoiceOutputVolume=100
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-affordable-flying-tech-today/"><u>[New] 2024 Approved Best Affordable Flying Tech Today</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-dji-inspire-2s-features/"><u>[Updated] Unveiling DJI Inspire 2'S Features</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/automatisierte-rechnungsbearbeitung-fur-energielieferanten-mit-branchenrelevanz-empfehlungen-von-abbyy/"><u>Automatisierte Rechnungsbearbeitung Für Energielieferanten Mit Branchenrelevanz – Empfehlungen Von ABBYY</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mute-mode-how-to-restore-sounds-for-your-borderlands-check-out-this-guide-pc/"><u>Fixing Mute Mode: How to Restore Sounds for Your Borderlands ^ Check Out This Guide! ^ (PC)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-voice-heard-again-repairing-dota-2-mic-malfunctions-on-desktop-computers/"><u>Get Your Voice Heard Again: Repairing Dota 2 Mic Malfunctions on Desktop Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-detailed-insight-the-gecata-live-game-tracker/"><u>In 2024, Detailed Insight The Gecata Live Game Tracker</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a05-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A05 to Another | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-audio-issues-heres-your-2024-go-to-troubleshooting-handbook/"><u>Jabra Audio Issues? Here's Your 2024 Go-To Troubleshooting Handbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-pitfalls-a-guide-to-correcting-prevalent-issues/"><u>Navigating ChatGPT Pitfalls: A Guide to Correcting Prevalent Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-loudspeaker-performance-in-windows-pertinent-solutions-for-fixing-low-sound-output/"><u>Optimizing Loudspeaker Performance in Windows Pertinent Solutions for Fixing Low Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-warzone-chat-resolving-playstation-xbox-and-pc-mic-voice-troubleshooting-guide/"><u>Revive Your Warzone Chat - Resolving PlayStation, Xbox & PC Mic Voice Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/syncing-perfectly-overcoming-audio-synchronization-challenges/"><u>Syncing Perfectly: Overcoming Audio Synchronization Challenges</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-glitches-effective-solutions-for-outriders/"><u>Troubleshooting Sound Glitches - Effective Solutions for Outriders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-mac-quiet-and-how-to-fix-it-comprehensive-solutions-for-the-no-sound-problem/"><u>Why Is My Mac Quiet and How to Fix It - Comprehensive Solutions for the 'No Sound' Problem</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Audio Challenges: Fixing Issues with New World's Game Sounds"
-date: 2024-09-20T18:54:06.974Z
-updated: 2024-09-21T21:16:07.602Z
+date: 2024-09-29T19:42:21.248Z
+updated: 2024-10-01T17:41:15.209Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -51,6 +58,13 @@ There’re mainly two ways for you to update an audio driver:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -83,7 +97,21 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -95,23 +123,9 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -134,5 +148,24 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-your-online-income-an-all-encompassing-guide-on-measuring-youtube-growth-and-earnings/"><u>[New] 2024 Approved Unveiling Your Online Income An All-Encompassing Guide on Measuring YouTube Growth & Earnings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-audio-quality-boost-for-skype-calls/"><u>[New] Audio Quality Boost for Skype Calls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-harness-the-power-of-visuals-a-comprehensive-guide-to-editing-on-instagram/"><u>[Updated] 2024 Approved Harness the Power of Visuals A Comprehensive Guide to Editing on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016682996-dealing-with-annoying-audio-pops-on-your-computer-quick-fix-guide/"><u>Dealing With Annoying Audio Pops on Your Computer: Quick Fix Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-poco-x6-pro-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Poco X6 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-and-efficient-fixes-to-solve-the-windows-setup-problems/"><u>Fast & Efficient Fixes to Solve the Windows Setup Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-complete-silence-resolving-usb-headphones-audio-issues-in-windows-7/"><u>Fixing Complete Silence: Resolving USB Headphones Audio Issues in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-to-voice-chatting-in-wow-effective-strategies-and-fixes/"><u>Get Back to Voice-Chatting in WoW: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-relentless-iphone-app-crashes-effective-strategies-for-the-top-10-issues/"><u>How To Fix Relentless iPhone App Crashes: Effective Strategies for the Top 10 Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-7-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 7 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/kotion-g200n-mic-woes-heres-how-you-can-repair-them-yourself/"><u>Kotion G200n Mic Woes? Here's How You Can Repair Them Yourself</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016947151-microphone-readiness-in-minutes-the-ultimate-guide-to-rapid-audio-equipment-tests/"><u>Microphone Readiness in Minutes: The Ultimate Guide to Rapid Audio Equipment Tests</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-playback-problems-smooth-bluetooth-audio-on-windows-11/"><u>Resolving Playback Problems: Smooth Bluetooth Audio on Windows 11</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-creating-and-saving-dvds-using-dvdshrink-in-windows-8/"><u>Step-by-Step Guide: Creating and Saving DVDs Using DVDShrink in Windows 8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016685058-why-isnt-my-wow-voice-chat-functioning-expert-advice-on-getting-back-online-communication/"><u>Why Isn't My WoW Voice Chat Functioning? Expert Advice on Getting Back Online Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-troubleshooting-why-are-my-headphones-invisible-to-the-system/"><u>Windows 10 Audio Troubleshooting - Why Are My Headphones Invisible to the System?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/xbox-adapter-driver-downloads-for-quick-setup-and-hassle-free-usage/"><u>Xbox Adapter Driver Downloads for Quick Setup & Hassle-Free Usage</u></a></li>
+</ul></div>
 

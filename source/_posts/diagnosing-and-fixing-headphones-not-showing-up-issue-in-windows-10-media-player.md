@@ -1,7 +1,7 @@
 ---
 title: Diagnosing & Fixing 'Headphones Not Showing Up' Issue in Windows 10 Media Player
-date: 2024-09-23T19:27:46.119Z
-updated: 2024-09-26T21:18:13.307Z
+date: 2024-09-26T01:58:51.162Z
+updated: 2024-10-01T22:57:19.545Z
 tags:
   - win11
   - win10
@@ -52,14 +52,22 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 2. Click the**Change** button and make sure**Microphone access for this device is turned on** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
@@ -76,39 +84,20 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 
 #### On Oculus or SteamVR
 
@@ -141,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
@@ -156,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
  After the update completes, restart the PC and see if your audio issue gets fixed. If not, there is one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Close unnecessary background apps
@@ -169,7 +151,22 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 1. Right-click any empty space on your taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -197,16 +194,22 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-source-of-high-quality-video-downloaders/"><u>[New] 2024 Approved The Ultimate Source of High-Quality Video Downloaders</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reimagined-ultrahd-2023s-samsung-bdplus-k850/"><u>[Updated] Reimagined UltraHD 2023'S Samsung BD+ K850</u></a></li>
-<li><a href="https://app-tips.techidaily.com/before-its-too-late-discover-the-top-5-strategies-to-secure-your-windows-11-system-this-year-according-to-experts-at-zdnet/"><u>Before It's Too Late: Discover the Top 5 Strategies to Secure Your Windows 11 System This Year, According to Experts at ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-a-broken-turtle-beach-microphone-a-step-by-step-guide/"><u>Effective Solutions for a Broken Turtle Beach Microphone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016802341-fixing-common-issues-how-to-restore-voice-communication-in-destiny-2/"><u>Fixing Common Issues: How to Restore Voice Communication in Destiny 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-headphones-not-recognized-errors-in-windows-7-computers/"><u>How to Fix 'Headphones Not Recognized' Errors in Windows 7 Computers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-optimal-mov-recording-settings-for-windows-11/"><u>In 2024, Optimal MOV Recording Settings for Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/linus-tech-tips-security-breach-a-deep-dive/"><u>Linus Tech Tips Security Breach: A Deep Dive</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-cutting-out-audio-problems-for-a-seamless-experience-on-windows-11/"><u>Resolve Cutting Out Audio Problems for a Seamless Experience on Windows 11</u></a></li>
-<li><a href="https://ai-video.techidaily.com/top-value-pruveeo-f5-1080p-dash-cam-assessment-for-budget-shoppers/"><u>Top Value Pruveeo F5 1080P Dash Cam Assessment for Budget Shoppers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-wont-people-hear-me-comprehensive-fixes-for-discord-sound-issues/"><u>Why Won’t People Hear Me? Comprehensive Fixes for Discord Sound Issues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dual-watch-dynamics-navigating-youtube-in-parallel/"><u>[New] 2024 Approved Dual-Watch Dynamics Navigating YouTube in Parallel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-clip-viewer-extractor-system/"><u>[New] In 2024, Clip Viewer Extractor System</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-webcam-filming-made-professional-in-no-time/"><u>[New] In 2024, Webcam Filming Made Professional in No Time</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-spotifys-1-artists-of-the-month/"><u>[New] Spotify’s #1 Artists of the Month</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-framework-for-cost-analysis-in-music-video-making/"><u>[Updated] Framework for Cost Analysis in Music Video Making</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-most-impactful-personalities-top-25-edition-for-2024/"><u>[Updated] Instagram's Most Impactful Personalities Top 25 Edition for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instaphoto-tips-for-seamless-sharing/"><u>2024 Approved InstaPhoto Tips for Seamless Sharing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-audio-glitches-solved-smoother-sounds-on-windows-11-systems/"><u>Bluetooth Audio Glitches Solved: Smoother Sounds on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-reactivating-voice-chat-functionality-in-bungies-destiny-2/"><u>Expert Tips on Reactivating Voice Chat Functionality in Bungie's Destiny 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-noise-issues-in-your-headsets-say-goodbye-to-cracks-and-pop/"><u>Quick Fixes for Noise Issues in Your Headsets – Say Goodbye to Cracks & Pop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-how-to-get-sound-working-on-your-pc-again/"><u>Quick Troubleshooting Guide: How to Get Sound Working on Your PC Again</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-windows-11-soundscape-common-troubles-and-their-fixes/"><u>Revive Your Windows 11 Soundscape: Common Troubles & Their Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-how-to-tackle-the-conexant-smartaudio-hd-silent-problem-on-windows-11/"><u>Step-by-Step Solution: How to Tackle the Conexant SmartAudio HD Silent Problem on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-mac-users-handbook-for-integrating-and-using-chatgpt-effectively/"><u>The Mac User's Handbook for Integrating and Using ChatGPT Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-hardware-fixing-unplugged-or-damaged-speakers-and-headphones-on-windows-systems/"><u>Troubleshooting Audio Hardware: Fixing Unplugged or Damaged Speakers and Headphones on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-onikuma-headsets-non-functional-mic-expert-advice/"><u>Troubleshooting Your Onikuma Headset's Non-Functional Mic - Expert Advice</u></a></li>
 </ul></div>
 

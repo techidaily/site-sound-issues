@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting Sound Problems with Your Sennheiser Gamer's Mic
-date: 2024-09-18T20:51:25.000Z
-updated: 2024-09-21T19:40:28.894Z
+date: 2024-09-25T01:50:54.341Z
+updated: 2024-10-01T23:31:47.853Z
 tags:
   - win11
   - win10
@@ -42,7 +42,22 @@ Many users are reporting that they’re having microphone issues with their Hype
 3. Check the volume knob on the right ear and **make sure the mic is not muted or the volumes are not too low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/volume.jpg)
 4. If you’re using the controller box of your headset, make sure the mute switch hasn’t been activated.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hyper-X.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Is the mic working now? If unfortunately not, you can try the next fix, below.
 
@@ -62,12 +77,27 @@ Many users are reporting that they’re having microphone issues with their Hype
 3. Click**Microphone** from the left pane.  
 ![click microphone](https://images.drivereasy.com/wp-content/uploads/2020/12/Microphone.jpg)
 4. Click the**Change** button, and make sure the**Microphone for this device** option is**O** n.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/make-sure-its-on.jpg)
 5. Scroll down and make sure the**Allow apps to access your microphone** is**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps.jpg)
 6. Also, make sure the app you’re using now is turned on.  
 ![select the app you're using and turn it on](https://images.drivereasy.com/wp-content/uploads/2020/12/which-app.jpg)
 7. Now check if HyperX Cloud Stinger’s microphone is working. If you have granted all the permissions to the microphone but you still can’t be heard, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **To allow apps to access your Microphone on a Mac**
 
@@ -88,13 +118,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.png)
 2. In Control Panel, expand**View by** and select**Large icons** from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/large-icons.jpg)
 3. Select **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sound.jpg)
@@ -103,10 +126,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 5. Make sure your HyperX headset is enabled and set as the default device. If not, right-click your headphone to**Enabl** e it and**Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hyper-X-default.jpg)
@@ -116,7 +139,27 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels-100.jpg)
 8. Click **OK** to apply the changes, then click**OK** from the last opened window.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your HyperX headphone should now be enabled now. Test if the mic is working. If so, congratulations! But if not, don’t worry, since we have a few more fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your audio drivers
 
@@ -151,13 +194,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 
  Sometimes the culprit may not be on your audio or control box settings, but in the game or app, you use instead. Check the audio settings in the game, or in the app, then confirm whether this will make your HyperX Cloud Stinger mic work again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perform Windows Update
 
  Microsoft keeps releasing new updates constantly; usually, you would want to have the latest update for security and compatibility fixes. If you haven’t installed the latest update, be sure to do it for this might fix your problem.
@@ -166,20 +202,13 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/check-for-updates.jpg)
 2. Click**Check for updates** . If there is an update, make sure it is downloaded and installed.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/check-for-updates-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Contact the manufacturer for troubleshooting
@@ -208,5 +237,17 @@ Many users are reporting that they’re having microphone issues with their Hype
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expert-techniques-in-game-recording-via-obs/"><u>[New] In 2024, Expert Techniques in Game Recording via OBS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-optimal-fps-in-low-speed-clips/"><u>[New] Optimal FPS in Low-Speed Clips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-look-whatsapps-voice-message-technology/"><u>[Updated] Inside Look WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://facebook.techidaily.com/accessing-and-operating-facebooks-inbuilt-protection/"><u>Accessing and Operating Facebook's Inbuilt Protection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-with-headsets-on-your-windows-7-pc/"><u>Expert Tips for Restoring Sound with Headsets on Your Windows 7 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-recover-access-after-an-instagram-account-suspension-essential-tips-and-tricks/"><u>How to Recover Access After an Instagram Account Suspension – Essential Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994330120-no-more-frozen-frames-in-cyberpunk-2077-performance-boost-achieved/"><u>No More Frozen Frames in Cyberpunk 2077 - Performance Boost Achieved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-windows-1aster7-sound-distortion-issues-in-depth-troubleshooting-guide/"><u>Overcoming Windows 1Aster/7 Sound Distortion Issues – In-Depth Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-logitech-g230-microphone-a-step-by-step-guide-to-fix-the-problems/"><u>Reviving Your Logitech G230 Microphone: A Step-by-Step Guide to Fix the Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-your-logitech-g-pro-x-top-solutions-for-eliminating-clicky-sounds/"><u>Silencing Your Logitech G Pro X: Top Solutions for Eliminating Clicky Sounds</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Repair: A Step-by-Step 2024 Solution for Your Rust Mic Woes"
-date: 2024-09-20T16:39:09.964Z
-updated: 2024-09-26T22:21:24.964Z
+date: 2024-10-01T03:36:36.142Z
+updated: 2024-10-02T01:32:34.483Z
 tags:
   - win11
   - win10
@@ -46,42 +46,48 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Test your microphone
@@ -91,6 +97,14 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. **Right-click** **the speaker icon** in the bottom-right corner of your screen, then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
@@ -111,13 +125,20 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix microphone not working on your computer?
 
@@ -138,13 +159,6 @@ Follow the steps below to test your microphone in Windows audio settings:
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
 
@@ -168,22 +182,18 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-15-creative-strategies-for-free-capture-of-online-workshops/"><u>[New] 15 Creative Strategies for Free Capture of Online Workshops</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-audible-allure-choosing-background-beats-for-videos/"><u>[New] In 2024, Audible Allure Choosing Background Beats for Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-tips-for-streamlining-youtube-audio-into-imovie/"><u>[New] In 2024, Expert Tips for Streamlining YouTube Audio Into iMovie</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-fixes-for-hp-computers-overcoming-silent-experience-in-windows-11/"><u>Audio Fixes for HP Computers – Overcoming Silent Experience in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-troubleshooting-restoring-device-recognition-capabilities-on-windows-nt/"><u>Bluetooth Troubleshooting: Restoring Device Recognition Capabilities on Windows nT</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/conquering-remote-work-mastering-the-use-of-zoom-and-gmail-for-2024/"><u>Conquering Remote Work Mastering the Use of Zoom and Gmail for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convertisseur-libre-transformation-facile-dun-film-webm-en-version-audio-wma-avec-lassistance-de-movavi-online-converter/"><u>Convertisseur Libre : Transformation Facile D'un Film WebM en Version Audio WMA Avec L'assistance De Movavi Online Converter</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/discover-these-6-must-have-instagram-reel-tools/"><u>Discover These 6 Must-Have Instagram Reel Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016582937-how-to-get-your-non-working-jabra-wireless-earbuds-up-and-running-again-latest-fixes/"><u>How To Get Your Non-Working Jabra Wireless Earbuds Up and Running Again - Latest Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-c12-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia C12 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/meme-making-maven-the-tale-of-jake-pauls-youtube-triumph-for-2024/"><u>Meme-Making Maven The Tale of Jake Paul's Youtube Triumph for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/re-establishing-sound-on-an-hdmi-cable-from-laptop-to-television-and-display/"><u>Re-Establishing Sound on an HDMI Cable From Laptop to Television and Display</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fix-a-nonfunctioning-sound-blaster-mic/"><u>Step-by-Step Guide to Fix a Nonfunctioning Sound Blaster Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-fixing-unplugged-realtek-hd-sound-card-issues/"><u>Troubleshooting Tips for Fixing Unplugged Realtek HD Sound Card Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unplugged-nvidia-dilemma-discover-reliable-fixing-methods-now/"><u>Unplugged Nvidia Dilemma: Discover Reliable Fixing Methods Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-issues-how-to-make-your-headphones-recognized-during-playback/"><u>Windows 10 Audio Issues? How to Make Your Headphones Recognized During Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-sound-problems-resolved-how-to-fix-your-speakers-now/"><u>Windows 11 Sound Problems Resolved: How to Fix Your Speakers Now</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos-for-2024/"><u>[New] Top Tips to Flawlessly Integrate Timely Text in Your FB Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-noise-expert-advice-on-removing-unwanted-sounds-from-headphones/"><u>Beat the Noise: Expert Advice on Removing Unwanted Sounds From Headphones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-collection-of-downloads-for-pci-hardware-support-in-windows-operating-systems/"><u>Comprehensive Collection of Downloads for PCI Hardware Support in Windows Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-fun-with-the-mass-effect-trilogy-expert-fixes-to-prevent-game-crash-on-pc-and-xbox-devices/"><u>Ensuring Uninterrupted Fun with the Mass Effect Trilogy: Expert Fixes to Prevent Game Crash on PC & Xbox Devices</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-video-tutorial-on-enhancing-mac-privacy-with-disk-encryption-and-recovery-procedures/"><u>Expert Video Tutorial on Enhancing Mac Privacy with Disk Encryption & Recovery Procedures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-unresponsive-skype-mic-in-windows-11-step-by-step/"><u>How to Repair Unresponsive Skype Mic in Windows 11 - Step by Step</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-note-30-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Note 30 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y200-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y200 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-update-error-code-0x80070002-a-step-by-step-guide/"><u>Quick Fixes for Windows Update Error Code 0X80070002: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-restoration-tutorial-making-firefox-speak-with-clarity-once-more/"><u>Sound Restoration Tutorial: Making Firefox Speak with Clarity Once More</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tech-tip-fix-sound-going-to-outer-speakers-rather-than-connected-headphones/"><u>Tech Tip: Fix Sound Going To Outer Speakers Rather Than Connected Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017022574-troubleshoot-and-repair-your-astro-a50s-mic-problem-easily/"><u>Troubleshoot and Repair Your Astro A50's Mic Problem Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-razer-manowar-headset-solutions-for-nonfunctional-mic/"><u>Troubleshooting the Razer ManO'War Headset - Solutions for Nonfunctional Mic</u></a></li>
 </ul></div>
 

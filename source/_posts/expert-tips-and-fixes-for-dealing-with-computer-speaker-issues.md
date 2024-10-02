@@ -1,7 +1,7 @@
 ---
 title: Expert Tips and Fixes for Dealing with Computer Speaker Issues
-date: 2024-09-22T16:44:18.507Z
-updated: 2024-09-26T20:38:07.202Z
+date: 2024-09-29T21:56:50.789Z
+updated: 2024-10-01T19:25:33.177Z
 tags:
   - win11
   - win10
@@ -48,19 +48,48 @@ thumbnail: https://thmb.techidaily.com/19cc3daca0ae766efaf5a0d940f51eeacf8f63806
 2. On the bottom-left corner, make sure you’re**unmuted** and also have**turned on the audio** . Then click the**gear-shape icon** to open settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-37-18.png)
 3. On the left panel, click the**Voice & Video** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-37-56.png)
 4. Under Voice Settings, make sure the**correct input and output devices** are selected. You can also**adjust the volumes** accordingly or do a mic test.  
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-40-44.png)
 5. Select**Voice Activity** as the input mode, and turn off**Automatically determine input sensitivity** . Thereby, you can set up the volume level for Discord to recognize and pick up your voice but not the noise.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-41-23.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can test if Discord voice chat is working now. If adjusting the voice settings in Discord doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Configure your PC sound settings
@@ -73,15 +102,16 @@ thumbnail: https://thmb.techidaily.com/19cc3daca0ae766efaf5a0d940f51eeacf8f63806
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Next, right-click the little speaker icon on your taskbar, then click **Sounds** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 4. Go to the **Recording** tab and find your headset. If you don’t see it, right-click an empty area then select **Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 5. Right-click your headset device, then click **Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
@@ -89,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/19cc3daca0ae766efaf5a0d940f51eeacf8f63806
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
  The device you’re using for Discord voice chatting is now set as the input device and allowed for recording. You can now test if Discord picks up your voice. If your problem persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your audio driver
 
@@ -110,32 +133,18 @@ thumbnail: https://thmb.techidaily.com/19cc3daca0ae766efaf5a0d940f51eeacf8f63806
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-35.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 If this doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Reset voice settings on Discord
@@ -147,17 +156,18 @@ If this doesn’t help, try the next fix.
 2. Under the**Voice & Video** tab, scroll down and click**Reset Voice Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_17-28-37.png)
 3. Click**Okay** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-42-19.png)
 4. Discord will refresh by itself. You can test if voice chatting is working now.
 
 If this doesn’t work, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Update/Reinstall Discord
 
@@ -185,24 +195,18 @@ If this doesn’t work, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-ideal-mc-villages-architecture-blueprints/"><u>[New] Ideal MC Villages Architecture Blueprints</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-your-iphone-video-shortening-and-altering-size/"><u>[Updated] Perfecting Your iPhone Video Shortening and Altering Size</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016073315-2024-tricks-fixing-call-of-dutys-silent-mode-for-a-better-gameplay-experience/"><u>2024 Tricks: Fixing Call of Duty's Silent Mode for a Better Gameplay Experience.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-beats-backed-up-solving-stuttering-sound-issues-in-windows-1011-systems/"><u>Bluetooth Beats Backed Up: Solving Stuttering Sound Issues in Windows 10/11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-the-silence-fixing-connectivity-problems-with-astro-a50s-mic/"><u>Bust the Silence: Fixing Connectivity Problems with Astro A50's Mic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/detailed-benchmark-h266-versus-h265-a-complete-video-codec-showdown/"><u>Detailed Benchmark: H.266 Versus H.265 – A Complete Video Codec Showdown</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-high-speed-gaming-for-instant-entertainment/"><u>Explore High-Speed Gaming for Instant Entertainment</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gradual-amplitude-reduction-guide-for-2024/"><u>Gradual Amplitude Reduction Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-ensure-your-hardware-is-synced-with-world-of-warcraft-driver-update-solutions/"><u>How to Ensure Your Hardware Is Synced with World of Warcraft - Driver Update Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-oppo-a2-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo A2 Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-how-to-fix-discord-not-recording-game-sounds-correctly/"><u>Resolved: How To Fix Discord Not Recording Game Sounds Correctly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-in-windows-10-a-step-by-step-guide/"><u>Restoring Audio Functionality in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-fixes-for-no-sound-from-wireless-headphones-via-bluetooth/"><u>The Definitive Fixes for No Sound From Wireless Headphones via Bluetooth</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nsiders-guide-to-on-screen-text-in-youtube-media/"><u>The Insider's Guide to On-Screen Text in YouTube Media</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-non-working-microphones-on-hyperx-cloud-alpha-s/"><u>Troubleshooting and Resolving Non-Working Microphones on HyperX Cloud Alpha S</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-pc-playback-issues-with-no-audio-on-facebook-videos/"><u>Ultimate Guide: Solving PC Playback Issues with No Audio on Facebook Videos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-s-best-video-editors-for-mac-pinnacle-studio-alternates/"><u>Updated S Best Video Editors for Mac Pinnacle Studio Alternates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017008047-why-isnt-my-logitech-g733-microphone-working-find-answers-here/"><u>Why Isn't My Logitech G733 Microphone Working? Find Answers Here</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixed-outriders-blurry-visuals/"><u>[Fixed] Outriders Blurry Visuals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-and-build-a-youtube-channel-today/"><u>[Updated] How to Create and Build A YouTube Channel Today</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-to-add-edit-and-optimize-youtube-tagstitledescription-for-more-views/"><u>[Updated] In 2024, How to Add, Edit and Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-video-from-still-photos-through-pixiz-techniques/"><u>2024 Approved Mastering the Art of Video From Still Photos Through Pixiz Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-system-audio-problems-in-windows-107-expert-tips-and-solutions/"><u>How to Resolve Window's System Audio Problems in WINDOWS 10/7 – Expert Tips & Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-play-40c-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Play 40C Phone Screen?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mic-malfunctions-heres-how-to-get-your-device-capturing-sound-again/"><u>Mic Malfunctions? Here's How to Get Your Device Capturing Sound Again</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>New 2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-mute-life-easily-correcting-skype-noise-malfunctions/"><u>No More Mute Life: Easily Correcting Skype Noise Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-headset-malfunction-here-are-solutions-for-your-mic-troubles/"><u>Razer Man O' War Headset Malfunction? Here Are Solutions for Your Mic Troubles!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016656542-revive-your-dell-sound-system-with-these-easy-fixes/"><u>Revive Your Dell Sound System with These Easy Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/thorough-diagnosis-and-repair-tips-for-a-malfunctioning-beyond-the-wire-microphone/"><u>Thorough Diagnosis & Repair Tips For A Malfunctioning Beyond The Wire Microphone</u></a></li>
 </ul></div>
 

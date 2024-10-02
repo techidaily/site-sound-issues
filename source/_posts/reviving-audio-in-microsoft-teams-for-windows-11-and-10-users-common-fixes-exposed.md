@@ -1,7 +1,7 @@
 ---
 title: Reviving Audio in Microsoft Teams for Windows 11 & 10 Users - Common Fixes Exposed
-date: 2024-09-17T16:35:34.451Z
-updated: 2024-09-21T18:01:23.960Z
+date: 2024-09-24T21:55:37.969Z
+updated: 2024-10-02T03:06:28.961Z
 tags:
   - win11
   - win10
@@ -73,10 +73,26 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
@@ -88,6 +104,14 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
@@ -95,6 +119,13 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -117,12 +148,26 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-breakthrough-tactics-for-optimal-iptv-screening/"><u>[New] Breakthrough Tactics for Optimal IPTV Screening</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transfer-tactics-for-youtube-to-dailymotion-success/"><u>[New] In 2024, Transfer Tactics for YouTube to Dailymotion Success</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secure-swift-airdrop-connections-on-all-apple-devices-fix-guide/"><u>[New] Secure Swift Airdrop Connections on All Apple Devices - Fix Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-online-presence-choosing-the-right-webcam/"><u>[Updated] 2024 Approved Elevate Your Online Presence Choosing the Right Webcam</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>2024 Approved Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cure-print-issues-with-windows-11-advice/"><u>Cure Print Issues with Windows 11 Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-get-your-corsair-virtuoso-mic-working-again/"><u>Effective Techniques to Get Your Corsair Virtuoso Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-audio-device-connection-errors-on-pcs-running-windows-11-8-or-7/"><u>Guide to Fixing Audio Device Connection Errors on PCs Running Windows 11, 8 or 7</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-effortlessly-convert-aax-audio-to-mp3-faq-and-ultimate-techniques-unveiled/"><u>How to Effortlessly Convert AAX Audio to MP3 - FAQ and Ultimate Techniques Unveiled!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-audio-for-call-of-dutys-black-ops-cold-war-when-playing-on-a-desktop-pc-fixed/"><u>How to Enable Audio for Call of Duty's Black Ops: Cold War When Playing on a Desktop PC [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-broken-headset-audio-on-a-windows-10-pc/"><u>How to Repair Broken Headset Audio on a Windows 10 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-silent-problem-solved-restore-sound-with-these-simple-fixes/"><u>HP Laptop Silent Problem Solved - Restore Sound with These Simple Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-m34-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy M34 5G Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reverting-bios-back-to-basics-a-complete-tutorial-on-clearing-the-motherboardcumemory-storage/"><u>Reverting BIOS Back to Basics: A Complete Tutorial on Clearing the Motherboard'cu Memory Storage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spectacular-movie-sneak-insights/"><u>Spectacular Movie Sneak Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-getting-your-corsair-void-mic-up-and-running-again/"><u>Step-by-Step Solution: Getting Your Corsair Void Mic Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-manual-restoring-microphone-capabilities-in-bluetooth-headsets/"><u>The Ultimate Solution Manual: Restoring Microphone Capabilities in Bluetooth Headsets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-unable-to-initialize-dolby-digital-sound-on-windows-1n-10-devices/"><u>Troubleshooting Steps for Resolving Unable to Initialize Dolby Digital Sound on Windows 1N 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-idt-hd-audio-codec-for-a-smooth-experience-on-windows-10/"><u>Troubleshooting the IDT HD Audio Codec for a Smooth Experience on Windows 10</u></a></li>
+</ul></div>
 

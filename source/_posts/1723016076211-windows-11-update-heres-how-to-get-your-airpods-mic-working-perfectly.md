@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Update? Here’s How to Get Your AirPods Mic Working Perfectly
-date: 2024-09-21T16:06:47.181Z
-updated: 2024-09-26T21:06:58.480Z
+date: 2024-09-29T22:13:00.691Z
+updated: 2024-10-02T00:08:01.109Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ If you’re trying to make your Airpods pro mic working on Windows PC, you’ve 
 
 If the issue still exists, move to the below fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,13 +62,21 @@ If the issue still exists, move to the below fixes.
 3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
 4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your Bluetooth Drivers
@@ -77,24 +92,18 @@ There’re 2 ways to update drivers, manually and automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Click **Bluetooth** to expand the category. Right-click your Bluetooth adapter and select **Update driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
-4. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
+4. Follow the on-screen instructions to finish the process.
 
 5. Restart your PC and check your AirPods mic.
 
@@ -108,13 +117,6 @@ There’re 2 ways to update drivers, manually and automatically.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
 
@@ -134,26 +136,26 @@ So follow the steps below to install the latest Windows updates.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. In the Windows Update panel, click **Check for updates** . Windows will check and download the latest available patches automatically.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  
  If you see “You’re up to date” after clicking the button, your PC confirms that it has all Windows updates.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Restart your PC and check the AirPods microphone after the whole process is finished.
 
 If this fix doesn’t work for you, the next one might suit you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a Bluetooth adapter
 
@@ -182,16 +184,17 @@ If this fix doesn’t work for you, the next one might suit you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-hidden-gems-the-top-10-websites-offering-mystery-box-deals/"><u>[Updated] Hidden Gems The Top 10 Websites Offering Mystery Box Deals</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-vmix-os-transcendence-software/"><u>2024 Approved VMix OS Transcendence Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-mbox-2-drivers-on-windows-a-step-by-step-guide/"><u>Download & Update MBox 2 Drivers on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-iphone-x-security-mending-facial-detection-glitches/"><u>Enhancing iPhone X Security Mending Facial Detection Glitches</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-8-plus-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 8 Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-stable-discord-sound-quality-expert-strategies-and-fixes-for-the-modern-user/"><u>Mastering Stable Discord Sound Quality - Expert Strategies and Fixes for the Modern User</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reinstating-soundscape-troubleshooting-conexant-smartaudio-hd-issues-in-win10/"><u>Reinstating Soundscape: Troubleshooting Conexant SmartAudio HD Issues in Win10</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/seamless-online-media-dissemination-on-vimeo-for-2024/"><u>Seamless Online Media Dissemination on Vimeo for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-razer-mic-issues-instantly-a-five-step-fix-guide/"><u>Solve Razer Mic Issues Instantly: A Five-Step Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-hyperx-cloud-alpha-s-mic-expert-tips/"><u>Troubleshoot and Repair Your HyperX Cloud Alpha S Mic - Expert Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-effortlessly-share-vimeo-video-on-instagram-for-2024/"><u>[New] How to Effortlessly Share Vimeo Video on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-sound-with-these-asmr-apps-for-2024/"><u>[Updated] Elevate Sound with These ASMR Apps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-list-ringtone-picks-for-adoring-tyrion-lannister-fans/"><u>[Updated] In 2024, A-List Ringtone Picks for Adoring Tyrion Lannister Fans</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blueprinting-breathtaking-film-prologues-for-2024/"><u>Blueprinting Breathtaking Film Prologues for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs6-the-mic-not-functioning-heres-what-you-can-do-to-fix-it/"><u>Corsair HS6 the Mic Not Functioning? Here's What You Can Do to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016830058-cyberpunk-277-sound-issues-heres-how-to-troubleshoot-the-static-noise/"><u>Cyberpunk 2#77 Sound Issues? Here's How to Troubleshoot the Static Noise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-hdmi-audio-issues-on-your-windows-7-pc-solutions-inside/"><u>How to Fix HDMI Audio Issues on Your Windows 7 PC (Solutions Inside)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/macbook-airs-hidden-potential-expertise-in-screen-capturing/"><u>MacBook Air's Hidden Potential Expertise in Screen Capturing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sounds-in-apex-legends-heres-a-step-by-step-guide-to-troubleshoot-and-resolve/"><u>No Sounds in Apex Legends? Here's a Step-by-Step Guide to Troubleshoot and Resolve</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-windows-11-issues-with-apple-airpod-microphones/"><u>Solution Guide: Resolving Windows 11 Issues with Apple AirPod Microphones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visual-voyage-navigating-through-dall-e-iiis-imaginative-landscapes/"><u>Visual Voyage: Navigating Through DALL-E III’s Imaginative Landscapes</u></a></li>
 </ul></div>
 

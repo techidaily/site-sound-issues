@@ -1,7 +1,7 @@
 ---
 title: HyperX Cloud Alpha Microphone Problems? Here's How to Fix Them!
-date: 2024-09-19T23:10:52.596Z
-updated: 2024-09-26T19:42:14.618Z
+date: 2024-09-29T03:35:58.438Z
+updated: 2024-10-01T22:59:57.322Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ Is your **Corsair Void Mic Not Working** ? Don’t worry, it’s often quite eas
 4. [**Check for hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -49,10 +49,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
@@ -66,6 +66,13 @@ Here’s how to do it:
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -81,13 +88,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
@@ -99,13 +99,6 @@ Here’s how to do it:
 5) Check to see if the mic works properly. If yes, then great! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -121,22 +114,29 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-249.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If**Headset** **Microphone Corsair VOID Wireless Gaming Dongle** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
  3) Click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **OK** to apply the changes in the windows.
 
@@ -173,17 +173,16 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-elevating-your-youtube-experience-tips-on-channel-art-and-sizes/"><u>[New] 2024 Approved Elevating Your YouTube Experience Tips on Channel Art and Sizes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016744164-audacity-sound-device-malfunction-here-are-5-reliable-fixes/"><u>Audacity Sound Device Malfunction? Here Are 5 Reliable Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-the-no-sound-in-it-takes-two-game-troubleshooting-steps-for-pcs-with-audio-issues/"><u>Fix the 'No Sound in It Takes Two' Game - Troubleshooting Steps for PCs with Audio Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-from-one-self-portrait-to-a-thousand-mastering-the-art-of-repeating-yourself-on-tiktok/"><u>In 2024, From One Self-Portrait to a Thousand Mastering the Art of Repeating Yourself on TikTok</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigating-the-social-sea-comprehensive-30-tips-for-success/"><u>In 2024, Navigating the Social Sea Comprehensive 30 Tips for Success</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-communication-how-to-fix-the-apex-legends-voice-chat-problem/"><u>Mastering Communication - How to Fix the Apex Legends Voice Chat Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-cures-9-ways-to-stop-windows-setup-from-hanging-at-verify/"><u>Quick Cures: 9 Ways To Stop Windows Setup From Hanging at Verify</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-logitech-g935-mic-connectivity-challenges-in-windows-environments/"><u>Resolving Logitech G935 Mic Connectivity Challenges in Windows Environments</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-g2-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo G2 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-headphones-wont-work-on-windows-7/"><u>Troubleshooting Steps: Resolving 'Headphones Won't Work' On Windows 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-uncovering-budget-friendly-video-conferencing-tools-for-all-systems/"><u>[New] Uncovering Budget-Friendly Video Conferencing Tools for All Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-visual-branding-on-youtubes-iconography-and-images/"><u>[Updated] Visual Branding on YouTubes Iconography and Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crafty-concepts-designing-unforgettable-instagram-puzzle-feeds/"><u>2024 Approved Crafty Concepts Designing Unforgettable Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boost-your-teams-voice-chat-experience-with-these-solutions-to-squad-mic-malfunctions-the-2024-edition/"><u>Boost Your Team's Voice Chat Experience with These Solutions to Squad Mic Malfunctions - The 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-voicemod-problems-with-expert-tips-and-tricks-updated-for-2n4/"><u>Bypassing Voicemod Problems with Expert Tips and Tricks - Updated for 2N4</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dont-miss-out-limited-time-on-samsungs-premium-ai-features-for-the-galaxy-line/"><u>Don't Miss Out! Limited Time on Samsung's Premium AI Features for the Galaxy Line.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-best-sniping-software-for-mac-users/"><u>In 2024, Best Sniping Software for Mac Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-repairing-outriders-sound-issues-smoothly/"><u>Mastering the Art of Repairing Outriders Sound Issues Smoothly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016289227-sonic-success-overcoming-no-sound-glitches-in-chrome-now-fixed/"><u>Sonic Success: Overcoming No-Sound Glitches in Chrome, Now Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/successful-diagnosis-and-repair-of-onikuma-microphone-problems-guide/"><u>Successful Diagnosis and Repair of Onikuma Microphone Problems [GUIDE]</u></a></li>
 </ul></div>
 

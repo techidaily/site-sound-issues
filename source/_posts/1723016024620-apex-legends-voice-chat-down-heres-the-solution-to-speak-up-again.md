@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Voice Chat Down? Here's the Solution to Speak Up Again
-date: 2024-09-16T16:29:24.886Z
-updated: 2024-09-21T21:13:16.571Z
+date: 2024-09-30T22:22:46.698Z
+updated: 2024-10-01T23:51:21.611Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-248.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By doing so, you have allowed Origin the access to the microphone on your computer.
 
  Now run Apex Legends and check to see if the microphone not working problem is resolved. If yes, then great! If the problem still remains, please try**Fix 2** , below.
@@ -74,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -104,10 +118,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Configure in-game settings
@@ -120,23 +134,9 @@ Here is how to configure in-game settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-260.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**More** \>**VOICE** , then make sure**the microphone you’re using is selected** and**Microphone volum** e is set to**an audio volume** . After that, in**Activation mode** , choose**Push-to-talk** .
 
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
@@ -148,6 +148,13 @@ Here is how to configure in-game settings:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Install the latest game patch
 
  The developers of Apex Legends, EA, keep releasing game patches to fix bugs. It’s possible that a recent patch has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to[**EA official website**](https://www.ea.com/games/apex-legends) , check for the latest patch, download and install it. Then check if it fixes the voice chat not working problem.
@@ -155,6 +162,19 @@ Here is how to configure in-game settings:
  If there is no patches available, or the patch fails to address the problem, then please try **Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Origin and Apex Legends
 
@@ -167,16 +187,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
@@ -213,5 +227,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>[New] 2024 Approved Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-digital-vault-for-internet-streams-a-recording-blueprint/"><u>[New] Digital Vault for Internet Streams A Recording Blueprint</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-a-stepwise-approach-to-youtube-caption-addition-for-2024/"><u>[Updated] A Stepwise Approach to YouTube Caption Addition for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-determining-the-perfect-orientation-for-fb-videos-for-2024/"><u>[Updated] Determining the Perfect Orientation for FB Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-capturing-attention-the-power-of-these-top-10-tags/"><u>2024 Approved Capturing Attention The Power of These Top 10 Tags</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-yuva-3-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Lava Yuva 3 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-14-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 14 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016139315-audio-restoration-tips-for-windows-11-users-say-goodbye-to-silence/"><u>Audio Restoration Tips for Windows 11 Users - Say Goodbye to Silence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-for-iphone-sounds-restoring-audio-functionality/"><u>DIY Repair Guide for iPhone Sounds – Restoring Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-nonfunctional-microphones-in-turtle-beach-audio-gear/"><u>Expert Advice: Fixing Nonfunctional Microphones in Turtle Beach Audio Gear</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-sound-issues-in-the-popular-video-game-outriders/"><u>Expert Advice: Overcoming Sound Issues in the Popular Video Game, Outriders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-action-mastering-iphone-silhouette-art-for-2024/"><u>Expertise in Action Mastering iPhone Silhouette Art for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-microsoft-teams-microphone-malfunction-in-windows-11-and-10/"><u>Fixing the Issue: Microsoft Teams Microphone Malfunction in Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-microsoft-teams-microphone-working-again-on-pc-tips-for-win11-and-win10-users/"><u>Getting Your Microsoft Teams Microphone Working Again on PC: Tips for Win11 and Win10 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-xr-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone XR Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enhance-visibility-11-must-know-youtube-video-seo-tactics/"><u>In 2024, Enhance Visibility 11 Must-Know YouTube Video SEO Tactics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-windows-media-player-step-by-step-solutions-for-no-sound-issues/"><u>Reviving Audio in Windows Media Player: Step-by-Step Solutions for No Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-troubleshooting-silent-speakers-even-with-connection-established/"><u>Solution: Troubleshooting Silent Speakers Even with Connection Established</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-low-sound-volume-problems-on-a-windows-10-computer/"><u>Solving Low Sound Volume Problems on a Windows 10 Computer</u></a></li>
+</ul></div>
 

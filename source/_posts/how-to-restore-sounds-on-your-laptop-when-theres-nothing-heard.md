@@ -1,7 +1,7 @@
 ---
 title: How to Restore Sounds on Your Laptop When There's Nothing Heard?
-date: 2024-09-19T23:06:38.905Z
-updated: 2024-09-26T22:54:22.293Z
+date: 2024-09-27T21:53:48.126Z
+updated: 2024-10-02T00:06:58.174Z
 tags:
   - win11
   - win10
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb12196f37.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Make sure your audio device is set as default
 
  1) Right click the**volume icon** at the bottom right corner, and click**Playback devices** .
@@ -76,22 +69,15 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
@@ -107,19 +93,33 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
@@ -143,19 +143,19 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Try the sound to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
@@ -184,6 +184,13 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 
 4) Restart your computer and check whether your problem is solved.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Reinstall your audio driver**
 
  HP laptop sound not working issue can be caused by the driver corruption, so you can uninstall the existed sound driver in your laptop and reinstall a new driver for your sound device.
@@ -194,6 +201,13 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click your sound device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
@@ -203,13 +217,6 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for corrupted system files
 
@@ -230,13 +237,6 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
  2) Open Fortect. It will run a free scan of your PC and give you **a detailed report of your PC status** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
@@ -264,20 +264,20 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-ai-powered-best-titles-makers-online/"><u>[New] In 2024, AI-Powered Best Titles Makers Online</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-top-artisans-in-sound-and-video-craftsminas-online/"><u>[New] The Top Artisans in Sound and Video Craftsminas Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finest-frequencies-elite-episodes-from-googloud/"><u>2024 Approved Finest Frequencies Elite Episodes From GooGloud</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-sound-crackles-in-cyberpunk-2077-with-these-simple-steps/"><u>Banish Sound Crackles in Cyberpunk 2077 with These Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/complete-solution-fixing-the-beyond-the-wire-microphone-issues/"><u>Complete Solution: Fixing the 'Beyond The Wire' Microphone Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embracing-ai-in-pedagogy-and-language-acquisition/"><u>Embracing AI in Pedagogy and Language Acquisition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-disrupted-voice-chat-features-during-a-phasmophobia-session/"><u>Expert Tips for Repairing Disrupted Voice Chat Features During a Phasmophobia Session</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-70-lite-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor 70 Lite 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-iphone-privacy-essential-guides-on-securing-your-lock-screen-and-managing-locked-device-applications/"><u>Maximize iPhone Privacy: Essential Guides on Securing Your Lock Screen and Managing Locked Device Applications</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-steelseries-arctis-9-and-9x-mic-expert-troubleshooting-tips/"><u>Solving Common Issues with SteelSeries Arctis 9 and 9X Mic - Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-gionee-f3-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Gionee F3 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-turtle-beach-recon-70-microphone-fails/"><u>Troubleshooting Steps: When Your Turtle Beach Recon 70 Microphone Fails</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-how-to-fix-unresponsive-computer-audio-devices/"><u>Ultimate Guide: How to Fix Unresponsive Computer Audio Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-installation-netgear-ac1200-driver/"><u>Easy Installation: Netgear AC1200 Driver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-noisy-troubles-repairing-sound-problems-in-windows-7/"><u>Fix Noisy Troubles: Repairing Sound Problems in Windows 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-worlds-unveiled-delving-into-mr-ar-and-vrs-distinctions-for-2024/"><u>Immersive Worlds Unveiled Delving Into MR, AR, and VR's Distinctions for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-performance-probe-a-vll-app-overview/"><u>In 2024, Performance Probe A VLL App Overview</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-task-mastery-top-picks-for-efficient-calendar-management-in-fb/"><u>In 2024, Task Mastery Top Picks for Efficient Calendar Management in FB</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-reno-8t-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Reno 8T Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-higher-volume-settings-in-your-windows-11-system/"><u>Mastering the Art of Higher Volume Settings in Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-manager-wont-open-heres-the-solution/"><u>Realtek HD Audio Manager Won't Open? Here's The Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shield-no-more-flicker-in-windows-11/"><u>Shield: No More Flicker in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overcoming-voice-chat-problems-in-modern-warfare-multiplayer/"><u>Solved: Overcoming Voice Chat Problems in Modern Warfare Multiplayer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-bluetooth-functionality-in-windows-11-systems/"><u>Step-by-Step Guide: Restoring Bluetooth Functionality in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-formula-for-calculating-the-amount-of-heat-q-involved-in-changing-the-temperature-is-q-mcdt-where-m-is-mass-c-is-specific-heat-and-dt-is-the-change-in-t628/"><u>The Formula for Calculating the Amount of Heat (Q) Involved in Changing the Temperature Is Q = mcΔT, Where M Is Mass, C Is Specific Heat, and ΔT Is the Change in Temperature.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-giants-of-online-interaction-understanding-facebook-twitter-instagram-and-youtube/"><u>The Giants of Online Interaction: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-sound-sync-issues/"><u>Ultimate Guide: Solving Sound Sync Issues</u></a></li>
 </ul></div>
 

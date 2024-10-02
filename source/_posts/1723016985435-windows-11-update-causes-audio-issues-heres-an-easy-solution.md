@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Update Causes Audio Issues? Here's an Easy Solution!
-date: 2024-09-23T18:57:09.879Z
-updated: 2024-09-26T20:30:26.046Z
+date: 2024-09-30T01:32:04.563Z
+updated: 2024-10-02T02:45:00.554Z
 tags:
   - win11
   - win10
@@ -48,21 +48,29 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if there’s any sound in your computer.
@@ -80,22 +88,17 @@ To do so:
 2. In the**Sound** pane, click the**Playback** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
 
@@ -109,25 +112,25 @@ Still no luck? Okay, there’s one more thing to try.
 3. Double click**Sound, video and game controllers** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Restart your computer.
 
@@ -155,20 +158,17 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>[New] Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-dissecting-your-profit-share-in-youtube-short-creation/"><u>[Updated] Dissecting Your Profit Share in YouTube Short Creation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-visual-experience-big-is-better-for-2024/"><u>[Updated] Elevating Visual Experience Big Is Better for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-must-have-3d-model-systems-in-animation/"><u>[Updated] In 2024, Must-Have 3D Model Systems in Animation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-problems-with-discords-push-to-talk-not-working/"><u>Diagnosing and Repairing Problems with Discord's Push-To-Talk Not Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminate-latency-in-wireless-sound-tips-and-tricks/"><u>Eliminate Latency in Wireless Sound: Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016772068-getting-windows-10-speakers-back-on-track-expert-solutions/"><u>Getting Windows 10 Speakers Back On Track – Expert Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-hd-audio-codec-on-windows-11-a-complete-guide/"><u>How to Install IDT HD Audio Codec on Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-redmi-k70-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi Redmi K70 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-13t-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi 13T Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/skype-audio-issues-heres-how-to-restore-clear-sounds-effortlessly/"><u>Skype Audio Issues? Here’s How to Restore Clear Sounds Effortlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-key-takeaways-from-apples-worldwide-developers-conference-in-2eep-years-wwdc/"><u>The Key Takeaways From Apple's Worldwide Developers Conference in 2Eep Years (WWDC)</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-galaxy-s23-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Galaxy S23</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turn-off-sound-improvements-on-your-pc-a-guide-to-deactivating-windows-10s-audio-boost/"><u>Turn Off Sound Improvements on Your PC: A Guide to Deactivating Windows 10'S Audio Boost</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mac-video-editing-install-lumafusion-or-try-these-other-options/"><u>Updated In 2024, Mac Video Editing Install Lumafusion or Try These Other Options</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-deciphering-lgs-4k-innovations-through-a-detailed-review/"><u>[Updated] 2024 Approved Deciphering LG's 4K Innovations Through a Detailed Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-pathway-to-stellar-visual-results-through-color-tuning-for-2024/"><u>[Updated] The Pathway to Stellar Visual Results Through Color Tuning for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/pting-the-mystery-understanding-unlisted-content-on-youtube-for-2024/"><u>Decrypting the Mystery Understanding 'Unlisted' Content on YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016631568-immediate-fixes-for-non-functioning-voice-chat-in-fortnite-step-by-step/"><u>Immediate Fixes for Non-Functioning Voice Chat in Fortnite - Step by Step</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015662600-league-of-legends-voice-communication-trouble-heres-how-to-resolve-it/"><u>League of Legends Voice Communication Trouble? Here's How to Resolve It!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-video-compression-in-imovie-tips-and-tricks-for-optimal-quality-retention/"><u>Mastering Video Compression in iMovie: Tips and Tricks for Optimal Quality Retention</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-mute-issues-in-black-ops-cold-war-gameplay-on-your-desktop-computer/"><u>Quick Fixes for Mute Issues in Black Ops Cold War Gameplay on Your Desktop Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-damaged-or-malfunctioning-front-sound-port-with-easy-fixes/"><u>Reviving a Damaged or Malfunctioning Front Sound Port with Easy Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-essential-guide-to-mastering-the-top-steam-deck-games-of-2023/"><u>The Essential Guide to Mastering the Top Steam Deck Games of 202^[3]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/valheims-silent-world-how-to-restore-your-game-audio-on-a-windows-computer/"><u>Valheim's Silent World - How to Restore Your Game Audio on a Windows Computer</u></a></li>
 </ul></div>
 

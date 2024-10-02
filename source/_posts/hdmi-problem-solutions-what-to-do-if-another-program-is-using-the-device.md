@@ -1,7 +1,7 @@
 ---
 title: "HDMI Problem Solutions: What To Do If Another Program Is Using the Device"
-date: 2024-09-25T19:27:16.168Z
-updated: 2024-09-26T21:33:07.759Z
+date: 2024-09-26T00:09:00.062Z
+updated: 2024-10-02T00:20:02.353Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -57,15 +50,16 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 2. In the upper right corner, click**Settings** (the cog icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
-4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
+4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 ### Fix 3: Configure the audio settings
 
@@ -76,28 +70,37 @@ You can follow the steps below to check:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
-3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
+3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
@@ -137,22 +140,20 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-key-techniques-for-smooth-screen-sharing-on-mobiledesktop/"><u>[New] In 2024, Key Techniques for Smooth Screen Sharing on Mobile/Desktop</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-revolutionize-your-streaming-game-with-these-5-pro-tips/"><u>[New] Revolutionize Your Streaming Game with These 5 Pro Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-art-of-tags-in-gaming-videos-for-2024/"><u>[Updated] Mastering the Art of Tags in Gaming Videos for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-instantly-purging-unwanted-youtube-comments-made-simple/"><u>2024 Approved Instantly Purging Unwanted YouTube Comments Made Simple</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-dealing-with-a-malfunctioning-lucidsound-ls30-mic/"><u>Common Problems & Solutions: Dealing With a Malfunctioning LucidSound LS30 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-unplugged-nvidia-output-issues/"><u>Diagnosing and Fixing Unplugged Nvidia Output Issues</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/elevate-skype-call-audio-excellence-for-2024/"><u>Elevate Skype Call Audio Excellence for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-your-computers-audio-quick-and-effective-methods/"><u>How to Reactivate Your Computer's Audio: Quick and Effective Methods</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05s-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05s Phone with Broken Screen</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/in-depth-diagnosis-and-repair-strategies-for-malfunctioning-beyond-the-wire-mics/"><u>In-Depth Diagnosis and Repair Strategies for Malfunctioning Beyond The Wire Mics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016274074-laptop-audio-malfunction-here-are-effective-solutions/"><u>Laptop Audio Malfunction? Here Are Effective Solutions!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-click-free-experience-how-to-resolve-crackling-sounds/"><u>Logitech G Pro X Click-Free Experience: How to Resolve Crackling Sounds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-gaming-on-windows-with-asus-rog-ally-x-an-insightful-revenue-at-an-elevated-price/"><u>Mastering Mobile Gaming on Windows with Asus ROG Ally X - An Insightful Revenue at an Elevated Price</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-speakers-the-ultimate-solution-for-no-audio-in-zoom-meetings-on-windows-1011/"><u>Reviving Speakers: The Ultimate Solution for No Audio in Zoom Meetings on Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-spells-gone-reinstating-audio-during-hearthstone-battles/"><u>Silent Spells Gone: Reinstating Audio During Hearthstone Battles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-become-an-influencer-grow-by-a-thousand-on-instagrammonth/"><u>[New] Become an Influencer Grow by a Thousand on Instagram/Month</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-explore-leading-platforms-offering-premium-vectr-art-resources/"><u>[Updated] 2024 Approved Explore Leading Platforms Offering Premium Vectr Art Resources</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhance-your-content-filmmaking-for-youtube-trailers-with-filmora/"><u>[Updated] Enhance Your Content Filmmaking for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ace-your-messaging-must-know-advanced-tricks-and-techniques-in-whatsapp/"><u>2024 Approved Ace Your Messaging Must-Know Advanced Tricks and Techniques in WhatsApp</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-movavi-unlimited-all-features-of-the-movavi-program-in-one-package/"><u>Discover Movavi Unlimited – All Features of the Movavi Program in One Package!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-eliminating-no-audio-glitch-from-your-firefox-experience/"><u>Guide: Eliminating No-Audio Glitch From Your Firefox Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-ensure-headphone-sounds-arent-leaking-into-your-speakers/"><u>How To Ensure Headphone Sounds Aren't Leaking Into Your Speakers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-s23-fe-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy S23 FE in Minutes | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-introducing-your-podcast/"><u>In 2024, The Art of Introducing Your Podcast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-distortion-top-5-solutions-for-speaker-buzzing-issues/"><u>No More Distortion: Top 5 Solutions for Speaker Buzzing Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-revolutionary-evaporative-cooling-the-new-pump-free-aio-liquid-cooler/"><u>Noctua Unveils Revolutionary Evaporative Cooling, the New Pump-Free AIO Liquid Cooler</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-11-compatibility-issues-with-the-tozo-t6-device/"><u>Resolving Windows 지 11 Compatibility Issues with the Tozo T6 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-gaming-immersion-solving-cyberpunk-nks-silent-world-in-windows-10/"><u>Restore Gaming Immersion: Solving Cyberpunk Nk's Silent World in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battlefields-restoring-sounds-in-battlefield-4/"><u>Silent Battlefields: Restoring Sounds in Battlefield 4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-microphone-working-expert-tips-and-solutions/"><u>Why Isn't My Microphone Working? Expert Tips & Solutions!</u></a></li>
 </ul></div>
 

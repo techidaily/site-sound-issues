@@ -1,7 +1,7 @@
 ---
 title: "SteelSeries Arctis E: Step-by-Step Guide to Fix a Malfunctioning Inbuilt Microphone"
-date: 2024-09-14T19:34:16.415Z
-updated: 2024-09-21T19:23:50.905Z
+date: 2024-09-26T00:35:18.964Z
+updated: 2024-10-01T16:01:18.479Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
@@ -78,6 +85,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
@@ -88,6 +102,19 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
  5) Select the microphone and click **Properties** .
@@ -95,13 +122,6 @@ Here’s how to do it:
  6) Click the **Levels**  tab, and drag the slider to a proper volume.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
@@ -124,10 +144,10 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
@@ -135,10 +155,16 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
@@ -148,35 +174,22 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -209,5 +222,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-alternative-tools-that-outperform-sharex-for-2024/"><u>[New] Alternative Tools That Outperform ShareX for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-videos-made-simple-unified-techniques-for-desktop-and-mobile/"><u>[New] In 2024, Facebook Videos Made Simple Unified Techniques for Desktop & Mobile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-essential-tutorial-for-xbox-fb-streams/"><u>[New] In 2024, The Essential Tutorial for Xbox FB Streams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-or-omniverse-unpacking-the-digital-spheres/"><u>[New] Metaverse or Omniverse? Unpacking the Digital Spheres</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-chordcatcher-software-insight/"><u>[Updated] In 2024, ChordCatcher Software Insight</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-free-youtube-gallery-downloads-now-for-2024/"><u>[Updated] Unlock Free YouTube Gallery Downloads Now for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/capturing-closer-action-tips-for-zooming-in-on-videoleap/"><u>Capturing Closer Action Tips for Zooming In on Videoleap</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-getting-your-logiteeck-g-pro-x-microphone-up-and-running-again/"><u>DIY Repair: Getting Your Logiteeck G Pro X Microphone Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-sound-back-fixing-inactive-mics-in-oculus-quest-2-headsets/"><u>Getting the Sound Back: Fixing Inactive Mics in Oculus Quest 2 Headsets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-reactivating-multiple-silent-audio-streams-easily/"><u>Guide to Reactivating Multiple Silent Audio Streams Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highest-echelon-writers-club-for-2024/"><u>Highest Echelon Writers Club for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-dolby-digital-decoder-errors-and-launch-audio-drivers-successfully-on-windows-11/"><u>How to Fix Dolby Digital Decoder Errors and Launch Audio Drivers Successfully on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-overcome-hdmi-issues-caused-by-competing-software-use/"><u>How to Overcome HDMI Issues Caused by Competing Software Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-from-speaker-issue-in-windows-computers/"><u>How To Resolve 'No Audio From Speaker' Issue in Windows Computers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-lock-pattern-creation-guide-for-windows-11-pcs/"><u>Personalized Lock Pattern Creation Guide for Windows 11 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-when-your-razer-headset-mic-stops-working/"><u>Quick Solutions for When Your Razer Headset Mic Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016552907-solution-found-get-your-windows-11-speakers-working-again-today/"><u>Solution Found: Get Your Windows 11 Speakers Working Again Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-steams-voice-chat-feature/"><u>Troubleshooting Tips: Resolving Issues with Steam's Voice Chat Feature</u></a></li>
+</ul></div>
 

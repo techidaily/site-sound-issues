@@ -1,7 +1,7 @@
 ---
 title: "Effective Fixes for Cod: Vanguard's Non-Functional Voice Chats"
-date: 2024-09-16T20:39:26.690Z
-updated: 2024-09-21T21:11:18.955Z
+date: 2024-09-29T22:34:46.487Z
+updated: 2024-10-02T01:50:04.984Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
@@ -69,20 +69,29 @@ You can follow the steps below to check:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
@@ -99,15 +108,16 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
 
@@ -129,5 +139,22 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos/"><u>[New] 2024 Approved Streamlining Your Workflow Adding Descriptive Elements to Photos on Windows/MacOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-beneath-the-wave-expert-strategies-for-filming-with-gopro-below-water-for-2024/"><u>[New] Beneath the Wave Expert Strategies for Filming with GoPro Below Water for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-dealing-with-a-malfunctioning-mic-on-your-arctis-7-by-steelseries/"><u>Effective Solutions for Dealing with a Malfunctioning Mic on Your Arctis 7 by SteelSeries</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-your-listening-discomfort-eliminate-headphone-static-now/"><u>End Your Listening Discomfort - Eliminate Headphone Static Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-dark-monitor/"><u>Graphics Glitch: Dark Monitor</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-12-pro-max-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats/"><u>In 2024, Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-through-null-detected-find-your-unlisted-graphics-card/"><u>Navigate Through Null Detected: Find Your Unlisted Graphics Card</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-all-things-about-adding-effects-in-kinemaster/"><u>New All Things About Adding Effects In Kinemaster</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-to-restoring-sound-on-the-astro-a50-wireless-system/"><u>Quick Fix Guide to Restoring Sound on the Astro A50 Wireless System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-trouble-with-your-corsair-gaming-headset-now-working/"><u>Solved! Trouble with Your Corsair Gaming Headset - Now Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-voice-issues-a-guide-to-restoring-audio-in-your-discord-calls/"><u>Solving Voice Issues: A Guide to Restoring Audio in Your Discord Calls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-keeping-your-top-chats-visible-on-instagram/"><u>Step-by-Step Guide: Keeping Your Top Chats Visible on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-why-isnt-my-corsair-void-mic-functioning/"><u>Step-by-Step Repair: Why Isn't My Corsair Void Mic Functioning?</u></a></li>
+</ul></div>
 

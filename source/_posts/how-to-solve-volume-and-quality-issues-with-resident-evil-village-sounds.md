@@ -1,7 +1,7 @@
 ---
 title: How to Solve Volume and Quality Issues with Resident Evil Village Sounds
-date: 2024-09-15T17:16:54.982Z
-updated: 2024-09-21T16:32:35.236Z
+date: 2024-09-30T23:02:08.197Z
+updated: 2024-10-02T03:16:01.740Z
 tags:
   - win11
   - win10
@@ -57,11 +57,26 @@ Here’s how to do it:
 5. In the**Playback** tab, click on**the device you use** , and then click**Set default** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-87.png)
 6. Click the**Recording** tab, then**make sure your microphone device is set as default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 
  Open Fortnite and check to see if the Fortnite no sound problem is resolved. If yes, then great! If the problem remains, please try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Disable all enhancements
 
@@ -75,22 +90,15 @@ Here’s how to do it:
 4. In the **Enhancements** tab, tick**Disable all sound effects** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. For some sound cards, this feature is listed under the**Advanced** tab, and you should untick the box for**Enable audio enhancements** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/disable-audio-enhancements.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try your Fortnite again to see if the no sound issue is fixed. If not, please move on.
 
@@ -106,31 +114,17 @@ Here is how to adjust Fortnite game settings:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-100.png)
 2. Click**SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-101.png)
 3. Click**the sound icon** . Then make sure**Voice Chat** and**Push To Talk** are both set**On** . In**Voice Chat Input Device** and**Voice Chat Output Device** , make sure**the devices are the ones you’ve set in Fix 1** . Once one, click**Apply** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-104.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Open Fortnite to see if the no sound on Fortnite issue is fixed. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
@@ -149,15 +143,42 @@ Here is how to adjust Fortnite game settings:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Start a new game in Fortnite and see if you got sounds back. If yes, then great – you’ve solved the no sound issue! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Update DirectX
 
@@ -190,5 +211,26 @@ Here is how to adjust Fortnite game settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-transform-virtual-engagements-the-10-free-applications-you-need/"><u>[Updated] In 2024, Transform Virtual Engagements The 10 Free Applications You Need</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-engaging-vids-with-template-magic/"><u>2024 Approved Crafting Engaging Vids with Template Magic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromecast-integration-tips-for-optimizing-your-amazon-fire-tv-experience/"><u>Chromecast Integration Tips for Optimizing Your Amazon Fire TV Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-solving-speaker-issues-easily/"><u>How To Get Your Windows 11 Audio Back: Solving Speaker Issues Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-notebook-silent-discover-the-easy-steps-to-bring-back-your-laptops-audio/"><u>HP Notebook Silent? Discover the Easy Steps to Bring Back Your Laptop's Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-educational-flair-into-your-win-11-display/"><u>Infuse Educational Flair Into Your Win 11 Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/logging-live-audio-on-the-go-a-user-friendly-manual/"><u>Logging Live Audio On-the-Go A User-Friendly Manual</u></a></li>
+<li><a href="https://blog-min.techidaily.com/macxdvd-ios-application-receives-essential-full-update-for-iphone-7-and-plus-models/"><u>MacXDVD iOS Application Receives Essential Full-Update for iPhone 7 & Plus Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-communication-in-sea-of-thieves-a-fix-for-non-functional-mic-on-pc/"><u>Mastering Communication in Sea of Thieves - A Fix for Non-Functional Mic on PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/optimizing-your-podcasts-the-seo-blueprint-for-2024/"><u>Optimizing Your Podcasts The SEO Blueprint for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-cyberpunk-2077-for-windows-10-users-step-by-step-guide/"><u>Restoring Audio to Cyberpunk 2077 for Windows 10 Users - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-gaming-audio-on-windows-10-quick-fixes-for-anthems-no-sound-glitch/"><u>Revive Gaming Audio on Windows 10 | Quick Fixes for Anthem's No-Sound Glitch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-cool-vids-from-scratch-with-your-mac-newcomers-guide/"><u>Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/should-you-rely-on-social-networks-for-your-digital-security-footprint-across-multiple-apps/"><u>Should You Rely on Social Networks for Your Digital Security Footprint Across Multiple Apps?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-redragon-headset-microphone-on-your-computer/"><u>Step-by-Step Guide to Restoring Redragon Headset Microphone on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-resolving-toshiba-laptop-audio-issues/"><u>Top Solutions for Resolving Toshiba Laptop Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repair-guide-csgo-buhne-malfunctions/"><u>Troubleshooting and Repair Guide: CS:GO Buhne Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-ps3-controller-connection-issues/"><u>Ultimate Guide: Solving PS3 Controller Connection Issues</u></a></li>
+</ul></div>
 

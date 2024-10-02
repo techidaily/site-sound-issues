@@ -1,7 +1,7 @@
 ---
 title: Five Effective Methods to Troubleshoot Windows 11 Sound Malfunctions
-date: 2024-09-19T21:51:24.274Z
-updated: 2024-09-26T17:00:16.295Z
+date: 2024-09-30T20:23:57.694Z
+updated: 2024-10-01T20:43:19.325Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
 
 If the output device works as expected, simply continue to the next step.
@@ -56,23 +63,16 @@ If the output device works as expected, simply continue to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
 
- If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
 
 ### Fix 3: Configure output device properly
 
@@ -89,6 +89,13 @@ Here’s how:
 
 If the issue lingers on, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your audio driver
 
  There’re multiple reports suggesting that the no sound issue is caused by an**outdated or incompatible audio driver** . Some drivers might not work properly if you upgrade from Windows 10\. For Windows 11 to function properly, you need to make sure you have the latest correct audio driver.
@@ -100,22 +107,8 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -130,13 +123,21 @@ If the issue lingers on, check out the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Scan and pair Windows
@@ -151,19 +152,19 @@ If the issue lingers on, check out the next fix below.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -180,15 +181,16 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-1.jpg)
 2. Under**Recovery options** , click**Reset PC** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
@@ -215,24 +217,20 @@ If the issue lingers on, check out the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-video-sources-and-uploading-on-instagram-for-2024/"><u>[New] Navigating Video Sources and Uploading on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-mediameld-mixer/"><u>2024 Approved MediaMeld Mixer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-11-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme 11 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-barriers-to-affordable-editing-power-for-2024/"><u>Breaking Down Barriers to Affordable Editing Power for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-motorola-moto-g13-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Moto G13 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/clockwise-chronicles-apples-video-reversal-method/"><u>Clockwise Chronicles Apple's Video Reversal Method</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-a-malfunctioning-webex-mic-this-year/"><u>Essential Fixes for a Malfunctioning Webex Mic This Year</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-redrazor-headset-mic-on-your-computer/"><u>How to Fix a Non-Functioning RedRazor Headset Mic on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-sounds-disappearing-or-stuttering-on-your-windows-11-pc-solutions-explored/"><u>How to Fix Sounds Disappearing or Stuttering on Your Windows 11 PC: Solutions Explored</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-mic-in-rec-room-for-windows-users-a-2024-tutorial/"><u>How to Repair a Malfunctioning Mic in Rec Room for Windows Users - A 2024 Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-perfect-sound-quality-in-cyberpunk-2077-clear-audio-solutions/"><u>How to Restore Perfect Sound Quality in Cyberpunk 2077 - Clear Audio Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g13-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-g84-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto G84 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-functionality-how-to-troubleshoot-a-non-responsive-logitech-g430-microphone/"><u>Restoring Functionality: How to Troubleshoot a Non-Responsive Logitech G430 Microphone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-to-correct-lameencdll-problems-in-audacity-mp3-encoding/"><u>Step-by-Step Solutions to Correct lame_enc.dll Problems in Audacity MP3 Encoding</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repairing-horizontal-display-issues-in-your-samsung-television/"><u>Troubleshooting and Repairing Horizontal Display Issues in Your Samsung Television</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-microphones-top-fixes-that-work/"><u>Troubleshooting Quiet Microphones: Top Fixes That Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-unresponsive-csgo-microphone-problems/"><u>Troubleshooting Steps for Unresponsive CS:GO Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-2024-updates-in-rainbow-six-siege-voice-chat-issues/"><u>Troubleshooting Steps to Resolve 2024 Updates in Rainbow Six Siege Voice Chat Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-creation-the-complete-review-of-sj-cam-s6/"><u>[New] Mastering Video Creation The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/exclusive-fixes-for-when-your-airpods-mic-stops-recognizing-voice-inputs-on-windows-10-devices/"><u>Exclusive Fixes for When Your AirPods Mic Stops Recognizing Voice Inputs on Windows 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-issues-how-to-restart-the-dolby-digital-driver-on-windows-11/"><u>Fixing Dolby Atmos Issues: How to Restart the Dolby Digital Driver on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sony-wh-1000xm-headsets-mic-connectivity-glitches-in-windows-systems/"><u>Fixing Sony WH-1000XM Headset's Mic Connectivity Glitches in Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gimbal-guide-for-enhanced-aerial-video-quality/"><u>In 2024, Gimbal Guide for Enhanced Aerial Video Quality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-12-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi 12 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-13t-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 13T Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-the-art-of-video-capturing-zdsofts-method/"><u>Mastering the Art of Video Capturing ZDSoft's Method</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-onikuma-microphone-headset-issues-a-comprehensive-solution/"><u>Resolving Onikuma Microphone Headset Issues: A Comprehensive Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resonant-worlds-restored-fixing-the-no-sound-dilemma-for-borderlands-3-players-on-computers/"><u>Resonant Worlds Restored: Fixing the No Sound Dilemma for Borderlands 3 Players on Computers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-top-7-innovative-mobile-streaming-tools-for-youtube-enthusiasts-for-2024/"><u>Scouting Top 7 Innovative Mobile Streaming Tools for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sony-psvr-2-update-unlocking-insights-into-cost-availability-timeline-and-device-features/"><u>Sony PSVR 2 Update: Unlocking Insights Into Cost, Availability Timeline & Device Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configuration-in-windows-11/"><u>Troubleshooting Unknown Speaker Configuration in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-your-corsair-hs35-mic-wont-work-with-windows-and-how-to-fix-it/"><u>Why Your Corsair HS35 Mic Won't Work With Windows and How to Fix It</u></a></li>
 </ul></div>
 

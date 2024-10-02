@@ -1,7 +1,7 @@
 ---
 title: "'Back 4 Blood' Players Face Voice Chat Problems: Solutions Inside"
-date: 2024-09-25T22:38:06.690Z
-updated: 2024-09-26T22:14:11.283Z
+date: 2024-09-27T23:21:08.097Z
+updated: 2024-10-02T02:02:13.384Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 If the in-game voice chat is still not working, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -75,6 +75,19 @@ If the in-game voice chat is still not working, try the next fix.
 
  If updating your audio driver doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Set your audio device as the default device
 
  If you don’t have the correct audio devices set in Windows and Steam, your microphone or headset may not work properly. To ensure the voice chat works properly, you’ll need to set your audio device as the default device. Here’s how:
@@ -83,37 +96,24 @@ If the in-game voice chat is still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headset** you want to use and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Click the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Launch Steam. At the bottom-right corner of the Steam client, click**FRIENDS & CHAT** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-friends-chat.jpg)
@@ -121,29 +121,16 @@ If the in-game voice chat is still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/friends-chat-gear.jpg)
 6. Select**VOICE** . In**VOICE INPUT DEVICE** , select the microphone you set as the default device in step 3). In**VOICE OUTPUT DEVICE** , select the headset you set as the default device in step 2).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-voice-set.jpg)
 7. Launch Back 4 Blood again to see if the voice chat is working properly.
 
 If the issue remains, check out the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Connect your microphone directly to your controller
@@ -158,6 +145,13 @@ If the issue remains, check out the next fix.
 2. **Right-click** Back 4 Blood and select**Manage** \>**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-uninstall-game.jpg)
 3. After the process completes, reinstalling the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Back 4 Blood voice chat not working issue should have been resolved after trying all the fixes mentioned above. But if not, you can contact the Back 4 Blood support directly and[submit a ticket](https://go.wbgames.com/B4BHelp) .
 
@@ -182,19 +176,18 @@ If the issue remains, check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-premium-10-tools-for-crafting-tiktok-videos-online-w/"><u>[New] 2024 Approved Premium 10 Tools for Crafting TikTok Videos Online (W)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-perfecting-online-presentations-with-googles-whiteboard-tools-on-multiple-platforms/"><u>[Updated] Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/7-high-impact-workout-videos-that-engage-and-energize-audiences-for-2024/"><u>7 High-Impact Workout Videos That Engage and Energize Audiences for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silence-resolving-no-audio-issue-in-cyberpunk-2077-on-windows-10/"><u>Fixing Silence: Resolving No Audio Issue in Cyberpunk 2077 on Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-15-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 15 Plus</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-microphone-functionality-issues-in-sea-of-thieves-pc-version/"><u>How to Repair Microphone Functionality Issues in 'Sea of Thieves' (PC Version)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-note-30-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Note 30</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30-vip-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30 VIP to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/photoshops-stabilization-an-essential-tool-or-overrated-feature-in-2024/"><u>Photoshop's Stabilization An Essential Tool or Overrated Feature, In 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pooch-pics-reel-entertainment-in-family-settings/"><u>Pooch Pics Reel: Entertainment in Family Settings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-issue-audio-output-misdirected-headphones-connected-yet-noise-emanates-from-speakers/"><u>Resolved Issue: Audio Output Misdirected - Headphones Connected, Yet Noise Emanates From Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-game-sounds-on-fortnite-the-ultimate-troubleshooting-checklist-for-gamers/"><u>Restoring Game Sounds on Fortnite: The Ultimate Troubleshooting Checklist for Gamers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-voicemod-issues/"><u>Troubleshooting Guide: Solving Voicemod Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-how-to-repair-your-airpods-microphone-issues-on-windows-11/"><u>Troubleshooting Solutions: How to Repair Your AirPods Microphone Issues on Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-which-frame-rate-is-ideal-analyzing-benefits-of-30fps-and-60fps/"><u>[New] In 2024, Which Frame Rate Is Ideal? Analyzing Benefits of 30Fps and 60Fps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-digital-detective-finding-and-watching-yt-archives/"><u>[Updated] In 2024, Digital Detective Finding and Watching YT Archives</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-f5-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-your-corsair-hs35-audio-back-a-step-by-step-guide-for-resolving-windows-connectivity-issues/"><u>Bring Your Corsair HS35 Audio Back: A Step-by-Step Guide for Resolving Windows Connectivity Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-chat-problems-in-apex-legends-step-by-step-guide/"><u>How To Resolve Voice Chat Problems in Apex Legends - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nt-youtube-playlists-shared-tutorial/"><u>Instant YouTube Playlists Shared Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-game-sounds-effective-fixes-for-cyberpunk-2077-sound-problems-on-windows-10/"><u>Restoring Game Sounds: Effective Fixes for Cyberpunk 2077 Sound Problems on Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-audio-driver-management-download-and-update-made-easy/"><u>Seamless Audio Driver Management: Download and Update Made Easy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-iphone-and-pc-file-management-without-itunes-discover-the-leading-third-party-sync-software-solutions/"><u>Seamless iPhone & PC File Management without iTunes: Discover the Leading Third-Party Sync Software Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-11-compatibility-problems-with-airpods-audio-and-mic/"><u>Solving Windows 11 Compatibility Problems with AirPods Audio and Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-making-your-laptop-speakers-function-again/"><u>Troubleshooting Guide: Making Your Laptop Speakers Function Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-get-sounds-working-again-in-anthem-with-windows-11/"><u>Troubleshooting Steps to Get Sounds Working Again in Anthem with Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-performance-of-a-google-wireless-nest-doorbell-battery/"><u>Unveiling the Performance of a Google Wireless Nest Doorbell (Battery)</u></a></li>
 </ul></div>
 

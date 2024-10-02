@@ -1,7 +1,7 @@
 ---
 title: "Fixing Mic Failures: Tips and Tricks for Windows 11 Users"
-date: 2024-09-25T17:19:12.643Z
-updated: 2024-09-26T23:50:04.699Z
+date: 2024-09-26T00:20:05.166Z
+updated: 2024-10-01T17:42:08.176Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Many users have updated to Windows 11, but some of them encounter Bluetooth not 
 5. **[Change the Bluetooth device discovery setting](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Repair your system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your device
 
  Before starting any complicated fixes, make sure you’ve checked these things:
@@ -46,6 +53,14 @@ Here’s how to check on Windows 11 PC:
 1. Press the**Windows logo key + A** to open**Quick Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/quick-settings.jpg)
 2. Make sure the Bluetooth option is enabled.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. You can re-enable Bluetooth on your PC by turning off Bluetooth and then enabling it later. Then check if your device can work on your PC. It may work for some users. If you need help doing this, please skip to here:[how to pair your Bluetooth device on Windows 11](https://tools.techidaily.com/drivereasy/download/)
 
  If you’re sure your device supports Bluetooth and was already paired with your PC, move to the next method to get it working.
@@ -67,18 +82,18 @@ Here’s how:
 
  If the Bluetooth troubleshooter doesn’t work, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your Bluetooth driver
 
  One of the most common causes of Bluetooth not working problem is an outdated or faulty Bluetooth driver. If you never bother to or don’t remember when was the last time you updated your Bluetooth driver, definitely do it now. It might just fix your problem right away.
 
  There’re mainly 2 ways you can update your Bluetooth driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your Bluetooth driver manually
 
@@ -87,10 +102,10 @@ Here’s how:
  To do so, first, visit the website of your device manufacturer, then search for your device model. Be sure to download only the latest driver that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2:Update your Bluetooth driver automatically (Recommended)
@@ -119,18 +134,19 @@ Here’s how:
 2. Scroll down to find**Bluetooth Support Service** , then double-click it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-service-1.jpg)
 3. In the pop-up window, go to the**General** tab. Click**Stop** under Service status. Then click**Start** next to it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/blutooth-service-restart.jpg)
 4. Select**Automatic** in the Startup type drop-down menu. Then click**Apply > OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-service-2.jpg)
 
  The Bluetooth Support Service is running in normal terms and you should be able to pair your device and use it normally.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Change the Bluetooth devices discovery setting
 
@@ -139,23 +155,17 @@ Here’s how:
 1. On your keyboard, press the**Windows** key and the**I** key together. Select**Bluetooth & devices** , then**Devices.**  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-settings.png)
 2. Scroll down and change the**Bluetooth devices discovery** option to**Advanced** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-settings-advanced.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try to see if your Bluetooth starts working properly. If the problem remains, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Repair your system files
 
@@ -175,33 +185,26 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2 – Manually
@@ -249,22 +252,24 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-dimensions-the-key-to-perfect-aspect-ratios-in-video/"><u>[New] In 2024, Decoding Dimensions The Key to Perfect Aspect Ratios in Video</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/uick-ascent-to-youtube-affiliates-with-10k-vistas/"><u>[New] Quick Ascent to YouTube Affiliates with 10K Vistas</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-navigating-high-dynamic-range-photography-with-ps/"><u>2024 Approved Navigating High Dynamic Range Photography with PS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-top-8-converter-list-for-sub-to-srt/"><u>2024 Approved Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/activate-and-repair-a-defective-windows-scan-function/"><u>Activate and Repair a Defective Windows Scan Function</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-core-of-windows-os-a-guide-to-the-windows-registry-system/"><u>Exploring The Core of Windows OS: A Guide to the Windows Registry System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016288639-fix-your-fortnite-voice-chat-issues-instantly-simple-solutions/"><u>Fix Your Fortnite Voice Chat Issues Instantly: Simple Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hp-notebook-audio-issues-step-by-step-troubleshooting-guide/"><u>Fixing HP Notebook Audio Issues: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-a-nonfunctional-logitech-camera-and-mic/"><u>Fixing Issues with a Nonfunctional Logitech Camera and Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-noisy-or-distorted-sounds-tips-to-enhance-your-outriders-gaming-experience/"><u>Fixing Noisy or Distorted Sounds: Tips to Enhance Your Outriders Gaming Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-14-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 14 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722900820951-introducing-the-next-gen-of-ipads-by-apple-inc/"><u>Introducing the Next Gen of iPads by Apple Inc.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/navigate-through-common-voicemod-errors-essential-repair-techniques-for-a-seamless-2024-experience/"><u>Navigate Through Common Voicemod Errors – Essential Repair Techniques for a Seamless 2024 Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-when-your-corsair-hs60-mic-stops-working/"><u>Solution Guide: When Your Corsair HS60 Mic Stops Working</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/storage-solutions-increase-your-pcs-capacity/"><u>Storage Solutions: Increase Your PC's Capacity</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-best-of-the-best-online-stop-motion-makers-reviewed-for-2024/"><u>The Best of the Best Online Stop Motion Makers , Reviewed for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-skype-mic-not-working-heres-how-to-repair-it/"><u>Windows 11 Skype Mic Not Working? Here's How to Repair It</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-tips-for-crafting-an-engaging-video-closure-on-youtub/"><u>[New] 2024 Approved Tips for Crafting an Engaging Video Closure on YouTub</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-investigating-fb-video-shape-variance-for-2024/"><u>[New] Investigating FB Video Shape Variance for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kinemasters-complete-guide-to-flawless-transitions/"><u>2024 Approved Kinemaster's Complete Guide to Flawless Transitions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-recovery-tips-for-your-computer-connected-via-hdmi-to-a-monitor-or-television-without-sound-output/"><u>Audio Recovery Tips for Your Computer Connected Via HDMI to a Monitor or Television Without Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015827095-conexant-hd-audio-not-working-in-windows-11-heres-how-to-restore-sound/"><u>Conexant HD Audio Not Working in Windows 11? Here's How to Restore Sound!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-corsair-k70-gaming-keyboard-software-and-drivers/"><u>Download Corsair K70 Gaming Keyboard Software & Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-functionality-for-your-malfunctioning-corsair-hs60-headset-microphone/"><u>Guide to Restoring Functionality for Your Malfunctioning Corsair HS60 Headset Microphone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-3-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 3 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016023711-hyperx-cloud-mic-not-working-heres-how-to-solve-it/"><u>HyperX Cloud Mic Not Working? Here's How to Solve It!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-mic-check-simple-steps-for-instant-microphone-testing/"><u>Quick Mic Check: Simple Steps for Instant Microphone Testing!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-internal-laptop-speakers-no-more-soundless-screens/"><u>Reviving Internal Laptop Speakers: No More Soundless Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-blue-yeti-mic-doesnt-detect-or-work-properly/"><u>Solutions for When Blue Yeti Mic Doesn't Detect or Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-guide-restoring-sound-with-your-desktoplaptop-or-mac-connected-to-an-hdmi-display/"><u>Solutions Guide: Restoring Sound with Your Desktop/Laptop or MAC Connected to an HDMI Display</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-oleaut32dll-is-unavailable-error-message/"><u>Step-by-Step Guide: Correcting 'Oleaut32.dll' Is Unavailable Error Message</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968818353-step-by-step-updating-your-lenovo-x1-carbon-on-windows-107-with-newest-drivers/"><u>Step-by-Step: Updating Your Lenovo X1 Carbon on Windows 10/7 with Newest Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-clarification-googles-podcast-application-simplified-for-2024/"><u>Total Clarification Google's Podcast Application Simplified for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-bluetooth-audio-jitter-when-using-windows-11-systems/"><u>Troubleshooting Bluetooth Audio Jitter When Using Windows 11 Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-android-video-editor-showdown-top-10-free-and-paid-picks/"><u>Updated Android Video Editor Showdown Top 10 Free and Paid Picks</u></a></li>
 </ul></div>
 

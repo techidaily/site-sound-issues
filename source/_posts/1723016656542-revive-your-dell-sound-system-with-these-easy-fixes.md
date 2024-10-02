@@ -1,7 +1,7 @@
 ---
 title: Revive Your Dell Sound System with These Easy Fixes!
-date: 2024-09-14T20:49:37.952Z
-updated: 2024-09-21T20:48:37.870Z
+date: 2024-09-30T01:43:16.383Z
+updated: 2024-10-01T18:35:15.916Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
  Try disconnecting and reconnecting and see if there is any sound. Or you can try another mic or headphone and see if where the problem lies in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check the audio settings
 
 [**FIX IT NOW >>**](https://tools.techidaily.com/drivereasy/download/)
@@ -70,9 +77,23 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see**Playbackdevices** in the list, you can click**Sounds** and click**Playback** tab in the popup pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7cf0591ed.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7d1c24965.jpg)
 
@@ -89,6 +110,13 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
  4) Then select your speaker device, and click **Set Default** to set your device as the default audio device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7e66d92bb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **OK** to save your changes.
 
@@ -110,15 +138,22 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7d1c24965.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Playback** tab, select your audio device, and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7f53b8c19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Advanced** tab. In the **Default Format** section, select different **audio format** , then click the **Test** button. See if you hear any sound.
@@ -132,10 +167,10 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b7fe87ee96.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the no sound issue still happens, don’t worry. We have something else to try.
@@ -161,10 +196,10 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged audio device to automatically download the correct version of their driver (you can do this with the **FREE** version), then install it in your computer.
@@ -187,23 +222,9 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b8233e45df.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Device Manager, double click **Sound, video and game controllers** to expand it, right click on your audio device and select **Uninstall** **device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9b82d48bb87.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) If you see a popup to confirm, check the box next to **Delete the driver software for this device** , and click **Uninstall** .
 
@@ -241,5 +262,26 @@ There is**no sound on your Dell laptop** when you’re listening to music or wat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mobile-virtual-realms-the-best-10-headsets-ranking/"><u>[New] 2024 Approved Mobile Virtual Realms The Best 10 Headsets Ranking</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essential-tips-for-audio-crossfades-in-premiere-pro/"><u>[New] Essential Tips for Audio Crossfades in Premiere Pro</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-connecting-with-real-time-tiktoks-practical-guide/"><u>[New] In 2024, Connecting with Real-Time TikToks Practical Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-multitasking-using-obs-studio-for-dynamic-streaming/"><u>2024 Approved Mastering Multitasking Using OBS Studio for Dynamic Streaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conexant-smartaudio-hd-muting-woes-restore-audio-on-windows-10-heres-how/"><u>Conexant SmartAudio HD Muting Woes? Restore Audio on Windows 10 Here's How!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-wow-voice-communication-issues-troubleshooting-guide/"><u>Fixing Your WoW Voice Communication Issues: Troubleshooting Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g-stylus-5g-2023-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Moto G Stylus 5G (2023) FRP Locks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-optimize-sound-settings-for-apej-legends-players/"><u>How to Enable and Optimize Sound Settings for Apej Legends Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-devices-broken-front-sound-input-port/"><u>How To Repair Your Device's Broken Front Sound Input Port 🔧</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-expert-solutions-for-a-broken-mic-problem/"><u>HyperX Cloud Alpha S: Expert Solutions for a Broken Mic Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-audio-trouble-heres-how-to-restore-your-mic/"><u>HyperX Cloud Stinger Audio Trouble? Here's How to Restore Your Mic</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-p55-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel P55 to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-xr21-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia XR21 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-issues-a-guide-for-non-working-corsair-earsets/"><u>Overcoming Connectivity Issues: A Guide for Non-Working Corsair Earsets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/perpetual-display-documentation-firms-for-2024/"><u>Perpetual Display Documentation Firms for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smart-reading-choices-explore-the-best-ai-recommendation-websites-for-your-next-book/"><u>Smart Reading Choices: Explore the Best AI Recommendation Websites for Your Next Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-sound-blaster-mic/"><u>Troubleshooting Guide: Resolving Issues with Your Sound Blaster Mic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-streaming-zoom-calls-from-pcmac-to-television/"><u>Ultimate Guide: Streaming Zoom Calls From PC/Mac to Television</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-resolving-echo-issues-in-discord-on-your-computer/"><u>Ultimate Troubleshooting: Resolving Echo Issues in Discord on Your Computer</u></a></li>
+</ul></div>
 

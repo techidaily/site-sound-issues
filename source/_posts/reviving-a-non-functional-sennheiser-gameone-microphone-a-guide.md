@@ -1,7 +1,7 @@
 ---
 title: "Reviving a Non-Functional Sennheiser GameOne Microphone: A Guide"
-date: 2024-09-23T22:31:32.107Z
-updated: 2024-09-26T17:47:19.773Z
+date: 2024-10-01T01:04:28.697Z
+updated: 2024-10-01T22:41:34.368Z
 tags:
   - win11
   - win10
@@ -53,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. On the**Levels** tab, drag the sliders of**Microphone** and**Microphone Boost** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself. After that, click**OK** to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-393.png)
@@ -76,26 +84,12 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Scroll down and click on**More sound settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. Go to**Advanced** , and untick the box for**Allow applications to take exclusive control of this device** . After that, click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-36.png)
 6. Click**OK** to save the change.
@@ -113,21 +107,14 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 2. Go to the**Audio Settings** tab and select**Audio** below. Then, pay attention to the related audio settings and make certain they are**turned on** or set to the correct state.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-339.png)
 3. Select**Game Settings** **\> Communication** . Make sure you haven’t muted your friends or others in the game. (This is not necessarily related to your mic, so you may skip this step if you want.)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-345.png)
 4. Go to**Controller** . Below you’ll see the item –**Use Mic** . If there’s already a shortcut key assigned to it, then you don’t need to change anything; otherwise please assign a shortcut key to it. (The default key is**K** .)  
@@ -149,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -186,10 +180,10 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-363.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. In the pop-up window, scroll through the list of services to locate**Windows Audio** . Click to highlight this item and click**Restart** in the left pane.  
@@ -208,10 +202,10 @@ If this fix didn’t help, you might try out the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Check if the Microphone access button is Off. If so, simply turn it**On** .  
@@ -223,6 +217,13 @@ If this fix didn’t help, you might try out the next one.
  After making these tweaks, check to see if your mic goes back to normal in CS:GO. If not, there’s still one last fix you may try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Enter ‘voice\_enable 1’
 
@@ -244,16 +245,23 @@ Test your mic in the game and see if it works properly now.
 2. [**Run SFC scan**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Repair & replace corrupted system files with Fortect
 
  The issue could be caused by corrupt system files.[**Fortect**](https://tools.techidaily.com/drivereasy/download/) is a tool that specializes in Windows repairing and fixing corrupt files automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/fortect-logo-white.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With[**Fortect**](https://tools.techidaily.com/drivereasy/download/) , the preliminary will scan your computer’s operating system for viruses, malware, and missing, damaged, or corrupt files, then it removes all problematic files found and replaces them with new healthy files. It’s like a clean reinstall of your operating system, except that you won’t lose any user data, and all programs, and settings are exactly as they are before the repair.
 
@@ -278,13 +286,6 @@ Here’s how to use Fortect to repair system files on your PC:
 2. Type in **SFC /Scannow** , and then press **Enter** .  
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. When the process is completed, reboot your computer and test if the issue still exists.
@@ -313,17 +314,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-apowersoft-free-screen-recorder-review/"><u>[Updated] Apowersoft Free Screen Recorder Review</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-make-money-on-tiktok-in-8-ways/"><u>[Updated] How to Make Money on TikTok in 8 Ways</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-troubleshooting-and-fixing-your-voice-chat-issues/"><u>Apex Legends: Troubleshooting and Fixing Your Voice Chat Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-audio-issues-on-windows-7-a-comprehensive-guide/"><u>Fixing HDMI Audio Issues on Windows 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-laughmaker-quick-meme-and-image-crafter/"><u>In 2024, LaughMaker Quick Meme & Image Crafter</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nubia-red-magic-8s-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nubia Red Magic 8S Pro FRP</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-management-problems-heres-how-to-solve-them/"><u>Realtek HD Audio Management Problems? Here’s How to Solve Them</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-toshibas-speakers-expert-guides-to-fixing-no-sound-issues/"><u>Reviving Your Toshiba's Speakers: Expert Guides to Fixing No Sound Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-helldivers-2-crashes-on-pc-with-these-reliable-methods/"><u>Troubleshoot Helldivers 2 Crashes on PC with These Reliable Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-microphone-issues-in-airpods-on-windows-10/"><u>Troubleshooting Microphone Issues in AirPods on Windows 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/tune-trailblazers-discovering-melodies-on-the-move/"><u>Tune Trailblazers: Discovering Melodies on the Move</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unveiling-the-secrets-of-facebook-story-filming-and-editing/"><u>Unveiling the Secrets of Facebook Story Filming and Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigating-youtube-rights-an-experts-handbook/"><u>[New] Navigating YouTube Rights An Expert's Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-technology-behind-vr-goggles/"><u>[New] Understanding the Technology Behind VR Goggles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-guide-to-perfectly-shaped-objects-minecraft-circles-and-spheres/"><u>[Updated] 2024 Approved Expert Guide to Perfectly Shaped Objects Minecraft Circles & Spheres</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktoks-anime-revolution-innovative-ideas-countdown/"><u>[Updated] In 2024, TikTok's Anime Revolution Innovative Ideas Countdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/augmented-viewing-the-vr-cinematic-revolution/"><u>Augmented Viewing The VR Cinematic Revolution</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-lead-generation-with-cookiebot-technology/"><u>Automated Lead Generation with Cookiebot Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-successfully-repair-no-sound-issues-in-toshiba-notebooks/"><u>How to Successfully Repair No-Sound Issues in Toshiba Notebooks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-zen-and-the-art-of-crystal-clear-zoom-video/"><u>In 2024, Zen and the Art of Crystal-Clear Zoom Video</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-failures-tips-and-solutions-for-phasmophobia-players/"><u>Overcoming Voice Chat Failures - Tips and Solutions for Phasmophobia Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-windows-11-bluetooth-problems-a-comprehensive-fix-guide/"><u>Resolve Your Windows 11 Bluetooth Problems: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sennheiser-headset-woes-heres-how-you-can-fix-your-game-one-mic-issues-easily/"><u>Sennheiser Headset Woes? Here's How You Can Fix Your Game One Mic Issues Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-headphone-issues-on-your-windows-10-pc/"><u>Step-by-Step Solution for Headphone Issues on Your Windows 10 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-sound-dysfunctions-clearing-stutters-and-distortions-on-windows-os/"><u>Troubleshoot Sound Dysfunctions: Clearing Stutters and Distortions on Windows OS</u></a></li>
 </ul></div>
 

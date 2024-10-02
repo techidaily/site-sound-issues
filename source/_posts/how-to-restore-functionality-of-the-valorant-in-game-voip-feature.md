@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality of the VALORANT In-Game VOIP Feature
-date: 2024-09-20T20:35:51.716Z
-updated: 2024-09-26T16:26:40.230Z
+date: 2024-09-29T16:12:10.502Z
+updated: 2024-10-01T22:44:09.688Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/e31d50b2743110f134bc23265ecc5f29f1da28d78
 
 If the output device works as expected, simply continue to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the troubleshooter
 
  Windows has a**built-in troubleshooter** that fixes basic issues automatically. You can run the troubleshooter and see if it’s just the wrong setting.
@@ -60,10 +67,10 @@ If the output device works as expected, simply continue to the next step.
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure output device properly
@@ -78,16 +85,23 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the issue lingers on, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -101,34 +115,20 @@ If the issue lingers on, check out the next fix below.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all the drivers, restart your PC and check if the issue persists.
 
  If the latest drivers can’t fix the problem, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for the latest system updates
 
@@ -138,14 +138,14 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Scan and pair Windows
 
@@ -157,13 +157,6 @@ If the issue lingers on, check out the next fix below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -181,19 +174,27 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-1.jpg)
 2. Under**Recovery options** , click**Reset PC** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
 5. Follow the on-screen instructions to reset your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -216,18 +217,18 @@ If the issue lingers on, check out the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-immediate-silence-sudden-deletion-fears/"><u>[Updated] 2024 Approved Immediate Silence Sudden Deletion Fears</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos/"><u>[Updated] In 2024, Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unlocking-idevice-screen-playback-perfection/"><u>2024 Approved Unlocking iDevice Screen Playback Perfection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/efficient-fixes-for-hd-audio-driver-challenges-with-intels-idt-technology-in-windows-11/"><u>Efficient Fixes for HD Audio Driver Challenges with Intel's IDT Technology in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-solutions-for-windows-11-users-struggling-with-malfunctioning-search-features/"><u>Expert Solutions for Windows 11 Users Struggling with Malfunctioning Search Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-corsair-earphones-troubleshooting-guide-for-common-issues/"><u>Fixing Your Corsair Earphones: Troubleshooting Guide for Common Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-audio-output-on-your-windows-7-pc-easy-fixes-and-tips/"><u>How to Restore HDMI Audio Output on Your Windows 7 PC – Easy Fixes and Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-troubleshooting-stop-microphone-pop-ups-with-your-logitech-g-pro-x/"><u>Master the Art of Troubleshooting: Stop Microphone Pop-Ups with Your Logitech G Pro X</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-quietude-creators-guide-methods-to-extract-silence-from-mp4-mkv-avi-mov-wmv-videos/"><u>New In 2024, Quietude Creators Guide Methods to Extract Silence From MP4, MKV, AVI, MOV, WMV Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-communication-barriers-to-enhance-teamwork-in-phasmophobia/"><u>Overcoming Voice Communication Barriers to Enhance Teamwork in Phasmophobia</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-corsair-virtuosity-mic/"><u>Troubleshooting Guide: Resolving Issues with Your Corsair Virtuosity Mic</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-the-best-free-software-to-watch-dvds-on-windows-1011-winxdvd-included/"><u>Ultimate List of the Best Free Software to Watch DVDs on Windows 10/11 - WinXDVD Included!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-storage-units-converting-gigabytes-to-megabytes/"><u>Understanding Storage Units: Converting Gigabytes to Megabytes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-prime-7-video-software-for-apple-machines/"><u>[New] In 2024, Prime 7 Video Software for Apple Machines</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-tips-for-seamless-iphone-screen-recordings-for-2024/"><u>[Updated] Expert Tips for Seamless iPhone Screen Recordings for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bygone-brilliance-art-beyond-intellectual-property-for-2024/"><u>Bygone Brilliance Art Beyond Intellectual Property for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-correcting-the-issues-when-your-turtle-beach-elite-atlas-microphone-wont-work/"><u>Expert Advice: Correcting the Issues When Your Turtle Beach Elite Atlas Microphone Won't Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harness-the-power-of-combining-zoom-with-facebook-live-features/"><u>Harness the Power of Combining Zoom with Facebook Live Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-kotion-each-g2000-microphones-audio-input-functionality/"><u>How to Restore Your Kotion EACH-G2000 Microphone's Audio Input Functionality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-v-purse-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor V Purse without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/et-spectacle-top-hashes-to-trigger-the-viral-spree-on-youtube-for-2024/"><u>Snippet Spectacle Top Hashes to Trigger the Viral Spree on YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-skype-audio-problems-instantly/"><u>Solve Skype Audio Problems Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-restoring-functionality-to-your-steelseries-arctis-primes-mic/"><u>Step-by-Step Fix: Restoring Functionality to Your SteelSeries Arctis Prime's Mic</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Translate Video From English to Arabic with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-elevate-your-audio-quick-and-easy-voice-over-recording-in-fcp-for-2024/"><u>Updated Elevate Your Audio Quick & Easy Voice Over Recording in FCP for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-10-compatible-quick-and-easy-dvd-ripper-for-mp4-conversion-seamlessly-transform-your-dvds-into-high-quality-video-files/"><u>Windows 10 Compatible Quick & Easy DVD Ripper for MP4 Conversion – Seamlessly Transform Your DVDs Into High-Quality Video Files</u></a></li>
 </ul></div>
 

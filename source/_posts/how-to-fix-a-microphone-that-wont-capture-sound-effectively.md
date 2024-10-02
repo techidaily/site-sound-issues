@@ -1,0 +1,124 @@
+---
+title: How to Fix a Microphone That Won't Capture Sound Effectively
+date: 2024-09-26T18:20:42.429Z
+updated: 2024-10-01T17:02:36.553Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: This Article Describes How to Fix a Microphone That Won't Capture Sound Effectively
+excerpt: This Article Describes How to Fix a Microphone That Won't Capture Sound Effectively
+thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922706ba1c8b71876c558f69f9.jpg
+---
+
+## Google Hangouts Microphone Won't Work? Here’s How to Fix It Easily
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a168df494881.jpg)
+
+This morning, you open Google Hangouts to start a phone call or video call with your family, friends or workmates. But unfortunately, the one your are calling can’t hear you. So wired. That’s because your Google Hangouts microphone stops working. Don’t be frustrated. You can fix it and enjoy the call on Google Hangouts again. In this post, we’re going to tell you how to troubleshoot microphone not working problem on your Google Hangouts in Windows system step by step. Please read on and solve the problem on your computer.[**Several things to check before trying the methods**](https://tools.techidaily.com/drivereasy/download/)   **Method 1:[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**   **Method 2:[Update your microphone and other related driver](https://tools.techidaily.com/drivereasy/download/)**   **Method 3:[Close other programs those might use your microphone](https://tools.techidaily.com/drivereasy/download/)** [**How if you can’t hear other people speaking?**](https://tools.techidaily.com/drivereasy/download/)
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Several things to check before trying the methods
+
+Before you try the solutions below, please check these several things as it can easily make your microphone stop working by mistake. First, make sure your microphone is connected with your computer properly, if it’s a USB microphone, is it plugged into the right cable? Second, is your microphone muted? Last, do you turn on the microphone on your Hangouts call window? If you see your microphone icon is like this:
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b93b12398.png)
+
+Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Method 1: Restart your computer
+
+Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
+
+## Method 2: Update your microphone and other related driver
+
+Your microphone not working issue can be probably caused by an old, corrupted or missing driver. Besides, if your microphone is connected with a USB cable, the USB controller driver also takes an effect on your microphone function. So you can update your microphone driver and other related, like USB controller driver, sound card driver, to try to solve the problem. To update your device driver, you can go to its manufacturer’s website to download the latest driver and install the new driver on your computer or, if you’re not confident with playing around with drivers manually, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** help you do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for it. The drivers supplied by Driver Easy are all from the official manufacturer’s website, so you can totally trust it. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)3) If you try the Free version, click **Update** next to any flagged driver to automatically download and install the correct version of this driver. Or if you use the Pro version, click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.(and you get full support and a 30-day money back guarantee)
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4) Restart your computer and call the person on Hangouts again to see if he can hear you.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Method 3: Close other programs those might use your microphone
+
+ If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How if you can’t hear other people speaking?
+
+If you can’t hear the other person on Hangouts call, ask the person to troubleshoot the problem through the above guide. The problem is on their side if you can’t hear other people speaking. If you still have problem, don’t hesitate to tell us through comment below.
+
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/harnessing-power-boosting-mouseclicklock-in-windows-pcs/"><u>Harnessing Power: Boosting MouseClickLock in Windows PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-g54-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola G54 5G PC | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y78plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y78+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/key-steps-to-accurate-and-effective-market-research-analysis/"><u>Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
+<li><a href="https://facebook.techidaily.com/pondering-the-utility-of-meta-ai-in-social-platforms/"><u>Pondering the Utility of Meta AI in Social Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-audio-on-your-astro-a10-headset-effective-solutions-inside/"><u>Revive the Audio on Your Astro A10 Headset: Effective Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-battle-cries-troubleshooting-sound-issues-in-borderlands-npc/"><u>Reviving the Battle Cries: Troubleshooting Sound Issues in Borderlands nPC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-y200-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo Y200 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-fixes-for-a-malfunctioning-google-hangouts-microphone-issue/"><u>Simple Fixes for a Malfunctioning Google Hangouts Microphone Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-get-your-dota-n-microphone-back-on-track/"><u>Solving Audio Problems: Get Your Dota N Microphone Back on Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-dell-speaker-malfunctions-in-windows-eus/"><u>Solving Dell Speaker Malfunctions in Windows Eus</u></a></li>
+</ul></div>
+

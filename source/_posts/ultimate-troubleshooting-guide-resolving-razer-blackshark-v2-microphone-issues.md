@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Guide: Resolving Razer Blackshark V2 Microphone Issues"
-date: 2024-09-24T20:53:47.655Z
-updated: 2024-09-26T21:11:23.377Z
+date: 2024-09-29T18:57:38.544Z
+updated: 2024-10-01T17:01:41.725Z
 tags:
   - win11
   - win10
@@ -44,18 +44,18 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
 
@@ -67,27 +67,27 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Set your headset as the default device
 
@@ -109,6 +109,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
  5) Select the microphone and click **Properties** .
@@ -117,18 +124,18 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the headset driver
 
@@ -149,10 +156,10 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
@@ -161,13 +168,6 @@ Here’s how to do it:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Make sure to use the correct Default Format
 
@@ -212,17 +212,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-gold-class-selection-of-unseen-video-extractors/"><u>[New] Gold-Class Selection of Unseen Video Extractors</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-excellence-index-photoplustune-recording-software/"><u>[New] In 2024, Excellence Index Photo+Tune Recording Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-mastery-of-playback-essential-skills-in-ps3-recording/"><u>[New] In 2024, Mastery of Playback Essential Skills in PS3 Recording</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme FRP Bypass Instantly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/addressing-the-challenge-of-undetectable-headphone-devices-in-media-player-applications-on-windows-10-systems/"><u>Addressing the Challenge of Undetectable Headphone Devices in Media Player Applications on Windows 10 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-s17t-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo S17t Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-pre-upload-best-practices-to-maintain-tiktoks-integrity/"><u>In 2024, Pre-Upload Best Practices to Maintain TikTok's Integrity</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-canon-mf743-cddvd-drive-on-windows-step-by-step-guide-to-download-and-setup/"><u>Installing Canon MF743 CD/DVD Drive on Windows – Step-by-Step Guide to Download and Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-glitches-within-back-4-blood-a-comprehensive-guide/"><u>Overcoming Voice Chat Glitches Within 'Back 4 Blood': A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-beats-of-cyberpunk-2077-a-guide-for-fixing-sound-malfunctions-on-windows-10-systems/"><u>Revive the Beats of Cyberpunk 2077: A Guide for Fixing Sound Malfunctions on Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-problems-with-non-working-realtek-microphones-expert-advice/"><u>Solved: Problems with Non-Working Realtek Microphones - Expert Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-warzones-in-game-audio-on-pc-and-gaming-consoles/"><u>Step-by-Step Guide to Repairing Warzone's In-Game Audio on PC and Gaming Consoles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-apex-legends-mastery-exploring-single-platform-potential-for-2024/"><u>[New] Apex Legends Mastery Exploring Single Platform Potential for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xplore-and-evaluate-top-7-free-android-adblockers-unveiled/"><u>[New] Explore & Evaluate Top 7 Free Android AdBlockers Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-kinemasters-secret-to-meme-making-mastery/"><u>[New] KineMaster's Secret to Meme-Making Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-restrictions-uninstalling-print-devices-in-win-1011/"><u>Bypassing Restrictions: Uninstalling Print Devices in Win 10/11</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Does find my friends work on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-airpods-troubleshooting-sound-issues-on-pcs-with-windows-11-and-10/"><u>Fixing Silent AirPods: Troubleshooting Sound Issues on PCs with Windows 11 and 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016449391-hdmi-trouble-heres-what-to-do-if-another-application-is-using-the-device/"><u>HDMI Trouble? Here's What To Do If Another Application Is Using The Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-output-on-your-realtek-device-after-a-malfunction/"><u>How to Restore Audio Output on Your Realtek Device After a Malfunction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/move-past-the-comparison-discover-how-siri-differs-from-chatgpt/"><u>Move Past the Comparison: Discover How Siri Differs From ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-process-of-reactivation-after-instagram-account-limitation-or-deactivation/"><u>Navigating the Process of Reactivation After Instagram Account Limitation or Deactivation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-for-tuning-into-the-exclusive-samsung-product-launch-online/"><u>Tips for Tuning Into the Exclusive Samsung Product Launch Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-nvidia-output-unplugged-issues/"><u>Troubleshooting Guide: Solving 'Nvidia Output Unplugged' Issues</u></a></li>
 </ul></div>
 

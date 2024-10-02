@@ -1,7 +1,7 @@
 ---
 title: Failed To Recognize User's Fingerprint
-date: 2024-09-19T23:19:07.068Z
-updated: 2024-09-26T23:21:02.052Z
+date: 2024-09-29T00:41:06.702Z
+updated: 2024-10-01T18:23:02.845Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 
  But don’t worry. We’ll help you fix the scanner not working on HP.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix the HP scanner not working
 
  Here are solutions that have helped people resolve the same issue. You don’t need to try them all; just work your way down the list.
@@ -53,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the connection issue
 
  To use your scanner, you need to make sure that your scanner is**powered on** in the first place.
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
 **Windows Image Acquisition** **(WIA)** is a Microsoft model that allows graphics software to communicate with imaging hardware such as scanners and cameras. So you should enable WIA service in your computer if your scanner stops working. Here’s what you need to do:
@@ -71,12 +78,27 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -87,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    * **Remote Procedure Call RPC**  
    * **DCOM Server Process Launcher**  
    * **RPC Endpoint Mapper**  
@@ -102,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
    **INFORMATION:**  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
@@ -146,10 +161,10 @@ Then try scanning with your scanner to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware problems
@@ -160,23 +175,16 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, try your scanner again and see if it’s working properly.
@@ -192,13 +200,6 @@ Then try scanning with your scanner to see if it works.
 1. Type**cmd** in the search box, right-click Command Prompt, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
@@ -242,22 +243,20 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-bright-beginnings-on-youtube-launching-and-revenue-strategies-for-2024/"><u>[New] Bright Beginnings on YouTube Launching and Revenue Strategies for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-secrets-of-zoom-communication-practical-advice-for-successful-meetings/"><u>[New] Unlocking the Secrets of Zoom Communication Practical Advice for Successful Meetings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlocking-mov-capture-potential-on-windows-10-for-2024/"><u>[Updated] Unlocking MOV Capture Potential on Windows 10 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-bonus-points-why-trust-game-review-scores/"><u>Beyond the Bonus Points: Why Trust Game Review Scores?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-malfunctioning-speakers-in-windows-based-computers/"><u>DIY Fixes for Malfunctioning Speakers in Windows-Based Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-getting-your-realtek-mic-to-work-again-a-step-by-step-guide/"><u>DIY Repair: Getting Your Realtek Mic to Work Again - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/efficient-routes-to-google-pixel-soundscapes/"><u>Efficient Routes to Google Pixel Soundscapes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-how-to-troubleshoot-voice-communication-in-destiny-2/"><u>Fixing Common Issues: How to Troubleshoot Voice Communication in Destiny 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016039370-headphone-connection-problems-on-windows-11-solved/"><u>Headphone Connection Problems on Windows 11 - Solved!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-issue-with-conexant-smartaudio-hd-on-your-windows-11-device/"><u>How To Resolve No Sound Issue with Conexant SmartAudio HD on Your Windows 11 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unplugged-headset-problems-on-windows-11-8-and-7/"><u>How to Resolve Unplugged Headset Problems on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>In 2024, Streamlined List 6 Efficient Mac Screen Recording Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcp-2023-the-ultimate-guide-to-editing-and-mixing-audio/"><u>New 2024 Approved FCP 2023 The Ultimate Guide to Editing and Mixing Audio</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-from-still-to-motion-10-top-image-to-video-maker-tools/"><u>New From Still to Motion 10 Top Image to Video Maker Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/non-working-speakers-on-pc-here-are-the-fixes-you-need-to-try/"><u>Non-Working Speakers on PC? Here Are the Fixes You Need to Try</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-getting-anthem-to-echo-in-your-system/"><u>Troubleshooting Audio Problems - Getting Anthem to Echo in Your System</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/utilizing-cookiebot-technology-for-optimized-user-experience-and-analytics-tracking/"><u>Utilizing Cookiebot Technology for Optimized User Experience & Analytics Tracking</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-macs-best-mkv-player-vendors/"><u>[Updated] 2024 Approved Mac's Best MKV Player Vendors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-top-picks-for-latest-kid-friendly-films-securing-your-collection-with-dvd-backup-strategies/"><u>1. Top Picks for Latest Kid-Friendly Films: Securing Your Collection with DVD Backup Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-essential-mic-selection-for-podcasters-the-top-10/"><u>2024 Approved Essential Mic Selection for Podcasters The Top 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-title-transformations-beyond-standard-styles/"><u>2024 Approved Title Transformations Beyond Standard Styles</u></a></li>
+<li><a href="https://solve-news.techidaily.com/como-utilizar-la-inteligencia-artificial-de-winxvideo-para-mejorar-y-revertir-fotografias-en-calidad-4k-8k-e-imax/"><u>Cómo Utilizar La Inteligencia Artificial De Winxvideo Para Mejorar Y Revertir Fotografías en Calidad 4K, 8K E IMAX</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-audio-repair-for-pc-users-eliminate-sound-malfunctions-today/"><u>Easy Audio Repair for PC Users: Eliminate Sound Malfunctions Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016836305-easy-fixes-for-noisy-earbuds-stop-the-crackles-now/"><u>Easy Fixes for Noisy Earbuds: Stop the Crackles Now!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-potential-with-top-choices-in-android-editing-software/"><u>In 2024, Unlock Potential with Top Choices in Android Editing Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leadership-change-at-openai-gpts-future-hangs/"><u>Leadership Change at OpenAI - GPT's Future Hangs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-crystal-clear-sounds-while-playing-resident-evil-village-audiophiles-walkthrough/"><u>Mastering Crystal Clear Sounds While Playing Resident Evil: Village – Audiophile's Walkthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-noise-to-your-click-easy-solutions-for-a-quiet-logitech-g933-mouse-problem/"><u>Restoring Noise to Your Click: Easy Solutions for a Quiet Logitech G933 Mouse Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-revive-the-audio-in-your-battlefield-4-gameplay/"><u>Silence No More: Revive the Audio in Your Battlefield 4 Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016924625-trouble-with-your-pcs-mic-on-windows-7-top-fixes-to-get-you-talking-again/"><u>Trouble with Your PC's Mic on Windows 7? Top Fixes to Get You Talking Again!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-top-6-chatgpt-issues-and-how-to-fix-them/"><u>Unraveling the Top 6 ChatGPT Issues and How to Fix Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/use-compatibility-mode-right-click-on-your-desktop-select-personalize-)-themes-)-display-style-)-change-across-all-monitors-)-advanced-scaling-settings-adju675/"><u>Use Compatibility Mode: Right-Click on Your Desktop, Select Personalize > Themes > Display Style > Change Across All Monitors > Advanced Scaling Settings. Adjust Resolution to Ensure Compatibility with Tozo T6.</u></a></li>
 </ul></div>
 

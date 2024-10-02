@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques for New World Sound Glitches
-date: 2024-09-23T22:04:46.528Z
-updated: 2024-09-26T16:52:14.392Z
+date: 2024-09-27T17:34:07.060Z
+updated: 2024-10-01T21:44:14.525Z
 tags:
   - win11
   - win10
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your sound card driver
 
  A missing or outdated sound card driver may also stop chat from working in Fortnite.
@@ -67,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
  2\. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
@@ -90,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
@@ -99,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
@@ -113,18 +114,38 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check your audio settings
 
@@ -136,16 +157,16 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iii. Exit Fortnite.
 
@@ -157,23 +178,9 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
@@ -196,13 +203,6 @@ iii. Exit Fortnite.
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -233,24 +233,17 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-showcasing-design-brilliance-best-10-text-setups-in-ae/"><u>[New] 2024 Approved Showcasing Design Brilliance Best 10 Text Setups in AE</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-from-flat-to-fantastic-animated-text-transformations/"><u>[New] In 2024, From Flat to Fantastic Animated Text Transformations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-vsco-photo-editing-tips-and-tricks/"><u>[Updated] 2024 Approved Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complete-guide-converting-damasio-video-files-avimkv-into-high-quality-mp4-or-mov-format-for-pc-and-mac/"><u>Complete Guide: Converting Damasio Video Files (AVI/MKV) Into High-Quality MP4 or MOV Format for PC & Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-eliminating-crackling-noise-from-computer-speakers-on-windows-platforms/"><u>Expert Tips for Eliminating Crackling Noise From Computer Speakers on Windows Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-that-buzz-and-crackle-eliminating-distortion-issues-with-sound-devices-in-latest-and-older-windows-operating-systems/"><u>Fix That Buzz & Crackle: Eliminating Distortion Issues with Sound Devices in Latest and Older Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-windows-7-microphone-glitches-quickly-the-ultimate-guide/"><u>Fix Windows 7 Microphone Glitches Quickly: The Ultimate Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-find-x7-ultra-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo Find X7 Ultra to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-missing-sound-issues-for-anthem-game-on-windows-11/"><u>How to Fix Missing Sound Issues for Anthem Game on Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-art-of-video-transmission-from-fb-to-whatsapp/"><u>In 2024, The Art of Video Transmission From FB to WhatsApp</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-audio-hiccups-a-guide-on-restoring-sound-after-connecting-pc-to-display-unit-and-tv/"><u>Overcoming HDMI Audio Hiccups: A Guide on Restoring Sound After Connecting PC to Display Unit & TV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-why-your-discords-push-to-talk-might-be-malfunctioning-and-how-to-repair-it/"><u>Resolved! Why Your Discord's Push-to-Talk Might Be Malfunctioning and How to Repair It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/samsung-galaxy-watch-assessment-brilliantly-engineered-exterior-and-interior/"><u>Samsung Galaxy Watch Assessment: Brilliantly Engineered Exterior & Interior</u></a></li>
-<li><a href="https://games-able.techidaily.com/simpliplay-portable-simple-classics-made-easy/"><u>SimpliPlay Portable: Simple Classics Made Easy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-common-problems-redragon-headset-mic-failure-on-windows-devices/"><u>Solutions for Common Problems - Redragon Headset Mic Failure on Windows Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/undamentals-of-sports-video-editing/"><u>The Fundamentals of Sports Video Editing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-common-issues-with-non-functional-bose-speakers/"><u>Troubleshooting Tips: Resolving Common Issues with Non-Functional Bose Speakers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/understanding-zooms-participant-clusters/"><u>Understanding Zoom's Participant Clusters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808091210-usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend - Everything You Need to Know About It</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-customizing-your-call-alerts-a-step-by-step-guide-on-iphone/"><u>[Updated] Customizing Your Call Alerts A Step-by-Step Guide on iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-in-practice-tailoring-ps4-recordings-to-suit-your-style-for-2024/"><u>[Updated] Precision in Practice Tailoring PS4 Recordings to Suit Your Style for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-and-earning-through-youtubes-cp2024-plan/"><u>[Updated] Understanding and Earning Through YouTube's CP2024 Plan</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-troubles-on-pc-fixing-a-laptop-when-the-speakers-fail/"><u>Audio Troubles on PC: Fixing a Laptop When the Speakers Fail</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-unwanted-noise-issues-in-newly-released-titles/"><u>Fixing Unwanted Noise Issues in Newly Released Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/honesty-as-a-learner-refusing-cheap-ai-solutions/"><u>Honesty as a Learner: Refusing Cheap AI Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-color-grading-a-guide-to-luts-in-photoshop-cs6/"><u>In 2024, Harness the Power of Color Grading A Guide to LUTs in Photoshop CS6</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-m2-nvme-driver/"><u>Installing M.2 NVMe Driver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overwatch-players-beware-diagnosing-and-repairing-stuttered-or-missing-voice-communication/"><u>Overwatch Players Beware: Diagnosing and Repairing Stuttered or Missing Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/re8-resident-evil-village-noise-faults-solved-how-to-restore-immersive-audio/"><u>RE8 (Resident Evil Village) Noise Faults Solved - How to Restore Immersive Audio</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/est-3d-software-perfect-for-youtube-openers/"><u>The Best 3D Software Perfect for YouTube Openers</u></a></li>
 </ul></div>
 

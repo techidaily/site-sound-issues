@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Audio Issues in Discord"
-date: 2024-09-25T22:02:57.818Z
-updated: 2024-09-26T21:11:40.123Z
+date: 2024-09-26T17:02:44.614Z
+updated: 2024-10-01T21:06:50.722Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  When the above check is done, and you find the problem on your computer, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2, make sure the connection between your speakers and computer is good
@@ -48,16 +48,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3, check the volume settings
@@ -72,18 +66,33 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 4. Under **Sound** , click **Adjust system volume** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Speakers as Default
 
@@ -92,13 +101,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
@@ -123,21 +125,14 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
@@ -151,17 +146,17 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
@@ -180,14 +175,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-top-text-tilt-treasures/"><u>2024 Approved Top Text Tilt Treasures</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-x100-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo X100 Phone When You Forget the Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-voice-communication-in-fortnite-mic-troubleshooting-guide-for-gamers/"><u>Mastering Voice Communication in Fortnite: Mic Troubleshooting Guide for Gamers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/netgear-nighthawk-c7000-an-authoritative-review-for-unparalleled-wi-fi-experience/"><u>Netgear Nighthawk C7000: An Authoritative Review for Unparalleled Wi-Fi Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-sound-challenges-expert-advice-to-get-your-logitee-g733-mic-working-again/"><u>Overcoming Sound Challenges: Expert Advice to Get Your Logitee G733 Mic Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-on-your-computer-after-a-recent-windows-11-software-patch/"><u>Restoring Audio on Your Computer After a Recent Windows 11 Software Patch</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-connoisseurs-guide-to-youtube-music-orchestration-for-2024/"><u>The Connoisseur's Guide to YouTube Music Orchestration for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-g54-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola G54 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-silencing-static-and-improving-sound-from-your-arctisys-7-microphone-on-windows-pcs/"><u>Troubleshooting Tips: Silencing Static and Improving Sound From Your ArctiSys #7 Microphone on Windows PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>[New] 2024 Approved Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-navigating-cross-platform-social-media-fb-vids-on-whatsapp-for-2024/"><u>[New] Navigating Cross-Platform Social Media FB Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-optimal-video-downloads-with-top-converters/"><u>[Updated] Optimal Video Downloads with Top Converters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227204664-movavijpgpng/"><u>「Movaviで簡単！無料のJPGとPNG画像交換ツール」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-issues-heres-how-to-silence-the-crackles/"><u>Cyberpunk 2077 Sound Issues? Here's How to Silence the Crackles!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-malfunctions-in-windows-10-a-step-by-step-guide/"><u>Fixing Audio Malfunctions in Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-narzo-60-pro-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme Narzo 60 Pro 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015579100-logitech-g633-not-working-heres-what-you-need-to-do/"><u>Logitech G633 Not Working? Here's What You Need to Do</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reversed-problem-how-to-regain-connection-in-microsoft-outlook/"><u>Reversed Problem: How to Regain Connection in Microsoft Outlook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-back-4-blood-voice-chat-problems-with-these-easy-steps/"><u>Solve Your 'Back # 4 Blood' Voice Chat Problems with These Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-skype-audio-problems-with-simple-steps/"><u>Troubleshoot and Fix Skype Audio Problems with Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-why-is-my-cod-vanguards-voice-chat-unresponsive/"><u>Troubleshooting: Why Is My COD: Vanguard's Voice Chat Unresponsive?</u></a></li>
+<li><a href="https://facebook.techidaily.com/when-to-refresh-your-online-persona-icon/"><u>When to Refresh Your Online Persona Icon</u></a></li>
 </ul></div>
 

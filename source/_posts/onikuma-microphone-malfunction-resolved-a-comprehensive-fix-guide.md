@@ -1,7 +1,7 @@
 ---
 title: "Onikuma Microphone Malfunction Resolved: A Comprehensive Fix Guide"
-date: 2024-09-22T22:09:30.760Z
-updated: 2024-09-26T22:45:05.850Z
+date: 2024-09-26T03:49:26.744Z
+updated: 2024-10-01T19:41:16.672Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ We’ve seen users reporting the microphone not working after they updated to Wi
  1\. If you’re using an**external microphone** , make sure it’s correctly connected to your PC.  
  2\. If you’re using a**headset mi** c, make sure it’s not set to mute on your headset.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Configure the input device
 
  The first fix you can try is to set up the input device, the microphone you’re using, correctly and adjust the recording volume. Here’s how to do it on Windows 11:
@@ -43,11 +50,33 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 1. Right-click the**speaker icon** on the taskbar, and click**Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
 
  You can check your microphone to see if it works now. If it doesn’t, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Allow apps to access your microphone
 
@@ -56,13 +85,6 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 1. Press the**Windows logo key** on your keyboard, or**click the magnifier icon on the taskbar** . Then, search for**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
@@ -76,40 +98,19 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this fix doesn’t solve your problem, try the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update the audio drivers
 
@@ -132,14 +133,14 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
- The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ## Bonus tip: Repair corrupted system files
 
@@ -177,18 +178,22 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-photobooth-playback-hang-up-seeking-solutions/"><u>[New] 2024 Approved Photobooth Playback Hang-Up - Seeking Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-shine-up-advanced-setups-to-make-your-clips-pop/"><u>[New] 2024 Approved Shine Up Advanced Setups to Make Your Clips Pop</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discovering-the-best-youtube-mp3-transformers-for-2024/"><u>[Updated] Discovering the Best YouTube MP3 Transformers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-guide-to-close-up-mastery-on-roblox-for-2024/"><u>[Updated] The Ultimate Guide to Close-Up Mastery on Roblox for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015698223-cant-get-your-blue-yeti-to-work-here-are-some-quick-fixes/"><u>Can't Get Your Blue Yeti to Work? Here Are Some Quick Fixes!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-technology-with-toms-hardware-insights/"><u>Decoding Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://fox-http.techidaily.com/freeze-action-with-iphone-mastery-of-motion-blur-techniques-for-2024/"><u>Freeze Action with iPhone Mastery of Motion-Blur Techniques for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-a-malfunctioning-corsair-hs60-microphone/"><u>How to Restore Sound on a Malfunctioning Corsair HS60 Microphone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Magic 5 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/scoop-on-the-best-speed-a-top-ranked-list-of-racing-games-for-2024/"><u>Scoop on the Best Speed A Top-Ranked List of Racing Games for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014887685-trouble-with-back-for-bloods-voice-chat-heres-your-solution/"><u>Trouble with Back ^for Blood's Voice Chat? Here's Your Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-your-fortnite-micspeaker-functionality-asap/"><u>Troubleshooting Guide: How to Restore Your Fortnite Mic/Speaker Functionality ASAP</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-repairing-a-non-functional-steelseries-arctis-7-microphone/"><u>Troubleshooting Guide: Repairing a Non-Functional SteelSeries Arctis 7 Microphone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-quick-resize-youtube-to-fit-mac-display-ratio/"><u>[New] 2024 Approved Quick Resize YouTube to Fit Mac Display Ratio</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultra-30-camera-a-detailed-examination-by-garmin-for-2024/"><u>[New] The Ultra 30 Camera - A Detailed Examination by Garmin for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/android-and-iphone-users-benefit-from-revamped-google-drive-interface/"><u>Android & iPhone Users Benefit From Revamped Google Drive Interface</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-integrer-du-texte-dans-les-photos-en-un-clic-3-techniques-simplifiees/"><u>Comment Intégrer Du Texte Dans Les Photos en Un Clic: 3 Techniques Simplifiées</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-headset-malfunction-heres-how-to-get-your-hs60-mic-working-again/"><u>Corsair Headset Malfunction? Here's How to Get Your HS60 Mic Working Again!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/die-bevorzugten-youtube-herunterlader-fur-mac-os-x-unsere-testergebnisse-von-2018/"><u>Die Bevorzugten YouTube Herunterlader Für Mac OS X – Unsere Testergebnisse Von 2018</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-how-to-restore-voice-communication-in-destiny-2/"><u>Fixing Common Issues: How To Restore Voice Communication In Destiny 2?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-complete-lack-of-sounds-in-apex-legends-proven-solutions/"><u>Fixing Complete Lack of Sounds in Apex Legends: Proven Solutions!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigate-through-pc-game-lags-in-resident-evil-village-expert-solutions-for-smooth-play/"><u>Navigate Through PC Game Lags in Resident Evil Village - Expert Solutions for Smooth Play</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-subtitle-edit-mac-alternative-find-your-new-go-to-subtitle-editor/"><u>New 2024 Approved Subtitle Edit Mac Alternative Find Your New Go-To Subtitle Editor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-windows-7-microphone-troubles-with-these-simple-steps/"><u>Resolve Your Windows 7 Microphone Troubles with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-disruption-issues-in-windows-10-a-comprehensive-guide/"><u>Resolving Sound Disruption Issues in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-fortnite-audio-issues-microphone-hacked-and-fixed/"><u>Solve Your Fortnite Audio Issues: Microphone Hacked and Fixed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-worlds-fixing-the-lack-of-audio-in-valheim-on-your-pc/"><u>Troubleshooting Silent Worlds: Fixing the Lack of Audio in Valheim on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-tricks-enhancing-speaker-output-for-a-louder-experience/"><u>Windows 10 Tricks: Enhancing Speaker Output for a Louder Experience</u></a></li>
 </ul></div>
 

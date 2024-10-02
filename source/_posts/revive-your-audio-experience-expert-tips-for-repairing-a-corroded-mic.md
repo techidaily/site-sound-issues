@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Audio Experience: Expert Tips for Repairing a Corroded Mic"
-date: 2024-09-25T20:34:15.675Z
-updated: 2024-09-26T19:01:44.205Z
+date: 2024-09-27T03:16:12.760Z
+updated: 2024-10-01T18:54:42.524Z
 tags:
   - win11
   - win10
@@ -39,17 +39,26 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-1-2.jpg)
 2. Click the**Change** button and**toggle on** Microphone access for this device.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-2-2.jpg)
 3. Scroll to Allow apps to access your microphone and**turn on** the button.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-3.jpg)
 4. Scroll down to**turn on** desktop apps’ access to your microphone.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4-2.jpg)
 
  If you’ve enabled all the accesses but the microphone still refuses to work, try the next fix.
@@ -64,37 +73,32 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4-1.jpg)
 3. Scroll down to select**Sound Control Panel** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-7.jpg)
 4. Navigate to the**Recording** tab. Then select**Oculus Quest 2 headset microphone** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-2.jpg)
 5. Click your mic again and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-8.jpg)
 6. Go to the**Levels** tab and**set the mic volume to the max** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-9.jpg)
 7. Select the**Advanced** tab and untick**Allow applications to take exclusive control of this device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-6.jpg)
 8. Click**OK** to apply the changes.
 
@@ -103,10 +107,10 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 If this trick doesn’t help, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your device drivers
@@ -123,10 +127,10 @@ If this trick doesn’t help, take a look at more fixes below.
 3. Click**Update** next to the flagged_Oculus VR Headset driver_ or any devices to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -175,19 +179,22 @@ If updating the driver doesn’t work, continue to Fix 4 below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-calculated-viewing-time-for-a-standard-20mb-film/"><u>[Updated] 2024 Approved Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-liveoutnow-an-in-depth-look-at-effortless-podcast-live-streaming/"><u>[Updated] LiveOutNow An In-Depth Look at Effortless Podcast Live Streaming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-podcast-feature-listen-and-share-with-friends/"><u>[Updated] Podcast Feature Listen and Share with Friends</u></a></li>
-<li><a href="https://fox-links.techidaily.com/complete-action-camera-buying-guide-for-beginners-2023-update/"><u>Complete Action Camera Buying Guide For Beginners -2023 Update</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/download-videos-from-tv-easily-with-telly-downloader-on-windows-and-mac/"><u>Download Videos From TV Easily with Telly Downloader on Windows and Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-fortnites-voice-chat-problems-instantly-effective-and-easy-methods-inside/"><u>Fix Fortnite's Voice Chat Problems Instantly: Effective & Easy Methods Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctional-mic-on-your-oculus-quest-2/"><u>How to Fix a Nonfunctional Mic on Your Oculus Quest 2</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-dynamic-photographic-ensembles/"><u>In 2024, Building Dynamic Photographic Ensembles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-your-logitech-g533-microphone-isnt-working-and-how-to-fix-it-fast/"><u>Solved: Why Your Logitech G533 Microphone Isn't Working and How to Fix It Fast</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-astro-a10-microphone-issues-troubleshooting-and-fixes/"><u>Solving Astro A10 Microphone Issues: Troubleshooting and Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-problem-how-to-get-your-pcs-microphone-working-with-zoom-again/"><u>Solving the Silent Problem: How to Get Your PC's Microphone Working with Zoom Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-unresponsive-razer-barracuda-x-headset-microphone-on-windows-pcs/"><u>Step-by-Step Solution for Unresponsive Razer Barracuda X Headset Microphone on WIndows PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-correctly-address-mingwm10dll-error-missing-or-undetected/"><u>Steps to Correctly Address mingwm10.dll Error: Missing or Undetected</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlock-the-potential-of-your-channels-with-our-guide-to-discord-broadcasting/"><u>Unlock the Potential of Your Channels with Our Guide to Discord Broadcasting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-emojis-on-youtube-comments/"><u>[New] 2024 Approved How to Add Emojis on YouTube Comments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-create-impressive-slow-motion-content-a-step-by-step-instagram-reel-masterclass/"><u>[New] How to Create Impressive Slow Motion Content A Step by Step Instagram Reel Masterclass</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-strategic-broadcast-planning-youtube-and-the-top-30-networks/"><u>[Updated] 2024 Approved Strategic Broadcast Planning YouTube & The Top 30 Networks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-speedy-way-effortlessly-add-a-vimeo-video-to-your-slides/"><u>[Updated] 2024 Approved The Speedy Way Effortlessly Add a Vimeo Video to Your Slides</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-future-of-virtuality-best-metaverse-headsets-ranked-for-2024/"><u>[Updated] Future of Virtuality Best Metaverse Headsets Ranked for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-media-formats-from-srt-to-advanced-standards/"><u>2024 Approved Streamlining Media Formats From SRT to Advanced Standards</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-push-to-talk-malfunction-heres-how-to-restore-your-voice-chat-capabilities/"><u>Discord Push-to-Talk Malfunction? Here’s How to Restore Your Voice Chat Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-correcting-malfunctions-in-your-outriders-audio-experience/"><u>Expert Advice: Correcting Malfunctions in Your Outriders Audio Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-silence-reviving-pc-sounds-on-battlefield-v-warzone-patch-24/"><u>Fix Your Silence: Reviving PC Sounds on Battlefield V - Warzone Patch '24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-solutions-for-when-laptop-speakers-wont-work/"><u>Get Your Sound Back: Solutions for When Laptop Speakers Won't Work</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-headset-mic-malfunction-heres-how-you-can-fix-it/"><u>Onikuma Headset Mic Malfunction? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-audio-repair-techniques-for-problematic-computers/"><u>Quick Audio Repair Techniques for Problematic Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-pubg-voice-call-troubles-a-step-by-step-guide-to-restoration/"><u>Resolve PUBG Voice Call Troubles - A Step-by-Step Guide to Restoration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-laptop-speaker-jack-errors-expert-tips-and-tricks/"><u>Resolving Laptop Speaker Jack Errors: Expert Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ssd-performance-reviewed-for-ps5/"><u>Superior SSD Performance Reviewed for PS5</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Silent Battles in Apex Legends: Top Techniques for Bringing Back the Sound"
-date: 2024-09-22T20:11:14.922Z
-updated: 2024-09-26T20:59:01.396Z
+date: 2024-09-26T20:28:11.777Z
+updated: 2024-10-01T20:09:35.840Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the Windows audio troubleshooter
 
  Another quick fix to Apex Legends audio problems is running**the audio troubleshooter** . Follow the instructions below:
@@ -49,13 +56,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot settings** . Then, click**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
@@ -97,6 +97,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -107,13 +114,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -122,27 +122,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -153,6 +146,13 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -182,24 +182,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-costless-webinars-on-youtube-a-handbook/"><u>[Updated] In 2024, Creating Costless Webinars on YouTube A Handbook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>2024 Approved Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/acquire-clear-articulation-in-russian-language/"><u>Acquire Clear Articulation in Russian Language</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016081954-battlefield-4-audio-problems-discover-proven-fixes-now/"><u>Battlefield 4 Audio Problems? Discover Proven Fixes Now!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/essential-tips-for-utilizing-instagram-story-sections/"><u>Essential Tips for Utilizing Instagram Story Sections</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-chat-malfunction-in-the-game-back-4-blood/"><u>How to Fix Voice Chat Malfunction in the Game 'Back 4 Blood'</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g733-microphone-working-again-step-by-step-fixes/"><u>How To Get Your Logitech G733 Microphone Working Again: Step By Step Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-windows-7-when-they-arent-playing/"><u>How to Restore Sounds in Windows 7 When They Aren't Playing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-100-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/imperator-rome-analysis-building-an-empire-or-meeting-a-fatal-challenge/"><u>Imperator Rome Analysis: Building an Empire or Meeting a Fatal Challenge</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-se-2020-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone SE (2020) to PC | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-video-sizes-and-proportions/"><u>In 2024, FB Video Sizes and Proportions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016699528-no-sound-from-windows-media-player-find-out-why-and-how-to-resolve-it/"><u>No Sound From Windows Media Player? Find Out Why and How to Resolve It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-low-output-issues-a-users-guide-to-optimizing-audio-in-windows-11/"><u>Resolving Low Output Issues: A User's Guide to Optimizing Audio in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-fortnite-soundscape-expert-tips-on-correcting-auditory-errors/"><u>Revive Your Fortnite Soundscape: Expert Tips on Correcting Auditory Errors</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-a24-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy A24</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-distorted-audio-in-your-cyberpunk-2077-gameplay/"><u>Troubleshoot and Fix Distorted Audio in Your Cyberpunk 2077 Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-your-astro-a1e-microphone-functionality-today/"><u>Troubleshoot and Restore Your Astro A1e Microphone Functionality Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-power-management-features-for-maximum-efficiency/"><u>Unlocking Power Management Features for Maximum Efficiency</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exclusive-insta-stories-for-private-eyes/"><u>[New] In 2024, Exclusive Insta Stories for Private Eyes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-prime-mic-not-working/"><u>[SOLVED] SteelSeries Arctis Prime Mic Not Working</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-strategies-to-fast-track-vimeo-content/"><u>[Updated] 2024 Approved Strategies to Fast-Track Vimeo Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-video-appeal-with-filmmaker-friendly-subscribe-button-tutorials-filmora/"><u>[Updated] In 2024, Enhance Video Appeal with Filmmaker-Friendly Subscribe Button Tutorials (Filmora)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-elite-circle-unveiling-top-10-gamers-on-tiktok/"><u>2024 Approved The Elite Circle Unveiling Top 10 Gamers on TikTok</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-smart-7-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Smart 7 FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016665482-corsair-headset-malfunction-heres-how-to-get-your-hs60-mic-working-again/"><u>Corsair Headset Malfunction? Here's How to Get Your HS60 Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-how-to-troubleshoot-your-microphones-volume-issues/"><u>Fixes & Solutions: How To Troubleshoot Your Microphone's Volume Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016670842-fixing-the-non-functional-mic-in-your-dota-2-game-ultimate-solutions/"><u>Fixing the Non-Functional Mic in Your Dota 2 Game – Ultimate Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-microphone-in-oculus-quest-2/"><u>How to Resolve Non-Functional Microphone in Oculus Quest 2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100 5G?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-strategies-uncovering-the-veiled-elements-of-social-media/"><u>In 2024, Insta Strategies Uncovering the Veiled Elements of Social Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/rapidpace-timefreeze-film-for-2024/"><u>RapidPace TimeFreeze Film for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-problems-in-resident-evil-village/"><u>Resolving Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-remedies-reviving-a-malfunctioning-astro-a20-microphone/"><u>Simple Remedies: Reviving a Malfunctioning Astro A20 Microphone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktok-savvy-snag-videos-in-minutes-for-2024/"><u>TikTok Savvy - Snag Videos in Minutes for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016897489-winning-over-silent-pcs-after-a-windows-10-update-a-simple-solution/"><u>Winning Over Silent PCs After a Windows 10 Update – A Simple Solution!</u></a></li>
 </ul></div>
 

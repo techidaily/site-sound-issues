@@ -1,7 +1,7 @@
 ---
 title: "Fixing No Audio on an HP Laptop: Troubleshooting Steps for Windows 11"
-date: 2024-09-14T17:33:09.600Z
-updated: 2024-09-21T20:39:03.874Z
+date: 2024-09-25T23:14:32.115Z
+updated: 2024-10-01T21:35:07.881Z
 tags:
   - win11
   - win10
@@ -73,8 +73,24 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
@@ -92,9 +108,24 @@ Read on and follow the easy-doing images below!
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -117,12 +148,22 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-demystifying-instagram-selfies-a-comprehensive-guide/"><u>[New] 2024 Approved Demystifying Instagram Selfies A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-beauty-bliss-essential-tutorials-for-ultimate-style-for-2024/"><u>[New] Beauty Bliss Essential Tutorials for Ultimate Style for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-compreenasive-look-at-the-progression-of-openais-models/"><u>A Compreenasive Look at the Progression of OpenAI's Models</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boosting-views-with-analytics-in-youtube-strategy/"><u>Boosting Views with Analytics in YouTube Strategy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G24 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-mic-not-working-solved/"><u>HyperX Cloud Stinger Mic Not Working [Solved]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-dominate-digital-dialogue-the-top-10-masterful-igtv-practices-for-branding-success/"><u>In 2024, Dominate Digital Dialogue The Top 10 Masterful IGTV Practices for Branding Success</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regain-auditory-function-troubleshoot-sound-loss-following-windows-10-installation/"><u>Regain Auditory Function: Troubleshoot Sound Loss Following Windows 10 Installation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a54-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A54 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-loss-of-audio-output-in-your-laptop-expert-tips-for-quick-repair/"><u>Solving Loss of Audio Output in Your Laptop – Expert Tips for Quick Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-11-audio-problems-with-your-headset/"><u>Solving Windows 11 Audio Problems with Your Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016881269-troubleshooting-headphonespeaker-troubles-in-windows-11-get-the-sounds-back/"><u>Troubleshooting Headphone/Speaker Troubles in Windows 11 - Get the Sounds Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncover-the-secrets-to-reinstating-lost-nvidia-hd-audio-capabilities/"><u>Uncover the Secrets to Reinstating Lost NVIDIA HD Audio Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ncutting-software/"><u>VisionCutting Software</u></a></li>
+</ul></div>
 

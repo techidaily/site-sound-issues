@@ -1,7 +1,7 @@
 ---
 title: Resolving League of Legends Voice Call Issues for Seamless Gameplay
-date: 2024-09-21T23:23:42.916Z
-updated: 2024-09-26T17:54:45.603Z
+date: 2024-09-25T22:33:30.424Z
+updated: 2024-10-01T20:40:29.042Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check out the obvious
 
  Whether it is that you cannot hear your friends, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -40,13 +47,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
  You should make sure the volume is set to an audible level, check that the cables (if you have a wired headphone device) are not worn out or loosely connected, and ensure that they’re plugged into the right port etc.
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Join voice channel automatically
 
@@ -57,13 +57,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 2. In the upper right corner, click**Settings** (the cog icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
@@ -79,16 +72,10 @@ You can follow the steps below to check:
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
@@ -99,20 +86,14 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
 
@@ -126,6 +107,14 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -151,14 +140,22 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-navigating-android-latest-tips-for-immersive-360-content-for-2024/"><u>[New] Navigating Android Latest Tips for Immersive 360 Content for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-x6-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-solutions-to-restore-functionality-of-a-broken-corsair-hs70-microphone/"><u>Easy Solutions to Restore Functionality of a Broken Corsair HS70 Microphone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/easy-steps-for-arranging-a-google-meeting-for-2024/"><u>Easy Steps for Arranging a Google Meeting for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-steps-to-solve-non-working-speakers-on-a-windows-7-machine/"><u>Easy Steps to Solve Non-Working Speakers on a Windows 7 Machine</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-s23-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy S23 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-hyperx-cloud-microphone-not-working-issues-with-easy-fixes/"><u>Solve HyperX Cloud Microphone Not Working Issues with Easy Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016219792-troubleshooting-non-functional-sound-on-your-windows-10-system-solved/"><u>Troubleshooting Non-Functional Sound on Your Windows 10 System - Solved!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera/"><u>[New] 2024 Approved The Ultimate Guide to Choosing a Premium Portable Vlog Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-abyss-underwater-video-tips-using-a-gopro-camera/"><u>[New] Exploring Abyss Underwater Video Tips Using a GoPro Camera</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-radiate-on-reels-instagram-highlight-techniques-simplified-to-three/"><u>[New] In 2024, Radiate on Reels Instagram Highlight Techniques, Simplified to Three</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-premier-selection-of-top-10-emoji-creation-tools-for-discord/"><u>[Updated] 2024 Approved The Premier Selection of Top 10 Emoji Creation Tools for Discord</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asus-proart-pa-329q-reviewed-a-detailed-look-at-the-leading-4k-workstation-display-for-2024/"><u>Asus ProArt PA 329Q Reviewed A Detailed Look at the Leading 4K Workstation Display for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-unique-online-presence-youtube-edition-for-2024/"><u>Crafting a Unique Online Presence YouTube Edition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dell-sound-problem-master-swift-strategies-for-immediate-resolution/"><u>Dell Sound Problem? Master Swift Strategies for Immediate Resolution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-struggling-to-open-realteks-hd-audio-manager/"><u>Effective Fixes When Struggling to Open Realtek's HD Audio Manager</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-steady-aim-microphone-issues-in-csgo-solutions-and-tips/"><u>Fixing Steady Aim Microphone Issues in CS:GO - Solutions & Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic5-ultimate-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic5 Ultimate Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-editors-playbook-mastering-the-art-of-youtube-cuts/"><u>In 2024, The Editor's Playbook Mastering the Art of YouTube Cuts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-glitches-effective-methods-to-restore-realtek-microphone-functionality/"><u>Resolve Audio Glitches: Effective Methods to Restore Realtek Microphone Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-fixing-the-onikuma-microphone-issue/"><u>Solution Guide: Fixing the Onikuma Microphone Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015137909-trouble-with-your-razer-kraken-mic-heres-how-to-fix-it/"><u>Trouble with Your Razer Kraken Mic? Here's How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015923517-troubleshoot-your-dell-sound-issues-in-minutes-with-these-simple-tips/"><u>Troubleshoot Your Dell Sound Issues in Minutes with These Simple Tips!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-logitech-g933-mouse-quick-guide-to-restoring-audio/"><u>Troubleshooting the Logitech G933 Mouse: Quick Guide to Restoring Audio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
 </ul></div>
 

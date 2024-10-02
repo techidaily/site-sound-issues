@@ -1,7 +1,7 @@
 ---
 title: "Enhancing System Sounds: A Guide to Fixing Quiet Computers in Windows 11"
-date: 2024-09-19T20:13:27.235Z
-updated: 2024-09-21T18:06:01.043Z
+date: 2024-09-30T01:30:08.936Z
+updated: 2024-10-01T22:17:35.134Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ Here’s how to check on Windows 11 PC:
 
  If you’re sure your device supports Bluetooth and was already paired with your PC, move to the next method to get it working.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Run the Windows 11 Bluetooth troubleshooter
 
  Windows has built-in troubleshooters to fix some common errors. You can run the Bluetooth troubleshooter to fix the Windows 11 Bluetooth not working issue. This is the most common and easy way to fix the problem.
@@ -60,10 +67,31 @@ Here’s how:
 2. Click**System** in the left panel. Then scroll down on the right panel and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-1.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-2.jpg)
 4. Find Bluetooth and click**Run** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-troubleshoot-3.jpg)
 5. The system will automatically run the troubleshooter to fix the problem. When the process is completed, Windows will let you know whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the Bluetooth troubleshooter doesn’t work, move to the next fix.
 
@@ -109,13 +137,20 @@ Here’s how:
 4. Select**Automatic** in the Startup type drop-down menu. Then click**Apply > OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-service-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Bluetooth Support Service is running in normal terms and you should be able to pair your device and use it normally.
 
@@ -127,23 +162,9 @@ Here’s how:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-settings.png)
 2. Scroll down and change the**Bluetooth devices discovery** option to**Advanced** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/bluetooth-settings-advanced.png)
 
  Try to see if your Bluetooth starts working properly. If the problem remains, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Repair your system files
 
@@ -163,24 +184,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -195,6 +209,13 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) In the black Command Prompt window, type:
 
 sfc /scannow
@@ -204,6 +225,19 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/sfc-1.jpg)
 
  Windows will scan your system for corrupted files, and attempt to fix any it finds. The results will display in this window, so please leave it open until the operation is complete.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to pair your Bluetooth device on Windows 11
 
@@ -228,5 +262,20 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-broadcasting-fb-movies-on-whatsapp/"><u>[New] Broadcasting FB Movies on WhatsApp</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailoring-soundtracks-the-art-of-editing-in-garageband/"><u>[New] Tailoring Soundtracks The Art of Editing in GarageBand</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ace-your-gameplay-tackling-and-correcting-centurys-age-of-ashes-pc-malfunctions/"><u>Ace Your Gameplay: Tackling and Correcting Century's 'Age of Ashes' PC Malfunctions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-heights-a-deep-dive-into-gopro-karma/"><u>Capturing Heights A Deep Dive Into GoPro Karma</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-easy-fixes-for-the-corsair-virtuoso-mic-issue/"><u>Common Problems & Easy Fixes for the Corsair Virtuoso Mic Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issues-troubleshooting-your-razer-kraken-microphone/"><u>Fixing the Issues: Troubleshooting Your Razer Kraken Microphone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-getting-your-windows-10-speakers-working-again/"><u>Quick Solutions: Getting Your Windows 10 Speakers Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-connectivity-issues-with-your-logitech-g-pro-x-mic-a-comprehensive-guide/"><u>Solving Connectivity Issues with Your Logitech G Pro X Mic - A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-5-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-immersive-chronicles-a-brief-history/"><u>The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-insiders-guide-to-concealed-snap-content-for-2024/"><u>The Insider's Guide to Concealed Snap Content for 2024</u></a></li>
+</ul></div>
 

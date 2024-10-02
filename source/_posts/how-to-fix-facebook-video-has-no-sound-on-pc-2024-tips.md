@@ -1,7 +1,7 @@
 ---
 title: How to Fix Facebook Video Has No Sound on PC - 2024 Tips
-date: 2024-09-22T16:37:11.585Z
-updated: 2024-09-26T16:42:24.129Z
+date: 2024-09-27T16:29:28.464Z
+updated: 2024-10-01T18:47:05.660Z
 tags:
   - win11
   - win10
@@ -36,6 +36,19 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 6. [**Change your default playback device**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Check if it’s a video problem**
 
  There are many reasons why a Facebook video has no sound, and the most common one is that the video is incorrectly encoded, or is silent at the first place. In that case, you can try other videos and see if they have audio issues as well.
@@ -45,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
  If the volume is set correctly and your no sound issue reappears on other videos, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2:**Unmute your browser**
@@ -60,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 1. On the lower-right corner of your desktop, right-click the**volume icon** and select**Open Volume mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-volume-mixer.jpg)
 2. In the Volume Mixer window,**hold and drag** the slider for your browser (mine is Chrome) to turn up the volume.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
@@ -87,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
  If restarting your computer doesn’t help either, please continue to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5:**Update your audio driver**
 
  Sound problems can occur when you’re using a faulty or outdated audio driver. That’s why we always recommend keeping your drivers up to date. Driver updates provide security patches and feature enhancements, and it usually fixes many strange and stubborn issues.
@@ -112,15 +111,22 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -138,30 +144,24 @@ This method also applies to Windows 10, 8 or 7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7:**Change your audio channel**
 
@@ -180,6 +180,13 @@ Here’s how to do it:
 5. Click **Finish** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -202,17 +209,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>[Updated] Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467767591-6-common-issues-leading-to-a-sluggish-iphone-fix-them-now/"><u>6 Common Issues Leading to a Sluggish iPhone: Fix Them Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015909653-audio-malfunctions-on-pc-heres-the-fix/"><u>Audio Malfunctions on PC? Here's the Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-logitech-g-pro-x-mic-errors-diagnosis-and-quick-fixes-guide/"><u>Common Logitech G Pro X Mic Errors: Diagnosis & Quick Fixes [Guide]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-oculus-rift-s-headset-microphone-issues-fast-top-solutions/"><u>Fix Your Oculus Rift S Headset Microphone Issues Fast: Top Solutions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fz80-camera-value-and-vitality-unite/"><u>FZ80 Camera - Value & Vitality Unite</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-non-functional-microphone-during-google-meets-on-windows-1110/"><u>How to Repair Non-Functional Microphone During Google Meets on Windows 11/10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-se-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone SE</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-ideas-for-eye-catching-podcast-artwork/"><u>Innovative Ideas for Eye-Catching Podcast Artwork</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726030269759-ncs/"><u>NCSファイルの取り扱いとセキュリティガイド</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-crackling-sound-issue-with-your-logitech-g-pro-x-headset-pc-a-comprehensive-guide/"><u>Solving the Crackling Sound Issue with Your Logitech G Pro X Headset (PC) : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-platforms-dominating-the-internet-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms Dominating the Internet: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-professional-guide-extracting-vimeo-content-as-mp4s/"><u>[New] Professional Guide Extracting Vimeo Content as MP4s</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/4-effective-steps-to-get-your-webex-microphone-working-again-updated-for-2t4/"><u>4 Effective Steps to Get Your Webex Microphone Working Again (Updated for 2T4)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-for-a-malfunctioning-logitech-g230-microphone-resolved/"><u>Common Problems and Fixes for a Malfunctioning Logitech G230 Microphone - Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-logitech-g933-microphone-working-again-fixes-inside/"><u>Get Your Logitech G933 Microphone Working Again - Fixes Inside</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-warzones-audio-connections-tips-for-console-and-computer-users/"><u>How to Repair Warzone's Audio Connections - Tips for Console and Computer Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microphone-problems-when-playing-sea-of-thieves-on-windows/"><u>How to Resolve Microphone Problems When Playing Sea of Thieves on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/narakeet-review-text-to-speech-convenient-voice-maker-for-2024/"><u>Narakeet Review Text to Speech Convenient Voice Maker for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/netgear-a6200-driver-download-and-update-for-windows/"><u>Netgear a6200 Driver Download & Update for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-your-windows-7-audio-a-comprehensive-fix-for-nonfunctional-headphones/"><u>Restoring Your Windows 7 Audio: A Comprehensive Fix for Nonfunctional Headphones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/silent-windows-desktop-check-and-reinstall-drivers/"><u>Silent Windows Desktop? Check and Reinstall Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-a-windows-10-system/"><u>Solved! How to Restore Sound on a Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-rescue-mission-effective-methods-for-repairing-nonfunctional-microphones-on-toshiba-laptops/"><u>Sound Rescue Mission: Effective Methods for Repairing Nonfunctional Microphones on Toshiba Laptops</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-six-essential-qualities-that-set-snapchats-my-ai-apart/"><u>The Six Essential Qualities That Set Snapchat's My AI Apart</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark 10 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

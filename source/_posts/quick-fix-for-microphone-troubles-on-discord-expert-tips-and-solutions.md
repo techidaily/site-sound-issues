@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Microphone Troubles on Discord: Expert Tips & Solutions"
-date: 2024-09-21T20:40:56.814Z
-updated: 2024-09-26T16:21:36.804Z
+date: 2024-09-28T22:31:15.779Z
+updated: 2024-10-01T17:02:51.676Z
 tags:
   - win11
   - win10
@@ -45,25 +45,25 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control /name Microsoft.Sound** and press**Enter** to open**Windows sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
@@ -76,18 +76,33 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. **Right-click** **the speaker icon** in the bottom-right corner of your screen, then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
@@ -98,34 +113,34 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
-4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
+4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix microphone not working on your computer?
 
@@ -169,21 +184,17 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-elite-list-of-best-videocall-services-without-cost-for-2024/"><u>[New] Elite List of Best Videocall Services Without Cost for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/uide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>[New] Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-leap-into-virality-with-tiktoks-best-kept-editing-techniques/"><u>[Updated] 2024 Approved Leap Into Virality with TikTok's Best-Kept Editing Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-android-video-enhancement-strategies/"><u>[Updated] In 2024, Android Video Enhancement Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-instant-insight-snapshots-for-windows-enthusiasts-for-2024/"><u>[Updated] Instant Insight Snapshots for Windows Enthusiasts for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-systems-a-guide-to-restoring-audio-on-your-lenovo-notebook/"><u>Fixing Silent Systems: A Guide to Restoring Audio on Your Lenovo Notebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-pops-and-crackles-on-the-logitech-arctis-7-when-used-with-windows-computers/"><u>How to Resolve Pops and Crackles on the Logitech Arctis 7 When Used with Windows Computers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instructions-microsoft-pro-4-drivers-in-windows/"><u>Instructions: Microsoft Pro 4 Drivers in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lenovo-laptops-losing-volume-top-solutions-for-bringing-back-sounds/"><u>Lenovo Laptops Losing Volume – Top Solutions for Bringing Back Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-troubleshooting-common-problems-and-fixes/"><u>Razer Kraken Microphone Troubleshooting: Common Problems and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-unknown-usb-device-issues-in-windows-n-with-these-easy-steps/"><u>Resolve 'Unknown USB Device' Issues in Windows N with These Easy Steps!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-troubleshoot-and-repair-crackling-sound-from-your-pcs-speakers-in-windows-117/"><u>Solved! How to Troubleshoot and Repair Crackling Sound From Your PC's Speakers in Windows 11/7</u></a></li>
-<li><a href="https://extra-support.techidaily.com/spotlight-on-superiority-top-ten-camera-lens-picks-for-2024/"><u>Spotlight on Superiority Top Ten Camera Lens Picks for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-hd-audio-codec-drivers-on-windows-11-solutions-and-fixes/"><u>Troubleshooting IDT HD Audio Codec Drivers on Windows 11 - Solutions and Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-the-issues-with-your-razer-kraken-microphone/"><u>Troubleshooting: Fixing the Issues with Your Razer Kraken Microphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-mss32dll-not-detected-errors-effectively/"><u>Understanding and Fixing 'mss32.dll Not Detected' Errors Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-unbeatable-face-editing-tools-for-iphone-and-samsungs/"><u>[Updated] 10 Unbeatable Face-Editing Tools for iPhone & Samsungs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-highest-rated-panoramic-video-capture-systems/"><u>[Updated] 2024 Approved Highest Rated Panoramic Video Capture Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simplicity-in-pc-audio-capture-choose-x-recorder/"><u>[Updated] 2024 Approved Simplicity in Pc Audio Capture Choose X-Recorder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-diy/"><u>如何容易地打开并复制加保护DVD数据 - DIY指南</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808291798-how-to-reset-your-gmail-password-with-verification-code-2022-tips/"><u>How to RESET Your Gmail Password with Verification Code – 2022 Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic-6-lite-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic 6 Lite to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-facebook-video-mute-mode-on-windows-expert-tips-and-hacks/"><u>Overcoming Facebook Video Mute Mode on Windows - Expert Tips & Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-a-defective-headphone-jack-on-your-notebook-issues-resolved/"><u>Troubleshooting Guide for a Defective Headphone Jack on Your Notebook (ISSUES RESOLVED)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mic-and-speaker-issues-in-sea-of-thieves-pc-guide/"><u>Troubleshooting Mic & Speaker Issues in Sea of Thieves: PC Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sounds-in-new-world-tips-and-solutions-for-optimal-performance/"><u>Troubleshooting Sounds in 'New World': Tips and Solutions for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-restoring-audio-functionality-in-lenovo-devices/"><u>Troubleshooting Tips for Restoring Audio Functionality in Lenovo Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-conversational-ai-on-your-iphone-with-chatgpts-latest-app-release/"><u>Unleash Conversational AI on Your iPhone with ChatGPT's Latest App Release</u></a></li>
 </ul></div>
 

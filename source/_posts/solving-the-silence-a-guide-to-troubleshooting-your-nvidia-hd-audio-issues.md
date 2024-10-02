@@ -1,7 +1,7 @@
 ---
 title: "Solving the Silence: A Guide to Troubleshooting Your Nvidia HD Audio Issues"
-date: 2024-09-15T19:24:44.838Z
-updated: 2024-09-21T17:34:01.941Z
+date: 2024-09-28T21:59:07.849Z
+updated: 2024-10-02T01:44:14.889Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5cb179f761.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, you can use the built-in**Speech Recognition** tool to test your microphone:
 
 1. In the Windows search box, type**Speech Recognition** and click the matching result.  
@@ -57,6 +64,14 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 2. Click**Set up microphone** , and follow the Microphone Setup Wizard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b23de4e69.jpg)
 3. When you reach “Adjust the microphone volume”, please note if the volume bar moves from yellow to red.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b3b757a02.jpg)
 4. Is the Setup wizard complete? If your microphone works properly, congratulations! If not, you can follow Method 2 below to check your audio settings.
 
@@ -75,20 +90,29 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 **Note:** You can try speaking into your microphone to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk:  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6caa71d6b3.jpg)
 4. Right click on and **disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the **Playback** tab).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6cabba2f9f.jpg)
 5. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check if your mic works as expected.
 
  If your **mic not picking up voice** problem persists in the third-parity software, you can try Method 3 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Allow apps to access your mic (Windows 10)
 
@@ -100,20 +124,36 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d22eaa914.jpg)
 3. In the left pane, click **Microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d24e48342.jpg)
 4. In the right pane, click the **Change** button, and you’ll see your mic is turned on. Also make sure **All apps to access your microphone** is enabled.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d2820592a.jpg)
 5. In the section of **Choose which apps can access your microphone** , verify that  the program where you need to use mic is**turned on** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Test your microphone in that program.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Check in-game settings
 
@@ -124,13 +164,6 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 Check to see if your mic can pick up voice now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Check for Windows updates
 
@@ -163,5 +196,20 @@ Check to see if your mic can pick up voice now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-premier-destinations-amplifying-youtube-videos/"><u>[New] 2024 Approved Premier Destinations Amplifying YouTube Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elevate-your-gaming-choose-the-best-free-voice-modifier-to-sharpen-skills/"><u>[Updated] In 2024, Elevate Your Gaming - Choose the Best Free Voice Modifier to Sharpen Skills</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unnoticed-consumers-of-fb-stories/"><u>[Updated] Unnoticed Consumers of Fb Stories</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-time-saving-methodology-for-removing-video-comments/"><u>2024 Approved Time-Saving Methodology for Removing Video Comments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-walkthrough-installing-idts-high-definition-sound-drivers-on-windows-11/"><u>A Comprehensive Walkthrough: Installing IDT's High Definition Sound Drivers on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs60-mic-issue-heres-how-to-restore-its-functionality/"><u>Corsair HS60 Mic Issue? Here's How to Restore Its Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-no-sound-problems-in-hp-notebooks/"><u>Expert Tips for Resolving No-Sound Problems in HP Notebooks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-audio-for-a-silent-chrome-experience-problem-solved/"><u>How to Enable Audio for a Silent Chrome Experience - Problem Solved!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-call-of-duty-black-ops-cold-war-game-voice-chat-up-and-running-again/"><u>How to Get Your Call of Duty Black Ops Cold War Game Voice Chat Up and Running Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-speech-recognition-in-seconds-whisper-guide/"><u>Mastering Speech Recognition in Seconds - Whisper Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/prime-7-cameras-elevating-virtual-event-coverage-and-vlogging/"><u>Prime 7 Cameras Elevating Virtual Event Coverage and Vlogging</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-the-missing-headphone-issue-in-windows-11/"><u>Troubleshooting Guide: Resolving the Missing Headphone Issue in Windows 11</u></a></li>
+</ul></div>
 

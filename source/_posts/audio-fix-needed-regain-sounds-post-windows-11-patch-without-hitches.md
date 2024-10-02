@@ -1,7 +1,7 @@
 ---
 title: "Audio Fix Needed: Regain Sounds Post-Windows 11 Patch Without Hitches"
-date: 2024-09-22T18:01:34.502Z
-updated: 2024-09-26T22:28:13.696Z
+date: 2024-09-26T01:17:15.714Z
+updated: 2024-10-01T22:13:27.940Z
 tags:
   - win11
   - win10
@@ -48,26 +48,19 @@ But first, ensure that your device has been connected and set correctly.
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Go back to the Anthem and check it has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run audio troubleshooting
@@ -77,6 +70,14 @@ But first, ensure that your device has been connected and set correctly.
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 3. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check whether Anthem has sound or not.
 
 ### Fix 3: Set the Default Format in the lowest mode
@@ -91,10 +92,10 @@ But first, ensure that your device has been connected and set correctly.
 5. Reboot your computer and check whether Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Uncheck “Disable all sound effects”
@@ -106,26 +107,13 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click **Apply > OK** .
@@ -145,6 +133,14 @@ But first, ensure that your device has been connected and set correctly.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
@@ -176,19 +172,17 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-paving-the-path-to-online-success-youtubes-keyword-guide/"><u>[Updated] Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/6-of-our-favorite-homework-apps-to-help-students-and-parents/"><u>6 of Our Favorite Homework Apps to Help Students (and Parents)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-and-voice-chat-woes-discover-simple-solutions-to-sound-off-in-the-game/"><u>Apex Legends and Voice Chat Woes? Discover Simple Solutions to Sound Off in the Game</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-sea-of-thieves-adventure-essential-tips-to-repair-micspeakers-on-windows-computers/"><u>Enhance Your Sea of Thieves Adventure - Essential Tips to Repair Mic/Speakers on Windows Computers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-steps-for-resolving-iphone-alarm-failures/"><u>Essential Steps for Resolving iPhone Alarm Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-logitech-camera-and-mic-back-online-expert-troubleshooting-tips/"><u>Get Your Logitech Camera and Mic Back Online - Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-mastering-the-art-of-spoofing-your-smartphones-gps-coordinates/"><u>Guide: Mastering the Art of Spoofing Your Smartphone's GPS Coordinates</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-the-unable-to-record-macro-error-in-excel-2019-by-stellar-guide/"><u>How to Fix the Unable to Record Macro Error in Excel 2019?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-se-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone SE Stuck On Activation Lock?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rectify-audio-problems-on-your-computer-a-comprehensive-guide-for-windows-11-users/"><u>Rectify Audio Problems on Your Computer: A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-perfect-fix-how-to-alter-your-stories-text-on-insta/"><u>The Perfect Fix: How to Alter Your Stories Text on Insta</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-bluetooth-audio-jitters-in-windows-10-and-11-solutions-inside/"><u>Troubleshooting Bluetooth Audio Jitters in Windows 10 & 11 – Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-issues-with-unresponsive-mic-and-audio-detection/"><u>Ultimate Guide: Resolving Issues with Unresponsive Mic and Audio Detection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-quality-upgrade-no-more-lag-just-perfect-tunes-every-time/"><u>Bluetooth Quality Upgrade: No More Lag, Just Perfect Tunes Every Time</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-visual-quality-enable-win11s-color-adjustment/"><u>Boosting Visual Quality: Enable Win11's Color Adjustment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-get-your-headphones-working-properly-on-a-windows-11-device/"><u>Comprehensive Fixes to Get Your Headphones Working Properly on a Windows 11 Device</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-senuti-app-evaluation-and-top-alternatives-for-both-windows-and-macos-users/"><u>Comprehensive Guide: Senuti App Evaluation & Top Alternatives for Both Windows & macOS Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-getting-your-logitech-g230-microphone-back-in-action/"><u>DIY Fixes: Getting Your Logitech G230 Microphone Back in Action!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-11-proplus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 11 Pro+</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-mics-performance-tips-for-successful-voice-recording-troubleshooting/"><u>Improve Your Mic’s Performance: Tips for Successful Voice Recording Troubleshooting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-time-lapse-tales-smartphone-storytelling-techniques/"><u>In 2024, Time-Lapse Tales Smartphone Storytelling Techniques</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/save-your-favorite-showtime-series-as-video-files-mp4movavi-for-offline-viewing/"><u>Save Your Favorite Showtime Series as Video Files (MP4/MOV/AVI) for Offline Viewing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-deleting-profiles-on-windows-11-with-revo-software/"><u>Step-by-Step Tutorial for Deleting Profiles on Windows 11 with Revo Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultra-30-camera-detailed-review-of-the-garmin-virb/"><u>Ultra 30 Camera Detailed Review of the Garmin VIRB</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-premier-free-online-confluence-of-mp3-files-2023-reviewed/"><u>Updated 2024 Approved The Premier Free Online Confluence of MP3 Files 2023 Reviewed</u></a></li>
 </ul></div>
 

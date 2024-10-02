@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Issues with Your HyperX Cloud Alpha Microphone Malfunction"
-date: 2024-09-19T19:55:14.034Z
-updated: 2024-09-21T19:44:57.093Z
+date: 2024-09-29T18:16:24.389Z
+updated: 2024-10-01T18:10:42.245Z
 tags:
   - win11
   - win10
@@ -57,10 +57,25 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 2. Click**Set up microphone** , and follow the Microphone Setup Wizard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b23de4e69.jpg)
 3. When you reach “Adjust the microphone volume”, please note if the volume bar moves from yellow to red.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b3b757a02.jpg)
 4. Is the Setup wizard complete? If your microphone works properly, congratulations! If not, you can follow Method 2 below to check your audio settings.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Set your mic as your default device
 
@@ -69,12 +84,36 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 1. Right-click the volume icon in the bottom-right part of your screen, then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b7cd6c388.jpg)
 2. Click the **Recording** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca5ddbaee.jpg)
 3. Right-click on the device you want to use, and select **Set as Default Device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca767b35a.jpg)  
 **Note:** You can try speaking into your microphone to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk:  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6caa71d6b3.jpg)
 4. Right click on and **disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the **Playback** tab).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6cabba2f9f.jpg)
 5. Click**OK** .
 6. Check if your mic works as expected.
@@ -82,6 +121,13 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
  If your **mic not picking up voice** problem persists in the third-parity software, you can try Method 3 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Allow apps to access your mic (Windows 10)
 
@@ -93,34 +139,21 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d22eaa914.jpg)
 3. In the left pane, click **Microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d24e48342.jpg)
 4. In the right pane, click the **Change** button, and you’ll see your mic is turned on. Also make sure **All apps to access your microphone** is enabled.  
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d2820592a.jpg)
 5. In the section of **Choose which apps can access your microphone** , verify that  the program where you need to use mic is**turned on** .
 6. Test your microphone in that program.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Check in-game settings
 
@@ -131,13 +164,6 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 Check to see if your mic can pick up voice now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Check for Windows updates
 
@@ -170,5 +196,22 @@ Check to see if your mic can pick up voice now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-the-power-of-effective-screencasts-in-digital-content/"><u>[New] In 2024, Unveiling the Power of Effective Screencasts in Digital Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-lg-360-camera-full-review-for-2024/"><u>[New] LG 360 Camera Full Review for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tools-for-transforming-your-spotify-mixes-into-youtube-channels-for-2024/"><u>Best Tools for Transforming Your Spotify Mixes Into YouTube Channels for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-turtle-beach-hpxearpods-microphone-up-and-running-again/"><u>Get Your Turtle Beach HPX/EarPods' Microphone Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-corsair-virtuoso-microphone-up-and-running-again-a-fix-guide/"><u>Getting Your Corsair Virtuoso Microphone Up and Running Again – A Fix Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-note-30-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Note 30 5G?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-silence-the-pops-and-cracks-fixing-sound-quality-problems-on-arctis-7-for-windows-users/"><u>How to Silence the Pops & Cracks: Fixing Sound Quality Problems on Arctis 7 for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p40plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P40+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-laserjet-pro-p1606dn-printer-drivers-free-downloads-and-latest-updates-for-windows-users/"><u>HP LaserJet Pro P1606dn Printer Drivers: Free Downloads and Latest Updates for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-hd-audio-challenges-in-your-nvidia-system-tips-and-fixes/"><u>Overcoming HD Audio Challenges in Your Nvidia System - Tips & Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/punpictures-pro-jestjokes-network/"><u>PunPictures Pro JestJokes Network</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-viewing-guide-experience-the-conjuring-series-sequentially/"><u>The Ultimate Viewing Guide: Experience The 'Conjuring' Series Sequentially</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-stereo-sound-output-issues/"><u>Troubleshooting Guide: Fixing Stereo Sound Output Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-high-definition-codec-driver-issues-on-windows-11/"><u>Troubleshooting IDT High Definition Codec Driver Issues on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-phase0exception-stop-error-0x00000078/"><u>Ultimate Guide: Resolving the PHASE0_EXCEPTION - Stop Error 0X00000078</u></a></li>
+</ul></div>
 

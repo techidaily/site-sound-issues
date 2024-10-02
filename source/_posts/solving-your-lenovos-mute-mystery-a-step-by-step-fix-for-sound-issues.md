@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Lenovo's Mute Mystery: A Step-by-Step Fix for Sound Issues"
-date: 2024-09-20T18:54:45.114Z
-updated: 2024-09-26T17:53:23.501Z
+date: 2024-09-28T03:01:25.416Z
+updated: 2024-10-01T18:29:27.119Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
@@ -84,6 +84,13 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e879b5615.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
@@ -93,6 +100,13 @@ To make sure the volume is audible:
  4) **Restart** your computer and test if you get sound back on your Lenovo laptop. If yes, then congrats! If the no sound issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set default audio devices
 
@@ -105,34 +119,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
  3) Check to see if your Lenovo no sound problem has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5,** below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
 
@@ -144,19 +152,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
@@ -164,13 +159,6 @@ Here’s how:
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Test your audio device and see if the no sound issue is resolved.
 
@@ -199,24 +187,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-checklist-for-streamlined-recording-of-virtual-gatherings/"><u>[New] In 2024, The Ultimate Checklist for Streamlined Recording of Virtual Gatherings</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-content-capture-5-must-have-social-apps/"><u>[Updated] In 2024, Mastering Content Capture 5 Must-Have Social Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-home-design-potential-in-minecraft-for-2024/"><u>[Updated] Unlocking Home Design Potential in Minecraft for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-strategies-for-securing-an-original-tiktok-hashtag/"><u>2024 Approved Strategies for Securing an Original TikTok Hashtag</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-and-visual-summary-synthesizer-for-2024/"><u>Aural and Visual Summary Synthesizer for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-headset-microphone-repairs-a-complete-guide/"><u>Corsair HS60 Headset Microphone Repairs: A Complete Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/expert-analysis-of-the-govee-gaming-led-light-bar-essential-addition-for-serious-players/"><u>Expert Analysis of the Govee Gaming LED Light Bar - Essential Addition for Serious Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-for-steelseries-arctis-headsets-resolving-the-non-working-mic-conundrum/"><u>Expert Solutions for SteelSeries Arctis Headsets - Resolving the Non-Working Mic Conundrum</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a18-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-narzo-60x-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme Narzo 60x 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016507875-no-more-silence-in-battlegrounds-get-your-world-of-warcraft-voice-chat-running-smoothly-again/"><u>No More Silence in Battlegrounds: Get Your World of Warcraft Voice Chat Running Smoothly Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-dolby-windows-problems-guide-to-enable-dolby-audio-driver-in-windows-11/"><u>Resolving Dolby Windows Problems: Guide to Enable Dolby Audio Driver in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-the-mute-mystery-expert-advice-on-getting-heard-on-discord/"><u>Resolving the Mute Mystery: Expert Advice on Getting Heard on Discord</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-mic-not-working-problem-with-steelseries-arctis-prime/"><u>Solution Guide for 'Mic Not Working' Problem with SteelSeries Arctis Prime</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-output-unplugged-issue-nvidia-card-troubleshooting-tips/"><u>Solving the 'Output Unplugged' Issue: Nvidia Card Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-fixing-issues-with-call-of-dutys-modern-warfare-voice-communication/"><u>Troubleshooting Steps: Fixing Issues with Call of Duty's Modern Warfare Voice Communication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-how-to-repair-your-airpods-microphone-issues/"><u>Troubleshooting Windows 10: How to Repair Your AirPods' Microphone Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fix-for-assassins-creed-odyssey-pc-stalling-problems/"><u>Ultimate Fix for Assassin's Creed Odyssey PC Stalling Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/wintools-insight-exploring-differences-in-chkdsk-and-sfcs-use/"><u>WinTools Insight: Exploring Differences in CHKDSK and SFC's Use</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-decoding-the-tech-behind-immersive-vr-experiences/"><u>[New] In 2024, Decoding the Tech Behind Immersive VR Experiences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-tenfold-video-recording-tricks-on-your-windows-11-system/"><u>[New] In 2024, Tenfold Video Recording Tricks on Your Windows 11 System</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mastering-content-structure-elevated-templates-for-yt/"><u>[Updated] 2024 Approved Mastering Content Structure Elevated Templates for YT</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-exhaustive-breakdown-of-vsco-photography-tool/"><u>2024 Approved Exhaustive Breakdown of VSCO Photography Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016303814-comprehensive-troubleshooting-for-defective-headset-microphones-get-it-working-again/"><u>Comprehensive Troubleshooting for Defective Headset Microphones: Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-guide-troubleshooting-your-devices-failed-sound-verification-alert/"><u>Effortless Guide: Troubleshooting Your Device's Failed Sound Verification Alert</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-corsair-gaming-headset-troubleshooting-tips-and-solutions/"><u>Fixing Your Corsair Gaming Headset: Troubleshooting Tips & Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-rust-microphone-working-again-expert-tips-and-tricks/"><u>How to Get Your Rust Microphone Working Again : Expert Tips and Tricks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x5-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X5 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-y78plus-t1-edition-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Vivo Y78+ (T1) Edition Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-huawei-p60-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Huawei P60 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/professional-gamers-showcase-live-recording-in-obs/"><u>Professional Gamers Showcase - Live Recording in OBS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revamping-audio-quality-overcoming-low-volume-mic-challenges/"><u>Revamping Audio Quality: Overcoming Low-Volume Mic Challenges</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-macs-speakers-effective-fixes-for-no-sound-problems/"><u>Revive Your Mac's Speakers: Effective Fixes for No Sound Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-speakers-how-to-deal-with-no-sound-in-windows-11-systems/"><u>Reviving Speakers: How to Deal with 'No Sound' In Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-system-heres-how-to-fix-lack-of-sound-on-your-windows-11-device/"><u>Silent System? Here's How to Fix Lack of Sound on Your Windows 11 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-issues-in-windows-7-fixing-headphones-wont-work-error/"><u>Solving Sound Issues in Windows 7 - Fixing Headphones Won't Work Error</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-lannister-line-up-top-list-of-websites-for-game-ringtones-for-2024/"><u>The Lannister Line-Up Top List of Websites for Game Ringtones for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-power-of-recuva-an-in-depth-review-of-leading-file-recovery-applications/"><u>Unveiling the Power of Recuva: An In-Depth Review of Leading File Recovery Applications</u></a></li>
 </ul></div>
 

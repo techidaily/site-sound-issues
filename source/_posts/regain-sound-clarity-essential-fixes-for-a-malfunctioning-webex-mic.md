@@ -1,7 +1,7 @@
 ---
 title: "Regain Sound Clarity: Essential Fixes for a Malfunctioning Webex Mic"
-date: 2024-09-21T21:49:21.718Z
-updated: 2024-09-26T17:08:32.900Z
+date: 2024-09-27T19:33:42.232Z
+updated: 2024-10-01T18:23:25.461Z
 tags:
   - win11
   - win10
@@ -49,22 +49,29 @@ thumbnail: https://thmb.techidaily.com/60ef5a3cb6d3ebf4383dc1944d7c5c6920d92b79f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff2a8dbdca.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In addition, sometimes your sound is not working if your volume is set minimum. With that being said, drag your volume slider to maximum and play any sound to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff2e94ca54.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your sound starts working again, then you should have found and fixed your problem.
 
 If your sound is not working, try the following solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the hardware problem
 
@@ -90,13 +97,6 @@ Your hardware issues can cause your sound not working on PC.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Hardware and Sound troubleshooter
 
  The Hardware and Sound troubleshooter scans your PC and provides solutions for detected issues. So you can run the troubleshooter and see if it helps with your sound problem.
@@ -106,35 +106,52 @@ Here’s what you can do:
 1. Type**Control Panel** in the search box on your PC, and click**Control Panel** in the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfee79972a5.jpg)
 2. Ensure to view by large icons or small icons. Click**Troubleshooting** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeea70b4c6.jpg)
-3. Click**Hardware** **and Sound** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeea70b4c6.jpg)
+3. Click**Hardware** **and Sound** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfeee6b6fce.jpg)
 4. Click**Playing Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef0aa581c.jpg)
 5. Ensure to check the box next to**Apply repairs automatically** . Then click**Next** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef327fb38.jpg)
-6. Select your**audio device** that you want to troubleshoot, then click**Next** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef5c55867.jpg)
-7. Wait for a while for the troubleshooting to be completed, and follow the on-screen instructions to finish it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef327fb38.jpg)
+6. Select your**audio device** that you want to troubleshoot, then click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdfef5c55867.jpg)
+7. Wait for a while for the troubleshooting to be completed, and follow the on-screen instructions to finish it.
 
 Then try playing any sound in your PC and see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your sound card driver
 
@@ -155,13 +172,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff38bc0d8a.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3a386818.jpg)
 4. Restart your computer to take effect.
@@ -173,10 +183,10 @@ Test and see if PC sound starts working.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Configure the audio settings in your PC
@@ -190,6 +200,14 @@ To do so:
 2. In the**Playback** tab, right click on any**empty area** and check the box next to**Show Disabled Devices** and**Show Disconnected Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0531a8bf.jpg)
 3. Select your**audio device** and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff073c7190.jpg)  
 Ensure there’s a green check next to your audio device.
 4. Click**Apply** and**OK** to save the changes.
@@ -203,13 +221,6 @@ If not, continue these steps:
 1. On the same**Playback** pane, select your audio device and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0a2d3420.jpg)
 2. Click the**Advanced** tab. In the**Default Format** section, choose different**audio rate** and click**Test** to see if there’s sound.  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff0bb5c7f2.jpg)
 
@@ -231,19 +242,6 @@ Still no luck? Okay, there’s one more thing to try.
 4. Ensure the**Startup type** is set to**Automatic** , and**Service status** is**Running** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff1a46292f.jpg)
 5. Click**Apply** and**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your PC and check your sound works or not.
 
@@ -269,18 +267,22 @@ Restart your PC and check your sound works or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-windows-11-bluetooth-not-working-issue/"><u>[FIXED] Windows 11 Bluetooth Not Working Issue</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-efficient-transfer-of-movie-maker-videos-to-vimeo/"><u>[New] In 2024, Efficient Transfer of Movie Maker Videos to Vimeo</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-15-ae-title-tricks-for-dynamic-content-headers/"><u>[New] Top 15 AE Title Tricks for Dynamic Content Headers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-deciphering-sharex-comparisons-and-replacements/"><u>[Updated] In 2024, Deciphering ShareX Comparisons & Replacements</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-not-picking-up-sound-heres-how-to-restore-clear-voice-communication/"><u>Discord Not Picking Up Sound? Here's How to Restore Clear Voice Communication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-bring-your-hyperx-cloud-alpha-mic-back-to-life/"><u>DIY Fixes: Bring Your HyperX Cloud Alpha Mic Back to Life</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-windows-10-sound-issues-fast-with-these-simple-effective-tips/"><u>Fix Windows 10 Sound Issues Fast with These Simple, Effective Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hearthstone-audio-trouble-heres-how-to-get-the-sound-back/"><u>Hearthstone Audio Trouble? Here's How to Get the Sound Back</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-direct-download-of-youtube-videos/"><u>In 2024, Direct Download of YouTube Videos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-audio-post-production-in-fcp-tips-and-tricks-for-2024/"><u>New Audio Post-Production in FCP Tips and Tricks for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restarting-your-dolby-sound-on-windows-10/"><u>Step-by-Step Guide to Restarting Your Dolby Sound on Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionplay-app-feedback-summary/"><u>VisionPlay App Feedback Summary</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/window-capture-suite-pro-xp-for-2024/"><u>Window Capture Suite Pro XP for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-infusing-your-reels-with-soundscape-elements-for-2024/"><u>[New] Infusing Your Reels with Soundscape Elements for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-seamless-video-sharing-from-youtube-to-fb-for-2024/"><u>[New] Seamless Video Sharing From YouTube to FB for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-setting-the-price-for-higher-youtube-engagement/"><u>[New] Setting the Price for Higher YouTube Engagement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-audio-lag-quickly-and-easily/"><u>✅ Bluetooth Audio Lag | Quickly & Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-quadro-rtx-8000-drivers-supporting-windows-11-8-and-7-platforms/"><u>Download Updated NVIDIA Quadro RTX 8000 Drivers - Supporting Windows 11, 8 & 7 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-operations-of-your-sony-vaio-by-installing-updated-windows-drivers/"><u>Ensure Smooth Operations of Your Sony Vaio by Installing Updated Windows Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-how-to-switch-off-acoustic-amplification-on-windows-10-systems/"><u>Guide: How to Switch Off Acoustic Amplification on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-how-to-securely-download-youtubes-srt-subtitles/"><u>In 2024, How to Securely Download YouTube's SRT Subtitles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-secrets-of-finding-exclusive-youtube-design-archives/"><u>In 2024, Secrets of Finding Exclusive YouTube Design Archives</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-windows-to-rise-your-fps-level/"><u>Optimizing Windows to Rise Your FPS Level</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-digital-output-has-no-sound-fixed/"><u>Realtek Digital Output Has No Sound [Fixed]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hearing-in-apex-legends-how-to-fix-games-no-sound-problem/"><u>Revive Your Hearing in Apex Legends: How to Fix Game's No Sound Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fix-silent-system-post-windows-11-update-quick-guide/"><u>Solved: Fix Silent System Post-Windows 11 Update – Quick Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-the-issue-of-realtek-audio-out-no-sound/"><u>Solved: Fixing the Issue of Realtek AUDIO OUT - No SOUND</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-when-your-google-hangouts-microphone-fails/"><u>Troubleshoot and Repair: When Your Google Hangouts Microphone Fails</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-review-of-pioneers-portable-bdr-xs06-blu-ray-burner-strength-in-size-and-speed/"><u>Ultimate Review of Pioneer's Portable BDR-XS06 Blu-Ray Burner - Strength in Size & Speed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstick-your-game-chat-proven-fixes-for-voice-and-microphone-problems-in-call-of-duty-warzone-on-pc-and-consoles/"><u>Unstick Your Game Chat: Proven Fixes for Voice & Microphone Problems in Call of Duty Warzone on PC and Consoles</u></a></li>
 </ul></div>
 

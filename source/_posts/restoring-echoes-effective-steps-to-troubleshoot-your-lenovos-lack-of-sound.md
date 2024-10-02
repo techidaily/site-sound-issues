@@ -1,7 +1,7 @@
 ---
 title: "Restoring Echoes: Effective Steps to Troubleshoot Your Lenovo's Lack of Sound"
-date: 2024-09-21T17:52:32.910Z
-updated: 2024-09-26T20:31:43.356Z
+date: 2024-09-26T01:01:39.974Z
+updated: 2024-10-01T17:30:59.821Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 
  If you confirm there is no problem related to hardware, continue to the second fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2 – Update your audio driver
 
  The audio driver is essential for a headset or microphone to work properly. If it’s missing, faulty or outdated, you may encounter the Corsair headset not working problem. To keep your headset up and running all the time, make sure to install the latest device drivers.
@@ -75,13 +68,6 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 
  Does the driver update get your Corsair headset back to work now? If not, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3 – Check the sound settings
 
  In most cases, your Corsair headset will be set as default automatically once it’s connected properly. But if you’ve constantly changed between the headsets and speakers, the settings might be messed up. And you’ll need to configure the correct setup manually.
@@ -89,28 +75,38 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 1. In the Windows search box, type**control** and select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-1.jpg)
 3. On the**Playback** tab, make sure your Corsair headset is enabled (covered with a green check mark). Then, click it and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-3.jpg)
 4. Navigate to the**Recording** tab. Select the Corsair headset microphone and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-4-1.jpg)
 5. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once completed, check if your Corsair headset functions well. If not, try to troubleshoot the firmware.
 
@@ -125,10 +121,10 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 4. Select your headset first, then check**Force update** and click the**Update** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firmware-update.jpg)
@@ -143,41 +139,51 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-0.jpg)
 2. Double-click**Audio inputs and outputs** to expand the list.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-1.jpg)
 3. Right-click your**Corsair device** and select**Uninstall device** . Make sure you’ve uninstalled the driver for both headset earphone and microphone.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-2.jpg)
 4. Click**Uninstall** to confirm.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-3.jpg)
 5. Unplug the headset and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. On your keyboard, press the**Windows logo key** and**R** to open the Run command. Type**appwiz.cpl** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 7. Select**iCUE** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 8. Click**Yes** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-6.jpg)
-9. Restart the computer and[download](https://www.corsair.com/ww/en/icue) the latest version of iCUE and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-6.jpg)
+9. Restart the computer and[download](https://www.corsair.com/ww/en/icue) the latest version of iCUE and install it.
 
 10. Launch iCUE. Then replug your Corsair headset into the computer.
 
@@ -206,20 +212,18 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-skype-microphone-not-working-in-windows-10/"><u>[Fixed] Skype Microphone Not Working in Windows 10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seize-the-day-best-apps-for-live-streaming-and-recording-on-facebook/"><u>[New] In 2024, Seize the Day Best Apps for Live Streaming and Recording on Facebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-quick-guide-downloading-and-prepping-vrecord-for-2024/"><u>[New] Quick Guide Downloading & Prepping VRecord for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-crafting-prime-valorant-video-thumbnails-on-youtube/"><u>[Updated] Crafting Prime Valorant Video Thumbnails on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-seamless-guide-integrating-instagram-with-tiktok/"><u>[Updated] Seamless Guide Integrating Instagram with TikTok</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-sensation-strategies-crafting-fbs-topmusicvideos/"><u>[Updated] Social Sensation Strategies - Crafting FB's #TopMusicVideos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-webcam-mic/"><u>How to Fix a Non-Functioning Logitech Webcam Mic</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-recording-google-voice-calls/"><u>In 2024, Unlocking the Potential of Recording Google Voice Calls</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastered-method-broadcasting-video-game-tunes-through-discord/"><u>Mastered Method: Broadcasting Video Game Tunes Through Discord</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reactivate-laptop-soundscape-expert-advice-for-solving-audio-problems/"><u>Reactivate Laptop Soundscape: Expert Advice for Solving Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-microphone-woes-effective-solutions-when-you-cant-be-heard-on-discord/"><u>Solving Your Microphone Woes: Effective Solutions When You Can't Be Heard on Discord</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-problems-following-the-latest-windows-11-software-upgrade/"><u>Troubleshoot Audio Problems Following the Latest Windows 11 Software Upgrade</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-non-functional-voice-chat-on-modern-warfare/"><u>Troubleshooting Guide: Resolving Non-Functional Voice Chat on Modern Warfare</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitsnap-secure-effortless-methods-for-downloading-tweets-videos/"><u>TwitSnap Secure Effortless Methods for Downloading Tweets' Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-10-configuring-microphone-and-webcam-as-default-devices/"><u>Windows 10: Configuring Microphone & Webcam as Default Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elevating-posts-how-to-trend-on-social-media/"><u>[New] Elevating Posts How to Trend on Social Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>[New] In 2024, Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-remove-a-background-in-affinity-photo/"><u>[Updated] 2024 Approved Remove a Background in Affinity Photo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-to-maximizing-your-roi-on-spotify-ads/"><u>[Updated] Step-by-Step Guide to Maximizing Your ROI on Spotify Ads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-sound-glitch-on-pc-heres-how-to-solve-it/"><u>Black Ops: Cold War Sound Glitch on PC? Here's How to Solve It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014809854-counter-strike-2-audio-glitches-effective-solutions-to-get-your-mic-working-again/"><u>Counter-Strike 2 Audio Glitches: Effective Solutions to Get Your Mic Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-issue-swift-solutions-for-your-astro-a50-audio-problems/"><u>Fixing the Silent Issue: Swift Solutions for Your Astro A50 Audio Problems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-link-sharing-instagram-stories-and-posts-for-2024/"><u>Mastering Link Sharing Instagram Stories & Posts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-speakers-volume-effortless-troubleshooting-for-logitech-g933-sound-problems/"><u>Restore Speakers' Volume: Effortless Troubleshooting for Logitech G933 Sound Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/selecting-top-tech-for-aerial-and-visuals/"><u>Selecting Top Tech for Aerial and Visuals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-delayed-audio-on-bluetooth-devices-with-these-effortless-fixes/"><u>Troubleshoot Delayed Audio on Bluetooth Devices with These Effortless Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/usb-headphones-not-playing-sounds-fix-guide-for-windows-7-users/"><u>USB Headphones Not Playing Sounds? Fix Guide for Windows 7 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-copy-pro-effortless-clone-your-dvd-or-convert-to-iso-with-excellent-support/"><u>WinX DVD Copy Pro: Effortless Clone Your DVD or Convert to ISO with Excellent Support</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Silent Battles: Resolve Apex Legends' Voice Chat Woes Instantly"
-date: 2024-09-19T23:22:24.941Z
-updated: 2024-09-26T20:59:33.749Z
+date: 2024-09-30T02:05:49.062Z
+updated: 2024-10-02T03:03:29.438Z
 tags:
   - win11
   - win10
@@ -88,10 +88,10 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: End unnecessary background programs
@@ -110,19 +110,6 @@ OR
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -150,19 +137,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair_Hearthstone_ files
@@ -175,32 +163,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -213,6 +180,13 @@ OR
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Apply** then**OK** .
 
@@ -229,16 +203,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-300.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
@@ -248,6 +216,19 @@ OR
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-550.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
 
@@ -262,6 +243,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -296,16 +284,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click**Battle.net** , then click**Uninstall/Change** .
 
@@ -341,20 +329,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-best-5-frame-sequence-recorder-fast-and-easy-for-2024/"><u>[Updated] Best 5-Frame Sequence Recorder - Fast & Easy for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-visual-communication-a-guide-to-gif-creation/"><u>[Updated] Expertise in Visual Communication A Guide to GIF Creation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-transition-tactics-your-youtube-videos-on-instagram/"><u>[Updated] Transition Tactics Your YouTube Videos on Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-strategies-for-capturing-your-best-moments-in-snapchat/"><u>2024 Approved Essential Strategies for Capturing Your Best Moments in Snapchat</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-audio-output-in-windows-11-tips-and-tricks-for-loud-and-clear-sounds/"><u>Enhancing Audio Output in Windows 11 - Tips & Tricks for Loud and Clear Sounds</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-bluetooth-compatibility-lenovo-and-win10/"><u>Enhancing Bluetooth Compatibility: Lenovo and Win10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-dealing-with-origin-not-starting-properly-under-windows-11-environment/"><u>Expert Advice: Dealing With 'Origin' Not Starting Properly Under Windows 11 Environment</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-note-30-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Note 30 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-stop-glitchy-sounds-on-bluetooth-headsets-in-windows-pcs-tips-and-tricks/"><u>How to Stop Glitchy Sounds on Bluetooth Headsets in Windows PCs (Tips & Tricks)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-xiaomi-14-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Xiaomi 14 Pro to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-issues-ultimate-guide-to-correcting-cyberpunk-2077s-distorted-sounds/"><u>Resolving Audio Issues: Ultimate Guide to Correcting Cyberpunk 2077'S Distorted Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-razer-mic-with-these-5-easy-troubleshooting-techniques/"><u>Revive Your Razer Mic with These 5 Easy Troubleshooting Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-systems-volume-troubleshooting-no-sound-issues-on-windows-11/"><u>Revive Your System's Volume - Troubleshooting No Sound Issues on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-how-to-resolve-non-functional-discord-call-audio-features/"><u>Solution Found: How to Resolve Non-Functional Discord Call Audio Features</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cookiebot-enabled-enhance-user-experience-with-personalized-website-analytics/"><u>Cookiebot-Enabled: Enhance User Experience with Personalized Website Analytics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-silent-windows-10-simple-steps-to-restore-audio/"><u>Fix Silent Windows 10: Simple Steps to Restore Audio</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-14-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 14 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Passcode Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-g22-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia G22 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016994045-no-more-silence-restore-fortnite-microphone-functionality-easy-fixes-inside/"><u>No More Silence: Restore Fortnite Microphone Functionality – Easy Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016323661-quick-fixes-for-a-silent-pc-get-your-computer-speakers-working-now/"><u>Quick Fixes for a Silent PC – Get Your Computer Speakers Working Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-voice-troubleshooting-on-windows-11-get-your-mic-working-again/"><u>Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-when-wlanapidll-goes-awol-error-tips-and-tricks/"><u>The Ultimate Fix for When wlanAPI.dll Goes AWOL: Error Tips & Tricks</u></a></li>
 </ul></div>
 
