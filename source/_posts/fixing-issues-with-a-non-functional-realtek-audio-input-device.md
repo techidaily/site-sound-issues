@@ -1,7 +1,7 @@
 ---
 title: Fixing Issues with a Non-Functional Realtek Audio Input Device
-date: 2024-09-24T17:38:25.373Z
-updated: 2024-10-01T17:41:41.707Z
+date: 2024-10-03T08:51:41.687Z
+updated: 2024-10-06T16:51:44.298Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -74,25 +81,19 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
@@ -104,33 +105,28 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
@@ -157,19 +153,22 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/solved-mpow-microphone-not-working-on-windows/"><u>[Solved] MPOW Microphone Not Working on Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-how-to-banish-spotifys-recommended-podcasts-for-2024/"><u>[Updated] How to Banish Spotify's Recommended Podcasts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-captivating-content-for-the-first-moments-in-audios/"><u>2024 Approved Crafting Captivating Content for the First Moments in Audios</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-gloves-top-picks-to-immerse-in-vr-worlds/"><u>2024 Approved Next-Gen Gloves Top Picks to Immerse in VR Worlds</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-video-vanguard-youtubes-1-24-hours-list/"><u>2024 Approved Viral Video Vanguard YouTube's #1 24 Hours List</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-radeon-drivers-update-for-windows-8-free-downloads-available-now/"><u>AMD Radeon Drivers Update for Windows 8 – FREE Downloads Available Now</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/leading-macos-sierra-choices-for-file-conversion/"><u>Leading MacOS Sierra Choices for File Conversion</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-download-the-best-video-editor-for-mac-splice/"><u>New Download the Best Video Editor for Mac Splice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-battlefield-4-silence-ultimate-audio-troubleshooting-guide/"><u>Solve Your Battlefield 4 Silence: Ultimate Audio Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-on-your-steelseries-arctis-pro-headset-expert-advice-and-fixes/"><u>Solving Audio Issues on Your SteelSeries Arctis Pro Headset - Expert Advice & Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-stereo-mix-problems-effective-solutions-for-optimal-audio-performance/"><u>Solving Stereo Mix Problems: Effective Solutions for Optimal Audio Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-intermittent-sound-in-windows-11-a-step-by-step-guide/"><u>Solving the Issue of Intermittent Sound in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-discord-push-to-talk-feature-failure-and-how-to-prevent-it/"><u>Step-by-Step Fix for Discord Push-to-Talk Feature Failure and How To Prevent It</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sweet-german-sentiments-romantic-talk-techniques/"><u>Sweet German Sentiments: Romantic Talk Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-expert-tips-for-snapchats-magic-invisible-hands-make-the-picture-pop/"><u>[New] In 2024, Expert Tips for Snapchat's Magic Invisible Hands Make the Picture Pop</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laughmaker-begin-your-content-creation-journey/"><u>[New] LaughMaker Begin Your Content Creation Journey</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-methods-for-amending-silent-obs-recordings-for-2024/"><u>[New] Methods for Amending Silent OBS Recordings for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>[Updated] 2024 Approved Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-resolving-the-voice-chat-malfunction-quickly-and-easily/"><u>Cod: Vanguard - Resolving the Voice Chat Malfunction Quickly and Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-sennheiser-gamers-mic-a-comprehensive-troubleshooting-tutorial/"><u>Fixing Your Sennheiser Gamer's Mic: A Comprehensive Troubleshooting Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-accidental-keystrokes-on-your-keyboard/"><u>How to Correct Accidental Keystrokes on Your Keyboard</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-sony-wh-1000xm34-headphones-mic-not-working-with-a-laptop/"><u>How to Repair Sony WH-1000XM3/4 Headphones Mic Not Working with a Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-with-your-realtek-mic-comprehensive-solutions/"><u>How to Resolve Issues with Your Realtek Mic - Comprehensive Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-packaging-as-a-sales-catalyst/"><u>In 2024, Packaging as a Sales Catalyst</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-silent-screens-quick-fixes-for-sound-problems-on-toshiba-notebooks/"><u>Tackling Silent Screens: Quick Fixes for Sound Problems on Toshiba Notebooks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-the-problem-of-distorted-audio-in-windows-operating-systems/"><u>Troubleshooting and Solving the Problem of Distorted Audio in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-a-step-by-step-guide-for-playing-outriders-without-sound-issues/"><u>Troubleshooting Audio Problems: A Step-by-Step Guide for Playing Outriders Without Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-browsing-solutions-for-chromes-lack-of-sound/"><u>Troubleshooting Silent Browsing - Solutions for Chrome's Lack of Sound</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/unlock-expert-dentistry-education-easy-to-download-tutorials-from-dentalxp/"><u>Unlock Expert Dentistry Education: Easy-to-Download Tutorials From DentalXP</u></a></li>
 </ul></div>
 

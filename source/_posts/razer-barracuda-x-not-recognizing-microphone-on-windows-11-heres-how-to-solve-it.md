@@ -1,7 +1,7 @@
 ---
 title: Razer Barracuda X Not Recognizing Microphone on Windows 11? Here's How to Solve It!
-date: 2024-09-28T23:35:06.141Z
-updated: 2024-10-01T17:35:39.068Z
+date: 2024-09-29T21:40:54.684Z
+updated: 2024-10-07T09:35:26.382Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -71,17 +64,31 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Check your PC sound settings
 
@@ -91,22 +98,8 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
@@ -114,7 +107,21 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Check Google Meet’s settings
 
@@ -124,29 +131,16 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting.jpg)
 2. Make sure your microphone is not turned off.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
@@ -176,22 +170,17 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-dazzling-instagram-stories-with-multi-image-techniques/"><u>[New] 2024 Approved Crafting Dazzling Instagram Stories with Multi-Image Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-the-art-of-green-screens-for-beginners/"><u>[New] 2024 Approved Mastering The Art of Green Screens for Beginners</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-naming-solutions-for-channels/"><u>[Updated] Innovative Naming Solutions for Channels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808082269-error-code-80240020-deciphered-easy-steps-to-successfully-install-windows-10-without-a-glitch/"><u>Error Code 80240020 Deciphered: Easy Steps to Successfully Install Windows 10 without a Glitch</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-innovative-video-marketing-youtube-trailers-with-filmora/"><u>In 2024, Innovative Video Marketing YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100a-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100A Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-camon-20-premier-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Camon 20 Premier 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-new-reset-limit-on-account-lockouts-in-windows-1011/"><u>Setting New Reset Limit on Account Lockouts in Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-nonfunctional-steam-chat-audio/"><u>Step-by-Step Solution for Nonfunctional Steam Chat Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-skype-noise-issues-instantly-expert-tips-included/"><u>Troubleshoot Skype Noise Issues Instantly - Expert Tips Included</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-valorants-voice-chat-malfunctions-easily-with-these-tips/"><u>Troubleshoot Valorant's Voice Chat Malfunctions Easily with These Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-league-of-legends/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in League of Legends</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-the-no-audio-problem-in-conexant-smartaudio-on-windows-10/"><u>Troubleshooting Guide: Solving the 'No Audio' Problem in Conexant SmartAudio on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-laptops-solutions-for-audio-problems/"><u>Troubleshooting Silent Laptops: Solutions for Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-fixing-the-rec-room-mic-issue-on-pcs-guide/"><u>Troubleshooting Steps for Fixing the Rec Room Mic Issue on PCs (Guide)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-nvidias-missing-high-definition-sound-issue/"><u>Troubleshooting Steps for Resolving Nvidia's Missing High-Definition Sound Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-sea-of-thieves-voice-chat-notmic-working-on-pc/"><u>[Fixed] Sea of Thieves Voice Chat Not/Mic Working on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-efficient-screenshot-with-audio-layered/"><u>[Updated] 2024 Approved Efficient Screenshot With Audio Layered</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dvddvd/"><u>見られない・プレイ不可能なDVDをパソコンやDVDレコーダーでどうにかせんか？</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cracking-down-on-audacitys-opening-device-failed-error-a-5-step-guide/"><u>Cracking Down on Audacity's 'Opening Device Failed' Error: A 5-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experiencing-trouble-with-discord-voice-chat-heres-what-to-do/"><u>Experiencing Trouble With Discord Voice Chat? Here's What to Do!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-c65-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco C65?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-huawei-p60-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Huawei P60</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/optimize-tv-viewership-via-facebook-live-streaming/"><u>Optimize TV Viewership via Facebook Live Streaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/reviving-obs-sound-capture-steps-for-2024/"><u>Reviving OBS Sound Capture Steps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-audio-problems-a-step-by-step-fix-for-the-blackshark-v2-mic/"><u>Solve Your Audio Problems: A Step-by-Step Fix for the BlackShark V2 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-problems-in-outriders-a-comprehensive-guide/"><u>Troubleshooting Sound Problems in Outriders: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method-for-2024/"><u>Updated Making Slow Motion Videos in Premiere Pro A Review on The Best Method for 2024</u></a></li>
 </ul></div>
 

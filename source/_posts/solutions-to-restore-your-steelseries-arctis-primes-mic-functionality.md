@@ -1,7 +1,7 @@
 ---
 title: Solutions to Restore Your SteelSeries Arctis Prime's Mic Functionality
-date: 2024-09-27T19:07:00.151Z
-updated: 2024-10-01T19:55:33.507Z
+date: 2024-09-29T20:27:22.309Z
+updated: 2024-10-06T18:42:02.289Z
 tags:
   - win11
   - win10
@@ -30,25 +30,11 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Make sure you use the right ports
 
  You can connect your Virtuoso headset using the Slipstream Wireless dongle, a 3.5mm jack, or a USB connection. No matter what wired connection you use, you should first make sure you’re utilizing the correct port.
 
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
 
@@ -58,35 +44,37 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -103,16 +91,23 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -130,6 +125,13 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 5. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -163,22 +165,21 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-uniting-content-creators-microphones-that-speak-to-every-yt-style-and-genre/"><u>[Updated] 2024 Approved Uniting Content Creators Microphones That Speak to Every YT Style and Genre</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-diy-audio-excellence-no-mic-necessary-for-2024/"><u>[Updated] DIY Audio Excellence No Mic Necessary for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reveal-your-future-design-with-our-selection-of-top-9-websites-for-type-innovation/"><u>2024 Approved Reveal Your Future Design with Our Selection of Top 9 Websites for Type Innovation</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-application-failures-due-to-net-not-installed/"><u>Addressing Application Failures Due to .NET Not Installed</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/comprehensive-tutorial-capturing-your-screen-on-obs-made-easy-a-complete-step-by-step-guide/"><u>Comprehensive Tutorial: Capturing Your Screen on OBS Made Easy - A Complete Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-narzo-60x-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme Narzo 60x 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-create-a-live-stream-on-youtube-with-the-best-webcams/"><u>In 2024, How to Create a Live Stream on YouTube With the Best Webcams</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-t2-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo T2 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-idt-hd-audio-driver-compatibility-in-windows-10-solutions-and-tips/"><u>Resolving Issues with IDT HD Audio Driver Compatibility in Windows 10 - Solutions & Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-multiple-audio-services-not-operating/"><u>Resolving Issues with Multiple Audio Services Not Operating</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-skype-sound-capabilities-tackling-microphone-troubles-in-windows-11/"><u>Restoring Skype Sound Capabilities: Tackling Microphone Troubles in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-volume-troubleshooting-noise-issues-in-windows-media-player/"><u>Reviving Volume: Troubleshooting Noise Issues in Windows Media Player</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-common-redragon-headset-mic-trouble-with-easy-fixes-for-pc-users/"><u>Solve Common Redragon Headset Mic Trouble with Easy Fixes for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-dota-2-microphone-woes-fix-guide-for-gamers/"><u>Solve Your Dota 2 Microphone Woes: Fix Guide for Gamers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-mute-mysteries-effective-methods-for-troubleshooting-lenovos-lack-of-sound-output/"><u>Solving Mute Mysteries: Effective Methods for Troubleshooting Lenovo's Lack of Sound Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-issues-with-non-working-bose-audio-systems/"><u>Step-by-Step Guide: Resolving Issues with Non-Working Bose Audio Systems</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/top-techniques-for-downscaling-720p1080p-videos-to-480p-resolution/"><u>Top Techniques for Downscaling 720P/1080p Videos to 480P Resolution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-revolutionary-methods-for-ipad-audio-logging/"><u>[New] In 2024, Revolutionary Methods for iPad Audio Logging</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-selection-top-voice-recorders-for-macos/"><u>[Updated] 2024 Approved The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-examination-the-video-show-app/"><u>2024 Approved Complete Examination The Video Show App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inverted-video-playback-on-android-made-simple/"><u>2024 Approved Inverted Video Playback on Android Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-making-a-lasting-impression-with-profile-clips/"><u>2024 Approved Making a Lasting Impression with Profile Clips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-masterclass-in-personal-4k-editor-pc-assembly/"><u>2024 Approved Masterclass in Personal 4K Editor PC Assembly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-lag-a-comprehensive-approach-to-fixing-audio-delays/"><u>Beat the Lag: A Comprehensive Approach to Fixing Audio Delays</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-wow-audio-troubles-making-sure-your-voice-works-in-the-realm/"><u>Expert Tips to Overcome WoW Audio Troubles – Making Sure Your Voice Works in the Realm</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-google-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Google Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-problems-heres-a-step-by-step-solution-for-you/"><u>Logitech G533 Microphone Problems? Here’s a Step-by-Step Solution for You</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hyperx-cloud-alpha-s-headset-mic-proven-quick-solutions-inside/"><u>Revive Your HyperX Cloud Alpha S Headset Mic - Proven Quick Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-repairing-sound-issues-in-windows-10-on-hp-computers/"><u>Solution Steps: Repairing Sound Issues in Windows 10 on HP Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-non-functional-steelseries-arctis-7-microphone/"><u>Troubleshooting Guide: Solving Issues with Your Non-Functional SteelSeries Arctis 7 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-logitech-g-pro-x-microphone-expert-tips-to-get-you-back-online/"><u>Troubleshooting the Logitech G Pro X Microphone - Expert Tips to Get You Back Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/unveiling-technology-secrets-toms-compreh/"><u>Unveiling Technology Secrets: Tom's Compreh</u></a></li>
 </ul></div>
 

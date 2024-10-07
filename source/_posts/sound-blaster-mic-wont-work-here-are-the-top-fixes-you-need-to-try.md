@@ -1,7 +1,7 @@
 ---
 title: Sound Blaster Mic Won't Work? Here Are the Top Fixes You Need to Try
-date: 2024-09-26T17:16:21.421Z
-updated: 2024-10-01T16:48:21.807Z
+date: 2024-09-29T20:05:27.345Z
+updated: 2024-10-07T09:29:55.882Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ You care about stunning sound quality but find that you can’t use the micropho
 ![mic not working](https://images.drivereasy.com/wp-content/uploads/2021/04/knob-right-turn.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Check if your microphone is physically muted on your headset switch or inline mute. Sometimes you may accidentally flip mute.
@@ -51,10 +51,10 @@ You care about stunning sound quality but find that you can’t use the micropho
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/SRX3flipmute.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) If you’re using a 6.3mm microphone, make sure that there’s no microphone connected to the 3.5mm microphone port and vice versa.
@@ -76,13 +76,6 @@ You care about stunning sound quality but find that you can’t use the micropho
  4) Scroll down to make sure the app you want to use can access your microphone.
 
  5) Test your microphone again.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Disable Direct Mode
 
@@ -107,22 +100,15 @@ You care about stunning sound quality but find that you can’t use the micropho
 ![sounds settings](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab, choose**External Mic** . Set**Line In** as the default device if you’re using a Line-in source.
 
 ![set as the default](https://images.drivereasy.com/wp-content/uploads/2021/04/save.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click and select**Properties** .
 
@@ -152,9 +138,23 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -171,18 +171,18 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reset-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) If the microphone issue persists, you can uninstall Sound Blaster Command.
 
  3) Press the**Windows** key +**R** to open the Run box, and enter**appwiz.cpl** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click Sound Blaster Command and select**Uninstall** .
 
@@ -210,24 +210,22 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-adding-youtube-music-to-video/"><u>[New] Adding YouTube Music To Video</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-viewership-steps-for-your-video-to-be-a-top-pick-on-vimeo/"><u>[New] Unlocking Viewership Steps for Your Video to Be a Top Pick on Vimeo</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-route-from-obs-broadcast-to-fb-channels-for-2024/"><u>[Updated] The Ultimate Route From OBS Broadcast to FB Channels for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-wifi-excellence-unveiled-tp-link-archer-c9-in-depth-analysis/"><u>Affordable WiFi Excellence Unveiled - TP-Link Archer C9 In-Depth Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cheapest-and-most-reliable-cloud-options-for-2024/"><u>Cheapest & Most Reliable Cloud Options for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-installing-linksys-wusb6300-drivers-step-by-step-tutorial/"><u>Complete Guide to Downloading and Installing Linksys WUSB6300 Drivers: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/s-richest-digital-content-wizard/"><u>Earth's Richest Digital Content Wizard</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-90-gt-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 90 GT to PC? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-first-rate-text-animation-setups/"><u>In 2024, First-Rate Text Animation Setups</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-learning-vrs-educational-impact/"><u>In 2024, Next-Gen Learning VR's Educational Impact</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-real-time-audio-adjustment-a-modern-technique/"><u>Mastering Real-Time Audio Adjustment - A Modern Technique</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-alerts-or-tunes-from-your-laptop-step-by-step-fix-guide/"><u>No Audio Alerts or Tunes From Your Laptop? Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-your-warzone-microphonevoice-chat-troubles-on-both-computer-and-console-systems/"><u>Overcome Your Warzone Microphone/Voice Chat Troubles on Both Computer and Console Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-voice-chat-functionality-in-fortnite/"><u>Quick Solutions to Restore Voice Chat Functionality in Fortnite</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/redragon-headset-mic-malfunction-solutions-on-pcs-get-it-working-now/"><u>Redragon Headset Mic Malfunction Solutions on PCs - Get It Working Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-no-audio-on-zoom-quick-solutions-for-pc-users/"><u>Resolve No Audio on Zoom: Quick Solutions for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-fortnite-sound-issue-with-these-easy-fixes/"><u>Resolve Your Fortnite Sound Issue with These Easy Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-sound-problems-in-resident-evil-village-game/"><u>Resolved: Fixing Sound Problems in Resident Evil Village Game</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-troubleshooting-guide-for-fixing-windows-11-sound-issues/"><u>Resolved: Troubleshooting Guide for Fixing Windows 11 Sound Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-best-concealed-vids-2023s-selective-8-software-guide/"><u>[New] 2024 Approved Best Concealed Vids - 2023'S Selective 8 Software Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716068812198-updated-in-2024-capture-share-enjoy/"><u>[Updated] In 2024, Capture, Share, Enjoy!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>[Updated] In 2024, Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-secrets-to-pull-out-parts-from-any-youtube-clip/"><u>[Updated] Secrets to Pull Out Parts From Any YouTube Clip</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-videographers-minecraft-6-proven-ways-to-document-gameplay/"><u>[Updated] The Videographer's Minecraft 6 Proven Ways to Document Gameplay</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssing-real-time-trends-for-visionary-video-ideas-for-2024/"><u>Harnessing Real-Time Trends for Visionary Video Ideas for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 6</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-z-fold-5-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy Z Fold 5 Location | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/masterclass-unboxing-and-testing-lgs-usb-c-hdr-display/"><u>Masterclass Unboxing and Testing LG's USB-C HDR Display</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-hearthstone-essential-troubleshooting-steps-for-silent-issues/"><u>Reviving Audio on Hearthstone – Essential Troubleshooting Steps for Silent Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/specific-heat-plays-an-important-role-in-climate-science-as-it-affects-how-quickly-land-or-water-bodies-can-warm-up-or-cool-down-under-sunlight-or-during-ni639/"><u>Specific Heat Plays an Important Role in Climate Science as It Affects How Quickly Land or Water Bodies Can Warm up or Cool Down Under Sunlight or During Nighttime</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-silent-astro-a50-speakers-with-these-fast-solutions/"><u>Troubleshoot Silent Astro A50 Speakers with These Fast Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-non-functional-redragon-pc-mic/"><u>Troubleshooting and Solutions for Non-Functional Redragon PC Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015907731-troubleshooting-bluetooth-audio-jitters-in-windows-10-and-11-solutions-inside/"><u>Troubleshooting Bluetooth Audio Jitters in Windows 10 & 11 – Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-common-issues-with-creative-pebble-bluetooth-speakers/"><u>Troubleshooting Guide: Fixing Common Issues with Creative Pebble Bluetooth Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-fortnites-audio/"><u>Troubleshooting Steps: Resolving Issues with Fortnite's Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-guide-solving-your-sound-sync-issues/"><u>Ultimate 2024 Guide: Solving Your Sound Sync Issues</u></a></li>
 </ul></div>
 

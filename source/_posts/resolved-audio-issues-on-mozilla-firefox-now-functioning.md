@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Audio Issues on Mozilla Firefox Now Functioning"
-date: 2024-09-30T16:12:53.563Z
-updated: 2024-10-01T16:40:12.294Z
+date: 2024-10-03T06:45:56.463Z
+updated: 2024-10-07T06:53:16.782Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -71,10 +64,10 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Change sound settings
@@ -98,13 +91,20 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -116,16 +116,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -150,16 +150,21 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversion-rmvb-vers-mkv-online-gratuite-avec-moviebits-convertissez-facilement-vos-fichiers-video/"><u>Conversion RMVB Vers MKV Online Gratuite Avec MovieBits - Convertissez Facilement Vos Fichiers Vidéo</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-for-loud-popping-in-your-earbuds-expert-advice/"><u>Quick Fix for Loud Popping in Your Earbuds: Expert Advice!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-razer-barracuda-xs-microphone-expert-advice-for-quick-wins-on-windows-10-and-11/"><u>Revive Your Razer Barracuda X's Microphone: Expert Advice for Quick Wins on Windows 10 and 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-re-enable-voice-chat-in-co-op-game-back-4-blood/"><u>Solution Found: Re-Enable Voice Chat in Co-Op Game 'Back 4 Blood'</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-silent-usb-headphones-on-your-windows-7-pc-proven-fixes-and-tips/"><u>Solving Silent USB Headphones on Your Windows 7 PC - Proven Fixes and Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-s18e-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo S18e for Streaming | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-13t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi 13T Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-malfunctioning-logitech-g-pro-x-microphone/"><u>Troubleshooting Steps for a Malfunctioning Logitech G Pro X Microphone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-dell-network-interface-card-drivers-on-microsoft-windows-7/"><u>Updating Dell Network Interface Card Drivers on Microsoft Windows 7</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-iphone-time-lapse-magic-a-beginners-guide/"><u>[New] 2024 Approved IPhone Time-Lapse Magic A Beginner’s Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevating-your-show-with-expert-rss-feed-craftsmanship/"><u>[Updated] In 2024, Elevating Your Show with Expert RSS Feed Craftsmanship</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-social-media-savvy-your-guide-to-success/"><u>[Updated] Social Media Savvy Your Guide to Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-vct-pro-capture-assessment-full-review/"><u>[Updated] VCT Pro Capture Assessment Full Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-a-visual-journey-discover-filmoras-favorite-features/"><u>2024 Approved A Visual Journey Discover Filmora's Favorite Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-speaker-issues-fixed-regain-your-videoaudio-sounds/"><u>Chrome Speaker Issues Fixed: Regain Your Video/Audio Sounds!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-faq-resolving-hyperx-cloud-alpha-s-headset-microphone-failures/"><u>Comprehensive FAQ: Resolving HyperX Cloud Alpha S Headset Microphone Failures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/disabling-or-enabling-pip-mode-youtube-on-iphone-guide/"><u>Disabling or Enabling PIP Mode YouTube on iPhone Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-onikuma-microphone-malfunction-a-comprehensive-guide/"><u>Fixing Onikuma Microphone Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f54-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy F54 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-streamlining-upload-apples-end-to-end-process-guide/"><u>In 2024, Streamlining Upload Apple’s End-to-End Process Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-restore-functionality-in-your-steelseries-arctis-1-headsets-mic/"><u>Solution Guide: How to Restore Functionality in Your SteelSeries Arctis 1 Headset's Mic</u></a></li>
+<li><a href="https://facebook.techidaily.com/transformation-facebook-staff-now-referred-as-metamates/"><u>Transformation: Facebook Staff Now Referred as 'Metamates'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-malfunctioning-corsair-hs60-mic-tips-and-solutions/"><u>Troubleshooting a Malfunctioning Corsair HS60 Mic - Tips and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-disruptions-on-your-pc-running-windows-nt-solutions-unveiled/"><u>Troubleshooting Sound Disruptions on Your PC Running Windows nT - Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-csgo-headset-and-mic-solutions-guide/"><u>Troubleshooting Your CS:GO Headset and Mic - Solutions Guide</u></a></li>
 </ul></div>
 

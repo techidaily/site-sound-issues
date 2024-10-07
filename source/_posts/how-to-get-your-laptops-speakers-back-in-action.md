@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Laptop's Speakers Back in Action!
-date: 2024-09-27T22:06:03.319Z
-updated: 2024-10-01T22:19:23.608Z
+date: 2024-10-05T16:27:08.463Z
+updated: 2024-10-07T06:52:12.624Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ If that didn’t work, proceed to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Use Legacy Audio Subsystem
 
  There are instances where there’s an incompatibility between your hardware and Discord’s latest subsystem. Therefore, it’s recommended to revert to Legacy Audio Subsystem to fix the issue. To do this, follow these steps:
@@ -50,13 +57,6 @@ If that didn’t work, proceed to the next fix.
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left pane, select**Voice & Video** . Scroll down to the**AUDIO SUBSYSTEM** section. Click on the down arrow and select**Legacy** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
@@ -64,6 +64,13 @@ If that didn’t work, proceed to the next fix.
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
 
 ![confirm to change audio subsystem Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm-to-change-audio-subsystem.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once Discord reboots, check to see if the problem is resolved.
 
@@ -89,13 +96,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
@@ -103,10 +103,10 @@ Here’s how to update drivers with Driver Easy:
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -114,13 +114,6 @@ Here’s how to update drivers with Driver Easy:
  After updating your audio driver, restart your PC. If your problem persists, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set the audio device as the default
 
@@ -139,6 +132,13 @@ Here’s how to update drivers with Driver Easy:
  1) On your taskbar, right-click on the sound icon and select**Sounds** to open the Sound window.  
   
 ![set audio device as default Discord can't hear anyone](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Sounds.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the**Playback** tab. Click on your audio device. Then in the lower right, click on the drop-down menu next to the**Set Default** option and select**Default Communication Device** .
 
@@ -171,10 +171,10 @@ Here’s how to update drivers with Driver Easy:
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Under the**Processes** tab, navigate to your game. Right-click it and select**Go to details** . Then you’ll be directed to the**Details** tab and your game will be highlighted. Till then, right-click it and select**Set priority > Normal/ Realtime** .
@@ -196,17 +196,15 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-turn-on-google-meet-grids-to-see-all-attendees/"><u>[New] 2024 Approved Turn On Google Meet Grids to See All Attendees</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-5-high-performance-hdds-built-for-xbox-use/"><u>[Updated] In 2024, 5 High-Performance HDDs Built for Xbox Use</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps/"><u>[Updated] The Ultimate Guide to the Most Effective PC Screen Capture Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-shorts-mastery-quick-thumbnail-updates-made-simple-for-2024/"><u>[Updated] YouTube Shorts Mastery Quick Thumbnail Updates Made Simple for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-yt-insider-tips-from-chroma-keying-to-cinematic-creations/"><u>[Updated] YT Insider Tips From Chroma Keying to Cinematic Creations</u></a></li>
-<li><a href="https://facebook.techidaily.com/curating-personalized-social-network-content-on-fb/"><u>Curating Personalized Social Network Content on FB</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-barnes-and-nobles-breakthrough-in-digital-reading-an-exclusive-review-of-the-newly-expanded-screen-e-reader/"><u>Experience Barnes & Noble’s Breakthrough in Digital Reading – An Exclusive Review of the Newly Expanded Screen E-Reader</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-silence-cracking-sounds-from-logitech-g-pro-x-when-using-a-computer/"><u>How to Silence Cracking Sounds From Logitech G Pro X When Using a Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-remedies-for-broken-audio-devices-on-computers/"><u>Immediate Remedies for Broken Audio Devices on Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/laptop-audio-not-working-solve-the-silent-problem-today/"><u>Laptop Audio Not Working? Solve the Silent Problem Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-audio-difficulties-on-windows-10-effective-strategies-in-five-steps/"><u>Overcome Audio Difficulties on Windows 10: Effective Strategies in Five Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-speeding-up-instagram-content-consumption-for-2024/"><u>[New] Speeding Up Instagram Content Consumption for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-best-twitter-tools-for-purifying-and-personalizing-your-timeline/"><u>2024 Approved Best Twitter Tools for Purifying & Personalizing Your Timeline</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-making-the-most-of-your-ginger-island-venture/"><u>2024 Approved Making the Most of Your Ginger Island Venture</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016081954-battlefield-4-audio-problems-discover-proven-fixes-now/"><u>Battlefield 4 Audio Problems? Discover Proven Fixes Now!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-techniques-in-no-cost-windows-software-recording-for-2024/"><u>Expert Techniques in No-Cost Windows Software Recording for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-windows-7-when-they-arent-playing/"><u>How to Restore Sounds in Windows 7 When They Aren't Playing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-best-video-editing-apps-for-kids-a-comprehensive-list-for-2024/"><u>New Discover the Best Video Editing Apps for Kids A Comprehensive List for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-low-output-issues-a-users-guide-to-optimizing-audio-in-windows-11/"><u>Resolving Low Output Issues: A User's Guide to Optimizing Audio in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-your-astro-a1e-microphone-functionality-today/"><u>Troubleshoot and Restore Your Astro A1e Microphone Functionality Today</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-silently-vanish-language-line-from-taskbar/"><u>Windows 11: Silently Vanish Language Line From Taskbar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for the Astro A20's Non-Working Mic Problem
-date: 2024-09-17T17:09:12.216Z
-updated: 2024-09-21T17:14:37.703Z
+date: 2024-10-04T02:34:55.626Z
+updated: 2024-10-07T07:51:22.728Z
 tags:
   - win11
   - win10
@@ -45,13 +45,40 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -88,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -107,16 +127,16 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
@@ -130,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
@@ -146,6 +159,13 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -173,5 +193,20 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-nvidia-professional-screen-recording/"><u>[New] Mastering NVIDIA Professional Screen Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-elite-choices-a-guide-to-hdr-cameras/"><u>[Updated] Unveiling Elite Choices A Guide to HDR Cameras</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-crafting-unique-thumbnails-for-youtube-content/"><u>2024 Approved Crafting Unique Thumbnails for YouTube Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-audio-alerts-prime-pick-pages/"><u>2024 Approved Superior Audio Alerts Prime Pick Pages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-comment-management-turn-it-on-or-off/"><u>2024 Approved YouTube Comment Management Turn It On or Off</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-guide-to-silencing-clicks-and-cracks-optimizing-the-performance-of-your-logitech-g-pro-x-pc-mic/"><u>2024 Guide to Silencing Clicks and Cracks: Optimizing the Performance of Your Logitech G Pro X PC Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eradicate-echo-noise-from-discord-chats-expert-guide-and-troubleshooting-tips-pc-edition-2024/"><u>Eradicate Echo Noise From Discord Chats: Expert Guide & Troubleshooting Tips (PC Edition, 2024)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-download-facebook-stories-with-ease-essential-tips-and-tricks-mobiledesktop/"><u>In 2024, Download Facebook Stories with Ease Essential Tips and Tricks (Mobile/Desktop)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-crackling-audio-problems-in-windows-operating-systems/"><u>Resolved: Fixing Crackling Audio Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-world-of-warcraft-step-by-step-guide-to-silence-solution/"><u>Reviving Audio in World of Warcraft: Step-by-Step Guide to Silence Solution</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-successfully-uploading-your-dvd-content-onto-google-drive/"><u>Step-by-Step Guide: Successfully Uploading Your DVD Content Onto Google Drive</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/take-it-upward-expert-techniques-for-phones/"><u>Take It Upward Expert Techniques for Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-1011-how-to-eliminate-your-bluetooth-headsets-audio-skips-and-pauses/"><u>Windows 10/11 How-To: Eliminate Your Bluetooth Headset's Audio Skips and Pauses</u></a></li>
+</ul></div>
 

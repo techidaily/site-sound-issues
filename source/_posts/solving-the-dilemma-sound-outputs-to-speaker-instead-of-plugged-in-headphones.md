@@ -1,7 +1,7 @@
 ---
 title: "Solving the Dilemma: Sound Outputs to Speaker Instead of Plugged-In Headphones"
-date: 2024-09-27T21:24:40.520Z
-updated: 2024-10-02T02:22:04.583Z
+date: 2024-10-04T03:43:00.782Z
+updated: 2024-10-06T21:43:50.789Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -56,10 +49,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
@@ -69,33 +62,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
@@ -108,13 +88,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  Check if the headphone crackling problem persists. If yes, then congrats! But if it still persists, you should try **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -133,6 +106,13 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Adjust **the minimum processor state**
 
  Adjusting **the minimum processor state** , as reported by many users, is another effective way to fix the**crackling**   **in headphones** issue . To do so:
@@ -142,9 +122,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 2. Click the **High performance** option > **Change plan settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -173,22 +168,21 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-produce-high-impact-low-cost-youtube-ads/"><u>[Updated] 2024 Approved How to Produce High-Impact, Low-Cost YouTube Ads?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-conclusion-mastery-makers-and-templates-for-best-practices/"><u>[Updated] In 2024, Channel Conclusion Mastery - Makers & Templates for Best Practices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-rise-of-a-new-player-an-introduction-to-triller/"><u>2024 Approved The Rise of a New Player An Introduction to Triller</u></a></li>
-<li><a href="https://facebook.techidaily.com/clandestine-companions-on-facebook/"><u>Clandestine Companions on Facebook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-vr-experience-logitech-enhances-meta-quest-2-with-cutting-edge-chorus-audio/"><u>Elevate Your VR Experience: Logitech Enhances Meta Quest 2 with Cutting-Edge Chorus Audio</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-s17-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo S17 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-s17-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo S17 Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1721467467002-no-need-for-itunes-heres-how-you-can-bring-your-iphone-back-from-the-dead/"><u>No Need for iTunes? Here's How You Can Bring Your iPhone Back From the Dead</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resurrecting-a-dead-jabra-headset-effective-solutions-for-tech-enthusiasts/"><u>Resurrecting a Dead Jabra Headset: Effective Solutions for Tech Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-computer-speakers-fast-fixes-for-sound-problems/"><u>Revive Your Computer Speakers: Fast Fixes for Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-windows-media-player-sounds-with-easy-troubleshooting-steps/"><u>Revive Your Windows Media Player Sounds with Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-dealing-with-a-non-responsive-steelseries-arctis-1-mic/"><u>Solution Found: Dealing with a Non-Responsive SteelSeries Arctis 1 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-fixing-black-ops-cold-war-silent-issue-in-pc-game/"><u>Solution Found: Fixing Black Ops Cold War Silent Issue in PC Game</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-a-non-functional-razer-kraken-mic/"><u>Solution Steps for a Non-Functional Razer Kraken Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-your-mic-why-it-doesnt-record-your-voice-anymore/"><u>Solutions for Your Mic: Why It Doesn't Record Your Voice Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-silence-restore-audio-on-windows-10-fix-anthems-mute-issue/"><u>Solve the Silence: Restore Audio on Windows 10 | Fix Anthem's Mute Issue</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/swipe-right-for-speed-quick-tiktok-video-acquisition-for-2024/"><u>Swipe Right for Speed - Quick TikTok Video Acquisition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-tv-show-prep-which-software-winsvirusmix-or-wirecast/"><u>[New] The Ultimate TV Show Prep Which Software Wins—VirusMix or WireCast?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-affectionate-alternatives-3ds-games-for-android-users-for-2024/"><u>[Updated] Affectionate Alternatives 3DS Games for Android Users for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-from-spectator-to-participant-joining-on-tiktok-live/"><u>[Updated] From Spectator to Participant Joining on TikTok Live</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-utilizing-free-clip-art-for-graphic-designs/"><u>[Updated] Utilizing Free Clip Art for Graphic Designs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-list-of-highest-quality-wi-fi-routers-on-the-market/"><u>2024'S Ultimate List of Highest Quality Wi-Fi Routers on the Market</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-sound-quality-problems-in-windows-10-and-7-clear-audio-distortion-and-skipping-issues/"><u>Eliminate Sound Quality Problems in Windows 10 & 7: Clear Audio Distortion and Skipping Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g933-microphone-issues-a-step-by-step-guide/"><u>Fixing Logitech G933 Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-sound-systems-up-and-running-again-innovative-approaches/"><u>How to Get Your Sound Systems Up and Running Again [Innovative Approaches]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-profits-from-short-youtube-videos-for-2024/"><u>Maximizing Profits From Short YouTube Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-12-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-disconnected-nvidia-graphics-top-tips-and-fixes/"><u>Resolving Disconnected Nvidia Graphics: Top Tips & Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-resolving-connectivity-problems-for-logitech-g93003-mic-on-a-pc/"><u>Solution Steps: Resolving Connectivity Problems for Logitech G93#003; Mic on a PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-headset-problems-make-your-turtle-beach-mic-function-again/"><u>Solving Headset Problems: Make Your Turtle Beach Mic Function Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016347282-troubleshooting-guide-fixing-steelseries-arctis-pro-microphone-issues-resolved/"><u>Troubleshooting Guide: Fixing SteelSeries Arctis Pro Microphone Issues - Resolved</u></a></li>
 </ul></div>
 

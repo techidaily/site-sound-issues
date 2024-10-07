@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Fix Missing Audio in Apex Legends Game
-date: 2024-09-27T00:10:01.527Z
-updated: 2024-10-01T18:55:50.680Z
+date: 2024-09-30T21:22:36.747Z
+updated: 2024-10-06T16:50:09.786Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -57,16 +57,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
@@ -105,10 +105,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -133,6 +139,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
@@ -146,13 +159,6 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -182,22 +188,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-chromatic-brilliance-for-video-enthusiasts/"><u>[New] In 2024, Chromatic Brilliance for Video Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-street-fighter-6-lag-and-high-ping-on-pc/"><u>[Solved] How to Fix Street Fighter 6 Lag and High Ping on PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-dissecting-screenflows-impact-on-mac-creatives-and-developers/"><u>[Updated] Dissecting ScreenFlow's Impact on Mac Creatives and Developers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-streamlining-video-transmission-from-facebook-to-whatsapp/"><u>[Updated] Streamlining Video Transmission From Facebook to WhatsApp</u></a></li>
-<li><a href="https://extra-information.techidaily.com/high-fidelity-webcams-for-professional-podcasting/"><u>High-Fidelity Webcams for Professional Podcasting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headphones-working-again-on-microsofts-latest-operating-system-windows-11/"><u>How to Get Your Headphones Working Again on Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-squad-mic-working-perfectly-gamers-2nd-nvutu/"><u>How to Get Your Squad Mic Working Perfectly - Gamer's 2nD Nvutu</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-to-a-defective-laptop-headphone-jack/"><u>How to Restore Audio Functionality to a Defective Laptop Headphone Jack</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-speakers-and-headphones-functionality-in-windows-7/"><u>How to Restore Speakers & Headphones Functionality in Windows 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-t2x-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo T2x 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone X iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-squad-mic-repair-techniques-advanced-guide-for-perfect-audio/"><u>Mastering Squad Mic Repair Techniques - Advanced Guide for Perfect Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-voice-communication-in-fortnite-a-step-by-step-fix-for-non-working-microphones/"><u>Mastering Voice Communication in Fortnite: A Step-by-Step Fix for Non-Working Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-detected-from-your-microphone-heres-what-to-do/"><u>No Audio Detected From Your Microphone - Here’s What To Do</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-pc-troubles-how-to-fix-no-sound-or-audio-problems/"><u>Resolving PC Troubles: How to Fix 'No Sound' Or Audio Problems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ue-growth-strategies-for-makeup-bloggers/"><u>Revenue Growth Strategies for Makeup Bloggers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-editing-to-sharing-using-premiere-with-youtube/"><u>[New] 2024 Approved From Editing to Sharing Using Premiere with YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-by-step-into-youtube-creation-crafting-your-top-10-simple-projects/"><u>[New] In 2024, Step-by-Step Into YouTube Creation Crafting Your Top 10 Simple Projects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagrams-hashtag-language-for-enhanced-engagement/"><u>[Updated] 2024 Approved Mastering Instagram's Hashtag Language for Enhanced Engagement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[Updated] In 2024, From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/achieve-seamless-audio-streaming-on-bluetooth-devices/"><u>Achieve Seamless Audio Streaming on Bluetooth Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-silence-expert-tips-on-making-webex-microphone-work-perfectly-again/"><u>Beat the Silence: Expert Tips on Making WebEx Microphone Work Perfectly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-audio-issues-on-discord-a-comprehensive-guide-to-restoring-sound/"><u>Dealing with Audio Issues on Discord - A Comprehensive Guide to Restoring Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-fixing-malfunctioning-kotion-each-g2000-microphone-units/"><u>DIY Solutions for Fixing Malfunctioning KOTION Each G2000 Microphone Units</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-issues-with-your-desktop-or-laptop-speakers/"><u>Expert Tips on Resolving Issues with Your Desktop or Laptop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016019804-fixes-revealed-enabling-game-audio-streams-in-discord-now/"><u>Fixes Revealed: Enabling Game Audio Streams in Discord Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-mic-settings-in-obs-desktop-recording/"><u>Fixing Non-Functional Mic Settings in OBS Desktop Recording</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revamping-your-windows-11-photo-viewer-add-filters-and-background-music/"><u>In 2024, Revamping Your Windows 11 Photo Viewer Add Filters and Background Music</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-troubleshooting-fixes-for-unresponsive-sound-device/"><u>Razer Kraken Microphone Troubleshooting: Fixes for Unresponsive Sound Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-cyberpunk-2077-audio-glitches-a-comprehensive-guide/"><u>Solving Cyberpunk 2077 Audio Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-the-jscriptdll-missing-error-in-windows/"><u>Understanding and Fixing the jscript.dll Missing Error in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-topnotch-hardware-insights-from-tom/"><u>Unveiling the Secrets of Topnotch Hardware – Insights From Tom</u></a></li>
 </ul></div>
 

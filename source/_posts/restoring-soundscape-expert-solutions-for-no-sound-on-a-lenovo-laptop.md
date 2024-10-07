@@ -1,7 +1,7 @@
 ---
 title: "Restoring Soundscape: Expert Solutions for No Sound on a Lenovo Laptop"
-date: 2024-09-26T02:14:36.742Z
-updated: 2024-10-01T16:09:27.969Z
+date: 2024-10-02T04:57:04.015Z
+updated: 2024-10-07T09:32:10.711Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ After several patches, many gamers are still reporting a no sound/no dialogue au
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the connection is fine, you can take a look at the next fix below.
 
 ### Fix 2: Make sure your audio device is set up properly
@@ -51,16 +58,23 @@ Here’s how:
 2. Under the**Output** section, expand the menu below**Choose your output device** . Then select your desired output device. On the bar below**Master volume** , toggle the slider several times until you hear beeps coming out your device.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-up-output-device.jpg)
 3. Now you can launch Cyberpunk 2077 and test the audio.
 
 If the problem remains, you can move on to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -73,13 +87,6 @@ If the problem remains, you can move on to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
@@ -88,19 +95,6 @@ If the problem remains, you can move on to the next method.
  Once you’ve updated your device drivers, restart your PC and see if the audio is restored in Cyberpunk 2077.
 
  If updating drivers doesn’t help you, simply take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -116,10 +110,10 @@ Here’re the guides on how to do that on different platforms:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-gog-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Steam
@@ -135,27 +129,20 @@ Here’re the guides on how to do that on different platforms:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/epic-games-launcher-library.jpg)
 2. Click the Cyberpunk 2077 tile and click the icon with three dots. Then click **Verify** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-epic-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You might need to verify the game a couple of times to repair all the files.
 
 Now launch Cyberpunk 2077 and see if you can hear anything.
 
 If this solution doesn’t help you, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -166,6 +153,20 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key**  and **I** (the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . It might take up to an hour for Windows to download and install available updates.  
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -189,22 +190,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-100-safe-audio-download-techniques-from-youtube-for-2024/"><u>[New] 100% Safe Audio Download Techniques From YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-deciding-the-best-for-screens-is-obs-more-effective-than-fraps-in-2024/"><u>[New] Deciding the Best for Screens Is OBS More Effective than Fraps, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-saving-on-space-tips-for-storing-mov-in-windows-10-devices-for-2024/"><u>[Updated] Saving on Space Tips for Storing .mov in Windows 10 Devices for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-high-quality-recording-discovering-the-best-5-slow-video-cameras/"><u>2024 Approved High-Quality Recording Discovering the Best 5 Slow Video Cameras</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-steadicam-choices-for-improved-dslr-footage/"><u>2024 Approved Leading Steadicam Choices for Improved DSLR Footage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-premier-mac-tools-beyond-bandicam/"><u>2024 Approved Premier Mac Tools Beyond Bandicam</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/become-a-streaming-sensation-on-twitter-platform/"><u>Become a Streaming Sensation on Twitter Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/crackling-noise-woes-heres-how-to-fix-them-asap-with-headphones/"><u>Crackling Noise Woes? Here's How to Fix Them ASAP with Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-logitech-g633-microphone-stops-working/"><u>Effective Solutions for When Your Logitech G633 Microphone Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-ways-to-resolve-steam-voice-chat-problems/"><u>Effective Ways to Resolve Steam Voice Chat Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-resolving-the-no-sound-error-in-windows-media-player-practical-solutions/"><u>Expert Advice for Resolving the No-Sound Error in Windows Media Player - Practical Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-restoring-microphone-capability-during-skype-calls-on-windows-11-systems/"><u>Expert Advice for Restoring Microphone Capability During Skype Calls on Windows 11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-silent-system-following-latest-windows-11-patch-simple-tips/"><u>Fix Silent System Following Latest Windows 11 Patch: Simple Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/icy-immortals-top-athletes-from-the-freeze/"><u>Icy Immortals Top Athletes From the Freeze</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-skys-playground-discovering-the-husqvarna-x4-fpv-for-2024/"><u>The Sky's Playground Discovering the Husqvarna X4 FPV for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-silent-conexant-smartaudio-hd-in-windows-10-easy-fixes-and-solutions/"><u>Troubleshooting the Silent Conexant SmartAudio HD in Windows 10 - Easy Fixes and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-corsair-hs3ebeam-not-working-solutions-for-windows-users/"><u>Why Isn't My Corsair HS3ebeam Not Working? Solutions for Windows Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-moviemeld-insights-full-editing-review/"><u>[New] 2024 Approved MovieMeld Insights – Full Editing Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/est-youtube-video-reaction-ideas-for-2024/"><u>[New] Best YouTube Video Reaction Ideas for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exploring-the-best-android-and-ios-wedding-timers-for-seamless-countdowns-for-2024/"><u>[New] Exploring the Best Android & iOS Wedding Timers for Seamless Countdowns for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-perfecting-instagram-posts-tips-for-vertical-editing-in-final-cut-pro-x-for-2024/"><u>[New] Perfecting Instagram Posts Tips for Vertical Editing in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/engineering-endgame-echoes-for-2024/"><u>Engineering Endgame Echoes for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-to-restore-speakers-in-toshibe-computers/"><u>Expert Advice to Restore Speakers in Toshibe Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-mic-on-steelseries-arctis-prime-headset/"><u>How to Repair a Non-Functional Mic on SteelSeries Arctis Prime Headset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lightrooms-ultimate-guide-to-premium-luts/"><u>In 2024, LightRoom's Ultimate Guide to Premium LUTs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/moviavi-converter-gratuito-webp-para-png-online-facil-e-eficiente/"><u>Moviávi: Converter Gratuito WEBP Para PNG Online - Fácil E Eficiente</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prime-communication-tools-for-remote-teams-for-2024/"><u>Prime Communication Tools for Remote Teams for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016778856-solve-your-anthem-games-sound-issues-on-windows-10-here/"><u>Solve Your Anthem Game's Sound Issues on Windows 10 Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-in-windows-a-comprehensive-guide/"><u>Solving 'No Sound' Problems in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-skype-sound-troubles-with-simple-steps/"><u>Troubleshooting Common Skype Sound Troubles with Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win1011-no-response-from-epson-printer/"><u>Win10/11, No Response From Epson Printer</u></a></li>
 </ul></div>
 

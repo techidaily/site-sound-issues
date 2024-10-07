@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functional Logitech G Pro X Microphones
-date: 2024-09-25T22:34:45.291Z
-updated: 2024-10-01T22:57:34.178Z
+date: 2024-10-02T22:01:13.118Z
+updated: 2024-10-06T22:50:38.978Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ Objectively, external webcams such as Logitech webcams offer better video qualit
 ![how to fix Logitech webcam mic not working](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-webcam-mic-not-working.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install all Windows updates
@@ -51,6 +51,19 @@ Here’s how you can do this:
  1) In the Search box, type in **check for updates** . Click **Check for updates**  from results.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.
 
@@ -83,13 +96,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-C920-1200x906.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and do a mic test to check if the problem is solved. If not, then continue trying the fixes below.
@@ -121,10 +127,10 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Make sure your mic isn’t disabled
@@ -136,10 +142,10 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
@@ -154,13 +160,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Set your device as default
 
  When you’re using an external camera, you might need to set that device as the audio device in order to access the built-in microphone. Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But sometimes it just fails to do that and you have to set it manually:
@@ -168,6 +167,13 @@ Here’s how to update your drivers with Driver Easy:
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select **Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
@@ -178,10 +184,10 @@ Here’s how to update your drivers with Driver Easy:
 ![set your device as the default](https://images.drivereasy.com/wp-content/uploads/2021/03/microphone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After applying changes, do a mic test to check if this method did the trick. If the microphone is still not working, you need to check the input sensitivity of your mic to ensure it is not too low or too high which could cause issues. Here’s how you can do this:
@@ -189,19 +195,6 @@ Here’s how to update your drivers with Driver Easy:
  1) In the Sound window (shown as the picture above), right-click the microphone and select**Properties** .
 
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## If your microphone is still not working properly…
 
@@ -216,6 +209,13 @@ Here’s how to update your drivers with Driver Easy:
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -238,18 +238,24 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-secure-video-communication-made-simple-with-top-10-safe-apps-on-mobile-devices/"><u>[New] 2024 Approved Secure Video Communication Made Simple with Top 10 Safe Apps on Mobile Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ultimate-guide-yi-hero-cam-and-its-dynamic-features/"><u>[New] Ultimate Guide Yi Hero Cam & Its Dynamic Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-storyboard-to-screenplay-filmmaking-essentials/"><u>[Updated] In 2024, From Storyboard to Screenplay Filmmaking Essentials</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazons-game-changer-34qhd-lg-ultragear-monitor-with-elite-g-sync-now-at-unbeatable-price-of-549/"><u>Amazon's Game Changer: 34QHD LG Ultragear Monitor with Elite G-Sync, Now at Unbeatable Price of $549</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>In 2024, Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminating-audio-lag-for-crystal-clear-playback/"><u>Step-by-Step Tutorial: Eliminating Audio Lag for Crystal Clear Playback</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-game-stutter-for-fluid-playbacks-achieve-higher-fps-and-enhanced-gaming/"><u>Tackling Game Stutter for Fluid Playbacks - Achieve Higher FPS and Enhanced Gaming</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-for-troubleshooting-non-functional-pc-speakers/"><u>Top Solutions for Troubleshooting Non-Functional PC Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-bluetooth-sound-glitches-in-windows-10-and-11/"><u>Troubleshoot & Resolve Bluetooth Sound Glitches in Windows 10 and 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-your-turtle-beach-gaming-earpods-microphone/"><u>Troubleshooting and Repairing Your Turtle Beach Gaming EarPods' Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-what-to-do-when-your-corsair-headset-wont-turn-on/"><u>Troubleshooting Guide: What to Do When Your Corsair Headset Won't Turn On</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-20-most-reliable-hashtag-tracker-tools-fbtwitterinsta/"><u>[Updated] 2024 Approved 20 Most Reliable Hashtag Tracker Tools (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-critical-clip-climbers-ranking-video-hours-from-1-to-10-for-2024/"><u>[Updated] Critical Clip Climbers Ranking Video Hours From #1 to #10 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixelperfect-toolkit-guidebook/"><u>[Updated] PixelPerfect Toolkit Guidebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-tips-for-effective-chroma-keying-in-kinemaster/"><u>Advanced Tips for Effective Chroma Keying in KineMaster</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014985342-bluetooth-not-working-follow-these-steps-to-restore-audio/"><u>Bluetooth Not Working? Follow These Steps to Restore Audio!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016367544-common-fixes-for-a-malfunctioning-logitech-g633-mic-get-it-back-on-track/"><u>Common Fixes for a Malfunctioning Logitech G633 Mic – Get It Back on Track</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-the-magic-journey-how-to-enjoy-every-harry-potter-film-in-correct-order/"><u>Complete the Magic Journey: How to Enjoy Every Harry Potter Film in Correct Order</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-a-malfunctioning-logitech-g4nce-headset-mic/"><u>Diagnosing and Repairing a Malfunctioning Logitech G4nce Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restarting-dolby-audio-services-that-wont-launch-on-the-latest-version-of-windows-os/"><u>Expert Tips for Restarting Dolby Audio Services that Won't Launch on the Latest Version of Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-diagnose-and-solve-connectivity-issues-on-a-lucidsound-ls30-mic/"><u>How to Diagnose and Solve Connectivity Issues on a LucidSound LS30 Mic</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-microphones-for-social-media-influencers-for-2024/"><u>Ideal Microphones for Social Media Influencers for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/is-your-blue-yeti-microphone-not-working-discover-proven-methods-for-restoration/"><u>Is Your Blue Yeti Microphone Not Working? Discover Proven Methods for Restoration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-stuttering-and-distortion-in-windows-117-with-easy-fixes/"><u>Resolve Audio Stuttering & Distortion in Windows 11/7 with Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-glitches-fix-your-soundscape-on-windows-10-and-7/"><u>Resolving Audio Glitches: Fix Your Soundscape on Windows 10 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-realtek-audio-issues-how-to-restore-sound-to-your-device/"><u>Solving Realtek Audio Issues: How to Restore Sound to Your Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-resolving-discord-mic-issues-on-windows-pcs/"><u>Troubleshooting Guide: Resolving Discord Mic Issues on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-spontaneous-computer-shutdowns-effective-methods-revealed/"><u>Troubleshooting Spontaneous Computer Shutdowns - Effective Methods Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Internal Laptop Speakers Not Working? Here's How You Can Make Them Sound Again
-date: 2024-09-15T18:19:09.169Z
-updated: 2024-09-21T19:30:39.485Z
+date: 2024-10-05T18:43:49.887Z
+updated: 2024-10-06T19:55:40.317Z
 tags:
   - win11
   - win10
@@ -49,6 +49,19 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
 Go with the easy steps to show it.
@@ -57,9 +70,36 @@ Go with the easy steps to show it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3:**Reinstall your sound card driver**
 
@@ -81,19 +121,6 @@ Go with the easy steps to show it.
 
  5) Check if speakers works on your laptop now.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Update**your sound card driver**
 
  If the 1-3 fixes didn’t solve your issue, make sure to update your sound card driver.
@@ -103,13 +130,6 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -134,5 +154,20 @@ Any problems just feel free to leave your comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-mastering-the-art-of-youtube-closings-inclusive-guide/"><u>[New] 2024 Approved Mastering the Art of YouTube Closings [Inclusive Guide]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nraveling-the-secrets-of-viral-content-creation-for-2024/"><u>[New] Unraveling the Secrets of Viral Content Creation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-prime-6-social-sites-boosting-biz-success/"><u>2024 Approved Prime 6 Social Sites Boosting Biz Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-the-hurdles-immediate-steps-to-reactivate-your-ioss-imessage/"><u>Bypass the Hurdles: Immediate Steps to Reactivate Your iOS's iMessage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-safety-of-information-on-chatgpt-platforms/"><u>Exploring the Safety of Information on ChatGPT Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-switching-off-windows-1n-10s-built-in-audio-amplification-features-effortlessly/"><u>Guide: Switching Off Windows 1N 10'S Built-In Audio Amplification Features Effortlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-movie-magic-on-mobile-ioss-best-free-and-paid-film-apps/"><u>In 2024, Movie Magic on Mobile IOS's Best Free and Paid Film Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-takes-an-overnight-dive-shares-drop-by-30-eroding-market-cap-by-39b-what-went-down/"><u>Intel Takes an Overnight Dive: Shares Drop by 30%, Eroding Market Cap by $39B - What Went Down?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-gopro-essentials-of-time-lapse-photography-for-2024/"><u>Mastering GoPro Essentials of Time-Lapse Photography for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/netflix-connectivity-issues-understanding-todays-service-disruption/"><u>Netflix Connectivity Issues: Understanding Today's Service Disruption</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-chrome-fixing-missing-audio-on-your-browser/"><u>Resolving Silent Chrome: Fixing Missing Audio on Your Browser</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-audio-errors-in-the-outriders-universe/"><u>Step-by-Step Solution for Audio Errors in the Outriders Universe</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-outriders-audio-trouble-expert-tips-and-techniques/"><u>The Ultimate Fix for Outriders' Audio Trouble: Expert Tips and Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Get Your RUNMUS Gaming Setup Working Perfectly Again!
-date: 2024-09-28T16:29:14.050Z
-updated: 2024-10-02T00:07:28.346Z
+date: 2024-10-01T04:07:08.377Z
+updated: 2024-10-07T04:23:50.853Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ When it comes to gaming equipment, the Logitech G series is a go-to option for m
 5. **[Reinstall G Hub](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1 – Troubleshoot the hardware issues
@@ -50,13 +50,6 @@ When it comes to gaming equipment, the Logitech G series is a go-to option for m
 
 If everything is fine with the hardware, read on to more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2 – Allow access to your Logitech G Pro X microphone
 
  Windows 10 and 11 allow users to control whether the system and apps can use their microphones. So if you’ve disabled the access, your Logitech G Pro X mic won’t work properly. To grant the permission, follow the steps:
@@ -67,13 +60,6 @@ If everything is fine with the hardware, read on to more fixes below.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-25.png)
 2. Make sure**Microphone access** and**Logitech G Pro X** are both set to**On** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-26.png)
 
 **On Windows 10:**
@@ -83,23 +69,45 @@ If everything is fine with the hardware, read on to more fixes below.
 2. Click the**Change** button and**turn on** the Microphone access for this device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. **Toggle on** the button under Allow apps to access your microphone.  
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Scroll down to make sure the desktop app’s access to your microphone is set to**On** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
 If your microphone still acts up, try the third solution below.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3 – Check the sound settings
@@ -111,10 +119,10 @@ If your microphone still acts up, try the third solution below.
 2. Select**Small icons** from the drop-down menu next to View by, and click**Sounds** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
@@ -122,25 +130,19 @@ If your microphone still acts up, try the third solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-5.jpg)
 4. Right-click the microphone and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-6.jpg)
 5. Go to the**Levels** tab. Then,**drag the volume slider to the max** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-11.jpg)
 
  Now that your Logitech Pro X microphone is set as default and the volume is turned up, test the issue again. If this method doesn’t help, proceed to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Update your audio driver
 
@@ -157,9 +159,23 @@ If your microphone still acts up, try the third solution below.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/logitech-pro-x-gaming.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -173,13 +189,6 @@ If your microphone still acts up, try the third solution below.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-2.jpg)
 2. Click**Logitech G Hub** and click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/reinstall-g-hub-1-1.jpg)
 3. Restart your computer.
@@ -212,22 +221,24 @@ If your microphone still acts up, try the third solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-windows-hdplus-guide-to-streaming-and-manipulating-hdr-videos/"><u>[New] 2024 Approved Windows HD+ Guide to Streaming and Manipulating HDR Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-5-tips-for-enhancing-roblox-gaming-recordings-mac/"><u>[New] 5 Tips for Enhancing Roblox Gaming Recordings (Mac)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-utilizing-zoom-services-directly-from-your-inbox-gmail-edition/"><u>2024 Approved Utilizing Zoom Services Directly From Your Inbox - Gmail Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-malfunctioning-corsair-void-microphone-step-by-step-tips/"><u>DIY Fixes for a Malfunctioning Corsair Void Microphone - Step-by-Step Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-hyperx-cloud-alpha-mic-stops-working/"><u>DIY Fixes for When Your HyperX Cloud Alpha Mic Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-nonfunctioning-hdmi-sound-output-on-windows-7/"><u>Effective Fixes for Nonfunctioning HDMI Sound Output on Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-reactivate-a-non-responsive-corsair-hs70-mic/"><u>Effective Solutions to Reactivate a Non-Responsive Corsair HS70 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-video-calls-solving-the-dilemma-of-a-broken-skype-mic-on-windows-11/"><u>Enhance Your Video Calls: Solving the Dilemma of a Broken Skype Mic on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-scanner-woes-on-windows-os/"><u>Epson Scanner Woes on Windows OS</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/explore-10-premier-historical-youtube-networks/"><u>Explore 10 Premier Historical Youtube Networks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-portability-and-savings-with-the-nintendo-switch-lite-console/"><u>Exploring Portability and Savings with the Nintendo Switch Lite Console</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-corsair-hs70-headset-mic-effective-solutions-inside/"><u>Fixing Issues with Corsair HS70 Headset Mic - Effective Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-system-solving-cyberpunk-2077-audio-issues-in-windows-10/"><u>Fixing Silent System: Solving 'Cyberpunk 2077' Audio Issues in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-lava-agni-2-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Lava Agni 2 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c67-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C67 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-scrutiny-of-elite-parrot-ar-20/"><u>In 2024, Comprehensive Scrutiny of Elite Parrot AR 2.0</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-inventory-types-of-fb-video-ratios-for-2024/"><u>[New] Inventory Types of FB Video Ratios for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-turn-your-videos-into-money-with-vimeo-expertise/"><u>[Updated] In 2024, How to Turn Your Videos Into Money with Vimeo Expertise</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-visualize-and-create-with-top-7-innovative-animation-suites/"><u>[Updated] Visualize & Create with Top 7 Innovative Animation Suites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-gear-for-ultimate-vr-glove-experience/"><u>2024 Approved Pioneering Gear for Ultimate VR Glove Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/call-of-duty-modern-warfare-players-unite-resolving-voice-chat-connectivity-problems/"><u>Call of Duty Modern Warfare Players Unite! Resolving Voice Chat Connectivity Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-giants-unveiling-distinctive-features-of-googles-palm-2-and-openais-gpt-4/"><u>Comparing AI Giants: Unveiling Distinctive Features of Google's PaLM 2 and OpenAI's GPT-4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-in-windows-10-discover-proven-fixes-now/"><u>Continuous Sound Problems in Windows 10? Discover Proven Fixes Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-logitech-webcam-audio/"><u>Effective Fixes for Non-Functioning Logitech Webcam Audio</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hilarious-hub-highest-rated-free-meme-archives-for-2024/"><u>Hilarious Hub Highest-Rated Free Meme Archives for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-world-of-tanks-blitz-from-continuously-failing-on-startup/"><u>How to Stop 'World of Tanks Blitz' From Continuously Failing on Startup</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-fight-like-a-warrior-5-intense-martial-arts-rpgs/"><u>In 2024, Fight Like a Warrior 5 Intense Martial Arts RPGs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-stay-ahead-with-the-top-yt-thumbnail-techniques/"><u>In 2024, Stay Ahead with the Top YT Thumbnail Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sound-problems-on-new-software-platforms-effective-strategies/"><u>Overcoming Sound Problems on New Software Platforms: Effective Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-non-responsive-fortnite-microphone-or-speakers-get-back-on-voice-chat-now/"><u>Quick Fixes for a Non-Responsive Fortnite Microphone or Speakers - Get Back on Voice Chat Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-microphone-troubleshooting-fix-and-optimize-your-setup/"><u>Rec Room Microphone Troubleshooting: Fix & Optimize Your Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-when-your-laptops-headphone-input-fails-to-work/"><u>Solution Steps When Your Laptop's Headphone Input Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-interrupted-sound-solutions-for-persistent-audio-disruptions-in-windows-11/"><u>Troubleshooting Interrupted Sound: Solutions for Persistent Audio Disruptions in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-on-your-gameplay-eliminating-audio-silence-in-battlefield-4/"><u>Turn Up the Volume on Your Gameplay: Eliminating Audio Silence in Battlefield 4</u></a></li>
 </ul></div>
 

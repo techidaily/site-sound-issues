@@ -1,7 +1,7 @@
 ---
 title: Trouble with Your Razer Kraken Mic? Here's How to Fix It
-date: 2024-09-14T18:56:20.177Z
-updated: 2024-09-21T20:39:51.937Z
+date: 2024-10-04T06:05:39.845Z
+updated: 2024-10-06T19:12:59.058Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check your microphone device settings
 
  Your Razer Kraken mic may not be working because it’s disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -41,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -68,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
@@ -110,12 +138,21 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-quick-video-growth-top-20-hacks-for-instant-impact/"><u>[New] 2024 Approved Quick Video Growth Top 20 Hacks for Instant Impact</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-full-screen-magic-trick-solved/"><u>[Updated] 2024 Approved Full Screen Magic Trick Solved</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-kinemasters-blueprint-for-smooth-video-flow-and-continuity/"><u>[Updated] In 2024, Kinemaster's Blueprint for Smooth Video Flow and Continuity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-obtaining-no-cost-photo-frames/"><u>[Updated] Step-by-Step Obtaining No-Cost Photo Frames</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-audio-to-text-conversion/"><u>Free Audio to Text Conversion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctional-microphone-for-skype-in-windows-11/"><u>How to Fix a Nonfunctional Microphone for Skype in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mediatek-vcom-usb-drive-software-speedy-installation-for-enhanced-performance/"><u>MediaTek VCOM USB Drive Software: Speedy Installation for Enhanced Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restored-harmony-resolving-the-no-sound-issue-in-world-of-warcraft/"><u>Restored Harmony: Resolving the 'No Sound' Issue in World of Warcraft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-voice-communication-problems-in-apex-legends-a-comprehensive-guide/"><u>Solving Voice Communication Problems in Apex Legends: A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-key-to-memorable-tiktok-opens-mac-edition/"><u>The Key to Memorable TikTok Opens - Mac Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-tips-for-resolving-squad-mic-problems-a-step-by-step-guide/"><u>Top Tips for Resolving Squad Mic Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-connecting-and-syncing-an-iphone-with-windows-or-mac/"><u>Troubleshooting Steps: Connecting and Syncing an iPhone with Windows or Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-issues-with-the-lucidsound-ls30-microphone/"><u>Troubleshooting Tips: Fixing Issues with the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-eliminating-sound-lag/"><u>Ultimate Troubleshooting: Eliminating Sound Lag</u></a></li>
+</ul></div>
 

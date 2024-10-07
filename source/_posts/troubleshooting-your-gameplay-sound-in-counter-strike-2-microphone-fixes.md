@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Gameplay Sound in Counter-Strike 2: Microphone Fixes"
-date: 2024-09-29T18:08:09.640Z
-updated: 2024-10-01T19:35:19.989Z
+date: 2024-10-06T06:38:35.218Z
+updated: 2024-10-06T16:55:06.710Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 5. **[Update audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Sound Blaster Command](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Make sure your mic is not muted
 
  To begin with, you should make sure your microphone’s volume has turned up to a proper level so that it can record your voice. You can skip this step if you have already done this.
@@ -52,15 +39,22 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![mic not working](https://images.drivereasy.com/wp-content/uploads/2021/04/knob-right-turn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check if your microphone is physically muted on your headset switch or inline mute. Sometimes you may accidentally flip mute.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/SRX3flipmute.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) If you’re using a 6.3mm microphone, make sure that there’s no microphone connected to the 3.5mm microphone port and vice versa.
@@ -84,10 +78,10 @@ You care about stunning sound quality but find that you can’t use the micropho
  5) Test your microphone again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Disable Direct Mode
@@ -101,15 +95,22 @@ You care about stunning sound quality but find that you can’t use the micropho
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/direct-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab, make sure the microphone is not muted in Sound Blaster Command and has an adequate volume level. Tick**Listen to this device** under**Microphone/Headset (Mic)** to verify Mic function.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Adjust Windows sound settings
 
@@ -124,10 +125,10 @@ You care about stunning sound quality but find that you can’t use the micropho
 ![set as the default](https://images.drivereasy.com/wp-content/uploads/2021/04/save.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click and select**Properties** .
@@ -169,13 +170,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Reinstall Sound Blaster Command
 
  If the Sound Blaster mic not working persists, there might be some issues with your software.
@@ -216,24 +210,22 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-freshest-beats-newly-trending-music-for-youtube-short-videos/"><u>[New] 2024 Approved Freshest Beats Newly Trending Music for YouTube Short Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-stars-quick-visibility-check/"><u>[Updated] 2024 Approved Star's Quick Visibility Check</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-start-your-own-discord-channel-a-detailed-walkthrough-for-2024/"><u>[Updated] How to Start Your Own Discord Channel A Detailed Walkthrough for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-vfx-essentials-unlocked-top-8-sites-for-free-high-quality-green-screen-imagery/"><u>[Updated] VFX Essentials Unlocked Top 8 Sites for FREE High-Quality Green Screen Imagery</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-fast-track-to-flawless-podcast-live/"><u>2024 Approved Fast Track to Flawless Podcast Live</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-telegram-why-its-different-from-other-messaging-services/"><u>Exploring Telegram – Why It's Different From Other Messaging Services</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-a-comprehensive-guide/"><u>Fixing Dota 2 Microphone Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-hdmi-audio-issues-a-comprehensive-guide/"><u>Fixing Windows 7 HDMI Audio Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-compatibility-solving-airpods-microphone-problems/"><u>How to Repair Windows 11 Compatibility: Solving AirPods Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/navigating-new-soundscape-issues-expert-tips-to-restore-flawless-playback/"><u>Navigating New Soundscape Issues: Expert Tips to Restore Flawless Playback</u></a></li>
-<li><a href="https://article-posts.techidaily.com/premiere-toolkit-for-app-introduction-edits-for-2024/"><u>Premiere Toolkit for App Introduction Edits for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/and-share-pcmac-video-recording-for-youtube/"><u>Snap & Share PC/Mac Video Recording for YouTube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-non-functional-squad-mics-2024-edition/"><u>Troubleshoot & Repair Non-Functional Squad Mics - 2024 Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-dell-sound-issues-in-minutes-with-these-simple-tips/"><u>Troubleshoot Your Dell Sound Issues in Minutes with These Simple Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-problems-fixing-pubg-voice-chat-malfunctions/"><u>Troubleshooting Common Problems: Fixing PubG Voice Chat Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-windows-10-audio-issues-solved/"><u>Troubleshooting Guide: Fixing Windows 10 Audio Issues - Solved!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-se-2022-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone SE (2022) With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-your-windows-scanner-a-practical-approach/"><u>Unlock Your Windows Scanner: A Practical Approach</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-exploring-the-edge-of-screen-innovation-with-benq-sw320/"><u>[New] In 2024, Exploring the Edge of Screen Innovation with BenQ SW320</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-quick-guide-to-faster-tiktok-creation/"><u>[Updated] Quick Guide to Faster TikTok Creation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/embedding-youtube-videos-seamlessly-into-stories-for-2024/"><u>Embedding YouTube Videos Seamlessly Into Stories for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016035534-fortnite-sound-troubles-heres-how-to-get-your-mic-working-perfectly-again/"><u>Fortnite Sound Troubles? Here's How to Get Your Mic Working Perfectly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-speakers-working-again-resolving-audio-problems-in-windows-7/"><u>Get Your Speakers Working Again: Resolving Audio Problems in Windows 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hidden-gems-the-top-10-websites-offering-mystery-box-deals-for-2024/"><u>Hidden Gems The Top 10 Websites Offering Mystery Box Deals for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-successful-delivery-of-your-imessages-for-iphone-users/"><u>How To Ensure Successful Delivery of Your iMessages for iPhone Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unable-to-initialize-dolby-audio-in-windows-10/"><u>How to Resolve 'Unable to Initialize Dolby Audio' In Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-picture-warping-techniques-with-various-apps/"><u>In 2024, Mastering Picture Warping Techniques with Various Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keyboard-troubles-heres-a-list-of-solutions-to-rescue-ineffectual-shortcuts-in-windows/"><u>Keyboard Troubles? Here's a List of Solutions to Rescue Ineffectual Shortcuts in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-sounds-of-combat-ultimate-solutions-for-silent-battles-in-battlefield-4/"><u>Master the Sounds of Combat: Ultimate Solutions for Silent Battles in Battlefield 4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-distractions-fixing-the-pesky-buzz-sound-on-your-favorite-headphones-today/"><u>No More Distractions: Fixing the Pesky Buzz Sound on Your Favorite Headphones Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/nvidia-hd-audio-not-working-heres-how-to-restore-your-sound/"><u>NVIDIA HD Audio Not Working? Here’s How to Restore Your Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-repair-a-broken-steelseries-arctis-1-headset-mic/"><u>Solution Guide: How to Repair a Broken SteelSeries Arctis 1 Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-resolving-undefined-audio-devices-on-windows-11/"><u>Step-by-Step Solutions for Resolving Undefined Audio Devices on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-two-channel-mix-expert-advice-on-restoring-stereo-functionality/"><u>Trouble with Two-Channel Mix? Expert Advice on Restoring Stereo Functionality</u></a></li>
 </ul></div>
 

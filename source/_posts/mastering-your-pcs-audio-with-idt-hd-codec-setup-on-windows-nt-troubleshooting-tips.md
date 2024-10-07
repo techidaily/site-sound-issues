@@ -1,7 +1,7 @@
 ---
 title: Mastering Your PC's Audio with IDT HD Codec Setup on Windows nT | Troubleshooting Tips
-date: 2024-09-30T16:38:43.502Z
-updated: 2024-10-02T03:43:48.742Z
+date: 2024-10-03T20:49:50.520Z
+updated: 2024-10-07T02:08:13.982Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -74,36 +81,28 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -118,13 +117,21 @@ Read on and follow the easy-doing images below!
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -150,22 +157,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-your-straightforward-guide-to-watching-favored-youtube-comments-for-2024/"><u>[New] Your Straightforward Guide to Watching Favored YouTube Comments for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-transferring-facebook-videos-directly-to-whatsapp/"><u>[Updated] In 2024, Transferring Facebook Videos Directly to WhatsApp</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-walkthrough-for-correcting-connectivity-and-sound-issues-in-corsair-void-microphones/"><u>A Comprehensive Walkthrough for Correcting Connectivity and Sound Issues in Corsair Void Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audacity-sound-device-error-try-our-five-proven-solutions-to-get-back-on-track/"><u>Audacity Sound Device Error? Try Our Five Proven Solutions to Get Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-fixes-for-pc-gamers-resolve-silent-problems-in-call-of-dute-black-ops-cold-war-gameplay/"><u>Audio Fixes for PC Gamers - Resolve Silent Problems in Call of Dute: Black Ops Cold War Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-the-quiet-restoring-audio-after-windows-11-patch-quick-solutions/"><u>Banish the Quiet: Restoring Audio After Windows 11 Patch - Quick Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016797936-battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here's The Fix!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-s17-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo S17 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-why-tech-enthusiasts-are-raving-about-lgs-stunning-65-inch-oled-c9-smart-television/"><u>Discover Why Tech Enthusiasts Are Raving About LG's Stunning 65-Inch OLED C9 Smart Television!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-c210-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia C210 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>In 2024, Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-a05s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel A05s FRP Bypass</u></a></li>
-<li><a href="https://extra-support.techidaily.com/shutterbugs-essential-guide-for-insta-posting-for-2024/"><u>Shutterbugs' Essential Guide for Insta-Posting for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-systems-how-to-restore-your-laptops-sound/"><u>Troubleshooting Silent Systems: How to Restore Your Laptop's Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-sonic-glitches-eliminating-popping-noise-effectively/"><u>Troubleshooting Window's Sonic Glitches: Eliminating Popping Noise Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-psn-crashes-top-troubleshooting-steps/"><u>Ultimate Guide: Solving PSN Crashes - Top Troubleshooting Steps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-laughter-lab-top-7-sketches-and-vignettes-for-youtubers/"><u>[New] In 2024, Laughter Lab Top 7 Sketches & Vignettes for YouTubers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-capturer-snappy-windows-snap/"><u>[New] Professional Capturer Snappy Windows Snap</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-1-mic-not-working/"><u>[SOLVED] SteelSeries Arctis 1 Mic Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016151849-get-back-to-gaming-with-full-voice-support-in-fortnite/"><u>Get Back to Gaming with Full Voice Support in Fortnite</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/indoor-brightness-boosted-by-external-radiance-for-2024/"><u>Indoor Brightness Boosted by External Radiance for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-setup-idt-high-definition-audio-codec-driver-configuration-for-optimal-performance-in-windows-asterisk/"><u>Master the Setup: IDT High Definition Audio Codec Driver Configuration for Optimal Performance in Windows Asterisk</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-eliminating-mount-and-blade-2-bannerlords-persistent-crashes/"><u>Mastering Stability: Eliminating Mount & Blade 2: Bannerlord's Persistent Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/pros-cons-or-neither-choosing-facebook-as-an-events-platform/"><u>Pros, Cons, or Neither?: Choosing Facebook as an Events Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-windows-10-problems-with-airpods-microphone-not-working/"><u>Resolve Windows 10 Problems with AirPods' Microphone Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016424663-solving-persistent-audio-disruptions-on-your-windows-11-pc-easy-fixes-inside/"><u>Solving Persistent Audio Disruptions on Your Windows 11 PC - Easy Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-audio-problems-ensuring-proper-functionality-of-external-speakers/"><u>Solving Windows Audio Problems: Ensuring Proper Functionality of External Speakers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nail-tactics-for-top-views-on-youtube-videos-for-2024/"><u>Thumbnail Tactics for Top Views on YouTube Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-fortnite-microphone-solutions-to-restore-voice-chat-functionality/"><u>Troubleshoot Your Fortnite Microphone: Solutions to Restore Voice Chat Functionality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-in-motion-a-guide-to-lively-animation-methods-for-2024/"><u>Words in Motion A Guide to Lively Animation Methods for 2024</u></a></li>
 </ul></div>
 

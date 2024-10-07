@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Microphone Issues: How to Restore AirPods' Audio Input on Windows 10"
-date: 2024-09-30T03:36:03.955Z
-updated: 2024-10-01T22:55:14.149Z
+date: 2024-10-04T06:14:33.376Z
+updated: 2024-10-07T01:39:05.308Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -50,34 +43,42 @@ Follow these:
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
 ###
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -90,14 +91,20 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
 
-###
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+###
 
 ### Fix 4: Restart Windows audio service
 
@@ -124,18 +131,18 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ultimate-angle-warriors-samsung-vs-lg-camera-showdown/"><u>[New] 2024 Approved Ultimate Angle Warriors Samsung VS LG Camera Showdown</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-xiaomis-precision-flight-insights-via-4k-lens/"><u>[Updated] In 2024, Xiaomi's Precision Flight Insights via 4K Lens</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-art-of-caption-placement-in-multimedia-projects-for-youtube/"><u>2024 Approved Mastering the Art of Caption Placement in Multimedia Projects for YouTube</u></a></li>
-<li><a href="https://win-online.techidaily.com/exclusive-discount-offers-at-movavi-save-big-on-your-purchases/"><u>Exclusive Discount Offers at Movavi: Save Big on Your Purchases!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-disable-unwanted-updates-in-windows-11-for-a-smooth-experience/"><u>How To Disable Unwanted Updates in Windows 11 for a Smooth Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-spark-10c-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Spark 10C Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/rapidly-rise-as-a-social-media-star-on-instagram/"><u>Rapidly Rise as a Social Media Star on Instagram</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-computers-audio-solutions-for-silent-speakers-in-windows-11/"><u>Revive Your Computer's Audio - Solutions for Silent Speakers in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-laptops-audio-solutions-for-non-working-sound-systems/"><u>Revive Your Laptop's Audio: Solutions for Non-Working Sound Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-your-pc-winning-the-soundless-battle-in-cyberpunk-2077-windows-11-fixes/"><u>Reviving Audio on Your PC: Winning the Soundless Battle in Cyberpunk 2077 (Windows 11 Fixes)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-hp-laptops-silent-problem-a-comprehensive-fix-for-lack-of-sound/"><u>Solve Your HP Laptop's Silent Problem: A Comprehensive Fix for Lack of Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-silent-pc-resolving-windows-11-update-sound-issues/"><u>Solve Your Silent PC - Resolving Windows 11 Update Sound Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/trategies-for-swift-fixes-in-youtubers-shorts-for-2024/"><u>[New] Strategies for Swift Fixes in YouTubers' Shorts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-master-the-motion-personalized-animation-techniques/"><u>[Updated] 2024 Approved Master the Motion Personalized Animation Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/battle-of-brilliance-gemini-vs-upgraded-chatgpt/"><u>Battle of Brilliance: Gemini Vs. Upgraded ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-sound-easy-steps-to-enhance-speaker-volume-on-windows-10/"><u>Boosting Sound: Easy Steps to Enhance Speaker Volume on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-look-at-the-lenovo-ideapad-series-where-solid-design-meets-functional-performance/"><u>Comprehensive Look at the Lenovo IdeaPad Series: Where Solid Design Meets Functional Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-troubles-stop-the-crackle-simple-fixes-inside/"><u>Headphone Troubles? Stop the Crackle - Simple Fixes Inside!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y27-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y27 4G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-imovie-photo-slideshow-with-music/"><u>New 2024 Approved How to Make a iMovie Photo Slideshow with Music?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-iphone-gif-management/"><u>The Ultimate Guide to iPhone GIF Management</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-razer-kraken-mic-a-complete-guide-on-restoring-its-functionality/"><u>Trouble with Razer Kraken Mic? A Complete Guide on Restoring Its Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-razer-microphone-a-quick-guide-5-simple-solutions/"><u>Troubleshooting Your Razer Microphone: A Quick Guide (5 Simple Solutions)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unseen-by-your-computer-heres-how-to-reset-the-blue-yeti-microphone/"><u>Unseen by Your Computer? Here’s How to Reset the Blue Yeti Microphone</u></a></li>
 </ul></div>
 

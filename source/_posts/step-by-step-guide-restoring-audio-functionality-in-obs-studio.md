@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Audio Functionality in OBS Studio"
-date: 2024-09-30T18:05:30.521Z
-updated: 2024-10-01T17:16:16.026Z
+date: 2024-10-04T06:11:01.284Z
+updated: 2024-10-07T10:44:05.238Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on your**LusidSound LS30** won’t work simply because the volume is mute or set too low.
@@ -68,6 +61,13 @@ To make sure the volume is audible:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -83,10 +83,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
@@ -99,18 +99,18 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **OK** to apply the changes in the windows.
 
  6) Now with microphone set as default device and the volume turned up, try playing some audio on your LS30 headset and see if it works. If it does, then the **LucidSound LS30 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -126,16 +126,22 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-142.png)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -168,17 +174,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-immerse-in-pc-game-moments-capture-perfectly/"><u>[New] 2024 Approved Immerse in PC Game Moments - Capture Perfectly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-pinnacle-of-asmr-sound-quality-in-recorded-microphones/"><u>[New] 2024 Approved Pinnacle of ASMR Sound Quality in Recorded Microphones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-leading-techniques-for-video-transformation-youtube-to-mpeg/"><u>[New] In 2024, Leading Techniques for Video Transformation - YouTube-to-MPEG</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtubes-visual-flow-five-budget-friendly-methods/"><u>[New] Mastering YouTube's Visual Flow - Five Budget-Friendly Methods</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-final-cut-pros-essential-effect-enhancers-the-top-10-selection/"><u>2024 Approved Final Cut Pro’s Essential Effect Enhancers The Top 10 Selection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-top-5-apps-combining-photography-and-soundscape/"><u>In 2024, Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-play-8t-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor Play 8T</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-lack-of-sound-in-nvidias-high-definition-audio/"><u>Troubleshooting and Resolving Lack of Sound in NVIDIA's High Definition Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-no-sound-from-hdmi-on-your-pc-running-windows/"><u>Troubleshooting and Resolving No Sound From HDMI on Your PC Running Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-skype-microphone-issues-on-windows-11/"><u>Troubleshooting Guide: How to Fix Skype Microphone Issues on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-responsive-epson-printer-in-windows-11/"><u>Troubleshooting Non-Responsive Epson Printer in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-are-there-legal-restrictions-to-recording-youtube-videos/"><u>[New] 2024 Approved Are There Legal Restrictions to Recording YouTube Videos?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-the-course-for-your-niche-in-the-youtube-world/"><u>[Updated] 2024 Approved Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-easycapture-prox-diagnosis-for-2024/"><u>[Updated] EasyCapture ProX Diagnosis for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-leading-suggestions-best-iphone-audio-innovators/"><u>[Updated] In 2024, Leading Suggestions Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029448472-2024/"><u>最新の2024年対応ボイスレコーディングソフトウェア選び：初心者から上級者まで完全ガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cant-hear-anyone-on-discord-heres-what-you-need-to-know-for-a-fix/"><u>Can't Hear Anyone on Discord? Here’s What You Need to Know for a Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-how-to-restore-functionality-of-a-faulty-corsair-hs70-headset-microphone/"><u>Comprehensive Fixes: How to Restore Functionality of a Faulty Corsair HS70 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-magic-solutions-to-restore-sound-on-your-hearthstone-game/"><u>Fixing Muted Magic: Solutions to Restore Sound on Your Hearthstone Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-steelseries-arctis-99x-microphone-issues-a-step-by-step-solution/"><u>Fixing SteelSeries Arctis 9/9X Microphone Issues: A Step-by-Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-in-fortnite-game/"><u>How to Restore Sound Functionality in Fortnite Game</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-insights-with-toms-authoritative-guides/"><u>Navigating Technology Insights with Tom's Authoritative Guides</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/profit-from-social-media-maximizing-facebook-earnings-for-2024/"><u>Profit From Social Media Maximizing Facebook Earnings for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-reno-10-proplus-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Reno 10 Pro+ 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-nonfunctional-hyperx-cloud-stinger-mic-solutions-revealed/"><u>Troubleshooting a Nonfunctional HyperX Cloud Stinger Mic - Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-realtek-sound-output-issues-success-stories/"><u>Troubleshooting and Repairing Realtek Sound Output Issues - Success Stories</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-winx-mediatrans-top-choice-for-seamless-photos-and-video-transfer-between-iphone-ipad-and-pc/"><u>Ultimate Guide: WinX MediaTrans - Top Choice for Seamless Photos & Video Transfer Between iPhone, iPad, and PC</u></a></li>
 </ul></div>
 

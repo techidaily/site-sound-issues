@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Your Webex Mic Failure? Try These 4 Fixes!
-date: 2024-09-14T17:39:04.486Z
-updated: 2024-09-21T19:18:36.084Z
+date: 2024-09-30T03:57:25.805Z
+updated: 2024-10-06T20:11:02.664Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/ff400978108e83c0a6a7c70de81b2956e47e27eb0
 
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Allow Webex to access your microphone
 
  On a Windows PC, you can manually adjust the permission for your microphone and choose specific apps to access it. To let your microphone work with Webex and pick up voice without problems, you’ll need to turn on the permission.
@@ -81,16 +88,23 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Check the Webex settings
 
@@ -101,21 +115,14 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
@@ -141,5 +148,19 @@ There are mainly two ways you can update the audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-the-future-is-here-free-innovative-fb-story-enhancers/"><u>[New] The Future Is Here Free, Innovative FB Story Enhancers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-master-the-art-of-funimate-video-extraction/"><u>2024 Approved Master the Art of Funimate Video Extraction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016738091-expert-tips-for-resolving-sudden-sound-cutoffs-in-windows-10-now-fixed/"><u>Expert Tips for Resolving Sudden Sound Cutoffs in Windows 10 - Now Fixed!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-affordable-high-definition-top-mirrorless-cameras-(1k/"><u>In 2024, Affordable High-Definition Top Mirrorless Cameras (<$1K)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-15-pro-vs-iphone-13-pro-comparison-is-it-time-for-the-upgrade/"><u>IPhone 15 Pro vs iPhone 13 Pro Comparison: Is It Time for the Upgrade?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterful-motion-secrets-from-a-pro-canon-time-lapse-viewer-for-2024/"><u>Masterful Motion Secrets From a Pro Canon Time-Lapse Viewer for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fcp-is-capable-enough-to-merge-the-reverse-option-with-retiming-effects-so-that-something-innovative-can-be-developed-even-with-simple-editing-efforts-f/"><u>New FCP Is Capable Enough to Merge the Reverse Option with Retiming Effects so that Something Innovative Can Be Developed Even with Simple Editing Efforts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-tozo-t6-compatibility-challenges-with-windows-11/"><u>Overcoming Tozo T6 Compatibility Challenges with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fixes-for-no-sound-from-wireless-headphones-via-bluetooth/"><u>The Definitive Fixes for No Sound From Wireless Headphones via Bluetooth</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-propel-engagement-in-fb-discussions/"><u>The Ultimate Guide to Propel Engagement in FB Discussions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-non-working-microphones-on-hyperx-cloud-alpha-s/"><u>Troubleshooting and Resolving Non-Working Microphones on HyperX Cloud Alpha S</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017008047-why-isnt-my-logitech-g733-microphone-working-find-answers-here/"><u>Why Isn't My Logitech G733 Microphone Working? Find Answers Here</u></a></li>
+</ul></div>
 

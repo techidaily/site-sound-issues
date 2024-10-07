@@ -1,0 +1,243 @@
+---
+title: "Fixing Audio Glitches: A How-To for Microsoft Surface Users with a Malfunctioning Mic"
+date: 2024-10-04T17:57:06.776Z
+updated: 2024-10-06T18:58:33.427Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Fixing Audio Glitches: A How-To for Microsoft Surface Users with a Malfunctioning Mic"
+excerpt: "This Article Describes Fixing Audio Glitches: A How-To for Microsoft Surface Users with a Malfunctioning Mic"
+thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d300caec81d8cb92afef3805.jpg
+---
+
+## Expert Advice on Fixing a Malfunctioning Fortnite Microphone Instantly
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87f39021c0c-300x169.jpg)
+
+Hey, buddy, can you hear me?
+
+ When playing Fortnite on PC, you can’t talk to your mates because**your mic doesn’t work in Fortnite** ? You’re not alone. Many Fortnite players have recently been reporting this issue. But don’t worry, it’s fixable! And in most cases, the fix is pretty fast and simple…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How to fix Fortnite mic not working?
+
+ Here are 5 methods that have helped many players get their mic working in Fortnite again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Set your microphone as your default device](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Restart the Windows Audio service](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Allow apps to access your mic (Windows 10)](https://www.drivereasy.com/knowledge/fortnite-mic-not-working-fixed/#m2)**
+5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+### Method 1: Set your microphone as your default device
+
+ Many players got their mic working in Fortnite by**setting their microphone as the default recording device** on PC. You can follow these steps to try fixing your Fortnite mic not working issue:
+
+1. You need to disable**Voice Chat** in Fortnite first.  
+   1. In Fortnite, click the**3 lines** on the top right, then select the**cog icon** to open the settings menu.  
+   ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b171d3c2d.jpg)  
+   2. At the top of the screen, click the**speaker icon** to view the**Audio** settings.  
+   ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b3985ef65.jpg)  
+   3. **Turn off** Voice Chat, then click**Apply** at the bottom.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+   ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b6b121fbd.jpg)
+2. Close Fortnite.
+3. **Right-click** the volume icon in the bottom-right part of your screen, then select **Sounds.** \>>If you are using Windows 11, it will be Settings > System > Sound > More sound settings.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bde6a8295.jpg)
+4. Click the**Recording** tab.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf478c5ca3c.jpg)
+5. **Right-click** on the device you want to use, and select**Set as Default Device** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47aa5ad97.jpg)  
+**Note:** You can try**speaking into your microphone** to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
+6. **Right click** on and**disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the**Playback** tab).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47f49119e.jpg)
+7. Click**OK** .
+8. Open Fortnite again, go to the settings menu and**turn Voice Chat on** .
+9. Join a squad or duo to test if your mic works now. If not, try Method 2 below.
+
+---
+
+### Method 2: Update your audio driver
+
+ A missing or outdated audio driver may also stop the mic from working in Fortnite. You can try **updating your audio driver** to better troubleshoot the problem.
+
+ There are two ways you can update your audio driver —**manually** and **automatically** .
+
+**Update your audio driver manually** — You can update your driver manually by going to the hardware manufacturer’s website and searching for the latest driver for your audio device. But if you take this approach, be sure to choose the driver that’s compatible with the exact model number of your hardware, and your version of Windows.
+
+**Update your audio driver automatically** — If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. Driver Easy handles it all.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf4e77d496c.jpg)
+3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically.  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0550e404c0.jpg)
+4. Restart your computer and check if your mic now works properly in Fortnite. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Method 3 below.
+
+---
+
+### Method 3: Restart the Windows Audio service
+
+ Another solution to your **Fortnite mic not working** problem would be **restarting the Windows Audio service** :
+
+1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box.
+2. Type**services.msc** and click **OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf51cc29fe5.png)
+3. Find and right-click on **Windows Audio** , then click **Restart** on the upper left.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
+4. **Close** the Services window.
+5. **Relaunch** Fortnite to see if your mic is working now.
+
+---
+
+### Method 4: Allow apps to access your mic
+
+ Many computers had a kind of privacy settings reset after a major**Windows 10** update in April 2018, which may have caused Fortnite unable to access your microphone. You can check for it through**Windows Settings** . Here’s how:
+
+#### Windows 10
+
+1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
+2. Click**Privacy** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf490b0f096.jpg)
+3. In the left pane, click **Microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ebcdd1f01.jpg)
+4. In the right pane, click the**Change** button, and you’ll see your mic is turned on. Also make sure**All apps to access your microphone** is enabled:  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf492ca1d0f.jpg)
+5. In the section of**Choose which apps can access your microphone** , verify that**Fortnite is turned on** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+6. Test in Fortnite.
+
+#### Windows 11
+
+1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
+2. Select **Privacy & security**  from the left panel. Then scroll down to the section **App permissions** , and click on **Microphone** .  
+![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Settings-Privacy-and-security-Microphone.jpg)
+3. Toggle on **Microphone access** and **Let apps access your microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Microphone-access-and-Let-apps-access-your-microphone-On.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Also, make sure that you toggle on **Let desktop apps access your microphone** .  
+
+![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Let-desktop-apps-access-your-microphone-make-sure-its-On.jpg)
+4. Now test your voice chat in-game.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+---
+
+### Method 5: Check for Windows updates
+
+ If the above methods didn’t work for you, your**Fortnite mic not working** problem is probably being caused by**system issues** . Then, you can check for**Windows updates** .
+
+1. Type**update** in the Windows search box, then press**Enter** .
+2. Click**check for updates** in the pop-up window.
+3. Install all identified updates to troubleshoot the issue.
+
+**Note:** If you’re using a lower version of Windows,**updating your Window OS to Windows 10** might do the trick, which worked for some Windows 8 users.
+
+ That’s it. You’re more than welcome to leave a comment below to share your results or any other suggestions.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ea7983aa7-269x300.jpg)
+
+Enjoy your game!
+
+* [Fortnite](https://tools.techidaily.com/drivereasy/download/)
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-power-of-hashtags-in-youtube-gaming-culture/"><u>2024 Approved Unlocking the Power of Hashtags in YouTube Gaming Culture</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-muted-expert-tips-on-resolving-audio-issues/"><u>Apex Legends Muted: Expert Tips on Resolving Audio Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-your-channels-following-by-a-thousand-for-2024/"><u>Boost Your Channels' Following by a Thousand for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-a-malfunctioning-razer-man-o-war-microphone/"><u>Diagnosing and Repairing a Malfunctioning Razer Man O' War Microphone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ensure-email-security-with-these-essential-steps-for-safelist-verification/"><u>Ensure Email Security with These Essential Steps for Safelist Verification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015898782-fix-crackling-sound-in-headphones-fast-and-simple-solutions/"><u>Fix Crackling Sound in Headphones: Fast and Simple Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-bluetooth-troubleshooting-tips-for-devices-that-wont-make-a-sound/"><u>Fixing Silent Bluetooth: Troubleshooting Tips for Devices That Won't Make a Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-back-the-soundscape-in-apex-legends-audio-problem-solved/"><u>How to Get Back the Soundscape in Apex Legends: Audio Problem Solved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improved-dragon-age-origins-performance-and-stability-for-windows-11-users/"><u>Improved Dragon Age: Origins Performance & Stability for Windows 11 Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-sony-xperia-10-v-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Sony Xperia 10 V FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-beats-of-cyberpunk-2077-a-guide-for-fixing-sound-malfunctions-on-windows-10-systems/"><u>Revive the Beats of Cyberpunk 2077: A Guide for Fixing Sound Malfunctions on Windows 10 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/testing-the-new-switch-oled-in-a-classic-gaming-setup/"><u>Testing the New Switch OLED in a Classic Gaming Setup</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-creme-de-la-creativite-youtube-subscriber-list/"><u>The Crème De La Créativité YouTube Subscriber List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-not-detected-headphones-in-windows-11-media-control-panel/"><u>Troubleshooting Guide: Not Detected Headphones in Windows 11 Media Control Panel</u></a></li>
+</ul></div>
+

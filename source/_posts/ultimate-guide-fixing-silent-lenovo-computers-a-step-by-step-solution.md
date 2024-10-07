@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fixing Silent Lenovo Computers - A Step-by-Step Solution"
-date: 2024-09-26T20:04:07.145Z
-updated: 2024-10-01T16:08:08.837Z
+date: 2024-10-03T18:21:23.854Z
+updated: 2024-10-07T06:04:58.823Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2: Set HDMI Device as Default Device
 
  If the HDMI device is not set as default device, you cannot hear the sound from HDMI output. Follow steps below to set the HDMI device as Default Device:
@@ -57,14 +50,21 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 1. Right-click on the sound volume icon in the lower right corner of Windows. A context menu will pop up. Click **Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59a3d159c97f2.png)
 2. In the**Playback** tab, select**Digital Output Device** or**HDMI** option. Click**Set Default** and click**OK** . Then the HDMI sound output will be set as default.  
-![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-29.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-29.png)
 
  If you do not see the Digital Output Device or HDMI option in the Playback tab, right-click on the blank place, then click Show disconnected devices and Show disabled devices on the context menu. Then set it as the default device.
 
@@ -73,10 +73,10 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Update the Sound Driver
@@ -94,10 +94,24 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -107,13 +121,6 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ## Solution 4: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -154,16 +161,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-high-end-psd-lighting-tweaks/"><u>[New] 2024 Approved High-End PSD Lighting Tweaks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-groundbreision-of-top-8-free-video-call-software-for-companies/"><u>[New] In 2024, Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hilarity-unleashed-kinemaster-meme-creation/"><u>[Updated] Hilarity Unleashed KineMaster Meme Creation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-erasing-your-instagram-identity-step-by-step-guidebook/"><u>[Updated] In 2024, Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-visual-clarity-for-remote-communications-with-ease/"><u>[Updated] In 2024, Mastering Visual Clarity for Remote Communications with Ease</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-connectivity-2024s-best-techniques-for-a-working-webex-mic/"><u>Conquer Connectivity: 2024'S Best Techniques for a Working Webex Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-sound-output-issues-in-windows-11-effective-strategies/"><u>Diagnosing and Repairing Sound Output Issues in Windows 11: Effective Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-skype-audio-glitches-mic-not-working-on-windows-10-resolved/"><u>Fix Your Skype Audio Glitches: Mic Not Working on Windows 10 Resolved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-advanced-audio-issue-starting-the-driver-on-windows-10/"><u>Fixing Dolby Advanced Audio Issue: Starting the Driver on Windows 10</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/minitool-movie-maker-review-features-pricing-and-alternatives-for-video-creators/"><u>Minitool Movie Maker Review Features, Pricing, and Alternatives for Video Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-boosting-youtube-view-count-quickly/"><u>[New] 2024 Approved From Zero to Hero Boosting YouTube View Count Quickly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-gamings-finest-shooters-a-top-7-list/"><u>[New] In 2024, Gaming's Finest Shooters - A Top 7 List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outubes-video-editing-power-plus-professional-equivalents/"><u>[New] YouTube's Video Editing Power + Professional Equivalents</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-premium-convert-mp4-to-facebook-media/"><u>[Updated] 2024 Approved Premium Convert MP4 to Facebook Media</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-beauty-brows-to-perfect-portraits-crafting-your-cosmetic-chanel/"><u>[Updated] From Beauty Brows to Perfect Portraits Crafting Your Cosmetic Chanel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-with-the-lucidsound-ls30-microphone/"><u>Common Problems and Solutions with the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/curing-the-error-tackling-gas-station-simulators-recurring-crash-problem-on-pc-systems/"><u>Curing the Error: Tackling Gas Station Simulator's Recurring Crash Problem on PC Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-guide-fixing-the-unable-to-play-test-sound-glitch-with-ease/"><u>Effortless Guide: Fixing the ‘Unable to Play Test Sound’ Glitch with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-cs-go-microphone-issues-expert-solutions-and-troubleshooting-tips/"><u>Fixing CS: GO Microphone Issues – Expert Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y200-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y200</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-headphone-noise-easy-solutions-inside/"><u>Say Goodbye to Headphone Noise – Easy Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-silent-discord-dilemma-a-complete-audio-troubleshooting-guide/"><u>Solve Your Silent Discord Dilemma - A Complete Audio Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-nonfunctioning-speakers-in-dell-computers-effortlessly/"><u>Troubleshoot Nonfunctioning Speakers in Dell Computers - Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-outriders-game-sound-tips-and-solutions-for-better-gaming-experience/"><u>Troubleshooting Your Outriders Game Sound: Tips and Solutions for Better Gaming Experience</u></a></li>
 </ul></div>
 

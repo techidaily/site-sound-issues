@@ -1,7 +1,7 @@
 ---
 title: Master the IDT HD Codec Driver Update for Optimal Performance on Your Windows 11 System
-date: 2024-09-27T18:21:22.444Z
-updated: 2024-10-02T02:49:01.744Z
+date: 2024-10-02T04:16:03.104Z
+updated: 2024-10-07T08:18:27.380Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ Before you start,
 4. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Use Audio Troubleshooter
@@ -57,13 +57,6 @@ Before you start,
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
 3. In the left pane, click**Troubleshoot** then click**Playing Audio** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-3.jpg)
 4. Follow the on-screen instructions to finish the process.
@@ -78,23 +71,16 @@ Before you start,
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. In the **Enhancements** tab, tick “**Disable all sound effects** “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. Click **Apply > OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check your problem is solved or not.
@@ -106,6 +92,14 @@ Follow the below steps to enable your disabled device.
 1. On the Playback window, right-click on the blank area and click **Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 2. When your device shows up, right-click on it and choose Enable.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 3. Then you can set it as the default device.
 
@@ -119,24 +113,31 @@ Follow the below steps to enable your disabled device.
 3. Expand **Sound, video and game controllers** . Then right-click on your sound card’s name and click **Uninstall** **device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall.jpg)
 4. Tick on **Delete the driver software for this device.**  Then click **Uninstall**  to confirm.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall1.jpg)
 5. Restart your PC to make the change take effect. Windows will automatically reinstall the sound driver for you now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check if speakers work on your laptop now.
 
 ### Method 4: Update your audio driver
@@ -157,6 +158,13 @@ Follow the below steps to enable your disabled device.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -176,21 +184,19 @@ Follow the below steps to enable your disabled device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-reviving-the-full-screen-in-obs/"><u>[New] Reviving the Full Screen in OBS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>[Updated] In 2024, Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-selective-picks-for-audible-transformation-technologies/"><u>2024 Approved Selective Picks for Audible Transformation Technologies</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/avi/"><u>最高效AVI播放解決方案：選出五款適合用於電腦的流行影片播放器</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-silent-issue-on-pcs-resolving-no-sound-troubles-in-windows-10/"><u>Anthem Silent Issue on PCs - Resolving No-Sound Troubles in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-service-outage-heres-how-you-can-get-it-running-again/"><u>Audio Service Outage? Here's How You Can Get It Running Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bid-farewell-to-audio-glitches-a-solution-for-intermittent-sounds-on-windows-1/"><u>Bid Farewell to Audio Glitches: A Solution for Intermittent Sounds on Windows 지난 1</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dell-sound-issues-resolved-fast-and-simple-fixes/"><u>Dell Sound Issues Resolved: Fast and Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-why-isnt-my-razer-headset-mic-working-a-5-step-tutorial/"><u>Diagnose and Repair: Why Isn't My Razer Headset Mic Working? A 5-Step Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-your-logitech-g430-microphone-stops-working/"><u>Effective Fixes When Your Logitech G430 Microphone Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-dell-audio-malfunctions-under-windows-7/"><u>Effective Solutions for Dell Audio Malfunctions Under Windows 7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/full-review-for-gopro-hero4-sliver/"><u>Full Review for GoPro Hero4 Sliver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guidelines-to-gradually-reduce-audio-amplitude-in-logic-pro-for-2024/"><u>Guidelines to Gradually Reduce Audio Amplitude in Logic Pro for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-meizu-21-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Meizu 21? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kinemasters-journey-through-seamless-segmentation-for-2024/"><u>Kinemaster's Journey Through Seamless Segmentation for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-s-top-free-mkv-splitters-trim-and-edit-with-ease/"><u>New S Top Free MKV Splitters Trim and Edit with Ease</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-become-a-pro-with-our-instagram-story-insights/"><u>[New] 2024 Approved Become a Pro with Our Instagram Story Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-discover-the-future-of-screens-with-camstudios-2023-review-for-2024/"><u>[New] Discover the Future of Screens with CamStudio's 2023 Review for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-pursuit-of-quality-a-deep-dive-into-sonys-x1000v/"><u>[New] In Pursuit of Quality A Deep Dive Into Sony's X1000V</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-revamping-your-mobile-melodies-an-expert-iphone-ringtone-guide/"><u>[Updated] 2024 Approved Revamping Your Mobile Melodies An Expert iPhone Ringtone Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-digital-mastery-top-10-instagram-enhancers/"><u>[Updated] In 2024, Digital Mastery Top 10 Instagram Enhancers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-integrating-zoom-into-your-daily-schedule/"><u>2024 Approved Integrating Zoom Into Your Daily Schedule</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-your-broken-logitech-g430-microphone-in-simple-steps/"><u>Expert Advice: Fixing Your Broken Logitech G430 Microphone in Simple Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g-stylus-5g-2023-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G Stylus 5G (2023) FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-a-comprehensive-fix-for-battlefield-4-audio-glitches/"><u>Silence No More: A Comprehensive Fix for Battlefield 4 Audio Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-dilemma-a-guide-to-restoring-audio-on-your-pc-using-intels-conexant-technology/"><u>Solving the Silent Dilemma: A Guide to Restoring Audio on Your PC Using Intel's Conexant Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206834037-troubleshoot-and-repair-unresponsive-key-caps-on-hp-computers-fast/"><u>Troubleshoot & Repair Unresponsive Key Caps on HP Computers - Fast!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-sound-problems-for-a-smooth-experience-with-firefox/"><u>Troubleshooting No Sound Problems for a Smooth Experience with Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-windows-11-microphone-issues-easily/"><u>Troubleshooting Tips: Resolving Windows 11 Microphone Issues Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-a-d3dx925dll-could-not-be-found-error/"><u>What to Do When You Encounter a d3dx9_25.dll Could Not Be Found Error?</u></a></li>
 </ul></div>
 

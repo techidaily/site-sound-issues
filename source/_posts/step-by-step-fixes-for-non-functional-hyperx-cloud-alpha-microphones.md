@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes for Non-Functional HyperX Cloud Alpha Microphones
-date: 2024-09-27T20:52:11.989Z
-updated: 2024-10-01T19:11:40.670Z
+date: 2024-10-04T22:00:10.893Z
+updated: 2024-10-07T06:00:13.691Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ Having an issue of your microphone not working could be quite frustrating especi
 
 If that didn’t help, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Turn on app permissions for your microphone
 
  Normally, when your headset is plugged in, your system will detect it and your apps can access the microphone. But for some reasons, it may fail to do that. To check if your apps have access to your microphone, follow these steps:
@@ -69,10 +62,10 @@ If that didn’t help, proceed to the next fix.
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Microphone**  from the left pane. Then click on the **Change**  button and click the toggle to make sure **Microphone access for this device**  is turned on.  
@@ -86,6 +79,13 @@ If that didn’t help, proceed to the next fix.
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve done these, do a mic test. If it’s not functioning, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your audio driver
 
@@ -106,6 +106,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-audio-driver-automatically-with-Driver-Easy.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your PC and do a mic test. If it isn’t functioning properly, try the next fix below.
@@ -118,28 +125,21 @@ Here’s how to update drivers with Driver Easy:
   
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be required to restart your computer.  
   
 ![run the audio troubleshooter](https://images.drivereasy.com/wp-content/uploads/2021/05/audio-troubleshooter.png)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After the reboot, use your microphone and it should be working properly.
@@ -163,20 +163,24 @@ After the reboot, use your microphone and it should be working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-effective-techniques-for-b-cutting-and-cutaways/"><u>[New] 2024 Approved Effective Techniques for B-Cutting and Cutaways</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-8-best-open-source-videoconference-systems-for-enterprises-today/"><u>[New] The 8 Best Open Source Videoconference Systems for Enterprises Today</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-top-15-no-cost-audio-archives-for-content-makers/"><u>[Updated] Unveiling the Top 15 No-Cost Audio Archives for Content Makers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-android-lens-mastery-techniques-and-apps/"><u>2024 Approved Android Lens Mastery Techniques & Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-rectifying-sound-distortion-issues-in-media-software-for-windows-10-and-7-systems/"><u>A Comprehensive Guide to Rectifying Sound Distortion Issues in Media Software for Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015736769-anthem-game-muted-troubleshoot-windows-10-sound-issues-today/"><u>Anthem Game Muted? Troubleshoot Windows 10 Sound Issues Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016308149-audio-malfunctioning-on-pc-effortless-fixes-inside/"><u>Audio Malfunctioning on PC? Effortless Fixes Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016430270-counter-strike-2-microphone-not-functioning-heres-the-solution/"><u>Counter-Strike 2 Microphone Not Functioning? Here's the Solution!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-stagnant-ios-mailboxes-a-comprehensive-fix-for-non-updating-emails-on-iphone/"><u>Fixing Stagnant iOS Mailboxes - A Comprehensive Fix for Non-Updating Emails on iPhone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016561236-no-more-distorted-sound-solve-headphone-noise-issues-fast/"><u>No More Distorted Sound: Solve Headphone Noise Issues Fast</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-free-gif-animation-creators/"><u>Updated 2024 Approved Top Free GIF Animation Creators</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-does-my-lenovo-laptop-have-no-sound-expert-fixes-revealed/"><u>Why Does My Lenovo Laptop Have No Sound? Expert Fixes Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-issues-resolved-simple-fixes-for-sound-troubles/"><u>Windows 10 Audio Issues Resolved: Simple Fixes for Sound Troubles</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-channels-for-filmmakers-to-learn-filmmaking-tips-for-2024/"><u>YouTube Channels for Filmmakers to Learn Filmmaking Tips for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-techniques-for-more-watches-on-your-insta-vids/"><u>[New] 2024 Approved Techniques for More Watches on Your Insta Vids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-enhancing-team-coordination-through-thoughtful-office-spaces/"><u>[Updated] 2024 Approved Enhancing Team Coordination Through Thoughtful Office Spaces</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-key-strategies-to-stream-and-record-youtube-events-for-2024/"><u>[Updated] Key Strategies to Stream and Record YouTube Events for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-top-ten-creative-av-media-maker-directory/"><u>[Updated] The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-audio-volume-on-your-windows-11-pc-a-step-by-step-guide/"><u>Boosting Audio Volume on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/disabling-amber-alerts-a-step-by-step-guide-for-android-users/"><u>Disabling AMBER Alerts: A Step-by-Step Guide for Android Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-new-era-audio-issues-with-these-simple-steps/"><u>Fix Your New Era Audio Issues with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-dilemma-of-non-functional-microphones-in-google-hangouts/"><u>Fixing the Dilemma of Non-Functional Microphones in Google Hangouts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-webcam-driver-installation-guide-for-windows-pcs/"><u>Free Logitech Webcam Driver Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-105-classic-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia 105 Classic Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-outriders-audio-issues/"><u>How to Fix Outriders Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-notebook-audio-issues-quick-fixes/"><u>HP Notebook Audio Issues - Quick Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chuckle-on-the-go-best-comedy-tone-sites/"><u>In 2024, Chuckle on the Go Best Comedy Tone Sites</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-top-10-webm-to-mp4-converters-for-flawless-video-conversion/"><u>New The Top 10 WebM to MP4 Converters for Flawless Video Conversion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rekindle-the-roaring-gunfire-resolving-borderlands-3s-sound-issues-on-windows/"><u>Rekindle the Roaring Gunfire – Resolving Borderlands 3'S Sound Issues on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-laptops-sound-effective-solutions-for-unresponsive-built-in-speakers/"><u>Revive Your Laptop's Sound: Effective Solutions for Unresponsive Built-In Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solar-solutions-to-get-your-sennheiser-game-one-microphone-working-again/"><u>Solar Solutions to Get Your Sennheiser Game One Microphone Working Again!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tricks-to-alter-applied-geographic-position-on-your-phone-seamlessly/"><u>Tricks to Alter Applied Geographic Position on Your Phone Seamlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-your-audio-potential-fixing-the-realtek-hd-audio-manager-not-opening-issue/"><u>Unlock Your Audio Potential: Fixing the Realtek HD Audio Manager Not Opening Issue</u></a></li>
 </ul></div>
 

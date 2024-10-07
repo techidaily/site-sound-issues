@@ -1,7 +1,7 @@
 ---
 title: Dealing with Audio Malfunctions on Windows 10 – Comprehensive Solutions
-date: 2024-09-25T00:53:34.463Z
-updated: 2024-10-01T21:08:58.343Z
+date: 2024-09-29T20:55:01.522Z
+updated: 2024-10-07T06:16:18.495Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ Having no sound coming out from your Logitech G435 gaming headset all of a sudde
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Try G435 on a different device
 
  When your G435 has no sound all of a sudden, the first thing to do is to see if the problem is with the headset itself, or with your computer settings. And the easiest way to do so is to use the headset on a different device.
@@ -68,9 +61,24 @@ To do so:
 1. Press the Mute button for 3 seconds or longer.  
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_1.jpg)
 2. Switch to LIGHTSPEED — the LED will light cyan for 5 seconds.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_2.jpg)
 3. Switch to Bluetooth, the LED will light blue for five seconds.  
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if G435 works fine under both modes. If the headset has no sound in either mode, please move on to the next fix.
 
@@ -91,13 +99,6 @@ To do so:
 3. Click**Add device** \>**Bluetooth** , and wait for your computer to find your G435 headset again.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your G435 headset still doesn’t have sound after this change, please try the next fix below.
 
 ---
@@ -111,34 +112,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try your G435 headset again to see if it works. If the problem remains, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Select G435 as the sound device in Windows Settings
 
@@ -166,10 +154,10 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -181,6 +169,13 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Try to change Bluetooth parameters
 
  You can also change this setting with your Bluetooth adapter to see if it helps to restore the sound for your Logitech G435:
@@ -190,8 +185,23 @@ To do so:
 2. Double-click to expand the**Bluetooth** category, then right-click your Bluetooth adapter (it’s usually the one without any Microsoft wording) and select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-17.png)
 3. Select**Power Management** , then untick the box for**Allow the computer to turn off this device to save power** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-18.png)
 4. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then try your Logitech G435 headset again to see if it works fine now. If not, please move on.
 
@@ -208,10 +218,16 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Repair system files
@@ -227,13 +243,6 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -260,21 +269,21 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-critically-acclaimed-top-8-oculus-rift-games/"><u>[New] 2024 Approved Critically Acclaimed Top 8 Oculus Rift Games</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-dichotomy-of-youtube-rights-and-cc-licenses/"><u>[New] 2024 Approved The Dichotomy of YouTube Rights and CC Licenses</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-fullscape-synergy-the-smart-mcn-picking-game/"><u>[Updated] In 2024, FullScape Synergy The Smart MCN Picking Game</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlocking-efficiency-how-to-document-your-google-collaborations/"><u>2024 Approved Unlocking Efficiency How to Document Your GooGle Collaborations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722957036404-fast-track-your-dell-latitude-e6420-secure-driver-downloads-in-minutes/"><u>Fast-Track Your Dell Latitude E6420: Secure Driver Downloads in Minutes</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/how-abbyys-smart-data-extraction-is-reshaping-the-future-of-service-businesses/"><u>How ABBYY's Smart Data Extraction Is Reshaping the Future of Service Businesses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-should-focus-on-making-windows-11-better-not-just-more-fun/"><u>Microsoft Should Focus on Making Windows 11 Better, Not Just More Fun</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-mac-heres-how-you-can-resolve-this-common-issue/"><u>No Sound on Your Mac? Here's How You Can Resolve This Common Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-restored-troubleshooting-complete-loss-of-sound-for-cyberpunk-2077-on-windows-10-devices/"><u>Noise Restored! Troubleshooting Complete Loss of Sound for Cyberpunk 2077 on Windows 10 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimizing-sound-quality-by-removing-enhancements-from-windows-11-systems/"><u>Optimizing Sound Quality by Removing Enhancements From Windows 11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-in-zoom-calls-essential-fixes-for-sound-problems-on-pc-or-mac/"><u>Overcoming Audio Hurdles in Zoom Calls: Essential Fixes for Sound Problems on PC or Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-your-creative-pebble-sound-system-proven-fix-techniques-unveiled/"><u>Overcoming Issues with Your Creative Pebble Sound System: Proven Fix Techniques Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-enable-your-gaming-voice-chat-on-discord-with-clear-audio/"><u>Quick Fix: Enable Your Gaming Voice Chat on Discord with Clear Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-troubles-restoring-plugged-in-status/"><u>Realtek HD Audio Troubles: Restoring Plugged In Status</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-free-tools-to-convert-srt-into-engaging-video-content-for-2024/"><u>Top 10 FREE Tools to Convert SRT Into Engaging Video Content for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>[New] 2024 Approved From Still to Moving Adding Animated Effects to Your Text IG Stories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>[New] In 2024, Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-6-respectful-android-recorder-apps/"><u>[New] In 2024, Top 6 Respectful Android Recorder Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-channel-expansion-sharing-your-show-across-30-platforms/"><u>[Updated] In 2024, Channel Expansion Sharing Your Show Across 30 Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-uncomplicated-blueprint-for-crafting-successful-ads-online/"><u>[Updated] Uncomplicated Blueprint for Crafting Successful Ads Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unravel-the-mysteries-of-efficient-story-connectivity-for-2024/"><u>[Updated] Unravel the Mysteries of Efficient Story Connectivity for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-solution-proven-techniques-repairing-redragon-headset-mic-malfunctions-on-personal-computer/"><u>Audio Solution Proven Techniques: Repairing Redragon Headset Mic Malfunctions on Personal Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-astro-a10-mic-problems-effectively/"><u>How to Resolve Non-Functional Astro A10 Mic Problems Effectively</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-soaring-strengths-top-10-industrial-drones/"><u>In 2024, Soaring Strengths Top 10 Industrial Drones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015521209-razer-man-o-war-mic-problems-heres-how-to-get-it-working-again/"><u>Razer Man O' War Mic Problems? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-persistent-pc-crash-issues-during-gameplay-of-subnautica-below-zero/"><u>Solving Persistent PC Crash Issues During Gameplay of Subnautica: Below Zero</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-problems-solved-in-firefox-browser-update/"><u>Sound Problems Solved in Firefox Browser Update</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/talent-hunters-unite-top-10-video-roundup-for-2024/"><u>Talent Hunters Unite! Top 10 Video Roundup for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-tips-for-restoring-sounds-in-call-of-duty-warzone-on-your-computer-updated/"><u>Top Tips for Restoring Sounds in Call of Duty Warzone on Your Computer (Updated )</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-sound-issues-with-microphones-in-windows-operating-systems/"><u>Troubleshooting and Resolving Sound Issues with Microphones in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-discords-nonfunctional-push-to-talk-feature/"><u>Troubleshooting Guide: Fixing Discord's Nonfunctional Push-to-Talk Feature</u></a></li>
 </ul></div>
 
