@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Issues with Your Corsair Void Microphone"
-date: 2024-10-06T10:14:22.426Z
-updated: 2024-10-07T11:26:01.497Z
+date: 2024-10-09T20:51:19.578Z
+updated: 2024-10-12T23:55:08.710Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 4. **[Update the firmware](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall iCUE](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1 – Troubleshoot hardware issues
 
  Before trying anything more complicated, you can do some troubleshooting via the steps below.
@@ -50,13 +43,6 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/reset-the-connection-with-dongle.jpg)
 
  If you confirm there is no problem related to hardware, continue to the second fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 – Update your audio driver
 
@@ -77,16 +63,29 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/CORSAIR-HS60-HAPTIC-Gaming-Headset.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Does the driver update get your Corsair headset back to work now? If not, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3 – Check the sound settings
@@ -98,27 +97,14 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 2. Select**Small icons** next to View by and click**Sound** .  
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-1.jpg)
 3. On the**Playback** tab, make sure your Corsair headset is enabled (covered with a green check mark). Then, click it and click**Set Default** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-3.jpg)
 4. Navigate to the**Recording** tab. Select the Corsair headset microphone and click**Set Default** .  
@@ -127,10 +113,16 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once completed, check if your Corsair headset functions well. If not, try to troubleshoot the firmware.
@@ -144,19 +136,21 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 3. Navigate to the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1-1.jpg)
 4. Select your headset first, then check**Force update** and click the**Update** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firmware-update.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the process to complete and see how your headset works. Still no luck with the firmware update? Don’t worry. Check out the last solution.
@@ -174,20 +168,35 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 4. Click**Uninstall** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-3.jpg)
 5. Unplug the headset and restart your computer.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. On your keyboard, press the**Windows logo key** and**R** to open the Run command. Type**appwiz.cpl** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 7. Select**iCUE** and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 8. Click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-6.jpg)
 9. Restart the computer and[download](https://www.corsair.com/ww/en/icue) the latest version of iCUE and install it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 10. Launch iCUE. Then replug your Corsair headset into the computer.
 
@@ -216,21 +225,20 @@ If you’re using a Corsair headset but it’s not working as expected, i.e. no 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-clearing-focus-techniques-for-blurring-meeting-backdrops/"><u>[Updated] 2024 Approved Clearing Focus Techniques for Blurring Meeting Backdrops</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-start-off-right-top-gear-for-aspiring-gopro-users/"><u>[Updated] 2024 Approved Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-hear-the-game-of-thrones-in-your-phone-top-sites-listed/"><u>[Updated] Hear the Game of Thrones in Your Phone - Top Sites Listed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-looms-legacy-unveiling-the-art-of-capturing-life/"><u>[Updated] In 2024, Loom's Legacy Unveiling the Art of Capturing Life</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-making-your-mark-on-facebooks-algorithmic-landscape/"><u>2024 Approved Making Your Mark on Facebook's Algorithmic Landscape</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/amp-up-your-computers-audio-correcting-underperforming-speakers-in-windows-11/"><u>Amp up Your Computer's Audio: Correcting Underperforming Speakers in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-to-solve-lagging-challenges-for-guilty-gear-strive-players/"><u>Expert Tips to Solve Lagging Challenges for Guilty Gear Strive Players</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-tecno-spark-10-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Tecno Spark 10 Pro FRP Without Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-microphone-fix-a-complete-troubleshooting-walkthrough/"><u>Logitech G Pro X Microphone Fix: A Complete Troubleshooting Walkthrough</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximizing-pc-speaker-volume-in-windows-10-step-by-step-solutions/"><u>Maximizing PC Speaker Volume in Windows 10 - Step-by-Step Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-astro-a50-sound-swift-fix-guide/"><u>Restoring Astro A50 Sound: Swift Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-guide-reactivating-the-voice-chat-feature-in-valorant/"><u>Solutions Guide: Reactivating the Voice Chat Feature in Valorant</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-laptop-audio-issues-a-comprehensive-guide/"><u>Troubleshoot and Resolve Laptop Audio Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-corsair-hs60-headset-microphone/"><u>Troubleshooting Guide: Fixing a Non-Functional Corsair HS60 Headset Microphone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-reboots-without-warning/"><u>Windows Reboots without Warning</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/winning-at-love-one-swipe-at-a-time-top-tips-for-bold-biographies/"><u>Winning at Love, One Swipe at a Time Top Tips for Bold Biographies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-pristine-facebook-videos-on-chromebooks/"><u>[New] 2024 Approved Unlock Pristine Facebook Videos on Chromebooks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tarting-stronger-exploring-the-best-15-video-intros/"><u>[New] Starting Stronger Exploring the Best 15 Video Intros</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-hue-harmonizer-software/"><u>[Updated] Ultimate Hue Harmonizer Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-track-to-premiere-pro-full-screen-viewing/"><u>2024 Approved Inside Track to Premiere Pro Full Screen Viewing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/clear-up-your-storage-space-a-comprehensive-guide-to-resolving-full-disk-issues-using-17-strategies/"><u>Clear Up Your Storage Space: A Comprehensive Guide to Resolving Full Disk Issues Using 17 Strategies</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a54-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A54 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fix-eliminate-noise-problems-in-five-steps-on-windows-10/"><u>Easy Fix: Eliminate Noise Problems in Five Steps on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/efficient-ways-to-address-tozo-t6-connectivity-problems-with-windows-11-systems/"><u>Efficient Ways to Address Tozo T6 Connectivity Problems with Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-your-laptops-soundscape-elevating-system-volume-on-win10-systems/"><u>Enhancing Your Laptop's Soundscape: Elevating System Volume on Win10 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-x100-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo X100 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10-for-2024/"><u>Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10 for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-turtle-beach-microphone-performance/"><u>Solving Common Issues with Turtle Beach Microphone Performance</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-8-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 8 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-for-when-discord-voice-chat-freezes/"><u>Troubleshooting Solutions for When Discord Voice Chat Freezes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-audio-potential-a-guide-to-overcoming-realteks-muted-digital-signal/"><u>Unlocking Audio Potential: A Guide to Overcoming Realtek's Muted Digital Signal</u></a></li>
 </ul></div>
 

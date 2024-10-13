@@ -1,7 +1,7 @@
 ---
 title: Resolving Silent Anthem Issue Caused by Windows 10 Update
-date: 2024-10-01T22:57:03.910Z
-updated: 2024-10-07T08:43:51.471Z
+date: 2024-10-05T23:50:46.819Z
+updated: 2024-10-12T16:56:00.477Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
@@ -66,31 +73,19 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
 
@@ -108,20 +103,20 @@ Still no luck? Okay, there’s one more thing to try.
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Restart your computer.
@@ -150,24 +145,24 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-detailed-review-and-tips-picsart-users/"><u>[New] 2024 Approved Detailed Review & Tips PicsArt Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-top-5-virtual-realities-samsung-gear-vr-game-hits/"><u>[New] 2024 Approved Top 5 Virtual Realities - Samsung Gear VR Game Hits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>[New] Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-powerful-book-trailer-examples/"><u>[Updated] In 2024, Powerful Book Trailer Examples</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-commanding-your-computer-with-ease-gratis/"><u>2024 Approved Commanding Your Computer With Ease, Gratis</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-top-10-accelerating-youtube-platforms-for-motivation-and-inspiration/"><u>2024 Approved The Top 10 Accelerating YouTube Platforms for Motivation and Inspiration</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-10c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 10C Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bring-back-the-beats-effective-remedies-for-silent-lenovo-laptops/"><u>Bring Back the Beats: Effective Remedies for Silent Lenovo Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/elevate-your-listening-experience-with-these-proven-methods-for-increasing-volume-on-windows-11/"><u>Elevate Your Listening Experience with These Proven Methods for Increasing Volume on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-the-unresponsive-mic-on-your-steelseries-arctis-7/"><u>Expert Tips for Fixing the Unresponsive Mic on Your SteelSeries Arctis 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/five-easy-steps-to-get-your-razer-mic-up-and-running-again/"><u>Five Easy Steps to Get Your Razer Mic Up and Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-microphone-issues-on-counter-strike-2-a-comprehensive-guide/"><u>Fixing Microphone Issues on Counter Strike 2: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-apex-legends-troubleshooting-and-solutions/"><u>Fixing Silent Apex Legends: Troubleshooting and Solutions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-crafting-visual-wonders-an-insiders-guide-to-editing-on-snapchat/"><u>In 2024, Crafting Visual Wonders An Insider’s Guide to Editing on Snapchat</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-picking-playbacks-character-beats-unveiled/"><u>Pulse-Picking Playbacks Character Beats Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-get-your-dells-audio-working-again/"><u>Quick Solutions to Get Your Dell's Audio Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-black-ops-cold-war-pc-issues-fixing-the-silent-gameplay-problem/"><u>Solving Black Ops Cold War PC Issues - Fixing the Silent Gameplay Problem</u></a></li>
-<li><a href="https://some-skills.techidaily.com/turbocharging-your-journey-10-must-have-srt-converters-for-2024/"><u>Turbocharging Your Journey 10 Must-Have SRT Converters for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-the-annoying-arctis-7-audio-issues-in-windows/"><u>Ultimate Guide: Solving the Annoying Arctis 7 Audio Issues in Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-self-filmed-brilliance-secrets-for-youtube-success/"><u>[New] 2024 Approved Self-Filmed Brilliance Secrets for YouTube Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discerning-varieties-in-hand-movement-analysis-techniques/"><u>[New] Discerning Varieties in Hand Movement Analysis Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-rights-in-instagram-songs/"><u>[Updated] 2024 Approved Navigating Rights in Instagram Songs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits-for-2024/"><u>[Updated] From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-ranked-steadicam-systems-for-drone-cinematography-aficionados/"><u>[Updated] Top-Ranked Steadicam Systems for Drone Cinematography Aficionados</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-spectacular-time-lapses-with-gopro-hero5-black-for-2024/"><u>Crafting Spectacular Time-Lapses with GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-mastering-bluetooth-connectivity-on-your-ios-device/"><u>Easy Steps: Mastering Bluetooth Connectivity on Your iOS Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-mpow-microphone-in-windows-a-comprehensive-guide/"><u>Fixing a Non-Functional MPOW Microphone in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015537442-fixing-complete-lack-of-sounds-in-apex-legends-proven-solutions/"><u>Fixing Complete Lack of Sounds in Apex Legends: Proven Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-headset-port-issues-a-comprehensive-guide/"><u>Fixing Laptop Headset Port Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-fix-lack-of-audio-in-monitors-and-televisions-after-computer-connection-via-hdmi/"><u>Guide: Fix Lack of Audio in Monitors and Televisions After Computer Connection via HDMI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-speaker-loudness-advanced-methods-for-windows-11-users/"><u>Improve Speaker Loudness: Advanced Methods for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-investment-icons-top-15-youtube-stock-gurus/"><u>In 2024, Investment Icons Top 15 YouTube Stock Gurus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users/"><u>No Pay, Maximum Fun 20 Custom LUT Sets for DJI Mini/Air Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-skype-microphone-issues-solutions-for-windows-10-users/"><u>Resolving Skype Microphone Issues - Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-your-discord-voice-communication/"><u>Troubleshooting Guide: Fixing Issues with Your Discord Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-troubleshooting-tips-reviving-your-rust-microphone/"><u>Ultimate 2024 Troubleshooting Tips: Reviving Your Rust Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-troubles-how-to-repair-and-restore-headphone-connection/"><u>Windows 10 Audio Troubles: How to Repair and Restore Headphone Connection</u></a></li>
 </ul></div>
 

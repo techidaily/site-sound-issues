@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11 Audio Issues - Solutions for the Mute Mystery
-date: 2024-09-14T19:45:42.743Z
-updated: 2024-09-16T19:21:25.824Z
+date: 2024-10-06T21:38:40.060Z
+updated: 2024-10-12T23:07:19.154Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  It’s likely your audio driver becomes incompatible after upgrading Windows system, so it’s recommended to update your audio driver to fix the no sound issue.
@@ -51,6 +58,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if there’s any sound in your computer.
 
@@ -83,27 +97,28 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Restart your computer.
 
@@ -129,5 +144,21 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-5-best-igtv-editor-apps-for-improved-layouts-for-2024/"><u>[New] 5 Best IGTV Editor Apps for Improved Layouts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-ranking-of-8-swift-recorders-for-2024/"><u>[New] Ultimate Ranking of 8 Swift Recorders for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-simplified-guide-to-free-youtube-card-designing/"><u>[Updated] 2024 Approved Simplified Guide to Free YouTube Card Designing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-professional-techniques-for-mobile-and-dslr-igtv-mastery/"><u>[Updated] Professional Techniques for Mobile & DSLR IGTV Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-vcplusplus-distribution-essence/"><u>Decoding VC++ Distribution Essence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-track-to-smooth-sound-tackling-bluetooth-playback-delays-instantly/"><u>Fast Track to Smooth Sound: Tackling Bluetooth Playback Delays Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-13t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi 13T</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-essential-gif-creation-best-tools-reviewed-and-compared/"><u>In 2024, Essential GIF Creation Best Tools Reviewed & Compared</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instantly-resolve-your-headphone-audio-distortion-problems/"><u>Instantly Resolve Your Headphone Audio Distortion Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015662600-league-of-legends-voice-communication-trouble-heres-how-to-resolve-it/"><u>League of Legends Voice Communication Trouble? Here's How to Resolve It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-sound-expert-tips-for-fixing-hp-laptop-issues-on-windows-10/"><u>Revive the Sound: Expert Tips for Fixing HP Laptop Issues on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-damaged-or-malfunctioning-front-sound-port-with-easy-fixes/"><u>Reviving a Damaged or Malfunctioning Front Sound Port with Easy Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-remarkable-escapades-of-yokus-island-express-rediscovered/"><u>The Remarkable Escapades of Yoku’s Island Express Rediscovered</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-fixing-sound-stutters-and-distortions-in-windows-11-and-7/"><u>Troubleshooting Audio Glitches: Fixing Sound Stutters & Distortions in Windows 11 and 7</u></a></li>
+</ul></div>
 

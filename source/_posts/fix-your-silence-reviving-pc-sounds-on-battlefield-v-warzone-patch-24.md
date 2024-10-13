@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Silence: Reviving PC Sounds on Battlefield V - Warzone Patch '24"
-date: 2024-09-15T20:04:03.613Z
-updated: 2024-09-16T21:00:17.776Z
+date: 2024-10-06T18:46:43.600Z
+updated: 2024-10-13T03:13:30.810Z
 tags:
   - win11
   - win10
@@ -93,9 +93,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-239.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In **Sound** settings, scroll down to the**Input** section, and in**Choose your input device** , make sure the microphone you are actively using is selected. Then,**test your microphone** by speaking into your mic to see if it ‘hears’ anything. If yes, it means you have configured the microphone properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Close the window.
 
@@ -104,10 +118,16 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Configure in-game settings
@@ -125,28 +145,28 @@ Here is how to configure in-game settings:
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Again, play Apex Legends to see if the voice chat not working issue is resolved.
 
  Still no joy? Please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest game patch
 
@@ -157,10 +177,10 @@ Here is how to configure in-game settings:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Origin and Apex Legends
@@ -207,5 +227,18 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-brand-recognition-inserting-watermarklogo-in-youtube-videos-for-2024/"><u>[New] Enhance Brand Recognition Inserting Watermark/Logo in Youtube Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-rich-tapestry-of-ajeys-channel-wealth/"><u>[New] In 2024, The Rich Tapestry of Ajey's Channel Wealth</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-to-your-preferred-stream-rate-netflixs-controls/"><u>2024 Approved Navigate to Your Preferred Stream Rate - Netflix's Controls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-guide-to-mastering-location-precision-in-outdoor-adventures-with-google-maps-live-view/"><u>A Beginner's Guide to Mastering Location Precision in Outdoor Adventures With Google Maps Live View</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-volume-for-a-better-listening-experience-on-windows-10-systems/"><u>Enhancing Audio Volume for a Better Listening Experience on Windows 10 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fresh-start-for-windows-10-made-easy-discover-the-four-key-steps-to-factory-reset/"><u>Fresh Start for Windows 10 Made Easy - Discover the Four Key Steps to Factory Reset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-troubleshooting-non-working-headphones-in-windows-10-environment/"><u>Solution Guide: Troubleshooting Non-Working Headphones In Windows 10 Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-on-your-astro-a50-headset-quick-solutions-inside/"><u>Solving Audio Problems on Your Astro A50 Headset - Quick Solutions Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-tech-workflow-exploring-the-possibilities-of-the-openai-api/"><u>Transform Your Tech Workflow: Exploring the Possibilities of the OpenAI API</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-dell-audio-issues-on-windows-7-a-step-by-step-guide/"><u>Troubleshooting Dell Audio Issues on Windows 7: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

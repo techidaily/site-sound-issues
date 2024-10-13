@@ -1,7 +1,7 @@
 ---
 title: "Fixing SteelSeries Arctis 9 Series: Troubleshooting Non-Functional Microphone"
-date: 2024-10-01T06:36:56.643Z
-updated: 2024-10-07T07:20:36.772Z
+date: 2024-10-05T21:21:42.773Z
+updated: 2024-10-12T16:45:53.214Z
 tags:
   - win11
   - win10
@@ -44,16 +44,24 @@ thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebf
 2. Click the **Recording**  tab, s  elect the microphone you’re using and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 3. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
 
  See if your Logitech G633 mic works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
@@ -65,20 +73,13 @@ thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebf
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
 
@@ -105,16 +106,16 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -143,15 +144,17 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-premier-websites-revealed-acquiring-personalized-youtube-ringtones-for-2024/"><u>[New] Premier Websites Revealed Acquiring Personalized YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-review-mastering-the-art-of-picsart/"><u>[New] Step-by-Step Review Mastering the Art of PicsArt</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-man-o-war-microphone-issues-a-step-by-step-guide/"><u>Fixing Your Razer Man O' War Microphone Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-13c-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi 13C?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a59-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Oppo A59 5G.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-6-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 6 Pro 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-is-my-apex-legends-voice-chat-on-pause-get-it-running-today/"><u>Solved: Why Is My Apex Legends Voice Chat on Pause? Get It Running Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-microsoft-teams-audio-on-pcs-windows-11-and-10-solutions/"><u>Troubleshooting Your Microsoft Teams Audio on PCs: Windows 11 & 10 Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-gaming-audio-problem-anchor-yourself-with-the-ultimate-anthem-soundfix-guide/"><u>Windows 10 Gaming Audio Problem: Anchor Yourself with the Ultimate Anthem Soundfix Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-softening-audio-levels-alives-approach/"><u>[New] In 2024, Softening Audio Levels Alive’s Approach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-insightful-revelations-instagram-snapshot-audiences-for-2024/"><u>[New] Unlock Insightful Revelations Instagram Snapshot Audiences for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-effective-measures-to-block-pesky-video-ads-online-for-2024/"><u>[Updated] Effective Measures to Block Pesky Video Ads Online for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-review-of-camstudio-capturing-features-for-2024/"><u>[Updated] The Ultimate Review of CamStudio Capturing Features for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6s-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-sound-problem-in-windows-10-heres-how-to-bring-your-music-back/"><u>Anthem Sound Problem in Windows 10? Here’s How to Bring Your Music Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-restoring-stable-audio-in-windows-11-systems/"><u>Comprehensive Guide to Restoring Stable Audio in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-sound-dysfunctions-in-windows-os-solving-stutters-and-distortions-for-good/"><u>Eliminate Sound Dysfunctions in Windows OS - Solving Stutters & Distortions for Good</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-functionality-to-your-broken-or-silent-headset-microphone/"><u>Expert Tips: Restoring Functionality to Your Broken or Silent Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mic-failures-tips-and-tricks-for-windows-11-users/"><u>Fixing Mic Failures: Tips and Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-establishing-your-first-youtube-profile-for-2024/"><u>Step-by-Step Guide Establishing Your First YouTube Profile for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-essentials-of-bios-insights-for-efficient-use-with-revouninstaller-software/"><u>The Essentials of BIOS: Insights for Efficient Use with RevoUninstaller Software</u></a></li>
 </ul></div>
 

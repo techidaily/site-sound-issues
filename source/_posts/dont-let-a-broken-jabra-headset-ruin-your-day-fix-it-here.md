@@ -1,7 +1,7 @@
 ---
 title: Don’t Let a Broken Jabra Headset Ruin Your Day - Fix It Here
-date: 2024-09-13T20:44:58.542Z
-updated: 2024-09-16T19:45:21.891Z
+date: 2024-10-10T03:26:38.417Z
+updated: 2024-10-12T20:57:10.025Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check your microphone device settings
 
  Your Razer Kraken mic may not be working because it’s disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 **1) Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
@@ -69,9 +83,23 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -110,18 +138,21 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-in-depth-analysis-complete-overhaul-of-facetune-app/"><u>[New] 2024 Approved In-Depth Analysis Complete Overhaul of Facetune App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-iosandroid-playback-silent-youtube-autoplay-tips/"><u>[New] 2024 Approved IOS/Android Playback Silent YouTube Autoplay Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-5-best-ways-to-download-igtv-for-tech-enthusiasts-for-2024/"><u>[New] Unveiling the 5 Best Ways to Download IGTV for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-creators-guide-15-unrestricted-music-archives/"><u>[Updated] 2024 Approved YouTube Creators' Guide 15 Unrestricted Music Archives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-navigating-the-nuances-of-spotify-advertising/"><u>[Updated] In 2024, Navigating the Nuances of Spotify Advertising</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avoid-blur-and-clarity-issues-zooming-techniques-with-videoleap/"><u>2024 Approved Avoid Blur and Clarity Issues Zooming Techniques with Videoleap</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unleash-the-power-of-pan-and-zoom-creating-a-ken-burns-effect/"><u>In 2024, Unleash the Power of Pan and Zoom Creating a Ken Burns Effect</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016257248-pc-audio-troubles-fix-noise-issues-with-these-simple-steps/"><u>PC Audio Troubles? Fix Noise Issues with These Simple Steps!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-get-your-logitech-g733-mic-working-properly-detailed-solutions/"><u>Quick Fixes to Get Your Logitech G733 Mic Working Properly: Detailed Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-razer-mic-problems-in-just-five-easy-steps/"><u>Resolve Your Razer Mic Problems in Just Five Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-non-functioning-microphone-in-airpods-on-windows-11/"><u>Troubleshooting the Non-Functioning Microphone in AirPods on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-when-your-corsair-hs35-microphone-wont-work-on-windows-systems/"><u>Troubleshooting Tips When Your Corsair HS35 Microphone Won't Work on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723200749767-windows-tclass-not-registering-heres-your-solution/"><u>Windows tClass Not Registering? Here's Your Solution!</u></a></li>
+</ul></div>
 

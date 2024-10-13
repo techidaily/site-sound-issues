@@ -1,7 +1,7 @@
 ---
 title: "Guide: How to Fix and Enable IDT HD Audio Codec on Windows 10 Systems"
-date: 2024-10-03T05:47:38.035Z
-updated: 2024-10-06T19:42:39.960Z
+date: 2024-10-07T02:38:46.461Z
+updated: 2024-10-13T00:23:17.661Z
 tags:
   - win11
   - win10
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Update your audio driver
@@ -61,14 +55,14 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,28 +80,22 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
- When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
-
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
 
 ### Fix 3 – Check your PC sound settings
 
@@ -122,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
@@ -143,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 2. Make sure your microphone is not turned off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
@@ -181,17 +169,17 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-captivate-audiences-with-this-essential-guide-to-making-youtube-shorts/"><u>[New] 2024 Approved Captivate Audiences with This Essential Guide to Making YouTube Shorts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-ipad-recording-tools-3-edition/"><u>[New] Essential iPad Recording Tools #3 Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-amateur-to-pro-excelling-at-instagram-editing/"><u>[New] In 2024, From Amateur to Pro Excelling at Instagram Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-moviemakerpro-insights-full-analysis/"><u>[New] MovieMakerPro Insights – Full Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-window-viewer-for-speedy-images/"><u>[Updated] Prime Window Viewer for Speedy Images</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-properly-install-the-idt-hd-sound-encoderdecoder-driver-on-windows-10-resolved/"><u>How to Properly Install the IDT HD Sound Encoder/Decoder Driver on Windows 10 [Resolved]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Note 30 VIP Racing Edition?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-jabra-headset-issues-expert-tips-and-solutions-models/"><u>Solve Your Jabra Headset Issues: Expert Tips & Solutions Models</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-restoring-sound-on-a-faulty-turtle-beach-microphone/"><u>Troubleshooting and Restoring Sound on a Faulty Turtle Beach Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-call-of-dutys-modern-warfare/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in Call of Duty's Modern Warfare</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unidentified-print-recognition-error/"><u>Unidentified Print Recognition Error</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-8-sites-with-easy-access-to-free-3d-text-psd-images-for-2024/"><u>[New] Top 8 Sites with Easy Access to Free 3D Text PSD Images for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-enhancing-youtube-videos-perfecting-your-thumbnails/"><u>[Updated] Strategies for Enhancing YouTube Videos Perfecting Your Thumbnails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-troubles-here-are-solutions-for-unavailable-sound-services/"><u>Audio Troubles? Here Are Solutions for Unavailable Sound Services</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/avoid-the-frustration-fast-paced-methods-to-create-captions-for-your-fb-videos-for-2024/"><u>Avoid the Frustration - Fast-Paced Methods to Create Captions for Your FB Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fingerprint-reader-unavailable-in-windows-os/"><u>Fingerprint Reader: Unavailable in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-restore-voice-chat-in-call-of-duty-modern-warfare/"><u>Fixing Issues: How to Restore Voice Chat in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-c02-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-proven-techniques-for-obs-broadcasting-on-fb/"><u>In 2024, Proven Techniques for OBS Broadcasting on FB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-sharpen-your-content-for-unlimited-youtube-exposure/"><u>In 2024, Sharpen Your Content for Unlimited YouTube Exposure</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-step-by-step-strategies-for-hosting-engaging-discord-channels/"><u>In 2024, Step-by-Step Strategies for Hosting Engaging Discord Channels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-through-the-skies-microsoft-flight-simulator-x-gold-review-the-elite-aviators-choice/"><u>Navigating Through the Skies: Microsoft Flight Simulator X (Gold) Review – The Elite Aviator's Choice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-no-audio-issue-with-speakers-on-windows/"><u>Troubleshooting: Fixing 'No Audio' Issue with Speakers on Windows</u></a></li>
 </ul></div>
 

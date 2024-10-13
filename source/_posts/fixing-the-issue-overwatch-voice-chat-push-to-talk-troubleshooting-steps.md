@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Overwatch Voice Chat (Push-to-Talk) Troubleshooting Steps"
-date: 2024-10-06T00:33:19.925Z
-updated: 2024-10-07T10:56:16.745Z
+date: 2024-10-11T17:49:16.463Z
+updated: 2024-10-12T21:59:35.775Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 5. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Origin and Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow Origin to access your microphone
 
  The voice chat not working in Apex Legends error may happen if you have not allowed Origin to access your microphone.
@@ -44,22 +51,15 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-245.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In**Allow apps to access your microphone** , and turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-246.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to**Allow desktop apps to access your microphone** , turn on**the switch** .
 
@@ -72,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 ---
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -124,31 +118,11 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Close the window.
 
 6) Launch Apex Legends to see if the mic not working problem is fixed. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Configure in-game settings
 
@@ -165,10 +139,10 @@ Here is how to configure in-game settings:
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
@@ -189,6 +163,19 @@ Here is how to configure in-game settings:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Origin and Apex Legends
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Apex Legends are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -202,6 +189,13 @@ Here are the steps:
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **Apex Legends** and uninstall it too.
 
@@ -235,20 +229,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-most-popular-tweets-top-ten-hits-list/"><u>[Updated] In 2024, Most Popular Tweets Top Ten Hits List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-connect-and-conquer-metagames-top-friendly-games/"><u>2024 Approved Connect and Conquer Metagame's Top Friendly Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>2024 Approved Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-recording-tips-capturing-video-from-macbook-pro-for-2024/"><u>Essential Recording Tips Capturing Video From MacBook Pro for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-gionee-f3-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Gionee F3 Pro FRP Locks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-prompt-engineering-legitimate-employment-uncovering-nine-important-factors/"><u>Is Prompt Engineering Legitimate Employment? Uncovering Nine Important Factors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-fast-fix-techniques-for-the-test-tone-not-working-glitch/"><u>Master Fast-Fix Techniques for the 'Test Tone Not Working' Glitch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-stable-sound-expert-tips-on-resolving-discord-cut-outs-updated/"><u>Mastering Stable Sound: Expert Tips on Resolving Discord Cut-Outs - Updated</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-when-your-logitech-g430-microphone-wont-work/"><u>Solving the Problem When Your Logitech G430 Microphone Won't Work</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-your-razer-mic-in-just-five-steps/"><u>Troubleshoot and Restore Your Razer Mic in Just Five Steps!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-squad-microphones-the-ultimate-2024-handbook/"><u>Troubleshooting and Repairing Squad Microphones - The Ultimate 2024 Handbook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tutorial-for-turning-off-sound-amplification-controls-on-windows-11/"><u>Tutorial for Turning Off Sound Amplification Controls on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-steps-for-a-nonfunctioning-rust-microphone/"><u>Ultimate Troubleshooting Steps for a Nonfunctioning Rust Microphone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-are-sites-stifling-access-to-gptbot-insights-revealed/"><u>Why Are Sites Stifling Access to GPTBot? Insights Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-online-gif-video-converters/"><u>[New] The Ultimate Guide to Online GIF Video Converters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[New] The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleash-creativity-with-gopros-time-lapse-technology-for-2024/"><u>[New] Unleash Creativity with GoPro's Time-Lapse Technology for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-your-video-cover-images-updating-techniques-for-fb/"><u>[Updated] 2024 Approved Enhancing Your Video Cover Images Updating Techniques for FB</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-align-video-elements-in-your-playback-directory/"><u>2024 Approved Align Video Elements in Your Playback Directory</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-journey-into-advanced-video-coding/"><u>Beginner's Journey Into Advanced Video Coding</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-connected-no-sound-heres-how-you-can-solve-the-problem/"><u>Bluetooth Connected, No Sound? Here's How You Can Solve the Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hdmi-silent-pc-a-guide-to-restoring-sounds-between-your-laptopdesktop-tv-and-screen/"><u>HDMI Silent PC: A Guide to Restoring Sounds Between Your Laptop/Desktop, TV, and Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-locations-for-purchasing-youtube-ringtone-content/"><u>In 2024, Superior Locations for Purchasing YouTube Ringtone Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reducing-motion-illusion-in-vr-environments/"><u>Reducing Motion Illusion in VR Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-windows-10-skype-mic-problems-a-comprehensive-guide/"><u>Solve Your Windows 10 Skype Mic Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-audio-solve-confusion-between-speakers-and-headphones-playing-music/"><u>Unstuck Your Audio: Solve Confusion Between Speakers and Headphones Playing Music</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unveiling-content-versatility-what-range-of-output-formats-can-you-choose-from-on-flipbuildercom/"><u>Unveiling Content Versatility: What Range of Output Formats Can You Choose From on FlipBuilder.com?</u></a></li>
 </ul></div>
 

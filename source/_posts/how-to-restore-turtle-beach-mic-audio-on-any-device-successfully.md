@@ -1,7 +1,7 @@
 ---
 title: How To Restore Turtle Beach Mic Audio on Any Device Successfully
-date: 2024-09-30T04:50:01.213Z
-updated: 2024-10-07T07:46:53.346Z
+date: 2024-10-09T03:54:43.439Z
+updated: 2024-10-12T20:26:18.131Z
 tags:
   - win11
   - win10
@@ -64,10 +64,10 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Change sound settings
@@ -78,18 +78,18 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -97,13 +97,20 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -119,13 +126,6 @@ There’re mainly two ways for you to update an audio driver:
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -150,16 +150,18 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-step-by-step-guide-to-master-gratuitous-timer-software/"><u>2024 Approved Step-by-Step Guide to Master Gratuitous Timer Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-issues-heres-how-to-silence-the-crackles/"><u>Cyberpunk 2077 Sound Issues? Here's How to Silence the Crackles!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016449391-hdmi-trouble-heres-what-to-do-if-another-application-is-using-the-device/"><u>HDMI Trouble? Here's What To Do If Another Application Is Using The Device</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2020) Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>In 2024, Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-into-youtube-interactive-threads-for-2024/"><u>Peering Into YouTube Interactive Threads for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-back-4-blood-voice-chat-problems-with-these-easy-steps/"><u>Solve Your 'Back # 4 Blood' Voice Chat Problems with These Easy Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-skype-audio-problems-with-simple-steps/"><u>Troubleshoot and Fix Skype Audio Problems with Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-why-is-my-cod-vanguards-voice-chat-unresponsive/"><u>Troubleshooting: Why Is My COD: Vanguard's Voice Chat Unresponsive?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-complete-guide-to-using-zd-softs-recording-tools-for-2024/"><u>[New] Complete Guide to Using ZD Soft's Recording Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-the-best-freefire-tips-online/"><u>[New] Navigating the Best FreeFire Tips Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-income-content-makers/"><u>[Updated] 2024 Approved High-Income Content Makers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-athletic-free-front-rows-for-relaxing-for-2024/"><u>10 Athletic-Free Front Rows for Relaxing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-fixing-continuous-audio-disruptions-on-your-windows-11-pc/"><u>Expert Advice for Fixing Continuous Audio Disruptions on Your Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-solving-no-audio-when-connecting-your-pc-to-a-television-using-an-hdmi-cable/"><u>Expert Tips for Solving No Audio When Connecting Your PC to a Television Using an HDMI Cable</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-restoring-access-to-a-malfunctioning-steam-marketplace/"><u>Expert Tips on Restoring Access to a Malfunctioning Steam Marketplace</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-game-audio-issues-a-2024-roadmap-for-pc-gamers/"><u>Fixing Game Audio Issues: A 2024 Roadmap for PC Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-professional-advice-resolving-mic-problems-on-airpods-for-windows-users/"><u>Get Professional Advice: Resolving Mic Problems on AirPods for Windows Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-review-of-the-goofy-movie-vhs/"><u>In 2024, A Review of The Goofy Movie VHS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/melodic-merge-the-journey-through-crossfading-for-2024/"><u>Melodic Merge The Journey Through Crossfading for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-silent-battles-repairing-no-audio-in-fortnite/"><u>Troubleshoot Silent Battles: Repairing No Audio in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-distorted-audio-for-windows-10-and-7-users-step-by-step-guide/"><u>Troubleshooting Distorted Audio for Windows 10 and 7 Users: Step-by-Step Guide</u></a></li>
 </ul></div>
 

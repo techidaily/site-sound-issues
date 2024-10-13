@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare Voicechat Malfunction? Here's How to Fix It Successfully!
-date: 2024-09-11T17:52:38.948Z
-updated: 2024-09-16T20:10:23.719Z
+date: 2024-10-12T02:32:05.929Z
+updated: 2024-10-12T21:13:40.818Z
 tags:
   - win11
   - win10
@@ -82,16 +82,17 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df24a53f15.jpg)  
  If the volume controller for Chrome isn’t listed here, you can play audio/video on Chrome and then it should pop up.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Re-launch Chrome and play some audio/video and see if you can hear the sound. If the Chrome no sound problem persists, move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4:   Make sure the page is not mute
 
@@ -101,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-31.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Advanced**  tab. Then scroll down to **Multimedia** and check the box before **Play sounds in web pages** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-32.png)
@@ -108,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
  3) Re-launch Chrome and check if you can hear sound from web apps. If the problem persists, don’t worry -here’re a few more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Clear cache and cookies
 
@@ -124,16 +125,24 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 2. On the top right, click on**the three vertical dots** button >**More tools** \>**clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select**the time range** for the data cache clearing (Last 7 days in my example). Then click**CLEAR DATA** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable extensions
 
@@ -150,10 +159,10 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Update Adobe Flash Player
@@ -167,18 +176,18 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1dfb5ac965f.jpg)
 3. Check the status:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * If it says **Status – Component not updated**  , then go to **[Adobe Flash Player](https://flash.2144.com/)** [](https://flash.2144.com/)  to  download & install the latest version of your   **Adobe flash player**  .
 * If it says otherwise, then move on to**Fix 8** .
 * Re-open Chrome and check if sound comes through. If the problem still lingers on, proceed with**Fix 8** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Chrome
 
@@ -189,6 +198,13 @@ Here’s how to do it:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **appwiz.cpl**  into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d37f8cbb5d.png)
 2. Locate and right-click on Chrome, then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e14cb32cd8.jpg)
 3. Download and install Chrome from another web browser or Windows store.
@@ -215,5 +231,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-15-best-photovideo-downloader-tools-for-instagram-for-2024/"><u>[New] 15 Best Photo/Video Downloader Tools for Instagram for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-how-to-manipulate-iphone-pics-flip-tilt-and-more/"><u>[New] How to Manipulate iPhone Pics Flip, Tilt & More</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-guide-to-quick-eradication-of-online-youtube-discussions/"><u>[Updated] 2024 Approved Guide to Quick Eradication of Online YouTube Discussions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-engineering-engaging-media-excerpts-for-2024/"><u>[Updated] Engineering Engaging Media Excerpts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macdvd-202/"><u>【無料配布】Mac用DVDコピーツールベストリスト 202</u></a></li>
+<li><a href="https://win-answers.techidaily.com/brickwall-bug-resolving-frequent-collapses-of-fuel-service-supervisor-simulation-on-personal-devices/"><u>Brickwall Bug: Resolving Frequent Collapses of Fuel Service Supervisor Simulation on Personal Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dolby-audio-trouble-learn-how-to-restart-its-driver-on-your-windows-11-pc/"><u>Dolby Audio Trouble? Learn How to Restart Its Driver on Your Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-restore-and-enhance-laptop-sound-performance/"><u>Expert Solutions to Restore and Enhance Laptop Sound Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-missing-sound-in-anthem-for-windows-11-users-a-step-by-step-guide/"><u>Fix Missing Sound in Anthem for Windows 11 Users: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-voice-chat-running-again-on-black-ops-cold-war-expert-fixes-unveiled/"><u>Getting the Voice Chat Running Again on Black Ops Cold War - Expert Fixes Unveiled</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/globally-how-many-are-french-fluent-key-nations/"><u>Globally, How Many Are French Fluent? Key Nations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-on-your-windows-10-system/"><u>How to Turn Off Sound Improvement Features on Your Windows 10 System</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-the-art-of-online-presence-with-innovative-tiktok-names-for-2024/"><u>Mastering the Art of Online Presence with Innovative TikTok Names for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/microphone-malfunction-solved-techniques-to-restore-audio-recording-capabilities/"><u>Microphone Malfunction Solved: Techniques To Restore Audio Recording Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-sound-issues-a-guide-to-restoring-audio-on-hp-computers-with-windows-10/"><u>Resolve Sound Issues: A Guide to Restoring Audio on HP Computers with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-sound-problem-in-minutes/"><u>Solve Your PC's Sound Problem in Minutes</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-top-tools-for-efficiently-combining-and-dividing-pdf-files/"><u>Ultimate Guide: Top Tools for Efficiently Combining and Dividing PDF Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/warzone-communication-troubles-fix-your-micvoice-chat-problems-for-gaming-across-all-platforms/"><u>Warzone Communication Troubles? Fix Your Mic/Voice Chat Problems for Gaming Across All Platforms!</u></a></li>
+</ul></div>
 

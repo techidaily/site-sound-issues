@@ -1,7 +1,7 @@
 ---
 title: "Get Your Sound Back: Fixing Inoperative Mics on Windows 11/10 for Seamless Google Meetings"
-date: 2024-10-05T20:16:17.533Z
-updated: 2024-10-06T23:23:46.836Z
+date: 2024-10-08T18:34:20.574Z
+updated: 2024-10-12T23:01:20.483Z
 tags:
   - win11
   - win10
@@ -45,13 +45,20 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -59,6 +66,14 @@ Follow these:
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
@@ -74,30 +89,9 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and run Skype to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -105,6 +99,14 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Log in Skype and check to see if your Microphone works.
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
@@ -124,21 +126,14 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-full-picture-the-essence-of-google-podcasts-app-for-2024/"><u>[New] Full Picture The Essence of Google Podcasts App for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ro-shortcuts-every-youtuber-needs-the-top-20-list/"><u>[New] Pro Shortcuts Every YouTuber Needs - The Top 20 List</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-streamers-financial-health-check-in-youtubers/"><u>[Updated] In 2024, Streamer's Financial Health Check in YouTubers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024s-definitive-manual-to-resolving-and-preventing-discord-audio-disruptions/"><u>2024'S Definitive Manual to Resolving and Preventing Discord Audio Disruptions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 12 without Passcode or Face ID</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-game-sound-issues-solved-fix-no-audio-on-windows-11/"><u>Anthem Game Sound Issues Solved: Fix No Audio on Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/assassins-creed-mirage-wont-start-top-fixes-and-troubleshooting-steps/"><u>Assassin's Creed: Mirage Won't Start? Top Fixes & Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-tozo-t6-errors-in-a-windows-11-environment/"><u>Diagnosing and Resolving Tozo T6 Errors in a Windows ([11) Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-restoring-your-beyond-the-wire-microphone-to-full-functionality/"><u>Expert Tips on Restoring Your 'Beyond The Wire' Microphone to Full Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-for-black-screen-crisis-in-win-based-playing/"><u>Remedies for Black Screen Crisis in Win-Based Playing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-the-silent-issue-audio-restored-in-wow/"><u>Resolved: Fixing the Silent Issue – Audio Restored in WoW</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplify-information-storage-via-mematic/"><u>Simplify Information Storage via Mematic</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-outdoor-security-floodlights-in-2/"><u>Top Rated Outdoor Security Floodlights in 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-non-functioning-headphone-port-on-your-laptop-solved/"><u>Troubleshooting a Non-Functioning Headphone Port on Your Laptop - Solved!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-restoring-audio-for-call-of-dutys-warzone-2024-update/"><u>Troubleshooting Steps: Restoring Audio for Call of Duty's Warzone 2024 Update</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-short-form-trimming-videos-for-youtube/"><u>2024 Approved Mastering Short-Form Trimming Videos for YouTube</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-slow-motion-tips-and-tricks-for-windows-live-movie-maker-users/"><u>Get Creative with Slow Motion Tips and Tricks for Windows Live Movie Maker Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-obtaining-high-quality-photos-without-restrictions/"><u>In 2024, Obtaining High-Quality Photos Without Restrictions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silent-world-restoring-sounds-to-cyberpunk-2077-on-windows-11/"><u>No More Silent World: Restoring Sounds to Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-users-guide-fixing-zoom-sound-issues-effectively/"><u>PC Users Guide: Fixing Zoom Sound Issues Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-blackshark-v2-microphone-issues-heres-how-to-get-it-working-again/"><u>Razer BlackShark V2 Microphone Issues? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-microphone-problem-solved-a-step-by-step-guide/"><u>Razer Man O' War Microphone Problem Solved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/sifting-through-time-finding-old-fb-posts/"><u>Sifting Through Time: Finding Old FB Posts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-epson-xp-430-driver-download-on-pc/"><u>Step by Step Tutorial for Epson XP-430 Driver Download on PC</u></a></li>
 </ul></div>
 

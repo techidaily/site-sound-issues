@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Repair Non-Functional Microphone on the Turtle Beach Elite Atlas
-date: 2024-10-04T05:45:34.230Z
-updated: 2024-10-07T08:18:16.914Z
+date: 2024-10-09T17:35:44.688Z
+updated: 2024-10-13T00:13:16.139Z
 tags:
   - win11
   - win10
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Check your microphone settings**
@@ -51,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 2. Click the **Recording**  tab, s  elect the microphone you’re using and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 3. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
@@ -73,22 +72,22 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
- Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
 
 ### **Fix 3: Update your audio driver**
 
@@ -117,6 +116,13 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Troubleshoot hardware issues**
 
  If none of the fixes works for you, it’s time to troubleshoot hardware issues. You can follow the steps below to troubleshoot hardware issues:
@@ -144,24 +150,20 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-insta-prowess-guide-the-9-secrets-behind-top-posters-success/"><u>[New] Insta Prowess Guide The 9 Secrets Behind Top Posters' Success</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streamlining-social-media-interactions-tiktok-to-fb/"><u>[Updated] 2024 Approved Streamlining Social Media Interactions TikTok to FB</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unlock-the-secrets-to-increasing-views-in-60-second-youtube-shorts/"><u>[Updated] In 2024, Unlock the Secrets to Increasing Views in 60-Second YouTube Shorts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-removing-advertisements-from-youtube-videos-on-chromefirefox/"><u>[Updated] Removing Advertisements From YouTube Videos on Chrome/Firefox</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-creation-a-closer-look-at-magix-video-pro-x/"><u>[Updated] Seamless Creation A Closer Look at Magix Video Pro X</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-supreme-narrative-designers-den/"><u>2024 Approved Supreme Narrative Designer's Den</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/airpods-connected-yet-mute-resolving-the-issue-on-pc/"><u>AirPods Connected Yet Mute: Resolving the Issue on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-sound-fixes-for-windows-10-users-say-goodbye-to-quiet-mode/"><u>Effortless Sound Fixes for Windows 10 Users – Say Goodbye to Quiet Mode</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 6</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-with-lucidsound-ls30-mics-fixes-and-solutions-for-optimal-performance/"><u>Overcoming Common Problems with LucidSound LS30 Mics - Fixes and Solutions for Optimal Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-steps-to-restore-audio-in-google-hangouts-when-the-mic-fails/"><u>Simple Steps to Restore Audio in Google Hangouts When the Mic Fails</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-your-device-when-paired-via-bluetooth/"><u>Solved! How to Restore Sound on Your Device When Paired via Bluetooth</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-voice-chat-not-responding-problems-in-playerunknowns-battlegrounds/"><u>Solving 'Voice Chat Not Responding' Problems in PlayerUnknown's Battlegrounds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-steps-for-removing-microsoft-points-out/"><u>Streamlined Steps for Removing Microsoft' Points Out</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-alarm-tones-optimal-websites-list/"><u>Ultimate Alarm Tones Optimal Websites List</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-no-sound-in-pc-viewed-facebook-videos-latest-strategies-of-2e24/"><u>Ultimate Fixes for No Sound in PC-Viewed Facebook Videos – Latest Strategies of 2E24</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/k-potential-the-best-hr-vlogs-1-10/"><u>Unlock Potential The Best HR Vlogs #1-10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/warzone-microphonevoice-communication-problems-solved-for-both-desktop-and-gaming-systems/"><u>Warzone Microphone/Voice Communication Problems Solved for Both Desktop and Gaming Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-bandicam-review-2023-everything-you-need-to-know-for-2024/"><u>[New] Bandicam Review 2023 – Everything You Need To Know for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revisit-and-refine-your-past-editing-fbs-look-back-videos/"><u>[Updated] 2024 Approved Revisit and Refine Your Past Editing FB's Look Back Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-effortlessly-record-movies-on-win10/"><u>2024 Approved How to Effortlessly Record Movies on Win10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-lucidsound-ls30-microphones-that-wont-turn-on-or-function-properly/"><u>Effective Fixes for LucidSound LS30 Microphones That Won't Turn On or Function Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-playback-errors-in-razer-kraken-microphone/"><u>Expert Advice: Resolving Playback Errors in Razer Kraken Microphone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-visual-guide-to-excellent-collage-making/"><u>In 2024, A Visual Guide to Excellent Collage Making</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-precise-mac-recording-without-costs/"><u>In 2024, Precise Mac Recording Without Costs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-directory-for-vr-display-venues/"><u>In 2024, Ultimate Directory for VR Display Venues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-vrijetijdige-verzamelaar-flv-naar-swf-professioneel-gestalteerde-movavi-oplage/"><u>Online Vrijetijdige Verzamelaar FLV Naar SWF - Professioneel Gestalteerde Movavi Oplage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reinstating-active-status-on-a-windows-scanner-device/"><u>Reinstating Active Status on a Windows Scanner Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-windows-audio-stutter-problems-with-easy-fixes-for-bluetooth-devices/"><u>Solve Your Windows Audio Stutter Problems with Easy Fixes for Bluetooth Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-complete-audio-loss-for-cod-black-ops-cold-war-on-windows-machines-fixed/"><u>Troubleshoot Complete Audio Loss for COD: Black Ops Cold War on Windows Machines [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-speaker-problems-in-windows-11-and-7/"><u>Troubleshooting Audio Issues - Solving Speaker Problems in Windows 11 and 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-sound-issues-identifying-and-solving-audible-pop-problems/"><u>Windows Sound Issues: Identifying and Solving Audible Pop Problems</u></a></li>
 </ul></div>
 

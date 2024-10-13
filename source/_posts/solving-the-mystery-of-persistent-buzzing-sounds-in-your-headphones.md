@@ -1,7 +1,7 @@
 ---
 title: Solving the Mystery of Persistent Buzzing Sounds in Your Headphones
-date: 2024-09-11T18:12:04.440Z
-updated: 2024-09-16T18:50:23.546Z
+date: 2024-10-05T18:02:53.050Z
+updated: 2024-10-12T23:32:12.404Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
@@ -74,6 +81,13 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  Check if the headphone crackling problem persists. If yes, then congrats! But if it still persists, you should try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -91,10 +105,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -106,6 +120,14 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
@@ -113,26 +135,19 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -159,5 +174,21 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-barriers-to-affordable-editing-power/"><u>[New] Breaking Down Barriers to Affordable Editing Power</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ncome-growth-in-gaming-videos/"><u>[New] Income Growth in Gaming Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essential-steps-for-exceptional-photographic-assemblies/"><u>2024 Approved Essential Steps for Exceptional Photographic Assemblies</u></a></li>
+<li><a href="https://win-data.techidaily.com/automatic-onedrive-sync-with-windows-11-unauthorized-backups-explored-techspotted/"><u>Automatic OneDrive Sync with Windows 11: Unauthorized Backups Explored | TechSpotted</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Exploring Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-anniversary-graphics-kit/"><u>In 2024, Anniversary Graphics Kit</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-the-art-of-uploading-crisp-clear-hd-content-onto-your-youtube-channel/"><u>Mastering the Art of Uploading Crisp, Clear HD Content Onto Your YouTube Channel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-volume-and-quality-issues-within-the-world-of-resident-evil-village/"><u>Overcoming Volume and Quality Issues Within the World of Resident Evil Village</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-mic-a-5-step-guide-to-restoring-microphone-functionality/"><u>Revive Your Razer Mic: A 5-Step Guide to Restoring Microphone Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silenced-anthem-in-windows-11-top-fixes-for-restoring-gaming-audio/"><u>Silenced Anthem in Windows 11 - Top Fixes for Restoring Gaming Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-the-astro-a10-microphone-issue-step-by-step-guide/"><u>Solved: Fixing the Astro A10 Microphone Issue - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014724497-troubleshooting-recurrent-audio-drops-on-your-windows-11-pc-solutions/"><u>Troubleshooting Recurrent Audio Drops on Your Windows 11 PC - Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-loudness-easy-tips-to-increase-sound-levels-in-windows-10-computers/"><u>Unlocking Loudness: Easy Tips to Increase Sound Levels in Windows 10 Computers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlocking-youtube-success-elite-video-tagging-secrets/"><u>Unlocking YouTube Success Elite Video Tagging Secrets</u></a></li>
+</ul></div>
 

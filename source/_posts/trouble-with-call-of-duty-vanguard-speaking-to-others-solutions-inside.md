@@ -1,7 +1,7 @@
 ---
 title: Trouble with Call of Duty Vanguard Speaking to Others? Solutions Inside
-date: 2024-09-30T06:36:56.715Z
-updated: 2024-10-06T23:26:57.724Z
+date: 2024-10-06T18:56:16.231Z
+updated: 2024-10-12T21:09:09.499Z
 tags:
   - win11
   - win10
@@ -43,26 +43,19 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Click the **Recording**  tab, s  elect the microphone you’re using and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 3. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if your Logitech G633 mic works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -74,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -103,17 +89,31 @@ There are two ways to update your sound card driver: **manually**  and **automat
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee  ).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
@@ -143,22 +143,19 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-discovering-clearer-communication-a-guide-to-discords-text-to-speech-for-2024/"><u>[New] Discovering Clearer Communication A Guide to Discord's Text-to-Speech for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-first-to-last-your-guide-to-youtube-video-looping-101-for-2024/"><u>[New] From First to Last Your Guide to YouTube Video Looping 101 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-harnessing-your-creative-power-with-ipad-for-time-lapses/"><u>[New] Harnessing Your Creative Power with iPad for Time-Lapses</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-say-thanks-free-and-subscribed-outro-samples-available-for-2024/"><u>[New] Say Thanks! Free & Subscribed Outro Samples Available for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-experts-guide-to-infinite-space-utilization/"><u>[Updated] Expert's Guide to Infinite Space Utilization</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-audio-verification-master-the-art-of-microphone-tests/"><u>Effortless Audio Verification: Master the Art of Microphone Tests!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-disconnected-epson-on-windows-os/"><u>Fixing Disconnected Epson on Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-logitech-g-pro-x-microphone-to-work-perfectly-again/"><u>Getting Your Logitech G Pro X Microphone to Work Perfectly Again</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-update-error-0xc1900101-0x30017-in-windows-10-and-11/"><u>How to Fix the Update Error 0xC1900101 – 0X30017 in Windows 10 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-visual-impact-strategic-planning-for-viral-video-campaigns/"><u>In 2024, Instagram Visual Impact Strategic Planning for Viral Video Campaigns</u></a></li>
-<li><a href="https://win-help.techidaily.com/microsofts-discreet-update-sparks-major-backlash-unveiling-the-details/"><u>Microsoft's Discreet Update Sparks Major Backlash: Unveiling the Details</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reawaken-your-audio-resolving-the-no-sound-issue-with-conexant-smartaudio-hd-on-windows-1nk/"><u>Reawaken Your Audio: Resolving the No Sound Issue with Conexant SmartAudio HD on Windows 1Nk</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-mic-here-are-the-steps-to-restore-your-microphones-voice-functionality/"><u>Silent Mic? Here Are The Steps to Restore Your Microphone's Voice Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-restoring-audio-in-windows-during-a-zoom-call/"><u>Solving the Silent Issue: Restoring Audio in Windows During a Zoom Call</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-unresponsive-headphones-on-your-windows-10-system/"><u>Troubleshoot and Repair Unresponsive Headphones on Your Windows 10 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017057033-windows-10-speaker-setup-errors-heres-how-to-identify-and-solve-the-problem/"><u>Windows 10 Speaker Setup Errors? Here's How to Identify and Solve the Problem!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-conclusion-to-your-youtube-journey-for-2024/"><u>[New] The Ultimate Conclusion to Your YouTube Journey for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-compelling-compositions-effects-on-text/"><u>[Updated] 2024 Approved Crafting Compelling Compositions Effects on Text</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-single-pictures-creating-a-story-with-montages/"><u>[Updated] Beyond Single Pictures Creating a Story with Montages</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pro-video-creators-choice-10-exceptional-photo-background-alternators/"><u>2024 Approved Pro Video Creators' Choice 10 Exceptional Photo-Background Alternators</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/descargar-la-herramienta-gratuita-para-convertir-archivos-3gp-a-formatos-de-video-mov-y-mp4/"><u>Descargar La Herramienta Gratuita Para Convertir Archivos 3GP a Formatos De Vídeo MOV Y MP4</u></a></li>
+<li><a href="https://media-tips.techidaily.com/flawless-transformation-how-to-change-mkv-videos-into-mp4-without-compromising-on-quality/"><u>Flawless Transformation: How to Change MKV Videos Into MP4 Without Compromising on Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-switch-your-screens-on-board-typing-feature-onoff-on-windows-11/"><u>How to Switch Your Screen's On-Board Typing Feature ON/OFF on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instantly-restore-audio-expert-tips-for-repairing-computer-sound-failures/"><u>Instantly Restore Audio: Expert Tips for Repairing Computer Sound Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-reactivating-sound-support-for-your-firefox-web-surfing-experience/"><u>Quick Fix: Reactivating Sound Support for Your Firefox Web Surfing Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-systems-audio-problems-fixing-windows-117-sound-disruptions-now/"><u>Resolve Your System's Audio Problems - Fixing Windows 11/7 Sound Disruptions Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixes-for-non-operational-audio-services/"><u>Resolved: Fixes for Non-Operational Audio Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving Microphone Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/section-2c-similar-questions-with-solutions/"><u>Section 2C: Similar Questions with Solutions</u></a></li>
 </ul></div>
 

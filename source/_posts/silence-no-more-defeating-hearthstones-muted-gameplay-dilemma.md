@@ -1,7 +1,7 @@
 ---
 title: "Silence No More: Defeating Hearthstone's Muted Gameplay Dilemma"
-date: 2024-10-03T20:24:13.165Z
-updated: 2024-10-06T19:13:42.845Z
+date: 2024-10-07T17:39:57.529Z
+updated: 2024-10-13T02:48:39.378Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -55,33 +62,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
@@ -90,10 +84,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
@@ -103,10 +97,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -140,10 +134,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -173,24 +167,21 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ree-cash-flow-estimator-apps/"><u>[New] Free Cash Flow Estimator Apps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-high-quality-webcam-videos-with-best-editors/"><u>[Updated] 2024 Approved High-Quality Webcam Videos with Best Editors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pure-pitch-perception-recording-in-mac-studios/"><u>[Updated] In 2024, Pure Pitch Perception Recording in Mac Studios</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-best-of-the-best-8-mirrorless-cameras-for-live-streaming/"><u>[Updated] The Best of the Best 8 Mirrorless Cameras for Live Streaming</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-how-to-get-your-corsair-hs35-microphone-functioning-on-windows/"><u>Fixes & Solutions: How to Get Your Corsair HS35 Microphone Functioning on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015309438-hp-laptop-audio-problems-solve-the-silent-pc-issue-in-windows-10-here/"><u>HP Laptop Audio Problems? Solve the Silent PC Issue in Windows 10 Here</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-a05-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy A05 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-alias-transformation-on-google-meet-platforms/"><u>In 2024, Mastering Alias Transformation on Google Meet Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-effective-strategies-for-dealing-with-recent-sound-disruptions/"><u>Overcoming Audio Hurdles: Effective Strategies for Dealing with Recent Sound Disruptions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/perfect-posts-every-time-mastering-instagram-video-uploads-on-desktop/"><u>Perfect Posts Every Time Mastering Instagram Video Uploads on Desktop</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/public-domain-game-music-downloads-for-2024/"><u>Public Domain Game Music Downloads for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-non-functioning-razer-headset-mic-follow-these-5-steps/"><u>Quick Fixes for a Non-Functioning Razer Headset Mic – Follow These 5 Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-laptops-sound-issues-with-these-proven-strategies/"><u>Resolve Your Laptop's Sound Issues with These Proven Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-the-silent-problem-restoring-audio-on-windows-11-with-conexant-smartaudio/"><u>Resolving the Silent Problem: Restoring Audio on Windows 11 with Conexant SmartAudio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-overcoming-used-by-another-app-hdmi-issues-on-your-device/"><u>Solution Guide: Overcoming 'Used By Another App' HDMI Issues on Your Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-world-of-warcraft-chatting-problems-a-comprehensive-solution/"><u>Solve Your World of Warcraft Chatting Problems – A Comprehensive Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-logitech-g-pro-x-mic-solutions-when-it-wont-work/"><u>Troubleshooting Your Logitech G Pro X Mic: Solutions When It Won't Work</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-master-the-art-of-virality-on-tiktok-with-50plus-powerful-lyrics-for-2024/"><u>[Updated] Master the Art of Virality on TikTok with 50+ Powerful Lyrics for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-play-40c-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor Play 40C Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-outstanding-no-cost-alternatives-to-skype/"><u>5 Outstanding No-Cost Alternatives to Skype</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-ebx-7-noise-free-audio-on-windows-tips-and-tricks-to-resolve-the-high-pitched-sound-issue/"><u>Arctis Ebx 7 Noise-Free Audio on Windows: Tips and Tricks to Resolve the High-Pitched Sound Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-to-speed-up-your-slow-responding-keyboard/"><u>Effortless Fixes to Speed Up Your Slow-Responding Keyboard</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-fortnite-voice-chat-issues-instantly-simple-solutions/"><u>Fix Your Fortnite Voice Chat Issues Instantly: Simple Solutions!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-permanently-remove-subtitles-from-amazon-prime-videos/"><u>How to Permanently Remove Subtitles From Amazon Prime Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-discord-voice-call-problems-a-step-by-step-solution/"><u>How to Resolve 'Discord Voice Call Problems': A Step-by-Step Solution</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-save-pc-sound-frequencies-and-mic-dialogue/"><u>In 2024, Save PC Sound Frequencies & Mic Dialogue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-x7b-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor X7b Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015473941-lost-your-astro-a50s-audio-heres-how-to-restore-it-fast-and-easy/"><u>Lost Your Astro A50's Audio? Here's How to Restore It Fast and Easy!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-overcoming-bluetooth-connectivity-challenges-in-windows-11/"><u>Mastering the Fix: Overcoming Bluetooth Connectivity Challenges in Windows 11</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/patent-dispute-escalates-as-hewlett-packard-enterprise-accuses-inspur-of-copyright-breach-while-flouting-sanctions-to-operate-stateside/"><u>Patent Dispute Escalates as Hewlett-Packard Enterprise Accuses Inspur of Copyright Breach While Flouting Sanctions to Operate Stateside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-repairing-your-non-functional-headset-mic/"><u>Step-by-Step Solution: Repairing Your Non-Functional Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-disabling-audio-boost-in-windows-10-system/"><u>Step-by-Step Tutorial for Disabling Audio Boost in Windows 10 System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-cddvd-converter-pro-simple-and-fast-mp4-extraction-with-winx-dvd-ripper/"><u>Windows 10 CD/DVD Converter Pro: Simple & Fast MP4 Extraction with WinX DVD Ripper</u></a></li>
 </ul></div>
 

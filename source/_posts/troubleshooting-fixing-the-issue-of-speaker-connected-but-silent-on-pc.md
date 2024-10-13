@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing the Issue of 'Speaker Connected but Silent' On PC"
-date: 2024-09-14T18:42:09.330Z
-updated: 2024-09-16T18:15:57.451Z
+date: 2024-10-08T03:47:28.179Z
+updated: 2024-10-13T01:25:29.790Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -47,11 +54,25 @@ Follow these:
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
@@ -59,16 +80,10 @@ Follow these:
 ###
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
@@ -92,13 +107,6 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Log in Skype and check to see if your Microphone works.
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
@@ -116,5 +124,20 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-for-optimal-youtube-video-brightness/"><u>[New] In 2024, Guidelines for Optimal YouTube Video Brightness</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-file-extraction-from-youtube-browser-os-and-terminal-methods/"><u>[New] Navigating File Extraction From Youtube Browser, OS and Terminal Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-pro-windows-10-mastery-hacks/"><u>[Updated] Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-discords-persistent-echo-problem-in-windows-comprehensive-2024-manual/"><u>Eliminate Discord's Persistent Echo Problem in Windows (Comprehensive 2024 Manual)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-dealing-with-unexpected-audio-output-headphones-vs-speaker-confusion-resolved/"><u>Expert Advice for Dealing With Unexpected Audio Output - Headphones Vs. Speaker Confusion Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-microsoft-teams-microphone-issue-solutions-for-windows-11-and-10-users/"><u>Fix Your Microsoft Teams Microphone Issue: Solutions for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-reno-8t-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-7-hd-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 7 HD to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-stitching-of-gopro-videos-into-complete-360-imagery/"><u>In 2024, Perfect Stitching of GoPro Videos Into Complete 360 Imagery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/killer-network-driver-update-available-free-download-and-installation-guide-for-windows-11-8-and-e7/"><u>Killer Network Driver Update Available: Free Download & Installation Guide for Windows 11, 8 and E7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-getting-your-conexant-hd-microphone-and-headset-functioning-in-windows-11/"><u>Step-by-Step Guide: Getting Your Conexant HD Microphone and Headset Functioning in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-your-astro-a20s-audio-input-easily/"><u>Troubleshoot and Restore Your Astro A20's Audio Input Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functional-logitech-g633-mic/"><u>Troubleshooting Steps for a Non-Functional Logitech G633 Mic</u></a></li>
+</ul></div>
 

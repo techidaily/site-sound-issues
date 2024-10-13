@@ -1,7 +1,7 @@
 ---
 title: "Get Your SteelSeries Arctis Headphones Mic Working Again: Practical Solutions"
-date: 2024-09-14T18:10:58.090Z
-updated: 2024-09-16T21:02:11.848Z
+date: 2024-10-07T18:00:46.150Z
+updated: 2024-10-13T00:24:13.572Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
 
  Unlike SteelSeries Arctis 7, 9, and 9X, there’s no factory reset button on Arctis 1\. So if the issue is not on your headphone’s end, please check if you have allowed access to your microphone. Here’s how:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### in Windows 10
 
 1. On your keyboard, press the**Windows** logo key to invoke the Search box and type**microphone** .
@@ -55,15 +62,15 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microphone-setup.jpg)
 3. Under the**Allow Apps To Access Your Microphone** tab, ensure that the toggle is in the**On** position so that other apps can use your microphone.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/on.jpg)
 4. Scroll down to choose which app can access your microphone, and make sure that you have it set for all the apps you want.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![choose apps to allow](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps-microphone.jpg)
 5. Now check if your mic is working for the app you’re using.
@@ -73,6 +80,14 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and**I** at the same time to open the Windows Settings.
 2. From the left pane, select**Privacy & security** . Then scroll down to the**App permissions** section, and click**Microphone** .![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-settings-microphone.jpg)
 3. You will now see a toggle switch labeled**Let apps access your microphone** . Click on this**toggle switch** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/toggle-switch.jpg) to enable microphone access for your apps.![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-microphone-access.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If you want to grant microphone access to specific apps, just scroll down to find the App you want in the list, and then toggle the microphone access on or off as needed.![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-microphone-on-and-off.jpg)
 5. Once you’ve made your selections, close the Settings window. Your microphone permissions are now set up as desired on Windows 11.
 
@@ -83,16 +98,10 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
  Normally, Windows can automatically detect your microphone and set iy as the default input device once your headphone is plugged into it. But sometimes you’ll need to set it as the default device manually:
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### in Windows 10
@@ -100,6 +109,13 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
 1. Right-click on the sound icon in the lower-right corner of your desktop, and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sounds.jpg)
 2. Go to the**Recording** tab, and make sure your**Headset Microphone** is set as the default device. If not, select your headphone and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![set as default microphone](https://images.drivereasy.com/wp-content/uploads/2020/12/default.png)
 3. Also, make sure it displays your headphone name correctly and shows strong signals, which means your computer successfully recognizes your device. If your headphone is shown as something else such as Wireless Controller (below), there’s something wrong with your mic settings, so you should re-connect your headset.  
@@ -113,6 +129,13 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels.jpg)
 6. Click **OK** to apply the changes, and then click **OK** on the last window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### in Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -122,19 +145,6 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 4. In the Properties window, select the**Sound** tab. make sure it displays your headphone name correctly and shows strong signals, which means your computer successfully recognizes your device. If your headphone is shown as something else, there’s something wrong with your mic settings, so you should re-connect your headset.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. If the display name and signal are normal, right-click **Headset Microphone** and click **Properties** .
 6. Click the **Levels** tab, then drag the volume slider towards the largest value (100).
@@ -157,6 +167,13 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
@@ -167,10 +184,10 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
  Did it fix your SteelSeries Arctis 1 not working issue? If the answer is still a no, don’t worry. You can head onto our next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Install the latest SteelSeries Engine software
@@ -184,13 +201,6 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
 4. Select your operating system to start downloading.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/select-OS.jpg)
 5. Once complete, run this executable file and follow the on-screen instructions to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Replug your SteelSeries Arctis 1 into your computer and run this software. Your headset now should be recognized successfully.
 
@@ -216,5 +226,20 @@ The Arctis 1 is an all-platform gaming headset with a detachable mic and high-qu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-nes-switch-brawlers-the-ultimate-10-game-guide/"><u>[New] 2024 Approved NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ahead-of-the-curve-best-hydro-games-compiled/"><u>[Updated] Ahead of the Curve Best Hydro Games Compiled</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-harnessing-power-in-pixels-top-10-instagram-video-ad-mastery-techniques-for-2024/"><u>[Updated] Harnessing Power in Pixels Top 10 Instagram Video Ad Mastery Techniques for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-online-music-potential-with-imovie-and-youtube/"><u>[Updated] Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-solutions-eliminate-popping-sounds-from-logitech-g-pro-x-for-crystal-clear-pc-audio/"><u>2024 Solutions: Eliminate Popping Sounds From Logitech G Pro X for Crystal Clear PC Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-fix-for-mute-computers-restoring-audio-without-hassle/"><u>Effortless Fix for Mute Computers: Restoring Audio Without Hassle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-eliminating-audio-interruptions-in-bluetooth-devices-on-windows-11/"><u>Fixing the Issue: Eliminating Audio Interruptions in Bluetooth Devices on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-s17t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo S17t to iPod | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x50iplus-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor X50i+</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Pro Phone without PIN</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-increasing-youtube-video-size/"><u>In 2024, Techniques for Increasing YouTube Video Size</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/iphone-sound-fixes-overcoming-noise-problems-for-a-cleaner-listening-experience/"><u>IPhone Sound Fixes: Overcoming Noise Problems for a Cleaner Listening Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/msstdfmtdll-missing-diagnose-and-fix-common-windows-system-errors-with-ease/"><u>Msstdfmt.dll Missing: Diagnose and Fix Common Windows System Errors with Ease</u></a></li>
+</ul></div>
 

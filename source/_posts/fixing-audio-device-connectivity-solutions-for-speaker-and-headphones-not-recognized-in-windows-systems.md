@@ -1,7 +1,7 @@
 ---
 title: "Fixing Audio Device Connectivity: Solutions for Speaker and Headphones Not Recognized in Windows Systems"
-date: 2024-10-05T00:39:50.635Z
-updated: 2024-10-07T08:47:02.177Z
+date: 2024-10-09T01:38:09.697Z
+updated: 2024-10-12T20:10:10.017Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Check your microphone settings**
 
 This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
@@ -43,30 +56,23 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
@@ -81,10 +87,10 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
@@ -105,15 +111,16 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### **Fix 4: Troubleshoot hardware issues**
@@ -143,21 +150,16 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-adopt-a-universal-strategy-how-to-record-your-favorite-youtube-lives-on-any-device/"><u>[New] Adopt a Universal Strategy How To Record Your Favorite YouTube Lives on Any Device</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-must-collect-blog-for-business-8-trending-videos-on-facebook/"><u>[Updated] Must-Collect Blog for Business! 8 Trending Videos on Facebook</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-quick-guide-downloading-tiktok-for-mac-users/"><u>[Updated] Quick Guide Downloading TikTok for Mac Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flair-filled-images-top-10-screenshot-sticker-addons-on-iphonesandroids/"><u>2024 Approved Flair-Filled Images – Top 10 Screenshot Sticker Addons on iPhones/Androids</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-hot-40-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Hot 40 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016660835-discord-push-to-talk-malfunction-heres-how-you-can-repair-it/"><u>Discord Push-To-Talk Malfunction? Here’s How You Can Repair It!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-honor-magic-6-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Honor Magic 6.</u></a></li>
-<li><a href="https://video-capture.techidaily.com/editing-h265hevc-video-formats-in-windows-10-and-11-comprehensive-tutorial/"><u>Editing H.265/HEVC Video Formats in Windows 10 and 11: Comprehensive Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-audio-gear-reviving-a-dead-steelseries-halo-30-microphone/"><u>Getting the Most Out of Your Audio Gear: Reviving a Dead SteelSeries Halo 30 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-new-world-games-audio-issues/"><u>Guide to Fixing New World Game's Audio Issues</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photo-poetry-top-10-writing-tools-for-image-capture-on-iosandroid-for-2024/"><u>Photo Poetry Top 10 Writing Tools for Image Capture on iOS/Android for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-the-problem-of-a-silent-microphone-in-zoom-sessions-on-microsoft-operating-systems/"><u>Solution Guide: Resolving the Problem of a Silent Microphone in Zoom Sessions on Microsoft Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-1110-connection-problems-for-airpods-without-audio-output/"><u>Solving Windows 11/10 Connection Problems for AirPods Without Audio Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-boosting-speaker-output-on-your-pc-with-windows-11/"><u>Troubleshooting Tips: Boosting Speaker Output on Your PC with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unsticking-stuck-playback-a-guide-to-fixing-pebble-speakers/"><u>Unsticking Stuck Playback: A Guide to Fixing Pebble Speakers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-samsungs-new-flat-screen-marvel-un65ru8000fxza-and-its-cutting-edge-technology/"><u>Unveiling Samsung's New Flat-Screen Marvel: UN65RU8000FXZA and Its Cutting-Edge Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-share-screen-on-zoom-meeting-guide/"><u>[New] In 2024, Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-black-boxes-how-do-these-hidden-mechanisms-function/"><u>Decoding AI Black Boxes - How Do These Hidden Mechanisms Function?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/dysfonctionnement-du-disque-dur-toshiba-solutions-de-depannage-sous-windows/"><u>Dysfonctionnement Du Disque Dur Toshiba : Solutions De Dépannage Sous Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-setting-up-a-personalized-email-footer-with-godaddys-mail-service/"><u>Easy Tips for Setting Up a Personalized Email Footer with GoDaddy's Mail Service</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-all-inclusive-rundown-whats-behind-the-google-podcast-app/"><u>In 2024, All-Inclusive Rundown What's Behind the Google Podcast App?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-your-headphones-disturbing-whir-a-guide-to-eliminating-unwanted-sounds/"><u>Solving the Mystery of Your Headphone's Disturbing Whir: A Guide to Eliminating Unwanted Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-google-meet-mic-for-windows-11-and-10-a-step-by-step-guide-to-reconnect-sound/"><u>Troubleshoot Your Google Meet Mic for Windows 11 & 10 - A Step-by-Step Guide to Reconnect Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restoring-audio-on-your-google-hangouts-device/"><u>Troubleshooting Guide: Restoring Audio on Your Google Hangouts Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-mute-malfunctions-reviving-sound-on-your-digital-device/"><u>Ultimate Fix for Mute Malfunctions - Reviving Sound on Your Digital Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-repair-a-non-functional-onikuma-headset-mic/"><u>Ultimate Guide to Repair a Non-Functional Onikuma Headset Mic</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-f54-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy F54 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

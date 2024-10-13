@@ -1,7 +1,7 @@
 ---
 title: "Get Your Fortnite Game Back to Full Volume: Fixing the Sound Glitch"
-date: 2024-09-15T17:01:43.965Z
-updated: 2024-09-16T19:02:09.505Z
+date: 2024-10-09T18:04:26.988Z
+updated: 2024-10-12T20:45:01.897Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -71,6 +78,13 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
@@ -83,14 +97,14 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
- Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 ### 3\. Reinstall Discord
 
@@ -107,16 +121,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
@@ -140,5 +148,23 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-epic-escapades-10-roguelite-games-reviewed/"><u>[Updated] 2024 Approved Epic Escapades #10 Roguelite Games Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>[Updated] In 2024, Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-simplifying-media-share-fb-movies-for-whatsapp-users-for-2024/"><u>[Updated] Simplifying Media Share FB Movies for WhatsApp Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asmr-a-gateway-to-enhanced-self-care/"><u>2024 Approved ASMR A Gateway to Enhanced Self-Care</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/budding-buyers-guide-monetization-platforms-for-novice-channels-for-2024/"><u>Budding Buyers Guide Monetization Platforms for Novice Channels for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-when-struggling-to-open-realteks-hd-audio-manager/"><u>Effective Fixes When Struggling to Open Realtek's HD Audio Manager</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-fix-overcoming-tarkovs-graphics-hitch/"><u>Efficient Fix: Overcoming Tarkov's Graphics Hitch</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-install-and-activate-revo-app-manager-revouninstaller/"><u>How to Install and Activate Revo App Manager - RevoUninstaller</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigating-sound-challenges-in-resident-evil-village-a-step-by-step-solution-guide/"><u>Navigating Sound Challenges in Resident Evil Village – A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-voice-chat-not-functioning-expert-advice-to-restore-it/"><u>PUBG Voice Chat Not Functioning? Expert Advice to Restore It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-fixing-the-onikuma-microphone-issue/"><u>Solution Guide: Fixing the Onikuma Microphone Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-reactivating-the-voice-chat-feature-in-phasmophobia/"><u>Solution Steps: Reactivating the Voice Chat Feature in Phasmophobia</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-complete-guide-to-preserving-ps4-gameplay-moments-for-2024/"><u>The Complete Guide to Preserving PS4 Gameplay Moments for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015923517-troubleshoot-your-dell-sound-issues-in-minutes-with-these-simple-tips/"><u>Troubleshoot Your Dell Sound Issues in Minutes with These Simple Tips!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-repairing-your-bose-speakers-when-they-stop-functioning/"><u>Troubleshooting Tips: Repairing Your Bose Speakers When They Stop Functioning</u></a></li>
+</ul></div>
 

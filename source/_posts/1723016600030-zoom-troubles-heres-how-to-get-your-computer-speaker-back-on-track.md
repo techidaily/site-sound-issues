@@ -1,7 +1,7 @@
 ---
 title: Zoom Troubles? Here's How to Get Your Computer Speaker Back on Track
-date: 2024-10-02T16:43:35.238Z
-updated: 2024-10-07T09:55:20.772Z
+date: 2024-10-10T23:53:53.664Z
+updated: 2024-10-12T16:52:10.472Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
  If your microphone isn’t working on Zoom, please check out this[troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Troubleshoot the connection
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
  So does the driver update get your Zoom audio back on track? If not, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Configure the PC sound settings
 
  You need to configure the sound settings on your computer properly before Zoom can access your speaker and microphone. In most cases, your primary device will be set as default automatically, but if you’ve constantly changed between headsets and speakers, the settings might be messed up.
@@ -90,32 +83,55 @@ Below is how to configure a a correct setup:
 2. Select**Small icons** next to View by and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-2.jpg)
 3. Choose your preferred output device and click**Set Default** . Then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/set-as-default.jpg)
 4. Click the device and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements-3.jpg)
 5. On the**Enhnacements** tab, check**Disable all enhancements** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements.jpg)
 6. Back to your desktop, right-click the**speaker icon** on the taskbar and click**Open Volume mixer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-2.jpg)
 7. **Hold and drag the slider for Zoom** to turn up the volume.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
+
  Now see if the Zoom audio works as expected. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Check the Zoom settings
 
@@ -125,21 +141,14 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.jpg)
 2. Navigate to the**Audio** tab. Then, make sure you’re using the right device as Speaker and Microphone.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-1.jpg)
 3. Tick**Show in-meeting option to Turn on Original Sound** and disable**Echo cancellation** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-2.jpg)
@@ -155,10 +164,10 @@ Below is how to configure a a correct setup:
 2. Click the **Check for updates**  button. The available updates will be automatically downloaded and installed.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-2.jpg)
@@ -186,24 +195,17 @@ Below is how to configure a a correct setup:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-crystalclear-screenshot-on-w10/"><u>[New] 2024 Approved CrystalClear Screenshot on W10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-mac-screen-recorder-with-audio/"><u>[Updated] Best Mac Screen Recorder with Audio</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-building-your-brand-through-effective-fb-reel-strategies/"><u>[Updated] Building Your Brand Through Effective FB Reel Strategies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-instant-time-stamping-techniques-for-youtube-videos/"><u>2024 Approved Instant Time-Stamping Techniques for YouTube Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-audio-clarity-and-volume-in-windows-11-tips-and-tricks/"><u>Enhance Audio Clarity and Volume in Windows 11 - Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-hyperx-cloud-alpha-s-mic-back-on-track-expert-solutions/"><u>Get Your HyperX Cloud Alpha S Mic Back on Track - Expert Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/handheld-happiness-advanced-mounting-solutions/"><u>Handheld Happiness Advanced Mounting Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-14-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 14 Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-getting-sounds-through-speakers-when-headphones-are-connected/"><u>How to Fix: Getting Sounds Through Speakers When Headphones Are Connected</u></a></li>
-<li><a href="https://discover-community.techidaily.com/how-to-safely-buy-movavi-video-suite-at-a-steep-discount-a-complete-tutorial/"><u>How to Safely Buy Movavi Video Suite at a Steep Discount: A Complete Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/idt-hd-audio-support-in-windows-10-troubleshooting-and-solutions/"><u>IDT HD Audio Support in Windows 10 - Troubleshooting & Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-c51-video-recovery-recover-deleted-videos-from-realme-c51-by-fonelab-android-recover-video/"><u>Realme C51 Video Recovery - Recover Deleted Videos from Realme C51</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-troubleshooting-steps-for-non-functional-obs-audio-during-recordings/"><u>Solving the Mystery: Troubleshooting Steps for Non-Functional OBS Audio During Recordings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonfunctioning-cod-vanguard-voice-chat-feature/"><u>Step-by-Step Fix for Nonfunctioning Cod: Vanguard Voice Chat Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-eliminating-the-unwanted-crackle-from-your-logitech-arctis-7-headset-on-a-windows-pc/"><u>Step-by-Step Guide: Eliminating the Unwanted Crackle From Your Logitech Arctis 7 Headset on a Windows PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/stop-the-pop-play-smoothly-advanced-fixes-for-logitech-g-pro-x-pc-noise-latest-techniques-202n/"><u>Stop the Pop, Play Smoothly: Advanced Fixes for Logitech G Pro X PC Noise - Latest Techniques (202N)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-a-504-error-a-step-by-step-guide/"><u>Troubleshooting a 504 Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-next-level-content-creation-tools-post-vimeo/"><u>[New] 2024 Approved Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pinterest-vid-lifting-the-top-free-online-tools-list/"><u>[New] 2024 Approved Pinterest Vid Lifting The Top Free, Online Tools List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-peeking-at-high-resolution-display-innovation-the-dell-p2715q-review/"><u>[Updated] In 2024, Peeking at High-Resolution Display Innovation - The Dell P2715Q Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-outlining-operational-offshoots/"><u>2024 Approved Outlining Operational Offshoots</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-mov-formatos-a-mp4-sin-costo-usando-la-herramienta-en-linea-de-movavi/"><u>Convertir Mov Formatos a Mp4 Sin Costo Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-track-mic-testing-the-essential-guide-for-swift-speaker-verification/"><u>Fast-Track Mic Testing: The Essential Guide for Swift Speaker Verification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-problems-with-the-stereo-mix-feature-on-windows-and-mac-os/"><u>Fixing Problems with the Stereo Mix Feature on Windows and Mac OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-stuttering-sounds-comprehensive-guide-to-solving-bluetooth-audio-problems-in-windows-10-and-11/"><u>Fixing Stuttering Sounds: Comprehensive Guide to Solving Bluetooth Audio Problems in Windows 10 & 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hassle-free-strategies-to-correct-failed-tone-replay-problem/"><u>Hassle-Free Strategies to Correct 'Failed Tone Replay' Problem</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-100-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor 100 FRP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/lenovo-streamlined-screen-recording-guide/"><u>Lenovo Streamlined Screen Recording Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mac-professionals-recommendations-the-best-of-screenflow-for-2024/"><u>Mac Professionals Recommendations – The Best of ScreenFlow for 2024</u></a></li>
 </ul></div>
 

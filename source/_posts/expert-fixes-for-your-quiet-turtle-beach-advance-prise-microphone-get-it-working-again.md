@@ -1,7 +1,7 @@
 ---
 title: Expert Fixes for Your Quiet Turtle Beach Advance Prise Microphone – Get It Working Again!
-date: 2024-10-01T10:46:59.406Z
-updated: 2024-10-07T01:43:36.843Z
+date: 2024-10-09T17:52:00.843Z
+updated: 2024-10-13T00:36:32.033Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 
 **[5: Re-enable your headset via Device Manager](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Enable your headset mic for recording**
 
  The first thing you want to check on your PC is if you’ve enabled your headset mic for recording. Follow these steps:
@@ -58,32 +65,18 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_16-48-56.jpg)
 2. Switch to the**Recording** tab and find your headset device. If you don’t see it, right-click on the empty area then select**Show Disabled Devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_16-57-37.jpg)
 3. Right-click the headset then select**Enable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-06-58-1.jpg)
 
@@ -96,6 +89,14 @@ Check if your mic works. If not, try the next solution.
 1. On your taskbar, right-click**the Speaker icon** then click**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-29-54.jpg)
 2. **Set your headset as the input device** . You can also click**App volume and device preferences** for advanced options.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-35-44.jpg)
 3. You’ll be able to adjust the volume and output/input device for different apps as you need.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-38-57.jpg)
@@ -117,22 +118,8 @@ Check if your mic works. If not, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-35.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -140,10 +127,10 @@ Check if your mic works. If not, try the next solution.
  Restart your PC for the new driver to take effect. Check if your headset microphone works now. If it still won’t pick up your voice, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4:**Turn on microphone access on your PC**
@@ -155,6 +142,13 @@ Check if your mic works. If not, try the next solution.
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check if your headset mic is working. If this doesn’t give you luck, try the last solution below.
 
 ### Fix 5:**Re-enable your headset mic via Device Manager**
@@ -165,15 +159,23 @@ Check if your mic works. If not, try the next solution.
 2. Type**devmgmt.msc** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-30-17.jpg)
 3. Under**Audio inputs and outputs** , right-click your headset then select**Disable Device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-05-22.jpg)
 4. Again right-click your headset, then select**Enable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-10-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if your headset mic works.
@@ -205,24 +207,20 @@ Check if your headset mic works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-9-free-video-channel-logomakers-showcase-reviewed/"><u>[New] 2024 Approved Top 9 Free Video Channel Logomakers Showcase Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-easy-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>[New] Easy Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-dynamic-duo-combining-multiple-photos-for-impactful-stories/"><u>[Updated] Dynamic Duo Combining Multiple Photos for Impactful Stories</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-uniting-platforms-efficiently-share-fb-videos-to-whatsapp/"><u>[Updated] Uniting Platforms Efficiently Share FB Videos to WhatsApp</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-craft-contagious-instagram-visuals/"><u>2024 Approved How to Craft Contagious Instagram Visuals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>2024 Approved Metaverse and Multiverse Demystified An In-Depth Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-like-factor-techniques-for-traffic-driving-facebook-content/"><u>2024 Approved The Like Factor Techniques for Traffic-Driving Facebook Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-your-bluetooth-headphones-latency-with-simple-solutions/"><u>Banish Your Bluetooth Headphones' Latency with Simple Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-getting-your-turtle-beach-microphone-up-and-running-again/"><u>DIY Repair: Getting Your Turtle Beach Microphone Up and Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-dealing-with-a-malfunctioning-mic-on-your-arctis-7-by-steelseries/"><u>Effective Solutions for Dealing with a Malfunctioning Mic on Your Arctis 7 by SteelSeries</u></a></li>
-<li><a href="https://fox-http.techidaily.com/gopro-guide-achieving-excellent-underwater-cinematography/"><u>GoPro Guide Achieving Excellent Underwater Cinematography</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Moto G73 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-extollo-lansocket-1500-fast-data-transfer-and-efficient-power-sharing/"><u>In-Depth Analysis of Extollo LANSocket 1500: Fast Data Transfer & Efficient Power Sharing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battles-uncovering-the-reasons-behind-muted-apex-legends-audio-problems/"><u>Silent Battles: Uncovering the Reasons Behind Muted Apex Legends Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-logitech-g935-microphone-woes-expert-tips-for-windows-users/"><u>Solve Your Logitech G935 Microphone Woes - Expert Tips for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-unknown-speaker-configuration-in-windows-10/"><u>Step-by-Step Guide: Resolving Unknown Speaker Configuration in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-why-isnt-my-corsair-void-mic-functioning/"><u>Step-by-Step Repair: Why Isn't My Corsair Void Mic Functioning?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-microsoft-teams-microphone-issues-in-windows-11-and-10/"><u>Troubleshooting Fixes: How to Repair Microsoft Teams Microphone Issues in Windows 11 & 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-restoring-audio-with-hdmi-from-pc-display-and-television/"><u>Troubleshooting Steps: Restoring Audio with HDMI From PC, Display & Television</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-these-27-purely-free-youtube-audio-ripper-tools-for-2024/"><u>[New] Discover These 27 Purely Free YouTube Audio Ripper Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-art-of-advertising-a-guide-to-profit-making-on-vimeo/"><u>2024 Approved The Art of Advertising A Guide to Profit-Making on Vimeo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-narzo-60-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme Narzo 60 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-chosen-top-5-premium-drones-for-professionals/"><u>In 2024, Expertly Chosen Top 5 Premium Drones for Professionals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-rapid-capture-visuals-and-voices-together/"><u>In 2024, Rapid Capture Visuals & Voices Together</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-noir-world-of-microsoft-paint/"><u>Navigating the Noir World of Microsoft Paint</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-sound-expert-advice-for-repairing-a-broken-main-audio-input/"><u>Revive the Sound: Expert Advice for Repairing a Broken Main Audio Input</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-windows-7-mic-expert-solutions-for-audio-trouble-spots/"><u>Reviving Your Windows 7 Mic: Expert Solutions for Audio Trouble Spots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-fixing-logitech-g935-microphone-issues-in-windows/"><u>Solution Found: Fixing Logitech G935 Microphone Issues in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-glitches-resolve-your-pubg-voice-chat-woes-today/"><u>Solving Audio Glitches - Resolve Your PubG Voice Chat Woes Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-headphones-9-or-ex-solving-the-mic-not-functioning-problem/"><u>SteelSeries Arctis Headphones (9 or eX) - Solving the Mic Not Functioning Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-audio-functionality-in-dell-systems/"><u>Step-by-Step Guide to Restoring Audio Functionality in Dell Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-easy-way-to-detach-and-delete-epic-games-launcher-installer-on-windows-and-mac/"><u>The Easy Way to Detach and Delete Epic Games Launcher Installer on Windows and Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-merits-of-sns-hdr-vs-its-industry-contenders/"><u>The Merits of SNS HDR Vs. Its Industry Contenders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-laptop-audio-issues-a-comprehensive-guide/"><u>Troubleshoot and Fix Laptop Audio Issues: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution: Silence After Windows 11 Upgrade – Restore Audio Quickly"
-date: 2024-10-01T03:43:10.854Z
-updated: 2024-10-07T06:32:49.633Z
+date: 2024-10-11T01:38:09.296Z
+updated: 2024-10-13T01:20:25.595Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
@@ -56,22 +56,16 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if there’s any sound in your computer.
 
@@ -92,14 +86,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -117,10 +111,10 @@ Still no luck? Okay, there’s one more thing to try.
 6. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Restart your computer.
@@ -149,22 +143,24 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-resolve-ipadiphone-fb-video-playback-delays/"><u>[New] 2024 Approved Resolve iPad/iPhone FB Video Playback Delays</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-tricks-of-trade-remote-recording-mastery/"><u>[New] In 2024, Tricks of Trade Remote Recording Mastery</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-list-of-16-starter-videos-for-more-watchers/"><u>[Updated] Ultimate List of 16 Starter Videos for More Watchers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secret-finds-exclusive-free-speech-transcribers-for-mac/"><u>2024 Approved Secret Finds Exclusive Free Speech Transcribers for Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-computer-audio-a-guide-to-setting-up-unknown-speaker-systems-on-windows-10/"><u>Enhance Your Computer Audio: A Guide to Setting Up Unknown Speaker Systems on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-starting-dolby-pro-logic-iix-audio-on-windows-11-systems-without-errors/"><u>Expert Advice on Starting Dolby Pro Logic IIx Audio on Windows 11 Systems without Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-fixing-steelseries-arctis-amicrophone-problems/"><u>Expert Guide to Fixing SteelSeries Arctis Amicrophone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-muted-mystery-resolving-sound-problems-on-iphones/"><u>Fixing the Muted Mystery: Resolving Sound Problems on iPhones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-issue-audio-problems-in-borderlands-3-on-pc/"><u>Fixing the Silent Issue: Audio Problems in Borderlands 3 on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-5-best-finger-tech-for-virtual-reality-mastery/"><u>In 2024, 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-google-pixel-8-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Google Pixel 8 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-razer-blackshark-v2-mic-functionality/"><u>Quick Solutions to Restore Razer BlackShark V2 Mic Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-mic-problems-with-microsoft-teams-for-desktop-users-windows-1110-guide/"><u>Resolve Mic Problems with Microsoft Teams for Desktop Users - Windows 11/10 Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-audio-issues-in-windows-11/"><u>Resolved: Fixing Audio Issues in Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/superior-soundtracks-compilation-for-vids-for-2024/"><u>Superior Soundtracks Compilation for Vids for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-to-using-winxdvd-tips-and-tricks-for-successful-dvd-copying/"><u>The Ultimate Guide to Using WinXDVD - Tips and Tricks for Successful DVD Copying</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elite-game-line-up-best-7-fps-classics/"><u>[New] 2024 Approved Elite Game Line-Up Best 7 FPS Classics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unleashing-fun-crafting-amazing-youtube-reaction-videos-in-3-ways/"><u>[Updated] In 2024, Unleashing Fun Crafting Amazing YouTube Reaction Videos in 3 Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-ultimate-guide-burning-dvds-using-handbrake-on-windows-and-macos/"><u>1. 'Ultimate Guide: Burning DVDs Using HandBrake on Windows & MacOS '</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-14-pro-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 14 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-guide-getting-your-windows-11-mic-back-on-track/"><u>Complete Guide: Getting Your Windows 11 Mic Back on Track</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/comprehensive-guide-to-overcoming-xdk-errors-in-modern-warfare-2/"><u>Comprehensive Guide to Overcoming XDK Errors in Modern Warfare 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/csgo-voice-issues-demystified-quick-guide-for-mic-troubleshooting/"><u>CS:GO Voice Issues Demystified - Quick Guide for Mic Troubleshooting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-speaker-distortion-issues-on-windows-11-and-7-a-step-by-step-guide/"><u>Fixing Speaker Distortion Issues on Windows 11 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015561053-iphone-sound-malfunction-heres-how-to-restore-perfect-stereo-output/"><u>IPhone Sound Malfunction? Here’s How to Restore Perfect Stereo Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-fixes-for-counter-strikes-non-functional-voice-chat/"><u>Master the Fixes for Counter-Strike's Non-Functional Voice Chat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-microphone-troubleshooting-make-sure-it-picks-up-your-sound/"><u>Mastering Microphone Troubleshooting - Make Sure It Picks Up Your Sound</u></a></li>
+<li><a href="https://facebook.techidaily.com/networking-noteworthy-transformations-4-essential-shifts-in-social-media/"><u>Networking Noteworthy Transformations: 4 Essential Shifts in Social Media</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-stunning-gopro-footage-easy-editing-for-beginners/"><u>New 2024 Approved Unlock Stunning GoPro Footage Easy Editing for Beginners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-game-setup-errors-quickly-expert-advice-from-origin-games/"><u>Resolve Game Setup Errors Quickly – Expert Advice From Origin Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-man-o-war-microphone-troubleshooting-guide/"><u>Revive Your Razer Man O' War Microphone: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-computers-audio-resolve-audio-device-unavailable-on-various-windows-versions/"><u>Reviving Your Computer's Audio: Resolve 'Audio Device Unavailable' On Various Windows Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-mic-troubles-quickly-expert-tips-for-the-oculus-quest-2-headset/"><u>Solve Mic Troubles Quickly: Expert Tips for the Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-word-errors-effortlessly-with-these-5-tips-and-fixes/"><u>Troubleshoot Your WORD Errors Effortlessly with These 5 Tips & Fixes</u></a></li>
 </ul></div>
 

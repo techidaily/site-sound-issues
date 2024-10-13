@@ -1,7 +1,7 @@
 ---
 title: How to Restore Audio Functionality to a Broken Headphone Jack in Your Notebook
-date: 2024-10-01T21:23:12.746Z
-updated: 2024-10-06T23:20:27.611Z
+date: 2024-10-07T23:11:58.496Z
+updated: 2024-10-12T16:01:10.473Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  If the sound is still not working, here’s the next thing to try…
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Check the audio settings in your Windows**
 
  If the hardware is working properly, the sound issue can be caused by the**incorrect settings** in your laptop. Follow the steps below to check the settings for your sound.
@@ -62,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb12196f37.png)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Make sure your audio device is set as default
 
  1) Right click the**volume icon** at the bottom right corner, and click**Playback devices** .
@@ -82,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Check your audio device in the**Playback** tab. Make sure there’s a**green check** next to your audio device, and that shows that your audio device is the**default** playback device.
@@ -95,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Test the sound on your laptop so see whether there is any sound.
 
@@ -109,19 +110,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
@@ -143,23 +131,9 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Try the sound to see if it works.
 
@@ -187,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer and check whether your problem is solved.
 
 ### **Fix 4: Reinstall your audio driver**
@@ -200,28 +181,35 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click your sound device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for corrupted system files
 
@@ -243,16 +231,16 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -276,19 +264,20 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-maximum-definition-boost-expert-video-upscaler/"><u>[New] 2024 Approved Maximum Definition Boost Expert Video Upscaler</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-your-free-guide-to-android-device-screenshots/"><u>[Updated] In 2024, Your FREE Guide to Android Device Screenshots</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unseen-snappers-guide-the-art-of-stealthy-picture-recording-for-2024/"><u>[Updated] Unseen Snapper's Guide The Art of Stealthy Picture Recording for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Max Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-techniques-in-m4v-video-editing-discover-leading-software-solutions/"><u>Advanced Techniques in M4V Video Editing: Discover Leading Software Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/close-up-power-in-videoleap-zooming-made-easy/"><u>Close-Up Power in VideoLeap Zooming Made Easy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-easy-fixes-for-the-corsair-virtuoso-mic-issue/"><u>Common Problems & Easy Fixes for the Corsair Virtuoso Mic Issue</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/farm-frontier-the-best-seed-to-sow-in-gaming-for-2024/"><u>Farm Frontier The Best Seed to Sow in Gaming for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issues-troubleshooting-your-razer-kraken-microphone/"><u>Fixing the Issues: Troubleshooting Your Razer Kraken Microphone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-v27-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo V27</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-nokia-g310-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Nokia G310 to iPod | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-getting-your-windows-10-speakers-working-again/"><u>Quick Solutions: Getting Your Windows 10 Speakers Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-speakers-a-guide-to-restoring-audio-after-a-hdmi-hookup-with-laptop-monitor-and-tv/"><u>Reviving the Speakers! A Guide to Restoring Audio After a HDMI Hookup with Laptop, Monitor & TV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-connectivity-issues-with-your-logitech-g-pro-x-mic-a-comprehensive-guide/"><u>Solving Connectivity Issues with Your Logitech G Pro X Mic - A Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-screen-recorders-handbook-by-zd-soft-professionals/"><u>[New] In 2024, The Ultimate Screen Recorder’s Handbook by ZD Soft Professionals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-obs-tutorial-capturing-every-moment-of-gameplay/"><u>[New] OBS Tutorial Capturing Every Moment of Gameplay</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-next-level-cinema-selection-youtube-edition/"><u>[Updated] Next-Level Cinema Selection - YouTube Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-seamless-transformation-from-youtube-to-engaging-personalized-gifs/"><u>[Updated] Seamless Transformation From YouTube to Engaging, Personalized GIFs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-12-pro-max-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 12 Pro Max online without SIM Card?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-face-off-the-top-face-swap-apps-for-iphone-and-android-users/"><u>In 2024, Face Off The Top Face Swap Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-chromebook-video-editing-made-easy-top-online-tools/"><u>New 2024 Approved Chromebook Video Editing Made Easy Top Online Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-infinix-hot-40-pro-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Infinix Hot 40 Pro has been deleted.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014751190-silent-bluetooth-pairing-uncover-the-reasons-and-restore-your-audio-today/"><u>Silent Bluetooth Pairing: Uncover the Reasons and Restore Your Audio Today!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tilling-through-time-top-farmer-games-evolutions-for-2024/"><u>Tilling Through Time Top Farmer Games Evolutions for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-pubg-mobile-voice-chat-problems/"><u>Troubleshoot and Resolve PUBG Mobile Voice Chat Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-destiny-2/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in Destiny 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-no-sound-issues-with-your-beyond-the-wire-microphone/"><u>Troubleshooting Guide: How To Repair 'No Sound' Issues With Your Beyond The Wire Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-astro-a10s-nonfunctional-mic-solutions-proven-to-work/"><u>Troubleshooting Your Astro A10's Nonfunctional Mic: Solutions Proven to Work!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-glitches-troubleshooting-and-fixing-sound-interruptions/"><u>Windows 11 Audio Glitches: Troubleshooting and Fixing Sound Interruptions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate 2024 Troubleshooting Tips: Reviving Your Rust Microphone"
-date: 2024-10-06T01:12:12.360Z
-updated: 2024-10-06T17:17:50.331Z
+date: 2024-10-07T22:40:24.523Z
+updated: 2024-10-12T20:20:46.515Z
 tags:
   - win11
   - win10
@@ -42,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Allow Webex to access your microphone
 
  On a Windows PC, you can manually adjust the permission for your microphone and choose specific apps to access it. To let your microphone work with Webex and pick up voice without problems, you’ll need to turn on the permission.
@@ -51,32 +64,19 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your audio driver
 
@@ -107,6 +107,13 @@ There are mainly two ways you can update the audio driver:
 
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Check the Webex settings
 
  If your microphone works well with the browser or any programs but your Webex app, the cause may be related to the app’s settings. There’s a good chance that Webex doesn’t recognize the microphone you’re using and you’ll need to set it up properly via the following steps.
@@ -120,10 +127,10 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
@@ -149,22 +156,19 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unlock-the-door-to-others-tiktok-lives/"><u>[New] 2024 Approved Unlock the Door to Others' TikTok Lives</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-essential-tips-for-adding-text-to-instagram-videos/"><u>[Updated] 2024 Approved Essential Tips for Adding Text to Instagram Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-igtv-title-and-description-revision-for-2024/"><u>[Updated] Mastering IGTV Title & Description Revision for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-virtual-meetings-setting-up-video-calls-via-whatsapp-browser-on-pcs-for-2024/"><u>[Updated] Navigating Virtual Meetings Setting up Video Calls via WhatsApp Browser on PCs for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adapt-video-ratios-through-web-interface/"><u>Adapt Video Ratios Through Web Interface</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a10-microphone-malfunction-heres-how-to-restore-sound/"><u>Astro A10 Microphone Malfunction? Here's How to Restore Sound!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dealing-with-older-generations-of-usb-composite-devices-identifying-and-fixing-problems/"><u>Dealing With Older Generations of USB Composite Devices: Identifying and Fixing Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-for-non-functional-mpow-microphones-on-windows-systems/"><u>DIY Repair for Non-Functional MPOW Microphones on Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016124969-effortless-solutions-for-when-your-fortnite-microphone-fails-you/"><u>Effortless Solutions for When Your Fortnite Microphone Fails You!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-the-irritating-high-pitched-whine-fixes-for-headphone-audio-issues/"><u>Eliminating the Irritating High-Pitched Whine: Fixes for Headphone Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-pro-logic-iix-driver-errors-to-enable-audio-in-windows-11-systems/"><u>Fixing Dolby Pro Logic IIx Driver Errors to Enable Audio in Windows 11 Systems</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/guide-converting-vrt-nu-streams-into-mp4avimov-formats-for-pc-and-mac-users/"><u>Guide: Converting VRT NU Streams Into MP4/AVI/MOV Formats for PC & Mac Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-vr-multiplayer-the-future-of-language-learning-in-virtual-reality/"><u>Mondly VR Multiplayer: The Future Of Language Learning In Virtual Reality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016563930-no-more-quiet-combatants-solving-the-battlefield-4-silence-issue/"><u>No More Quiet Combatants - Solving the Battlefield [4] Silence Issue!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-and-fixing-your-onikuma-microphone-headset/"><u>Solved: Troubleshooting and Fixing Your Onikuma Microphone Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/struggling-with-a-silent-blue-yeti-mic-discover-these-proven-rectifying-steps/"><u>Struggling with a Silent Blue Yeti Mic? Discover These Proven Rectifying Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-hidden-gems-with-these-3-xbox-code-tips/"><u>Unlock Hidden Gems with These 3 Xbox Code Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-epson-wf-7710-drivers-on-windows-108187/"><u>[DOWNLOAD] EPSON WF-7710 Drivers on Windows 10/8.1/8/7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-avi-conversions-create-gifs-with-filmora-on-pcmac/"><u>[Updated] Streamlining AVI Conversions Create GIFs with Filmora on PC/Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-return-artisan-set/"><u>2024 Approved Return Artisan Set</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/a-glimpse-into-the-digital-frontier-todays-vr-for-2024/"><u>A Glimpse Into the Digital Frontier Today's VR for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-civi-3-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Civi 3</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/disable-windows-10-sonic-enhancements-for-better-audio-control/"><u>Disable Windows 10 Sonic Enhancements for Better Audio Control</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-audio-in-airpods-when-connected-to-pcs-running-windows-1110/"><u>How to Troubleshoot and Restore Audio in AirPods When Connected to PCs Running Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-tecno-pova-6-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Tecno Pova 6 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-premiere-pro-excellence-through-fs-views/"><u>In 2024, Premiere Pro Excellence Through FS Views</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-guide-to-free-youtube-closure-creation/"><u>Quick Guide to Free YouTube Closure Creation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-audio-issues-on-mozilla-firefox/"><u>Solved: Fixing Audio Issues on Mozilla Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-rust-microphone-issue-a-comprehensive-2024-how-to/"><u>Solving Your Rust Microphone Issue: A Comprehensive 2024 How-To</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-in-zoom-solutions-for-mute-mic-and-missing-sound-on-your-computer/"><u>Troubleshooting Audio Issues in Zoom: Solutions for Mute Mic and Missing Sound on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncovering-solutions-mend-a-silent-g435-audio-dilemma/"><u>Uncovering Solutions: Mend a Silent G435 Audio Dilemma</u></a></li>
 </ul></div>
 

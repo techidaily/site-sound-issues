@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Audio Setup: Fixing Inoperative Speakers on Windows 10 Systems"
-date: 2024-10-05T09:03:08.227Z
-updated: 2024-10-07T05:17:06.297Z
+date: 2024-10-07T04:17:20.380Z
+updated: 2024-10-13T03:41:45.018Z
 tags:
   - win11
   - win10
@@ -72,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Test the sound on your laptop so see whether there is any sound.
 
@@ -94,15 +94,22 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
@@ -120,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
@@ -135,20 +135,13 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Try the sound to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
@@ -169,25 +162,11 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that is missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
 
@@ -205,11 +184,32 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for corrupted system files
 
@@ -231,16 +231,16 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -264,18 +264,21 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-curating-striking-instagram-profile-photos/"><u>[New] Curating Striking Instagram Profile Photos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/breaking-down-the-speeds-of-the-asus-rt-ac68u-a-5g-wifi-gear-that-delivers-securely-and-swiftly/"><u>Breaking Down the Speeds of the Asus RT-AC68U – A 5G WiFi Gear that Delivers Securely and Swiftly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chatgpt-and-its-developers-unveiling-the-company-responsible-for-it/"><u>ChatGPT and Its Developers: Unveiling the Company Responsible for It</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-hp-officejet-4655-printer-drivers-latest-version/"><u>Download and Install HP OfficeJet 4655 Printer Drivers - Latest Version</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-menace-black-ops-cold-war-pc-troubleshooting-guide/"><u>Fixing the Silent Menace: Black Ops Cold War PC Troubleshooting Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-epson-v39-driver-upgrades-now-compatible-with-win7810/"><u>Get Your Epson V39 Driver Upgrades Now - Compatible with Win7/8/10!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-unlisted-headphone-devices-during-audio-playback-on-windows-10/"><u>How to Fix Unlisted Headphone Devices During Audio Playback on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-an-unresponsive-astro-a2/"><u>How to Repair an Unresponsive Astro A2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-when-your-lucidsound-ls30-mic-fails-to-work/"><u>How to Resolve Problems When Your LucidSound LS30 Mic Fails to Work</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimizing-your-pcs-audio-settings-on-windows-11-tips-and-tricks/"><u>Optimizing Your PC's Audio Settings on Windows 11: Tips & Tricks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/um-opening-scenes-top-16-youtube-intros-for-popularity-for-2024/"><u>Premium Opening Scenes Top 16 YouTube Intros for Popularity for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-laptops-silent-symphony-easy-fixes-for-internal-speaker-issues/"><u>Revive Your Laptop's Silent Symphony - Easy Fixes for Internal Speaker Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-secure-and-quality-the-best-5-conference-recorders-online/"><u>[New] Secure & Quality The Best 5 Conference Recorders Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-bluetooth-audio-stuttering-issues-on-windows-1011/"><u>[SOLVED] Bluetooth Audio Stuttering Issues on Windows 10/11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-of-the-web-the-10-leading-sites-for-purchasing-mystery-boxes/"><u>[Updated] Best of the Web The 10 Leading Sites for Purchasing Mystery Boxes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-a-novices-roadmap-to-youtube-traffic-success/"><u>[Updated] In 2024, A Novice's Roadmap to YouTube Traffic Success</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-unveiled-complete-guide-to-live-tv-recording-via-windows-pcs/"><u>[Updated] Secrets Unveiled Complete Guide to Live TV Recording via Windows PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-effective-product-sponsor-relationships-for-2024/"><u>Building Effective Product-Sponsor Relationships for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-crackling-sounds-a-comprehensive-fixer-upper-guide-for-windows-117-pcs/"><u>Eliminating Crackling Sounds: A Comprehensive Fixer Upper Guide for Windows 11/7 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-your-broken-bose-sound-system/"><u>Expert Advice on Repairing Your Broken Bose Sound System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-right-fix-reviving-realteks-silent-digital-output-with-these-tips/"><u>Getting the Right Fix: Reviving Realtek's Silent Digital Output with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016844374-headphone-problems-erase-that-crackling-in-seconds-with-easy-fixes/"><u>Headphone Problems? Erase That Crackling in Seconds with Easy Fixes.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-sound-in-cyberpunk-2077-after-upgrading-to-windows-11/"><u>How to Enable Sound in Cyberpunk 2077 After Upgrading to Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-capabilities-in-your-pc-during-a-zoom-call/"><u>How to Restore Sound Capabilities in Your PC During a Zoom Call</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a58-4g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A58 4G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unforgettable-tunes-hits-from-greatest-animes-for-2024/"><u>Unforgettable Tunes Hits From Greatest Animes for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-custom-instruction-potential-in-chatgpt-a-comprehensive-guide/"><u>Unlocking Custom Instruction Potential in ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-windows-movie-maker-tutorial-from-beginner-to-pro/"><u>Updated In 2024, Windows Movie Maker Tutorial From Beginner to Pro</u></a></li>
 </ul></div>
 

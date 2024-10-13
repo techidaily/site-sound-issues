@@ -1,7 +1,7 @@
 ---
 title: Solved! Tips and Tricks to Get Sound Working Again on Windows 11 Computers
-date: 2024-09-14T20:09:33.265Z
-updated: 2024-09-21T21:16:24.999Z
+date: 2024-10-07T18:59:31.831Z
+updated: 2024-10-12T22:19:09.623Z
 tags:
   - win11
   - win10
@@ -75,6 +75,14 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
@@ -88,13 +96,36 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -117,12 +148,24 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-jriver-media-centre-non-microsoft-media-option/"><u>[New] JRiver Media Centre Non-Microsoft Media Option</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-selecting-video-editors-filmora-vs-democreator-compared-for-2024/"><u>[New] Selecting Video Editors Filmora Vs. Democreator Compared for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-efficient-revenue-streams-the-guide-to-making-money-from-youtube-mobile/"><u>[Updated] 2024 Approved Efficient Revenue Streams The Guide to Making Money From YouTube Mobile</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-8-smooth-latency-free-video-reporters-for-2024/"><u>[Updated] Top 8 Smooth, Latency-Free Video Reporters for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-delay-fixes-fast-and-simple-solutions/"><u>Bluetooth Delay Fixes: Fast and Simple Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-dell-computer-speakers-not-playing-sound/"><u>Easy Fixes for Dell Computer Speakers Not Playing Sound</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-access-to-latest-intel-chipset-software-start-the-download-here/"><u>Effortless Access to Latest Intel Chipset Software - Start the Download Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-chat-glitches-in-sea-of-thieves-on-desktop-computers/"><u>How to Fix Voice Chat Glitches in Sea of Thieves on Desktop Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g633-microphone-working-again-expert-tips/"><u>How to Get Your Logitech G633 Microphone Working Again - Expert Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immersive-gaming-rediscovered-fixing-no-sound-problems-in-battlefield-4/"><u>Immersive Gaming Rediscovered: Fixing No Sound Problems in Battlefield #4</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-a78-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo A78 FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-playback-problems-for-windows-10-users-speakers/"><u>Resolving Playback Problems for Windows 10 Users' Speakers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/seamless-mp4-file-saving-and-insight-for-2024/"><u>Seamless MP4 File Saving & Insight for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm34-headphones-troubleshooting-steps-when-mic-fails-to-work-with-computer/"><u>Sony WH-1000XM3/4 Headphones: Troubleshooting Steps When Mic Fails to Work with Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-disabling-enhanced-audio-effects-in-windows-11/"><u>Step-by-Step Tutorial: Disabling Enhanced Audio Effects in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/streamline-your-media-library-convert-vob-to-wma-on-the-web-at-no-cost-moveavi-solutions/"><u>Streamline Your Media Library: Convert VOB to WMA on the Web at No Cost - Moveavi Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-10-learning-sites-offering-quality-online-education/"><u>Top 10 Learning Sites Offering Quality Online Education</u></a></li>
+</ul></div>
 

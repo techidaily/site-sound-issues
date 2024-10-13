@@ -1,7 +1,7 @@
 ---
 title: Instant Repairs for a Silent Oculus Rift S Mic - Top Fixes You Need to Know
-date: 2024-09-18T16:33:05.262Z
-updated: 2024-09-21T18:47:22.521Z
+date: 2024-10-11T16:28:02.918Z
+updated: 2024-10-13T02:52:00.779Z
 tags:
   - win11
   - win10
@@ -38,11 +38,40 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 1. Press the**Windows logo key** on your keyboard. Then, type**microphone privacy** in the search box and click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-1-2.jpg)
 2. Click the**Change** button and**toggle on** Microphone access for this device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-2-2.jpg)
 3. Scroll to Allow apps to access your microphone and**turn on** the button.  
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-3.jpg)
 4. Scroll down to**turn on** desktop apps’ access to your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve enabled all the accesses but the microphone still refuses to work, try the next fix.
 
@@ -55,8 +84,30 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 2. Under the Input section, choose**Headset Microphone (Oculus Virtual Audio Device)** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4-1.jpg)
 3. Scroll down to select**Sound Control Panel** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-7.jpg)
 4. Navigate to the**Recording** tab. Then select**Oculus Quest 2 headset microphone** and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-2.jpg)
 5. Click your mic again and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-8.jpg)
@@ -69,19 +120,6 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
  Now that everything on the PC sound settings is good to go, test how your mic works. If the mic-not-working issue only occurs in specific programs like SteamVR, make sure **Oculus Quest 2 is also chosen as the input device in the app settings** .
 
 If this trick doesn’t help, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your device drivers
 
@@ -99,17 +137,23 @@ If this trick doesn’t help, take a look at more fixes below.
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the driver doesn’t work, continue to Fix 4 below.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Unplug and replug your headset
 
@@ -147,5 +191,24 @@ If updating the driver doesn’t work, continue to Fix 4 below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>[New] In 2024, The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-setting-the-stage-for-success-zoom-configuration-101-for-2024/"><u>[Updated] Setting the Stage for Success Zoom Configuration 101 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/adobe-photostability-effective-or-fanciful/"><u>Adobe PhotoStability Effective or Fanciful?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-the-no-audio-devices-connected-problem-a-guide-for-windows-1087-users-with-external-speakers-or-headphones/"><u>Bypassing the 'No Audio Devices Connected' Problem: A Guide for Windows 10/8/7 Users with External Speakers or Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-laptops-headphone-jack-working-again-expert-advice-and-tricks/"><u>Getting Your Laptop's Headphone Jack Working Again – Expert Advice and Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-reno-8t-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Reno 8T FRP Without Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-outage-guide-is-the-service-down-or-can-you-watch-now/"><u>Netflix Outage Guide: Is The Service Down Or Can You Watch Now?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/obs-audio-glitches-demystified-a-step-by-step-guide-for-resolving-non-working-microphones/"><u>OBS Audio Glitches Demystified: A Step-by-Step Guide for Resolving Non-Working Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-step-by-step-tips-for-counter-strike-2-microphone-malfunctions/"><u>Resolved: Step-by-Step Tips for Counter-Strike 2 Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-constant-audio-interruptions-on-your-windows-11-system-a-step-by-step-guide/"><u>Resolving Constant Audio Interruptions on Your Windows 11 System - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-nonworking-bose-audio-equipment/"><u>Solving Common Issues with Nonworking Bose Audio Equipment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-missing-hd-audio-on-your-nvidia-device-a-step-by-step-guide/"><u>Solving the Issue of Missing HD Audio on Your NVIDIA Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-windows-device-manager-error-code-28/"><u>Step-by-Step Guide: Correcting Windows Device Manager Error - Code 28</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-training-data-includes-a-diverse-range-of-internet-text-but-its-important-to-note-that-grover-is-designed-more-with-content-generation-in-mind-rather-th625/"><u>The Training Data Includes a Diverse Range of Internet Text, but It's Important to Note that Grover Is Designed More with Content Generation in Mind Rather than Deep Specialization Like Legal Reasoning.</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-2-methods-for-watching-iso-and-dvd-files-on-your-android-device-without-a-disc-player/"><u>Top 2 Methods for Watching ISO and DVD Files on Your Android Device Without a Disc Player</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unmatched-4k-experience-the-premier-top-eight-list-for-2024/"><u>Unmatched 4K Experience The Premier Top Eight List for 2024</u></a></li>
+</ul></div>
 

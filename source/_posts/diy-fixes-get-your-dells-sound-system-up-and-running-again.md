@@ -1,7 +1,7 @@
 ---
 title: "DIY Fixes: Get Your Dell's Sound System Up and Running Again"
-date: 2024-09-20T20:41:44.794Z
-updated: 2024-09-21T17:17:41.804Z
+date: 2024-10-05T23:21:35.739Z
+updated: 2024-10-12T20:39:27.892Z
 tags:
   - win11
   - win10
@@ -71,17 +71,17 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer to fully employ the changes. Then test your Jabra headset. If it is still not working, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the sound settings
 
@@ -96,34 +96,51 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 2. Select**Small icons** next to View by and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-2.jpg)
 3. Right-click any empty space and tick**Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-3-1.jpg)
 4. If your Jabra headset is disabled, right-click it and click**Enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-4-1.jpg)
 5. Select the**Jabra Headphones** and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-5-1.jpg)
 6. Back to your desktop, right-click the**speaker icon** at the lower-right corner of the taskbar and select**Open Volume mixer** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/1-2.jpg)
 7. Hold and drag each slider to turn up the volume.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/1-1-1.jpg)
 8. On Windows 11, the sliders should look like this:  
-![](https://www.drivereasy.com/wp-content/uploads/2021/03/volume-mixer-win-11.png)
-9. Still, you just need to hold and drag the slider to adjust the volume.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2021/03/volume-mixer-win-11.png)
+9. Still, you just need to hold and drag the slider to adjust the volume.
 
  If the audio-not-working issue only occurs in a few specific programs, make sure you’ve **set your Jabra headset as the default device in the app settings** . Now see if the audio works. If not, take a look at more fixes below.
 
@@ -147,17 +164,24 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 5. Select**Bluetooth** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-6.jpg)
 6. Put your Jabra headset into pairing mode.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. When it’s successfully recognized by the computer, click it to build the connection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-2.jpg)
 
 Does your Jabra headset work now? If not, try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Check for damaged system files
 
@@ -168,18 +192,25 @@ Does your Jabra headset work now? If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-If restoring your computer still failed, there is the last method to try.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If restoring your computer still failed, there is the last method to try.
 
 ## Fix 5 – Update the firmware
 
@@ -216,5 +247,26 @@ If restoring your computer still failed, there is the last method to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-techniques-for-screen-recorders-in-video-games-for-2024/"><u>[New] Advanced Techniques for Screen Recorders in Video Games for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tips-for-stellar-video-conclusions/"><u>[New] Tips for Stellar Video Conclusions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-the-art-of-hidden-storytelling-on-snapchat-for-2024/"><u>[Updated] Decoding the Art of Hidden Storytelling on Snapchat for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-effortless-no-cost-screening-of-android-gadgets/"><u>[Updated] In 2024, Effortless, No-Cost Screening of Android Gadgets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015556190-effortless-ways-to-restore-voice-chat-in-fortnite-quick-solutions-inside/"><u>Effortless Ways to Restore Voice Chat in Fortnite – Quick Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-listening-experience-by-increasing-volume-on-windows-11/"><u>Enhance Your Listening Experience by Increasing Volume on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-sennheiser-game-one-microphone-back-online-a-how-to-guide/"><u>Getting Your Sennheiser Game One Microphone Back Online - A How-To Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restart-your-broken-sound-blaster-microphone/"><u>How to Repair and Restart Your Broken Sound Blaster Microphone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-zero-30-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Zero 30 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-your-window-to-clear-sounds-addressing-bluetooth-delays-and-stutters-for-a-seamless-listening-experience/"><u>Overcome Your Window to Clear Sounds: Addressing Bluetooth Delays and Stutters for a Seamless Listening Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-problems-heres-how-to-resolve-them/"><u>Realtek Microphone Problems? Here's How to Resolve Them</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/schritte-zum-generieren-eines-recovery-laufwerks-fur-windows-11-mit-dem-dell-tool-eine-detaillierte-anleitung-fur-die-systemreparatur/"><u>Schritte Zum Generieren Eines Recovery-Laufwerks Für Windows 11 Mit Dem Dell-Tool: Eine Detaillierte Anleitung Für Die Systemreparatur</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-medias-unstoppable-rise-over-forum-culture/"><u>Social Media's Unstoppable Rise Over Forum Culture</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solution-found-making-webm-media-compatible-with-iphones-androids-safari-and-google-chrome/"><u>Solution Found: Making WebM Media Compatible with iPhones, Androids, Safari & Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-restoring-audio-in-your-windows-media-player/"><u>Solved! Restoring Audio in Your Windows Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-g435-headset-audio-issues-troubleshooting-steps-and-fixes/"><u>Solving G435 Headset Audio Issues – Troubleshooting Steps and Fixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-complete-kobo-libra-h2o-book-reader-review-dive-into-books-with-waterproof-technology/"><u>The Complete Kobo Libra H2O Book Reader Review: Dive Into Books with Waterproof Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-and-airpods-microphone-glitches-comprehensive-solutions-to-get-it-working-again/"><u>Windows 10 and AirPods Microphone Glitches: Comprehensive Solutions to Get It Working Again</u></a></li>
+</ul></div>
 

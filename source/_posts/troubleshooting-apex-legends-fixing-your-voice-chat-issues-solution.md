@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Apex Legends: Fixing Your Voice Chat Issues - SOLUTION"
-date: 2024-09-14T17:03:46.597Z
-updated: 2024-09-16T18:22:52.509Z
+date: 2024-10-06T16:30:00.191Z
+updated: 2024-10-13T00:40:44.776Z
 tags:
   - win11
   - win10
@@ -79,11 +79,40 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -94,6 +123,13 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
@@ -124,12 +160,20 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-epson-printer-on-windows-11-not-working-anymore/"><u>[FIXED] Epson Printer on Windows 11: Not Working Anymore</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-video-length-measurement-20-megabit-case/"><u>[New] 2024 Approved Video Length Measurement - 20 Megabit Case</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-entering-income-territory-with-a-thousand-followers-for-2024/"><u>[New] Entering Income Territory with a Thousand Followers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-android-photo-editor-is-pickup-top/"><u>[New] In 2024, Best Android Photo Editor Is PickUp Top?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ushering-bliss-in-unboxing-7-strategies/"><u>[New] In 2024, Ushering Bliss in Unboxing 7 Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-behind-the-screen-essential-post-vidcon-gatherings-for-2024/"><u>[Updated] Behind the Screen Essential Post-VidCon Gatherings for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-in-game-micvoice-chat-disruptions-for-console-and-desktop-users-on-warzone/"><u>Diagnosing and Repairing In-Game Mic/Voice Chat Disruptions for Console and Desktop Users on Warzone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-headphone-popping-sounds-instantly-simple-solutions/"><u>Fix Headphone Popping Sounds Instantly: Simple Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-for-restoring-sound-capabilities-in-faulty-razer-seiren-headsets/"><u>Tips for Restoring Sound Capabilities in Faulty Razer Seiren Headsets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-your-videos-top-7-rippers-explored-for-2024/"><u>Unlocking Your Videos Top 7 Rippers Explored for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-and-audio-malfunctions-fixing-headphone-connectivity-problems/"><u>Windows 7 and Audio Malfunctions: Fixing Headphone Connectivity Problems</u></a></li>
+</ul></div>
 

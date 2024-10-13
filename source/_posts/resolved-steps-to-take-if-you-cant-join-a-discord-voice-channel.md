@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Steps to Take If You Can't Join a Discord Voice Channel"
-date: 2024-09-13T20:19:43.387Z
-updated: 2024-09-16T19:29:44.711Z
+date: 2024-10-11T21:50:00.538Z
+updated: 2024-10-12T17:45:21.775Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 5. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Origin and Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow Origin to access your microphone
 
  The voice chat not working in Apex Legends error may happen if you have not allowed Origin to access your microphone.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
  1) On your keyboard, press the**Windows logo key** and type**microphone** . Then click on**Microphone privacy settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-245.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In**Allow apps to access your microphone** , and turn on**the switch** .
 
@@ -71,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
@@ -93,13 +114,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-239.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In **Sound** settings, scroll down to the**Input** section, and in**Choose your input device** , make sure the microphone you are actively using is selected. Then,**test your microphone** by speaking into your mic to see if it ‘hears’ anything. If yes, it means you have configured the microphone properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
@@ -109,19 +123,6 @@ Here’s how to do it:
 6) Launch Apex Legends to see if the mic not working problem is fixed. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Configure in-game settings
 
@@ -133,16 +134,16 @@ Here is how to configure in-game settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-260.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**More** \>**VOICE** , then make sure**the microphone you’re using is selected** and**Microphone volum** e is set to**an audio volume** . After that, in**Activation mode** , choose**Push-to-talk** .
 
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
@@ -173,21 +174,22 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **Apex Legends** and uninstall it too.
 
@@ -219,5 +221,24 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-auditing-for-accuracy-youtube-monetization-compliance/"><u>[New] In 2024, Auditing for Accuracy YouTube Monetization Compliance</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-quick-solutions-repairing-your-huion-pen-when-it-stops-functioning/"><u>Five Quick Solutions: Repairing Your Huion Pen When It Stops Functioning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-and-enable-your-realtek-microphone-effective-techniques-inside/"><u>Fix and Enable Your Realtek Microphone: Effective Techniques Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-deactivating-acoustic-modifications-for-windows-11-systems/"><u>Guide: Deactivating Acoustic Modifications for Windows 11 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-minuscule-web-pixels/"><u>In 2024, Mastering the Art of Minuscule Web Pixels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-social-media-snippet-seizers-2023/"><u>In 2024, Social Media Snippet Seizers, 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-srt-mastery-advanced-techniques-for-mac-users/"><u>In 2024, SRT Mastery Advanced Techniques for Mac Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/legal-battles-in-tech-how-sarah-silverman-joins-the-fight-againartists-vs-ai-giants/"><u>Legal Battles in Tech: How Sarah Silverman Joins the Fight Again#Artists Vs. AI Giants</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-pop-quizzes-mastering-the-art-of-a-crackling-free-logiteche-g-pro-x-experience-on-pc-updated-tips/"><u>No More Pop Quizzes: Mastering the Art of a Crackling-Free Logiteche G Pro X Experience on PC - Updated Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/proven-youtube-seo-tricks-boosting-video-reach-and-visibility/"><u>Proven YouTube SEO Tricks Boosting Video Reach and Visibility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-audio-experience-expert-tips-for-repairing-a-corroded-mic/"><u>Revive Your Audio Experience: Expert Tips for Repairing a Corroded Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-pcs-discord-echo-problem-a-step-by-step-guide-for-2e24/"><u>Solving Your PC's Discord Echo Problem: A Step-by-Step Guide for 2E24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpod-microphone-problems-on-microsofts-operating-system/"><u>Troubleshooting AirPod Microphone Problems on Microsoft's Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-discord-voice-call-issues/"><u>Troubleshooting Guide: How to Fix Discord Voice Call Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-hyperx-cloud-stinger-mic-a-comprehensive-guide/"><u>Troubleshooting the HyperX Cloud Stinger Mic - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-hp-laptop-webcam-issues-on-windows-10/"><u>Troubleshooting Tips: Resolving HP Laptop Webcam Issues on Windows 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve the COD: Vanguard Voice Chat Malfunction Quickly"
-date: 2024-09-13T18:06:42.759Z
-updated: 2024-09-16T21:02:33.176Z
+date: 2024-10-11T21:53:54.639Z
+updated: 2024-10-12T22:41:33.636Z
 tags:
   - win11
   - win10
@@ -56,16 +56,16 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/microphone-allow-desktop-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve done these, relaunch Vanguard to see if your voice chat works properly.
 
 If this fix doesn’t do the trick, check out the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -104,29 +104,37 @@ If this fix doesn’t do the trick, check out the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Navigate to the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Open your**Battle.net** client.
 5. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 6. Select**Voice Chat** , then set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Click**Done** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now launch Vanguard and see if you can talk to your teammates.
 
 If the voice chat still doesn’t work, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check in-game audio settings
@@ -142,18 +150,26 @@ If the voice chat still doesn’t work, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
 5. Set**VOICE CHAT VOLUME** and**MICROPHONE VOLUME** to a moderate value. Then set**VOICE CHAT EFFECT** to**No Effect** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-volume.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-volume.jpg)
 
 Now you can restart Vanguard and check if the voice chat is working.
 
 If your problem remains, try the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
 
@@ -164,16 +180,10 @@ If your problem remains, try the last fix.
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
@@ -200,5 +210,26 @@ If your problem remains, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-step-by-step-your-path-to-excellent-video-tutorials/"><u>[Updated] 2024 Approved Step-by-Step Your Path to Excellent Video Tutorials</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-seamless-cuts-with-m1-the-future-of-video-editing-unveiled/"><u>[Updated] In 2024, Seamless Cuts with M1 The Future of Video Editing Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-most-reliable-grid-creation-tools-countdown-to-top-ten/"><u>2024 Approved Instagram's Most Reliable Grid Creation Tools, Countdown to Top Ten</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-screensnap-sage-mastering-captures-technology/"><u>2024 Approved ScreenSnap Sage Mastering Captures Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-restoring-sound-capabilities-on-windows-10-systems/"><u>Effective Solutions for Restoring Sound Capabilities on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issues-crackling-sounds-from-speakers-on-windows-107/"><u>How to Fix Audio Issues: Crackling Sounds From Speakers on Windows 10/7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-sony-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Sony</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-huawei-nova-y91-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Huawei Nova Y91.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/insiders-trick-for-fixing-nonfunctional-speakers-in-the-latest-windows-os/"><u>Insider's Trick for Fixing Nonfunctional Speakers in the Latest Windows OS</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-communication-on-a-budget-with-tangos-free-chat-calls-and-more/"><u>Revolutionize Your Communication on a Budget With Tango’s Free Chat, Calls, and More!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-reactivating-a-non-responsive-steelseries-headset-mic/"><u>Solution Guide: Reactivating a Non-Responsive SteelSeries Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016369283-steelseries-arctis-users-say-goodbye-to-mic-woes-with-our-easy-to-follow-solutions/"><u>SteelSeries Arctis Users, Say Goodbye to Mic Woes with Our Easy-to-Follow Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolving-undetected-speakers-in-windows-10/"><u>Step-by-Step: Resolving Undetected Speakers in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-quiet-dilemma-in-valheim-heres-how-to-turn-up-the-volume-on-pc/"><u>The Quiet Dilemma in Valheim? Here's How to Turn Up the Volume on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-visual-journey-of-iphone-photos-with-leading-lines-for-2024/"><u>The Visual Journey of iPhone Photos with Leading Lines for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-no-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting Guide: Fixing No Audio on Your HP Laptop Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-non-responsive-audio-features/"><u>Troubleshooting Tips - Resolving Non-Responsive Audio Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-intel-wireless-bluetooth-drivers-with-simple-and-swift-methods/"><u>Update Your Intel Wireless Bluetooth Drivers with Simple and Swift Methods</u></a></li>
+</ul></div>
 

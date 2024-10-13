@@ -1,7 +1,7 @@
 ---
 title: "Solved: Reviving the Microphone on SteelSeries Arctis 9X Series"
-date: 2024-10-01T20:05:05.861Z
-updated: 2024-10-06T23:48:15.293Z
+date: 2024-10-07T01:35:31.846Z
+updated: 2024-10-12T21:16:54.635Z
 tags:
   - win11
   - win10
@@ -33,10 +33,16 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * Your microphone cannot access your device
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to fix your mic issues
@@ -51,25 +57,11 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
 
@@ -80,13 +72,6 @@ Here’s how to do it:
  1) In the Windows Search box, type**microphone,** and select**Microphone privacy settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
@@ -106,22 +91,29 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
@@ -136,6 +128,13 @@ Here’s how to do it:
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the headset driver
 
@@ -152,10 +151,10 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
@@ -178,6 +177,13 @@ Here’s how to do it:
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -212,16 +218,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/approved-dynamic-duo-display-youtubes-way-of-creative-splitting/"><u>2024 Approved Dynamic Duo Display YouTube’s Way of Creative Splitting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-creator-studio-unlocking-the-power-of-your-channel/"><u>2024 Approved YouTube Creator Studio Unlocking the Power of Your Channel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-tools-for-merging-multiple-mp4s-into-one-seamless-video-experience-top-picks/"><u>Best Tools for Merging Multiple MP4s Into One Seamless Video Experience (TOP Picks)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-fix-your-logitech-g230-microphone-and-get-it-up-and-running-again/"><u>DIY Solutions to Fix Your Logitech G230 Microphone and Get It Up and Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/headset-mic-problems-heres-how-to-get-your-audio-working-again/"><u>Headset Mic Problems? Here's How to Get Your Audio Working Again</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-back-4-blood-from-crashing-on-a-pc-essential-tips-and-tricks/"><u>How to Prevent Back 4 Blood From Crashing on a PC - Essential Tips and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-common-microphone-errors-in-windows-7-systems-easily/"><u>How to Solve Common Microphone Errors in Windows 7 Systems Easily</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-how-to-select-a-premium-360-camera-today/"><u>In 2024, How to Select a Premium 360 Camera Today</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/taking-it-upward-panning-high-with-your-phone-for-2024/"><u>Taking It Upward Panning High with Your Phone for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-iphone-sound-malfunctions-restore-crystal-clear-audio/"><u>Troubleshooting iPhone Sound Malfunctions – Restore Crystal Clear Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/wrangling-your-tunes-troubleshooting-and-fixing-stuttering-bluetooth-sound-quality-on-modern-windows-machines/"><u>Wrangling Your Tunes: Troubleshooting and Fixing Stuttering Bluetooth Sound Quality on Modern Windows Machines</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-stay-concentrated-how-to-tame-the-chatter-of-google-video-calls-for-2024/"><u>[New] Stay Concentrated How to Tame the Chatter of Google Video Calls for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-visionary-aiartisan-image-crafting-tools-for-2024/"><u>[Updated] Visionary AiArtisan Image Crafting Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-update-easy-access-to-your-shorts/"><u>[Updated] YouTube Update Easy Access to Your Shorts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blitz-through-edits-with-windows-11-pro-tips/"><u>2024 Approved Blitz Through Edits with Windows 11 Pro Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-troubleshooting-guide-to-address-macx-dvd-ripper-pro-malfunctions-including-startup-difficulties-and-sluggishness/"><u>Comprehensive Troubleshooting Guide to Address MacX DVD Ripper Pro Malfunctions Including Startup Difficulties and Sluggishness</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-choice-best-vr-handh-written-by-assistant-for-2024/"><u>Expert's Choice Best VR Handh Written by Assistant for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ghostly-3-encounter-spectre-4s-appearance-for-2024/"><u>Ghostly 3 Encounter Spectre 4'S Appearance for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-1n-sound-issues-complete-solution/"><u>How to Repair Windows 1N Sound Issues - Complete Solution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-y78plus-t1-edition-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Vivo Y78+ (T1) Edition Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-framefusion-creator/"><u>In 2024, FrameFusion Creator</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mac-no-sound-solved/"><u>Mac No Sound [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-fluctuating-sounds-resolving-bluetooth-audio-problems-in-windows/"><u>No More Fluctuating Sounds: Resolving Bluetooth Audio Problems in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-problems-with-the-blue-yeti-microphone-a-step-by-step-guide/"><u>Overcoming Connectivity Problems With The Blue Yeti Microphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regain-control-of-your-sound-fixing-the-noise-problem-with-conexant-smartaudio-in-windows-aekwaeriz/"><u>Regain Control of Your Sound: Fixing the Noise Problem with Conexant SmartAudio in Windows ˈækwaɪəriːz</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/regaining-access-effective-strategies-to-recover-the-forgotten-admin-password-of-your-hyper-v-virtual-environment/"><u>Regaining Access: Effective Strategies to Recover the Forgotten Admin Password of Your Hyper-V Virtual Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-soundscape-a-simple-solution-to-your-logitech-g933-audio-problems/"><u>Reviving Soundscape: A Simple Solution to Your Logitech G933 Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-for-resolving-google-hangouts-microphone-issues/"><u>Simple Solutions for Resolving Google Hangouts Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-steps-for-solving-google-hangouts-microphone-issues/"><u>Simple Troubleshooting Steps for Solving Google Hangouts Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-dells-speaker-problems-a-guide-for-windows-7-users/"><u>Solve Your Dell's Speaker Problems: A Guide for Windows 7 Users</u></a></li>
 </ul></div>
 

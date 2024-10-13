@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Your Audio: Solve Confusion Between Speakers and Headphones Playing Music"
-date: 2024-10-04T01:23:04.720Z
-updated: 2024-10-07T00:58:46.064Z
+date: 2024-10-10T00:19:08.056Z
+updated: 2024-10-12T18:34:38.528Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -62,9 +55,23 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
@@ -75,13 +82,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -102,31 +102,17 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Adjust **the minimum processor state**
 
@@ -135,8 +121,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
@@ -168,22 +170,19 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-from-your-computers-vision-mastering-tiktok-video-uploads/"><u>[New] From Your Computer's Vision Mastering TikTok Video Uploads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-in-depth-look-at-cybercam-capturer/"><u>[New] In 2024, In-Depth Look at CyberCam Capturer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[Updated] 2024 Approved Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-enhancing-business-communication-with-professional-skype-recordings/"><u>2024 Approved Enhancing Business Communication with Professional Skype Recordings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-audio-communication-on-discord-diagnosing-and-repairing-common-problems/"><u>Clear Audio Communication on Discord: Diagnosing and Repairing Common Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-ieee-80211-variants-from-ax-to-bgn-standards-explored/"><u>Decoding IEEE 802.11 Variants: From Ax to B/G/N Standards Explored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-screen-geometry-realignment/"><u>Effortless Screen Geometry Realignment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-a-malfunctioning-corsair-hs60-microphone-step-by-step/"><u>Expert Tips for Fixing a Malfunctioning Corsair HS60 Microphone - Step by Step</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-nonfunctional-jabra-headset-an-ultimate-step-by-step-manual/"><u>Fixing a Nonfunctional Jabra Headset : An Ultimate Step-by-Step Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eradicate-the-error-xc0f1103f-from-your-win11-and-geforce/"><u>How to Eradicate the Error Xc0f1103f From Your Win11 & GeForce</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-undetected-headphones-on-windows-11-devices/"><u>How to Fix Undetected Headphones on Windows 11 Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-spark-10-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Spark 10 4G Phone?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-post-windows-11-upgrade-quick-fixes-inside/"><u>No Audio Post-Windows 11 Upgrade? Quick Fixes Inside!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revive-your-lost-iphone-x-with-these-tips/"><u>Revive Your LOST iPhone X with These Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-silent-problem-restarting-mic-functionality-in-microsoft-teams-across-windows-platforms/"><u>Solve the Silent Problem: Restarting Mic Functionality in Microsoft Teams Across Windows Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tackling-silent-skirmishes-comprehensive-solutions-to-fix-no-sound-in-fortnites-battle-royale-2024-update/"><u>Tackling Silent Skirmishes: Comprehensive Solutions to Fix No-Sound in Fortnite's Battle Royale - 2024 Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-sound-issues-on-pc-while-playing-call-of-duty-black-ops-cold-war/"><u>Troubleshooting No Sound Issues on PC While Playing Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-digital-dominion-rise-as-a-youtube-guru/"><u>[New] Digital Dominion Rise as a YouTube Guru</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-cutting-edge-ergonomic-innovations-transforming-workspaces-today/"><u>[Updated] 2024 Approved Cutting-Edge Ergonomic Innovations Transforming Workspaces Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revamp-your-mac-the-macos-sierra-setup-process/"><u>[Updated] Revamp Your Mac The macOS Sierra Setup Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-chatgpt-and-huggingchat-determining-the-superior-conversation-ai/"><u>Comparing ChatGPT and HuggingChat: Determining the Superior Conversation AI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functional-mic-and-voice-chat-issues-in-sea-of-thieves-pc/"><u>Effective Fixes for Non-Functional Mic & Voice Chat Issues in Sea of Thieves (PC)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experience-battlefield-4s-full-thrills-eliminating-the-games-no-sound-glitch/"><u>Experience Battlefield 4'S Full Thrills: Eliminating the Game's No-Sound Glitch</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-realme-gt-neo-5-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme GT Neo 5 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-mystery-of-youtubes-monetization-rates/"><u>In 2024, Unveiling the Mystery of YouTube's Monetization Rates</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-xcover-6-pro-tactical-editionfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy XCover 6 Pro Tactical EditionFRP Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reinstating-sound-on-hdmi-tips-for-computer-to-monitortv-connections/"><u>Reinstating Sound on HDMI: Tips for Computer-to-Monitor/TV Connections</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-dealing-with-broken-discord-voice-communication-features/"><u>Solution Steps for Dealing with Broken Discord Voice Communication Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-call-of-duty-warzone-audio-issues-ultimate-guide/"><u>Solve Your Call of Duty: Warzone Audio Issues - Ultimate Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-fix-euro-truck-simulator-2-pc-stability-issues/"><u>Troubleshooting Guide: How to Fix Euro Truck Simulator 2 PC Stability Issues</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-fixes-to-overcome-windows-pression-installupdate-problems-on-your-pc/"><u>Ultimate Fixes to Overcome Windows Pression Install/Update Problems on Your PC</u></a></li>
 </ul></div>
 

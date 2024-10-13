@@ -1,7 +1,7 @@
 ---
 title: "Addressing OBS Microphone Problems: A Detailed Guide to Restoring Audio Functionality"
-date: 2024-10-01T16:58:08.313Z
-updated: 2024-10-06T18:10:55.277Z
+date: 2024-10-11T01:16:46.639Z
+updated: 2024-10-13T03:07:13.419Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
  If your microphone accidentally disconnects during the play sessions, it may stop working until you restart the game completely. Make sure the microphone is securely connected and then restart Beyond The Wire to see if everything goes back to normal. If not, go ahead with the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Allow the game to access your microphone
 
  Windows 10 enables users to control whether an app can access the microphone via the privacy settings. If the settings are improperly modified, some programs may fail to use your microphone.
@@ -61,18 +54,18 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Locate**Allow desktop apps to access your microphone** and toggle on the button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-4.jpg)
 
  Test how the microphone works in Beyond The Wire. If the mic-not-working issue reoccurs, read on to more solutions below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Configure the sound settings correctly
 
@@ -82,20 +75,27 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select**Small icons** under**View by** . Then, click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Recording** tab. Then, right-click on any empty space and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-0-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click microphones you’re not using and click**Disable** one by one.
 
@@ -109,13 +109,6 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-49.jpg)
@@ -123,10 +116,10 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
  Now that you’ve set your desired microphone as the default device, disabled other microphones, and also turned up the volume to the max, it should be working fine when you’re playing Beyond The Wire. If not, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
@@ -151,10 +144,10 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -172,15 +165,22 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch your game again and the microphone should be transmitting your voice in the right way.
@@ -208,15 +208,24 @@ Beyond The Wire is available in Early Access now! While the immersive and cinema
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/clarifying-nlp-and-machine-learning-distinctions/"><u>Clarifying NLP & Machine Learning Distinctions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversion-libre-de-h265-a-h264-pour-windows-et-macos-guide-complet/"><u>Conversion Libre De H.265 À H.264 Pour Windows Et macOS : Guide Complet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/destiny-2-troubleshooting-guide-solving-voice-chat-problems/"><u>Destiny 2 Troubleshooting Guide - Solving Voice Chat Problems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-moto-g73-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Moto G73 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-pro-photography-iphones-best-light-tactics/"><u>In 2024, Perfecting Pro Photography IPhone's Best Light Tactics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-sound-from-the-dead-a-comprehensive-guide-to-fixing-your-nvidia-hd-audio/"><u>Reviving Sound From the Dead: A Comprehensive Guide to Fixing Your Nvidia HD Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-pc-connection-with-redragon-usb-microphone/"><u>Step-by-Step Guide: Repairing PC Connection with Redragon USB Microphone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-stuck-audio-during-video-streaming-in-google-chrome-and-mozilla-firefox/"><u>Troubleshooting Stuck Audio During Video Streaming in Google Chrome and Mozilla Firefox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-troubles-heres-how-to-fix-unknown-speaker-problems/"><u>Windows 11 Audio Troubles? Here’s How to Fix ‘Unknown’ Speaker Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[New] 2024 Approved Unveiling the Secrets How to Save Your Google Meet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fb-video-retrieval-the-top-5-software-compared-for-2024/"><u>[New] FB Video Retrieval The Top 5 Software Compared for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pioneering-patterns-screen-cast-with-loom-pro/"><u>[New] Pioneering Patterns Screen Cast with Loom Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-upload-media-to-twitter-without-copying-another-users-tweet/"><u>[Updated] In 2024, How To Upload Media to Twitter without Copying Another User's Tweet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>[Updated] In 2024, Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-analyzed-the-finest-screen-capture-software-for-macos/"><u>2024 Approved Analyzed The Finest Screen Capture Software for macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fortune-in-focus-5-best-maps-for-treasures/"><u>2024 Approved Fortune in Focus 5 Best Maps for Treasures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/avoid-high-costs-buying-budget-friendly-gopros-for-2024/"><u>Avoid High Costs Buying Budget-Friendly GoPros for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-in-call-of-duty-black-ops-cold-war-a-step-by-step-guide/"><u>How To Restore Voice Chat in Call of Duty: Black Ops Cold War - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-m3-macbook-air-worth-your-dollars/"><u>Is the M3 MacBook Air Worth Your Dollars?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/light-and-shadow-masterful-edits-that-transform-images/"><u>Light & Shadow Masterful Edits That Transform Images</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-mic-in-lol-tips-and-tricks-when-league-of-legends-voice-chat-stops-working/"><u>Mastering the Mic in LOL: Tips and Tricks When League of Legends Voice Chat Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-players-guide-fix-your-voice-chat-issues-without-hiccups/"><u>PUBG Players Guide: Fix Your Voice Chat Issues Without Hiccups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-astro-a50s-microphone-issues-quick-guide/"><u>Troubleshoot Your Astro A50's Microphone Issues - Quick Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-bluetooth-problems-in-windows-11/"><u>Troubleshooting Guide: Fixing Bluetooth Problems in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-the-microphone-issue-on-your-turtle-beach-elite-atlas-headset/"><u>Troubleshooting Guide: How to Fix the Microphone Issue on Your Turtle Beach Elite Atlas Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-how-to-repair-a-non-functioning-headset-microphone/"><u>Troubleshooting Steps: How to Repair a Non-Functioning Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-razer-barracuda-x-mic-on-windows-11-and-windows-10-systems/"><u>Troubleshooting Your Razer Barracuda X Mic on Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-runmud-x30-gaming-microphone-issues/"><u>Troubleshooting: How to Fix Runmud X30 Gaming Microphone Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Non-Functional Desktop Audio in OBS"
-date: 2024-09-10T18:38:30.916Z
-updated: 2024-09-16T20:24:03.386Z
+date: 2024-10-09T01:26:31.020Z
+updated: 2024-10-12T20:07:44.986Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -81,9 +88,23 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -99,6 +120,13 @@ Read on and follow the easy-doing images below!
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
@@ -123,12 +151,20 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-memorable-moments-quick-and-clean-xbox-screenshots/"><u>[Updated] 2024 Approved Memorable Moments, Quick & Clean Xbox Screenshots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hidden-history-unveiled-understanding-off-facebook-data/"><u>[Updated] Hidden History Unveiled Understanding Off-Facebook Data</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-sound-on-your-toshiba-pc/"><u>Effective Fixes for Non-Functioning Sound on Your Toshiba PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-photo-editing-the-crop-essentials/"><u>In 2024, Streamlining Your Photo Editing The Crop Essentials</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/navigating-through-windows-11s-quickboot-to-advanced-options/"><u>Navigating Through Windows 11’S QuickBoot to Advanced Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-headset-mic-not-working-heres-how-to-restore-it-effectively/"><u>SteelSeries Arctis Headset Mic Not Working? Here’s How to Restore It Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-for-seamless-sending-of-large-videos-from-iphones/"><u>Step by Step Guide for Seamless Sending of Large Videos From iPhones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/swift-recording-pro-with-voice-commentary-feature-for-2024/"><u>Swift Recording Pro with Voice Commentary Feature for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-7-hilariously-unnecessary-gadgets-that-gamers-never-knew-they-needed/"><u>Top 7 Hilariously Unnecessary Gadgets That Gamers Never Knew They Needed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubled-by-lack-of-volume-resolve-your-hp-laptops-no-sound-issue-today/"><u>Troubled by Lack of Volume? Resolve Your HP Laptop's No-Sound Issue Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-pc-silence-fast-and-easy-get-your-computers-audio-working-again/"><u>Troubleshoot PC Silence Fast & Easy - Get Your Computer's Audio Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-issue-of-nonfunctional-microphone-in-sony-wh-1000xm34-headphones-with-pc/"><u>Troubleshooting Guide: Fixing the Issue of Nonfunctional Microphone in Sony WH-1000XM3/4 Headphones with PC</u></a></li>
+</ul></div>
 

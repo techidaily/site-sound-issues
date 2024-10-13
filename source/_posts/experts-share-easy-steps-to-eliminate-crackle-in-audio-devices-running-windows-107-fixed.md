@@ -1,7 +1,7 @@
 ---
 title: Experts Share Easy Steps to Eliminate Crackle in Audio Devices Running WINDOWS 10/7 [FIXED]
-date: 2024-10-03T07:01:30.263Z
-updated: 2024-10-07T08:46:18.385Z
+date: 2024-10-09T16:31:50.489Z
+updated: 2024-10-13T03:19:03.873Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881b98693b49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In the **Playback** tab, right-click **Default Device**  you have and click **Properties** .
@@ -68,10 +68,10 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bcabb193b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) See if your sound is back. If you still cannot get your sound back, choose Cancel here, and then repeat 2) and 3) with your other default device and have a try again.
@@ -100,6 +100,26 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964407a532ed.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4: Uninstall driver from Device Manager
 
  If you have faulty driver installed, problem like no sound coming out from your speaker is inevitable. To fix it:
@@ -111,13 +131,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 2) Expand **Sound, video and game controllers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click your sound card driver, then click**Uninstall** .
 
@@ -134,10 +147,10 @@ Windows will then help you reinstall the driver.
  And if this still don’t work, please try the next step where we try using the generic audio driver that comes with Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5: Try generic audio driver provided by Windows 10
@@ -150,13 +163,6 @@ Windows will then help you reinstall the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click your sound card driver, then click**Update Driver Software…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881be049db87.png)
@@ -166,10 +172,10 @@ Windows will then help you reinstall the driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c1cb5f81b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click **Let me pick from a list of device drivers on my computer** .
@@ -180,6 +186,13 @@ Windows will then help you reinstall the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c28f9c29e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Yes** at this prompt and continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c43152df5.png)
@@ -187,13 +200,6 @@ Windows will then help you reinstall the driver.
  7) Now you should be able to see that the driver you are having now is the generic audio driver provided by Windows 10\. The name of which is**High Definition Audio Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c48369340.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if your sound is back.
 
@@ -216,19 +222,17 @@ Check if your sound is back.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-delete-comments-from-youtube-with-minimal-hassle/"><u>[Updated] How to Delete Comments From YouTube with Minimal Hassle</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-thrive-after-facebooks-content-algorithm-overhaul/"><u>[Updated] How to Thrive After Facebook's Content Algorithm Overhaul</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nokia-c12-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nokia C12</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-revolutionizes-creation-craft-your-own-custom-designed-gpt-models-like-never-before/"><u>ChatGPT Revolutionizes Creation: Craft Your Own Custom-Designed GPT Models Like Never Before</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fix-for-astro-a20-microphone-that-wont-work/"><u>DIY Fix for Astro A20 Microphone That Won't Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-steps-to-eliminate-the-no-sound-error-and-bring-back-audio-to-your-machine/"><u>Easy Steps to Eliminate the 'No Sound' Error & Bring Back Audio to Your Machine</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-when-your-lol-voice-chat-stops-working/"><u>How to Restore Functionality When Your LoL Voice Chat Stops Working</u></a></li>
-<li><a href="https://fox-info.techidaily.com/navigating-the-social-sphere-instaplustiktok-for-2024/"><u>Navigating the Social Sphere Insta+TikTok for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-silence-solving-back-4-blood-voice-chat-problems/"><u>No More Silence: Solving Back 4 Blood Voice Chat Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-skype-audio-problems-a-comprehensive-fix-for-windows-11-users/"><u>Solve Your Skype Audio Problems: A Comprehensive Fix for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-headphones-in-windows-10/"><u>Troubleshooting Guide: Fixing Non-Functional Headphones in Windows 10</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-enhance-your-video-content-how-to-add-subtitles-and-captions-in-final-cut-pro-x-for-2024/"><u>Updated Enhance Your Video Content How to Add Subtitles and Captions in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-step-by-step-guide-to-storyboard/"><u>Updated In 2024, Step-by-Step Guide to Storyboard</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-startups-secret-weapon-kit-must-have-items-that-set-you-apart/"><u>[New] The Startup's Secret Weapon Kit Must-Have Items That Set You Apart</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-posts-how-to-border-videos-on-instagram-for-2024/"><u>[Updated] Perfecting Posts How to Border Videos on Instagram for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/asus-zephyrus-g14-gaming-laptop-review-where-quality-meets-performance/"><u>Asus Zephyrus G14 Gaming Laptop Review: Where Quality Meets Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-fortnite-voice-chat-problems-instantly/"><u>Expert Tips for Resolving Fortnite Voice Chat Problems Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-hp-notebook-audio-issues-a-comprehensive-guide/"><u>Fix HP Notebook Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-techniques-for-repairing-voicemod-access-and-functionality-2024-insights/"><u>Modern Techniques for Repairing Voicemod Access & Functionality - 2024 Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-codec-drivers-for-intels-idt-hd-sound-in-windows-11-step-by-step-tutorial/"><u>Resolving Audio Codec Drivers for Intel's IDT HD Sound in Windows 11 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/step-into-the-future-upgrading-32-bit-win10-into-a-64-bit-powerhouse/"><u>Step Into the Future: Upgrading 32-Bit Win10 Into a 64-Bit Powerhouse</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-for-protecting-your-website-content-against-unauthorized-crawling-by-entities-like-openai/"><u>Tips for Protecting Your Website Content Against Unauthorized Crawling by Entities Like OpenAI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-calls-getting-sounds-back-for-zoom-meetings-on-windowsmac/"><u>Troubleshooting Silent Calls: Getting Sounds Back for Zoom Meetings on Windows/Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/watermark-free-video-editing-software-the-top-14-free-options-for-2024/"><u>Watermark-Free Video Editing Software The Top 14 Free Options for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-ray-tracing/"><u>What Is Ray Tracing?</u></a></li>
 </ul></div>
 

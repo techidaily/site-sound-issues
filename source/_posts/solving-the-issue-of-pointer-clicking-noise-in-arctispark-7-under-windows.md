@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Pointer Clicking Noise in ArctiSpark 7 Under Windows
-date: 2024-09-15T18:08:33.768Z
-updated: 2024-09-16T17:42:36.794Z
+date: 2024-10-10T18:03:59.175Z
+updated: 2024-10-12T21:55:17.899Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
@@ -54,6 +61,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -73,6 +87,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -80,6 +101,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
+3. Click **Change advanced power settings** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
+4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
+ Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 <!-- affiliate ads begin -->
 <span id="1982461">
@@ -93,28 +130,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
-3. Click **Change advanced power settings** .  
-
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
-4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
- Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -138,5 +153,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat/"><u>[Updated] 2024 Approved Maximizing Memory Storing Snapshots in Photo Albums From Snapchat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unleash-superior-hd-videos-on-android-devices/"><u>[Updated] In 2024, Unleash Superior HD Videos on Android Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionize-playtime-unveiling-win11s-latest-titles/"><u>[Updated] Revolutionize Playtime Unveiling Win11's Latest Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streaming-success-recorded-google-chats/"><u>2024 Approved Streaming Success Recorded Google Chats</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-fix-for-apex-legends-simple-cheater-detection-problems/"><u>A Step-by-Step Fix for Apex Legends’ Simple Cheater Detection Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-top-ten-alternative-streaming-platforms-for-free-viewing/"><u>Discover the Top Ten Alternative Streaming Platforms for Free Viewing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-resolve-msvbvm50dll-not-found-computer-issue/"><u>Easy Steps to Resolve 'msvbvm50.dll Not Found' Computer Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-speaker-performance-fixing-volume-issues-in-windows-10/"><u>Enhancing Speaker Performance: Fixing Volume Issues in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-audio-in-obs-studio-on-your-computer/"><u>Fixing Non-Functional Audio in OBS Studio on Your Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-discerning-true-excellence-active-vs-record-leaders/"><u>In 2024, Discerning True Excellence Active vs Record Leaders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-mic-a-step-by-step-guide-to-solving-microphone-issues/"><u>Revive Your Razer Mic: A Step-by-Step Guide to Solving Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-techniques-for-fixing-windows-11-microphone-problems/"><u>Solution Techniques for Fixing Windows 11 Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-solving-crackling-sounds-on-windows-10-11-and-7/"><u>Troubleshooting Audio Issues: Solving Crackling Sounds on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-problems-with-the-logitech-g230-headset-microphone/"><u>Troubleshooting Common Problems with the Logitech G230 Headset Microphone</u></a></li>
+</ul></div>
 

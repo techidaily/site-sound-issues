@@ -1,7 +1,7 @@
 ---
 title: Blue Yeti Not Working? Discover Effective Remedies for Mic Recognition Issues
-date: 2024-09-09T17:19:42.806Z
-updated: 2024-09-16T16:18:12.982Z
+date: 2024-10-07T02:36:40.092Z
+updated: 2024-10-13T02:30:01.581Z
 tags:
   - win11
   - win10
@@ -40,14 +40,41 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select**Large icons** from the**View by** drop down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 3. Select **Sound** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 4. Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .  
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 5. Right click the**Headset Microphone** and click **Enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 6. Right click it again and select **Set as Default Device** .  
@@ -75,18 +102,25 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 3. Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)
 
  Once you’ve updated the driver for your Astro A50 headset, restart your computer. Then log in again and see if the microphone is working.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -114,5 +148,22 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tech-titans-sharexs-challengers-exposed/"><u>[New] 2024 Approved Tech Titans ShareX's Challengers Exposed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-direct-from-spotify-to-youtube-best-apps-for-streaming-conversions/"><u>[New] In 2024, Direct From Spotify to YouTube Best Apps for Streaming Conversions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-videographers-playbook-for-game-coverage-excellence/"><u>[New] In 2024, The Videographer’s Playbook for Game Coverage Excellence</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-master-list-of-10-best-video-chat-programs-today/"><u>[New] Master List of 10 Best Video Chat Programs Today</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds/"><u>[Updated] Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-for-a-malfunctioning-logitech-g230-microphone-resolved/"><u>Common Problems and Fixes for a Malfunctioning Logitech G230 Microphone - Resolved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-how-to-easily-update-your-computers-intel-centrino-advanced-n-client-driver-6237-version/"><u>Expert Advice: How to Easily Update Your Computer's Intel Centrino Advanced-N Client Driver (6237) Version</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/exporting-tweets-as-webmaac-audio-for-2024/"><u>Exporting Tweets as WebM/AAC Audio for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-push-to-talk-back-in-action-for-enhanced-communication-during-an-overwatch-match/"><u>Getting 'Push-to-Talk' Back in Action for Enhanced Communication During an Overwatch Match</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microphone-problems-when-playing-sea-of-thieves-on-windows/"><u>How to Resolve Microphone Problems When Playing Sea of Thieves on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-your-windows-7-audio-a-comprehensive-fix-for-nonfunctional-headphones/"><u>Restoring Your Windows 7 Audio: A Comprehensive Fix for Nonfunctional Headphones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/h-cinematography-premium-stabilizer-recommendations/"><u>Smooth Cinematography Premium Stabilizer Recommendations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-fixing-your-logitech-g733-microphone-issues/"><u>Solution Found: Fixing Your Logitech G733 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-a-windows-10-system/"><u>Solved! How to Restore Sound on a Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-apex-legends-voice-communication-problems/"><u>Troubleshooting Tips for Resolving Apex Legends' Voice Communication Problems</u></a></li>
+</ul></div>
 

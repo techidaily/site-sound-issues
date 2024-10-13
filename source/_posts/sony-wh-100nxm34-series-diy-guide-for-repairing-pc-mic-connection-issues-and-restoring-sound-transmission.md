@@ -1,7 +1,7 @@
 ---
 title: "Sony WH-100nXM3/4 Series: DIY Guide for Repairing PC Mic Connection Issues and Restoring Sound Transmission"
-date: 2024-09-11T19:54:53.635Z
-updated: 2024-09-16T20:39:03.280Z
+date: 2024-10-08T01:40:55.500Z
+updated: 2024-10-12T21:36:50.956Z
 tags:
   - win11
   - win10
@@ -53,11 +53,25 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-29.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you do not see the Digital Output Device or HDMI option in the Playback tab, right-click on the blank place, then click Show disconnected devices and Show disabled devices on the context menu. Then set it as the default device.
 
 [4](https://images.drivereasy.com/wp-content/uploads/2016/01/45.png) ](https://images.drivereasy.com/wp-content/uploads/2016/01/45.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Update the Sound Driver
 
@@ -74,33 +88,33 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 4: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -139,5 +153,20 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-10-second-teasers-explained/"><u>2024 Approved 10-Second Teasers Explained</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-high-quality-fullscreen-recorders-for-desktops/"><u>2024 Approved High-Quality Fullscreen Recorders for Desktops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-audio-sync-problems-with-this-comprehensive-fix-guide/"><u>Beat Audio Sync Problems with This Comprehensive Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-sound-clipping-solutions-for-windows-11-and-10-users/"><u>Bluetooth Sound Clipping Solutions for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/into-gaming-how-to-build-and-prosper-on-youtube-for-2024/"><u>Dive Into Gaming How to Build and Prosper on YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-the-astro-a20s-non-working-mic-problem/"><u>Effective Fixes for the Astro A20's Non-Working Mic Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-troubleshooting-inoperative-computing-sound-systems/"><u>Expert Tips on Troubleshooting Inoperative Computing Sound Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-c110-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia C110 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lenovo-laptop-sound-fixes-a-comprehensive-solution-guide-for-no-audio-problems/"><u>Lenovo Laptop Sound Fixes: A Comprehensive Solution Guide for No Audio Problems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-social-media-cross-promotion-facebook-linkedin-and-youtube-tips/"><u>Mastering Social Media Cross-Promotion: Facebook, LinkedIn & YouTube Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-restore-discords-push-to-talk-feature/"><u>Troubleshooting Fixes: How to Restore Discord's Push-to-Talk Feature</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/standing-filmoras-creative-certification-protocol-for-2024/"><u>Understanding Filmora's Creative Certification Protocol for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-samsung-galaxy-z-fold-6-launch-details-costs-and-latest-features/"><u>Unveiling the Samsung Galaxy Z Fold 6 - Launch Details, Costs & Latest Features</u></a></li>
+</ul></div>
 

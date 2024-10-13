@@ -1,7 +1,7 @@
 ---
 title: Solved! How to Get Your Astro A10 Microphone Up and Running Again
-date: 2024-10-06T07:58:49.726Z
-updated: 2024-10-07T10:27:55.875Z
+date: 2024-10-10T00:30:40.380Z
+updated: 2024-10-12T21:05:58.831Z
 tags:
   - win11
   - win10
@@ -46,32 +46,26 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/0-0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click the**speaker icon** under OBS to unmute this application.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/0-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Check the sound settings
 
@@ -85,13 +79,6 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click any empty space and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-7.jpg)
@@ -101,15 +88,22 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Click the device and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Select the**Levels** tab. Then, make sure**the device is not muted** and**drag the slider** to turn up its volume.
 
@@ -123,38 +117,31 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Click your audio device and click**Configure** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-8-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **10)** Select**Stereo** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After going through the steps, launch OBS to test if the desktop audio is correctly detected and recorded. If not, please move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Tweak OBS audio settings
 
@@ -185,6 +172,13 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
  Try removing the programs that may take control of your audio device and test. If the issue goes away then, you should uninstall those programs to avoid possible audio issues in OBS. If this method doesn’t help, go to the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Update your audio driver
 
@@ -220,10 +214,10 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6 – Reinstall OBS
@@ -266,24 +260,22 @@ Now see if OBS desktop audio comes back. If not, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-drone-families-and-forms-for-2024/"><u>[New] Drone Families and Forms for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-sync-obs-with-facebook/"><u>[Updated] 2024 Approved The Ultimate Guide to Sync OBS with Facebook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-tips-for-recording-fb-messenger-calls/"><u>[Updated] In 2024, Essential Tips for Recording FB Messenger Calls</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>2024 Approved The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-problem-of-unplugged-speakersheadphones-in-windows-os-a-step-by-step-guide-for-windows-10-8-and-7-users/"><u>Diagnosing and Fixing the Problem of Unplugged Speakers/Headphones in Windows OS: A Step-by-Step Guide for Windows 10, 8 & 7 Users.</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/enhance-your-clip-creation-with-inshot-tools/"><u>Enhance Your Clip Creation with Inshot Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-with-headsets-on-your-windows-7-pc/"><u>Expert Tips for Restoring Sound with Headsets on Your Windows 7 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/from-mute-to-music-correcting-conexant-smartaudio-hd-sound-absence-in-windows-11/"><u>From Mute to Music: Correcting Conexant SmartAudio HD Sound Absence in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-dolby-truehd-to-work-on-windows-11-overcoming-driver-initialization-challenges/"><u>Getting Dolby TrueHD to Work on Windows 11: Overcoming Driver Initialization Challenges</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigate-your-first-successful-windows-11-sound-capture/"><u>In 2024, Navigate Your First Successful Windows 11 Sound Capture</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-convert-kings-playbook-youtube-to-mp4mpeg-edition/"><u>In 2024, The Convert King's Playbook YouTube to MP4/MPEG Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-pitch-perfect-cleanup-the-best-affordable-applications-for-removing-unwanted-vocals/"><u>New In 2024, Pitch Perfect Cleanup The Best Affordable Applications for Removing Unwanted Vocals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-windows-1aster7-sound-distortion-issues-in-depth-troubleshooting-guide/"><u>Overcoming Windows 1Aster/7 Sound Distortion Issues – In-Depth Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-logitech-g230-microphone-a-step-by-step-guide-to-fix-the-problems/"><u>Reviving Your Logitech G230 Microphone: A Step-by-Step Guide to Fix the Problems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionizing-professional-recording-the-power-of-the-tascam-cd-200bt-bluetooth-player/"><u>Revolutionizing Professional Recording: The Power of the Tascam CD-200BT Bluetooth Player</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silencing-your-logitech-g-pro-x-top-solutions-for-eliminating-clicky-sounds/"><u>Silencing Your Logitech G Pro X: Top Solutions for Eliminating Clicky Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-functional-logitech-g230-microphone/"><u>Troubleshooting Fixes: How to Repair a Non-Functional Logitech G230 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-microphone-issues-in-google-meet-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Microphone Issues in Google Meet on Windows 11 & 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-your-ideal-vr-gear-selection-would-you-prefer-the-ease-of-mobile-or-tethered-setup-for-2024/"><u>Unveiling Your Ideal VR Gear Selection Would You Prefer the Ease of Mobile or Tethered Setup for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-efficient-gaming-footage-with-camcapture/"><u>[New] Efficient Gaming Footage with CamCapture</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-corsair-headset-not-working/"><u>[SOLVED] Corsair Headset Not Working</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-closer-examination-of-googles-ar-stickers-and-competitors/"><u>2024 Approved A Closer Examination of Google's AR Stickers and Competitors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-hustle-free-route-mastering-podcast-live-broadcasting/"><u>2024 Approved The Hustle-Free Route Mastering Podcast Live Broadcasting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressed-how-to-fix-no-sound-on-twitch-a-comprehensive-guide/"><u>Addressed: How To Fix No Sound on Twitch - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016498354-cant-use-my-blue-yeti-mic-here-are-the-ultimate-solutions/"><u>Can't Use My Blue Yeti Mic? Here Are the Ultimate Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experts-reveal-why-hdmi-sound-isnt-working-on-windows-7-and-how-to-fix-it/"><u>Experts Reveal Why HDMI Sound Isn't Working on Windows 7 and How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-notepad-strategies-for-a-responsive-windows-companion-app/"><u>Fixing Notepad: Strategies for a Responsive Windows Companion App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016334648-fixing-your-windows-1110-zoom-mic-issues-expert-solutions/"><u>Fixing Your Windows 11/10 Zoom Mic Issues: Expert Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-cant-hear-you-fix-your-voice-chat-issues-instantly-with-these-tips/"><u>Fortnite Can't Hear You? Fix Your Voice Chat Issues Instantly With These Tips!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-expert-recommended-sub-to-srt-tools-top-8-guide-reviewed/"><u>In 2024, Expert Recommended Sub to SRT Tools Top 8 Guide Reviewed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-100-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor 100 Prowith/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016594663-restoring-audio-for-usb-earbuds-plugged-into-windows-aturality-with-a-sophisticated-natural-feel/"><u>Restoring Audio for USB Earbuds Plugged Into Windows Aturality with a Sophisticated, Natural Feel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016295345-stereo-mix-not-working-heres-how-to-get-it-up-and-running-again/"><u>Stereo Mix Not Working? Here's How to Get It Up & Running Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016616096-substances-with-low-specific-heats-heat-up-and-cool-down-quickly-while-those-with-high-specific-heats-change-temperature-more-slowly/"><u>Substances with Low Specific Heats Heat up and Cool Down Quickly, While Those with High Specific Heats Change Temperature More Slowly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721441494783-the-mystery-of-an-offline-find-my-iphone-device-heres-what-you-can-do/"><u>The Mystery of an Offline Find My iPhone Device? Here’s What You Can Do</u></a></li>
 </ul></div>
 

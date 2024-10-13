@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Solving No Audio When Connecting Your PC to a Television Using an HDMI Cable
-date: 2024-10-06T09:57:01.020Z
-updated: 2024-10-07T02:50:50.548Z
+date: 2024-10-09T22:10:50.000Z
+updated: 2024-10-12T18:59:57.094Z
 tags:
   - win11
   - win10
@@ -32,19 +32,6 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Try the back audio jacks**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Set your audio device as default
 
  Perhaps your device connected to your front audio jack is not working properly because it’s not set as the default device. To check your default audio device:
@@ -54,10 +41,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348985cac7a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** If you connect your_headphone_ or your_speakers_ to the front audio jack, click the**Playback** tab. If you connect your_microphone_ , click the**Recording** tab.
@@ -69,10 +56,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b34902f6d664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Check to see if you’re able to use your audio device.
@@ -80,10 +67,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
  Hopefully this works for you. But if not, there are two more fixes for you to try…
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -108,6 +95,13 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Try the back audio jacks
 
  You may have hardware issues with your front audio jacks. So it’s worth checking the audio jacks on your motherboard to see if your issues are occurring on your front jack only.
@@ -131,16 +125,18 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tumblr-id-visualization-guide-size-format-duration/"><u>[New] 2024 Approved Tumblr ID Visualization Guide Size, Format, Duration</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unboxing-flight-comprehensive-guide-to-dji-phantom-4/"><u>[Updated] Unboxing Flight Comprehensive Guide to DJI Phantom 4</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-pace-control-top-tips-for-slower-views-48-chars/"><u>2024 Approved Mastering YouTube Pace Control Top Tips for Slower Views (48 Chars)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-luna-gaming-console-analysis-impressive-effortless-video-game-broadcasting/"><u>Amazon Luna Gaming Console Analysis: Impressive, Effortless Video Game Broadcasting</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/get-your-windows-11-video-audio-codecs-installed-in-no-time/"><u>Get Your Windows 11 Video, Audio Codecs Installed in No Time!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-restoring-audio-in-zoom-meetings-for-windows-users/"><u>Guide: Restoring Audio in Zoom Meetings for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-quickly-troubleshoot-a-non-functioning-mic-on-google-hangouts/"><u>How to Quickly Troubleshoot a Non-Functioning Mic on Google Hangouts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-in-game-sounds-in-eas-anthem-for-pc-users/"><u>How to Reactivate In-Game Sounds in EA's Anthem for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-windows-10-sound-card-troubles-with-these-easy-solutions/"><u>Solve Windows 10 Sound Card Troubles with These Easy Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-on-your-computer-how-to-restore-speaker-functionality-in-windows-e10/"><u>Solving Sound Problems on Your Computer: How to Restore Speaker Functionality in Windows E10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-the-full-potential-of-your-gaming-rig-by-boosting-frames-per-second-in-ring-of-elysium-best-tips-inside/"><u>Unlock the Full Potential of Your Gaming Rig by Boosting Frames Per Second in Ring of Elysium – Best Tips Inside</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-expert-advice-capturing-and-storing-twitter-vids-on-phones/"><u>[New] Expert Advice Capturing and Storing Twitter Vids on Phones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-innovative-design-crafting-youtubes-efficient-subscribe-page/"><u>[Updated] In 2024, Innovative Design Crafting YouTube's Efficient Subscribe Page</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-the-basics-a-thorough-guide-to-using-mobizen-recorders/"><u>[Updated] In 2024, Mastering the Basics A Thorough Guide to Using Mobizen Recorders</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-stream-at-peak-performance-best-gpu-selection-guide-for-2024/"><u>[Updated] Stream at Peak Performance Best GPU Selection Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhance-your-websites-visitor-tracking-capabilities/"><u>Cookiebot-Enabled: Enhance Your Website's Visitor Tracking Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-inoperative-sound-hardware-in-windows-11-systems/"><u>Diagnose and Repair Inoperative Sound Hardware in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-get-your-logitech-g-pro-x-mic-up-and-running-again/"><u>Effective Techniques to Get Your Logitech G Pro X Mic Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-black-ops-resolving-cold-war-game-sound-issues-on-pc/"><u>Fixing Silent Black Ops: Resolving Cold War Game Sound Issues on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-on-your-pc-during-zoom-calls/"><u>How to Restore Audio Functionality on Your PC During Zoom Calls</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>New In 2024, Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-connection-problem-troubleshooting-a-non-responsive-bluetooth-speaker/"><u>Silent Connection Problem: Troubleshooting a Non-Responsive Bluetooth Speaker</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-15-plus-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 15 Plus</u></a></li>
 </ul></div>
 

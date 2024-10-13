@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Discord Voice Working? Expert Advice for Immediate Resolution
-date: 2024-09-18T18:11:00.839Z
-updated: 2024-09-21T19:36:58.604Z
+date: 2024-10-09T21:11:40.652Z
+updated: 2024-10-12T21:16:11.959Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ If that didn’t work, proceed to the next fix.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
 
 ![confirm to change audio subsystem Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm-to-change-audio-subsystem.jpg)
@@ -88,11 +95,25 @@ Here’s how to update drivers with Driver Easy:
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your PC. If your problem persists, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Set the audio device as the default
 
@@ -106,13 +127,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![set input and output device correctly](https://images.drivereasy.com/wp-content/uploads/2020/12/input-and-output-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once done, follow the steps below to set your audio device as the Default Communication Device:
 
  1) On your taskbar, right-click on the sound icon and select**Sounds** to open the Sound window.  
@@ -120,16 +134,10 @@ Here’s how to update drivers with Driver Easy:
 ![set audio device as default Discord can't hear anyone](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Sounds.png)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the**Playback** tab. Click on your audio device. Then in the lower right, click on the drop-down menu next to the**Set Default** option and select**Default Communication Device** .
@@ -137,6 +145,13 @@ Here’s how to update drivers with Driver Easy:
  3) Click**Apply > OK** to apply the changes. Then open the Discord app to check if you can hear your people now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Use the correct output device
 
@@ -149,13 +164,6 @@ Here’s how to update drivers with Driver Easy:
  2) On the left pane, select**Voice & Video** . Under the**OUTPUT DEVICE** section, click on the down arrow and select your output device instead of Default.
 
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Exit the Settings and you should be able to hear something from Discord.
 
@@ -186,5 +194,16 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-much-wealth-awaits-one-million-youtube-followers/"><u>[New] How Much Wealth Awaits One Million YouTube Followers?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>[Updated] 2024 Approved Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-optimal-sound-settings-win-for-2024/"><u>[Updated] Optimal Sound Settings WIN for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sound-card-complications-for-dell-computers-in-wndows-7/"><u>How to Resolve Sound Card Complications for Dell Computers in Wndows 7</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-earths-highest-paid-online-video-personality/"><u>In 2024, Earth's Highest-Paid Online Video Personality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-bluetooth-sound-latency-issues-with-these-easy-steps/"><u>Solve Your Bluetooth Sound Latency Issues with These Easy Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-skewed-media-quality-from-youtube/"><u>Streamlining Skewed Media Quality From YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-headset-malfunctions-in-windows-7/"><u>Troubleshoot and Repair Headset Malfunctions in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-solving-the-zoom-has-no-sound-dilemma/"><u>Troubleshooting PC Audio Issues: Solving the 'Zoom Has No Sound' Dilemma</u></a></li>
+</ul></div>
 

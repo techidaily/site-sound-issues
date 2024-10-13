@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional Audio in Windows 10 - Solved!
-date: 2024-09-12T18:24:36.769Z
-updated: 2024-09-16T19:00:54.868Z
+date: 2024-10-11T17:23:13.610Z
+updated: 2024-10-12T17:39:20.223Z
 tags:
   - win11
   - win10
@@ -76,11 +76,26 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
@@ -94,10 +109,26 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -121,12 +152,21 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-maximize-your-gains-highest-earning-instagram-tactics/"><u>[New] In 2024, Maximize Your Gains Highest Earning Instagram Tactics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-webcam-innovation-for-everyday-life/"><u>[Updated] Webcam Innovation for Everyday Life</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>2024 Approved Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nubia-red-magic-8s-proplus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nubia Red Magic 8S Pro+ System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-removing-irritating-buzz-when-using-headsets/"><u>DIY Guide: Removing Irritating Buzz When Using Headsets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-repair-tips-for-a-non-functional-hyperx-cloud-headset-microphone/"><u>Effective Repair Tips for a Non-Functional HyperX Cloud Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-noise-free-experience-overcoming-lack-of-audio-in-hdmi-connections-between-computer-monitor-and-tv/"><u>Fix Noise-Free Experience: Overcoming Lack of Audio in HDMI Connections Between Computer, Monitor, and TV</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-narzo-60-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme Narzo 60 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104594806-no-more-frustration-quickly-fix-driver-not-available-for-itbm/"><u>No More Frustration – Quickly Fix 'Driver Not Available' For ITBM!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-diagnosing-and-repairing-sound-errors-on-windows-10/"><u>Step-by-Step Guide to Diagnosing & Repairing Sound Errors on Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-sony-xperia-5-unveiled-slim-profile-yet-pricey-choice/"><u>The Sony Xperia 5 Unveiled: Slim Profile Yet Pricey Choice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-no-sound-in-your-logitech-g933-mic/"><u>Troubleshooting Tips for No Sound in Your Logitech G933 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unsticking-a-jammed-steam-voice-chat-expert-solutions-at-hand/"><u>Unsticking a Jammed Steam Voice Chat: Expert Solutions at Hand</u></a></li>
+</ul></div>
 

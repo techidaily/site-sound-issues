@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Laptop Speakers – Easy Fixes That Work!
-date: 2024-09-17T17:25:21.608Z
-updated: 2024-09-21T19:39:30.414Z
+date: 2024-10-07T21:34:15.531Z
+updated: 2024-10-12T18:21:31.763Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
 
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Enable your headset mic for recording
 
  When your microphone doesn’t have access to your PC to record your audio, it won’t work. Here’s how to enable your headset mic:
@@ -55,11 +62,34 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Set your headset as the audio input device
 
@@ -68,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
 1. Type**sound input** in the search bar on your taskbar, then click**Sound input device properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/search-sound-input.jpg)
 2. **Select your headset as the input device** . It could be shown as HyperX Cloud Alpha S or Headset.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
@@ -88,23 +111,24 @@ thumbnail: https://thmb.techidaily.com/bf4984e0ce61370d66d64dec7394dd5194f1497b8
 1. Type**microphone** in the search bar next to the Start button, and click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t fix your mic problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Update your audio driver
 
@@ -145,5 +169,23 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>[New] Analytics Mastery Measuring Success on Your Instagram Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-obs-studio-vs-bandicam-which-takes-the-crown/"><u>[New] In 2024, OBS Studio Vs. Bandicam Which Takes the Crown?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-as-a-film-studio-tutorials-and-competitive-choices/"><u>[New] YouTube as a Film Studio Tutorials & Competitive Choices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-showcase-your-story-premium-ig-covers-for-iphone-users/"><u>[Updated] Showcase Your Story Premium IG Covers for iPhone Users</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/acquiring-animated-emojis-for-disco-without-a-subscription/"><u>Acquiring Animated Emojis for Disco Without a Subscription</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-headset-malfunctions-in-windows-7-operating-system/"><u>Diagnosing & Repairing Headset Malfunctions in Windows 7 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-volume-woes-heres-how-to-regain-sound-capability-on-your-chats-and-voice-calls/"><u>Discord Volume Woes? Here's How to Regain Sound Capability on Your Chats and Voice Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-back-4-blood-a-comprehensive-guide/"><u>Fixing Voice Communication Issues in 'Back 4 Blood' - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-astro-a10-microphone-issues-troubleshooting-tips-and-solutions/"><u>Fixing Your Astro A10 Microphone Issues: Troubleshooting Tips & Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hdmi-device-conflict-resolution-tips-for-when-other-programs-are-running/"><u>HDMI Device Conflict Resolution: Tips for When Other Programs Are Running</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-learn-ipads-screen-sharing-basics/"><u>In 2024, Learn iPad's Screen Sharing Basics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016233789-networking-opportunities/"><u>Networking Opportunities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hd-audio-issues-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting Realtek HD Audio Issues: Why It Won't Launch and How to Fix It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-correcting-the-missing-pdhdll-file-mistake/"><u>Understanding and Correcting the Missing pdh.dll File Mistake</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unpacking-the-dji-phantom-3-standard-features/"><u>Unpacking the DJI Phantom 3 Standard Features</u></a></li>
+</ul></div>
 

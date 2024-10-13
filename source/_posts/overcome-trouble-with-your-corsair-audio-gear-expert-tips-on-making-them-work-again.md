@@ -1,7 +1,7 @@
 ---
 title: "Overcome Trouble with Your Corsair Audio Gear: Expert Tips on Making Them Work Again"
-date: 2024-09-30T21:25:18.657Z
-updated: 2024-10-07T05:28:00.617Z
+date: 2024-10-09T20:24:43.665Z
+updated: 2024-10-12T18:08:32.047Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your Sound settings
 
  Usually Windows will identify your plugged-in headset as the default playback/recording device, but that’s not always the case. To see if there’s anything wrong with the settings for your Razer ManO’War, please perform the following procedure:
@@ -63,37 +56,50 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also right-click**Razer ManO’War** and check if it is disabled. If it is, select**Enable** to get your mic working.
 
  4) Right-click**Razer ManO’War** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-106.png)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the**Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**OK** to save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now check to see if your Razer ManO’War mic is working properly. If it isn’t, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Modify Privacy settings
 
@@ -114,16 +120,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix didn’t help, please try out the next fix.
@@ -131,10 +131,10 @@ If this fix didn’t help, please try out the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Razer Synapse
@@ -148,6 +148,13 @@ If this fix didn’t help, please try out the next fix.
  2) Go to the **[support center](https://support.razer.com/)**  of Razer. Under**Select a product** , click**Headsets & Audio** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-109.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the next page, scroll down and select**Razer ManO’War** .
 
@@ -165,13 +172,6 @@ If this fix didn’t help, please try out the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your device drivers
 
  Sometimes an out-dated or corrupt device driver (e.g., audio drivers, CPU drivers) may give rise to the mic-not-working issue. The reasons can hardly be elaborated, but chances are your Razer ManO’War mic may be messed up with its drivers or those of other hardware components. If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -188,16 +188,16 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your audio driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -238,22 +238,22 @@ If this fix didn’t help, please try out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-bridging-the-gap-integrating-spotify-and-youtube-music-playlists/"><u>[New] 2024 Approved Bridging the Gap Integrating Spotify and YouTube Music Playlists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tailor-made-templates-for-movie-endings-all-free-of-charge/"><u>[New] Tailor-Made Templates for Movie Endings – All Free of Charge</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-art-of-flawless-instantaneous-iphone-podcast-downloads/"><u>[Updated] Unlocking the Art of Flawless, Instantaneous iPhone Podcast Downloads</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-your-connection-for-seamless-steam-voice-interaction/"><u>Expert Tips: Restoring Your Connection for Seamless Steam Voice Interaction 🌐</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-into-battle-with-a-sound-fix-for-your-fortnite-game-issues/"><u>Get Back Into Battle with a Sound Fix for Your Fortnite Game Issues</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-15-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 15 Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-sensual-sequence-capturing-culinary-creativity-on-camera/"><u>In 2024, Sensual Sequence Capturing Culinary Creativity on Camera</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovative-techniques-to-make-a-mark-with-your-gopro-studio-edits/"><u>Innovative Techniques to Make a Mark with Your GoPro Studio Edits</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-11-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 11 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-solving-astro-a50-microphone-issues/"><u>Quick Fix Guide: Solving Astro A50 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sennheiser-game-one-microphone-malfunctions-heres-how-to-fix-them/"><u>Sennheiser Game One Microphone Malfunctions? Here's How to Fix Them!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-a-detailed-guide-to-fixing-audio-issues-on-your-computer/"><u>Solving 'No Sound' Problems: A Detailed Guide to Fixing Audio Issues on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolving-in-game-sounds-in-new-world/"><u>Step-by-Step Tutorial: Resolving In-Game Sounds in New World</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-left-and-right-channel-issues-effective-fixes-for-a-clearer-sound-experience/"><u>Troubleshoot Left and Right Channel Issues: Effective Fixes for a Clearer Sound Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-non-functional-logitech-g633-mic-solutions-inside/"><u>Troubleshooting the Non-Functional Logitech G633 Mic - Solutions Inside</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-collaborative-gaming-learn-to-share-your-playstation-5-experiences-with-friends-easily/"><u>Unlock Collaborative Gaming: Learn to Share Your PlayStation 5 Experiences with Friends Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebooks-pivot-to-short-form-content-unpacking-2023-changes/"><u>[New] 2024 Approved Facebook's Pivot to Short-Form Content Unpacking 2023 Changes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-experts-blueprint-boosting-income-via-vimeo-advertising/"><u>[Updated] 2024 Approved The Expert's Blueprint Boosting Income via Vimeo Advertising</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-essential-guide-to-earning-money-on-youtube-shorts-quickly/"><u>[Updated] In 2024, The Essential Guide to Earning Money on YouTube Shorts Quickly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-bust-a-smile-well-up-in-tears-with-top-10-instagram-meme-groups/"><u>2024 Approved Bust a Smile, Well Up in Tears with Top 10 Instagram Meme Groups</u></a></li>
+<li><a href="https://article-tips.techidaily.com/advanced-mac-skills-perfecting-srt-file-management-for-2024/"><u>Advanced Mac Skills Perfecting SRT File Management for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-your-bluetooth-audio-lag-in-seconds-with-these-effortless-tips/"><u>Banish Your Bluetooth Audio Lag in Seconds with These Effortless Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypass-audio-troubles-in-audacity-a-guide-to-fixing-sound-device-issues-5-steps/"><u>Bypass Audio Troubles in Audacity: A Guide to Fixing Sound Device Issues [5 Steps]</u></a></li>
+<li><a href="https://windows11.techidaily.com/examining-why-drive-letters-are-missing-from-windows-systems/"><u>Examining Why Drive Letters Are Missing From Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016463820-experiencing-no-audio-from-your-connected-bluetooth-device-find-out-how-to-resolve-it/"><u>Experiencing No Audio From Your Connected Bluetooth Device - Find Out How to Resolve It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-and-fixes-for-malfunctioning-computer-sound-equipment/"><u>Expert Tips & Fixes for Malfunctioning Computer Sound Equipment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-worlds-solving-valheim-audio-issues-on-pc/"><u>Fixing Silent Worlds: Solving Valheim Audio Issues on PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-m6-pro-4g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco M6 Pro 4G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-on-your-mac-proven-techniques-to-restore-system-volume/"><u>No Audio on Your Mac? Proven Techniques to Restore System Volume</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/seamless-listening-experience-eliminate-audio-distortion-in-windows-operating-systems/"><u>Seamless Listening Experience: Eliminate Audio Distortion in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-fixing-airpods-microphone-issues-on-microsofts-operating-system/"><u>Solution Steps for Fixing AirPods Microphone Issues on Microsoft's Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-driver-downloads-for-the-sm-bus-controller-across-multiple-windows-operating-systems/"><u>Updated Driver Downloads for the SM Bus Controller Across Multiple Windows Operating Systems</u></a></li>
 </ul></div>
 

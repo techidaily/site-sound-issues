@@ -1,7 +1,7 @@
 ---
 title: "Regain Your Computer's Voice: Fixing the Sound Loss After a Windows 11 Update"
-date: 2024-10-04T05:00:25.145Z
-updated: 2024-10-06T21:56:13.259Z
+date: 2024-10-10T00:13:21.270Z
+updated: 2024-10-12T22:35:16.854Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  It’s likely your audio driver becomes incompatible after upgrading Windows system, so it’s recommended to update your audio driver to fix the no sound issue.
@@ -49,13 +56,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
@@ -63,6 +63,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check audio settings
 
@@ -91,30 +98,23 @@ Still no luck? Okay, there’s one more thing to try.
 3. Double click**Sound, video and game controllers** to expand it.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
@@ -145,20 +145,24 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-gaining-heavy-followers-and-verification-status-a-quick-guide-with-top-6-insights-for-2024/"><u>[New] Gaining Heavy Followers & Verification Status A Quick Guide with Top 6 Insights for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-learn-selective-picture-clarity-reduction/"><u>[New] Learn Selective Picture Clarity Reduction</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-what-does-it-take-to-promote-a-video-on-youtub/"><u>[Updated] 2024 Approved What Does It Take to Promote a Video on YouTub?</u></a></li>
-<li><a href="https://facebook.techidaily.com/delay-in-announcing-new-privacy-policies-by-whatsapp/"><u>Delay in Announcing New Privacy Policies by WhatsApp</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-persistent-audio-disruptions-on-your-pc-running-windows-10/"><u>Fixing Persistent Audio Disruptions on Your PC Running Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-15-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 15 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restart-the-dolby-sound-driver-in-windows-11/"><u>How to Troubleshoot and Restart the Dolby Sound Driver in Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-incorporating-soundscapes-into-your-social-media-masterpieces/"><u>In 2024, Incorporating Soundscapes Into Your Social Media Masterpieces</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-top-11-list-excellent-audio-devices/"><u>In 2024, Ultimate Top 11 List Excellent Audio Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-output-successfully-mended-sound-problem-in-firefox/"><u>Reviving Audio Output: Successfully Mended Sound Problem in Firefox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-steps-to-silence-stop-your-speakers-from-buzzing/"><u>Simple Steps to Silence: Stop Your Speakers From Buzzing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolve-your-logitech-g430-headset-microphone-issues/"><u>Troubleshooting Guide: Resolve Your Logitech G430 Headset Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-non-functioning-mic-on-your-steelseries-arctis-99x-wireless-earphones/"><u>Troubleshooting Tips for Non-Functioning Mic on Your SteelSeries Arctis 9/9X Wireless Earphones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/your-comprehensive-pathway-to-hidden-youtube-treasures-for-2024/"><u>Your Comprehensive Pathway to Hidden YouTube Treasures for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs-for-2024/"><u>[New] Simplifying Streaming Key Tactics for YouTube & Twitch via OBS for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-youtube-community-interaction/"><u>[Updated] Understanding YouTube Community Interaction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bikers-ultimate-camera-companion-list-update-for-2024/"><u>Biker's Ultimate Camera Companion List Update for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crackling-no-more-seamless-solutions-for-your-headphone-woes/"><u>Crackling No More: Seamless Solutions for Your Headphone Woes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-crackling-audio-output-a-step-by-step-guide-for-windows-users/"><u>Dealing with Crackling Audio Output: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-repair-risk-of-rain-2-game-crash-issues-for-a-smooth-play-experience/"><u>How to Prevent and Repair Risk of Rain 2 Game Crash Issues for a Smooth Play Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-g42-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on G42 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-audio-improvements-on-your-pc-a-step-by-step-guide-for-windows-10/"><u>How to Turn Off Audio Improvements on Your PC: A Step-by-Step Guide for Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016801373-immediate-remedies-for-astro-a50-speaker-issues-get-sounds-back-asap/"><u>Immediate Remedies for Astro A50 Speaker Issues - Get Sounds Back ASAP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-resolving-problems-with-discords-audio-communication/"><u>Quick Guide: Resolving Problems with Discord's Audio Communication</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rapid-fire-windowed-image-reader-for-2024/"><u>Rapid-Fire Windowed Image Reader for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-defeating-hearthstones-muted-gameplay-dilemma/"><u>Silence No More: Defeating Hearthstone's Muted Gameplay Dilemma</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-studying-without-dependence-on-chatgpt/"><u>Smart Studying Without Dependence on ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-microphone-functionality-for-google-meet-on-pcs-running-windows-1110/"><u>Solved! How to Restore Microphone Functionality for Google Meet on PCs Running Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/soundcheck-success-testing-your-microphone-in-minutes/"><u>Soundcheck Success: Testing Your Microphone in Minutes</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-motorola-edge-2023-by-fonelab-android-recover-music/"><u>The way to get back lost music from Motorola Edge 2023</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-challenges-preventing-apple-users-from-sending-gifts-via-ios/"><u>Top 5 Challenges Preventing Apple Users From Sending Gifts via iOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mic-and-microphone-issues-in-sea-of-thieves-pc-edition/"><u>Troubleshooting Mic and Microphone Issues in Sea of Thieves - PC Edition</u></a></li>
 </ul></div>
 

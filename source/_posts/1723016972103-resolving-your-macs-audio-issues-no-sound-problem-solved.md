@@ -1,7 +1,7 @@
 ---
 title: "Resolving Your Mac's Audio Issues: No Sound Problem Solved!"
-date: 2024-09-12T17:29:17.741Z
-updated: 2024-09-16T20:38:15.004Z
+date: 2024-10-11T19:58:59.793Z
+updated: 2024-10-13T00:55:39.692Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes you can’t hear sound from your speakers simply because the volume is mute or set too low.
@@ -63,6 +70,13 @@ To make sure the volume is audible:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,22 +91,16 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e879b5615.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -110,41 +118,22 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
  3) Check to see if your Lenovo no sound problem has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
 
@@ -160,16 +149,16 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80da9483df.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Enhancements** tab, then tick **the bo** x for **Disable all enhancements** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd80d9349581.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Test your audio device and see if the no sound issue is resolved.
 
@@ -196,5 +185,21 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-spotlight-series-celebrating-top-10-game-bloggers/"><u>[New] In 2024, Spotlight Series Celebrating Top 10 Game Bloggers</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/comment-convertissez-les-fichiers-video-vob-volumineux-proteges-et-non-proteges-en-mp4-sans-frais/"><u>Comment Convertissez Les Fichiers Vidéo VOB Volumineux, Protégés Et Non Protégés en MP4 Sans Frais ?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fix-for-non-functional-mics-caused-by-oxidation-the-latest-strategies-guide-for-2e4/"><u>DIY Fix for Non-Functional Mics Caused by Oxidation: The Latest Strategies (Guide for 2E4)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-your-nonfunctional-razor-kraken-microphone/"><u>Fixing the Issue: How to Troubleshoot Your Nonfunctional Razor Kraken Microphone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-x-flip-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo X Flip FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-organize-your-videos-best-mp4-tag-editors-for-windows-and-mac/"><u>New 2024 Approved Organize Your Videos Best MP4 Tag Editors for Windows and Mac</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-fade-in-and-fade-out-audio-in-imovie/"><u>New How to Fade in and Fade Out Audio in iMovie?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/pioneer-dj-ddj-sx2-driver-downloads-easy-installation-steps-for-enthusiasts/"><u>Pioneer DJ DDJ-SX2 Driver Downloads: Easy Installation Steps for Enthusiasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-crackling-sound-problem-on-windows-11-and-7-easy-solutions/"><u>Resolve Your Crackling Sound Problem on Windows 11 & 7 - Easy Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-logitech-g933-expert-tips-for-fixing-a-dead-microphone/"><u>Reviving the Logitech G933 - Expert Tips for Fixing a Dead Microphone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-essential-guide-to-4-premium-fullscreen-software/"><u>The Essential Guide to 4 Premium Fullscreen Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-resolve-your-apex-legends-game-when-there-is-no-sound/"><u>The Ultimate Guide to Resolve Your Apex Legends Game When There Is No Sound</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-seamless-crossfading-in-audacity-for-2024/"><u>Tips for Seamless Crossfading in Audacity for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-nonfunctional-razer-kraken-microphone-now/"><u>Troubleshoot and Repair Your Nonfunctional Razer Kraken Microphone Now</u></a></li>
+</ul></div>
 

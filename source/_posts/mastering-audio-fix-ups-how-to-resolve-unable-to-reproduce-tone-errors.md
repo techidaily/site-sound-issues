@@ -1,7 +1,7 @@
 ---
 title: "Mastering Audio Fix-Ups: How to Resolve 'Unable to Reproduce Tone' Errors"
-date: 2024-10-04T03:49:32.358Z
-updated: 2024-10-07T07:44:48.008Z
+date: 2024-10-05T16:59:23.122Z
+updated: 2024-10-12T17:33:10.802Z
 tags:
   - win11
   - win10
@@ -110,6 +110,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your issue continues, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -133,10 +140,10 @@ OR
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair_Hearthstone_ files
@@ -149,18 +156,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -169,6 +176,13 @@ OR
 **1)** Right-click**Battle.net.exe** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-423.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
@@ -192,13 +206,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-550.jpg)
@@ -207,15 +214,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-551.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-552.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Click**DONE** to save the changes.
@@ -223,13 +237,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -246,13 +253,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-438.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-439.jpg)
@@ -267,33 +267,33 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-441.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Right-click**Battle.net** , then click**Uninstall/Change** .
 
  If you’re prompted about permission, select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-445.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard launcher.
 
@@ -323,19 +323,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-legacy-linkup-software/"><u>[New] 2024 Approved Legacy Linkup Software</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>[New] In 2024, The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-taking-screen-grabs-compliance-on-youtube/"><u>[New] Taking Screen Grabs Compliance on YouTube</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-sound-blaster-z-drivers-compatible-with-windows-11-step-by-step-guide/"><u>Download the Sound Blaster Z Drivers Compatible with Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-itunes-to-acknowledge-your-iphone-on-the-newest-windows-11-platform/"><u>How to Get iTunes to Acknowledge Your iPhone on the Newest Windows 11 Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-alpha-s-microphone-not-functioning-heres-the-ultimate-guide-to-get-it-working-again/"><u>HyperX Alpha S Microphone Not Functioning? Here's the Ultimate Guide to Get It Working Again</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-webinar-video-archive-creation/"><u>In 2024, Webinar Video Archive Creation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-common-mac-sound-problems-and-fixes-for-better-audio-quality/"><u>Solved! Common Mac Sound Problems & Fixes for Better Audio Quality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-pc-audio-troubles-in-sea-of-thieves-voice-chat-guide/"><u>Solving PC Audio Troubles in Sea of Thieves - Voice Chat Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-windows-camera-error-code-0xa00f4292-issues/"><u>Step-by-Step Fixes for Windows Camera Error Code 0XA00F4292 Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-fix-for-intermittent-audio-failures-in-windows-10-devices/"><u>The Definitive Fix for Intermittent Audio Failures in Windows 10 Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/visionary-templates-high-quality-afx-design-resources-for-2024/"><u>Visionary Templates High-Quality AFX Design Resources for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015957648-windows-11-audio-enhancement-disabling-instructions-do-it-yourself/"><u>Windows 11 Audio Enhancement Disabling Instructions – Do It Yourself!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/onquering-the-labyrinth-of-lesser-known-youtube-content-for-2024/"><u>[New] Conquering the Labyrinth of Lesser-Known YouTube Content for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-navigating-minecraft-recording-top-5-techniques-for-mac-users/"><u>[Updated] 2024 Approved Navigating Minecraft Recording Top 5 Techniques for Mac Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-masterpiece-episodes-for-airwaves/"><u>[Updated] In 2024, Masterpiece Episodes for Airwaves</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-thorough-examination-capturing-life-in-full-with-gear-360/"><u>[Updated] In 2024, Thorough Examination Capturing Life in Full with Gear 360</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-step-by-step-on-capturing-facetime-calls/"><u>2024 Approved Step-by-Step on Capturing FaceTime Calls</u></a></li>
+<li><a href="https://blog-min.techidaily.com/3g23g-mp4/"><u>専門家がお勧めする3G2ビデオ変換ソフトウェア：3G ファイルからMP4に簡単に変更してみませんか？</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solution-guide-how-to-repair-your-astro-a20-microphone-issues/"><u>Quick Solution Guide: How to Repair Your Astro A20 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-stop-speaker-buzzing-with-these-simple-steps/"><u>Quick Solutions: Stop Speaker Buzzing with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-for-restoring-audio-on-windows-11-systems/"><u>Quick Troubleshooting Guide for Restoring Audio on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-sound-solving-windows-11s-audio-problem-a-step-by-step-guide/"><u>Revive Your Sound: Solving Windows 11'S Audio Problem – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-iphone-cannot-restore-error-a-step-by-step-guide/"><u>Solving 'iPhone Cannot Restore' Error: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

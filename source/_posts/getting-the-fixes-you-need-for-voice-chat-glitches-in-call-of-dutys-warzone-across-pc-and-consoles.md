@@ -1,7 +1,7 @@
 ---
 title: Getting the Fixes You Need for Voice Chat Glitches in Call of Duty's Warzone - Across PC & Consoles
-date: 2024-09-30T20:56:50.623Z
-updated: 2024-10-07T09:10:43.709Z
+date: 2024-10-12T01:40:57.172Z
+updated: 2024-10-12T21:51:04.067Z
 tags:
   - win11
   - win10
@@ -41,36 +41,46 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 See if your Logitech G230 mic works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -79,20 +89,6 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 1. On your keyboard, press the Windows logo key and I at the same time to open Windows Settings. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -111,6 +107,20 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### **Fix 4: Troubleshoot hardware issues**
@@ -140,22 +150,18 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultra-clear-gameplay-best-hdmi-21-monitors-for-ps5-gamers/"><u>[New] 2024 Approved Ultra-Clear Gameplay Best HDMI 2.1 Monitors For PS5 Gamers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-eradicating-warped-imagery-a-complete-guide-to-fixing-gopro-fish-eye/"><u>[New] Eradicating Warped Imagery A Complete Guide to Fixing GoPro Fish Eye</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-capturing-brilliance-with-the-q500-drone/"><u>2024 Approved Capturing Brilliance with the Q500 Drone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/airpods-mic-not-working-on-a-laptop-heres-how-to-get-it-back-up-and-running-in-windows-10-environment/"><u>AirPods Mic Not Working on a Laptop? Here's How to Get It Back Up and Running in Windows 10 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/chromes-sound-troubles-fixed-discover-the-solutions-here/"><u>Chrome's Sound Troubles Fixed? Discover the Solutions Here</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-loudspeaker-issues-on-windows-11-with-these-effective-steps/"><u>Diagnose and Repair Loudspeaker Issues on Windows 11 with These Effective Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-making-realtek-hd-audio-manager-function-again/"><u>Expert Advice on Making Realtek HD Audio Manager Function Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-microsoft-teams-audio-glitches-on-windows-1110-systems/"><u>Expert Tips for Fixing Microsoft Teams Audio Glitches on Windows 11/10 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-tips-to-repair-hp-monitor-connectivity-issues-via-windows-drivers-windows-1087/"><u>Expert Tips to Repair HP Monitor Connectivity Issues via Windows Drivers (Windows 10/8/7)</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-g42-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia G42 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-compendium-for-synchronized-and-curved-videography/"><u>In 2024, Android's Compendium for Synchronized & Curved Videography</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-itel-a60-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Itel A60 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sharpen-the-right-way-selective-blurring-insights/"><u>In 2024, Sharpen the Right Way Selective Blurring Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-from-windows-media-player-find-out-why-and-how-to-resolve-it/"><u>No Sound From Windows Media Player? Find Out Why and How to Resolve It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-nonfunctional-corsair-void-headset-mic/"><u>Step-by-Step Repair Tips for Nonfunctional Corsair Void Headset Mic</u></a></li>
-<li><a href="https://discover-community.techidaily.com/the-ultimate-guide-to-the-top-ranking-no-cost-avi-video-player-apps-on-any-device-updated-list/"><u>The Ultimate Guide to the Top-Ranking No-Cost AVI Video Player Apps on Any Device - Updated List</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-issue-with-overwatchs-push-to-talk-feature/"><u>Troubleshooting Guide: Fixing the Issue with Overwatch's Push-to-Talk Feature</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-the-art-of-thumbnail-design-tips-and-pitfalls/"><u>[New] 2024 Approved Mastering the Art of Thumbnail Design Tips and Pitfalls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-battle-cry-solve-your-valheim-sound-glitch-on-windows-machines/"><u>Bring Back the Battle Cry: Solve Your Valheim Sound Glitch on Windows Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-correcting-non-functional-kotion-g2000-series-microphones/"><u>Expert Advice on Correcting Non-Functional KOTION G2000 Series Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-black-ops-silent-missions-solving-the-no-audio-issue-on-your-pc/"><u>Fixing Black Ops: Silent Missions - Solving the 'No Audio' Issue on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-destiny-2-voice-chat-back-a-step-by-step-solution-guide/"><u>Getting Your Destiny 2 Voice Chat Back: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-resolving-sound-problems-in-realtek-audio-interfaces-fixed/"><u>Guide to Resolving Sound Problems in Realtek Audio Interfaces [Fixed]</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016360291-onikuma-mic-problems-discover-these-fixes-and-regain-voice-control/"><u>Onikuma Mic Problems? Discover These Fixes and Regain Voice Control!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-headset-challenges-in-your-xbox-series-xs-experience/"><u>Overcoming Headset Challenges in Your Xbox Series X/S Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-download-the-perfect-keyboard-driver-for-windows-7-today/"><u>Quick and Simple: Download the Perfect Keyboard Driver for Windows 7 Today</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oppo-a1x-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Oppo A1x 5G</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-vlogger-success-key-youtube-seo-tech/"><u>Unveil Vlogger Success Key YouTube SEO Tech</u></a></li>
 </ul></div>
 

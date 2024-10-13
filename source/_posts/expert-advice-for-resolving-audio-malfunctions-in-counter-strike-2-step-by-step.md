@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Resolving Audio Malfunctions in Counter-Strike 2 – Step by Step
-date: 2024-09-10T18:36:06.893Z
-updated: 2024-09-16T17:07:46.724Z
+date: 2024-10-06T18:10:00.594Z
+updated: 2024-10-12T19:33:56.033Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ Communication is key in Counter-Strike 2, allowing you to provide valuable callo
 
  If you’re sure that your microphone is functioning well but your teammates still cannot hear you, you’ll need to tweak some settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Make sure your mic is set as the default input device
 
  Sometimes, your microphone may not be set as the default input device, both on your operating system’s sound settings and in-game settings.
@@ -101,14 +108,14 @@ Follow the steps below to check it.
 
 ![Counter-Strike 2 - Voice Transmission Threshold - Off](https://images.drivereasy.com/wp-content/uploads/2023/11/Counter-Strike-2-Voice-Transmission-Threshold-Off.jpg)
 
- After making these changes, test your microphone. If your problem persists, no worries! Below are some other fixes for you to try.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After making these changes, test your microphone. If your problem persists, no worries! Below are some other fixes for you to try.
 
 ### 3\. Make sure apps have access to the microphone
 
@@ -121,13 +128,6 @@ Follow the steps below to check it.
 3. Toggle on**Microphone access** and**Let apps access your microphone** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Microphone-access-and-Let-apps-access-your-microphone-On.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Also, make sure that you toggle on**Let desktop apps access your microphone** .  
 
@@ -158,7 +158,21 @@ Follow the steps below to check it.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Start-menu-Check-for-udpates.jpg)
 2. When the updates are available, simply click on the button**Download & install** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click on the**Check for updates** button and follow the on-screen instructions to download the latest updates for your system. You’ll be asked to restart your PC.  
 
@@ -202,18 +216,18 @@ After downloading and installing driver updates, reboot your device.
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-System-Restore.jpg)
 3. Click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Restore-system-files-and-settings.jpg)
 4. Select the restore point that you want to use from the list of results, then click**Scan for affected programs** .  
 
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Scan-for-affected-programs.jpg)
 5. You will see a list of items that will be deleted if you restore to this restore point. If you’re OK with the deletions, select**Close** to proceed.  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-Programs-and-drivers-that-will-be-deleted.jpg)  
 
@@ -224,6 +238,13 @@ After downloading and installing driver updates, reboot your device.
 7. Confirm your restore point and click**Finish** . Then click**Yes** to start restoring the system from the restore point.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-your-restore-point.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the process to complete and your computer will be restarted.
 
@@ -238,15 +259,15 @@ To do this, all you have to do is:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Counter-Strike-2-properties.jpg)
 2. Select the **Installed Files**  tab and click on the **Verify integrity of game files**  button.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Counter-Strike-2-verify-integrity-of-game-files.jpg)
 3. Steam will verify the game’s files – this process may take several minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When the verification process is finished, get into your gameplay and check if your in-game mic is working properly.
 
@@ -260,17 +281,18 @@ To fix it, run the System File Checker scan:
 
 ![how to open the Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-command-prompt-open-as-administrator.jpg)
 2. Click**Yes** when you receive the UAC prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type**sfc /scannow** and hit Enter.  
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 4. If damaged files are found, run **DISM /Online /Cleanup-Image /RestoreHealth**  to repair them.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-DISM-Online-Cleanup-Image-RestoreHealth.jpg)
 
@@ -309,5 +331,23 @@ After the repair, restart your computer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-deciphering-concealed-views-on-video-content/"><u>[New] 2024 Approved Deciphering Concealed Views on Video Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-choosing-your-soundtrack-the-podcast-vs-youtube-showdown/"><u>[Updated] Choosing Your Soundtrack The Podcast Vs. YouTube Showdown</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-engaging-with-your-audience-through-twitter-promos/"><u>[Updated] Engaging With Your Audience Through Twitter Promos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-remedies-for-the-no-sound-dilemma-in-windows-10/"><u>Easy Remedies for the No-Sound Dilemma in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-4-audio-fixes-a-comprehensive-guide-for-a-full-sound-experience-on-pcs/"><u>Fallout 4 Audio Fixes: A Comprehensive Guide for a Full-Sound Experience on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-call-of-duty-modern-warfare-voice-chat-up-and-running-again/"><u>Get Your Call of Duty Modern Warfare Voice Chat Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-ensure-headphone-sounds-arent-leaking-into-your-speakers/"><u>How To Ensure Headphone Sounds Aren't Leaking Into Your Speakers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-update-or-repair-a-missing-widevine-content-decryption-module-on-pcs/"><u>How to Update or Repair a Missing Widevine Content Decryption Module on PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-24-revolutionary-metaverse-concepts-explored-diligently/"><u>In 2024, 24 Revolutionary Metaverse Concepts Explored Diligently</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-softening-edges-strategic-lighting-for-content-creators/"><u>In 2024, Softening Edges Strategic Lighting for Content Creators</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-itel-p55t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Itel P55T Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-microphone-malfunction-troubleshooting-and-fixes/"><u>Onikuma Microphone Malfunction: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-airpods-microphone-issues-on-windows-10-with-these-simple-tips/"><u>Solve Your AirPods Microphone Issues on Windows 10 with These Simple Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/spotting-the-signs-of-an-snapchat-account-closure/"><u>Spotting the Signs of an Snapchat Account Closure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-2024-tutorial-resolving-your-xr30-headset-microphone-issues/"><u>The Ultimate 2024 Tutorial: Resolving Your XR30 Headset Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-trick-to-fast-track-your-microphones-quality-check/"><u>The Ultimate Trick to Fast-Track Your Microphone's Quality Check</u></a></li>
+</ul></div>
 

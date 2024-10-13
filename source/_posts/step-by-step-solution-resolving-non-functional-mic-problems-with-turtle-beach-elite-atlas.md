@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Resolving Non-Functional Mic Problems with Turtle Beach Elite Atlas"
-date: 2024-10-05T16:24:32.689Z
-updated: 2024-10-07T05:58:22.134Z
+date: 2024-10-08T00:45:00.666Z
+updated: 2024-10-13T02:11:15.490Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/c2342fb5e25c5a967555cf815791bd2b9698b049e
 2. **[Allow access to your Logitech G733 microphone](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Check Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Troubleshoot the hardware issues
 
@@ -75,29 +68,52 @@ thumbnail: https://thmb.techidaily.com/c2342fb5e25c5a967555cf815791bd2b9698b049e
 2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 4. Then**right-click** it again and select **Set as Default Device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 5. Right-click **Headset Microphone** and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Headset microphone properties](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 6. Click the **Levels** tab, then drag the volume slider towards the _maximum value_ .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![drag the volume slider towards the maximum value.](https://images.drivereasy.com/wp-content/uploads/2020/12/img_5b4db71801655.jpg)
 7. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
 
@@ -114,28 +130,15 @@ thumbnail: https://thmb.techidaily.com/c2342fb5e25c5a967555cf815791bd2b9698b049e
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
 ![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
 4. Reboot your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -164,20 +167,15 @@ thumbnail: https://thmb.techidaily.com/c2342fb5e25c5a967555cf815791bd2b9698b049e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-deleting-youtube-comments/"><u>[New] In 2024, Deleting YouTube Comments</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-propel-your-digital-presence-past-the-thousand-mark/"><u>[New] In 2024, Propel Your Digital Presence Past the Thousand Mark</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dissecting-asuss-proart-pa-329q-an-expert-review-on-its-professional-capabilities/"><u>[Updated] Dissecting Asus's ProArt PA 329Q An Expert Review on Its Professional Capabilities</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebooks-countdown-the-best-10-music-videos-of-now/"><u>[Updated] In 2024, Facebook's Countdown The Best 10 Music Videos of Now</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-twitch-enthusiasts-recording-guidebook/"><u>[Updated] In 2024, The Twitch Enthusiast's Recording Guidebook</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-thriving-financially-with-successful-facebook-video-advertising-tactics/"><u>[Updated] In 2024, Thriving Financially with Successful Facebook Video Advertising Tactics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-speaker-loudness-on-windows-10-a-step-by-step-guide/"><u>Boosting Speaker Loudness on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-shutting-down-advanced-audio-options-for-windows-10-users/"><u>Expert Tips on Shutting Down Advanced Audio Options for Windows 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-computer-mute-mystery-unraveled-restoring-volume-and-quality-of-sound/"><u>HP Computer Mute Mystery Unraveled: Restoring Volume and Quality of Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-quiet-laptops-reviving-speakers-on-your-lenovo-pc/"><u>No More Quiet Laptops: Reviving Speakers on Your Lenovo PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-your-iphones-messaging-problems-10-key-strategies/"><u>Solving Your iPhone's Messaging Problems: 10 Key Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-non-working-pc-mic-in-dota-2-gameplay/"><u>Step-by-Step Fixes for Non-Working PC Mic in Dota 2 Gameplay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-webcam-apps-featuring-manycam-technology-ideal-for-facebuzz/"><u>Top Webcam Apps Featuring ManyCam Technology Ideal for Facebuzz</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-working-headphones-on-windows-10-systems/"><u>Troubleshooting Non-Working Headphones on Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-amplify-speaker-output-in-windows-10/"><u>Ultimate Tricks to Amplify Speaker Output in Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-science-of-captivating-youtube-thumbnails/"><u>[New] The Science of Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-analytics-enhance-your-sites-data-collection/"><u>Cookiebot-Enabled Analytics: Enhance Your Site's Data Collection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-troubleshooting-your-unresponsive-pebble-speaker/"><u>Fixing Common Issues: Troubleshooting Your Unresponsive Pebble Speaker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-oculus-quest-2-headsets-microphone-working-again-troubleshooting-techniques/"><u>How to Get Your Oculus Quest 2 Headset's Microphone Working Again: Troubleshooting Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-broken-dell-sound-drivers-in-windows-7-easily/"><u>How to Repair Broken Dell Sound Drivers in Windows 7 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restore-voice-chat-functionality-in-destiny-2/"><u>How To Troubleshoot and Restore Voice Chat Functionality in Destiny 2</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-gt-neo-5-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme GT Neo 5 Without PUK Codes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-strategies-delivering-your-selected-video-game-card-online-through-steam/"><u>In-Depth Strategies: Delivering Your Selected Video Game Card Online Through Steam</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/nikon-video-post-production-made-easy-tips-and-tricks-for-2024/"><u>Nikon Video Post-Production Made Easy Tips and Tricks for 2024</u></a></li>
 </ul></div>
 

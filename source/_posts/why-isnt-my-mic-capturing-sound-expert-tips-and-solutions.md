@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Mic Capturing Sound? Expert Tips & Solutions
-date: 2024-09-30T17:33:21.830Z
-updated: 2024-10-07T05:52:44.909Z
+date: 2024-10-08T00:20:16.756Z
+updated: 2024-10-13T01:03:47.890Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 4. [**Check in-game settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Update your audio driver
 
  A missing or outdated audio driver may stop mic from picking up voice. Make sure that the audio driver on your PC is up to date.
@@ -56,13 +63,6 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b1b9d9696.jpg)
 2. Click**Set up microphone** , and follow the Microphone Setup Wizard.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b23de4e69.jpg)
 3. When you reach “Adjust the microphone volume”, please note if the volume bar moves from yellow to red.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6b3b757a02.jpg)
@@ -71,10 +71,10 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Set your mic as your default device
@@ -88,14 +88,22 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 3. Right-click on the device you want to use, and select **Set as Default Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6ca767b35a.jpg)  
 **Note:** You can try speaking into your microphone to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6caa71d6b3.jpg)
 4. Right click on and **disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the **Playback** tab).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6cabba2f9f.jpg)
@@ -106,6 +114,13 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Allow apps to access your mic (Windows 10)
 
  If you mic problem occurs in a specific program, you can go to Windows Settings to check if that program is allowed to access your microphone. Here’s how:
@@ -114,45 +129,32 @@ If your**microphone can’t pick up your voice** despite the computer recognizin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d1f6bf629.jpg)
 2. Click **Privacy** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d22eaa914.jpg)
 3. In the left pane, click **Microphone** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d24e48342.jpg)
 4. In the right pane, click the **Change** button, and you’ll see your mic is turned on. Also make sure **All apps to access your microphone** is enabled.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d2820592a.jpg)
-5. In the section of **Choose which apps can access your microphone** , verify that  the program where you need to use mic is**turned on** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc6d2820592a.jpg)
+5. In the section of **Choose which apps can access your microphone** , verify that  the program where you need to use mic is**turned on** .
 
 6. Test your microphone in that program.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Check in-game settings
 
@@ -197,24 +199,18 @@ Check to see if your mic can pick up voice now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-stepwise-strategy-to-make-mark-with-memes-at-9gag/"><u>[New] A Stepwise Strategy to Make Mark with Memes at 9GAG</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-facebooks-instream-ad-reach-a-detailed-approach/"><u>[New] In 2024, Enhancing Facebook's Instream Ad Reach A Detailed Approach</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-navigating-vertical-vs-horizontal-on-facebook-videos-for-2024/"><u>[New] Navigating Vertical vs Horizontal on Facebook Videos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-reimagine-your-gaming-experience-sonys-audio-customization/"><u>[New] Reimagine Your Gaming Experience Sony's Audio Customization</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-navigating-frames-per-second-in-video-recording-the-3060-dilemma/"><u>[Updated] 2024 Approved Navigating Frames Per Second in Video Recording - The 30/60 Dilemma</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-tips-for-engaging-video-blog-storytelling/"><u>[Updated] In 2024, Tips for Engaging Video Blog Storytelling</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-your-sierra-cloud-storage-effortlessly/"><u>2024 Approved Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/curing-your-pcs-muteness-a-guide-to-restoring-sounds-in-windows-11/"><u>Curing Your PC's Muteness: A Guide to Restoring Sounds in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-malfunctioning-windows-10-microphones/"><u>Diagnose and Repair Malfunctioning Windows 10 Microphones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/easy-steps-for-ios-and-android-capture-google-meet-for-2024/"><u>Easy Steps for iOS and Android Capture Google Meet for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-microphone-failures-in-sonys-high-end-wireless-noise-cancelling-earbuds-for-pc-users/"><u>Fixing Microphone Failures in Sony's High-End Wireless Noise-Cancelling Earbuds for PC Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/from-viewer-to-voyager-in-depth-guide-for-captivating-live-tv-on-your-pc/"><u>From Viewer to Voyager In-Depth Guide for Captivating Live TV on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hear-yggdrasils-whispers-again-resolving-no-sound-glitches-in-valheim-on-pc/"><u>Hear Yggdrasil's Whispers Again: Resolving No-Sound Glitches in Valheim on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-rust-mic-not-working-2024-guide/"><u>How To Fix Rust Mic Not Working - 2024 Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-stop-fluctuating-audio-when-using-bluetooth-headphones-with-windows-11/"><u>How To Stop Fluctuating Audio When Using Bluetooth Headphones with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/outriders-audio-fixes-at-your-fingerttps-a-comprehensive-guide-to-resolving-sound-issues/"><u>Outriders Audio Fixes at Your Fingerttps: A Comprehensive Guide to Resolving Sound Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-barracuda-x-microphone-tips-and-solutions-for-windows-users/"><u>Reviving Your Razer Barracuda X Microphone - Tips & Solutions for Windows Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-gamers-guide-to-restoring-audio-in-cyberpunk-2077-sound-solutions-explored/"><u>Windows 10 Gamers' Guide to Restoring Audio in Cyberpunk 2077: Sound Solutions Explored</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-pushing-past-vimeos-limits-with-top-10-editors/"><u>[New] In 2024, Pushing Past Vimeo's Limits with Top 10 Editors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-advanced-editing-perfecting-transitions-in-kinemaster/"><u>[Updated] Advanced Editing Perfecting Transitions in Kinemaster</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-masterclass-carving-out-your-digital-self/"><u>[Updated] YouTube Masterclass Carving Out Your Digital Self</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-chuckles-and-pixels-suite/"><u>2024 Approved Ultimate Chuckles and Pixels Suite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-solutions-to-common-problems-with-jabra-audio-devices/"><u>2024 Solutions to Common Problems with Jabra Audio Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-k11-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo K11 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unmasking-deceitful-insta-followers-quickly-and-cost-free/"><u>In 2024, Unmasking Deceitful Insta-Followers Quickly & Cost-Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-when-your-steam-in-game-vc-is-down/"><u>Step-by-Step Solutions When Your Steam In-Game VC Is Down</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-improving-sound-quality-and-increasing-volume-in-windows-11/"><u>Step-by-Step Tutorial: Improving Sound Quality and Increasing Volume in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016476434-trouble-with-runmus-headset-mic-heres-your-guide-to-making-it-work-again/"><u>Trouble with RUNMUS Headset Mic? Here's Your Guide to Making It Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tip-correct-headphone-connection-fix-soft-spoken-sounds-via-speaker-system/"><u>Troubleshooting Tip: Correct Headphone Connection - Fix Soft-Spoken Sounds via Speaker System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-fixes-restoring-functionality-of-airpods-mic/"><u>Windows 11 Audio Fixes: Restoring Functionality of AirPods Mic</u></a></li>
 </ul></div>
 

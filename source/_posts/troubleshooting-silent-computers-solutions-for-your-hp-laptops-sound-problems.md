@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Computers - Solutions for Your HP Laptop's Sound Problems
-date: 2024-10-06T00:13:14.468Z
-updated: 2024-10-07T07:23:30.233Z
+date: 2024-10-09T19:47:12.839Z
+updated: 2024-10-13T00:27:02.658Z
 tags:
   - win11
   - win10
@@ -77,10 +77,10 @@ Read on and follow the easy-doing images below!
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
@@ -88,10 +88,16 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
@@ -105,25 +111,38 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -149,22 +168,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-online-tools-to-retrieve-youtube-graphics/"><u>[New] 2024 Approved 10 Online Tools to Retrieve YouTube Graphics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-pick-websites-showcasing-hd-sky-shots/"><u>[New] Expert Pick Websites Showcasing HD Sky Shots</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-analyzing-androids-best-editor-is-pickup-at-the-peak-of-performance/"><u>[Updated] In 2024, Analyzing Android's Best Editor Is PickUp at the Peak of Performance?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-maximizing-your-video-content-on-zoom-for-fb-live-for-2024/"><u>[Updated] Maximizing Your Video Content on ZOOM for FB Live for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-moto-g04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Moto G04 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-airpods-troubleshooting-sound-issues-on-pcs-with-windows-11-and-10/"><u>Fixing Silent AirPods: Troubleshooting Sound Issues on PCs with Windows 11 and 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-output-on-your-realtek-device-after-a-malfunction/"><u>How to Restore Audio Output on Your Realtek Device After a Malfunction</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-n3-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Find N3 Bootloader Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-repairing-your-laptops-onboard-sound-system-a-stepwise-approach/"><u>Mastering the Art of Repairing Your Laptop's Onboard Sound System – A Stepwise Approach</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015888558-solved-lose-audio-after-updating-to-windows-10-heres-the-quick-fix/"><u>Solved: Lose Audio After Updating to Windows 10? Here's the Quick Fix!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-audio-functionality-on-your-windows-11-pc/"><u>Solved! How to Restore Audio Functionality on Your Windows 11 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/squad-mic-malfunction-solutions-a-complete-how-to/"><u>Squad Mic Malfunction Solutions : A Complete How-To</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-nvidia-output-unplugged-issues/"><u>Troubleshooting Guide: Solving 'Nvidia Output Unplugged' Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-fixing-logitech-g933-microphone-issues/"><u>Ultimate Guide: Fixing Logitech G933 Microphone Issues</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c210-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hashing-it-out-best-tags-to-transform-views-and-profit/"><u>[New] 2024 Approved Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-a-deep-dive-into-irecorder-tech/"><u>[New] In 2024, A Deep Dive Into iRecorder Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-complete-scrutiny-gopro-silver-hero4-version/"><u>[Updated] In 2024, Complete Scrutiny GoPro Silver Hero4 Version</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[Updated] In 2024, Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-captivating-unboxing-reels-top-tips-for-success-on-instagram-for-2024/"><u>Crafting Captivating Unboxing Reels Top Tips for Success on Instagram for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eliminating-persistent-thread-stickers-on-insta-concealment-tips-and-tricks/"><u>Eliminating Persistent Thread Stickers on Insta: Concealment Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-sennheiser-game-one-mic-not-working/"><u>How To Fix Sennheiser Game One Mic Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-tweaks-and-windows-11s-audio-boosting/"><u>How to Turn Off Sound Tweaks and Windows 11'S Audio Boosting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-free-computer-setup-in-minutes-with-these-helpful-tips/"><u>Noise-Free Computer Setup in Minutes with These Helpful Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015125161-pc-not-playing-properly-instantly-repair-your-computers-sound-problems-here/"><u>PC Not Playing Properly? Instantly Repair Your Computer's Sound Problems Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-resolutions-how-to-reactivate-and-fix-your-airpods-microphone-on-windows-11-devices/"><u>Quick Resolutions: How to Reactivate and Fix Your AirPods Microphone on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-void-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair Void Microphone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-triumph-overcoming-death-stranding-crash-problems-on-your-pc-game-experience/"><u>Troubleshooting Triumph! Overcoming Death Stranding Crash Problems on Your PC Game Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-content-strategies-for-instagram-photos/"><u>Visual Content Strategies for Instagram Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-glitches-heres-how-to-restore-uninterrupted-sound-quality/"><u>Windows 11 Audio Glitches? Here's How to Restore Uninterrupted Sound Quality</u></a></li>
 </ul></div>
 

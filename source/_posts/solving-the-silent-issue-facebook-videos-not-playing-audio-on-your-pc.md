@@ -1,7 +1,7 @@
 ---
 title: "Solving the Silent Issue: Facebook Videos Not Playing Audio on Your PC"
-date: 2024-09-09T17:25:24.788Z
-updated: 2024-09-16T19:57:25.168Z
+date: 2024-10-08T21:17:55.655Z
+updated: 2024-10-12T16:06:05.989Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -46,7 +53,21 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the audio level is high enough
 
@@ -55,6 +76,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
@@ -72,13 +100,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
@@ -103,16 +124,16 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
+<span id="1983473">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -122,13 +143,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -140,6 +154,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -164,5 +185,26 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-key-equipment-decisions-for-youtubers-on-a-budget/"><u>[New] In 2024, Key Equipment Decisions for YouTubers on a Budget</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fish-out-the-frame-underwater-shooting-secrets-with-a-gopro/"><u>[Updated] Fish Out the Frame Underwater Shooting Secrets with a GoPro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-5-video-conference-recorders-for-seamless-captures/"><u>[Updated] In 2024, Leading 5 Video Conference Recorders for Seamless Captures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-one-connected-video-experience-joining-on-youtube/"><u>[Updated] One Connected Video Experience Joining on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-restoration-tips-a-user-friendly-guide-to-troubleshoot-pc-sound-issues/"><u>Audio Restoration Tips: A User-Friendly Guide to Troubleshoot PC Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bose-qc35-series-volume-troubleshooting-effective-methods-to-restore-sound-output/"><u>Bose QC35 Series Volume Troubleshooting: Effective Methods to Restore Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bringing-back-the-clash-in-combat-fixing-wow-audio-problems-quickly/"><u>Bringing Back the Clash in Combat: Fixing WoW Audio Problems Quickly</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/consumer-centric-enhancement-stellars-advanced-software-revamp-aims-to-boost-accessibility-and-convenience-in-data-recovery/"><u>Consumer-Centric Enhancement: Stellar's Advanced Software Revamp Aims to Boost Accessibility and Convenience in Data Recovery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722979568702-discord-stream-stuck-no-more-winning-strategies-to-resolve-persistent-buffering/"><u>Discord Stream Stuck No More – Winning Strategies to Resolve Persistent Buffering!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-headphones-mic-malfunction-on-a-windows-11-pc/"><u>How to Fix Your Headphones' Mic Malfunction on a Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-cost-video-conversion-for-professionals-upload-mxf-download-mpgmp4-movavis-secure-cloud-service/"><u>No Cost Video Conversion for Professionals: Upload MXF, Download MPG/MP4 - Movavi's Secure Cloud Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-the-challenge-restoring-sound-to-your-game-with-cyberpunk-2077-on-windows-10/"><u>Overcome the Challenge: Restoring Sound to Your Game with Cyberpunk 2077 on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-hyperx-cloud-alpha-s-microphone-issues-a-step-by-step-guide/"><u>Solving HyperX Cloud Alpha S Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/split-trim-and-cut-avi-videos-with-these-top-notch-editors-for-2024/"><u>Split, Trim, and Cut AVI Videos with These Top-Notch Editors for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-idt-advanced-audio-codec-setup-on-microsofts-latest-os/"><u>Step-by-Step Solution for IDT Advanced Audio Codec Setup on Microsoft's Latest OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-solved-addressing-the-persistent-boot-screen-problem-on-computers/"><u>Successfully Solved: Addressing the Persistent Boot Screen Problem on Computers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-14-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 14 Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-g435-bluetooth-earbuds-with-no-audio-output-solutions-inside/"><u>Troubleshooting G435 Bluetooth Earbuds with No Audio Output - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win-7-troubleshooting-guide-restoring-audio-on-external-headphones/"><u>Win 7 Troubleshooting Guide: Restoring Audio on External Headphones</u></a></li>
+</ul></div>
 

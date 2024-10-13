@@ -1,7 +1,7 @@
 ---
 title: "What To Do When Nvidia GPU Isn't Detected: Top Solutions"
-date: 2024-10-03T10:17:54.707Z
-updated: 2024-10-06T21:42:27.734Z
+date: 2024-10-09T17:02:26.477Z
+updated: 2024-10-13T01:52:24.827Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 3. **[Rollback your driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Use the generic high definition audio device driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check NVIDIA Output settings
 
  If you can’t enable sound for HDMI output. First, you need to check if you’ve set the NVIDIA output correctly.
@@ -37,6 +44,14 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 2. Go to**Display** \>**Set up digital audio** . Make sure you’ve selected your connected device for**HDMI** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/set-up.jpg)
 3. Click**Open Windows Sound Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Under the**Playback** tab, right-click the blank area and check**Show Disabled Devices** and**Show Disconnected Devices** . Your device should not be grayed out anymore.
 5. Select your device and**Set Default** .
 
@@ -44,6 +59,13 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
  If you bump into HDMI no sound issues, you can check this article:  
 [How to Fix HDMI No Sound after Connecting Computer to Monitor and TV.](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update NVIDIA graphics driver
 
@@ -59,16 +81,17 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-downloads.jpg)
 2. Click the**DOWNLOAD** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Double click the downloaded file and follow the onscreen instructions to extract it to your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/extract.jpg)
 4. After performing the system check, select only**NVIDIA Graphics Driver** . Then click**AGREE AND CONTINUE** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/select.jpg)
 5. Select**Custom(Advanced)** \>**NEXT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/installation-options.jpg)
@@ -76,6 +99,14 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
  (You can uncheck the software you don’t need.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-install.jpg)
 7. Follow the on-screen instructions to complete the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Restart your computer for the changes to take effect.
 
  NVIDIA outputs should be showing normally now. If not, you can try the next fix.
@@ -100,13 +131,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
  If you need assistance, please contact **Driver Easy’s support** **team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Rollback your driver
 
  If you have recently updated your driver or updating the graphics driver failed to solve your issue, you can roll back the graphics driver.
@@ -115,31 +139,18 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manger.png)
 2. Double click**Display Adapters** , then right click your graphics card driver and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/properties.png)
 3. Go to the**Driver** tab, and select**Roll Back Driver** if the option is not gray.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver.png)
 4. Follow the on-screen instructions to proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Use the generic high definition audio device driver
 
@@ -150,13 +161,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 3. Right-click your NVIDIA High Definition Audio and select Update driver.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-driver.png)
 4. Click**Browse my computer for driver software** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Let me pick from a list of available driver on my computer** .
 6. Select**High Definition Audio Device** . Then click**Next** .  
@@ -184,20 +188,21 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-reimagining-mobile-photoshopping-iphone-x-insights/"><u>[New] Reimagining Mobile Photoshopping IPhone X Insights</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-lightning-fast-windows-data-analysis-guide/"><u>[Updated] Lightning-Fast Windows Data Analysis Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-perfect-dimension-formula-for-youtube-videos/"><u>[Updated] The Perfect Dimension Formula for YouTube Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-v29-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo V29 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-malfunctioning-corsair-gaming-headset/"><u>How to Repair Your Malfunctioning Corsair Gaming Headset</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-asus-rog-phone-7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Asus ROG Phone 7 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/oggmidi/"><u>OGG形式へのMIDIファイル変換手順</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-hp-notebooks-volume-essential-troubleshooting-steps-in-windows-10/"><u>Revive Your HP Notebook's Volume: Essential Troubleshooting Steps in Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-a-malfunctioning-corsair-hs65-mic-on-your-pcs-windows-os/"><u>Step-by-Step Guide to Repairing a Malfunctioning Corsair HS65 Mic on Your PC's Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooting-guide-to-restoring-discords-voice-chat-ptt-functionality/"><u>The Ultimate Troubleshooting Guide to Restoring Discord's Voice Chat PTT Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-issue-audio-outputs-wrongly-headphones-connected-yet-noise-from-speakers/"><u>Troubleshooting Issue: Audio Outputs Wrongly - Headphones Connected, Yet Noise From Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-issues-with-tozo-t6-on-windows-11/"><u>Troubleshooting Steps to Resolve Issues with Tozo T6 on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-tozo-t6-compatibility-issues-with-windows-11/"><u>Troubleshooting Steps: Resolving Tozo T6 Compatibility Issues with Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-drop-in-metas-quest-2-cost-historic-lows-hit-a-deep-dive-with-zdnet/"><u>Unveiling the Latest Drop in Meta's Quest 2 Cost: Historic Lows Hit | A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/"><u>[New] 2024 Approved Discover the Power of a Different Voice Easy Alteration Guide for Free Fire Players (Free)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-making-friends-across-networks-instagram-plus-facebook/"><u>[New] Making Friends Across Networks Instagram + Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-horizon-capture-versus-focused-dimensionality/"><u>[Updated] Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-amd-freesync-with-incompatible-drivers/"><u>Enabling AMD FreeSync with Incompatible Drivers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-kinemaster-mastery-and-excellent-online-alternatives/"><u>In 2024, The Ultimate Guide to KineMaster Mastery & Excellent Online Alternatives</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mp4-converter-on-gorillavid-effortless-video-download-from-gorillavid-streams/"><u>MP4 Converter on GorillaVid: Effortless Video Download From GorillaVid Streams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pixel-6-pro-versus-iphone-13-pro-showdown-choosing-the-ultimate-professional-smartphone-with-expert-insights/"><u>Pixel 6 Pro versus iPhone 13 Pro Showdown: Choosing the Ultimate Professional Smartphone with Expert Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-logitech-g935-microphone-issues-on-pc/"><u>Troubleshooting Guide: Fixing Logitech G935 Microphone Issues on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-silent-usb-headphones-in-windows-7/"><u>Troubleshooting Guide: Fixing Silent USB Headphones in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-speaker-output-in-windows-11/"><u>Troubleshooting PC Audio Issues: Fixing Low Speaker Output in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-post-update-sound-problems-on-your-pc-windows-11/"><u>Troubleshooting Post-Update Sound Problems on Your PC (Windows 11)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-gameplay-fixing-anthems-audio-on-windows-11-systems/"><u>Troubleshooting Quiet Gameplay: Fixing Anthem's Audio on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-voice-chats-how-to-rectify-no-sound-on-discord/"><u>Troubleshooting Silent Voice Chats: How to Rectify No Sound on Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-issues-with-the-valorant-in-game-voice-communication-feature/"><u>Troubleshooting Steps for Resolving Issues with the Valorant In-Game Voice Communication Feature</u></a></li>
 </ul></div>
 

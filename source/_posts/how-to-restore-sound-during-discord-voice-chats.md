@@ -1,7 +1,7 @@
 ---
 title: How to Restore Sound During Discord Voice Chats
-date: 2024-10-04T06:04:07.535Z
-updated: 2024-10-07T04:47:03.152Z
+date: 2024-10-07T16:08:25.381Z
+updated: 2024-10-12T20:39:57.464Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Make sure your monitor has built-in speakers
@@ -65,6 +65,13 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check the display cable
 
  When you’ve made sure that your monitor comes with speakers, but the Nvidia High Definition Audio has no sound, i.e. the monitor doesn’t have sound coming out from it, please make sure that the display cable (HDMI, DP, mini-DP, etc) you’re using is working fine.
@@ -75,18 +82,18 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Make sure the sound output device is correctly set
 
  Some monitors require a further setup for their speakers to work properly. So if you find that your Nvidia HD audio has no sound, please press the**Windows** key, the**Ctrl** , and the**V** keys together to open the sound output device settings like this:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-56.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select NVIDIA High Definition Audio as the output device
 
@@ -103,23 +110,32 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 2. Double-click to expand the**Sound, video and game controllers** category, then right-click your**NVIDIA High Definition Audio** and select**Update driver** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-57.png)
 3. Select **Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-58.png)
 4. Select **Let me pick from a list of available drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-59.png)
 5. Select **High Definition Audio Device**  from the list and click **Next** , then follow the on-screen instructions for the driver to be installed.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-60.png)
 6. Restart your computer afterward.
 
  Then see if your monitor has sound now. If the problem remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Clean install the Nvidia graphics card driver
 
@@ -144,22 +160,15 @@ To do so:
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -173,13 +182,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -192,20 +194,20 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -234,18 +236,20 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ten-instagram-feeds-blending-funny-and-sentimental-posts/"><u>[New] 2024 Approved Ten Instagram Feeds Blending Funny & Sentimental Posts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-immersive-odyssey-the-most-exciting-psvr-games-on-the-way-for-2024/"><u>[New] Immersive Odyssey The Most Exciting PSVR Games on the Way for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlock-your-viewing-pleasure-with-budget-friendly-recording-tools/"><u>[Updated] Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-v-blue-screen-fix-resolving-memory-error-1760-on-ps4-and-gaming-laptop/"><u>Battlefield V Blue Screen Fix - Resolving Memory Error 1760 on PS4 & Gaming Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-silence-proven-techniques-to-solve-webex-microphone-problems/"><u>Beat the Silence: Proven Techniques to Solve Webex Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-get-your-headphones-working-properly-on-a-windows-11-device/"><u>Comprehensive Fixes to Get Your Headphones Working Properly on a Windows 11 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-functionality-to-your-primary-aux-jack-no-sweat/"><u>Expert Tips for Restoring Functionality to Your Primary AUX Jack – No Sweat!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-with-headphones-on-a-windows-7-pc-expert-tips-and-tricks/"><u>How to Restore Audio with Headphones on a Windows 7 PC - Expert Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-voice-chat-feature-in-call-of-dutys-latest-installment/"><u>How to Restore Functionality of Voice Chat Feature in Call of Duty's Latest Installment</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-v29-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo V29 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-soaring-high-with-q500s-4k-vision/"><u>In 2024, Soaring High with Q500's 4K Vision</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-ultimate-guide-to-eliminating-speaker-hum/"><u>Quick Fix: Ultimate Guide to Eliminating Speaker Hum</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-optimal-cloud-vaults-recommended-solutions/"><u>[Updated] In 2024, Optimal Cloud Vaults Recommended Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-microphone-not-working-heres-the-fix/"><u>Astro A10 Microphone Not Working? Here's the Fix!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/closer-than-ever-to-flawlessness-a-comprehensive-look-at-the-samsung-galaxy-s22/"><u>Closer Than Ever to Flawlessness - A Comprehensive Look at the Samsung Galaxy S22</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/din-fotobevis-tipsa-ner-pa-3-unika-satt-att-overfora-videokamernas-hintergrund/"><u>Din Fotobevis: Tipsa Ner På 3 Unika Sätt Att Överföra Videokamernas Hintergrund</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-a-broken-logitech-g733-microphone-a-step-by-step-guide/"><u>Effective Fixes for a Broken Logitech G733 Microphone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-destiny-2-voice-chat-up-and-running-solutions-inside/"><u>Get Your Destiny 2 Voice Chat Up and Running - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-fix-voice-chat-and-microphone-malfunctions-on-pc-and-consoles-for-call-of-dutys-battle-royale-game/"><u>Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ghostly-screen-tech-paradox/"><u>Ghostly Screen: Tech Paradox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-easily-resolve-your-astro-a20-microphone-malfunction/"><u>How to Easily Resolve Your Astro A20 Microphone Malfunction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>In 2024, Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-power-of-words-in-transforming-realities-to-documentaries/"><u>In 2024, The Power of Words in Transforming Realities to Documentaries</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-fixing-no-sound-from-conexant-smartaudio-hd-with-windows-nix/"><u>Overcoming Audio Hurdles: Fixing No Sound From Conexant SmartAudio HD with Windows Nix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-tackle-stop-the-buzz-with-these-quick-speaker-repairs/"><u>Troubleshoot & Tackle: Stop the Buzz with These Quick Speaker Repairs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-removing-applications-from-your-mac-device/"><u>Ultimate Guide: Removing Applications From Your Mac Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
 

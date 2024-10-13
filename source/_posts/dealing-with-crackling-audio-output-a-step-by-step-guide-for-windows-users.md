@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Crackling Audio Output: A Step-by-Step Guide for Windows Users"
-date: 2024-09-30T07:14:53.533Z
-updated: 2024-10-06T17:53:35.752Z
+date: 2024-10-06T01:39:03.167Z
+updated: 2024-10-12T20:25:39.997Z
 tags:
   - win11
   - win10
@@ -44,34 +44,26 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ab2cb848.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select **Change plan settings** of whichever plan you’re with now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ae2775a7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click **Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
 
@@ -80,10 +72,10 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 6) Check to see if your audio crackling problem is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Disable ATI HDMI Audio**
@@ -95,15 +87,28 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52db77fe74.png)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you don’t see this option here, move on to the next steps.
 
@@ -135,6 +140,13 @@ If you don’t see this option here, move on to the next steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
@@ -159,18 +171,17 @@ If you don’t see this option here, move on to the next steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-search-comments-on-youtube-quickly/"><u>[New] 2024 Approved How to Search Comments on YouTube Quickly?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-enhanced-team-collaboration-with-slack-plus-filmora-timelines/"><u>[New] In 2024, Enhanced Team Collaboration with Slack + Filmora Timelines</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-elevate-media-projects-engaging-with-windows-11-movie-maker/"><u>[Updated] In 2024, Elevate Media Projects Engaging with Windows 11 Movie Maker</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/fine-tuning-gameplay-roblox-closer-scan-guide/"><u>Fine-Tuning Gameplay Roblox Closer Scan Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-alpha-headset-microphone-issues-a-complete-solution-guide/"><u>Fixing HyperX Cloud Alpha Headset Microphone Issues: A Complete Solution Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silence-resolving-audio-issues-in-cyberpunk-2077-on-windows-11/"><u>Fixing Silence: Resolving Audio Issues in Cyberpunk 2077 on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-purchasing-ebooks-via-apple-books-on-your-ios-device/"><u>Guide: Purchasing eBooks via Apple Books on Your iOS Device</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-pc-issues-causing-frontier-games-to-crash-a-comprehensive-solution/"><u>How to Fix PC Issues Causing Frontier Games to Crash – A Comprehensive Solution</u></a></li>
-<li><a href="https://driver-download.techidaily.com/newest-nvidia-rtx-2080-graphics-drivers-available-now-compatible-with-win10-win7-and-win8/"><u>Newest NVIDIA RTX 2080 Graphics Drivers Available Now - Compatible with Win10, Win7 & Win8</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-a-non-functional-logitech-g633-mic/"><u>Solving the Problem of a Non-Functional Logitech G633 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-fixes-for-non-functioning-pubg-mobile-voice-chat/"><u>Troubleshooting: Common Fixes for Non-Functioning PUBG Mobile Voice Chat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/valheim-quest-for-soundscape-harmony-mastering-pc-audio-fixes-completed/"><u>Valheim Quest for Soundscape Harmony: Mastering PC Audio Fixes [COMPLETED]</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-zodiac-influence-in-your-digital-dossier-writing-compelling-biographies/"><u>[New] 2024 Approved Zodiac Influence in Your Digital Dossier Writing Compelling Biographies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-creation-made-simple-youtubes-top-business-channels-listed/"><u>[New] In 2024, Channel Creation Made Simple YouTube's Top Business Channels Listed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banishing-popping-noise-from-your-pcs-logitech-g-pro-x-microphone-expert-advice/"><u>Banishing Popping Noise From Your PC's Logitech G Pro X Microphone - Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-repair-your-malfunctioning-corsair-headset-quickly/"><u>Expert Tips to Repair Your Malfunctioning Corsair Headset Quickly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-sony-xperia-5-v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Sony Xperia 5 V For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-tech-trends-with-toms-hardware-wisdom/"><u>Navigating Tech Trends with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-speaker-noise-interruptions-on-windows-platforms-windows-107-fixes/"><u>Overcoming Speaker Noise Interruptions on Windows Platforms (Windows 10/7 Fixes)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/realigning-lens-distortion-essential-gopro-correction-guide-for-2024/"><u>Realigning Lens Distortion Essential GoPro Correction Guide for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-home-entertainment-with-the-budget-king-in-a-box-the-1byone-digital-hdtv-antenna-reviewed/"><u>Revolutionize Your Home Entertainment with the Budget King in a Box - The 1ByOne Digital HDTV Antenna Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-windows-10-sound-issues-with-these-simple-steps/"><u>Troubleshoot Windows 10 Sound Issues with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-clear-conversations-solving-common-issues-with-discords-voice-feature/"><u>Unlocking Clear Conversations: Solving Common Issues with Discord's Voice Feature</u></a></li>
 </ul></div>
 

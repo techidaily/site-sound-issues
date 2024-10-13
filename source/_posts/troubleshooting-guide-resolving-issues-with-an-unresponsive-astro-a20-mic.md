@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Issues with an Unresponsive Astro A20 Mic"
-date: 2024-09-09T18:29:44.516Z
-updated: 2024-09-16T20:08:29.275Z
+date: 2024-10-07T01:13:21.289Z
+updated: 2024-10-12T22:04:42.783Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  It’s likely your audio driver becomes incompatible after upgrading Windows system, so it’s recommended to update your audio driver to fix the no sound issue.
@@ -52,9 +59,23 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check audio settings
 
@@ -73,13 +94,6 @@ To do so:
 
 Still no luck? Okay, there’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Roll back your audio driver
 
  Another effective method to resolve the no sound issue is to roll back your audio driver. To do so:
@@ -89,13 +103,6 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 
@@ -103,6 +110,19 @@ Still no luck? Okay, there’s one more thing to try.
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Restart your computer.
 
@@ -128,5 +148,22 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-downloading-youtube-srt-a-step-by-step-threefold-approach/"><u>[New] 2024 Approved Downloading YouTube SRT A Step-by-Step, Threefold Approach</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unleashing-potential-crafting-a-youtube-channel-brand-for-success/"><u>[Updated] In 2024, Unleashing Potential Crafting a YouTube Channel Brand for Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-become-a-pro-at-documenting-your-twitch-sessions/"><u>2024 Approved Become a Pro at Documenting Your Twitch Sessions</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-msresourceappname-text-glitch-in-w11/"><u>Addressing 'MsResource/AppName Text' Glitch in W11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/creative-pebble-speakers-malfunction-diagnosing-and-repairing-issues/"><u>Creative Pebble Speakers Malfunction - Diagnosing and Repairing Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-fixing-google-meet-microphone-failures-on-windows-operating-systems-111n/"><u>Diagnose & Repair: Fixing Google Meet Microphone Failures on Windows Operating Systems (11/1N)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-gaming-how-to-restore-audio-in-cyberpunk-2077-on-windows-10/"><u>Fixing Silent Gaming: How to Restore Audio in Cyberpunk 2077 on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-your-pc-is-out-of-memory-error-in-windows-1-groovy/"><u>How to Fix the 'Your PC Is Out of Memory' Error in Windows 1 Groovy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-audio-glitches-a-comprehensive-guide/"><u>How to Fix Windows Audio Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-display-with-a-pcs-hdmi-link-troubleshooting-tips/"><u>How to Restore Sounds on Your Display with a PC's HDMI Link - Troubleshooting Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-chuckling-chronicles-the-best-tiktok-joke-and-prank-compilation/"><u>In 2024, Chuckling Chronicles The Best TikTok Joke & Prank Compilation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-m6-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco M6 Pro 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-successfully-boot-up-avatars-expansion-pack-pandora-unveiled/"><u>Steps to Successfully Boot Up Avatar's Expansion Pack: Pandora Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-restore-audio-in-conexant-smartaudio-hd-under-windows-11/"><u>Troubleshooting Steps to Restore Audio in Conexant SmartAudio HD Under Windows 11</u></a></li>
+</ul></div>
 

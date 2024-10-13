@@ -1,7 +1,7 @@
 ---
 title: "Problem Solved: Restoring Volume Control on Firefox Platform"
-date: 2024-09-30T20:29:37.991Z
-updated: 2024-10-06T22:49:31.578Z
+date: 2024-10-08T17:05:08.778Z
+updated: 2024-10-12T16:08:46.969Z
 tags:
   - win11
   - win10
@@ -51,9 +51,23 @@ If your audio driver or software doesn’t support the current audio format you 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Right-click your default playback device (the one with a green tick) and click**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00c40fe6e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Click**Advanced**tab. Select**16 bit, 48000 Hz (DVD Quality)**. Click**Apply**and**OK**to save the changes.
 
@@ -62,16 +76,10 @@ If your audio driver or software doesn’t support the current audio format you 
 4) Test to see if your sound is still stuttering. If yes, go back to step 3 and try some other formats until you find the one works for you. If your audio problem remains, move on to method 3 for more help.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Reinstall Audio Driver**
@@ -80,55 +88,40 @@ If you’re with faulty audio driver, incompatibility problem between your sound
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Mark down the name of your default sound device. The screen shot shows**High Definition Audio Device**. Your could be different.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad07e6a7dc8.png)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**devmgmt.msc**and press**Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad0821313b4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Double-click to expand**Sound, video and game controllers**. Right-click the driver for your default audio device and click**Uninstall**device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad084b78a51.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Click**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad08d16834e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) When the uninstall finishes, restart your computer. Windows will automatically find and install a correct audio driver for you. If your sound is still stuttering after reinstalling audio driver, move on to the method below.
@@ -142,6 +135,13 @@ If, trying all the above, your sound it still stuttering or distorted, it’s ti
 3) Click the**Update**button next to the flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad0f8b2c99b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you need more help with your audio issue on Windows 10, feel free to leave us comments and we’ll see what we can do to help.
 
@@ -163,20 +163,22 @@ If you need more help with your audio issue on Windows 10, feel free to leave us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-obs-tutorial-for-instagram-live-streams-your-ultimate-reference/"><u>[New] In 2024, OBS Tutorial for Instagram Live Streams Your Ultimate Reference</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-discover-the-leading-tools-for-fb-video-downloads-in-minutes-for-2024/"><u>[Updated] Discover the Leading Tools for FB Video Downloads in Minutes for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-ringtone-hunt-prime-downloads/"><u>[Updated] Ideal Ringtone Hunt Prime Downloads</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-screenshots-iphoneipad-video-recordings-explained-for-2024/"><u>[Updated] The Art of Screenshots IPhone/iPad Video Recordings Explained for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art-for-2024/"><u>[Updated] Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-editing-success-how-to-overcome-common-audacity-sound-device-glitches-5-effective-fixes/"><u>Audio Editing Success: How to Overcome Common Audacity Sound Device Glitches [5 Effective Fixes]</u></a></li>
-<li><a href="https://win11.techidaily.com/1719362972502-enhance-printer-functionality-in-windows-11-today/"><u>Enhance Printer Functionality in Windows 11 Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-mode-expert-tips-on-getting-fortnites-sound-working-again/"><u>Fixing the Silent Mode: Expert Tips on Getting Fortnite's Sound Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/google-hangouts-microphone-wont-work-heres-how-to-fix-it-easily/"><u>Google Hangouts Microphone Won't Work? Here’s How to Fix It Easily!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y27s-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y27s to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-sound-timing-pro-solutions-to-correct-audio-lags/"><u>Mastering Sound Timing: Pro Solutions to Correct Audio Lags</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-system-after-windows-11-patch-quick-remedies-inside/"><u>No Sound on Your System After Windows 11 Patch? Quick Remedies Inside</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/transforming-the-look-of-an-ebook-a-comprehensive-tutorial-on-editing-epub-covers/"><u>Transforming the Look of an eBook: A Comprehensive Tutorial on Editing EPUB Covers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-sounds-in-your-favorite-card-game-hearthstone-edition/"><u>Troubleshooting Missing Sounds in Your Favorite Card Game - Hearthstone Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-solving-the-dilemma-of-your-unresponsive-corsair-void-headset/"><u>Ultimate Troubleshooting Guide: Solving the Dilemma of Your Unresponsive Corsair Void Headset</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-youtube-content-with-text-overlays/"><u>[New] Enhancing YouTube Content with Text Overlays</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-freedom-in-meditation-tracks/"><u>[Updated] Freedom in Meditation Tracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-redefining-the-viewing-experience-top-alternatives-to-periscope/"><u>[Updated] Redefining the Viewing Experience Top Alternatives to Periscope</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-premier-12-video-capture-goes-on-forever/"><u>2024 Approved Premier 12 Video Capture - Goes On Forever</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-taming-unwanted-shake-in-drones-visual-outputs/"><u>2024 Approved Taming Unwanted Shake in Drones' Visual Outputs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/governments-role-supervising-ai-through-four-lenses/"><u>Government's Role: Supervising AI Through Four Lenses</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/launching-a-brand-on-reddit-7-must-try-promotional-methods/"><u>Launching a Brand on Reddit 7 Must-Try Promotional Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015830048-lost-your-system-sounds-following-a-windows-10-update-lets-rectify-that-now/"><u>Lost Your System Sounds Following a Windows 10 Update? Let's Rectify That Now.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/next-gen-hd-video-recording-the-pinnacle-choices/"><u>Next-Gen HD Video Recording The Pinnacle Choices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-card-reader-driver-update-for-optimal-performance-on-windows-11/"><u>Realtek Card Reader Driver Update for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-sound-problems-in-outriders-a-comprehensive-guide/"><u>Solving Common Sound Problems in Outriders: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-restart-and-fix-windows-scanner-failures/"><u>Steps to Restart and Fix Windows Scanner Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016882410-troubleshoot-and-resolve-your-counter-strike-2-audio-problems-today/"><u>Troubleshoot and Resolve Your Counter-Strike 2 Audio Problems Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-non-functional-logitech-g430-headset-mic-expert-tips-and-techniques/"><u>Troubleshooting a Non-Functional Logitech G430 Headset Mic: Expert Tips and Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-port-conflicts-with-active-applications/"><u>Troubleshooting HDMI Port Conflicts with Active Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016651671-voicemod-not-working-heres-how-to-restore-functionality/"><u>Voicemod Not Working? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/webex-audio-dilemma-try-these-four-fixes-for-non-functioning-mics/"><u>WebEx Audio Dilemma? Try These Four Fixes for Non-Functioning Mics</u></a></li>
 </ul></div>
 

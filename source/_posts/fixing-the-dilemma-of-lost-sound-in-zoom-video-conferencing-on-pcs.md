@@ -1,7 +1,7 @@
 ---
 title: Fixing the Dilemma of Lost Sound in Zoom Video Conferencing on PCs
-date: 2024-09-15T18:19:47.126Z
-updated: 2024-09-21T20:32:00.252Z
+date: 2024-10-11T21:00:09.264Z
+updated: 2024-10-13T00:52:44.082Z
 tags:
   - win11
   - win10
@@ -54,6 +54,14 @@ thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbc
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
@@ -71,23 +79,30 @@ thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbc
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On Oculus or SteamVR
 
@@ -106,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbc
 2. Select the**Audio** tab. Then click**Set Record Device** and set it to your preferred headset mic.
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -134,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbc
 
  After the update completes, restart the PC and see if your audio issue gets fixed. If not, there is one more fix to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5 – Close unnecessary background apps
 
  If you’re running multiple programs in the background, they might use your headset microphone, and thus prevent it from working with Rec Room. To see if that’s the cause, simply disable all unnecessary apps via the following steps:
@@ -142,14 +157,14 @@ thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbc
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -175,5 +190,21 @@ thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-gamers-guide-to-high-quality-live-recording/"><u>[Updated] 2024 Approved Gamers' Guide to High-Quality Live Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-temporary-hold-recording-assistance/"><u>[Updated] 2024 Approved Temporary Hold Recording Assistance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-retro-reviver-software-for-2024/"><u>[Updated] Retro Reviver Software for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-audio-output-on-your-pc-a-step-by-step-guide-for-windows-11-users/"><u>Boosting Audio Output on Your PC: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016644109-chromes-sound-troubles-fixed-discover-the-solutions-here/"><u>Chrome's Sound Troubles Fixed? Discover the Solutions Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016292592-csgo-mic-not-working-heres-what-you-need-to-do/"><u>CS:GO Mic Not Working? Here's What You Need to Do</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-how-to-fix-and-enable-idt-hd-audio-codec-on-windows-10-systems/"><u>Guide: How to Fix and Enable IDT HD Audio Codec on Windows 10 Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-lava-blaze-2-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Lava Blaze 2 Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-change-netflix-playback-speed/"><u>In 2024, How to Change Netflix Playback Speed?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/master-android-flip-digital-content-sequence/"><u>Master Android Flip Digital Content Sequence</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screencapture-the-leading-digital-saves-list/"><u>ScreenCapture The Leading Digital Saves List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-for-fixing-buzzing-issues-in-earbuds-and-headsets/"><u>Step-by-Step Troubleshooting for Fixing Buzzing Issues in Earbuds and Headsets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-driver-redo-effective-reinstallation-tactics-for-win-71011/"><u>The Driver Redo: Effective Reinstallation Tactics for Win 7/10/11</u></a></li>
+</ul></div>
 

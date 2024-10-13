@@ -1,7 +1,7 @@
 ---
 title: How to Identify & Setup Unrecognized Audio Devices on Your Windows 11 PC
-date: 2024-09-15T18:38:01.037Z
-updated: 2024-09-16T19:47:24.611Z
+date: 2024-10-11T18:27:34.269Z
+updated: 2024-10-12T16:48:24.530Z
 tags:
   - win11
   - win10
@@ -47,12 +47,33 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take full effect. If the driver update doesn’t give you luck, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Allow access to your microphone
 
@@ -76,14 +97,21 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
@@ -93,26 +121,13 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Check Google Meet’s settings
 
@@ -123,16 +138,10 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
 2. Make sure your microphone is not turned off.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
@@ -165,5 +174,23 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>[New] Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-first-step-into-furnishings-simplest-mc-houses-unveiled-for-2024/"><u>[Updated] First Step Into Furnishings Simplest MC Houses Unveiled for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soundscape-storytelling-at-its-best/"><u>[Updated] Soundscape Storytelling at Its Best</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-video-grabbers-for-windows-11-pc/"><u>2024 Approved Best Video Grabbers for Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-recovering-your-conexant-smartaudio-hds-volume-on-windows-11/"><u>A Comprehensive Guide to Recovering Your Conexant SmartAudio HD's Volume on Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-drive-traffic-and-boost-sales-with-powerful-ppc-advertising/"><u>Cookiebot-Enhanced: Drive Traffic & Boost Sales with Powerful PPC Advertising</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016295740-front-speaker-connection-issues-heres-how-to-restore-sound-output/"><u>Front Speaker Connection Issues? Here's How to Restore Sound Output!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-zoom-sounds-back-fixing-audio-problems-on-windowsmac/"><u>Getting Your Zoom Sounds Back: Fixing Audio Problems on Windows/Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-12r-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 12R Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-reactivate-and-resolve-issues-with-windows-spotlight-on-windows-11-computers/"><u>How to Reactivate and Resolve Issues with Windows Spotlight on Windows 11 Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/navigating-through-common-issues-making-your-webex-mic-work-again/"><u>Navigating Through Common Issues: Making Your Webex Mic Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resident-evil-village-ultimate-guide-to-fixing-game-audio-problems/"><u>Resident Evil: Village - Ultimate Guide to Fixing Game Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-resolving-non-functional-voice-communication-in-call-of-duty-vanguard/"><u>Solution Steps for Resolving Non-Functional Voice Communication in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unmasked-instagram-stories-pcandroidios-exploration-tips-for-2024/"><u>Unmasked Instagram Stories PC/Android/iOS Exploration Tips for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-problems-heres-how-to-get-your-sounds-back/"><u>Windows 11 Audio Problems? Here's How to Get Your Sounds Back!</u></a></li>
+</ul></div>
 

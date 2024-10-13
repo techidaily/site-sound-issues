@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Audio Problems Solved: Restoring Headphone Functionality"
-date: 2024-09-18T16:41:44.516Z
-updated: 2024-09-21T20:57:29.153Z
+date: 2024-10-09T04:11:04.968Z
+updated: 2024-10-13T01:39:09.009Z
 tags:
   - win11
   - win10
@@ -40,6 +40,20 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -66,22 +80,42 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -92,29 +126,16 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
@@ -129,10 +150,10 @@ Follow these steps:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -155,5 +176,26 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/verage-gain-for-youtubers-per-ad-exposure-for-2024/"><u>[New] Average Gain for YouTubers per Ad Exposure for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-analysis-the-best-webcam-videotaping-tools/"><u>[Updated] In 2024, Expert Analysis The Best WebCam Videotaping Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-augmented-reality-how-android-enhances-viewing-experience/"><u>2024 Approved Augmented Reality How Android Enhances Viewing Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-malfunction-with-conexant-hardware-in-windows-11-a-detailed-fix-tutorial-for-users/"><u>Audio Malfunction with Conexant Hardware in Windows 11? A Detailed Fix Tutorial for Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-your-laptops-malfunctioning-headphone-output-problem/"><u>Easy Fixes for Your Laptop's Malfunctioning Headphone Output Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-solving-no-audio-when-connecting-your-pc-to-a-television-using-an-hdmi-cable/"><u>Expert Tips for Solving No Audio When Connecting Your PC to a Television Using an HDMI Cable</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-professional-advice-resolving-mic-problems-on-airpods-for-windows-users/"><u>Get Professional Advice: Resolving Mic Problems on AirPods for Windows Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/is-inshot-the-best-video-editing-app-our-in-depth-review/"><u>Is InShot the Best Video Editing App? Our In-Depth Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-oddworld-soulstorm-pc-optimization-techniques-and-crash-fixes/"><u>Mastering Oddworld: Soulstorm - PC Optimization Techniques & Crash Fixes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/next-gen-entertainment-experience-scrutiny/"><u>Next-Gen Entertainment Experience Scrutiny</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-a-2024-guide-for-repairing-your-malfunctioning-rust-microphone/"><u>Overcoming Common Problems: A 2024 Guide for Repairing Your Malfunctioning Rust Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-persistent-sound-dropouts-on-windows-11-systems-effectively/"><u>Resolving Persistent Sound Dropouts on Windows 11 Systems Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-laptop-has-lost-its-audio-output/"><u>Solution Steps For When Your Laptop Has Lost Its Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-making-the-sennheiser-game-one-mic-function-properly-again/"><u>Step-by-Step Guide: Making the Sennheiser Game One Mic Function Properly Again</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-setting-up-your-laptop-with-esxi-for-an-at-home-virtualization-lab/"><u>Step-by-Step Guide: Setting Up Your Laptop with ESXi for an At-Home Virtualization Lab</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/sync-your-files-with-ease-the-ultimate-guide-to-seamless-folder-sync/"><u>Sync Your Files with Ease: The Ultimate Guide to Seamless Folder Sync</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-solve-silent-astro-a50-headphones-immediately/"><u>Troubleshoot and Solve Silent Astro A50 Headphones Immediately</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-a-dive-into-toms-world-of-technology/"><u>Unveiling the Latest in Computer Hardware - A Dive Into Tom's World of Technology</u></a></li>
+</ul></div>
 

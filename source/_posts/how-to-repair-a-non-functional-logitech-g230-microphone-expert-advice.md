@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Non-Functional Logitech G230 Microphone – Expert Advice
-date: 2024-09-15T16:58:58.123Z
-updated: 2024-09-21T18:05:37.893Z
+date: 2024-10-10T21:38:49.725Z
+updated: 2024-10-12T20:23:44.829Z
 tags:
   - win11
   - win10
@@ -43,8 +43,38 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 8. Click **OK** .
 See if your Logitech G230 mic works. If not, try the next fix, below.
@@ -58,16 +88,10 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
@@ -86,15 +110,16 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### **Fix 4: Troubleshoot hardware issues**
@@ -122,5 +147,20 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-expert-pick-prime-drone-gimbals/"><u>[New] 2024 Approved Expert Pick Prime Drone Gimbals</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-easy-techniques-for-using-screencastify-app/"><u>[New] In 2024, Easy Techniques for Using Screencastify App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-non-udemy-online-learning-platforms-for-self-improvement/"><u>2024 Approved Top Non-Udemy Online Learning Platforms for Self-Improvement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-iphones-email-problems-with-easy-fixes/"><u>Addressing iPhone's Email Problems with Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-audio-troubleshooting-tips-for-users-of-windows-11-8-and-7-solving-plugged-in-device-recognition-problems/"><u>Comprehensive Audio Troubleshooting Tips for Users of Windows 11, 8 & 7 - Solving Plugged-In Device Recognition Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-restore-audio-functionality-on-toshiba-devices/"><u>Comprehensive Fixes to Restore Audio Functionality on Toshiba Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-fortnites-microphone-issues-fast-solutions/"><u>How to Fix Fortnite's Microphone Issues - Fast Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-magic-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor Magic 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-zero-30-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Zero 30 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-earphones-not-anymore-solve-airpods-sound-problems-on-windows-os/"><u>Silent Earphones? Not Anymore! Solve AirPods Sound Problems on Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-restoring-sounds-to-your-black-ops-cold-war-gaming-experience-on-computer/"><u>Solution Guide: Restoring Sounds to Your Black Ops Cold War Gaming Experience on Computer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-periscope-utilization-complete-manual-for-2024/"><u>Step-by-Step Periscope Utilization Complete Manual for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-audio-issues-with-your-chromecast-a-step-by-step-guide/"><u>Troubleshooting Audio Issues with Your Chromecast: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

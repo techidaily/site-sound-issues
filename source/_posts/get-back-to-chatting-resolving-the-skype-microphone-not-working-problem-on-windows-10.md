@@ -1,7 +1,7 @@
 ---
 title: "Get Back to Chatting: Resolving the 'Skype Microphone Not Working' Problem on Windows 10"
-date: 2024-09-12T17:29:55.332Z
-updated: 2024-09-16T17:48:03.493Z
+date: 2024-10-06T23:53:03.699Z
+updated: 2024-10-12T22:12:43.854Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ We’ve seen users reporting the microphone not working after they updated to Wi
  1\. If you’re using an**external microphone** , make sure it’s correctly connected to your PC.  
  2\. If you’re using a**headset mi** c, make sure it’s not set to mute on your headset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Configure the input device
 
  The first fix you can try is to set up the input device, the microphone you’re using, correctly and adjust the recording volume. Here’s how to do it on Windows 11:
@@ -57,16 +64,16 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Enable the microphone for recording
 
@@ -76,15 +83,15 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
@@ -107,18 +114,25 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tip: Repair corrupted system files
 
@@ -134,10 +148,10 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, feel free to contact their support team.
@@ -162,5 +176,24 @@ If this fix doesn’t solve your problem, try the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unveiling-the-premium-cost-free-screen-recording-tools/"><u>[New] 2024 Approved Unveiling the Premium, Cost-Free Screen Recording Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-what-is-a-watermark-how-to-watermark-your-facebook-photosvideos/"><u>[New] 2024 Approved What Is a Watermark? How to Watermark Your Facebook Photos/Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-motion-setting-up-a-timelapse-on-an-ipad/"><u>[New] Capturing Motion Setting up a Timelapse on an iPad</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-capture-youtubes-subtitles-on-no-cost-platforms-for-2024/"><u>[Updated] Capture YouTube's Subtitles on No-Cost Platforms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rapid-periscope-livestream-optimization-methods/"><u>2024 Approved Rapid Periscope Livestream Optimization Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-non-functional-razer-kraken-headset-mic/"><u>Diagnosing and Repairing Your Non-Functional Razer Kraken Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-repair-a-non-functional-mic-on-your-oculus-quest-2/"><u>Fixing the Issue: How to Repair a Non-Functional Mic on Your Oculus Quest 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guaranteed-ways-to-solve-audio-echo-problems-when-using-discord-on-pc/"><u>Guaranteed Ways to Solve Audio Echo Problems When Using Discord on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-11107-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 11/10/7</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/problematic-audio-path-corrected-ensuring-headphones-not-speakers-deliver-desired-sounds/"><u>Problematic Audio Path Corrected: Ensuring Headphones, Not Speakers, Deliver Desired Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-solving-the-problem-when-your-voice-chat-isnt-responding-in-phasmophobia/"><u>Resolved! Solving the Problem When Your Voice Chat Isn't Responding in Phasmophobia</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restarting-audio-communication-repair-tips-for-the-steelseries-arctis-1-mic-problem/"><u>Restarting Audio Communication: Repair Tips for the SteelSeries Arctis 1 Mic Problem</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor .</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-laptops-solving-the-no-audio-problem/"><u>Troubleshooting Silent Laptops: Solving the 'No Audio' Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-restoring-functionality-to-a-broken-logitech-g733-mic/"><u>Troubleshooting Tips: Restoring Functionality to a Broken Logitech G733 Mic</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "FIXED: Headphones Plugged in but Sound Coming From Speakers"
-date: 2024-10-02T07:15:54.195Z
-updated: 2024-10-07T05:19:20.587Z
+date: 2024-10-09T23:02:31.190Z
+updated: 2024-10-13T00:31:39.512Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ Read on and follow the easy-doing images below!
  If your computer sound still keeps cutting out, please move on to the next option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2: Change Sound Enhancement Settings
@@ -80,28 +80,28 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -111,20 +111,28 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -149,17 +157,24 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-obs-studio-streamlining-your-professional-skype-broadcasts/"><u>[New] 2024 Approved OBS Studio Streamlining Your Professional Skype Broadcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-apex-legends-crossplay-how-to-turn-it-off-and-platform-choosing-guide/"><u>[New] In 2024, Apex Legends Crossplay How to Turn It Off & Platform Choosing Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-become-a-pro-at-setting-up-vrecorder-fast/"><u>[New] In 2024, Become a Pro at Setting Up VRecorder Fast</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-se-2022-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone SE (2022) activation lock with a professional tool</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016123406-cs-go-microphone-malfunction-solutions-get-back-to-gaming-now/"><u>CS GO Microphone Malfunction Solutions - Get Back to Gaming Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-dealing-with-a-faulty-or-inoperative-microphone-in-your-turtle-beach-elite-atlas-headset/"><u>DIY Solutions for Dealing with a Faulty or Inoperative Microphone in Your Turtle Beach Elite Atlas Headset</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evolution-of-detection-an-insightful-look-into-the-smart-escort-ix-gps-radar-detector-for-proactive-drivers/"><u>Evolution of Detection: An Insightful Look Into the Smart Escort iX GPS Radar Detector for Proactive Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015711872-experiencing-trouble-with-steams-voice-chat-heres-how-to-fix-it/"><u>Experiencing Trouble With Steam's Voice Chat? Here's How to Fix It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-complete-fix-it-manual-getting-rust-mics-working/"><u>The Complete Fix It Manual - Getting Rust Mics Working</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-c12-plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia C12 Plus Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-strategies-for-fixing-sound-latency-updated-guide/"><u>Top Strategies for Fixing Sound Latency: Updated Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007673609-troubleshooting-masterclass-eliminate-among-us-crashing-problems-in-the-new-year-2024/"><u>Troubleshooting Masterclass: Eliminate 'Among Us' Crashing Problems in the New Year, 2024!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-rethinking-recipes-squared-up-tutorials-for-youtube-and-facebook-success-for-2024/"><u>[New] Rethinking Recipes Squared-Up Tutorials for YouTube and Facebook Success for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-zdsofts-screen-capture-brilliance-reviewed/"><u>[New] ZDSoft's Screen Capture Brilliance Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-your-journey-to-1k-followers-in-one-month-secrets-from-top-influencers/"><u>[Updated] Your Journey to 1K Followers in One Month Secrets From Top Influencers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-transforming-your-videos-first-impression-fb-cover-makeover-techniques/"><u>2024 Approved Transforming Your Videos' First Impression FB Cover Makeover Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-audio-stutter-and-warping-in-your-windows-107-system-ultimate-fixes-for-smooth-sounds/"><u>Banish Audio Stutter & Warping in Your Windows 10/7 System – Ultimate Fixes for Smooth Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-correcting-no-sound-output-errors-on-pc-with-windows-7-8-and-10-when-headsets-arent-plugged-in/"><u>Guide to Correcting 'No Sound Output' Errors on PC with Windows 7, 8 & 10 when Headsets Aren't Plugged In</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a38-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A38 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016218219-how-to-fix-discord-audio-cutting-out-2024-ultimate-guide/"><u>How to Fix Discord Audio Cutting Out – 2024 Ultimate Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-huawei-nova-y91-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Huawei Nova Y91</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y100i-power-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100i Power 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015726730-how-to-restore-sounds-on-your-chrome-browser-issue-resolved/"><u>How to Restore Sounds on Your Chrome Browser - Issue Resolved!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-personalized-ai-writing-training-chatgpt-with-your-unique-style/"><u>Mastering Personalized AI Writing: Training ChatGPT with Your Unique Style</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-non-verbal-nuances-italian-gestures/"><u>Navigating Non-Verbal Nuances: Italian Gestures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sounds-no-problem-fixing-voice-and-effects-issues-in-black-ops-cold-war-for-pc-players/"><u>No Sounds? No Problem! Fixing Voice and Effects Issues in Black Ops Cold War for PC Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-comprehensive-strategies-to-restore-audio-in-facebook-videos-on-pcs-latest-tricks/"><u>Silence No More: Comprehensive Strategies to Restore Audio in Facebook Videos on PCs (Latest Tricks)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016311062-solve-your-silent-pc-dilemma-fast-and-simple-fixes-for-a-quiet-machine/"><u>Solve Your Silent PC Dilemma: Fast and Simple Fixes for a Quiet Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-fixing-your-malfunctioning-rust-mic-comprehensive-guide-2024-edition/"><u>Step-by-Step Solution for Fixing Your Malfunctioning Rust Mic - Comprehensive Guide 2024 Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-screenshots-vertical-video-editing-in-fcpx/"><u>The Art of Screenshots Vertical Video Editing in FCPX</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/valheim-pc-quiet-dilemma-unveiling-top-fixes-to-restore-game-sounds/"><u>Valheim PC Quiet Dilemma? Unveiling Top Fixes to Restore Game Sounds</u></a></li>
 </ul></div>
 

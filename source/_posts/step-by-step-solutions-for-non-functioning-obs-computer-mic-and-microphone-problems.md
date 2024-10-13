@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Non-Functioning OBS Computer Mic & Microphone Problems
-date: 2024-09-29T22:14:30.171Z
-updated: 2024-10-07T00:11:26.027Z
+date: 2024-10-10T01:18:38.505Z
+updated: 2024-10-13T00:36:02.145Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2 – Update your audio driver
 
  If you’re using the wrong audio driver or it’s out of date, the Logitech G533 headset microphone won’t function properly. So you should update your audio driver to see if it fixes the problem. Here are two options you can get the latest and right audio driver in a safe way: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -84,19 +77,33 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1-3.jpg)
 3. Click the **Update**  button next to the flagged _Logitech G533 driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check how your Logitech G533 headset microphone works after the driver update. Still no luck? Then try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 – Reinstall Logitech Gaming Software
 
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-3.jpg)
 3. Click**Logitech Gaming Software** and click**Uninstall/Change** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-1.jpg)
 4. Follow the on-screen instructions to completely uninstall the program.
 5. Go to **[Logitech’s support website](https://support.logi.com/hc/en-us/articles/360024844153--Downloads-G533-Wireless-Gaming-Headset)**  . Then find the latest version of Logitech Gaming Software that is suitable for your operating system and click**Download Now** .  
@@ -121,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 6. Once you finish downloading, double-click the downloaded file and follow the wizard to install the software.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now reconnect the Logitech G533 headset to your PC and the microphone should transmit your voice normally.
@@ -143,14 +143,15 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 3. Click**Microphone** on the left pane. Then, click the**Change** button, and make sure Microphone access for this device is**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-6.jpg)
 4. Make sure**Allow apps to access your microphone** is turned**on** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)
 
  After finishing the steps above, check if your mic-not-working issue is resolved. If unfortunately, none of the preceding fixes does the trick, chances are that the microphone is physically broken and you may consider contacting the vendor for further assistance.
 
@@ -176,18 +177,24 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-audio-broadcasts-networks/"><u>[New] Premier Audio Broadcasts Networks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-immediate-youtube-audience-insights/"><u>[Updated] Immediate YouTube Audience Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/become-a-pro-at-documenting-your-twitch-sessions-for-2024/"><u>Become a Pro at Documenting Your Twitch Sessions for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722748163800-choosing-the-right-streamer-lets-compare-apple-tv-4k-with-roku-ultra/"><u>Choosing the Right Streamer? Let's Compare Apple TV 4K with Roku Ultra!</u></a></li>
-<li><a href="https://windows11.techidaily.com/embracing-convenience-using-googles-nearby-share/"><u>Embracing Convenience: Using Google's Nearby Share</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tial-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-loss-of-audio-output-in-your-laptop-expert-tips-for-quick-repair/"><u>Solving Loss of Audio Output in Your Laptop – Expert Tips for Quick Repair</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-11-audio-problems-with-your-headset/"><u>Solving Windows 11 Audio Problems with Your Headset</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-most-common-glitches-using-dfu-reset-techniques/"><u>Troubleshoot Your iPhone's Most Common Glitches Using DFU Reset Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-d3d-device-initialization-failures-on-your-pc/"><u>Troubleshooting and Solving D3D Device Initialization Failures on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016881269-troubleshooting-headphonespeaker-troubles-in-windows-11-get-the-sounds-back/"><u>Troubleshooting Headphone/Speaker Troubles in Windows 11 - Get the Sounds Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/uncover-the-secrets-to-reinstating-lost-nvidia-hd-audio-capabilities/"><u>Uncover the Secrets to Reinstating Lost NVIDIA HD Audio Capabilities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-world-of-streaming-devices-what-are-they/"><u>Unveiling the World of Streaming Devices: What Are They?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tactics-to-quiet-down-distractions-during-google-meets/"><u>[Updated] In 2024, Tactics to Quiet Down Distractions During Google Meets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crafting-captivating-reels-musical-integration-strategies/"><u>2024 Approved Crafting Captivating Reels Musical Integration Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-arctis-99x-fixing-a-dead-microphone-problem/"><u>Getting the Most Out of Your Arctis 9/9X: Fixing a Dead Microphone Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-persistent-echos-while-using-discord-on-desktop-computers-a-2-tech-tips-2024-version/"><u>How To Resolve Persistent Echos While Using Discord on Desktop Computers – A 2# Tech Tips (2024 Version)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-from-a-plugged-in-speaker-that-isnt-working-in-windows/"><u>How to Restore Sound From a Plugged-In Speaker that Isn’t Working in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode without Computer?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-realme-gt-3-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme GT 3 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-15-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 15 Pro Making It Possible</u></a></li>
+<li><a href="https://win-unique.techidaily.com/microsofts-new-entry-level-surface-laptop-go-2-hits-shelves-for-pre-order-at-just-599-insights-from-zdnet/"><u>Microsoft's New Entry-Level Surface Laptop Go 2 Hits Shelves for Pre-Order at Just $599 | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-wmvm4v/"><u>Movaviの無料ツール - WMVとM4Vビデオ変換機能</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-the-roars-of-midgard-troubleshooting-pc-sound-in-valheim-fixed/"><u>Restore the Roars of Midgård: Troubleshooting PC Sound in Valheim [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-harmony-simple-steps-to-fix-noise-problems-with-your-logitech-g933-headset/"><u>Restoring Harmony: Simple Steps to Fix Noise Problems with Your Logitech G933 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-why-your-corsair-hs35-microphone-wont-work-with-windows-and-how-to-fix-it/"><u>Solution Guide: Why Your Corsair HS35 Microphone Won't Work with Windows & How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steam-voice-chat-malfunctions-how-to-restore-functionality/"><u>Steam Voice Chat Malfunctions: How to Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-common-logitech-g933-mic-issues-and-how-to-avoid-them/"><u>Step-by-Step Fixes for Common Logitech G933 Mic Issues and How to Avoid Them</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-magic-5-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor Magic 5 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-tricks-to-restore-functionality-of-turtle-beach-recon-70-headset-mic/"><u>Tips and Tricks to Restore Functionality of Turtle Beach Recon 70 Headset Mic</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uninstalling-microsofts-intelligent-code-companion-from-windows-11-an-in-depth-walkthrough/"><u>Uninstalling Microsoft's Intelligent Code Companion From Windows 11: An In-Depth Walkthrough</u></a></li>
 </ul></div>
 

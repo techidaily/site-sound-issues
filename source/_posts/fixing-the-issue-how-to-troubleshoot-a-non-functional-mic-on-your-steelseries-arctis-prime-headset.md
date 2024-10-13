@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Troubleshoot a Non-Functional Mic on Your SteelSeries Arctis Prime Headset"
-date: 2024-10-03T01:41:06.931Z
-updated: 2024-10-07T02:05:11.083Z
+date: 2024-10-07T20:02:24.071Z
+updated: 2024-10-12T19:25:01.728Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,18 +51,18 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
 
@@ -71,16 +78,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Set your headset as the default device
 
@@ -92,15 +99,22 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
@@ -110,10 +124,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
@@ -161,23 +175,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -212,22 +212,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-multimedia-designers-space/"><u>[New] Multimedia Designer's Space</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-creativity-on-instagram-with-free-filters/"><u>[Updated] Boost Your Creativity on Instagram with Free Filters</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-ig-videos-building-a-powerful-focused-marketing-plan/"><u>2024 Approved Mastering IG Videos Building a Powerful, Focused Marketing Plan</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/beat-the-competition-top-10-youtube-news-channels-listed/"><u>Beat the Competition Top 10 YouTube News Channels Listed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Samsung Galaxy XCover 7?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-steps-to-get-your-fortnite-voice-chat-up-and-running-again/"><u>Effortless Steps to Get Your Fortnite Voice Chat Up & Running Again</u></a></li>
-<li><a href="https://facebook.techidaily.com/exclusive-guide-to-chat-apps-not-facebooks-messenger/"><u>Exclusive Guide to Chat Apps, Not Facebook's Messenger</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-a-guide-to-troubleshooting-sound-problems/"><u>Fixing Silent PCs: A Guide to Troubleshooting Sound Problems</u></a></li>
-<li><a href="https://facebook.techidaily.com/future-of-music-and-networks-facebooks-boombox-project-with-spotify/"><u>Future of Music & Networks: Facebook's Boombox Project with Spotify</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-epson-scanning-back-in-windows-11/"><u>How to Get Your Epson Scanning Back in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-hyperx-cloud-alpha-headset-mic-working-again-complete-solution/"><u>How to Get Your HyperX Cloud Alpha Headset Mic Working Again - Complete Solution</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphones-and-charging-errors-unlock-the-secrets-with-these-8-troubleshooting-steps/"><u>IPhones and Charging Errors: Unlock the Secrets with These 8 Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-for-inoperative-headset-connectivity-in-laptops/"><u>Solution Guide for Inoperative Headset Connectivity in Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-windows-media-player-sound-dilemma-expert-tips-and-tricks/"><u>Solving the Windows Media Player Sound Dilemma: Expert Tips & Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/thunderbirds-secrets-revealed-expert-tips-for-effective-email-chats-within-the-platform/"><u>Thunderbird's Secrets Revealed: Expert Tips for Effective Email Chats Within the Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functional-logitech-g633-microphone/"><u>Troubleshooting Steps for a Non-Functional Logitech G633 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-fixing-non-functional-microphones-on-windows-11/"><u>Ultimate Guide to Fixing Non-Functional Microphones on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-5-best-live-streaming-software-for-mac-you-must-know/"><u>[New] 2024 Approved 5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-silent-story-consumers-leading-anonymity-apps/"><u>[Updated] 2024 Approved Silent Story Consumers Leading Anonymity Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-for-writing-testable-maintainable-javascript-code/"><u>[Updated] In 2024, Best Practices for Writing Testable, Maintainable JavaScript Code</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1-uncovering-the-secrets-a-comprehensive-guide-to-restoring-permanently-deleted-video-files/"><u>1. Uncovering the Secrets: A Comprehensive Guide to Restoring Permanently Deleted Video Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-web-warriors-championing-screen-recording-tools/"><u>2024 Approved Web Warriors Championing Screen Recording Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-find-x6-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Find X6 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-nokia-g22-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Nokia G22 PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/academic-advancement-5-dynamic-ways-to-use-chatgpt-in-school/"><u>Academic Advancement: 5 Dynamic Ways to Use ChatGPT in School</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-capability-can-it-be-used-as-a-math-solution-assistant/"><u>Exploring ChatGPT's Capability: Can It Be Used as a Math Solution Assistant?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-diagnose-and-fix-sounds-playing-through-speakers-instead-of-plugged-in-headphones/"><u>How To Diagnose & Fix Sounds Playing Through Speakers Instead of Plugged-In Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-airpod-mic-while-using-windows-10/"><u>How to Fix a Non-Functioning AirPod Mic While Using Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-speakers-on-your-pc-despite-being-properly-plugged-into-windows/"><u>How to Fix Silent Speakers on Your PC Despite Being Properly Plugged Into Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-sound-blaster-microphone-up-and-running-again/"><u>How To Get Your Sound Blaster Microphone Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-nonfunctional-push-to-talk-feature-on-overwatch/"><u>How To Resolve Nonfunctional Push-to-Talk Feature on Overwatch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-hp-laptop-speakers-complete-guide-to-fixing-silent-screens/"><u>How To Restore HP Laptop Speakers: Complete Guide to Fixing Silent Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-in-microsofts-latest-operating-system/"><u>How to Turn Off Sound Improvement Features in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/idt-hd-sound-codec-drivers-seamless-integration-guide-for-windows-11-users/"><u>IDT HD Sound Codec Drivers: Seamless Integration Guide for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-remedies-for-astro-a50-speaker-issues-get-sounds-back-asap/"><u>Immediate Remedies for Astro A50 Speaker Issues - Get Sounds Back ASAP!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo S18e | Dr.fone</u></a></li>
 </ul></div>
 

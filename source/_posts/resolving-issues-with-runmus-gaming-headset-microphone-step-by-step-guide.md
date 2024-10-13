@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with RUNMUS Gaming Headset Microphone - Step by Step Guide
-date: 2024-10-01T20:22:35.528Z
-updated: 2024-10-06T18:58:39.649Z
+date: 2024-10-06T20:49:30.175Z
+updated: 2024-10-12T23:34:20.234Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 5. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Troubleshoot the hardware issue
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
  If you’ve done a quick check and confirmed there is no hardware issue, the cause may be related to the computer settings. Keep reading to find more solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Check your privacy settings
@@ -67,39 +67,19 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Set your headset mic as the default device
 
@@ -112,14 +92,22 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
@@ -162,6 +150,13 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 
  After the update completes, restart the PC and see if your audio issue gets fixed. If not, there is one more fix to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5 – Close unnecessary background apps
 
  If you’re running multiple programs in the background, they might use your headset microphone, and thus prevent it from working with Rec Room. To see if that’s the cause, simply disable all unnecessary apps via the following steps:
@@ -197,20 +192,22 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-blueprints-for-making-youtube-intro-videos-that-stick/"><u>[New] 2024 Approved Blueprints for Making YouTube Intro Videos that Stick</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-step-by-step-guide-to-full-periscope-capabilities/"><u>[New] 2024 Approved Step-by-Step Guide to Full Periscope Capabilities</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-advanced-strategies-for-youtube-video-capture-for-2024/"><u>[New] Advanced Strategies for YouTube Video Capture for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-do-a-poll-on-instagram-stories-a-complete-guide/"><u>[New] How to Do a Poll on Instagram Stories - a Complete Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-picmetamorphosis-techniques-for-shape-alteration/"><u>[New] PicMetamorphosis Techniques for Shape Alteration</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-essential-techniques-for-recording-instagram-stories/"><u>[Updated] In 2024, Essential Techniques for Recording Instagram Stories</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-essential-insights-on-making-your-podcast-name-unforgettable/"><u>2024 Approved Essential Insights on Making Your Podcast Name Unforgettable</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-solving-beyond-the-wire-microphone-not-working-problems/"><u>Comprehensive Fixes: Solving Beyond The Wire Microphone Not Working Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-to-resolve-call-of-duty-warzone-sound-problem-on-your-computer-tips-and-tricks/"><u>Expert Advice to Resolve Call of Duty Warzone Sound Problem on Your Computer - Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-hp-laptop-audio-issues-on-windows-10-troubleshooting-steps/"><u>Fixing HP Laptop Audio Issues on Windows 10: Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-output-after-windows-11-patch-heres-the-easy-fix/"><u>No Output After Windows 11 Patch? Here's the Easy Fix!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hurdles-with-destiny-2-making-the-voice-chat-work-again/"><u>Overcoming Hurdles with Destiny 2 - Making the Voice Chat Work Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-how-to-make-headphones-appear-for-windows-11-users/"><u>Resolving Audio Problems: How to Make Headphones Appear for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-pcs-mic-on-windows-7-top-fixes-to-get-you-talking-again/"><u>Trouble with Your PC's Mic on Windows 7? Top Fixes to Get You Talking Again</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-xbox-service-interruptions-when-is-it-down-for-everyone/"><u>Understanding Xbox Service Interruptions – When Is It Down for Everyone?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-advanced-computers-at-your-fingertips/"><u>[New] In 2024, Advanced Computers at Your Fingertips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-mastery-the-top-10-steps-to-optimize-engagement-for-2024/"><u>[New] Instagram Mastery The Top 10 Steps to Optimize Engagement for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-videos-top-windows-phones-video-apps/"><u>[New] Mastering Videos Top Windows Phones Video Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-12-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 12? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/build-a-loyal-audience-on-facebook-using-effective-growth-methods-for-2024/"><u>Build a Loyal Audience on Facebook Using Effective Growth Methods for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effortless-strategies-for-facebook-stories-seamless-uploads/"><u>Effortless Strategies for Facebook Stories' Seamless Uploads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-your-audio-troubles-with-discord-once-and-for-all-the-ultimate-step-by-step-solution/"><u>End Your Audio Troubles with Discord Once and For All – The Ultimate Step-by-Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-get-your-runmud-gaming-setup-microphone-working-again/"><u>Expert Tips to Get Your Runmud Gaming Setup Microphone Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-1011-bluetooth-sound-interruptions-and-freezing/"><u>Fixing Windows 10/11 Bluetooth Sound Interruptions and Freezing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-valorant-voice-chat-functionality-and-enhance-teamplay-experience/"><u>How to Restore VALORANT Voice Chat Functionality and Enhance Teamplay Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-dual-screen-playback-recording/"><u>In 2024, Dual-Screen Playback Recording</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/problem-solved-restoring-volume-control-on-firefox-platform/"><u>Problem Solved: Restoring Volume Control on Firefox Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015698606-solve-your-windows-11-or-7-speaker-noise-problems-today/"><u>Solve Your Windows 11 or 7 Speaker Noise Problems Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-non-functioning-obs-computer-mic-and-microphone-problems/"><u>Step-by-Step Solutions for Non-Functioning OBS Computer Mic & Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-when-your-laptops-speakers-arent-working/"><u>Ultimate Fix for When Your Laptop's Speakers Aren't Working</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-when-zoom-cant-stream-your-video-footage/"><u>Ultimate Guide: Troubleshooting When Zoom Can't Stream Your Video Footage</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unleash-the-power-of-expression-emojis-in-your-discord-statues-for-2024/"><u>Unleash the Power of Expression Emojis in Your Discord Statues for 2024</u></a></li>
 </ul></div>
 

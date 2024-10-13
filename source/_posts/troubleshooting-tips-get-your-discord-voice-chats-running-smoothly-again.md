@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Get Your Discord Voice Chats Running Smoothly Again"
-date: 2024-09-15T16:23:45.612Z
-updated: 2024-09-16T17:36:22.853Z
+date: 2024-10-10T20:34:45.913Z
+updated: 2024-10-13T03:10:01.866Z
 tags:
   - win11
   - win10
@@ -52,8 +52,24 @@ You can use these steps to check:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Type or paste**ms-settings:sound** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to the desired one. Then click**Device properties and test microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/input-device.jpg)
 3. Make sure you’ve**unchecked the box** next to**Disable** , and the slider under the**Volume** section is set to**100** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click**Start test** and tap or speak to your microphone. Then click**Stop test** . If you’re prompted**The highest value we saw was xx percent** , it means your microphone is working correctly.  
 
@@ -61,6 +77,13 @@ You can use these steps to check:
 5. Launch World of Warcraft and test your in-game voice chat.
 
  If this method doesn’t tackle your problem, please continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Check your in-game settings**
 
@@ -73,8 +96,23 @@ Here’re the steps:
 2. On the menu to your left, select**Voice Chat** . Set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Then click**Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 3. Launch WoW. Open game settings and select**Voice Chat** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Configure**Output Device** and**Microphone Device** to**System Default** . Then test your microphone. If your mic is working now, click**Okay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/wow-in-game-voice-chat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If configuring in-game settings doesn’t give you any luck, take a look at the next solution.
 
@@ -89,13 +127,6 @@ Here’re the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
@@ -106,10 +137,10 @@ Here’re the steps:
  If updating the audio driver failed to solve your case, simply move on to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
@@ -122,31 +153,18 @@ By the way, it’s surprisingly easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-windows-update.jpg)
 2. Click**Check for updates** . Windows will then search and install the system updates automatically. Once it’s done, restart your computer.  
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed**all** the system updates, repeat these steps until it prompts “You’re up to date” when you click**Check for updates** .
 
  If your issue persists after installing system updates, please continue to the final fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Scan and repair WoW
 
@@ -175,5 +193,22 @@ By the way, it’s surprisingly easy to update too:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-15-best-tools-to-capture-classroom-learning-moments/"><u>[New] 15 Best Tools to Capture Classroom Learning Moments</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-overcome-unseen-blanks-in-game-transmission-for-2024/"><u>[New] Overcome Unseen Blanks in Game Transmission for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-decoding-the-top-5-transformative-social-updates/"><u>[Updated] In 2024, Decoding the Top 5 Transformative Social Updates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-guide-to-choosing-youtube-friendly-video-formats/"><u>2024 Approved The Essential Guide to Choosing YouTube-Friendly Video Formats</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-the-dota-2-vac-ban-error-message-solutions/"><u>Dealing with the Dota 2 VAC Ban Error Message - Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-gameplay-experience-essential-tips-to-fix-low-fps-problems-in-valheim-during-2024/"><u>Elevate Your Gameplay Experience: Essential Tips to Fix Low FPS Problems in Valheim During 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-15-cinematic-tools-for-gopro-videos-and-films/"><u>In 2024, Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-13-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 13 Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-playstation-vita-audio-glitches-tips-and-tricks/"><u>Quick Fixes for PlayStation Vita Audio Glitches - Tips & Tricks!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revitalize-your-audio-experience-by-eliminating-headphone-disturbances-quickly/"><u>Revitalize Your Audio Experience by Eliminating Headphone Disturbances Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-hyperx-cloud-alpha-headset-microphone-issues-a-step-by-step-guide/"><u>Solving HyperX Cloud Alpha Headset Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016130378-trouble-with-your-turtle-beach-mic-heres-how-to-repair-it/"><u>Trouble with Your Turtle Beach Mic? Here's How to Repair It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-dell-audio-issues-on-windows-7/"><u>Troubleshooting and Resolving Dell Audio Issues on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-for-hdmi-audio-issues-on-windows-7-solutions/"><u>Troubleshooting Fixes for HDMI Audio Issues on Windows 7 - Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbelievable-deal-alert-apple-m2-macbook-air-just-dropped-below-900-on-amazon-before-october-prime-day-zdnet/"><u>Unbelievable Deal Alert: Apple M2 MacBook Air Just Dropped Below $900 on Amazon Before October Prime Day - [ZDNet]</u></a></li>
+</ul></div>
 

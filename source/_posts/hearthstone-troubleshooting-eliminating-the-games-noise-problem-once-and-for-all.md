@@ -1,7 +1,7 @@
 ---
 title: "Hearthstone Troubleshooting: Eliminating the Game's Noise Problem Once and For All"
-date: 2024-10-05T05:56:34.950Z
-updated: 2024-10-07T04:31:00.179Z
+date: 2024-10-08T03:29:41.652Z
+updated: 2024-10-12T21:46:50.084Z
 tags:
   - win11
   - win10
@@ -41,19 +41,6 @@ Follow the steps below in order until you fix your issue.
 3. **[Download & Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Tweak Discord settings
 
  Discord has partnered with Krisp, a noise filtration software to allow users to enjoy their voice chats by introducing the Noise Suppression option. So you’ll need to make sure that you’ve enabled this option.
@@ -72,22 +59,22 @@ Follow the steps below in order until you fix your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-choose-your-proper-input-and-output-device.jpg)
 5. Scroll down and toggle**on Echo Cancellation** . Then tick**Krisp** for Noise Suppression.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-Echo-Cancellation-on.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Save your settings and restart Discord. If it’s still echoing, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Change Windows settings
@@ -99,30 +86,30 @@ Follow the steps below in order until you fix your issue.
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 2. Make sure you select the correct output and input device from the drop-down.  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/choose-the-correct-input-and-output-device.jpg)
 3. If your problem persists after verifying the correct input and output device, click**Sound Control Panel** in the top right.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Sound-Control-Panel.jpg)
 4. Under the**Playback** tab, right-click your device and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound-control-panel-playback-properties.jpg)
 5. In the**Properties** window, select the**Spatial Sound** tab. Make sure to turn it**Off** . Then click**Apply > OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/turn-off-spatial-sound.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the changes, do a test and check if your problem has been resolved. If not, try the next fix below.
 
@@ -135,7 +122,21 @@ Follow the steps below in order until you fix your issue.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab and wait for it to download and install the available updates. And you should be asked to restart your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t do the trick, proceed to the next fix.
 
@@ -154,13 +155,6 @@ If this doesn’t do the trick, proceed to the next fix.
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All. You can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-audio-driver-automatically-with-Driver-Easy.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After updating drivers, restart your PC and you should be able to use Discord voice chat or streaming without having the annoying echo problem.
 
@@ -185,17 +179,19 @@ If this doesn’t do the trick, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-screens-with-active-8-a-comparative-review-for-2024/"><u>[New] Mastering Screens with Active 8 - A Comparative Review for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-digital-draw-dance-windows-and-mac-cartoony-creators-guide/"><u>[Updated] In 2024, Digital Draw-Dance Windows & Mac Cartoony Creator's Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dell-sound-issues-fixed-fast-and-simple-solutions/"><u>Dell Sound Issues Fixed: Fast & Simple Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-zoom-calls-heard-on-windows-1110-by-fixing-mic-difficulties/"><u>Get Your Zoom Calls Heard on Windows 11/10 by Fixing Mic Difficulties</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-solutions-for-fixing-voice-chat-problems-in-fortnite-get-started-today/"><u>Immediate Solutions for Fixing Voice Chat Problems in Fortnite - Get Started Today!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-adobe-premiere-elements-replacements-for-video-editing/"><u>In 2024, Best Adobe Premiere Elements Replacements for Video Editing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-15-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 15 Safe and Legal</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-eliminating-crackling-noise-from-arctis-7-headphones-in-windows/"><u>Troubleshooting Guide: Eliminating Crackling Noise From Arctis 7 Headphones in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-issues-with-the-non-opening-of-realtek-sound-driver/"><u>Troubleshooting Guide: Overcoming Issues with the Non-Opening of Realtek Sound Driver</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/turning-tides-for-tech-the-potential-of-apple-to-rejuvenate-dissatisfied-sonos-owners/"><u>Turning Tides for Tech: The Potential of Apple to Rejuvenate Dissatisfied Sonos Owners</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-coherencecore-the-innovative-approach-to-synchronized-sound-design-in-adobe-premiere-pro-2023/"><u>Updated 2024 Approved CoherenceCore The Innovative Approach to Synchronized Sound Design in Adobe Premiere Pro 2023</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-e-commerce-hubs-for-tailored-box-creation/"><u>[New] 2024 Approved Essential E-Commerce Hubs for Tailored Box Creation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-harnessing-hype-strategies-to-elevate-your-instagram-presence/"><u>[Updated] Harnessing Hype Strategies to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>2024 Approved Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284679690-2024dvd/"><u>合法コピー可能: 2024年最新のツタヤ、ゲオ、ぽすれんでDVDレンタル複製手順</u></a></li>
+<li><a href="https://win-unique.techidaily.com/como-rescatar-datos-perdidos-despues-del-vaciado-forzoso-de-la-papelera-de-reciclaje-de-windows-11/"><u>Cómo Rescatar Datos Perdidos Después Del Vaciado Forzoso De La Papelera De Reciclaje De Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-picks-top-mac-editors-for-cinema-professionals/"><u>Expert Picks Top Mac Editors For Cinema Professionals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y78t-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y78t</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-in-a-broken-corsair-audio-setup/"><u>How to Restore Functionality in a Broken Corsair Audio Setup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-magic-vs-2-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor Magic Vs 2 Phones? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/not-as-robust-dissecting-the-features-of-the-tp-link-av1300-powerline-extender/"><u>Not as Robust? Dissecting the Features of the TP-Link AV1300 Powerline Extender</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-challenges-effective-solutions-for-a-broken-lucidsound-ls30-mic/"><u>Overcoming Challenges: Effective Solutions for a Broken LucidSound LS30 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/perfect-pitch-speedy-tips-for-effective-microphone-checks/"><u>Perfect Pitch: Speedy Tips for Effective Microphone Checks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-tips-for-corsair-virtuoso-microphone-malfunctions/"><u>Repair Tips for Corsair Virtuoso Microphone Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-astro-a10-mic-comprehensive-guide-to-clearing-sounds-issues/"><u>Revive Your Astro A10 Mic: Comprehensive Guide to Clearing Sounds Issues</u></a></li>
 </ul></div>
 

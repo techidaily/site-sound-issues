@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Overwatch PTT: How to Get Your Microphone Working in the Game"
-date: 2024-09-29T17:41:53.483Z
-updated: 2024-10-07T06:19:09.113Z
+date: 2024-10-07T04:35:13.264Z
+updated: 2024-10-12T16:57:30.201Z
 tags:
   - win11
   - win10
@@ -41,11 +41,25 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
 If the connection is fine, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable your peripherals
 
  In some cases, your game chat won’t work[**because your controller is conflicting with your mic**](https://www.reddit.com/r/blackopscoldwar/comments/jtcnob/voice%5Fchat%5Fnot%5Fworking/) . This is a weird but possible situation. So before entering Black Ops Cold War, make sure you’ve disabled your peripherals, especially those with a headphone jack.
 
  If you’re not using any peripherals, simply move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change your default recording device
 
@@ -58,6 +72,14 @@ First you need to check the default audio device on your system:
 1. On your keyboard, press**Win+R** (the Windows logo button and the r button) at the same time to invoke the Run box. Type or paste **ms-settings:sound** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to your desired one. Then click**Device properties and test microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
@@ -74,20 +96,13 @@ Next, you need to check the voice chat settings in the Battle.net client:
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now launch Black Ops Cold War and see if you can talk to others.
 
@@ -113,15 +128,16 @@ Now launch Black Ops Cold War and see if you can talk to others.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -138,23 +154,9 @@ Now launch Black Ops Cold War and see if you can talk to others.
 2. Be sure to set both**Speakers/Headphones Voice Chat Device** and**Microphone Device** to**Default Communication Device** . Set**Microphone Activation Mode** to**Open Mic** . Then increase the value of**Open Microphone Sensitivity** to over 50.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-ingame-voice-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you can restart Black Ops Cold War and check if the voice chat is working.
 
  If changing game settings doesn’t help, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
 
@@ -165,14 +167,15 @@ Here’s a quick guide for that:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will download and install the available updates. Wait for the process to complete.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -197,21 +200,24 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[New] 2024 Approved Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-key-techniques-boosting-video-reach-across-both-platforms/"><u>[Updated] 2024 Approved Key Techniques Boosting Video Reach Across Both Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-for-iphone-sounds-restoring-audio-functionality/"><u>DIY Repair Guide for iPhone Sounds – Restoring Audio Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-nonfunctional-microphones-in-turtle-beach-audio-gear/"><u>Expert Advice: Fixing Nonfunctional Microphones in Turtle Beach Audio Gear</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-sound-issues-in-the-popular-video-game-outriders/"><u>Expert Advice: Overcoming Sound Issues in the Popular Video Game, Outriders</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-microsoft-teams-microphone-malfunction-in-windows-11-and-10/"><u>Fixing the Issue: Microsoft Teams Microphone Malfunction in Windows 11 & 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-microsoft-teams-microphone-working-again-on-pc-tips-for-win11-and-win10-users/"><u>Getting Your Microsoft Teams Microphone Working Again on PC: Tips for Win11 and Win10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/illuminating-the-screen-expert-fixes-for-obs-capturing-blackout-issues/"><u>Illuminating the Screen: Expert Fixes for OBS Capturing Blackout Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-brighten-up-video-on-iphone-five-practical-steps/"><u>In 2024, Brighten Up Video on iPhone Five Practical Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Phone without Google Account?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-net-speeds-unlock-efficient-adapter-checking/"><u>Navigate Net Speeds: Unlock Efficient Adapter Checking</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-troubleshooting-silent-speakers-even-with-connection-established/"><u>Solution: Troubleshooting Silent Speakers Even with Connection Established</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-low-sound-volume-problems-on-a-windows-10-computer/"><u>Solving Low Sound Volume Problems on a Windows 10 Computer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-installation-of-logitech-racing-wheel-software-for-windows-7-8-and-10-secure-and-reliable-download-options/"><u>Step-by-Step Installation of Logitech Racing Wheel Software for Windows 7, 8 & 10 - Secure and Reliable Download Options</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-nubia-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nubia Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upgrading-from-iphone-15-to-iphone-16-essential-factors-and-insights-before-switching-to-the-newest-iphone/"><u>Upgrading From iPhone 15 to iPhone 16? Essential Factors and Insights Before Switching to the Newest iPhone!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-elevate-your-shots-top-photo-gear-for-mobile-cameras/"><u>[New] 2024 Approved Elevate Your Shots Top Photo Gear for Mobile Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[New] In 2024, From Editing to Sharing YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-data-buffering-unit-for-sony-a7s-ii/"><u>[New] Premium Data Buffering Unit for Sony A7S II</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-snapchat-marketing-playbook-boosting-sales/"><u>2024 Approved The SnapChat Marketing Playbook Boosting Sales</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-logitech-g933-speakers-working-again-effortless-troubleshooting-guide/"><u>Get Your Logitech G933 Speakers Working Again - Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-xcover-6-pro-tactical-edition-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy XCover 6 Pro Tactical Edition FRP?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-to-your-usb-headphones-on-a-windows-7-pc/"><u>How to Restore Sound to Your USB Headphones on a Windows 7 PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-ai-companion-gpt-for-enhanced-productivity/"><u>Introducing AI Companion, GPT for Enhanced Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-art-of-document-conversion-from-word-docs-to-win-11-pdf/"><u>Navigating the Art of Document Conversion From Word Docs to Win 11 PDF</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silence-in-battlegrounds-get-your-world-of-warcraft-voice-chat-running-smoothly-again/"><u>No More Silence in Battlegrounds: Get Your World of Warcraft Voice Chat Running Smoothly Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolving-audio-glitches-on-your-oculus-rift-s-headset/"><u>Quick-Fix Guide: Resolving Audio Glitches on Your Oculus Rift S Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-non-functional-mic-on-turtle-beach-elite-atlas-for-optimal-audio-experience/"><u>Resolving Non-Functional Mic on Turtle Beach Elite Atlas for Optimal Audio Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-lenovo-pcs-audio-problems-effortlessly/"><u>Resolving Your Lenovo PC's Audio Problems Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-windows-11-audio-output-expert-tips-for-restoring-your-pcs-sound/"><u>Revive Windows 11 Audio Output: Expert Tips for Restoring Your PC's Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-getting-your-logitech-g-pro-mic-working-again/"><u>Step-by-Step Guide: Getting Your Logitech G Pro Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-method-to-amplify-your-pcs-speakers-on-windows-10/"><u>Step-by-Step Method to Amplify Your PC's Speakers on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-on-how-to-unlink-gadgets-from-your-google-nest-hub/"><u>The Ultimate Tutorial on How to Unlink Gadgets From Your Google Nest Hub</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-bluestacks-crashes-in-just-five-simple-steps/"><u>Troubleshoot BlueStacks Crashes in Just Five Simple Steps</u></a></li>
 </ul></div>
 

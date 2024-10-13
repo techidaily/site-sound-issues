@@ -1,7 +1,7 @@
 ---
 title: How to Fix Razer BlackShark V2 Mic Not Working
-date: 2024-09-10T19:55:58.220Z
-updated: 2024-09-16T20:35:31.311Z
+date: 2024-10-08T00:15:03.214Z
+updated: 2024-10-13T01:06:46.936Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check your microphone device settings
 
  Your Razer Kraken mic may not be working because it’s disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
@@ -48,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
@@ -60,6 +81,19 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -110,12 +144,24 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/xpert-tips-for-efficient-internet-use-the-7-finest-android-apps/"><u>[New] Expert Tips for Efficient Internet Use The 7 Finest Android Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-best-talker-alteration-apps-for-video-content-makers/"><u>[Updated] Best Talker Alteration Apps for Video Content Makers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-webcam-accessories-top-10-secure-solutions-for-2024/"><u>[Updated] Best Webcam Accessories Top 10 Secure Solutions for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-keep-the-conversation-going-essential-fixes-for-live-video-pauses/"><u>[Updated] Keep the Conversation Going Essential Fixes for Live Video Pauses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>[Updated] The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premium-video-collaboration-software-guides/"><u>2024 Approved Premium Video Collaboration Software Guides</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-mp4-reviews-essential-guidebook-for-2024/"><u>Best MP4 Reviews – Essential Guidebook for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015473748-dealing-with-cut-out-audio-in-windows-10-heres-the-solution/"><u>Dealing with Cut-Out Audio in Windows 10? Here's The Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-push-to-talk-malfunction-heres-how-to-restore-your-voice-chat-capabilities/"><u>Discord Push-to-Talk Malfunction? Here’s How to Restore Your Voice Chat Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-ways-to-eliminate-bluetooth-speaker-lag-for-smooth-playback/"><u>Easy Ways to Eliminate Bluetooth Speaker Lag for Smooth Playback</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016040963-modern-warfare-voicechat-malfunction-heres-how-to-fix-it-successfully/"><u>Modern Warfare Voicechat Malfunction? Here's How to Fix It Successfully!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-headset-mic-malfunction-heres-how-you-can-fix-it/"><u>Onikuma Headset Mic Malfunction? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-problems-in-pubg-top-5-remedies-revealed/"><u>Overcoming Voice Chat Problems in PUBG - Top 5 Remedies Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-laptop-speaker-jack-errors-expert-tips-and-tricks/"><u>Resolving Laptop Speaker Jack Errors: Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016783703-revive-the-soundscape-effortless-solutions-to-fixed-pc-audio-glitches/"><u>Revive the Soundscape: Effortless Solutions to Fixed PC Audio Glitches</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/scansione-e-conversione-di-file-tiff-su-internet-senza-costi-movavi/"><u>Scansione E Conversione Di File TIFF Su Internet Senza Costi - Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving PS3 Won't Play Games - Top Strategies"
-date: 2024-10-05T08:53:37.400Z
-updated: 2024-10-07T05:43:52.893Z
+date: 2024-10-06T03:17:23.136Z
+updated: 2024-10-12T20:41:18.058Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Perform basic troubleshooting
 
  If you’re having trouble hearing your friends using in-game voice chat when playing Destiny 2, you should check the following first:
@@ -57,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
  After confirming that your audio device is not the problem, go ahead with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the Voice Chat settings
 
  Some players found that the voice chat setting seems to carry over from Steam to console clients. This means that if you have ever logged into the game through Steam and disabled voice chat, then you may encounter the issue of in-game voice chat not working on your console. To fix this problem, you may have to log into the game through Steam and re-enable voice chat in settings. Here’s how:
@@ -72,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 2. Open**Settings** menu, then select**SOUND** and turn on**Voice Chat** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/turn-on-voice-chat.jpg)
 3. Close the game on PC, and then relaunch it on your console.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check if voice chat functions properly.
 
@@ -103,18 +82,18 @@ Now check if voice chat functions properly.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-ms-settings-privacy-microphone.jpg)
 4. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** . If not, you can click the**Change** button above to turn it on.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-apps-to-access-your-microphone.jpg)
 5. Scroll down the list of apps below that toggle to find**Destiny 2** . Make sure it is also toggled to**ON** .
 6. **Relaunch** the game and check if the in-game voice chat is working.
 
 If this fix doesn’t do the trick, move on to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -134,6 +113,19 @@ If this fix doesn’t do the trick, move on to the next one.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -170,34 +162,64 @@ If this method still gives you no luck, take a look at the next one.
 1. On your taskbar, right-click the**Speakers** icon and select**Open Volume mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer-1.jpg)
 2. You’ll see a set of volume controls for your devices. Make sure none of them are muted.  
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/volume-mixer.jpg)
 3. Right-click the**Speakers** icon again and select**Sounds** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/sounds.jpg)
 4. Choose the**Playback** tab,**select the headphones** you want to use, and click Set Default.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 5. Navigate to the Recording tab, select the microphone you want to use, and click**Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
-6. Click**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
+6. Click**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After everything is set up correctly, restart Destiny 2 to see if your audio issue is resolved.
 
 If not, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Restart Windows Audio Service
 
@@ -213,10 +235,10 @@ If not, continue to the next fix.
 5. In the Windows Audio properties window, check if the**Startup type** is set to Automatic. If not,**set it to Automatic** and click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/audio-automatic-ok.jpg)
@@ -224,13 +246,6 @@ If not, continue to the next fix.
  Once done, restart your computer and launch Destiny 2 to see if this solves the problem.
 
 If the issue remains, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable any VPNs
 
@@ -259,19 +274,22 @@ If the issue remains, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-essential-steps-to-update-your-macos-sierra-system/"><u>[New] Essential Steps to Update Your macOS Sierra System</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-your-journey-through-the-world-of-iphone-memos/"><u>[New] In 2024, Your Journey Through the World of iPhone Memos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-surge-to-subscriber-success-with-strategic-tactics-for-2024/"><u>[Updated] Surge to Subscriber Success with Strategic Tactics for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/a-deep-dive-into-freenocam-software-features/"><u>A Deep Dive Into FreenoCam Software Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-a-unique-windows-11-search-interface/"><u>Crafting a Unique Windows 11 Search Interface</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/creative-pebble-bluetooth-speaker-problems-heres-how-to-get-them-running-smoothly-again/"><u>Creative Pebble Bluetooth Speaker Problems? Here's How to Get Them Running Smoothly Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-functionality-to-a-defective-bose-speaker/"><u>Expert Advice on Restoring Functionality to a Defective Bose Speaker</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-nuances-in-apples-latest-offering-the-best-stays-the-best-with-slight-tweaks/"><u>Exploring the Nuances in Apple's Latest Offering - The Best Stays the Best With Slight Tweaks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-with-creative-pebble-speakers-a-comprehensive-guide/"><u>Fixing Common Issues with Creative Pebble Speakers: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-valorant-voice-chat-back-on-track-quick-fixes-and-solutions/"><u>Get Your Valorant Voice Chat Back on Track: Quick Fixes and Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reconnecting-the-dots-of-dialogue-remedies-for-sound-issues-in-discord/"><u>Reconnecting the Dots of Dialogue: Remedies for Sound Issues in Discord</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-in-cyberpunk-2077-for-pc-users-troubleshooting-guide-for-windows-10-audio-issues/"><u>Restoring Soundscape in Cyberpunk 2077 for PC Users: Troubleshooting Guide for Windows 10 Audio Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-10-capture-hardware-recommendations-for-online-videos/"><u>[New] In 2024, Essential 10 Capture Hardware Recommendations for Online Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-ultimate-compilation-of-top-7-android-adblocking-apps/"><u>[New] The Ultimate Compilation of Top 7 Android AdBlocking Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-find-x6-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo Find X6 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207051750-computer-wont-exit-boot-screen-try-these-solutions/"><u>Computer Won't Exit Boot Screen? Try These Solutions</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-mp4-to-gif-transformation-discover-these-3-charming-apps/"><u>Effortless MP4 to GIF Transformation: Discover These 3 Charming Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-is-it-worth-the-upgrade-explore-your-options-with-insights-from-zdnet/"><u>IPad Air 4 vs iPad Air 5 Comparison: Is It Worth the Upgrade? Explore Your Options with Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/nyt-daily-challenge-july-14th-mastering-todays-hinted-questions-with-ease-399/"><u>NYT Daily Challenge, July 14Th: Mastering Today's Hinted Questions with Ease (#399)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-razor-kraken-headset-mic-wont-work-heres-why-and-how-to-fix-it/"><u>Solution Found: Razor Kraken Headset Mic Won't Work - Here's Why and How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-voicemod-dilemma-effective-strategies-for-fixed-functionality/"><u>Solving the Voicemod Dilemma: Effective Strategies for Fixed Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-airpods-microphone-functionality-on-windows/"><u>Step-by-Step Guide: Restoring AirPods Microphone Functionality on Windows #</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-overcoming-the-challenge-of-a-rusty-microphone-not-working/"><u>Step-by-Step Solution: Overcoming the Challenge of a Rusty Microphone Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackle-dota-2s-mic-malfunction-quickly-expert-fixes-for-a-seamless-voice-chat-experience/"><u>Tackle Dota 2'S Mic Malfunction Quickly: Expert Fixes for a Seamless Voice Chat Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-hdmi-sounds-on-your-windows-7-pc-solutions-unveiled/"><u>Troubleshooting Non-Functional HDMI Sounds on Your Windows 7 PC: Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-restoring-sound-on-your-toshiba-computer/"><u>Ultimate Guide to Restoring Sound on Your Toshiba Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-wont-my-laptop-speakers-work-diagnosis-and-fixes-for-no-sound-issues/"><u>Why Won't My Laptop Speakers Work? Diagnosis and Fixes for No Sound Issues</u></a></li>
 </ul></div>
 

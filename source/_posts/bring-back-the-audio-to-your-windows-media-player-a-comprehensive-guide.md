@@ -1,7 +1,7 @@
 ---
 title: Bring Back the Audio to Your Windows Media Player - A Comprehensive Guide
-date: 2024-09-30T18:27:30.242Z
-updated: 2024-10-06T23:45:32.490Z
+date: 2024-10-08T19:59:31.471Z
+updated: 2024-10-13T03:10:13.324Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -44,31 +51,17 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the audio level is high enough
 
@@ -77,21 +70,35 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure the Bluetooth Support Service is enabled
 
@@ -101,17 +108,17 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -133,16 +140,16 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -180,14 +187,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-comparing-magix-music-maker-and-studio-max/"><u>[New] In 2024, Comparing Magix Music Maker and Studio Max</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boost-your-survival-game-in-dayz-improve-item-drops-now/"><u>Boost Your Survival Game in DayZ - Improve Item Drops Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-distortions-and-sound-pop-ups-on-your-windows-pc-a-step-by-step-guide/"><u>How to Fix Audio Distortions and Sound Pop-Ups on Your Windows PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-headphones-and-speakers-that-wont-work-on-your-laptop-or-pc/"><u>How to Fix Headphones and Speakers that Won't Work on Your Laptop or PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-phantom-v-flip-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Phantom V Flip to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mobile-markup-mastery-iosandroid-leaders-for-2024/"><u>Mobile Markup Mastery IOS/Android Leaders for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-roar-how-world-of-warcraft-restored-audio/"><u>Reviving the Roar: How World of Warcraft Restored Audio</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/simplifying-slide-creations-with-youtube-content-for-2024/"><u>Simplifying Slide Creations with YouTube Content for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solution-to-audio-pops-and-crackles-on-windows-devices/"><u>Ultimate Solution to Audio Pops and Crackles on Windows Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enhanced-motion-video-with-top-mics-for-cams/"><u>[New] Enhanced Motion Video with Top Mics for Cams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-a-journey-through-snapchats-creative-edit-features/"><u>[New] In 2024, A Journey Through Snapchat's Creative Edit Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-astro-a2e-microphone-connectivity-problems/"><u>DIY Fixes for Astro A2e Microphone Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-device-handoff-hdmi-issues-caused-by-overlapping-application-control/"><u>Fixing Device Handoff HDMI Issues Caused by Overlapping Application Control</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-understanding-the-read-status-of-your-emails-in-gmail/"><u>Guide: Understanding the 'Read' Status of Your Emails in Gmail</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-immediately-resolve-non-responsive-audio-on-dell-devices/"><u>How to Immediately Resolve Non-Responsive Audio on Dell Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-instagram-reel-formula-for-unrivaled-fame/"><u>In 2024, The Instagram Reel Formula for Unrivaled Fame</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphoneandroids-leading-vr-experiences-ranked-for-2024/"><u>IPhone/Android's Leading VR Experiences Ranked for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-compatibility-101-attaching-your-modern-xbox-controller-139-chars/"><u>PC Compatibility 101: Attaching Your Modern Xbox Controller (139 Chars)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>The Ultimate List 8 Online Locations for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-astro-a50s-non-functional-microphone/"><u>Troubleshoot and Fix Your Astro A50's Non-Functional Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-your-corsair-void-microphone/"><u>Troubleshooting Steps: Resolving Issues with Your Corsair Void Microphone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Chrome's Sound Troubles Fixed? Discover the Solutions Here!
-date: 2024-09-30T01:58:19.689Z
-updated: 2024-10-06T20:13:06.866Z
+date: 2024-10-06T21:34:11.280Z
+updated: 2024-10-12T18:25:49.734Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your Sound settings
@@ -54,28 +54,35 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
  1) Click the speaker icon![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-26_14-41-05.jpg) in the notification area of your task bar. Then click**Sounds** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-101.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Go to the**Recording** tab, right-click an empty area inside the devices’ display list, and then tick**Show Disabled Devices** to ensure that your headset shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click to highlight**Razer ManO’War** , then click**Set Default > Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also right-click**Razer ManO’War** and check if it is disabled. If it is, select**Enable** to get your mic working.
 
@@ -95,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Modify Privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, some programs (e.g. a video game) might be forbidden to access your mic. Here’s how to check and modify these settings:
@@ -103,29 +117,22 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the**Microphone** tab, in the results pane, click **Change** to see if**Microphone access for this device** is toggled on. If it isn’t, make sure you toggle it on.
 
  Right below you’ll see another toggle for **Allow apps to access your microphone** . Also remember to turn it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and head to the part of **Choose which apps can access your microphone** . Make sure you**toggle on** the apps in which you want to use the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix didn’t help, please try out the next fix.
 
@@ -143,13 +150,6 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-109.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On the next page, scroll down and select**Razer ManO’War** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-110.png)
@@ -158,16 +158,16 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-111.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Find the one compatible with your operating system, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-114.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After downloading the correct file, install it on your PC. Then, launch Razer Synapse and configure the settings for your Razer ManO’War mic. Check to see whether your mic has gone back to normal; if it hasn’t, then please give the next fix a shot.
 
@@ -232,22 +232,15 @@ If this fix didn’t help, please try out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-eco-editing-tools-no-charge/"><u>[New] Eco Editing Tools No Charge</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-professional-techniques-for-webcam-integration-and-capture-for-2024/"><u>[Updated] Professional Techniques for WebCam Integration & Capture for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unveiling-the-secrets-of-iphones-hdr-abilities/"><u>[Updated] Unveiling the Secrets of iPhone's HDR Abilities</u></a></li>
-<li><a href="https://media-tips.techidaily.com/dvd-tearing-made-easy-master-the-art-of-ripping-with-vlc-software/"><u>DVD Tearing Made Easy - Master the Art of Ripping with VLC Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-complete-silence-resolving-usb-headphones-audio-issues-in-windows-7/"><u>Fixing Complete Silence: Resolving USB Headphones Audio Issues in Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-to-voice-chatting-in-wow-effective-strategies-and-fixes/"><u>Get Back to Voice-Chatting in WoW: Effective Strategies and Fixes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/high-end-audio-or-excessive-spending-on-max-earbuds/"><u>High-End Audio or Excessive Spending on Max Earbuds?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-mic-not-working-heres-how-to-restore-functionality/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Restore Functionality!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014761595-immediate-remedies-for-lack-of-sound-on-astro-a50-headphones-get-the-fix-now/"><u>Immediate Remedies for Lack of Sound on Astro A50 Headphones - Get the Fix Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>In 2024, Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mastering-real-time-broadcasting-a-beginners-guide/"><u>Mastering Real-Time Broadcasting A Beginner's Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-glitches-in-league-of-legends-for-seamless-team-play/"><u>Overcoming Voice Chat Glitches in League of Legends for Seamless Team Play</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-troubleshoot-your-astro-a50-when-theres-no-audio/"><u>Quick Solutions: Troubleshoot Your Astro A50 When There's No Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-blackshark-v2-mic-problems-heres-how-to-fix-them/"><u>Razer Blackshark V2 Mic Problems? Here's How to Fix Them!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmuted-victory-expert-strategies-for-resolving-nvidia-high-def-sound-problems/"><u>Unmuted Victory: Expert Strategies for Resolving Nvidia High-Def Sound Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-and-complete-guide-downloading-the-epson-xp-420-printer-driver-update/"><u>Updated & Complete Guide: Downloading the Epson XP-420 Printer Driver Update</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-xs-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone XS i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-secure-your-favorite-igtv-videos-download-strategies-for-pcmac-os-users/"><u>[New] Secure Your Favorite IGTV Videos Download Strategies for PC/Mac OS Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-unseen-aspects-of-drone-shopping-you-mustnt-ignore/"><u>[Updated] The Unseen Aspects of Drone Shopping You Mustn’t Ignore</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apex-creative-workspace-report-in-depth-studio-analysis-2023/"><u>2024 Approved Apex Creative Workspace Report In-Depth Studio Analysis, 2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-decoding-the-best-hdr-cameras-for-professionals/"><u>2024 Approved Decoding the Best HDR Cameras for Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-lunapic-ultimate-guide-for-professionals/"><u>2024 Approved Mastering LunaPic Ultimate Guide for Professionals</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-epson-scanner-functionality-in-windows-11/"><u>Restoring Epson Scanner Functionality in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-no-sound-issue-on-hp-laptops-expert-advice-and-tips/"><u>Troubleshoot and Fix No Sound Issue on HP Laptops - Expert Advice & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-destiny-voic-chat-back-on-track/"><u>Troubleshooting Guide: Getting Destiny ˈvoic Chat Back on Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-calls-that-wont-connect-in-call-of-duty-vanguard/"><u>Troubleshooting Tips for Calls That Won't Connect in Call of Duty: Vanguard</u></a></li>
 </ul></div>
 

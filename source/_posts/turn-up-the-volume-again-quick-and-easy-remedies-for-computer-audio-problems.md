@@ -1,7 +1,7 @@
 ---
 title: Turn Up the Volume Again - Quick and Easy Remedies for Computer Audio Problems
-date: 2024-09-15T17:18:58.755Z
-updated: 2024-09-16T17:45:23.931Z
+date: 2024-10-07T22:58:44.821Z
+updated: 2024-10-12T20:27:44.835Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your sound driver
 
  The**Chrome no sound** problem may occur if you’re using the wrong or corrupt sound driver on your system. So you should update your sound driver to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -72,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check volume mixer
 
 **Volume mixer** is a feature in Windows that allows us to adjust the volumes for individual apps. If sound plays properly on apps other than Chrome, chances are you might have muted the volume for Chrome. To check and un-mute:
@@ -86,19 +86,27 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 1. Right-click on the sound icon  on the lower-right of your screen, then click**Open Volume Mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df14ca9334.jpg)
 2. Make sure you’ve moved the**volume slider** for**Chrome** to at least halfway up.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df24a53f15.jpg)  
- If the volume controller for Chrome isn’t listed here, you can play audio/video on Chrome and then it should pop up.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df24a53f15.jpg)  
+ If the volume controller for Chrome isn’t listed here, you can play audio/video on Chrome and then it should pop up.
 
 3. Re-launch Chrome and play some audio/video and see if you can hear the sound. If the Chrome no sound problem persists, move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4:   Make sure the page is not mute
 
@@ -107,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **inetcpl.cpl**  into the box and click OK.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-31.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click the **Advanced**  tab. Then scroll down to **Multimedia** and check the box before **Play sounds in web pages** . Then click **Apply** \> **OK** .
 
@@ -128,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable extensions
 
  Extensions are features we add to our browser for better user experience. For example, the AdBlock is meant to block ads. But they can also interfere with our Chrome browser and cause the**Chrome no sound** issue. To disable extensions:
@@ -141,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Update Adobe Flash Player
 
  This problem may also occur if the Adobe Flash Player plug in on Chrome is outdated or faulty. So you can update**Adobe Flash Player** to see if this is the case.
@@ -151,13 +180,6 @@ Here’s how to do it:
 2. Under**Adobe Flash Player** , click**Check for update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1dfb5ac965f.jpg)
 3. Check the status:
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * If it says **Status – Component not updated**  , then go to **[Adobe Flash Player](https://flash.2144.com/)** [](https://flash.2144.com/)  to  download & install the latest version of your   **Adobe flash player**  .
 * If it says otherwise, then move on to**Fix 8** .
@@ -175,27 +197,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d37f8cbb5d.png)
 2. Locate and right-click on Chrome, then click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e14cb32cd8.jpg)
 3. Download and install Chrome from another web browser or Windows store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Try sound on the re-installed Chrome and see if the**Chrome no sound** problem has been fixed.
@@ -221,5 +230,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/2024-approved-tweaking-sound-on-ps5ps4-games/"><u>2024 Approved Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-rog-zephyrus-g16-gamepad-assessment-a-tale-of-pros-and-cons-with-premium-components/"><u>Asus ROG Zephyrus G16 Gamepad Assessment: A Tale of Pros and Cons with Premium Components</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-solutions-for-fixing-voice-chat-glitches-in-pubg/"><u>Common Solutions for Fixing Voice Chat Glitches in PUBG</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/digital-dialogue-preservation-guide/"><u>Digital Dialogue Preservation Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easily-repair-audio-errors-dealing-with-the-no-response-from-audio-driver-complication/"><u>Easily Repair Audio Errors: Dealing with the 'No Response From Audio Driver' Complication</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-setup-instructions-for-linking-bluetooth-audio-devices-to-computers/"><u>Easy Setup Instructions for Linking Bluetooth Audio Devices to Computers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-tips-for-the-steam-switch-pro-controller/"><u>Essential Tips for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-diagnosing-and-fixing-pc-issues-with-the-rec-room-microphone-get-ready-to-communicate/"><u>Expert Guide to Diagnosing and Fixing PC Issues with the Rec Room Microphone – Get Ready to Communicate</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-twitter-videos-shared-directly-from-phones/"><u>In 2024, Twitter Videos Shared Directly From Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-on-why-companies-are-wary-of-conversational-ai-tools/"><u>Insights on Why Companies Are Wary of Conversational AI Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g633-microphone-problem-solved-a-step-by-step-fix/"><u>Logitech G633 Microphone Problem Solved: A Step-by-Step Fix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/revolutionizing-facebook-advertising-through-creative-insight/"><u>Revolutionizing Facebook Advertising Through Creative Insight</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-top-free-mpeg-video-editors-for-splitting-and-trimming/"><u>S Top Free MPEG Video Editors for Splitting and Trimming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-laptops-headphone-jack-wont-work/"><u>Solution Steps for When Your Laptop's Headphone Jack Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-your-headsets-built-in-mic-that-wont-work/"><u>Solving Common Issues with Your Headset's Built-In Mic That Won’t Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-free-solutions-for-a-malfunctioning-logitech-g633-mic/"><u>Trouble-Free Solutions for a Malfunctioning Logitech G633 Mic</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-airpods-why-you-might-have-a-loudquiet-earbud-and-how-to-balance-it/"><u>Troubleshooting AirPods: Why You Might Have a Loud/Quiet Earbud and How to Balance It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-lack-of-sound-in-apex-legends-tips-and-tricks/"><u>Troubleshooting Complete Lack of Sound in Apex Legends – Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/warzone-audio-restoration-blueprint-for-gamers-troubleshooting-tips/"><u>Warzone Audio Restoration Blueprint for Gamers: Troubleshooting Tips</u></a></li>
+</ul></div>
 

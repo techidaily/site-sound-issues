@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Correcting Audible Disturbances: How To Eradicate that Irritating Hum in Your Headset"
-date: 2024-09-12T19:20:41.542Z
-updated: 2024-09-16T17:46:53.418Z
+date: 2024-10-10T03:28:46.151Z
+updated: 2024-10-12T23:02:01.923Z
 tags:
   - win11
   - win10
@@ -59,9 +59,29 @@ Follow the steps below in order until you fix your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-choose-your-proper-input-and-output-device.jpg)
 5. Scroll down and toggle**on Echo Cancellation** . Then tick**Krisp** for Noise Suppression.  
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Discord-Echo-Cancellation-on.jpg)
 
  Save your settings and restart Discord. If it’s still echoing, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Change Windows settings
 
@@ -73,31 +93,45 @@ Follow the steps below in order until you fix your issue.
 2. Make sure you select the correct output and input device from the drop-down.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/choose-the-correct-input-and-output-device.jpg)
 3. If your problem persists after verifying the correct input and output device, click**Sound Control Panel** in the top right.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Sound-Control-Panel.jpg)
 4. Under the**Playback** tab, right-click your device and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound-control-panel-playback-properties.jpg)
 5. In the**Properties** window, select the**Spatial Sound** tab. Make sure to turn it**Off** . Then click**Apply > OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/turn-off-spatial-sound.jpg)
 
- After applying the changes, do a test and check if your problem has been resolved. If not, try the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After applying the changes, do a test and check if your problem has been resolved. If not, try the next fix below.
 
 ## 3\. Download & Install all Windows updates
 
@@ -124,35 +158,9 @@ If this doesn’t do the trick, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All. You can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-audio-driver-automatically-with-Driver-Easy.png)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After updating drivers, restart your PC and you should be able to use Discord voice chat or streaming without having the annoying echo problem.
 
@@ -175,5 +183,16 @@ If this doesn’t do the trick, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-smartphone-guide-crafting-engaging-video-content/"><u>[Updated] Smartphone Guide Crafting Engaging Video Content</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/best-methods-to-extract-afreecatv-content-a-comprehensive-guide-on-downloading-without-cost/"><u>Best Methods to Extract AfreecaTV Content: A Comprehensive Guide on Downloading without Cost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016998783-expert-tips-resolve-windows-10s-audio-problems-using-these-five-simple-solutions/"><u>Expert Tips: Resolve Windows 10'S Audio Problems Using These Five Simple Solutions.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expert-websites-directory-personalized-ringtone-source-for-2024/"><u>Expert Websites Directory Personalized Ringtone Source for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-problems-when-no-speakers-or-headphones-are-connected-on-windows-10-8-or-7/"><u>How to Resolve Audio Problems When No Speakers or Headphones Are Connected on Windows 10, 8, or 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-realme-narzo-n55-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme Narzo N55 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-process-to-disable-audio-boosting-tools-in-windows-11/"><u>Step-by-Step Process to Disable Audio Boosting Tools in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformation-gratuite-de-fichier-raw-en-image-png-guide-complet-avec-movavi/"><u>Transformation Gratuite De Fichier RAW en Image PNG : Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-sounds-glitches-while-playing-outriders/"><u>Ultimate Fixes for Sounds Glitches While Playing Outriders</u></a></li>
+</ul></div>
 

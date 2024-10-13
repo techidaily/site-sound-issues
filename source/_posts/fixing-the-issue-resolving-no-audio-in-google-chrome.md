@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Resolving 'No Audio' In Google Chrome"
-date: 2024-09-15T18:55:27.031Z
-updated: 2024-09-16T17:21:23.082Z
+date: 2024-10-09T02:56:25.860Z
+updated: 2024-10-12T22:23:57.466Z
 tags:
   - win11
   - win10
@@ -43,6 +43,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
@@ -52,6 +60,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -78,26 +93,41 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
-3. Click **Change advanced power settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
-4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
+3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
+4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -122,5 +152,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/xpert-audio-guide-for-vloggers-for-2024/"><u>[New] Expert Audio Guide for Vloggers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-gigglegenius-customize-memes-faster-than-you-think-for-2024/"><u>[New] GiggleGenius Customize Memes Faster Than You Think for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-fabulous-critique-and-diverse-suggestions/"><u>[New] In 2024, Fabulous Critique & Diverse Suggestions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-precision-viewing-top-5-gaming-displays-with-hdmi-21-support-ps5/"><u>[Updated] In 2024, Precision Viewing Top 5 Gaming Displays with HDMI 2.1 Support [PS5]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-insightful-guide-to-sharex-critiques-and-counterparts/"><u>2024 Approved Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-sound-capture-overcoming-desktop-mic-glitches-in-obs/"><u>Expert Tips to Restore Sound Capture: Overcoming Desktop Mic Glitches in OBS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-tozo-t6-compatibility-problems-on-windows-11-devices/"><u>How to Solve Tozo T6 Compatibility Problems on Windows 11 Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-fast-fixed-ways-to-scramble-youtube-watchlist-content/"><u>In 2024, Fast Fixed Ways to Scramble YouTube Watchlist Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-immune-to-cybersecurity-threats-unveiling-the-facts/"><u>Is ChatGPT Immune to Cybersecurity Threats? Unveiling the Facts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-microphone-not-functional-heres-how-you-can-get-it-working-again/"><u>Logitech G533 Microphone Not Functional? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximize-audio-clarity-techniques-for-increasing-speaker-output-in-windows-11/"><u>Maximize Audio Clarity: Techniques for Increasing Speaker Output in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-g533-mic-problems-step-by-step-fixes/"><u>Troubleshooting Logitech G533 Mic Problems - Step-by-Step Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hdmi-and-aux-output-problems-connected-and-plugged-in-tips/"><u>Troubleshooting Realtek HDMI and AUX Output Problems: Connected & Plugged In Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-tips-repairing-a-non-functional-rust-microphone/"><u>Ultimate Troubleshooting Tips: Repairing a Non-Functional Rust Microphone</u></a></li>
+</ul></div>
 

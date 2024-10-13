@@ -1,7 +1,7 @@
 ---
 title: "Restore Mic Functionality in Zoom on Windows/Mac: Easy Tips and Solutions"
-date: 2024-09-09T17:37:38.977Z
-updated: 2024-09-16T17:48:56.664Z
+date: 2024-10-11T22:22:01.035Z
+updated: 2024-10-12T20:56:02.282Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your audio driver
 
  Most of the audio or sound issues are driver related. If you’re using an audio driver which is outdated or corrupted, your headset mic would not be working properly and the sound coming from your headset could be crackling, popping or static. In this situation, updating your audio driver becomes quite crucial as this may fix your issues immediately.
@@ -94,6 +101,13 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![set MPOW microphone as the default device](https://images.drivereasy.com/wp-content/uploads/2021/04/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve saved the changes, use your microphone to check if your problems have been solved.
 
 ---
@@ -112,16 +126,16 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
@@ -137,37 +151,36 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Input**  section, make sure that your headset is selected as the input device. Then click **Device Properties** .  
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Make sure that your headset is not disabled.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Download and install Windows updates
@@ -181,6 +194,19 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After installing the latest Windows updates, use your headset mic and it should be functioning now.
 
@@ -201,5 +227,23 @@ When you’re using a microphone such as MPOW attached to your computer, you may
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-view-facebook-stories-anonymously2/"><u>[New] How to View Facebook Stories Anonymously2</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-screen-recording-apps-without-time-restrictions/"><u>[New] Top Screen Recording Apps Without Time Restrictions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-uncluttered-window-logger-w10-version/"><u>[New] Uncluttered Window Logger W10 Version</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-15-simple-steps-to-convert-youtube-to-mpeg-effortlessly/"><u>[Updated] 15 Simple Steps to Convert YouTube to MPEG Effortlessly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>[Updated] How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-creme-de-la-fluid-simulation-games/"><u>2024 Approved The Crème De La Fluid Simulation Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-creative-potential-with-new-iphone-x-camera/"><u>2024 Approved Unlocking Creative Potential with New iPhone X Camera</u></a></li>
+<li><a href="https://windows11.techidaily.com/creating-personalized-music-cds-with-mp3s-a-compreenasive-guide-for-windows-users-imgburn/"><u>Creating Personalized Music CDs with Mp3s: A Compreenasive Guide for Windows Users (ImgBurn)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-problems-for-non-functional-sennheiser-game-one-headset-microphone/"><u>Diagnosing & Fixing Problems for Non-Functional Sennheiser Game One Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-bluetooth-headphones-with-no-audio-output-a-step-by-step-guide/"><u>How to Fix Bluetooth Headphones with No Audio Output: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Motorola Moto G24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016647027-no-sound-from-your-g435-headset-expert-tips-and-tricks-for-restoration/"><u>No Sound From Your G435 Headset? Expert Tips and Tricks for Restoration!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-logitech-microphone-problems-on-your-pc-or-laptop-easily/"><u>Resolving Logitech Microphone Problems on Your PC or Laptop Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-volume-in-google-chrome-a-step-by-step-guide-for-a-quiet-browser-problem/"><u>Restoring Volume in Google Chrome: A Step-by-Step Guide for a Quiet Browser Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-earbud-buzzing-expert-tips-for-eliminating-headphone-noise-issues/"><u>Say Goodbye to Earbud Buzzing: Expert Tips for Eliminating Headphone Noise Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-headphone-sizzle-fix-crackling-sound-instantly/"><u>Solve Your Headphone Sizzle: Fix Crackling Sound Instantly</u></a></li>
+</ul></div>
 

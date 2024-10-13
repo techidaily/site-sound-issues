@@ -1,7 +1,7 @@
 ---
 title: Turtle Beach Recon 70 Headset Mic Issue? Here's How to Repair It!
-date: 2024-09-10T17:30:39.091Z
-updated: 2024-09-16T19:13:40.136Z
+date: 2024-10-08T23:30:17.527Z
+updated: 2024-10-13T01:58:40.032Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -76,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your audio drivers
 
  The mic on your Turtle Beach headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -90,22 +111,29 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -133,5 +161,21 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamline-your-apple-devices-with-easy-recording/"><u>[New] 2024 Approved Streamline Your Apple Devices with Easy Recording</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-dive-into-time-lapse-magic-capturing-it-with-a-hero5-black/"><u>[Updated] In 2024, Dive Into Time-Lapse Magic Capturing It with a Hero5 Black</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tech-tutorial-record-on-hangouts/"><u>[Updated] In 2024, Tech Tutorial Record on Hangouts</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-for-virtual-thrills-mozas-full-package/"><u>$499 for Virtual Thrills - MOZA's Full Package</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-leveraging-unwanted-scenes-for-creative-outcomes/"><u>2024 Approved Leveraging Unwanted Scenes for Creative Outcomes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-tech-titans-in-vr-top-10-mobile-headsets-reviewed/"><u>2024 Approved Tech Titans in VR Top 10 Mobile Headsets Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-sony-wireless-noise-cancelling-headphones-microphone-troubleshooting-for-pc-users/"><u>Diagnose & Repair: Sony Wireless Noise Cancelling Headphones - Microphone Troubleshooting for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-troubleshooting-no-sound-issues-in-hp-laptops-fixed/"><u>Expert Advice for Troubleshooting No-Sound Issues in HP Laptops - Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-woes-solutions-for-world-of-warcrafts-audio-problem/"><u>Fixing Silent Woes: Solutions for World of Warcraft's Audio Problem</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-voice-chat-issues-on-rainbow-six-siege-for-optimal-teamwork-fix-guide-for-202n4/"><u>Resolving Voice Chat Issues on Rainbow Six Siege for Optimal Teamwork - Fix Guide for 202N4</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-windows-11-bluetooth-connectivity-problems-easily/"><u>Troubleshoot and Fix Windows 11 Bluetooth Connectivity Problems Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-silent-keys-on-your-logitech-g933-mechanical-keyboard/"><u>Troubleshooting Guide: Resolving Silent Keys on Your Logitech G933 Mechanical Keyboard</u></a></li>
+</ul></div>
 
