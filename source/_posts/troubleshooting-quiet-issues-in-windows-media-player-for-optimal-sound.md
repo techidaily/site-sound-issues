@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Quiet Issues in Windows Media Player for Optimal Sound
-date: 2024-09-10T13:00:44.655Z
-updated: 2024-09-11T13:00:44.655Z
+date: 2024-10-13T02:46:06.469Z
+updated: 2024-10-19T01:59:04.321Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
 **Windows Media Player no sound** ? You’re not the only one. But don’t worry, it’s often quite easy to fix…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixes For**Windows Media Player No Sound**
 
@@ -49,19 +32,12 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Make sure you have not muted the sound
 
@@ -73,6 +49,13 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-152.png)
@@ -82,19 +65,12 @@ To make sure the volume is not muted but audible:
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Update your audio driver
 
@@ -110,43 +86,16 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-155.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -155,20 +104,6 @@ To make sure the volume is not muted but audible:
 5) Play some audio in Windows Media Player to see if the no sound issue has been fixed. If yes, then congrats! If the issue remains, please try**Fix 3** , below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Update or reinstall Windows Media Player
 
@@ -187,8 +122,6 @@ To make sure the volume is not muted but audible:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,12 +129,21 @@ To make sure the volume is not muted but audible:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-screen-recorder-for-mp4-files/"><u>[New] In 2024, Advanced Screen Recorder for MP4 Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hree-legal-and-safe-methods-of-downloading-youtube-tunes-for-2024/"><u>[New] Three Legal & Safe Methods of Downloading YouTube Tunes for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ultimate-mp3-clips-top-10-online-transformers/"><u>[Updated] Ultimate MP3 Clips Top 10 Online Transformers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-an-unresponsive-headphone-socket-on-your-pc/"><u>Expert Tips for Fixing an Unresponsive Headphone Socket on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-bluetooth-functionality-on-your-windows-11-pc/"><u>Guide: Restoring Bluetooth Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-superb.techidaily.com/microsoft-challenges-me-on-creativity-in-excel-my-ingenious-response-featured-on-zdnet/"><u>Microsoft Challenges Me on Creativity in Excel - My Ingenious Response Featured on ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-problems-with-voice-chatting-in-valorant-practical-tips/"><u>Overcoming Problems with Voice Chatting in Valorant: Practical Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-problem-when-modern-warfare-chat-feature-stops-working/"><u>Resolving the Problem When Modern Warfare Chat Feature Stops Working</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/scoping-out-the-12-most-popular-flip-screen-video-cameras-for-2024/"><u>Scoping Out the 12 Most Popular Flip-Screen Video Cameras for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-running-slow-heres-the-fix/"><u>Steam Running Slow? Here’s the Fix</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-accuracy-debate-chatgpt-or-lies/"><u>The Accuracy Debate: ChatGPT or Lies?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-for-persistent-discord-audio-glitches/"><u>The Definitive Solution for Persistent Discord Audio Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-pc-microphone-problems-in-rec-room-ultimate-guide-for-2vee-gamers/"><u>Troubleshooting and Solving PC Microphone Problems in Rec Room - Ultimate Guide for 2Vee Gamers</u></a></li>
+</ul></div>
 

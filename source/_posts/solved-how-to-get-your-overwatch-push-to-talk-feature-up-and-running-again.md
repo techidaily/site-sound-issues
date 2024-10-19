@@ -1,7 +1,7 @@
 ---
 title: Solved! How to Get Your Overwatch Push-to-Talk Feature Up and Running Again
-date: 2024-10-07T02:56:02.368Z
-updated: 2024-10-13T03:58:53.450Z
+date: 2024-10-17T23:12:16.093Z
+updated: 2024-10-18T19:44:38.682Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ Having trouble with push-to-talk during gameplay? You’re not alone! Many Overw
  This is the quickest fix to try when you’re experiencing Overwatch audio issues. Just restart your computer and Overwatch to test your issue. If your problem still exists, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Run Discord as Administrator
@@ -57,6 +57,13 @@ If you’re not sure how to do it, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click Discord then select **End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
@@ -66,22 +73,15 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under the **Compatibility**  tab, check the box next to **Run this program as an administrator** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Relaunch Discord.
 
@@ -117,22 +117,21 @@ If your issue persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Install the latest Overwatch patch
@@ -147,6 +146,13 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-712.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ## Fix 5: Check your in-game settings
@@ -159,6 +165,13 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-407.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Sound tab** , and verify that**TEAM VOICE CHAT** , and**GROUP VOICE CHAT** are set to**AUTO JOIN.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
@@ -170,13 +183,6 @@ To check if there is any update, follow the instructions below:
 **5)** Click the**CONTROLS** tab. Under**CHAT AND VOICE** , click the button next to**VOICE CHAT: PUSH TO TALK** and change your push-to-talk key to a different one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-416-1024x402.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Restart your game to test your issue.
 
@@ -204,22 +210,18 @@ To check if there is any update, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-meeting-aesthetics-how-to-add-filters-on-zoom/"><u>[New] In 2024, Elevate Meeting Aesthetics How to Add Filters on Zoom</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unveiling-drone-racings-secrets-and-surpassing-fpv-drones-for-2024/"><u>[New] Unveiling Drone Racing's Secrets & Surpassing FPV Drones for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-gear-up-essential-asmr-microphones-to-consider/"><u>[Updated] Gear Up Essential ASMR Microphones to Consider</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-live-thumbnails-a-comprehensive-look/"><u>[Updated] In 2024, YouTube Live Thumbnails A Comprehensive Look</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722952767213-complete-guide-how-to-installupdate-huion-tablet-drivers-on-windows-no-hassle/"><u>Complete Guide: How to Install/Update Huion Tablet Drivers on Windows - No Hassle</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cutting-edge-5-home-movie-maker/"><u>In 2024, Cutting-Edge 5 Home Movie Maker</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/instant-solutions-for-restoring-sound-functionality-on-your-computer/"><u>Instant Solutions for Restoring Sound Functionality on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pc-sound-troubleshooting-101-fix-your-audio-issues-instantly/"><u>PC Sound Troubleshooting 101 – Fix Your Audio Issues Instantly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/physical-activity-groups/"><u>Physical Activity Groups:</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-restoring-audio-on-your-logitech-g93-headset/"><u>Quick Fix Guide: Restoring Audio on Your Logitech G93지반 Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-pc-sound-failures-restore-audio-quality-today/"><u>Quick Fixes for PC Sound Failures - Restore Audio Quality Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/re-establishing-your-pcs-audio-output-in-zoom-meetings/"><u>Re-Establishing Your PC's Audio Output in Zoom Meetings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-sound-of-your-astro-a50-in-minutes-noise-issue-solutions/"><u>Revive the Sound of Your Astro A50 in Minutes - Noise Issue Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battlefield-woes-resolving-sound-glitches-in-apex-legends/"><u>Silent Battlefield Woes: Resolving Sound Glitches in Apex Legends</u></a></li>
-<li><a href="https://fox-info.techidaily.com/thankful-discoveries-unlimited-outro-options/"><u>Thankful Discoveries Unlimited Outro Options</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>Updated 2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-optimal-choices-advanced-mac-video-grabbing-tools/"><u>[New] 2024 Approved Optimal Choices Advanced Mac Video Grabbing Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-full-guide-to-creating-minecraft-mashups/"><u>[New] In 2024, Full Guide to Creating Minecraft Mashups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-csgo-mic-not-working/"><u>[SOLVED] CS:GO Mic Not Working</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-decoding-the-secrets-of-youtubes-content-hub/"><u>[Updated] Decoding the Secrets of YouTube's Content Hub</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-illustration-ingenuity-3d-text-magic/"><u>2024 Approved Illustration Ingenuity 3D Text Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-display-youtubes-zoom-mastery/"><u>2024 Approved Optimizing Display YouTube's Zoom Mastery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-projection-vs-television-best-device-for-immersive-4k-content/"><u>2024 Approved Projection vs Television Best Device for Immersive 4K Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtubes-twist-rearranging-queue-from-end-to-beginning/"><u>In 2024, YouTube's Twist Rearranging Queue From End to Beginning</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/key-10-efficient-online-subtitle-editors-for-2024/"><u>Key 10 Efficient Online Subtitle Editors for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016297720-logitech-g230-microphone-not-working-heres-the-solution/"><u>Logitech G230 Microphone Not Working? Here's the Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-gamers-guide-resolving-mic-not-working-woes-for-sea-of-thieves-voice-chat/"><u>PC Gamer's Guide: Resolving 'Mic Not Working' Woes for Sea of Thieves Voice Chat</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/powerdirector-2024-explained-in-depth-review-and-guidebook/"><u>PowerDirector 2024 Explained - In-Depth Review & Guidebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-fixing-non-functional-microphones-on-windows-11/"><u>Ultimate Guide to Fixing Non-Functional Microphones on Windows 11</u></a></li>
 </ul></div>
 

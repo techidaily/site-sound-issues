@@ -1,7 +1,7 @@
 ---
 title: Headphone Troubles on Windows 11? Here's How You Can Solve It
-date: 2024-10-11T23:48:26.168Z
-updated: 2024-10-12T16:48:59.040Z
+date: 2024-10-15T18:47:47.478Z
+updated: 2024-10-18T21:31:33.415Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Plug the headphone in and restart your computer
@@ -55,13 +55,6 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Enable your Playback device
 
  You should check whether your headphone (as the**Playback device** ) is disabled by the operating system. If it is, follow the following steps to enable it:
@@ -70,11 +63,25 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 2) Right-click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/08/2019-11-26_14-41-05.jpg) in the notification area of your taskbar, and then click **Sounds** .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-101.png)
 
  3) If your headphone is not listed n the**Playback** tab, right-click the blank area and select**Show Disabled Devices** . Then your device should show up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/image-22.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click your headphone and select**Enabled** .
 
@@ -94,13 +101,6 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ![Control Panel Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a1b750ef792.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Change your view to Category and click   **Hardware and Sound.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee837b737e.jpg)
@@ -113,9 +113,29 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ![Headphones](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a1b8408bb79.png)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You may see  “Speaker/Headphones” instead of just “Headphones”. If that’s the case, select**Speakers/Headphones** and click**Set Default** .
 
 ![Speakders/Headphones](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a1b917ae4b4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click the **OK** button.
 
@@ -141,19 +161,6 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-505.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We’re always here to help.
@@ -161,13 +168,6 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
  Check to see if you continue to experience the headphone not working issue. If you do, move on to Fix 5.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Fix 5: Change the settings in Realtek HD Audio Manager**
 
@@ -181,29 +181,28 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ![Realtek HD Audio Manager](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a1bb3f18c6d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check**Disable front panel jack detection** .
 
 ![Disable front panel jack detection](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a1c10cd4f32.png)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**OK** .
 
 If this fix didn’t help, proceed to the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Fix 6: Uninstall the IDT audio device**
 
@@ -215,22 +214,35 @@ If this fix didn’t help, proceed to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee74b8283b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Change your view to **Large icons** and click **Programs and Features**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee88ed0afe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate**IDT Audio Driver** in the list, right-click on it, and choose**Uninstall** .
 
  5)**Restart** your computer and check to see if your headphones are now working normally.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Switch to ChromeOS
 
@@ -280,18 +292,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-cryptic-conundrums-bidding-on-the-invisible-artifacts-of-2023-for-2024/"><u>[New] Cryptic Conundrums Bidding on the Invisible Artifacts of 2023 for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-roadmap-how-to-make-your-covers-shine-for-2024/"><u>[Updated] The Roadmap How To Make Your Covers Shine for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-vivo-x100-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Vivo X100</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-human-touch-with-the-help-of-artificial-intelligence/"><u>Embrace Human Touch with the Help of Artificial Intelligence</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-a-comprehensive-guide/"><u>Fixing Dota 2 Microphone Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-hdmi-audio-issues-a-comprehensive-guide/"><u>Fixing Windows 7 HDMI Audio Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/gameplay-transformations-roguelikes-vs-roguiles/"><u>Gameplay Transformations Roguelikes Vs. Roguiles</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-problems-fixing-pubg-voice-chat-malfunctions/"><u>Troubleshooting Common Problems: Fixing PubG Voice Chat Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-windows-10-audio-issues-solved/"><u>Troubleshooting Guide: Fixing Windows 10 Audio Issues - Solved!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-intel-management-engine/"><u>Troubleshooting Intel Management Engine</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-your-windows-scanner-a-practical-approach/"><u>Unlock Your Windows Scanner: A Practical Approach</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/what-is-igtv-and-how-to-use-it-everything-you-need-to-know-for-2024/"><u>What Is IGTV and How to Use It Everything You Need to Know for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-7-video-streaming-apps-your-ally-in-going-live-with-youtube-from-iphones-and-android/"><u>[New] Ultimate 7 Video Streaming Apps Your Ally in Going Live with YouTube From iPhones & Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-no-response-from-epson-printer-on-windows-11/"><u>[SOLVED] No Response From Epson Printer on Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-depicting-facial-dynamics-blur-effects-in-picsart/"><u>[Updated] 2024 Approved Depicting Facial Dynamics Blur Effects in Picsart</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-complete-guideline-for-mobizen-screen-recorder-for-2024/"><u>[Updated] A Complete Guideline for Mobizen Screen Recorder for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>[Updated] Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-a-malfunctioning-headphone-socket-on-your-gadget/"><u>Effective Solutions for Fixing A Malfunctioning Headphone Socket on Your Gadget</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-fortnite-voice-chat-working-again-with-these-easy-fixes/"><u>Get Your Fortnite Voice Chat Working Again with These Easy Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-m14-4g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy M14 4G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-pro-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ative-audio-enhancements-for-youtube-creators-for-2024/"><u>Innovative Audio Enhancements for YouTube Creators for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-audio-issues-heres-your-2024-go-to-troubleshooting-handbook/"><u>Jabra Audio Issues? Here's Your 2024 Go-To Troubleshooting Handbook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-warzone-chat-resolving-playstation-xbox-and-pc-mic-voice-troubleshooting-guide/"><u>Revive Your Warzone Chat - Resolving PlayStation, Xbox & PC Mic Voice Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/share-the-load-collective-effort-in-an-online-community/"><u>Share the Load: Collective Effort in an Online Community</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/supercharge-your-sound-expert-strategies-for-raising-speaker-output-in-windows-10/"><u>Supercharge Your Sound: Expert Strategies for Raising Speaker Output in Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016036993-unlock-seamless-game-sound-integration-with-this-solved-discord-method/"><u>Unlock Seamless Game Sound Integration with This Solved Discord Method</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-potential-with-polarrs-advanced-editing-features-for-2024/"><u>Unlocking Potential with Polarr's Advanced Editing Features for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/upping-the-decibels-mastering-windows-10-audio-enhancement-techniques/"><u>Upping the Decibels: Mastering Windows 10 Audio Enhancement Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-mac-quiet-and-how-to-fix-it-comprehensive-solutions-for-the-no-sound-problem/"><u>Why Is My Mac Quiet and How to Fix It - Comprehensive Solutions for the 'No Sound' Problem</u></a></li>
 </ul></div>
 

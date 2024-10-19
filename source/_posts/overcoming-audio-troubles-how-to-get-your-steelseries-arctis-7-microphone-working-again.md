@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Audio Troubles: How to Get Your SteelSeries Arctis 7 Microphone Working Again"
-date: 2024-09-10T13:01:33.245Z
-updated: 2024-09-11T13:01:33.245Z
+date: 2024-10-11T21:41:41.818Z
+updated: 2024-10-18T16:35:42.072Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/1c4a4d46a04bc65b65a32c086aba8a7780a088299
 
 Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arctis Pro has no sound or the mic is not working, we’ve put together all the troubleshooting methods for you in our post.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Why your headset mic is not working
 
@@ -35,19 +32,12 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to fix your mic issues
 
@@ -60,6 +50,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 5. **[Make sure to use the correct Default Format](https://tools.techidaily.com/drivereasy/download/)**
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Set up the microphone correctly
 
@@ -77,20 +74,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
@@ -98,26 +81,6 @@ Here’s how to do it:
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Set your headset as the default device
 
@@ -129,37 +92,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -174,20 +116,6 @@ Here’s how to do it:
  6) Click the **Levels**  tab, and drag the slider to a proper volume.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
@@ -213,25 +141,12 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
@@ -246,23 +161,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -288,8 +203,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,12 +210,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-clear-and-steady-essential-youtube-camera-tech/"><u>[New] In 2024, Clear and Steady Essential YouTube Camera Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastery-in-mac-screen-capture-format-conversion/"><u>[New] Mastery in Mac Screen Capture Format Conversion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-livestreaming-elite-showdown/"><u>[Updated] In 2024, LiveStreaming Elite Showdown</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-your-storytelling-with-these-6-reel-apps/"><u>[Updated] In 2024, Perfect Your Storytelling with These 6 Reel Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-market-mastery-blueprint-strategic-openings/"><u>[Updated] Market Mastery Blueprint Strategic Openings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/digital-memory-keepers-taking-screenshots-on-xbox-one/"><u>Digital Memory Keepers Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-apex-legends-troubleshooting-your-games-voice-communication-issues/"><u>Fixing Apex Legends: Troubleshooting Your Game's Voice Communication Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silence-resolving-no-audio-issue-in-cyberpunk-2077-on-windows-10/"><u>Fixing Silence: Resolving No Audio Issue in Cyberpunk 2077 on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-effective-are-vpns-in-protecting-chatgpt-data/"><u>How Effective Are VPNs in Protecting ChatGPT Data?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 13 mini</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-seamless-songstreaming-the-best-free-apps-for-youtube-music-on-android/"><u>In 2024, Seamless Songstreaming The Best Free Apps for YouTube Music on Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-on-your-bluetooth-device-heres-how-to-solve-the-problem/"><u>No Audio on Your Bluetooth Device? Here's How to Solve the Problem!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-functionality-of-a-defective-headset-mic/"><u>Quick Fixes to Restore Functionality of a Defective Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-resolve-your-bluetooth-audio-delay-problems-today/"><u>Quickly Resolve Your Bluetooth Audio Delay Problems Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-game-sounds-on-fortnite-the-ultimate-troubleshooting-checklist-for-gamers/"><u>Restoring Game Sounds on Fortnite: The Ultimate Troubleshooting Checklist for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-to-rectify-dells-sound-driver-complications-in-windows-7-environments/"><u>Step-by-Step Instructions to Rectify Dell's Sound Driver Complications in Windows 7 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-voicemod-issues/"><u>Troubleshooting Guide: Solving Voicemod Issues</u></a></li>
+</ul></div>
 

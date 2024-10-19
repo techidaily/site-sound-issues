@@ -1,7 +1,7 @@
 ---
 title: "Expert Fixes: Resolving Microphone Problems in the SteelSeries Arctis Prime"
-date: 2024-09-10T13:03:28.706Z
-updated: 2024-09-11T13:03:28.706Z
+date: 2024-10-17T00:25:15.399Z
+updated: 2024-10-19T00:47:30.536Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/894f058d97b0ae58b0d33f76cb56fbf958c597ef2
 
 Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arctis Pro has no sound or the mic is not working, we’ve put together all the troubleshooting methods for you in our post.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Why your headset mic is not working
 
@@ -34,6 +31,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * Your headset is not set as the default device
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to fix your mic issues
 
@@ -47,25 +51,31 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
 
@@ -77,37 +87,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
@@ -127,39 +116,11 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
@@ -169,19 +130,12 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
@@ -203,6 +157,13 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
@@ -214,39 +175,11 @@ Here’s how to do it:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 5: Make sure to use the correct Default Format
 
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
@@ -276,8 +209,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,12 +216,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-securing-perfect-images-on-pc-check-out-these-top-5-tools/"><u>[New] Securing Perfect Images on PC? Check Out These Top 5 Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-software-for-efficient-teleconferences/"><u>[Updated] 2024 Approved Essential Software for Efficient Teleconferences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-cant-hear-anyone-on-discord/"><u>Diagnosing and Repairing 'Can't Hear Anyone' On Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-resolving-issues-with-the-runmsg-gaming-headset-microphone-malfunction/"><u>DIY Repair: Resolving Issues with the RUNMSG Gaming Headset Microphone Malfunction</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-your-brand-with-these-essential-fb-strategies-for-all/"><u>Elevate Your Brand with These Essential FB Strategies (for All)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-media-enjoyment-discover-the-unparalleled-quality-of-hitachis-built-in-roku-streaming-4k-tv-sets/"><u>Elevate Your Media Enjoyment: Discover the Unparalleled Quality of Hitachi's Built-In Roku Streaming 4K TV Sets</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-knowledge-for-engaging-with-asmr-videos-for-2024/"><u>Essential Knowledge for Engaging with ASMR Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-built-in-speaker-issues-silent-mode-resolved/"><u>Fixing Laptop Built-In Speaker Issues: Silent Mode Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-resolving-dolby-sound-driver-failures-and-restart-in-windows-11/"><u>Guide to Resolving Dolby Sound Driver Failures and Restart in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-runmuss-gaming-headset-when-the-mic-wont-work-anymore/"><u>How to Repair Your Runmuss Gaming Headset When the Mic Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-repair-google-hangouts-when-your-mic-goes-silent/"><u>Quick Solutions: How to Repair Google Hangouts When Your Mic Goes Silent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-gameplay-how-to-repair-unresponsive-audio-in-turtle-beach-elite-pro/"><u>Revive Your Gameplay: How to Repair Unresponsive Audio in Turtle Beach Elite Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-fix-guide-for-google-hangouts-microphone-issues/"><u>Simple Fix Guide for Google Hangouts Microphone Issues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/snapedit-fundamentals-for-budding-photographers-for-2024/"><u>Snapedit Fundamentals for Budding Photographers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-the-arduino-nano-board-drivers-on-a-windows-pc/"><u>Step-by-Step Guide: Successfully Downloading & Installing the Arduino Nano Board Drivers on a Windows PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamline-your-media-experience-windows-films-to-vimeo/"><u>Streamline Your Media Experience Windows Films to Vimeo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-logitech-g430-mic-problems-and-restoring-sound/"><u>Troubleshooting Tips for Resolving Logitech G430 Mic Problems and Restoring Sound</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gpt-plus-enhanced-ai-chatbot-us-only-us20-mo/"><u>Unveiling GPT-Plus: Enhanced AI ChatBot, U.S. Only (US$20 Mo)</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/winxdvd-eulas-explained-understanding-the-terms-with-digiartys-comprehensive-guide/"><u>WinXDVD EULAs Explained: Understanding the Terms with Digiarty's Comprehensive Guide</u></a></li>
+</ul></div>
 

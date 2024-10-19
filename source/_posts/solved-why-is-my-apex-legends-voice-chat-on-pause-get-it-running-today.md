@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Is My Apex Legends Voice Chat on Pause? Get It Running Today"
-date: 2024-09-10T13:02:29.268Z
-updated: 2024-09-11T13:02:29.268Z
+date: 2024-10-16T17:38:08.362Z
+updated: 2024-10-19T01:45:01.784Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 
 **Voice chat is not working on Apex Legends** ? This can be so frustrating. But don’t worry, it’s often not hard to fix at all…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to fix Apex Legends Voice Chat Not Working
 
@@ -49,20 +32,6 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 4. **[Configure in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Origin and Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Allow Origin to access your microphone
 
@@ -78,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-246.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to**Allow desktop apps to access your microphone** , turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-248.png)
@@ -87,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
  Now run Apex Legends and check to see if the microphone not working problem is resolved. If yes, then great! If the problem still remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -102,19 +85,12 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
@@ -128,20 +104,6 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3: Make sure your microphone is set as default in Windows
 
  Ideally Windows can automatically detect your microphone and set it as the default device every time it’s plugged into. But that’s not always the case and sometimes you’ll have to manually set it as default.[](https://tools.techidaily.com/drivereasy/download/) [](http://twitter.com/home/?status=How%20To%20Fix%20Fortnite%20Sound%20Not%20Working%20-%20https://www.drivereasy.com/knowledge/how-to-fix-fortnite-sound-not-working-on-pc/) **[](https://tools.techidaily.com/drivereasy/download/)**
@@ -152,35 +114,29 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-239.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In **Sound** settings, scroll down to the**Input** section, and in**Choose your input device** , make sure the microphone you are actively using is selected. Then,**test your microphone** by speaking into your mic to see if it ‘hears’ anything. If yes, it means you have configured the microphone properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-242.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Close the window.
 
 6) Launch Apex Legends to see if the mic not working problem is fixed. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Configure in-game settings
 
@@ -192,41 +148,20 @@ Here is how to configure in-game settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-260.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**More** \>**VOICE** , then make sure**the microphone you’re using is selected** and**Microphone volum** e is set to**an audio volume** . After that, in**Activation mode** , choose**Push-to-talk** .
 
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  4) Again, play Apex Legends to see if the voice chat not working issue is resolved.
 
@@ -242,20 +177,6 @@ Here is how to configure in-game settings:
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 6: Reinstall Origin and Apex Legends
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Apex Legends are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -265,20 +186,6 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
@@ -307,8 +214,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,12 +221,21 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-beat-the-competition-designing-unforgettable-tiktok-dancing-on-a-mac/"><u>[Updated] 2024 Approved Beat the Competition Designing Unforgettable TikTok Dancing on a Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-audio-purging-techniques-for-streaming-success/"><u>[Updated] Audio Purging Techniques for Streaming Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-techniques-for-dividing-a-model-into-sections-for-3d-printing/"><u>Effective Techniques for Dividing a Model Into Sections for 3D Printing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-troubles-world-of-warcraft-sound-issues-resolved/"><u>Fixing Muted Troubles: World of Warcraft Sound Issues Resolved</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-breakthrough-in-youtube-saving-technology/"><u>In 2024, Breakthrough in YouTube Saving Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nubia-z50s-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nubia Z50S Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-mac-techniques-to-edit-srt-files/"><u>In 2024, Step-by-Step Mac Techniques to Edit SRT Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimize-sound-quality-fixing-noise-issues-with-your-arctisys-7-microphone-on-windows-systems/"><u>Optimize Sound Quality: Fixing Noise Issues with Your ArctiSys 7 Microphone on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactive-solutions-for-your-turtle-beach-mic-not-working-problems/"><u>Reactive Solutions for Your Turtle Beach Mic Not Working Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-dolby-atmos-and-truehd-issues-how-to-fix-unresponsive-dolby-audio-drivers-on-windows-11/"><u>Resolving Dolby Atmos & TrueHD Issues: How to Fix Unresponsive Dolby Audio Drivers on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-troubleshooting-and-fixing-non-functional-redragon-microphone-compatibility-with-windows/"><u>Solution Guide: Troubleshooting and Fixing Non-Functional Redragon Microphone Compatibility with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-not-working-discover-proven-solutions-and-tips/"><u>Squad Mic Not Working? Discover Proven Solutions & Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-video-content-in-zoom-with-custom-filters-for-2024/"><u>Streamlining Video Content in Zoom With Custom Filters for 2024</u></a></li>
+</ul></div>
 

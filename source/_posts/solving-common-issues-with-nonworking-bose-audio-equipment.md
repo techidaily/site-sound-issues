@@ -1,7 +1,7 @@
 ---
 title: Solving Common Issues with Nonworking Bose Audio Equipment
-date: 2024-09-10T13:08:29.282Z
-updated: 2024-09-11T13:08:29.282Z
+date: 2024-10-15T20:13:47.560Z
+updated: 2024-10-18T23:08:35.809Z
 tags:
   - win11
   - win10
@@ -25,27 +25,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to fix Discord audio issues?
 
@@ -69,20 +52,6 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
@@ -102,19 +71,12 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Go to the**Recording** tab.
 
@@ -122,19 +84,12 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -142,35 +97,14 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 3\. Reinstall Discord
 
@@ -181,6 +115,19 @@ There’re mainly two ways for you to update an audio driver:
  2) Type in**appwiz.cpl** and press**Enter** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
 
@@ -200,8 +147,6 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,12 +154,22 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ial-back-your-playlist-quick-steps-to-reverse-order-for-2024/"><u>[New] Dial Back Your Playlist Quick Steps to Reverse Order for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-top-vimeo-downloader-tools-for-2024/"><u>[New] Top Vimeo Downloader Tools for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-vlogs-the-finest-camera-selections-of-the-year/"><u>[Updated] In 2024, Mastering Vlogs The Finest Camera Selections of the Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterminds-of-immersive-marvellous-marvel-spheres/"><u>[Updated] Masterminds of Immersive Marvellous Marvel Spheres</u></a></li>
+<li><a href="https://article-files.techidaily.com/copyright-compliance-for-streaming-songs-on-instagram/"><u>Copyright Compliance for Streaming Songs on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-error-when-your-nvidia-graphics-card-isnt-connected/"><u>Fixing the Error: When Your NVIDIA Graphics Card Isn’t Connected</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-check-your-time-played-for-any-game-on-xbox-series-xs/"><u>How to Check Your Time Played for Any Game on Xbox Series X|S</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-remove-built-in-audio-augmentations-from-windows-11-devices/"><u>How to Remove Built-In Audio Augmentations From Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-no-speaker-or-headphone-detected-error-on-windows-10-8-and-7/"><u>How to Resolve the 'No Speaker or Headphone Detected' Error on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/nvidia-output-not-plugged-in-try-these-fixes/"><u>Nvidia Output Not Plugged In? Try These Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/playful-prodigies-the-ultimate-kids-game-compilation-for-2024/"><u>Playful Prodigies The Ultimate Kids' Game Compilation for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-silence-restore-audio-on-anthem-game-in-windows-10/"><u>Resolving the Silence: Restore Audio on Anthem Game in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-take-when-the-microphone-on-your-logitech-camera-wont-work/"><u>Steps to Take When the Microphone on Your Logitech Camera Won't Work</u></a></li>
+</ul></div>
 

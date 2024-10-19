@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving the Silence - Tips to Restore Audio in Call of Duty Mobile (Warzone) for Players"
-date: 2024-09-10T13:04:15.986Z
-updated: 2024-09-11T13:04:15.986Z
+date: 2024-10-18T00:19:49.713Z
+updated: 2024-10-19T01:01:48.280Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
 
  Though this might seem tricky, it’s usually not hard to fix at all. In this tutorial, we’ll guide you through several fixes and help you reconnect with your amigos in a jiff.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -43,21 +40,21 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
  If there’s nothing suspicious with the connection, you can check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your recording device is set up properly
 
@@ -73,48 +70,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Uncheck the box next to**Disable** , and set the slider under **Volume**  to 100.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone is working correctly.  
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
  Next you need to enable your mic in the**Battle.net** client.
 
@@ -124,19 +90,6 @@ Here’s how:
 2. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
@@ -166,6 +119,14 @@ Now you can launch Warzone and test the game chat.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
@@ -175,19 +136,12 @@ Now you can launch Warzone and test the game chat.
 
  If updating the audio driver doesn’t work for you, simply continue to the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Install all Windows updates
 
@@ -199,34 +153,7 @@ So here’s a simple guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install the available updates. Wait for the process to complete.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -245,34 +172,20 @@ You can follow these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-voice-chat-in-game-1.jpg)
 3. Navigate to the**ACCOUNT** tab. Under the**Online** section, set**Crossplay** to**Enabled** . If you can see an option named**Crossplay Communication** , make sure it’s set to**Enabled** . (If your friend isn’t gaming on PC, make sure he or she has enabled this feature as well.)  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-crossplay.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Now restart Warzone and check if you can chat with your friends now.
 
@@ -286,8 +199,6 @@ Now restart Warzone and check if you can chat with your friends now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,12 +206,24 @@ Now restart Warzone and check if you can chat with your friends now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-your-personal-tiktok-hashtag/"><u>[New] Unlocking Your Personal TikTok Hashtag</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-method-for-changing-your-instagram-tone/"><u>2024 Approved Step-By-Step Method for Changing Your Instagram Tone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-tech-solving-your-squad-mic-woes/"><u>Beat the Tech: Solving Your Squad Mic Woes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-auto-coding-tools-7-alternatives-to-chatgpt-explored/"><u>Best Auto-Coding Tools: 7 Alternatives to ChatGPT Explored</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-restoring-windows-7-microphone-functionality/"><u>Comprehensive Guide: Restoring Windows 7 Microphone Functionality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288126448-dvd/"><u>DVDの中から曲を取り出すための専門的なガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stop-windows-pertinent-sound-glitches-and-interruptions-solution/"><u>How to Stop Windows Pertinent Sound Glitches and Interruptions [Solution]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-communication-microsoft-azure-speech-to-text-explained/"><u>In 2024, Innovating Communication Microsoft Azure Speech to Text Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-pcs-how-to-restore-sound-after-windows-11-update/"><u>No More Quiet PCs: How to Restore Sound After Windows 11 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-issues-with-your-astro-a20-microphone/"><u>Overcoming Common Issues with Your Astro A20 Microphone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/reinvigorating-handheld-gaming-through-microsofts-classic-metro-interface-revival/"><u>Reinvigorating Handheld Gaming Through Microsoft's Classic Metro Interface Revival</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-no-audio-in-windows-media-player-step-by-step-instructions/"><u>Solution for No Audio in Windows Media Player: Step-by-Step Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-why-your-computer-speakers-arent-producing-sound-after-being-connected/"><u>Solution Guide: Why Your Computer Speakers Aren't Producing Sound After Being Connected</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-to-slow-mo-techniques-on-instagram-reels-for-2024/"><u>Step-by-Step Guide to Slow Mo Techniques on Instagram Reels for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-lack-of-speakers-in-windows-11-setup/"><u>Troubleshooting Guide: Resolving Lack of Speakers in Windows 11 Setup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-say-goodbye-to-shaky-cam-fcpx-video-stabilization-made-easy/"><u>Updated In 2024, Say Goodbye to Shaky Cam FCPX Video Stabilization Made Easy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/virtual-viewpoint-battle-live-tools-vs-equipment/"><u>Virtual Viewpoint Battle Live Tools vs Equipment</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Making Sure Game Sounds Play on Discord"
-date: 2024-09-10T13:00:15.358Z
-updated: 2024-09-11T13:00:15.358Z
+date: 2024-10-12T04:10:07.128Z
+updated: 2024-10-18T18:05:30.486Z
 tags:
   - win11
   - win10
@@ -34,19 +34,12 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -59,37 +52,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-322.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
@@ -137,20 +109,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -159,41 +117,27 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -224,8 +168,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +175,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-your-niche-making-money-with-video-content/"><u>[New] In 2024, Finding Your Niche Making Money with Video Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-solo-strategies-making-your-podcast-sensational-for-2024/"><u>[New] Solo Strategies Making Your Podcast Sensational for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-churning-up-channels-top-gear-list/"><u>[Updated] 2024 Approved Churning Up Channels Top Gear List</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-address-unregistered-class-errors-on-windows-11-systems/"><u>Effective Techniques to Address Unregistered Class Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-detecting-and-fixing-headphone-recognition-errors-on-windows-11/"><u>Guide to Detecting and Fixing Headphone Recognition Errors on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-21-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of 21 Pro?</u></a></li>
+<li><a href="https://win-great.techidaily.com/losungen-zur-wiederherstellung-von-defekten-transcend-sd-speicherkarten-ein-umfassender-leitfaden/"><u>Lösungen Zur Wiederherstellung Von Defekten Transcend SD-Speicherkarten: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-functional-dell-speakers/"><u>Quick Solutions for Non-Functional Dell Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-functionality-in-malfunctioning-headset-mics/"><u>Quick Solutions to Restore Functionality in Malfunctioning Headset Mics</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-accidentally-erased-items-on-your-iphone-with-this-superior-mac-data-recovery-application/"><u>Revive Accidentally Erased Items on Your iPhone with This Superior Mac Data Recovery Application</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-unresponsive-realtek-audio-settings-application/"><u>Troubleshooting Steps for Unresponsive Realtek Audio Settings Application</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unsticking-pubgs-voice-chat-expert-tips-for-clear-audio-connections/"><u>Unsticking PubG's Voice Chat - Expert Tips for Clear Audio Connections</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Restore Audio on Your Laptop's Native Speakers
-date: 2024-09-10T13:01:13.679Z
-updated: 2024-09-11T13:01:13.679Z
+date: 2024-10-15T22:36:19.720Z
+updated: 2024-10-18T16:28:56.039Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
  This is very annoying. You can’t use your headphone or microphone with the front jacks. But don’t worry. It can be fixed…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fixes to try
 
@@ -35,19 +32,12 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Try the back audio jacks**](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Method 1: Set your audio device as default
 
@@ -61,43 +51,16 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348efb28884.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Right click your_audio device_ , then click**Set as Default Device** . After that, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b34902f6d664.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **4)** Check to see if you’re able to use your audio device.
 
@@ -117,55 +80,27 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)**  Click the **Update**  button next to_each of your devices_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3494ff64802.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can do it for free, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Method 3: Try the back audio jacks
 
@@ -181,8 +116,6 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,12 +123,20 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-evaluating-max-360-and-hero-11-the-ultimate-gopro-video-battle/"><u>[New] Evaluating Max 360 & Hero 11 The Ultimate GoPro Video Battle</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-foundation-for-success-equipping-new-channels/"><u>[New] The Foundation for Success Equipping New Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/audio-calls-tracker-iphone-voice-memo-for-2024/"><u>Audio Calls Tracker IPhone Voice Memo for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooting-solving-beyond-the-wire-microphone-issues/"><u>Comprehensive Troubleshooting: Solving 'Beyond The Wire' Microphone Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-rich-colors-on-a-budget-high-definition-dell-ips-gaming-screen-at-only-199-available-now/"><u>Experience Rich Colors on a Budget: High-Definition Dell IPS Gaming Screen at Only $199 Available Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reset-and-activate-a-disabled-windows-scan-tool/"><u>How to Reset and Activate a Disabled Windows Scan Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-sound-troubleshooting-a-step-by-step-guide-to-resolving-audio-problems-on-windows-10/"><u>Mastering Sound Troubleshooting: A Step-by-Step Guide to Resolving Audio Problems on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-navigating-through-the-internet-archives-wayback-machine/"><u>Step-by-Step Guide: Navigating Through the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-best-mobile-transfer-apps-of-2023-essential-downloads/"><u>The Ultimate Guide: Best Mobile Transfer Apps of 2023 - Essential Downloads!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-headphones-solutions-for-playback-device-detection-on-windows-10/"><u>Troubleshooting Missing Headphones: Solutions for Playback Device Detection on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016860632-troubleshooting-speaker-distortion-issues-on-windows-10-and-7-fixed/"><u>Troubleshooting Speaker Distortion Issues on Windows 10 and 7 - Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-the-silence-how-to-address-no-sound-problems-on-a-lenovo-computer-systematically/"><u>Unmute the Silence: How to Address No Sound Problems on a Lenovo Computer Systematically</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-performance-optimization-guide-solve-lag-issues-and-enhance-fps-for-ultimate-gaming-experience/"><u>Valheim Performance Optimization Guide: Solve Lag Issues & Enhance FPS for Ultimate Gaming Experience</u></a></li>
+</ul></div>
 

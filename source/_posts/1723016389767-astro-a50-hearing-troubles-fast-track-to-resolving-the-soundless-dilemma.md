@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Hearing Troubles? Fast Track to Resolving the Soundless Dilemma!
-date: 2024-09-10T13:06:41.541Z
-updated: 2024-09-11T13:06:41.541Z
+date: 2024-10-11T19:31:13.350Z
+updated: 2024-10-18T19:18:30.512Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
  No sound comes through your Mac? Don’t panic –  it’s usually not a hard problem to solve at all. In this article, we’ll provide 8 tried and tested fixes to help you**get your Mac sound back** in no time.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## **Try these fixes**
 
@@ -56,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -71,55 +61,20 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3: Check the audio settings
 
  If the volume on your computer is set mute or too low, you won’t be able to hear the sound. To make sure you have turned up the volume:
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
 
@@ -131,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Turn off Bluetooth
 
  Sometimes this**no sound problem** happens because you have your Bluetooth on and it sends the audio to the device your computer is connected to. If that’s the case, we need to turn off Bluetooth to eliminate any glitches resulting from this.
@@ -141,61 +103,20 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2) Check if the**no sound problem** has been solved.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Restart your Mac
 
@@ -233,29 +154,23 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
@@ -273,20 +188,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix **8: Update your Mac OS**
 
@@ -319,8 +220,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -328,12 +227,23 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-nocturnal-world-through-your-iphone-lens/"><u>[New] Exploring the Nocturnal World Through Your iPhone Lens</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo-for-2024/"><u>[New] Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-inverted-illusion-guide-transforming-visual-content-through-angled-spins/"><u>[Updated] The Inverted Illusion Guide Transforming Visual Content Through Angled Spins</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/advanced-strategies-to-tackle-your-audio-timing-woes/"><u>Advanced Strategies to Tackle Your Audio Timing Woes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/central-points-for-virtual-world-engagement-for-2024/"><u>Central Points for Virtual World Engagement for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-apple-homepod-mini-evaluation-exploring-music-playback-intelligent-assistant-and-extra-functions/"><u>Comprehensive Apple HomePod Mini Evaluation: Exploring Music Playback, Intelligent Assistant, and Extra Functions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-netgear-orbi-rbs50y-optimal-yard-networking-solution/"><u>Comprehensive Evaluation of the Netgear Orbi RBS50Y - Optimal Yard Networking Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014559727-cutting-edge-techniques-to-eliminate-discord-echo-glitches-on-pc-in-202-groovy-trending-methods-for-a-crystal-clear-voice-chat/"><u>Cutting-Edge Techniques to Eliminate Discord Echo Glitches on PC in 202 Groovy-Trending Methods for a Crystal Clear Voice Chat!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-enhanced-airpods-line-up-top-4-new-and-improved-features-unveiled/"><u>Discover Apple's Enhanced AirPods Line-Up: Top 4 New and Improved Features Unveiled!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-restore-sound-on-a-dell-computer-or-laptop-quickly/"><u>Effective Ways to Restore Sound on a Dell Computer or Laptop Quickly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/effortless-screen-capture-on-chrome-os-devices-for-2024/"><u>Effortless Screen Capture on Chrome OS Devices for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-in-windows-11-a-comprehensive-guide/"><u>Fixing Audio Issues in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-csgo-communication-fix-your-broken-mic-now/"><u>Mastering CS:GO Communication - Fix Your Broken Mic Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-dells-audio-problem-easy-fixes-for-clearer-sounds-in-no-time/"><u>Overcome Dell's Audio Problem: Easy Fixes for Clearer Sounds in No Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-reviving-sound-during-zoom-calls-on-windows-computers/"><u>Solved! Reviving Sound During Zoom Calls on Windows Computers</u></a></li>
+</ul></div>
 

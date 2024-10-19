@@ -1,7 +1,7 @@
 ---
 title: Solve Your Skype Sound Malfunction Quickly & Effortlessly
-date: 2024-10-11T22:12:24.623Z
-updated: 2024-10-12T16:33:38.445Z
+date: 2024-10-17T17:14:59.960Z
+updated: 2024-10-18T17:42:46.002Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 6. [**Restart audio services**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Check cable and volumes
@@ -53,29 +53,30 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 1. Right-click the sound icon at the bottom right corner of your desktop and click **Playback devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/04/img_570b4f3700616.png)
 2. In the**Playback** tab, ensure there’s a green tick on**Speakers** . This indicates that your speakers are the default playback device.  
-![Default speaker ticked Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Default-speaker-ticked-Windows10.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Default speaker ticked Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Default-speaker-ticked-Windows10.png)  
 
  If your Speakers are NOT already set as the default, this is doubtless your problem. To fix, just click them, click**Set Default** , then click **OK** and test whether you have sound.  
 ![Set default speakers Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Set-default-speakers-Windows-10.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your Speakers are set as the default playback device, and you’re still not hearing any sound, you should experiment with different sound formats. To do this, click**Speakers** then **Properties** .  
 ![Change speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Change-speaker-sound-format-Windows-10.png)
 3. Go to the **Advanced** tab, and in the**Default Format** section, select a different sample rate and bit depth, then click**Test** . Repeat this process until you find a format that works, then click**OK** . If you don’t find a format that works, proceed to[Method 2](https://tools.techidaily.com/drivereasy/download/) below.  
 ![Test speaker sound format Windows 10](https://images.drivereasy.com/wp-content/uploads/2016/04/Test-speaker-sound-format-Windows-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Uninstall your audio driver
 
@@ -91,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 4. If you’re asked to confirm the uninstall, check the**Delete the driver software for this device** box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Restart your computer and check to see if the problem is resolved. If it’s not, move on to[Method 3](https://tools.techidaily.com/drivereasy/download/) below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Update your audio driver
 
@@ -109,27 +117,7 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)  
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and check to see if you now have sound.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Disable audio enhancements
 
@@ -143,13 +131,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-272.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select one**Default Device** and select**Properties** .
 
 In the example below, the default device is Speakers / Headphones.
@@ -160,16 +141,16 @@ In the example below, the default device is Speakers / Headphones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-276.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Check to see if the sound issue is resolved.
 
 **Note** if you have multiple default devices, you may need to repeat the steps above for each default device until the sound issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Restart audio services
 
@@ -181,9 +162,23 @@ Follow these steps to restart audio services.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-278.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on**Windows Audio** service and select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-279.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer and check to see if the problem is resolved.
 
@@ -207,14 +202,22 @@ Follow these steps to restart audio services.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-which-screen-recorder-excels-obs-or-fraps/"><u>[Updated] Which Screen Recorder Excels OBS or Fraps?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flavor-and-fitness-ai-powered-meal-prepping-tips/"><u>Flavor & Fitness: AI-Powered Meal Prepping Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-visual-effects-a-detailed-kinemaster-green-screen-tutorial-for-2024/"><u>Mastering Visual Effects A Detailed Kinemaster Green Screen Tutorial for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/simplified-recording-of-your-skype-chats-with-pc-and-mac/"><u>Simplified Recording of Your Skype Chats with PC & Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-common-problems-with-the-logitech-g-pro-x-microphone/"><u>Solve Common Problems with the Logitech G PRO X Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-silent-windows-media-player-with-these-simple-steps/"><u>Solve Your Silent Windows Media Player with These Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-in-duo-troubleshooting-audio-problems-between-two-computers/"><u>Solving 'No Sound' In Duo: Troubleshooting Audio Problems Between Two Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-bluetooth-issue-effective-tips-for-restoring-sound/"><u>Solving the Silent Bluetooth Issue: Effective Tips for Restoring Sound</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unleash-the-full-potential-of-your-pc-with-updated-deathadder-bios/"><u>Unleash the Full Potential of Your PC with Updated Deathadder BIOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-building-a-powerful-community-of-insta-followers/"><u>[Updated] Building a Powerful Community of Insta-Followers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-creation-to-consumption-posting-vids-on-twtplustumb/"><u>[Updated] From Creation to Consumption Posting Vids on Twt+Tumb</u></a></li>
+<li><a href="https://article-posts.techidaily.com/35-hilarious-image-editing-software-for-smartphones-and-pcs/"><u>35 Hilarious Image Editing Software for Smartphones & PCs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/cryptic-conundrums-bidding-on-the-invisible-artifacts-of-2023-for-2024/"><u>Cryptic Conundrums Bidding on the Invisible Artifacts of 2023 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-seamless-installation-of-new-apple-ios-releases/"><u>Expert Advice for Seamless Installation of New Apple iOS Releases</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-solutions-restoring-audio-on-your-astro-a50-headphones/"><u>Fast Solutions: Restoring Audio on Your Astro A50 Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-on-your-computer-without-hearing-a-peep-step-by-step/"><u>Fixing Audio Issues on Your Computer Without Hearing a Peep – Step-by-Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-bluetooth-paired-but-still-silent-solutions-inside/"><u>Fixing the Issue: Bluetooth Paired but Still Silent – Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g633-microphone-issues-a-comprehensive-guide/"><u>Fixing Your Logitech G633 Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/from-silent-to-symphony-essential-steps-for-restoring-conexant-smartaudio-hd-sound-on-window-10-operating-systems/"><u>From Silent to Symphony: Essential Steps for Restoring Conexant SmartAudio HD Sound on Window 10 Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-audio-back-expert-tips-to-fix-broken-headphone-connections-in-windows-11/"><u>Get Your Audio Back: Expert Tips to Fix Broken Headphone Connections in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-black-ops-cold-wars-voice-communication-features-effectively/"><u>How to Repair and Restore Black Ops Cold War's Voice Communication Features Effectively</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12t-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12T Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6s-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6s Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/pemilihan-prosedur-yang-tepat-untuk-restorasi-hafisan-handphone-sebuah-panduan-menjelaskan-bagaimana-mencegah-kerusakan-jika-tidak-ada-perabotan/"><u>Pemilihan Prosedur Yang Tepat Untuk Restorasi Hafisan Handphone: Sebuah Panduan Menjelaskan Bagaimana Mencegah Kerusakan Jika Tidak Ada Perabotan</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pubg-voice-call-issues-with-these-simple-steps/"><u>Solve Your PUBG Voice Call Issues with These Simple Steps!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-legacy-lives-on-evaluating-the-performance-and-reliability-of-netgears-c3000-in-contemporary-settings/"><u>The Legacy Lives On: Evaluating the Performance and Reliability of Netgear's C3000 in Contemporary Settings</u></a></li>
 </ul></div>
 

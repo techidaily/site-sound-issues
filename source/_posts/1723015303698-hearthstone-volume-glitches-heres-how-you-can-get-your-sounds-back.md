@@ -1,7 +1,7 @@
 ---
 title: Hearthstone Volume Glitches? Here's How You Can Get Your Sounds Back
-date: 2024-09-10T13:00:15.341Z
-updated: 2024-09-11T13:00:15.341Z
+date: 2024-10-17T18:09:29.474Z
+updated: 2024-10-18T20:09:23.961Z
 tags:
   - win11
   - win10
@@ -16,20 +16,6 @@ thumbnail: https://thmb.techidaily.com/4972cc2e9b4458b9418df3ae9472982c28de632e5
 ## Hearthstone Volume Glitches? Here's How You Can Get Your Sounds Back
 
 If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no sound at all, you’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 7 fixes to try.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 7 simple fixes to try
 
@@ -53,20 +39,6 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 * Remember that your speakers probably won’t work when headphones are plugged in.
 
 If your cables and volume are okay, move on and check the fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Update your audio driver
 
@@ -100,6 +72,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -110,19 +89,18 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: End unnecessary background programs
 
@@ -137,23 +115,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -161,19 +132,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If your issue continues, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -189,20 +153,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -211,19 +161,18 @@ OR
 
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Repair_Hearthstone_ files
 
@@ -234,6 +183,13 @@ OR
 **2)** Click **Hearthstone> Options > Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click **Begin Scan** .
 
@@ -249,20 +205,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-423.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
@@ -271,35 +213,7 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6:**Reset sound settings**
 
@@ -321,23 +235,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-551.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-552.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**DONE** to save the changes.
 
@@ -345,25 +252,12 @@ OR
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -379,26 +273,6 @@ OR
 **2)** Click**Hearthstone > Options > Uninstall Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-438.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)** Click**Yes, Uninstall** .
 
@@ -418,20 +292,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
@@ -441,20 +301,6 @@ OR
  If you’re prompted about permission, select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-445.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard launcher.
 
@@ -475,8 +321,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -484,4 +328,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-social-media-match-up-youtube-shorts-or-tiktok/"><u>[Updated] In 2024, Social Media Match-Up Youtube Shorts or TikTok?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-surviving-the-apocalypse-top-8-zombie-classics/"><u>2024 Approved Surviving the Apocalypse Top 8 Zombie Classics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-audio-pathways-address-and-fix-crackling-sounds-from-an-arctis-7-with-windows-computing-systems/"><u>Clear Audio Pathways: Address and Fix Crackling Sounds From an Arctis 7 with Windows Computing Systems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-captivating-vlog-narratives-for-2024/"><u>Crafting Captivating Vlog Narratives for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-movie-previews/"><u>Crafting Compelling Movie Previews</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-get-your-silent-bose-speakers-back-in-action/"><u>DIY Solutions to Get Your Silent Bose Speakers Back in Action</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-8-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 8 Making It Possible</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/innovating-your-online-presence-expert-tips-for-video-enhancement-after-upload/"><u>Innovating Your Online Presence Expert Tips for Video Enhancement After Upload</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ting-successfully-with-a-makeup-channel/"><u>Investing Successfully with a Makeup Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-av1-video-format-supported-by-plex-learn-the-compatibility-guide/"><u>Is AV1 Video Format Supported by Plex? Learn the Compatibility Guide!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-audio-issues-restoring-sound-on-your-windows-11-system/"><u>Quick Fixes for Audio Issues: Restoring Sound on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015506410-quick-fixes-for-non-working-voice-chat-in-fortnite-get-back-to-gaming-now/"><u>Quick Fixes for Non-Working Voice Chat in Fortnite - Get Back to Gaming Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-how-to-get-speakers-functioning-in-windows-11/"><u>Reviving Audio: How to Get Speakers Functioning in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-razer-microphone-problems-with-these-easy-to-follow-steps/"><u>Solve Razer Microphone Problems with These Easy-to-Follow Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-clicks-and-pops-ultimate-guide-to-eliminating-logitech-g-pro-x-sound-issues/"><u>Solving the Clicks and Pops: Ultimate Guide to Eliminating Logitech G Pro X Sound Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a34-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A34 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-solve-your-rust-microphone-issues/"><u>Ultimate Troubleshooting: Solve Your Rust Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win1011-no-response-from-epson-printer/"><u>Win10/11, No Response From Epson Printer</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G04 | Dr.fone</u></a></li>
+</ul></div>
 

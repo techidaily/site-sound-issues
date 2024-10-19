@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting: Solving 2024'S Discord Audio Dropouts"
-date: 2024-09-10T13:05:01.829Z
-updated: 2024-09-11T13:05:01.829Z
+date: 2024-10-15T21:46:29.355Z
+updated: 2024-10-18T20:00:14.121Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 
  Enjoy this game but find no sound at all in Battlefield 4? If everything works fine and this happens only to BF4 (or other games from the EA Origin client), you’re in the right place. In this post, you will learn every possible fix to the ‘Battlefield 4 no sound’ issue.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6 Fixes for Battlefield 4 No Sound Issues
 
@@ -52,19 +35,12 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 5. **[Verify the game integrity](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 1\. Update your audio drivers
 
@@ -89,20 +65,6 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2\. Check your default playback device
 
  The issue occurs when you set the wrong default output device. It’s possible that other games or apps are working great but Battlefield 4 is acting up.
@@ -111,23 +73,16 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/playback-settings.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Set the right device as the default playback device. There will be a green tick and a signal icon on this device if it’s set as default.
 
 ![set the right default device](https://images.drivereasy.com/wp-content/uploads/2021/09/speaker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) If this device is not the one you desired, you can right-click another device and select**Set as Default Device** .
 
@@ -153,61 +108,20 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
 
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
 ![open advanced sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/soundsettings.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
 
@@ -221,26 +135,6 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 
 ![open firewall settings](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 2) Click the active network.
 
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
@@ -250,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 ![toggle firewall to off](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall-off.jpg)
 
 Launch your Battlefield 4 and check if the sound is working now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5\. Verify the game integrity
 
@@ -261,45 +162,32 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![Battlefield 4 repair](https://images.drivereasy.com/wp-content/uploads/2021/09/battlefield-1200x686.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Once complete, close Origin. Then run Origin as administrator.
 
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 6\. Rule out other interference
 
@@ -315,19 +203,12 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![turn off orgin in game](https://images.drivereasy.com/wp-content/uploads/2021/09/originingame.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If disabling Origin In-Game Overlay doesn’t work, you can[perform a clean boot](https://tools.techidaily.com/drivereasy/download/) on your PC to find a problematic application.
 
@@ -345,8 +226,6 @@ Launch your Battlefield 4 and check if the sound is working now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -354,12 +233,18 @@ Launch your Battlefield 4 and check if the sound is working now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-instantaneously-obscured-identities-quick-tips-with-piscart/"><u>2024 Approved Instantaneously Obscured Identities Quick Tips with Piscart</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2019-continuous-play-guide-preventing-unexpected-game-closures/"><u>Football Manager 2019 Continuous Play Guide: Preventing Unexpected Game Closures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rapid-rendering-of-fortnite-icons/"><u>In 2024, Rapid Rendering of Fortnite Icons</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015249753-logitech-g2n30-headset-mic-problems-quick-solutions-that-actually-work/"><u>Logitech G2n30 Headset Mic Problems: Quick Solutions That Actually Work</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-website-analytics-using-the-latest-cookiebot-solutions/"><u>Revolutionize Your Website Analytics Using the Latest Cookiebot Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-clicks-no-more-easy-remedies-for-fixing-logitech-g933s-sound-issues/"><u>Silent Clicks No More - Easy Remedies for Fixing Logitech G933's Sound Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simplified-download-guide-for-the-latest-realtek-card-reader-drivers-compatible-with-windows/"><u>Simplified Download Guide for the Latest RealTek Card Reader Drivers Compatible with Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-htc-u23-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost HTC U23 Pro Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-sound-from-usb-headphones-on-a-windows-7-pc/"><u>Troubleshooting No Sound From USB Headphones on a Windows 7 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-valorants-voice-communication/"><u>Troubleshooting Tips: Resolving Issues with Valorant's Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-raise-the-decibels-optimizing-windows-10-soundsystem/"><u>Ultimate Tricks to Raise the Decibels: Optimizing Window's 10 Soundsystem</u></a></li>
+</ul></div>
 

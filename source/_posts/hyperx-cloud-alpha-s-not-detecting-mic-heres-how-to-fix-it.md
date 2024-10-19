@@ -1,7 +1,7 @@
 ---
 title: HyperX Cloud Alpha S Not Detecting Mic? Here's How to Fix It
-date: 2024-10-07T03:18:13.386Z
-updated: 2024-10-12T16:21:45.698Z
+date: 2024-10-15T16:21:24.094Z
+updated: 2024-10-18T19:00:10.272Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
 [5: Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your microphone connection is solid
 
  HyperX Cloud Alpha S continues the design of the detachable microphone from the regular Cloud Alpha. If your microphone is not connected firmly, you may still hear sounds from your headset but can’t use the microphone.
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Enable your headset mic for recording
 
  When your microphone doesn’t have access to your PC to record your audio, it won’t work. Here’s how to enable your headset mic:
@@ -53,28 +67,29 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 1. Right-click the speaker icon on your taskbar, and click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
-3. Right-click your headset, then click**Enable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
+3. Right-click your headset, then click**Enable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
- If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
 
 ## Fix 3: Set your headset as the audio input device
 
@@ -88,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
  If your headset is set as the input device but the mic still won’t work, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Turn on the mic access on your PC
 
  If you’ve tried the above fixes but nothing worked, then the problem may be on your PC. You may need to check if the microphone access on your PC is enabled. Here’s now:
@@ -105,20 +113,13 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t fix your mic problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Update your audio driver
 
@@ -136,10 +137,10 @@ If this doesn’t fix your mic problem, try the next fix.
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -168,14 +169,20 @@ If this doesn’t fix your mic problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-ignite-your-artistic-spirit-find-the-premier-android-drawing-tools/"><u>[New] Ignite Your Artistic Spirit Find the Premier Android Drawing Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-secrets-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>[Updated] Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
-<li><a href="https://article-tips.techidaily.com/charting-the-financial-landscape-of-youtube-marketing-for-2024/"><u>Charting the Financial Landscape of YouTube Marketing for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-fixes-for-players-facing-problems-with-starting-gta-5-gameplay/"><u>DIY Fixes for Players Facing Problems with Starting GTA 5 Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-signal-detected-from-finger-id-device/"><u>No Signal Detected From Finger ID Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-mac-heres-how-you-can-resolve-this-common-issue/"><u>No Sound on Your Mac? Here's How You Can Resolve This Common Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-restored-troubleshooting-complete-loss-of-sound-for-cyberpunk-2077-on-windows-10-devices/"><u>Noise Restored! Troubleshooting Complete Loss of Sound for Cyberpunk 2077 on Windows 10 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimizing-sound-quality-by-removing-enhancements-from-windows-11-systems/"><u>Optimizing Sound Quality by Removing Enhancements From Windows 11 Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-list-the-best-tv-streaming-platforms-of-the-year-2024/"><u>Ultimate List: The Best TV Streaming Platforms of the Year 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-mistakes-to-avoid-as-a-new-youtuber/"><u>[New] 8 Mistakes to Avoid as a New Youtuber</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-customizing-windows-photos-to-enjoy-music-on-every-picture-for-2024/"><u>[New] Customizing Windows Photos to Enjoy Music on Every Picture for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-integrate-harmony-in-media-posts-facebooks-sound-guide/"><u>[Updated] Integrate Harmony in Media Posts Facebook's Sound Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advanced-methods-for-securing-vimeo-recordings/"><u>Advanced Methods for Securing Vimeo Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-c67-4g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme C67 4G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-crashes-and-stabilize-your-mordhau-gaming-experience/"><u>How to Overcome Crashes and Stabilize Your Mordhau Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-alpha-s-microphone-not-functioning-heres-the-ultimate-guide-to-get-it-working-again/"><u>HyperX Alpha S Microphone Not Functioning? Here's the Ultimate Guide to Get It Working Again</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-top-10-best-introduction-editors-apps/"><u>In 2024, Top 10 Best Introduction Editors (Apps)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-voice-chat-expert-solutions-to-mic-troubles-on-microsoft-teams-windows-1110/"><u>Revive Your Voice Chat: Expert Solutions to Mic Troubles on Microsoft Teams (Windows 11/10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-common-mac-sound-problems-and-fixes-for-better-audio-quality/"><u>Solved! Common Mac Sound Problems & Fixes for Better Audio Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-pc-audio-troubles-in-sea-of-thieves-voice-chat-guide/"><u>Solving PC Audio Troubles in Sea of Thieves - Voice Chat Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fix-for-intermittent-audio-failures-in-windows-10-devices/"><u>The Definitive Fix for Intermittent Audio Failures in Windows 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fixes-for-non-working-nvidia-high-definition-audio-on-computers/"><u>The Ultimate Fixes for Non-Working Nvidia High Definition Audio on Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015957648-windows-11-audio-enhancement-disabling-instructions-do-it-yourself/"><u>Windows 11 Audio Enhancement Disabling Instructions – Do It Yourself!</u></a></li>
 </ul></div>
 

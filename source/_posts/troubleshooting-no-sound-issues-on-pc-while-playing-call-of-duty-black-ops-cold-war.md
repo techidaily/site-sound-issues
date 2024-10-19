@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting No Sound Issues on PC While Playing Call of Duty: Black Ops Cold War"
-date: 2024-09-10T13:00:17.255Z
-updated: 2024-09-11T13:00:17.255Z
+date: 2024-10-15T19:49:56.881Z
+updated: 2024-10-19T02:41:14.004Z
 tags:
   - win11
   - win10
@@ -27,25 +27,12 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reinstall your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Check the status of your audio services
 
@@ -57,38 +44,27 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
 4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
-5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
+5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
 6. Click**OK** , then close the Service window.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 7. Test by playing a song. If your problem still exists, try Fix 2, below.
 
@@ -111,53 +87,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1fc67e2400.jpg)
 3. Click the **Update** button next to your audio driver to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Reinstall your audio drivers
 
@@ -167,30 +101,26 @@ OR
 2. Type **devmgmt.msc** and click**OK** to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
 5. Restart your computer, then check if your problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -206,8 +136,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +143,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-a-step-by-step-approach-to-discord-messaging-for-2024/"><u>[Updated] A Step-by-Step Approach to Discord Messaging for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-virtual-meetings-mastering-zoom-filter-tech/"><u>[Updated] Elevate Your Virtual Meetings Mastering Zoom Filter Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essentials-of-animated-visual-communication-for-2024/"><u>[Updated] Essentials of Animated Visual Communication for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-30-innovative-video-themes-and-layouts/"><u>2024 Approved 30 Innovative Video Themes and Layouts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-and-update-idt-high-definition-audio-codec-driver-for-windows-10-systems/"><u>How to Fix and Update IDT High Definition Audio Codec Driver for Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-voice-chat-on-cod-black-ops-cold-war/"><u>How to Fix Non-Functional Voice Chat on COD: Black Ops Cold War</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-edge-40-neo-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Edge 40 Neo online without jailbreak</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-razer-blackshark-v2s-mic-functionality/"><u>Step-by-Step Guide to Restoring Razer BlackShark V2's Mic Functionality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transform-playtime-into-memories-with-switch-videos-for-2024/"><u>Transform Playtime Into Memories with Switch Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015293184-turning-up-the-volume-again-on-google-chrome-fix-tutorial-released/"><u>Turning Up the Volume Again on Google Chrome - Fix Tutorial Released!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/what-causes-auditory-hallucinations/"><u>What Causes Auditory Hallucinations?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-the-chatgpt-ios-app-surpasses-the-website-6-key-reasons-for-optimal-usage/"><u>Why the ChatGPT iOS App Surpasses the Website: 6 Key Reasons for Optimal Usage</u></a></li>
+</ul></div>
 

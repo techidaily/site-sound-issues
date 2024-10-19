@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Correcting the Issues When Your Turtle Beach Elite Atlas Microphone Won't Work"
-date: 2024-09-10T13:00:16.373Z
-updated: 2024-09-11T13:00:16.373Z
+date: 2024-10-13T02:11:10.506Z
+updated: 2024-10-18T23:37:00.688Z
 tags:
   - win11
   - win10
@@ -37,23 +37,23 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)** Select **Sound** .
 
@@ -63,103 +63,41 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Method 2: Update your audio drivers
 
@@ -185,19 +123,12 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -218,8 +149,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +156,24 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-microphone-recorders-for-mac-users-our-five-superstar-picks/"><u>[New] Advanced Microphone Recorders for Mac Users Our Five Superstar Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-official-guide-winxvideo-ai-technical-specifications/"><u>Complete Official Guide: WinXVideo AI Technical Specifications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-repair-your-bose-speaker-and-enhance-sound-quality/"><u>Effective Techniques to Repair Your Bose Speaker and Enhance Sound Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016196190-fix-your-oculus-rift-s-headset-microphone-issues-fast-top-solutions/"><u>Fix Your Oculus Rift S Headset Microphone Issues Fast: Top Solutions !</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oneplus-nord-n30-se-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from OnePlus Nord N30 SE to New Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-xs-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone XS?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/interactive-features/"><u>Interactive Features</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-filmora-coupon-code-2022-7-ways-to-find2022-full-list/"><u>New 2024 Approved Filmora Coupon Code 2022 - 7 Ways to Find(2022 Full List)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regain-your-audio-resolving-silent-anthem-encounters-on-windows-11-systems/"><u>Regain Your Audio: Resolving Silent Anthem Encounters on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regaining-full-functionality-of-your-windows-scanner/"><u>Regaining Full Functionality of Your Windows Scanner</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016869860-trouble-with-your-turtle-beach-mic-heres-how-you-can-fix-it/"><u>Trouble with Your Turtle Beach Mic? Here's How You Can Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-fixing-webex-audio-malfunctions/"><u>Ultimate Guide to Fixing Webex Audio Malfunctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-issues-with-your-non-functional-logitech-g430-microphone/"><u>Ultimate Guide: Resolving Issues with Your Non-Functional Logitech G430 Microphone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrading-the-software-a-comprehensive-tutorial-on-refreshing-your-epson-wf-7620-printer-driver-for-windows-users/"><u>Upgrading the Software: A Comprehensive Tutorial on Refreshing Your Epson WF-7620 Printer Driver for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-1aturboleta-de-la-victoria-english-the-victory-kite-a-poem-by-the-mexican-poet-and-revolutionary-figure-francisco-gabilondo-y-artia-better-known-und642/"><u>Windows 1Aturboleta De La Victoria''' (English: The Victory-Kite), a Poem by the Mexican Poet and Revolutionary Figure Francisco Gabilondo Y Artía, Better Known Under His Pseudonym as El Dúo U𝓦</u></a></li>
+</ul></div>
 

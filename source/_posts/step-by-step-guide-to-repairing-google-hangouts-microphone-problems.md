@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing Google Hangouts Microphone Problems
-date: 2024-09-10T13:02:59.906Z
-updated: 2024-09-11T13:02:59.906Z
+date: 2024-10-16T23:48:39.473Z
+updated: 2024-10-19T02:41:22.036Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  It’s a lot of fun to chat with friends all over the world at Rec Room, building and playing games together. However, when the microphone just stops working for no reason and other people can’t hear you, it could be very annoying. If you’re stuck in such a predicament, don’t worry, as you can fix this easily.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fixes to try
 
@@ -37,20 +34,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1 – Troubleshoot the hardware issue
 
  Before moving on to some more advanced methods, you need to make sure your microphone is not physically broken and the connection works fine. You can take these steps to do a basic check:
@@ -60,19 +43,12 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  If you’ve done a quick check and confirmed there is no hardware issue, the cause may be related to the computer settings. Keep reading to find more solutions below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2 – Check your privacy settings
 
@@ -83,11 +59,33 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 2. Click the**Change** button and make sure**Microphone access for this device is turned on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Set your headset mic as the default device
 
@@ -99,58 +97,19 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #### On Oculus or SteamVR
 
@@ -170,20 +129,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 4 – Update your audio driver
 
  If you’ve been constantly running into mic not working with Rec Room or other apps, chances are that your audio driver is faulty or out-of-date. In this case, you should update the driver to keep your VR rig up and running, and there are two ways for you:
@@ -200,37 +145,16 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After the update completes, restart the PC and see if your audio issue gets fixed. If not, there is one more fix to try.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5 – Close unnecessary background apps
 
@@ -240,20 +164,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -272,8 +182,6 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -281,12 +189,26 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-elite-9-access-privileged-video-downloads-for-2024/"><u>[New] Elite 9 Access Privileged Video Downloads for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-logitech-g733-mic-not-working/"><u>[SOLVED] Logitech G733 Mic Not Working</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-in-depth-look-at-gecata-capture-tool/"><u>[Updated] In 2024, In-Depth Look at Gecata Capture Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-windows-screensaver-tactics/"><u>Comprehensive Guide: Windows Screensaver Tactics</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-itel-a60s-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Itel A60s FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-spark-10-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Spark 10 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fingerprint-sensor-no-reading-on-pc/"><u>Fingerprint Sensor: No Reading on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-a-non-functioning-mic-in-microsoft-teams-for-windows-operating-systems/"><u>How to Troubleshoot a Non-Functioning Mic in Microsoft Teams for Windows Operating Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-finding-voice-changers-for-vtubers-two-best-app-recommended/"><u>In 2024, Finding Voice Changers for Vtubers Two Best App Recommended</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-14-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 14 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-no-sound-in-logitech-g93-revised-problem/"><u>Quick Fix for No Sound in Logitech G93 # Revised Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-fortnite-audio-problems-in-no-time-with-these-easy-steps/"><u>Resolve Fortnite Audio Problems in No Time with These Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-audacity-sound-device-glitch-with-these-5-methods/"><u>Resolve Your Audacity Sound Device Glitch with These 5 Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-skype-audio-repairing-microphone-problems-in-windows-10/"><u>Revive Your Skype Audio: Repairing Microphone Problems in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-audacity-problem-how-to-fix-sound-device-not-found-glitch/"><u>Solve Your Audacity Problem: How to Fix 'Sound Device Not Found' Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-setup-strategies-for-project-execution/"><u>Speedy Setup Strategies for Project Execution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-gratuitement-un-fichier-3g2-en-format-3gp-en-ligne-avec-movavi/"><u>Transformez Gratuitement Un Fichier .3G2 en Format .3Gp en Ligne Avec Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-restore-functionality-to-your-corsair-hs60-headsets-mic/"><u>Troubleshooting Tips: How to Restore Functionality to Your Corsair HS60 Headset's Mic</u></a></li>
+</ul></div>
 

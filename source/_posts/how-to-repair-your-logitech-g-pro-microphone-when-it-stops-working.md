@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Logitech G Pro Microphone When It Stops Working
-date: 2024-09-10T13:06:30.744Z
-updated: 2024-09-11T13:06:30.744Z
+date: 2024-10-15T21:37:17.806Z
+updated: 2024-10-18T21:31:52.784Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 
  If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fixes for ‘Skype Microphone not working’
 
@@ -35,20 +32,6 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 4. [Restart the Windows audio service](https://tools.techidaily.com/drivereasy/download/)
 
 ###
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
@@ -60,57 +43,23 @@ Follow these:
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 ###
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Adjust the audio settings on Skype
 
@@ -119,6 +68,13 @@ Follow these:
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###
 
@@ -133,47 +89,14 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ###
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Restart Windows audio service
 
@@ -183,6 +106,13 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -191,8 +121,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,12 +128,20 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevating-your-role-a-guide-to-exceptional-interviews/"><u>[New] In 2024, Elevating Your Role A Guide to Exceptional Interviews</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[Updated] 2024 Approved Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discover-how-to-maintain-clear-audio-on-discord-the-complete-guide/"><u>Discover How to Maintain Clear Audio on Discord - The Complete Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dissecting-splitcams-stand-in-video-technology-for-2024/"><u>Dissecting SplitCam's Stand in Video Technology for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-get-your-redragon-laptop-mic-working-perfectly-again/"><u>Expert Solutions to Get Your Redragon Laptop Mic Working Perfectly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-logitech-g430-mic-handy-solutions-for-sound-problems/"><u>Fix Your Logitech G430 Mic: Handy Solutions For Sound Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-corsair-hs35-mic-working-again-in-windows-expert-fixes-and-advice/"><u>How to Get Your Corsair HS35 Mic Working Again in Windows - Expert Fixes and Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-not-detecting-mic-heres-how-to-fix-it/"><u>HyperX Cloud Alpha S Not Detecting Mic? Here's How to Fix It</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-social-media-norms-the-distinctive-features-of-triller/"><u>In 2024, Beyond Social Media Norms The Distinctive Features of Triller</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reel-success-unlocking-the-best-10-text-strategies-for-videos/"><u>In 2024, Reel Success - Unlocking the Best 10 Text Strategies for Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlock-window-history-with-spring-screenrecorder/"><u>In 2024, Unlock Window History with Spring ScreenRecorder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openai-dismisses-chief-executive-sam-altman-implications-for-the-future-of-chatgpt/"><u>OpenAI Dismisses Chief Executive Sam Altman: Implications for the Future of ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-runmus-headset-mic-heres-your-guide-to-making-it-work-again/"><u>Trouble with RUNMUS Headset Mic? Here's Your Guide to Making It Work Again!</u></a></li>
+</ul></div>
 

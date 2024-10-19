@@ -1,7 +1,7 @@
 ---
 title: "Top Solutions: Troubleshooting Sound Issues on Your Toshiba Laptop"
-date: 2024-09-10T13:00:16.590Z
-updated: 2024-09-11T13:00:16.590Z
+date: 2024-10-11T23:08:17.818Z
+updated: 2024-10-18T18:14:32.363Z
 tags:
   - win11
   - win10
@@ -31,20 +31,6 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### **Fix 1: Run Windows audio playback troubleshooter**
 
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
@@ -53,18 +39,12 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
@@ -94,34 +74,15 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -137,96 +98,40 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 6. On your desktop,   **right-click**  **the speaker icon**  on the lower-right corner, and then select**Open Volume Mixer**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
 10. In Device Manager,**double-click** **Sound, video and game controllers** to expand the list. If you see**a downward arrow** next to your audio device,**right-click** it then select**Enable device** to enable it.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000240.png)
 
@@ -242,21 +147,23 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart your PC.
 
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
@@ -282,8 +189,6 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -291,4 +196,26 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/-comprehensive-look-at-youtube-shorts-template-design-for-2024/"><u>[New] A Comprehensive Look at YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-dive-into-the-world-of-self-expression-a-treasury-of-instagramcaptions-for-2024/"><u>[New] Dive Into the World of Self-Expression - A Treasury of #InstagramCaptions for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unlock-creative-potentials-youtube-trailers-with-filmora/"><u>[New] In 2024, Unlock Creative Potentials YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/earn-how-to-create-engaging-animation-from-any-video-for-2024/"><u>[New] Learn How To Create Engaging Animation From Any Video for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-soundtracks-for-snaps-a-guide-to-video-audio-selection-for-2024/"><u>[Updated] Soundtracks for Snaps A Guide to Video Audio Selection for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-cream-of-the-crop-podcasts/"><u>2024 Approved Android's Cream of the Crop Podcasts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-apple-smartwatch-se-assessment-and-analysis/"><u>Affordable Apple Smartwatch SE Assessment and Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-resolving-the-voice-chat-malfunction-quickly-and-easily/"><u>Cod: Vanguard - Resolving the Voice Chat Malfunction Quickly and Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-sennheiser-gamers-mic-a-comprehensive-troubleshooting-tutorial/"><u>Fixing Your Sennheiser Gamer's Mic: A Comprehensive Troubleshooting Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-magic-6-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Magic 6 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-sony-wh-1000xm34-headphones-mic-not-working-with-a-laptop/"><u>How to Repair Sony WH-1000XM3/4 Headphones Mic Not Working with a Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-with-your-realtek-mic-comprehensive-solutions/"><u>How to Resolve Issues with Your Realtek Mic - Comprehensive Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-non-functioning-voice-chat-in-fortnite-step-by-step/"><u>Immediate Fixes for Non-Functioning Voice Chat in Fortnite - Step by Step!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-silent-screens-quick-fixes-for-sound-problems-on-toshiba-notebooks/"><u>Tackling Silent Screens: Quick Fixes for Sound Problems on Toshiba Notebooks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-the-problem-of-distorted-audio-in-windows-operating-systems/"><u>Troubleshooting and Solving the Problem of Distorted Audio in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-a-step-by-step-guide-for-playing-outriders-without-sound-issues/"><u>Troubleshooting Audio Problems: A Step-by-Step Guide for Playing Outriders Without Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-browsing-solutions-for-chromes-lack-of-sound/"><u>Troubleshooting Silent Browsing - Solutions for Chrome's Lack of Sound</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unravel-mysteries-with-these-13-exceptional-true-crime-audio-series/"><u>Unravel Mysteries with These 13 Exceptional True Crime Audio Series</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-banners-makers-10plus-online-tools-to-create-channel-art-for-2024/"><u>Youtube Banners Makers 10+ Online Tools to Create Channel Art for 2024</u></a></li>
+</ul></div>
 

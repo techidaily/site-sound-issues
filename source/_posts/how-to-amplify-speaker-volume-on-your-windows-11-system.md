@@ -1,7 +1,7 @@
 ---
 title: How to Amplify Speaker Volume on Your Windows 11 System
-date: 2024-09-10T13:00:26.232Z
-updated: 2024-09-11T13:00:26.232Z
+date: 2024-10-12T21:44:54.566Z
+updated: 2024-10-19T02:52:59.203Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 If your external speakers are not working on Windows 10, don’t worry, you’re not alone. The speakers not working problem could relate to many factors, for instance, the speakers, the hardware themselves, could be damaged, your system sound could be muted, your audio driver could be faulty, and so forth. If you encounter this problem, follow the troubleshooting tips here and find the solution that works for you.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Step 1, make sure your speakers are not the problem
 
@@ -31,19 +28,18 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Step 2, make sure the connection between your speakers and computer is good
 
@@ -57,20 +53,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -80,24 +62,12 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
@@ -106,19 +76,12 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
@@ -130,46 +93,14 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
@@ -179,25 +110,12 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
@@ -212,49 +130,15 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Update the Audio Driver
 
@@ -272,6 +156,13 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
 <ins class="adsbygoogle"
@@ -280,8 +171,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,12 +178,19 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-captivating-subscription-making-an-animated-button-for-youtube-with-filmora/"><u>[New] Captivating Subscription Making an Animated Button for YouTube with Filmora</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-starter-steps-to-wealthy-streaming-in-periscope/"><u>[New] Starter Steps to Wealthy Streaming in Periscope</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included/"><u>2024 Approved Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-s24plus-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy S24+ Device SIM</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g733-not-working-heres-how-you-can-fix-it/"><u>Logitech G733 Not Working? Here's How You Can Fix It</u></a></li>
+<li><a href="https://video-capture.techidaily.com/powerpoint-persona-establishing-your-presentations-voice-for-2024/"><u>PowerPoint Persona Establishing Your Presentation's Voice for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-driver-errors-in-your-dell-system-on-windows-83647-easily/"><u>Solving Audio Driver Errors in Your Dell System on Windows #8364;7 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-crackling-noise-in-your-arctis-7-headphones-on-windows/"><u>Solving the Issue of Crackling Noise in Your Arctis 7 Headphones on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-high-fidelity-audio-codec-installation-for-superior-sound-quality-in-windows-10-solved/"><u>Troubleshooting IDT High Fidelity Audio Codec Installation for Superior Sound Quality in Windows 10 [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-steps-for-a-malfunctioning-rust-microphone/"><u>Ultimate Troubleshooting Steps for a Malfunctioning Rust Microphone</u></a></li>
+</ul></div>
 

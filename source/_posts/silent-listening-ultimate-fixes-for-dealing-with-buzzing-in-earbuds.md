@@ -1,7 +1,7 @@
 ---
 title: "Silent Listening: Ultimate Fixes for Dealing with Buzzing in Earbuds"
-date: 2024-09-10T13:02:53.248Z
-updated: 2024-09-11T13:02:53.248Z
+date: 2024-10-11T17:02:30.589Z
+updated: 2024-10-19T02:41:50.934Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 
 If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no sound at all, you’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 7 fixes to try.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## 7 simple fixes to try
 
@@ -37,20 +34,6 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 6. **[Reset sound settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall_Hearthstone_ and/or the Blizzard launcher](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Check cables and volume
 
  If you don’t have any sound at all, you need to check your audio device is well-connected to your computer, and it’s not muted. Follow the instructions below:
@@ -61,20 +44,6 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 * Remember that your speakers probably won’t work when headphones are plugged in.
 
 If your cables and volume are okay, move on and check the fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Update your audio driver
 
@@ -108,25 +77,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -137,20 +99,6 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: End unnecessary background programs
 
@@ -165,23 +113,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -199,29 +140,29 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
 
@@ -239,35 +180,7 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -281,25 +194,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Apply** then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6:**Reset sound settings**
 
@@ -309,77 +215,35 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-550.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-551.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-552.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **6)** Click**DONE** to save the changes.
 
@@ -402,20 +266,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-438.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Click**Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-439.jpg)
@@ -434,23 +284,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click**Battle.net** , then click**Uninstall/Change** .
 
@@ -477,8 +320,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -486,12 +327,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/2024-fix-rainbow-six-siege-voice-chat-not-working/"><u>[2024 Fix] Rainbow Six Siege Voice Chat Not Working</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-experts-manual-to-efficient-screencasting/"><u>[New] 2024 Approved The Expert's Manual to Efficient Screencasting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-choosing-your-best-vr-camera-insights/"><u>[Updated] 2024 Approved Choosing Your Best VR Camera Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlocking-videos-with-a-click-ios-apps-rising-in-the-rankings-on-fb-downloader-list/"><u>[Updated] In 2024, Unlocking Videos with a Click IOS Apps Rising in the Rankings on FB Downloader List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leading-selection-top-6-fb-lite-vids/"><u>2024 Approved Leading Selection #Top 6 FB Lite Vids</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crossover-solutions-for-non-working-corsair-hs70-microphone-issues/"><u>Crossover Solutions for Non-Working Corsair HS70 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hear-the-click-restore-the-beep-overcoming-no-sound-troubles-with-your-lenovo-laptop/"><u>Hear the Click, Restore the Beep: Overcoming No-Sound Troubles with Your Lenovo Laptop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-the-updated-tandu-with-ease/"><u>Navigating the Updated T&U with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-process-for-disabling-audio-effects-on-windows-11-pcs/"><u>Step-by-Step Process for Disabling Audio Effects on Windows 11 PCs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-key-to-smooth-video-playback-bandwidth-optimization-techniques/"><u>The Key to Smooth Video Playback: Bandwidth Optimization Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016765439-troubleshooting-non-functional-onikuma-headset-mics-solutions-inside/"><u>Troubleshooting Non-Functional Onikuma Headset Mics - Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-audios-with-paused-youtube-videos-in-google-chrome-or-mozilla-firefox/"><u>Troubleshooting Persistent Audios with Paused YouTube Videos in Google Chrome or Mozilla Firefox</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error - Causes and Solutions</u></a></li>
+</ul></div>
 

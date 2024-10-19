@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes to Restore Proper Audio Functionality in Outriders
-date: 2024-09-10T13:04:42.376Z
-updated: 2024-09-11T13:04:42.376Z
+date: 2024-10-16T03:46:10.097Z
+updated: 2024-10-19T01:40:46.790Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 
  Nothing trumps the feelings of chatting with friends during the gameplay. But if the microphone is suddenly not working, that would be annoying. But luckily, you are able to fix the issue and get your headset microphone back to work by trying fixes in this post.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -56,20 +33,6 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 3. [Set your microphone device as default](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 1\. Turn on app permissions for your microphone
 
@@ -89,25 +52,18 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
 
  After you’ve done all of these, try to use your headset microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Make sure your mic isn’t disabled
 
@@ -117,43 +73,23 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
   
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Make sure that your headset is not disabled.  
   
@@ -162,20 +98,6 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
  After you’ve confirmed that your microphone is enabled, do a test to check if it’s now back to normal. If the microphone is still not working properly, try the next fix below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3\. Set your microphone device as default
 
@@ -193,43 +115,9 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
   
 ![set your device as default](https://images.drivereasy.com/wp-content/uploads/2021/02/set-it-as-default.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Update your audio driver
 
@@ -245,16 +133,43 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and do a mic test to check if it’s back to a normal state. If the microphone is still not working properly, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Troubleshoot hardware issues
 
@@ -274,8 +189,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,12 +196,24 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-beyond-boundaries-top-10-titles-without-gta-roots/"><u>[New] Beyond Boundaries Top 10 Titles Without GTA Roots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-undead-uprising-a-comprehensive-list-of-favorites-for-2024/"><u>[New] Undead Uprising A Comprehensive List of Favorites for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-metaverse-tech-the-ultimate-goggles-and-hmds-list/"><u>[Updated] 2024 Approved Best Metaverse Tech The Ultimate Goggles and HMDs List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-nostalgia-in-streaming-restoring-yt-videos-removed-for-2024/"><u>[Updated] Nostalgia in Streaming Restoring YT Videos Removed for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-your-cheat-sheet-for-auditing-friends-vibrant-livestrances/"><u>[Updated] Your Cheat Sheet for Auditing Friends’ Vibrant Livestrances</u></a></li>
+<li><a href="https://fox-links.techidaily.com/7-leading-budget-4k-mirrorless-cameras-(1k/"><u>7 Leading Budget 4K Mirrorless Cameras (<$1K)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/a-clearer-sight-youtube-watching-tweets-at-1080p-for-2024/"><u>A Clearer Sight YouTube, Watching Tweets at 1080P for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-logitech-camcorder-mic-a-step-by-step-guide/"><u>Fixing a Non-Functional Logitech Camcorder Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-usb-headphones-on-your-pc-running-windows-wo-firiendly/"><u>Fixing Silent USB Headphones on Your PC Running Windows Wo-Firiendly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-magic-6-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor Magic 6 Fingerprint Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-your-razer-headset-microphone-with-these-5-steps/"><u>Reactivate Your Razer Headset Microphone with These 5 Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016162732-resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-voice-in-battle-resolving-warzones-microphone-and-speaker-problems-on-pc-and-console/"><u>Restore Your Voice in Battle - Resolving Warzone's Microphone & Speaker Problems on PC and Console</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-laptop-speakers-not-working-problem-a-step-by-step-guide/"><u>Solving the 'Laptop Speakers Not Working' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-7-solving-common-microphone-issues/"><u>Troubleshooting Windows 7: Solving Common Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-resolve-zooms-microphone-problems-for-users-of-windows-11-and-10/"><u>Troubleshooting: How to Resolve Zoom's Microphone Problems for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://win-data.techidaily.com/unlocking-your-music-collection-converting-drm-protected-wma-files-into-high-quality-mp3/"><u>Unlocking Your Music Collection: Converting DRM-Protected WMA Files Into High-Quality MP3</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Black Ops Cold War Voice Communication Failure"
-date: 2024-09-10T13:05:33.128Z
-updated: 2024-09-11T13:05:33.128Z
+date: 2024-10-13T18:23:43.464Z
+updated: 2024-10-19T02:31:48.097Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a4
 
  As the newest installment in the long-running FPS series, Call of Duty: Vanguard has finally launched. However, many players are reporting that the in-game voice chat feature in Vanguard is not working properly, which greatly spoils players’ gaming experience. If you’re experiencing the same problem, don’t worry. We’ve put together some working fixes for you.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -38,25 +35,12 @@ thumbnail: https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a4
 5. **[Check in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Perform basic troubleshooting
 
@@ -68,20 +52,6 @@ thumbnail: https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a4
 
  If everything is fine with your audio device, the problem may lie somewhere else. Read on to find out more.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Allow the game to access your microphone
 
  If you’re having trouble with your microphone, make sure your privacy settings are configured properly to allow the game to access your microphone. Here’s how:
@@ -91,34 +61,14 @@ thumbnail: https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/privacy.jpg)
 3. In the left panel, select**Microphone** . Under**Allow desktop apps to access your microphone** , make sure the toggle is set to**ON** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/microphone-allow-desktop-apps.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  After you’ve done these, relaunch Vanguard to see if your voice chat works properly.
 
@@ -143,40 +93,14 @@ If this fix doesn’t do the trick, check out the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-scan-audio.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -191,27 +115,23 @@ If this fix doesn’t do the trick, check out the next one.
 1. On your keyboard, press the**Windows logo key** and**R** together to open the Run dialog box. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headphones** you want to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Navigate to the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Open your**Battle.net** client.
@@ -233,42 +153,18 @@ If the voice chat still doesn’t work, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-crossplay-on.jpg)
 3. Navigate to the**AUDIO** tab. Under the**Voice Chat** section, make sure**VOICE CHAT** is set to**On** . Set**VOICE CHAT DEVICE** and**MICROPHONE DEVICE** to**Default Communication Device** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-on.jpg)
 4. According to your personal preference, set**MICROPHONE ACTIVATION MODE** to**Open Mic** or**Push to Talk** . If you set it to**Open Mic** , make sure**OPEN MIC ACTIVATION THRESHOLD** is set to**3** . But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
-5. Set**VOICE CHAT VOLUME** and**MICROPHONE VOLUME** to a moderate value. Then set**VOICE CHAT EFFECT** to**No Effect** .  
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
+5. Set**VOICE CHAT VOLUME** and**MICROPHONE VOLUME** to a moderate value. Then set**VOICE CHAT EFFECT** to**No Effect** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-volume.jpg)
 
@@ -284,18 +180,12 @@ If your problem remains, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
@@ -314,8 +204,6 @@ If your problem remains, try the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,12 +211,24 @@ If your problem remains, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elite-no-price-fb-photovideo-magic-maker/"><u>[New] 2024 Approved Elite No-Price FB Photo/Video Magic Maker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fortnite-voice-chat-not-working-quickly-and-easily/"><u>[Solved] Fortnite Voice Chat Not Working | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unearthing-user-generated-footage-on-facebook/"><u>[Updated] In 2024, Unearthing User-Generated Footage on Facebook</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/assessing-value-for-money-an-in-depth-look-at-the-swift-and-steeply-priced-swagtron-swagboard-t1/"><u>Assessing Value for Money: An In-Depth Look at the Swift and Steeply Priced Swagtron Swagboard T1</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-tips-for-installing-new-versions-of-your-xp-pen-devices-drivers/"><u>Expert Tips for Installing New Versions of Your XP-Pen Device's Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-lava-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Lava Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unboxing-the-secrets-of-successful-youtubers-like-ajey/"><u>In 2024, Unboxing the Secrets of Successful YouTubers Like Ajey</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-headsets-audio-easy-fixes-for-the-unresponsive-mic/"><u>Reviving Your Razer Headset's Audio: Easy Fixes for the Unresponsive Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/seamless-chats-restored-overcoming-glitches-in-your-discord-voice-connection/"><u>Seamless Chats Restored: Overcoming Glitches in Your Discord Voice Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-audio-glitches-in-rec-room-pc-version-effective-mic-repair-techniques-of-2024/"><u>Solve Audio Glitches in Rec Room PC Version: Effective Mic Repair Techniques of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-problem-restoring-audio-on-your-pc-with-conexant-smartaudio-in-windows-10/"><u>Solving the Silent Problem: Restoring Audio on Your PC with Conexant SmartAudio in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-microphone-testing-methods-for-crystal-clear-results-every-time/"><u>Speedy Microphone Testing Methods for Crystal Clear Results Every Time!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-repairing-rust-mic-malfunctions-updated/"><u>The Definitive Guide to Repairing Rust Mic Malfunctions (Updated )</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-obs-desktop-audio-problems-techniques-to-restore-recording-quality/"><u>The Ultimate Fix for OBS Desktop Audio Problems: Techniques to Restore Recording Quality</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-free-decision-making-tools-of-2020-in-depth-reviews/"><u>Top Free Decision-Making Tools of 2020: In-Depth Reviews</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-20-recurrent-videography-hurdles/"><u>Troubleshooting 20 Recurrent Videography Hurdles</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7plusie-management-guide-installation-made-simple/"><u>Win7+IE Management Guide: Installation Made Simple</u></a></li>
+</ul></div>
 

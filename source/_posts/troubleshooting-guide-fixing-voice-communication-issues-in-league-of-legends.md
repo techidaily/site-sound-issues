@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Voice Communication Issues in League of Legends"
-date: 2024-09-10T13:05:25.863Z
-updated: 2024-09-11T13:05:25.863Z
+date: 2024-10-13T18:18:49.261Z
+updated: 2024-10-19T03:20:14.848Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Occasionally, players find the**voice chat not working** in the game. If you happen to be in the same boat, don’t worry. It’s fixable.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to fix League of Legends Voice Chat Not Working
 
@@ -50,25 +33,12 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Check out the obvious
 
@@ -77,26 +47,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
  You should make sure the volume is set to an audible level, check that the cables (if you have a wired headphone device) are not worn out or loosely connected, and ensure that they’re plugged into the right port etc.
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Join voice channel automatically
 
@@ -107,28 +57,16 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 2. In the upper right corner, click**Settings** (the cog icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
-4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
+4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 ### Fix 3: Configure the audio settings
 
@@ -139,46 +77,29 @@ You can follow the steps below to check:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
@@ -210,8 +131,6 @@ You can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,12 +138,22 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-enigmatic-engagements-in-top-escape-venues/"><u>[New] 2024 Approved Enigmatic Engagements in Top Escape Venues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-avoidance-of-unplanned-pauses-during-photobooth-sessions/"><u>[New] Avoidance of Unplanned Pauses During Photobooth Sessions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-getting-unstuck-troubleshooting-absent-fb-vids/"><u>[New] Getting Unstuck Troubleshooting Absent FB Vids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-ig-vids-mastery-for-effective-marketing-step-by-step-guide-to-success/"><u>[New] IG Vids Mastery for Effective Marketing Step-by-Step Guide to Success</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-tools-for-the-future-of-3d-model-and-animation-artistry/"><u>[Updated] Pioneering Tools for the Future of 3D Model & Animation Artistry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-25-backdrop-ideas-for-livestreaming/"><u>2024 Approved Top 25 Backdrop Ideas for Livestreaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-tutorial-for-successfully-implementing-aeon-mq-9-template-onto-kodi-media-center/"><u>Complete Tutorial for Successfully Implementing Aeon MQ 9 Template Onto Kodi Media Center</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-logitech-g-pro-x-mic-audio-output-step-by-step-solutions-for-users/"><u>Reviving the Logitech G Pro X Mic Audio Output: Step-by-Step Solutions for Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-battlefield-groove-woes-a-guide-to-restoring-sounds/"><u>Solve Your Battlefield Groove Woes: A Guide to Restoring Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-tips-for-a-nonfunctional-steelseries-arctis-pro-mic/"><u>Solved! Troubleshooting Tips for a Nonfunctional SteelSeries Arctis Pro Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-laptop-microphone-and-speaker-issues-efficiently-guide/"><u>Solving Laptop Microphone and Speaker Issues Efficiently [Guide]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-plugged-in-speakers-or-headphones-not-working-on-windows-pcs/"><u>Step-by-Step Fix for Plugged-In Speakers or Headphones Not Working on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-windows-10-and-7-solutions-revealed/"><u>Troubleshooting Audio Glitches in Windows 10 & 7 - Solutions Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-the-windows-11-taskbar/"><u>Unlock the Full Potential of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/video-editing-mastery-top-3-4k8k-software-solutions-for-2024/"><u>Video Editing Mastery Top 3 4K/8K Software Solutions for 2024</u></a></li>
+</ul></div>
 

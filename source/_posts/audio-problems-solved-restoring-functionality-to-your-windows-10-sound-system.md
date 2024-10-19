@@ -1,7 +1,7 @@
 ---
 title: "Audio Problems Solved: Restoring Functionality to Your Windows 10 Sound System"
-date: 2024-10-11T20:48:13.942Z
-updated: 2024-10-12T16:28:26.518Z
+date: 2024-10-17T02:18:27.711Z
+updated: 2024-10-18T20:26:47.079Z
 tags:
   - win11
   - win10
@@ -38,41 +38,44 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) **key** and **R** at the same time to invoke the Run box.
 2. Type**services.msc** and press**Enter** to open the**Services** window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
-3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
-4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
-5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
+3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
+4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
+5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
 6. Click**OK** , then close the Service window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Test by playing a song. If your problem still exists, try Fix 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio drivers
 
@@ -95,19 +98,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 3: Reinstall your audio drivers
@@ -118,14 +108,22 @@ OR
 2. Type **devmgmt.msc** and click**OK** to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
@@ -154,21 +152,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-from-couch-to-camera-earning-through-personal-vlogging/"><u>[New] 2024 Approved From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-election-excursions-best-gamified-democracy-sites/"><u>[Updated] Election Excursions Best Gamified Democracy Sites</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ideal-environments-for-digital-streaming/"><u>[Updated] Ideal Environments for Digital Streaming</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-art-of-adding-audio-storytelling-to-video-content/"><u>[Updated] In 2024, The Art of Adding Audio Storytelling to Video Content</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-future-of-youtube-branding-top-titles-for-video-content-creators-limited-to-156-characters/"><u>[Updated] In 2024, The Future of Youtube Branding Top Titles for Video Content Creators (Limited to 156 Characters)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-logitech-g430-mic-connection-problems/"><u>Diagnosing and Repairing the Logitech G430 Mic Connection Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-restoring-realtek-microphone-functionality/"><u>Diagnosing and Restoring Realtek Microphone Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repairs-how-to-restore-functionality-to-your-sound-blaster-mic/"><u>DIY Repairs: How to Restore Functionality to Your Sound Blaster Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-world-of-warcraft-voice-chat-failures-and-interruptions/"><u>Effective Fixes for World of Warcraft Voice Chat Failures and Interruptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-dealing-with-hyperx-cloud-alpha-microphone-failures/"><u>Expert Advice: Dealing With HyperX Cloud Alpha Microphone Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-why-isnt-my-razor-kraken-mic-working-and-how-to-solve-it/"><u>Expert Advice: Why Isn't My Razor Kraken Mic Working and How to Solve It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-and-improve-your-discord-voice-call-experience/"><u>Expert Tips to Restore and Improve Your Discord Voice Call Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-digital-de-drumming-guide-simplifying-the-silencing-of-percussion-in-music-files/"><u>In 2024, Digital De-Drumming Guide Simplifying the Silencing of Percussion in Music Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-efficient-language-conversion-a-comprehensive-guide/"><u>Leveraging ChatGPT for Efficient Language Conversion: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/strategies-for-full-time-workers-who-create-videos-for-2024/"><u>Strategies for Full-Time Workers Who Create Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-soundscape-storytelling-at-its-best/"><u>[New] Soundscape Storytelling at Its Best</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-finest-8-websites-3d-and-luxurious-text/"><u>[Updated] Explore the Finest 8 Websites 3D & Luxurious Text</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cherished-holiday-hits-our-top-10-family-friendly-films-for-2024/"><u>Cherished Holiday Hits Our Top 10 Family-Friendly Films for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discover-the-fix-enabling-sound-in-game-streams-on-discord/"><u>Discover the Fix: Enabling Sound in Game Streams on Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-a-malfunctioning-webex-mic-this-year/"><u>Essential Fixes for a Malfunctioning Webex Mic This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-mic-in-rec-room-for-windows-users-a-2024-tutorial/"><u>How to Repair a Malfunctioning Mic in Rec Room for Windows Users - A 2024 Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-perfect-sound-quality-in-cyberpunk-2077-clear-audio-solutions/"><u>How to Restore Perfect Sound Quality in Cyberpunk 2077 - Clear Audio Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-a14-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A14 5G FRP Bypass</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-vivo-y100-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y100 5G Lock Screen Password</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-recordwin11-no-fuss-easy-screen-recorder-for-pcs/"><u>In 2024, RecordWin11 No-Fuss, Easy Screen Recorder for PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-lenovo-thinkphone-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Lenovo ThinkPhone? Fixed | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-functionality-how-to-troubleshoot-a-non-responsive-logitech-g430-microphone/"><u>Restoring Functionality: How to Troubleshoot a Non-Responsive Logitech G430 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-microphone-on-turtle-beach-stealth-60/"><u>Troubleshooting Guide: Fixing Non-Functional Microphone on Turtle Beach Stealth 60</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-microphones-top-fixes-that-work/"><u>Troubleshooting Quiet Microphones: Top Fixes That Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-2024-updates-in-rainbow-six-siege-voice-chat-issues/"><u>Troubleshooting Steps to Resolve 2024 Updates in Rainbow Six Siege Voice Chat Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-premium-entertainment-elevate-your-home-with-hitachis-4k-uhd-televisions-and-roku-integration/"><u>Unlock Premium Entertainment: Elevate Your Home with Hitachi's 4K UHD Televisions and Roku Integration</u></a></li>
 </ul></div>
 

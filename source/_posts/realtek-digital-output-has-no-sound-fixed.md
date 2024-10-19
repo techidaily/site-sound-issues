@@ -1,7 +1,7 @@
 ---
 title: Realtek Digital Output Has No Sound [Fixed]
-date: 2024-09-10T13:02:19.414Z
-updated: 2024-09-11T13:02:19.414Z
+date: 2024-10-12T03:23:13.064Z
+updated: 2024-10-18T22:18:46.908Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
  If this is also you, and your Realtek microphone is not working no matter what software programs you’re using: Skype, Zoom, and all sorts of multi-player games, don’t worry: you’re definitely not alone. This has been a long-term problem for Windows users since Windows 7\. Here we have some fixes that’ll help to get this problem sorted. Read on and see what more you can do.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes for the Realtek microphone not working problem
 
@@ -54,20 +51,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2\. Update Windows
 
  If the Realtek microphone not working problem just happens all of a sudden, it’s likely related to outdated or faulty system files. This is because outdated or corrupted system files could cause compatibility issues with computer services such as audio ones. To make sure that you have the latest available updates installed:
@@ -77,40 +60,20 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Then try your Realtek microphone again to see if it works properly now. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update the sound card driver
 
@@ -125,33 +88,14 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. Restart your PC for the changes to take effect.
 
@@ -160,20 +104,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
  Try your Realtek microphone again and see if the latest sound card driver helps to fix the problem. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Use the sound card driver from your computer manufacturer
 
@@ -187,19 +117,12 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-53.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  For instance, my keyword combination should be**Dell Vostro 3670 driver download**
 
@@ -209,25 +132,18 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Repair corrupted or damaged system files
 
@@ -239,6 +155,14 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -246,20 +170,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. Update BIOS
 
@@ -281,6 +191,13 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Final thought
 
  If you’ve tried fixes 1 to 6 mentioned here but are a bit reluctant to try a system reset, you can also an easier (and rather inexpensive) alternative: an external USB sound card.
@@ -299,8 +216,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -308,12 +223,23 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-non-commercial-android-recorder-choice/"><u>[New] 2024 Approved Essential Guide Non-Commercial Android Recorder Choice</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-top-30-freefire-hashtags-for-amplifying-video-growth-for-2024/"><u>[New] Discover the Top 30 FreeFire Hashtags for Amplifying Video Growth for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-frosty-flourishes-at-the-winter-games/"><u>[New] Frosty Flourishes at the Winter Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-professional-camera-techniques-for-superior-igtv-videos-for-2024/"><u>[New] Mastering Professional Camera Techniques for Superior IGTV Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-list-of-sites-to-download-stylish-text-files/"><u>[New] Ultimate List of Sites to Download Stylish Text Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-3d-lut-development-course/"><u>2024 Approved Comprehensive 3D LUT Development Course</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-service-outage-resolving-the-problem-for-single-or-grouped-systems-efficiently/"><u>Audio Service Outage - Resolving the Problem for Single or Grouped Systems Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-a-broken-corsair-virtuoso-microphone-a-comprehensive-guide/"><u>Diagnosing and Fixing a Broken Corsair Virtuoso Microphone: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-easily-open-your-realtek-hd-audio-controller-solutions-proven-effective/"><u>How to Easily Open Your Realtek HD Audio Controller - Solutions Proven Effective!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nightly-serenity-with-asmr-top-choices-to-listen-to-for-2024/"><u>Nightly Serenity with ASMR Top Choices to Listen To for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-not-working-heres-how-to-fix-it/"><u>Razer Kraken Microphone Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-activeinactive-audio-services-a-comprehensive-guide/"><u>Resolving Issues with Active/Inactive Audio Services - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-a-comprehensive-fix-for-speakers-not-working-in-windows-11/"><u>Restoring Sound: A Comprehensive Fix for Speakers Not Working in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-fixing-windows-entry-point-not-found-errors/"><u>Step-by-Step Solution for Fixing Windows 'Entry Point Not Found' Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-back-your-soundscape-a-step-by-step-guide-for-fixing-audio-in-windows-11/"><u>Winning Back Your Soundscape: A Step-by-Step Guide for Fixing Audio in Windows 11</u></a></li>
+</ul></div>
 

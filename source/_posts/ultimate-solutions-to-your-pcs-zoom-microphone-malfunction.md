@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solutions to Your PC's Zoom Microphone Malfunction
-date: 2024-09-10T13:00:57.632Z
-updated: 2024-09-11T13:00:57.632Z
+date: 2024-10-15T19:30:52.381Z
+updated: 2024-10-19T02:43:00.231Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 
  Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fixes to try
 
@@ -57,25 +34,12 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Method 1: Check your microphone device settings
 
@@ -89,111 +53,68 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -208,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 **2)**  Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
@@ -238,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,12 +173,20 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-disc-replay-a-look-at-the-goofy-giggle-fest/"><u>[New] Disc Replay A Look at 'The Goofy Giggle-Fest'</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-20-proven-techniques-for-facebook-video-ads/"><u>[Updated] 2024 Approved The Ultimate Guide 20 Proven Techniques for Facebook Video Ads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/continuous-sound-problems-on-windows-10-effective-fixes-and-workarounds/"><u>Continuous Sound Problems on Windows 10: Effective Fixes & Workarounds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/experience-the-best-of-both-worlds-a-seamless-blend-of-retro-charm-and-future-technology-in-a-fanless-mini-pc-with-cutting-edge-usb4-ssds/"><u>Experience the Best of Both Worlds: A Seamless Blend of Retro Charm and Future Technology in a Fanless Mini PC with Cutting-Edge USB4 SSDs</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-gionee-f3-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Gionee F3 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-cameras-for-pixel-art-animation/"><u>In 2024, Best Cameras for Pixel Art Animation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-play-7t-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor Play 7T to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-intersection-of-reality-and-illusion-through-ar/"><u>In 2024, The Intersection of Reality and Illusion Through AR</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-discord-audio-issues-once-and-for-all-with-our-2024-comprehensive-fix-guide/"><u>Solve Your Discord Audio Issues Once and For All with Our 2024 Comprehensive Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015779749-steelseries-arctis-e-headset-mic-issues-heres-how-to-get-it-working-again/"><u>SteelSeries Arctis E Headset Mic Issues? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamlining-marketing-efforts-discover-8-crowdflower-features/"><u>Streamlining Marketing Efforts: Discover 8 CrowdFlower Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-microphone-working-in-zoom-expert-tips-for-pc-users/"><u>Why Isn't My Microphone Working in Zoom? Expert Tips for PC Users</u></a></li>
+</ul></div>
 

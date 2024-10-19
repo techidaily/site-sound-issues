@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive Speakers in Windows 10 - Step-by-Step Instructions
-date: 2024-09-10T13:05:29.496Z
-updated: 2024-09-11T13:05:29.496Z
+date: 2024-10-16T02:03:41.897Z
+updated: 2024-10-18T20:03:43.149Z
 tags:
   - win11
   - win10
@@ -25,13 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Option 1: Try the generic audio driver
 
@@ -43,19 +40,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
@@ -63,35 +47,8 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -107,37 +64,9 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If your computer sound still keeps cutting out, please move on to the next option.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Option 2: Change Sound Enhancement Settings
 
@@ -147,74 +76,36 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Option 3: Change Speaker Settings
 
@@ -223,21 +114,16 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
-3. Click**Next** to move forward from the sound test.  
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
+3. Click**Next** to move forward from the sound test.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
@@ -259,8 +145,6 @@ Read on and follow the easy-doing images below!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,12 +152,24 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/xploring-8-truly-effective-video-marketing-strategies-for-2024/"><u>[New] Exploring 8 Truly Effective Video Marketing Strategies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>[New] In 2024, Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-avi-to-gif-filmora-guide-for-pcmac/"><u>[New] Mastering AVI to GIF Filmora Guide for PC/Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-snicker-sphere-top-grade-no-charge-memes/"><u>[New] Snicker Sphere Top-Grade, No-Charge Memes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-4k-revolution-takes-flight-q500-review/"><u>2024 Approved The 4K Revolution Takes Flight - Q500 Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-and-complex-microphone-malfunctions-in-windows-7-a-comprehensive-solution/"><u>Common and Complex Microphone Malfunctions in Windows 7: A Comprehensive Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-solutions-for-turtle-beach-recon-70-microphone-malfunctions/"><u>Common Solutions for Turtle Beach Recon 70 Microphone Malfunctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatbots-chatgpt-vs-claude-which-delivers-superior-conversational-experience/"><u>Comparing Chatbots: ChatGPT Vs. Claude – Which Delivers Superior Conversational Experience?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-audio-verification-mastering-the-art-of-rapid-microphone-tests/"><u>Effortless Audio Verification: Mastering the Art of Rapid Microphone Tests</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-nvidias-high-def-audio-functionality-and-eliminate-silence/"><u>Expert Tips to Restore NVIDIA's High Def Audio Functionality and Eliminate Silence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-apex-solutions-for-when-your-game-has-no-audio/"><u>Fixing Silent Apex: Solutions for When Your Game Has No Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/full-diagnosis-and-treatment-for-beyond-the-wire-mic-troubleshooting/"><u>Full Diagnosis & Treatment for 'Beyond The Wire' Mic Troubleshooting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hearthstone-sound-problem-solved-guide-and-tips/"><u>Hearthstone Sound Problem Solved: Guide & Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/paws-and-play-androids-animal-simulator-choices/"><u>Paws and Play Android’s Animal Simulator Choices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quebra-de-silencio-expressoes-e-manifestacoes-do-portugues/"><u>Quebra De Silêncio: Expressões E Manifestações Do Português</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015582228-revive-your-battlefield-soundscape-quick-troubleshooting-for-bf4-no-audio-faults/"><u>Revive Your Battlefield Soundscape - Quick Troubleshooting for BF4 No Audio Faults.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Itel P55T | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehve Steps to Restore Sound on a Silent PC or Mac Speaker System
-date: 2024-09-10T13:00:17.166Z
-updated: 2024-09-11T13:00:17.166Z
+date: 2024-10-14T17:03:36.919Z
+updated: 2024-10-19T00:49:56.832Z
 tags:
   - win11
   - win10
@@ -31,20 +31,6 @@ External speakers such as Creative Pebble speakers are engineered with clear dia
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Install all Windows updates
 
  Windows updates are used to keep Microsoft Windows and several other Microsoft programs updated. They often include feature enhancements and security updates to protect Windows from the malware attacks which would probably lead to sound failures. Therefore, you should download and install the latest Windows updates to check if this helps you fix the issue.
@@ -63,19 +49,12 @@ Here’s how you can do this:
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Set your speakers as the default
 
@@ -84,27 +63,15 @@ Here’s how you can do this:
 1. From the bottom-right corner of your screen, right-click on the Speaker icon and select**Open Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
-3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
+3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
  Once you’ve done that, verify via the speaker icon in the taskbar that the audio is not muted and is turned up. Then you can test by playing a song. If your Creative Pebble speakers still won’t produce any sound, don’t worry, there are a few other fixes you can try.
 
@@ -125,38 +92,23 @@ Here’s how to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -173,38 +125,18 @@ Here’s how to update drivers with Driver Easy:
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
 2. Select your device and click**Next** to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
 
-
-
+![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
 
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Contact the customer service
 
@@ -222,8 +154,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +161,26 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-8-top-tier-free-video-communication-tools-for-enterprises-for-2024/"><u>[New] Exploring 8 Top-Tier Free Video Communication Tools for Enterprises for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unravel-the-power-of-wmp-in-audio-transition-from-cds-for-2024/"><u>[New] Unravel the Power of WMP in Audio Transition From Cds for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mobile-methods-for-capturing-snapchat-content-for-2024/"><u>[Updated] Mobile Methods for Capturing Snapchat Content for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategic-youtube-content-publishing-to-boost-view-counts/"><u>[Updated] Strategic YouTube Content Publishing to Boost View Counts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-seven-finest-stardew-valley-customizations-unveiled/"><u>2024 Approved The Seven Finest Stardew Valley Customizations Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro/"><u>Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-resolving-connectivity-and-functionality-problems-with-redragon-computer-microphones/"><u>Effective Fixes: Resolving Connectivity and Functionality Problems with Redragon Computer Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-performance-on-windows-10-for-optimal-sound-levels/"><u>Enhancing Audio Performance on Windows 10 for Optimal Sound Levels</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-inexpensive-ssl-certs-merits/"><u>Evaluating Inexpensive SSL Certs' Merits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-x50i-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor X50i Without PUK Codes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-vr-solutions-for-drone-flying/"><u>In 2024, Ideal VR Solutions for Drone Flying</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g633-headset-not-working-heres-how-to-get-it-up-and-running-again/"><u>Logitech G633 Headset Not Working? Here's How to Get It Up and Running Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016831586-overcoming-push-to-talk-difficulties-in-overwatch-solutions-included/"><u>Overcoming Push-to-Talk Difficulties in Overwatch - Solutions Included!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-your-hyperx-cloud-alpha-headset-mic-a-comprehensive-guide/"><u>Resolving Issues with Your HyperX Cloud Alpha Headset Mic: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-strategies-for-bose-speaker-failure-problems/"><u>Solution Strategies for Bose Speaker Failure Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-idt-advanced-audio-codec-driver-issues-in-windows-11/"><u>Step-by-Step Solutions for IDT Advanced Audio CODEC Driver Issues in Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-essential-handbook-for-iphone-time-reversal-for-2024/"><u>The Essential Handbook for iPhone Time-Reversal for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-your-audio-potential-fixing-the-realtek-hd-audio-manager-not-opening-issue/"><u>Unlock Your Audio Potential: Fixing the Realtek HD Audio Manager Not Opening Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-hdmi-audio-fix-a-comprehensive-solution-guide/"><u>Windows 7 HDMI Audio Fix: A Comprehensive Solution Guide</u></a></li>
+</ul></div>
 

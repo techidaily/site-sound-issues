@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fortnite Microphone Issues: Solutions & Fixes"
-date: 2024-09-10T13:07:13.152Z
-updated: 2024-09-11T13:07:13.152Z
+date: 2024-10-11T23:14:09.687Z
+updated: 2024-10-18T23:05:52.997Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800
 
 Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arctis Pro has no sound or the mic is not working, we’ve put together all the troubleshooting methods for you in our post.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Why your headset mic is not working
 
@@ -61,25 +44,18 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
 
@@ -94,26 +70,6 @@ Here’s how to do it:
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
@@ -133,31 +89,25 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
@@ -167,39 +117,18 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update the headset driver
 
@@ -219,19 +148,12 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
@@ -239,6 +161,13 @@ Here’s how to do it:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Make sure to use the correct Default Format
 
@@ -249,26 +178,6 @@ Here’s how to do it:
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -294,8 +203,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,12 +210,18 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-quintessential-guide-to-music-and-voiceovers-in-reels/"><u>[New] 2024 Approved The Quintessential Guide to Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb/"><u>[Updated] 2024 Approved Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-for-non-responsive-mic-on-apple-earpods-with-windows-11-setup/"><u>Comprehensive Fixes for Non-Responsive Mic on Apple EarPods with Windows 11 Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-rectifying-tozo-t6-connectivity-issues-on-windows-11/"><u>Diagnosing and Rectifying Tozo T6 Connectivity Issues on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-infinix-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Infinix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-pcs-rec-room-mic-issues-expert-tips/"><u>How to Repair Your PC's Rec Room Mic Issues: Expert Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-elevating-visual-quality-with-video-enhancer-v22/"><u>In 2024, Elevating Visual Quality with Video Enhancer V2.2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/multiple-webcams-compatible-software-discover-manycams-features/"><u>Multiple Webcams Compatible Software: Discover ManyCam's Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sound-issues-in-microsofts-latest-os-windows-11-effective-solutions-revealed/"><u>Overcoming Sound Issues in Microsoft's Latest OS, Windows 11 - Effective Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-the-razer-blackshark-v2-microphone-malfunction/"><u>Step-by-Step Guide: Repairing the Razer BlackShark V2 Microphone Malfunction</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme V30T | Dr.fone</u></a></li>
+</ul></div>
 

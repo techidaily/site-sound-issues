@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: How to Repair Your Astro A20 Microphone Issue"
-date: 2024-09-10T13:06:54.049Z
-updated: 2024-09-11T13:06:54.049Z
+date: 2024-10-13T19:44:37.721Z
+updated: 2024-10-18T23:17:18.907Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 
  Your**Astro A50 headset microphone** is not working properly? You’re not the only one! Many users are having the same issue. This is incredibly frustrating; you can’t talk to people on your headset. But don’t worry. It can be fixed…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fixes to try
 
@@ -42,92 +39,48 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 1. **Hold down the Windows logo** **key**  and**press the R** **key** on your keyboard at the same time to bring up the Run dialog, then type “_**control**_ ” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select**Large icons** from the**View by** drop down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 3. Select **Sound** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 4. Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 5. Right click the**Headset Microphone** and click **Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 6. Right click it again and select **Set as Default Device** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 7. Right click**Headset Microphone** and click**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 8. Click the**Levels** tab, then drag the volume slider towards the_largest value_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 9. Click**OK** , then click**OK** .
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Method 2: Update your audio drivers
 
@@ -142,18 +95,12 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 3. Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
@@ -161,19 +108,12 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 
  Once you’ve updated the driver for your Astro A50 headset, restart your computer. Then log in again and see if the microphone is working.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -194,8 +134,6 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,12 +141,19 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>[New] In 2024, Learn to Leverage Telegram A Comprehensive Online Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations-for-2024/"><u>[New] Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capture-memories-in-high-quality-a-comprehensive-guide-to-logitech-webcam-use/"><u>2024 Approved Capture Memories in High Quality A Comprehensive Guide to Logitech Webcam Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-methods-to-get-your-astro-a20-mic-working-again/"><u>Effortless Methods to Get Your Astro A20 Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-audacity-error-opening-sound-device-issue-5-solutions/"><u>Fix Audacity Error Opening Sound Device Issue [5 Solutions]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-12-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-se-2020-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone SE (2020) i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inject-photos-with-rotational-blur-effects-in-photosoph/"><u>Inject Photos with Rotational Blur Effects in PHOTOSOPH</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-suggestions-10-hilarious-concepts-for-quick-quirky-videos-for-2024/"><u>Silly Suggestions 10 Hilarious Concepts for Quick, Quirky Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-world-of-warcraft-voip-problems-get-your-microphone-working/"><u>Solution Steps for World of Warcraft VOIP Problems – Get Your Microphone Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-windows-audio-error-disconnecting-phantom-headphones-and-speakers-on-win-10-8-and-7/"><u>Solve Your Windows' Audio Error: Disconnecting Phantom Headphones and Speakers on Win 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-logitech-g933-a-step-by-step-guide/"><u>Troubleshooting Silent Logitech G933: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No Audio Troubleshooting Guide for Call of Duty: Black Ops Cold War on PC"
-date: 2024-09-10T13:07:59.495Z
-updated: 2024-09-11T13:07:59.495Z
+date: 2024-10-15T23:32:22.745Z
+updated: 2024-10-19T03:50:30.643Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arctis Pro has no sound or the mic is not working, we’ve put together all the troubleshooting methods for you in our post.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Why your headset mic is not working
 
@@ -77,20 +60,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
@@ -99,19 +68,12 @@ Here’s how to do it:
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Set your headset as the default device
 
@@ -123,37 +85,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -169,39 +117,18 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
 
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update the headset driver
 
@@ -221,19 +148,12 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
@@ -247,6 +167,13 @@ Here’s how to do it:
  1) On your keyboard, press the **Windows logo** key and the **R** key at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
@@ -276,8 +203,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,12 +210,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads/"><u>[Updated] 2024 Approved Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-on-demand-video-preservation/"><u>2024 Approved On-Demand Video Preservation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-evolution-of-dynamic-range-control-in-digital-photography/"><u>2024 Approved The Evolution of Dynamic Range Control in Digital Photography</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dell-audio-not-playing-heres-how-to-solve-it-swiftly-and-effectively/"><u>Dell Audio Not Playing? Here's How to Solve It Swiftly & Effectively</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/eufys-revolutionary-t8200-a-detailed-analysis-of-a-subscription-free-video-doorbell/"><u>Eufy's Revolutionary T8200: A Detailed Analysis of a Subscription-Free Video Doorbell</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-instant-access-to-updated-dolby-sound-drivers-compatible-with-windows-111081/"><u>Get Instant Access to Updated Dolby Sound Drivers Compatible with Windows 11/10/8.1</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/heartfelt-harmony-romes-seductive-speech/"><u>Heartfelt Harmony: Rome’s Seductive Speech</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-nonfunctional-wsreset-service-in-windows/"><u>How to Reactivate Nonfunctional WSReset Service in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-nvidia-graphics-output-problems-when-cable-is-loose/"><u>How To Resolve Nvidia Graphics Output Problems When Cable Is Loose</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-infinix-zero-5g-2023-turbo-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Infinix Zero 5G 2023 Turbo Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserve-creativity-the-role-of-nightshade-in-guarding-againnst-ai-generated-images/"><u>Preserve Creativity: The Role of Nightshade in Guarding Againnst AI-Generated Images</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-owar-mic-troubles-diagnosing-and-repairing-the-issue/"><u>Razer Man O'War Mic Troubles: Diagnosing and Repairing the Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016468926-steelseries-arctis-prime-microphone-problems-heres-how-to-fix-them/"><u>SteelSeries Arctis Prime Microphone Problems? Here’s How to Fix Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-microsoft-teams-microphone-problems-on-windows-11-and-windows-10-systems/"><u>Troubleshooting Microsoft Teams Microphone Problems on Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tips-to-maximize-volume-levels-in-windows-operating-systems/"><u>Ultimate Tips to Maximize Volume Levels in Windows Operating Systems</u></a></li>
+</ul></div>
 

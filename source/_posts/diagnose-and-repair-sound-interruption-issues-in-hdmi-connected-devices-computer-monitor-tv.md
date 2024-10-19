@@ -1,7 +1,7 @@
 ---
 title: Diagnose & Repair Sound Interruption Issues in HDMI-Connected Devices (Computer, Monitor, TV)
-date: 2024-10-11T00:09:28.300Z
-updated: 2024-10-13T01:22:45.369Z
+date: 2024-10-13T17:20:31.553Z
+updated: 2024-10-18T18:51:56.075Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348985cac7a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** If you connect your_headphone_ or your_speakers_ to the front audio jack, click the**Playback** tab. If you connect your_microphone_ , click the**Recording** tab.
@@ -52,10 +52,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348efb28884.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right click your_audio device_ , then click**Set as Default Device** . After that, click**OK** .
@@ -63,10 +63,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b34902f6d664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Check to see if you’re able to use your audio device.
@@ -91,16 +91,16 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3494ff64802.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Try the back audio jacks
 
@@ -125,19 +125,20 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-leveraging-pip-for-multitasking-in-edge-browser/"><u>[New] Leveraging PIP for Multitasking in Edge Browser</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-securing-your-ps4-adventures-with-advanced-recording/"><u>2024 Approved Securing Your PS4 Adventures with Advanced Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-complete-guide-to-compliant-twitter-videos/"><u>2024 Approved The Complete Guide to Compliant Twitter Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/audio-capturing-in-android-without-rooting-guide-for-2024/"><u>Audio Capturing in Android - Without Rooting [Guide] for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-v30-pro-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V30 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide/"><u>In 2024, Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pump-it-up-the-20-most-energizing-workout-playlists/"><u>In 2024, Pump It Up The 20 Most Energizing Workout Playlists</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y78-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y78 5G Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169184228-my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fixing-the-non-functional-fortnite-microphone-step-by-step-guide/"><u>Solved: Fixing the Non-Functional Fortnite Microphone – Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-undetected-headphones-on-your-windows-10-pc/"><u>Solving the Problem of Undetected Headphones on Your Windows 10 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-resolving-your-overwatch-push-to-talk-voice-chat-glitches/"><u>Step by Step: Resolving Your Overwatch Push-to-Talk Voice Chat Glitches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-headphone-malfunction-on-a-windows-7-pc/"><u>Step-by-Step Solution to Headphone Malfunction on a Windows 7 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/successful-installation-of-idt-hd-audio-codec-driver-on-windows-10-a-comprehensive-guide/"><u>Successful Installation of IDT HD Audio Codec Driver on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-becoming-an-active-participant-in-tiktok-lives/"><u>[Updated] 2024 Approved Becoming an Active Participant in TikTok Lives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-gaining-heavy-followers-and-verification-status-a-quick-guide-with-top-6-insights-for-2024/"><u>[Updated] Gaining Heavy Followers & Verification Status A Quick Guide with Top 6 Insights for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/abbyy-erleichtert-automatisierte-kreditorenbuchhaltung-mit-nahtloser-sap-integration-und-mobilen-funktionen/"><u>ABBYY Erleichtert Automatisierte Kreditorenbuchhaltung Mit Nahtloser SAP-Integration Und Mobilen Funktionen.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016139315-audio-restoration-tips-for-windows-11-users-say-goodbye-to-silence/"><u>Audio Restoration Tips for Windows 11 Users - Say Goodbye to Silence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-for-iphone-sounds-restoring-audio-functionality/"><u>DIY Repair Guide for iPhone Sounds – Restoring Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-sound-issues-in-the-popular-video-game-outriders/"><u>Expert Advice: Overcoming Sound Issues in the Popular Video Game, Outriders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-microsoft-teams-microphone-working-again-on-pc-tips-for-win11-and-win10-users/"><u>Getting Your Microsoft Teams Microphone Working Again on PC: Tips for Win11 and Win10 Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-90-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 90 Lite to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unveiling-concealed-intentions-the-art-of-snapchat-emojis/"><u>In 2024, Unveiling Concealed Intentions The Art of Snapchat Emojis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pc-brands-accused-of-overusing-the-term-ai-framework-raises-concerns-about-authenticity/"><u>PC Brands Accused of Overusing the Term 'AI' - Framework Raises Concerns About Authenticity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-in-windows-media-player-step-by-step-solutions-for-no-sound-issues/"><u>Reviving Audio in Windows Media Player: Step-by-Step Solutions for No Sound Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-when-event-searching-fails-on-iphones-calendar-app/"><u>Solutions When Event Searching Fails on iPhone's Calendar App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-low-sound-volume-problems-on-a-windows-10-computer/"><u>Solving Low Sound Volume Problems on a Windows 10 Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-over-silent-pcs-after-a-windows-10-update-a-simple-solution/"><u>Winning Over Silent PCs After a Windows 10 Update – A Simple Solution</u></a></li>
 </ul></div>
 

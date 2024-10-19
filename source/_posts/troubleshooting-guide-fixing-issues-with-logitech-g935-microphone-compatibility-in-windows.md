@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Issues with Logitech G935 Microphone Compatibility in Windows"
-date: 2024-09-10T13:02:55.896Z
-updated: 2024-09-11T13:02:55.896Z
+date: 2024-10-12T21:26:00.487Z
+updated: 2024-10-18T17:00:55.053Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/8497a84119e0a96a5c983db49610c81e2418d1546
 
  If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fixes for ‘Skype Microphone not working’
 
@@ -36,19 +33,12 @@ thumbnail: https://thmb.techidaily.com/8497a84119e0a96a5c983db49610c81e2418d1546
 
 ###
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
@@ -60,41 +50,15 @@ Follow these:
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 ###
 
@@ -104,37 +68,17 @@ Follow these:
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
-###
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+###
 
 ### Fix 3: Update your sound card driver
 
@@ -156,24 +100,12 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -185,8 +117,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,12 +124,22 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-begin-recording-your-webcam-via-vlc-player/"><u>[Updated] In 2024, Begin Recording Your Webcam via VLC Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-to-stop-that-persistent-hiss-in-your-sound-system/"><u>DIY Fixes to Stop that Persistent Hiss in Your Sound System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-audio-glitches-fixing-dell-sound-drivers-under-windows-7/"><u>Eliminate Audio Glitches: Fixing Dell Sound Drivers Under Windows 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175714264-explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-auditory-disruptions-in-your-computers-media-player-windows-10-or-7-resolution-steps-inside/"><u>How To Fix Auditory Disruptions in Your Computer's Media Player (Windows 10 or 7) - Resolution Steps Inside</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-11-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme 11 Pro Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-8-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Without a Passcode</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mend-noise-troubles-expert-solutions-to-the-logitech-g933-silent-setback/"><u>Mend Noise Troubles: Expert Solutions to the Logitech G933 Silent Setback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-in-and-out-of-ios-device-rescue-settings-with-ease/"><u>Navigate In & Out of iOS Device Rescue Settings with Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-fixes-for-stopped-fb-live-broadcasts/"><u>Quick Fixes for Stopped FB Live Broadcasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-silent-battlefield-troubleshooting-no-sound-for-apex-legends-players/"><u>Solve the Silent Battlefield: Troubleshooting No Sound for Apex Legends Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-80s-cinema-picks-must-watch-films-of-the-decade/"><u>Top 8 '80S Cinema Picks: Must-Watch Films of the Decade!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-fix-logitech-g230-microphone-issues/"><u>Troubleshooting Steps To Fix Logitech G230 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-and-cyberpunk-2077-how-to-overcome-silent-gameplay-solved/"><u>Windows 11 and Cyberpunk 2077: How to Overcome Silent Gameplay – Solved</u></a></li>
+</ul></div>
 

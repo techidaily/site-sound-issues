@@ -1,7 +1,7 @@
 ---
 title: "Solving Unknown Speaker Configurations in Windows 11: A Step-by-Step Guide"
-date: 2024-10-09T19:08:12.649Z
-updated: 2024-10-12T19:15:51.899Z
+date: 2024-10-13T03:46:59.967Z
+updated: 2024-10-18T16:23:00.587Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 6. [**Scan and pair Windows**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Reset Windows](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your device is working
 
  Before you start, you need to make sure the output device (speaker/headphone) is working without any issues.
@@ -50,22 +43,15 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
 
 If the output device works as expected, simply continue to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the troubleshooter
 
@@ -74,9 +60,38 @@ If the output device works as expected, simply continue to the next step.
 1. On the taskbar, click the search icon and type**troubleshooting** . Select**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-1.jpg)
 2. Select**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
 
@@ -92,16 +107,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
 If the issue lingers on, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -114,21 +129,14 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -146,20 +154,6 @@ If the issue lingers on, check out the next fix below.
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Scan and pair Windows
 
  In the worst case, you’re dealing with a system issue. It could mean that some critical files are**corrupted or missing** from your system, and it could also mean that some settings are**misconfigured** . Either way, if you don’t want a clean reinstall, you can**run a scan** and find out what went wrong.
@@ -170,9 +164,30 @@ If the issue lingers on, check out the next fix below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset Windows
 
@@ -213,20 +228,22 @@ If the issue lingers on, check out the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-generating-income-with-every-swipe-up/"><u>[New] In 2024, Generating Income with Every Swipe Up</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-optimizing-your-video-images-for-instagram-highlights/"><u>[Updated] Optimizing Your Video Images for Instagram Highlights</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easter-treat-for-creators-special-filmora-promo-code-offer-for-2024/"><u>Easter Treat for Creators Special Filmora Promo Code Offer for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-realme-c51-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Realme C51.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/trasforma-i-tuoi-file-mp3-gratuitamente-in-formato-wma-con-movavi-online/"><u>Trasforma I Tuoi File MP3 Gratuitamente in Formato WMA Con Movavi Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-functionality-of-lucidsound-ls30/"><u>Troubleshooting Guide: How to Restore Functionality of LucidSound LS30</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-why-your-steelseries-headsets-mic-isnt-working-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Your SteelSeries Headset's Mic Isn't Working and How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functioning-voice-chat-in-valorant/"><u>Troubleshooting Steps for a Non-Functioning Voice Chat in VALORANT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-communication-in-call-of-duty-vanguard/"><u>Troubleshooting Voice Communication in Call of Duty: Vanguard</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-window-117-speaker-glitches-clear-the-crackling-audio-now/"><u>Ultimate Fix for Window 11/7 Speaker Glitches: Clear the Crackling Audio Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tips-for-fixing-microphone-problems-in-windows-11/"><u>Ultimate Tips for Fixing Microphone Problems in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-tier-pc-components-with-toms-hardware-insights/"><u>Unveiling Top-Tier PC Components with Tom's Hardware Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-90-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-master-the-art-of-social-media-video-capture-with-5-leaders/"><u>[New] In 2024, Master the Art of Social Media Video Capture with 5 Leaders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-of-fluid-graphics-a-primer/"><u>2024 Approved Foundations of Fluid Graphics A Primer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-fundamentals-of-crafting-youtube-videos-from-scratch/"><u>2024 Approved The Fundamentals of Crafting YouTube Videos From Scratch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-voice-personalization-tips-for-instagram-users/"><u>2024 Approved Voice Personalization Tips for Instagram Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-connected-yet-mute-resolving-the-issue-on-pc/"><u>AirPods Connected Yet Mute: Resolving the Issue on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-sound-fixes-for-windows-10-users-say-goodbye-to-quiet-mode/"><u>Effortless Sound Fixes for Windows 10 Users – Say Goodbye to Quiet Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-12-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-apples-m1-pro-and-m1-max-key-distinctions/"><u>In 2024, Comparing Apple's M1 Pro and M1 Max Key Distinctions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-computation-the-leading-5-hardware-advancements-in-ai-field/"><u>Innovating Computation: The Leading 5 Hardware Advancements in AI Field</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-with-lucidsound-ls30-mics-fixes-and-solutions-for-optimal-performance/"><u>Overcoming Common Problems with LucidSound LS30 Mics - Fixes and Solutions for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-restore-audio-in-google-hangouts-when-the-mic-fails/"><u>Simple Steps to Restore Audio in Google Hangouts When the Mic Fails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-your-device-when-paired-via-bluetooth/"><u>Solved! How to Restore Sound on Your Device When Paired via Bluetooth</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-voice-chat-not-responding-problems-in-playerunknowns-battlegrounds/"><u>Solving 'Voice Chat Not Responding' Problems in PlayerUnknown's Battlegrounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-conversion-software-top-4k-downloads-for-youtubers-for-2024/"><u>Supreme Conversion Software Top 4K Downloads for YouTubers for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-a1-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo A1 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/warzone-microphonevoice-communication-problems-solved-for-both-desktop-and-gaming-systems/"><u>Warzone Microphone/Voice Communication Problems Solved for Both Desktop and Gaming Systems</u></a></li>
 </ul></div>
 

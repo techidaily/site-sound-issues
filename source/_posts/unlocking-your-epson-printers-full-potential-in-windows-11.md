@@ -1,7 +1,7 @@
 ---
 title: Unlocking Your Epson Printer's Full Potential in Windows 11
-date: 2024-09-10T13:00:15.270Z
-updated: 2024-09-11T13:00:15.270Z
+date: 2024-10-13T00:33:26.207Z
+updated: 2024-10-18T16:27:27.958Z
 tags:
   - win11
   - win10
@@ -18,20 +18,6 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167112d84d.jpg)
 
  If your**HP scanner is not working** , don’t worry. This is a common scanner problem and you can fix it quickly and easily.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Why is my HP scanner not working?
 
@@ -55,20 +41,6 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Check the connection issue
 
  To use your scanner, you need to make sure that your scanner is**powered on** in the first place.
@@ -79,20 +51,6 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
 **Windows Image Acquisition** **(WIA)** is a Microsoft model that allows graphics software to communicate with imaging hardware such as scanners and cameras. So you should enable WIA service in your computer if your scanner stops working. Here’s what you need to do:
@@ -101,32 +59,20 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Scroll down and double click**Windows Image Acquisition (WIA)** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd167eed749a.jpg)
 4. In the popup pane, ensure the**Startup type** is set**Automatic** , and the**Service status** is**Running** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd168549db26.jpg)  
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 5. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
 
@@ -136,6 +82,14 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1678201865.jpg)
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **Remote Procedure Call RPC**  
    * **DCOM Server Process Launcher**  
    * **RPC Endpoint Mapper**  
@@ -143,18 +97,18 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd169897b1a1.jpg)  
    **INFORMATION:**  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
 4. Save the changes and try your scanner again to see if it works.
@@ -181,42 +135,16 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the Update button next to your scanner to download the latest driver (you can do this with the FREE version), then install it on your computer.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Or click**Update All** to automatically download and install all problem drivers in your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -226,6 +154,13 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 Then try scanning with your scanner to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware problems
 
@@ -253,44 +188,19 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
-4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
 
 Restart your computer and see if your scanner begins to work.
 
@@ -304,19 +214,12 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
@@ -333,8 +236,6 @@ To fix your issues, follow the steps below to run a full scan of your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -342,4 +243,24 @@ To fix your issues, follow the steps below to run a full scan of your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-unveil-windows-xps-essential-movie-making-features/"><u>[New] Unveil Windows XP’s Essential Movie Making Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-11-pros-of-perfect-color-balancing-mastery/"><u>[Updated] 11 Pros of Perfect Color Balancing Mastery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-crafting-the-perfect-mc-homestead-layout/"><u>[Updated] 2024 Approved Crafting the Perfect MC Homestead Layout</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bluetooth-tethering-made-easy-a-comprehensive-guide-for-linking-your-android-device-to-a-laptop/"><u>Bluetooth Tethering Made Easy: A Comprehensive Guide for Linking Your Android Device to a Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-when-your-corsair-audio-device-stops-functioning/"><u>Effective Fixes for When Your Corsair Audio Device Stops Functioning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-repairing-microphone-connectivity-in-windows-11/"><u>Expert Advice: Repairing Microphone Connectivity in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-microphone-functionality-in-google-meet-across-windows-1110-platforms/"><u>Expert Tips for Restoring Microphone Functionality in Google Meet Across Windows 11/10 Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-microphone-functionality-during-a-zoom-call-on-pc/"><u>Guide: Restoring Microphone Functionality During a Zoom Call on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-low-volume-or-distorted-audio-on-your-iphone/"><u>How to Fix Low Volume or Distorted Audio on Your iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-broken-headphone-port-on-your-computer-or-laptop/"><u>How to Repair a Broken Headphone Port on Your Computer or Laptop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-an-insight-into-total-immersion-with-htc-vive-review/"><u>In 2024, An Insight Into Total Immersion with HTC Vive Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-x8b-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor X8b has been deleted.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-devices-detected-problem-on-pcs-with-windows-11-8-or-7/"><u>Resolving 'No Audio Devices Detected' Problem on PCs with Windows 11, 8, or 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-a-non-functional-tozo-t6-in-the-latest-windows-operating-system/"><u>Step-by-Step Fix for a Non-Functional Tozo T6 in the Latest Windows Operating System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-fix-for-your-hp-laserjet-1020-driver-woes-in-windows/"><u>Step-by-Step Fix for Your HP LaserJet 1020 Driver Woes in Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-4-methods-for-command-line-file-backups-on-windows-10/"><u>Top 4 Methods for Command Line File Backups on Windows 10</u></a></li>
+</ul></div>
 

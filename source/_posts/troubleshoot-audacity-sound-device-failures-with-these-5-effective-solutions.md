@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Audacity Sound Device Failures with These 5 Effective Solutions
-date: 2024-09-10T13:04:07.901Z
-updated: 2024-09-11T13:04:07.901Z
+date: 2024-10-15T23:03:07.161Z
+updated: 2024-10-18T16:51:07.525Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  Cloud Alpha S is still one of the most popular products of HyperX. But some users have reported their headset mic is not working. If you’re on the same boat, don’t worry. It’s rather easy to fix, and we’ve put together some working fixes for you. Read on and find out what they are…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes…
 
@@ -63,26 +46,6 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2: Enable your headset mic for recording
 
  When your microphone doesn’t have access to your PC to record your audio, it won’t work. Here’s how to enable your headset mic:
@@ -91,68 +54,34 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Set your headset as the audio input device
 
@@ -166,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  If your headset is set as the input device but the mic still won’t work, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Turn on the mic access on your PC
 
  If you’ve tried the above fixes but nothing worked, then the problem may be on your PC. You may need to check if the microphone access on your PC is enabled. Here’s now:
@@ -173,37 +109,24 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 1. Type**microphone** in the search bar next to the Start button, and click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
 If this doesn’t fix your mic problem, try the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Update your audio driver
 
@@ -223,6 +146,19 @@ If this doesn’t fix your mic problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully this article solves your problem and you can now use your HyperX Cloud Alpha S for voice chatting or recording! Please feel free to leave a comment if you have any suggestions or questions.
@@ -237,8 +173,6 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,12 +180,19 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/xplore-the-top-7-innovative-apps-for-effortless-youtube-live-broadcasts-on-iphone-and-android-for-2024/"><u>[New] Explore the Top 7 Innovative Apps for Effortless YouTube LIVE Broadcasts on iPhone and Android for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>[New] Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-audio-on-your-dell-device-in-minutes/"><u>Expert Tips to Restore Audio on Your Dell Device in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-cod-vanguard-voice-chat-working-again-troubleshooting-tips/"><u>Get Your Cod: Vanguard Voice Chat Working Again - Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-meet-not-recognizing-mic-heres-how-to-fix-it-on-windows-11-and-10-devices/"><u>Google Meet Not Recognizing Mic? Here's How to Fix It on Windows 11 & 10 Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2021-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2021</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-x50-gt-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor X50 GT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-live-broadcasts-using-manycam-the-premier-virtual-webcam-and-recording-tool/"><u>Master Live Broadcasts Using ManyCam – The Premier Virtual Webcam and Recording Tool</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-video-time-policy/"><u>Navigating Instagram's Video Time Policy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-disruption-in-apex-legends-an-experts-guide-to-solutions/"><u>Overcoming Voice Chat Disruption in Apex Legends: An Expert's Guide to Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-blue-yeti-mic-effective-solutions-for-when-it-goes-unrecognized-on-your-computer-system/"><u>Revive Your Blue Yeti Mic: Effective Solutions for When It Goes Unrecognized on Your Computer System</u></a></li>
+</ul></div>
 

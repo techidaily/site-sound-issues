@@ -1,7 +1,7 @@
 ---
 title: No Audio Post-Windows 11 Upgrade? Quick Fixes Inside!
-date: 2024-09-10T13:00:17.240Z
-updated: 2024-09-11T13:00:17.240Z
+date: 2024-10-15T17:28:27.438Z
+updated: 2024-10-18T19:45:32.037Z
 tags:
   - win11
   - win10
@@ -18,26 +18,6 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 Many people reported that**after Windows 10 update no soun** d available in computers, especially after Windows October 1809 update. Don’t worry. We’ll help you fix the no sound issue in your Windows computer.
 
  Why is there no sound after Windows 10 update? It’s likely that the new update causes conflicts with the sound card in your computer, or the update includes incompatible components with your sound card driver. Even the audio settings that are changed by the update can result in the issue.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -71,20 +51,6 @@ Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Check audio settings
 
  The improper audio settings can also result in the no sound issue in your computer, so you should configure the audio settings properly.
@@ -94,6 +60,14 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
  If your device has been the default device, you’ll see a green check mark next to your device.  
@@ -102,19 +76,12 @@ To do so:
 
 Still no luck? Okay, there’s one more thing to try.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Roll back your audio driver
 
@@ -125,59 +92,29 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -195,8 +132,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +139,19 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-exporting-mp3-files-from-watched-facebook-vids/"><u>[New] 2024 Approved Exporting MP3 Files From Watched Facebook Vids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/omprehensive-guide-to-downloading-standardized-youtube-images/"><u>[New] Comprehensive Guide to Downloading Standardized YouTube Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-pics-with-exceptional-resolution-your-ultimate-guide/"><u>[New] Free Pics with Exceptional Resolution Your Ultimate Guide</u></a></li>
+<li><a href="https://win-net.techidaily.com/estrategia-paso-a-paso-para-rescatar-informacion-de-un-disco-ssd-bloqueado/"><u>Estrategia Paso a Paso Para Rescatar Información De Un Disco SSD Bloqueado</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/flawless-audio-streaming-on-discord-a-users-guide-to-fixing-disruptions/"><u>Flawless Audio Streaming on Discord: A User's Guide to Fixing Disruptions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-non-functional-pebble-sound-systems-easily/"><u>How to Repair Non-Functional Pebble Sound Systems Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-issues-with-windows-computers-windows-10-and-7/"><u>Resolving Audio Issues with Windows Computers (Windows 10 and 7)</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151873699-share-fb-content-embrace-transfers-to-top-3-platforms/"><u>Share FB Content: Embrace Transfers to Top 3 Platforms!</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-social-diner-tiktoks-culinary-hotspots/"><u>The Social Diner TikTok’s Culinary Hotspots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-review-of-amplifis-hd-mesh-wi-fi-technology-your-solution-to-constant-connectivity/"><u>The Ultimate Review of Amplifi's HD Mesh Wi-Fi Technology – Your Solution to Constant Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-mycraft-lan-connection-issues/"><u>Troubleshooting Guide: Fixing Mycraft LAN Connection Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-f34-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy F34 5G Device</u></a></li>
+</ul></div>
 

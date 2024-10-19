@@ -1,7 +1,7 @@
 ---
 title: Fixes for Non-Functioning Mic Issue in Windows 11 & 10 During a Zoom Call
-date: 2024-09-10T13:07:30.424Z
-updated: 2024-09-11T13:07:30.424Z
+date: 2024-10-16T17:00:30.254Z
+updated: 2024-10-18T21:16:40.478Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
 
  Is Windows 11 the future? So far it’s still hard to tell. But right now, many users are already having**audio problems** on the latest Windows. If you’re also having no sound issues on Windows 11, don’t worry. In this tutorial, we’ll show you how to fix that easily and quickly.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -53,49 +36,28 @@ thumbnail: https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c949
 6. [**Scan and pair Windows**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Reset Windows](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Make sure your device is working
 
  Before you start, you need to make sure the output device (speaker/headphone) is working without any issues.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
 
 If the output device works as expected, simply continue to the next step.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the troubleshooter
 
@@ -107,50 +69,9 @@ If the output device works as expected, simply continue to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Configure output device properly
 
@@ -162,38 +83,25 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-1.jpg)
 2. Under**Output** , make sure to select your desired output device. Then click the device to view its property.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
 If the issue lingers on, check out the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update your audio driver
 
@@ -205,28 +113,23 @@ If the issue lingers on, check out the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -243,20 +146,6 @@ If the issue lingers on, check out the next fix below.
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 6: Scan and pair Windows
 
  In the worst case, you’re dealing with a system issue. It could mean that some critical files are**corrupted or missing** from your system, and it could also mean that some settings are**misconfigured** . Either way, if you don’t want a clean reinstall, you can**run a scan** and find out what went wrong.
@@ -268,6 +157,13 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -283,45 +179,35 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-1.jpg)
 2. Under**Recovery options** , click**Reset PC** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
 5. Follow the on-screen instructions to reset your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -335,8 +221,6 @@ If the issue lingers on, check out the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -344,12 +228,21 @@ If the issue lingers on, check out the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-elevating-film-previews-with-thoughtful-soundtrack-selection/"><u>[New] Elevating Film Previews with Thoughtful Soundtrack Selection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>[New] Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-vid-overview-top-tips-and-facts-now/"><u>2024 Approved Quick Vid Overview Top Tips & Facts Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-asus-rog-phone-8-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Asus ROG Phone 8 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-windows-11-bluetooth-functionality-restoration/"><u>Effective Solutions for Windows 11 Bluetooth Functionality Restoration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-your-razer-man-o-war-mic-when-it-stops-working/"><u>Expert Advice on Repairing Your Razer Man O' War Mic When It Stops Working</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/google-pixel-6-review/"><u>Google Pixel 6 Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x50i-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X50i to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/origin-game-platform-wont-start-on-windows-11-solution-found/"><u>Origin Game Platform Won't Start on Windows 11 – Solution Found!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-a-step-by-step-solution-to-reactivate-your-phasmophobia-games-voice-chat-feature/"><u>Overcoming Glitches: A Step-by-Step Solution to Reactivate Your Phasmophobia Game's Voice Chat Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-reactivate-sound-functionality-in-your-hp-notebook-with-windows-11/"><u>Solution Steps - Reactivate Sound Functionality in Your HP Notebook with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-a-malfunctioning-logitech-g43-cufflinks-mic/"><u>Troubleshooting Tips for a Malfunctioning Logitech G43 Cufflinks Mic</u></a></li>
+<li><a href="https://discover-best.techidaily.com/winxdvd-eula-comprehensive-guide-by-digiarty-software/"><u>WinXDVD EULA: Comprehensive Guide by Digiarty Software</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: It Takes Two No Sound or Audio Issue on PC Fix
-date: 2024-09-10T13:02:25.271Z
-updated: 2024-09-11T13:02:25.271Z
+date: 2024-10-15T19:10:51.514Z
+updated: 2024-10-18T23:07:13.348Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
  Many users are experiencing a**Chrome no sound** issue on their computer. If you happen to be in the same situation, don’t worry. It’s often quite easy to fix…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 8 Fixes for Chrome No Sound
 
@@ -67,20 +50,6 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Update your sound driver
 
  The**Chrome no sound** problem may occur if you’re using the wrong or corrupt sound driver on your system. So you should update your sound driver to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -95,55 +64,20 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd6217aadf1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e9cb799c4.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Restart your computer and check if sound works properly on Chrome. If the problem still exists, then move on to **Fix 3** , below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Check volume mixer
 
@@ -152,8 +86,30 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 1. Right-click on the sound icon  on the lower-right of your screen, then click**Open Volume Mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df14ca9334.jpg)
 2. Make sure you’ve moved the**volume slider** for**Chrome** to at least halfway up.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df24a53f15.jpg)  
  If the volume controller for Chrome isn’t listed here, you can play audio/video on Chrome and then it should pop up.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Re-launch Chrome and play some audio/video and see if you can hear the sound. If the Chrome no sound problem persists, move on to**Fix 4** , below.
 
 ---
@@ -166,47 +122,33 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-31.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Click the **Advanced**  tab. Then scroll down to **Multimedia** and check the box before **Play sounds in web pages** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-32.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Re-launch Chrome and check if you can hear sound from web apps. If the problem persists, don’t worry -here’re a few more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Clear cache and cookies
 
@@ -217,36 +159,16 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select**the time range** for the data cache clearing (Last 7 days in my example). Then click**CLEAR DATA** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Disable extensions
 
@@ -259,21 +181,14 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome and check if sound comes through. If yes, you can try to enable the extensions one by one until you find out the responsible one. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to**Fix 7** , below.
 
-
-
+---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
----
 
 ### Fix 7: Update Adobe Flash Player
 
@@ -319,8 +234,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -328,12 +241,22 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[New] 2024 Approved The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-what-every-independent-youtuber-should-know-about-mcns/"><u>[Updated] In 2024, What Every Independent YouTuber Should Know About MCNs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016073315-2024-tricks-fixing-call-of-dutys-silent-mode-for-a-better-gameplay-experience/"><u>2024 Tricks: Fixing Call of Duty's Silent Mode for a Better Gameplay Experience.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bust-the-silence-fixing-connectivity-problems-with-astro-a50s-mic/"><u>Bust the Silence: Fixing Connectivity Problems with Astro A50's Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-corsair-void-microphone-connection-issues/"><u>Effective Fixes for Corsair Void Microphone Connection Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-lenovo-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Lenovo Phones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-open-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus Open to Gmail | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-quiet-battles-resolving-black-ops-cold-wars-silent-sounds-on-pc/"><u>Overcoming Quiet Battles: Resolving Black Ops: Cold War's Silent Sounds on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-extensions-for-after-effects-magic/"><u>Premium Extensions for After Effects Magic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-problems-in-windows-10-for-a-perfect-listening-experience/"><u>Resolving Sound Problems in Windows 10 for a Perfect Listening Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-in-windows-10-a-step-by-step-guide/"><u>Restoring Audio Functionality in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-black-ops-cold-war-a-comprehensive-troubleshooting-guide-for-pc-gamers/"><u>Restoring Sounds in Black Ops Cold War: A Comprehensive Troubleshooting Guide for PC Gamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/telecharger-le-codec-h265-gratuitement-pour-la-lecture-video-en-ultra-haute-definition/"><u>Télécharger Le Codec H.265 Gratuitement Pour La Lecture Vidéo en Ultra Haute Définition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-keeping-iphones-email-sync-accurate/"><u>Troubleshooting Guide: Keeping iPhones Email Sync Accurate</u></a></li>
+</ul></div>
 

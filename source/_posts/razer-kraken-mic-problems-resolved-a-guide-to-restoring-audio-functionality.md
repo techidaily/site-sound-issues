@@ -1,7 +1,7 @@
 ---
 title: "Razer Kraken Mic Problems Resolved: A Guide to Restoring Audio Functionality"
-date: 2024-09-10T13:06:16.843Z
-updated: 2024-09-11T13:06:16.843Z
+date: 2024-10-12T16:15:38.054Z
+updated: 2024-10-18T23:06:45.639Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ When you’re trying to trick your friends by changing your voice in Discord, Zo
 
  But don’t worry because you’ve hit the right spot. Here we’ve put together some working solutions for you, try them and fix your problem right away.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -75,19 +52,6 @@ You can follow these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-system-sound-1.jpg)
 2. From the left menu, click**Sound** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-click-sound.jpg)
 3. First you need to test your microphone. Under the**Input** section, set your input device to the**physical one (e.g. Headset)** instead of the virtual Microphone of Voicemod. Then click**Device properties and test microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-test-mic-1.jpg)
@@ -95,90 +59,33 @@ You can follow these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 5. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx>0) percent** , it means your microphone is working correctly.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
 6. At the bottom right corner of your screen, right-click the sound icon and select**Sounds** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bottom-right-corner-sounds.jpg)
 7. Navigate to the**Recording** tab, double click your physical microphone to view its properties.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-recording-double-click-input-device.jpg)
-8. In the pop-up window, navigate to the**Advanced** tab. In the**Default Format** section, check if you can select the sample rate. If yes, change it to**2 channel, 16 bit, 44100 Hz (CD quality)** . Click**OK** .  
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-recording-double-click-input-device.jpg)
+8. In the pop-up window, navigate to the**Advanced** tab. In the**Default Format** section, check if you can select the sample rate. If yes, change it to**2 channel, 16 bit, 44100 Hz (CD quality)** . Click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/internal-microphone-advanced-default-format-sample-rate-new.jpg)
 9. In the window of step 7, select**Microphone Voicemod Virtual Audio Device** and click**Set Default** . Then click**OK** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-sound-set-default.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Now you can restart Voicemod and see if it’s working.
 
@@ -197,6 +104,13 @@ Here’s an example of Discord:
 
 If this doesn’t work for you, simply move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Voicemod drivers
 
  In some cases, the problem indicates you’re using**faulty or outdated drivers** . To fix that, you can simply reinstall the Voicemod driver.
@@ -208,8 +122,23 @@ First you need to uninstall the Voicemod driver:
 2. Click to expand**Audio inputs and outputs** . Right-click**Microphone (Voicemod Virtual Audio Device (WDM))** and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-reinstall-1.jpg)
 3. In the pop-up window, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/voicemod-reinstall-2.jpg)
 4. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next you’ll need to install the Voicemod driver. You can do that manually or automatically.
 
@@ -228,37 +157,16 @@ First you need to uninstall the Voicemod driver:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-voicemod-update-all.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve installed the Voicemod driver, restart your PC and see if you can change your voice with Voicemod.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Make sure Windows is up to date
 
@@ -271,25 +179,18 @@ Here’s a quick guide for that:
 2. Click**Check for updates** . Windows will then search and install the system updates automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  To make sure you’ve installed **all**  the system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -297,39 +198,18 @@ Here’s a quick guide for that:
 
 If this fix doesn’t work for you, simply try the next one below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 6: Overwrite current version with fresh install
 
  Some users reported that reinstalling could fix the Voicemod issue. You can try the same and see if this works. Note that this time we’re taking a different approach—instead of uninstalling, we just**overwrite the current version with the latest** .
 
  To do so, simply go to the[**Voicemode website**](https://www.voicemod.net/) and download the latest installer. Next open it and follow the on-screen instructions to proceed. This will automatically overwrite the previous build.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Scan and repair your system
 
@@ -341,25 +221,6 @@ If this fix doesn’t work for you, simply try the next one below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -375,8 +236,6 @@ If this fix doesn’t work for you, simply try the next one below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -384,12 +243,24 @@ If this fix doesn’t work for you, simply try the next one below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-how-to-effortlessly-convert-spoken-language-into-written-content-using-microsoft-word/"><u>[New] 2024 Approved How to Effortlessly Convert Spoken Language Into Written Content Using Microsoft Word</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-capture-igtv-media-step-by-step-guide-for-pc-and-mac-devices/"><u>[New] Capture IGTV Media Step-by-Step Guide for PC & Mac Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-effortless-integration-igtv-and-instagram-stories-for-2024/"><u>[Updated] Effortless Integration IGTV & Instagram Stories for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-thumbnails-demystified-mac-edition/"><u>2024 Approved YouTube Thumbnails Demystified - Mac Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/desktop-audio-recording-guide-using-obs-in-windows/"><u>Desktop Audio Recording Guide: Using OBS in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-tiktok-content-creation-using-advanced-editing-tools/"><u>Enhance Your TikTok Content Creation Using Advanced Editing Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-console-to-screen-efficient-recording-strategies/"><u>From Console to Screen Efficient Recording Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015656952-headphone-troubles-on-windows-11-heres-how-you-can-solve-it/"><u>Headphone Troubles on Windows 11? Here's How You Can Solve It</u></a></li>
+<li><a href="https://article-posts.techidaily.com/how-to-add-text-to-photos-on-windows-and-mac/"><u>How to Add Text to Photos on Windows and Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-voice-communication-glitches-in-discord/"><u>How to Repair Voice Communication Glitches in Discord</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-troubleshooting-for-windows-users-solutions-and-tips/"><u>MPOW Microphone Troubleshooting for Windows Users – Solutions and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solution-how-to-repair-your-google-hangouts-microphone-issue/"><u>Quick Solution: How to Repair Your Google Hangouts Microphone Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-your-plantronics-backbeat-pro-wireless-for-optimal-gaming-experience/"><u>Restoring Audio to Your Plantronics BackBeat Pro Wireless for Optimal Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-iphone-volume-dilemma-eliminate-total-loss-of-sound-and-clarity/"><u>Solving iPhone Volume Dilemma: Eliminate Total Loss of Sound and Clarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-to-restore-your-rec-room-mics-functionality-for-a-seamless-gaming-experience/"><u>Step-by-Step Tutorial to Restore Your Rec Room Mic's Functionality for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-in-the-latest-video-games/"><u>Troubleshooting Audio Problems in the Latest Video Games</u></a></li>
+</ul></div>
 

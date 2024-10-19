@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Your SteelSeries Arctis 1 Microphone Fails to Work"
-date: 2024-10-10T19:00:57.756Z
-updated: 2024-10-12T21:36:09.106Z
+date: 2024-10-14T02:20:04.555Z
+updated: 2024-10-19T02:44:57.321Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,25 +44,11 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
 
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
 
@@ -84,6 +63,19 @@ Here’s how to do it:
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
@@ -109,6 +101,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
  5) Select the microphone and click **Properties** .
@@ -122,6 +121,13 @@ Here’s how to do it:
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the headset driver
 
@@ -141,13 +147,6 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your SteelSeries Actis Pro, you can restart your computer and check if the microphone is working.
@@ -156,10 +155,10 @@ Here’s how to do it:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Make sure to use the correct Default Format
@@ -169,21 +168,28 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
+<span id="1983472">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -218,18 +224,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-how-to-halt-spotify-from-automatically-playing-podcasts-for-2024/"><u>[Updated] How to Halt Spotify From Automatically Playing Podcasts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-shortening-videos-for-instagram-mac-for-2024/"><u>[Updated] Mastering the Art of Shortening Videos for Instagram (Mac) for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-srt-file-conversion-simplified-with-os-support-for-2024/"><u>[Updated] SRT File Conversion Simplified with OS Support for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-cutting-edge-strategies-for-instagram-video-cropping/"><u>In 2024, Cutting-Edge Strategies for Instagram Video Cropping</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-speed-a-guide-to-rectifying-latency-problems-in-bless-unleashed-gaming-on-pc/"><u>Mastering the Art of Speed: A Guide to Rectifying Latency Problems in Bless Unleashed Gaming on PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-installation-downloading-the-latest-synaptics-touchpad-driver-version/"><u>Seamless Installation: Downloading the Latest Synaptics Touchpad Driver Version</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-transforming-your-mkv-files-into-high-efficiency-video-coding-hevc-format/"><u>Step-by-Step Guide: Transforming Your MKV Files Into High-Efficiency Video Coding (HEVC) Format</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-clearing-up-sound-disruption-problems-on-windows-pcs/"><u>Step-by-Step Solutions for Clearing Up Sound Disruption Problems on Windows PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-razer-kraken-solutions-for-when-your-mic-wont-work-anymore/"><u>Trouble with Razer Kraken? Solutions for When Your Mic Won't Work Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubled-by-an-inactive-nvidia-gpu-here-are-some-quick-fixes-to-try/"><u>Troubled by an Inactive Nvidia GPU? Here Are Some Quick Fixes to Try</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-headphone-port-on-your-laptop/"><u>Troubleshooting & Fixing a Non-Functional Headphone Port on Your Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-airpods-microphone-issues-on-windows-11/"><u>Troubleshooting AirPods Microphone Issues on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-a-comprehensive-guide-top-12-websites-for-gratis-photo-libraries/"><u>[New] 2024 Approved A Comprehensive Guide Top 12 Websites for Gratis Photo Libraries</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tips-for-efficient-music-import-in-inshot-app/"><u>[New] Tips for Efficient Music Import in InShot App</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-make-video-slideshow-with-your-travel-photos/"><u>2024 Approved How to Make Video Slideshow with Your Travel Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024s-step-by-step-solution-why-isnt-my-rust-mic-working-how-to-fix-it/"><u>2024'S Step-by-Step Solution: Why Isn't My Rust Mic Working? How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beyond-troubleshooting-expert-tips-for-restoring-redragon-pc-microphone-functionality-and-enhancing-sound-quality/"><u>Beyond Troubleshooting: Expert Tips for Restoring Redragon PC Microphone Functionality and Enhancing Sound Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-non-functional-redragon-mic-troubles-in-windows-operating-systems/"><u>Diagnosing and Solving Non-Functional Redragon Mic Troubles in Windows Operating Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721944431679-discover-how-you-can-supercharge-your-workflow-with-our-top-eb-of-9-chatgpt-plugins-get-started-today/"><u>Discover How You Can Supercharge Your Workflow With Our Top Eb of 9 ChatGPT Plugins - Get Started Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silence-how-to-resolve-lack-of-sound-issues-when-connecting-two-pcs/"><u>Fixing Silence: How to Resolve Lack of Sound Issues When Connecting Two PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-audio-issues-with-dell-devices-on-windows-7/"><u>How to Solve Audio Issues with Dell Devices on Windows 7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-buy-subscribers-wisely-watch-your-numbers-soar/"><u>In 2024, Buy Subscribers Wisely, Watch Your Numbers Soar!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-trasforma-i-tuoi-file-m4v-in-flv-gratuitamente-su-internet/"><u>Movavi: Trasforma I Tuoi File M4V in FLV Gratuitamente Su Internet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-glitches-fixing-windows-press-microphones-that-arent-functioning-properly-on-your-pc/"><u>Resolving Audio Glitches: Fixing Windows Press Microphones that Aren't Functioning Properly on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battlefield-no-more-overcome-pc-playback-troubles-in-call-of-duty-black-ops-cold-war/"><u>Silent Battlefield No More! Overcome PC Playback Troubles in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-windows-tenth-airpods-mic-glitches/"><u>Step-by-Step Guide: Resolving Windows Tenth Airpods Mic Glitches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-multimedia-with-pip-in-apple-browsers/"><u>Streamline Multimedia with PIP in Apple Browsers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-midland-lxt500vp3-in-detail-an-exploration-of-a-capable-radio-that-struggles-to-meet-expectations/"><u>The Midland LXT500VP3 in Detail: An Exploration of a Capable Radio that Struggles to Meet Expectations</u></a></li>
 </ul></div>
 

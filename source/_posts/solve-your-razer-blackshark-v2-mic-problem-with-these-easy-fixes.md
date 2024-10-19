@@ -1,7 +1,7 @@
 ---
 title: Solve Your Razer BlackShark V2 Mic Problem with These Easy Fixes
-date: 2024-10-12T04:37:41.736Z
-updated: 2024-10-12T18:05:26.365Z
+date: 2024-10-12T19:49:19.938Z
+updated: 2024-10-18T19:33:02.573Z
 tags:
   - win11
   - win10
@@ -40,49 +40,35 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your Sound settings
 
  Usually Windows will identify your plugged-in headset as the default playback/recording device, but that’s not always the case. To see if there’s anything wrong with the settings for your Razer ManO’War, please perform the following procedure:
 
  1) Click the speaker icon![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-26_14-41-05.jpg) in the notification area of your task bar. Then click**Sounds** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-101.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab, right-click an empty area inside the devices’ display list, and then tick**Show Disabled Devices** to ensure that your headset shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click to highlight**Razer ManO’War** , then click**Set Default > Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also right-click**Razer ManO’War** and check if it is disabled. If it is, select**Enable** to get your mic working.
 
@@ -90,15 +76,28 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-106.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the**Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click**OK** to save all the changes.
@@ -131,6 +130,13 @@ If this fix didn’t help, please try out the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall Razer Synapse
 
  Razer Synapse is a piece of configuration software developed by Razer to help you better control your Razer peripherals. To know more about its features, please refer to the[**official introduction**](https://www.razer.com/synapse-2#:~:targetText=Razer%20Synapse%20is%20our%20unified,settings%20automatically%20to%20the%20cloud.) of Razer Synapse.
@@ -143,31 +149,31 @@ If this fix didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-109.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On the next page, scroll down and select**Razer ManO’War** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-110.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**View software, drivers and updates for download >** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-111.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Find the one compatible with your operating system, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-114.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After downloading the correct file, install it on your PC. Then, launch Razer Synapse and configure the settings for your Razer ManO’War mic. Check to see whether your mic has gone back to normal; if it hasn’t, then please give the next fix a shot.
 
@@ -232,19 +238,20 @@ If this fix didn’t help, please try out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-guiding-principles-for-hiring-high-caliber-film-makers/"><u>[Updated] 2024 Approved Guiding Principles for Hiring High-Caliber Film Makers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-camtasia-9-unlock-the-art-of-ken-burns-easing-for-2024/"><u>[Updated] Camtasia 9 Unlock the Art of Ken Burns Easing for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-melodic-migration-6-preferred-free-apps-for-moving-youtube-audio-on-android/"><u>[Updated] Melodic Migration 6 Preferred Free Apps for Moving YouTube Audio on Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-master-recorders-impact-on-efficient-screen-capturing/"><u>2024 Approved Master Recorder's Impact on Efficient Screen Capturing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-14-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 14 Pro Max? Find the Best Solution Here</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enhance-audio-performance-and-fix-low-sound-in-windows-11/"><u>How to Enhance Audio Performance and Fix Low Sound in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-skype-microphone-problems-under-windows-11-step-by-step-solutions/"><u>How to Fix Skype Microphone Problems Under Windows 11 – Step-by-Step Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-mic-on-windows-7-solutions-for-common-audio-problems/"><u>How to Fix Your Mic on Windows 7: Solutions for Common Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-audio-on-hp-notebooks-with-easy-fixes-complete-guide/"><u>How to Resolve No Audio on HP Notebooks with Easy Fixes [COMPLETE GUIDE]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-feature-for-a-smooth-teamwork-in-back-4-blood/"><u>How to Restore Voice Chat Feature for a Smooth Teamwork in Back 4 Blood</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-audio-dilemma-in-windows-10-heres-how-to-restore-your-sound-output/"><u>HP Laptop Audio Dilemma in Windows 10? Here's How to Restore Your Sound Output</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/redesigning-instagram-blending-old-and-new-elements/"><u>Redesigning Instagram: Blending Old and New Elements</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-lenovo-tab-m10-hd-2020-unveiled-best-value-for-online-entertainment-and-connectivity-in-a-tablet/"><u>The Lenovo Tab M10 HD (2020) Unveiled: Best Value for Online Entertainment and Connectivity in a Tablet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-best-available-avi-player-with-cross-platform-support/"><u>[New] Best Available Avi Player with Cross-Platform Support</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-quick-guide-incorporating-more-photos-into-your-instagram-story/"><u>[Updated] 2024 Approved Quick Guide Incorporating More Photos Into Your Instagram Story</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-integrate-youtube-playlists-into-your-site/"><u>[Updated] How to Integrate YouTube Playlists Into Your Site</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y02t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y02T Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lure-inducing-title-engineer/"><u>2024 Approved Lure-Inducing Title Engineer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-discords-echo-complications-on-a-laptop-or-desktop/"><u>How to Resolve Discord's Echo Complications on a Laptop or Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-with-your-logitech-g533-mic-step-by-step-fixes/"><u>How to Resolve Problems with Your Logitech G533 Mic - Step-by-Step Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ideal-fullscreen-recorder-with-macpc-support-for-2024/"><u>Ideal Fullscreen Recorder with Mac/PC Support for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-distance-remote-podcast-broadcast/"><u>In 2024, Mastering Distance Remote Podcast Broadcast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-fix-solutions-for-when-its-unplugged/"><u>Realtek HD Audio Fix: Solutions for When It's Unplugged</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-onikuma-mic-effective-strategies-for-restoring-audio-input/"><u>Revive Your Onikuma Mic: Effective Strategies for Restoring Audio Input</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-headphone-not-working-in-windows-vehicle-7/"><u>Troubleshooting Guide: Resolving 'Headphone Not Working' In Windows Vehicle 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-fix-sound-malfunctions-in-conexant-smartaudio-hd-for-users-of-windows/"><u>Ultimate Guide to Fix Sound Malfunctions in Conexant SmartAudio HD for Users of Windows # -</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

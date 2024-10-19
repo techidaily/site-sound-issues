@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Stop Your Speakers From Humming"
-date: 2024-09-10T13:06:22.427Z
-updated: 2024-09-11T13:06:22.427Z
+date: 2024-10-14T01:39:36.333Z
+updated: 2024-10-19T01:42:45.969Z
 tags:
   - win11
   - win10
@@ -25,13 +25,10 @@ thumbnail: https://thmb.techidaily.com/c67ae945d13a65a17a2d97a04bd087435fddfcab7
 2. [Update your speakers related drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Reset your sound controller](https://tools.techidaily.com/drivereasy/download/)
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Method 1: Plug in and take out your headphone
 
@@ -44,26 +41,6 @@ thumbnail: https://thmb.techidaily.com/c67ae945d13a65a17a2d97a04bd087435fddfcab7
  2) Plug your headphone in laptop and take it out rather quickly. Try it with different speeds and for several times.
 
  3) After those testing, see if the sound comes from your speakers.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Method 2: Update your speakers related drivers
 
@@ -89,19 +66,12 @@ Or click **Update All**  to automatically download and install the correct versi
 
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Method 3\. Reset your sound controller
 
@@ -113,20 +83,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Right-click on your sound card to choose**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c40611eb6.png)
@@ -135,59 +91,44 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3e821f53.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
 
@@ -199,8 +140,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,12 +147,21 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-simplifying-gif-design-for-beginners-for-2024/"><u>[New] Simplifying GIF Design for Beginners for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>[Updated] In 2024, Enhancing Engagement Creating Top-Tier FB Ad Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-best-in-class-our-comprehensible-guide-to-top-12-vlogging-cameras/"><u>[Updated] The Best in Class Our Comprehensible Guide to Top 12 Vlogging Cameras</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chat-fixes-quick-guide-for-better-gaming-experience/"><u>Apex Legends Voice Chat Fixes: Quick Guide for Better Gaming Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/decoding-the-capabilities-of-samsung-photo-studio/"><u>Decoding the Capabilities of Samsung Photo Studio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-league-of-legends-troubleshooting-voice-chat-issues/"><u>Fixing League of Legends: Troubleshooting Voice Chat Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-rectify-window-11s-non-responsive-menu-bar/"><u>Guidelines to Rectify Window 11'S Non-Responsive Menu Bar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015570298-mac-no-sound-problem-heres-how-you-can-get-it-working-again/"><u>Mac No Sound Problem? Here’s How You Can Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016667006-microphone-diagnosis-a-fast-track-to-perfect-sound-quality/"><u>Microphone Diagnosis: A Fast Track to Perfect Sound Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/microsoft-teams-not-hearing-you-fix-your-mic-issues-in-windows-11-or-10-with-these-tips/"><u>Microsoft Teams Not Hearing You? Fix Your Mic Issues in Windows 11 or 10 with These Tips!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-get-adobe-premiere-pro-cs6-mac-edition-free-download-link/"><u>New 2024 Approved Get Adobe Premiere Pro CS6 Mac Edition (Free Download Link)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-upgrade-to-the-latest-drivers-for-your-nvidia-rtx-2080-on-windows-systems-windows-1011/"><u>Step-by-Step: Upgrade to the Latest Drivers for Your NVIDIA RTX 2080 on Windows Systems (Windows 10/11)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-logitech-m510-mouse-drivers-made-easy/"><u>Troubleshooting and Updating Logitech M510 Mouse Drivers Made Easy</u></a></li>
+</ul></div>
 

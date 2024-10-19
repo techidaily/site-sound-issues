@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Get Your SteelSeries Arctis Prime Microphone Back Up and Running"
-date: 2024-09-10T13:00:15.484Z
-updated: 2024-09-11T13:00:15.484Z
+date: 2024-10-16T23:40:11.770Z
+updated: 2024-10-19T02:05:37.714Z
 tags:
   - win11
   - win10
@@ -19,20 +19,6 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
  SteelSeries Arctis Prime gaming headset is the new release of the Arctis line. It features the Hi-Fi audio drivers from Arctis Pro, and provides decent sound quality at a reasonable price. But some users have been reporting their**mics aren’t working** . The good news is there are some known fixes available. Read on and find out what they are…
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -47,19 +33,12 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
 [5: Install the latest SteelSeries Engine software](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Before we dive into anything advanced…
 
@@ -70,55 +49,14 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 **2: Unmute your mic.** On the left earcup of your Arctis Prime, there are two controls, one for muting/unmuting your pic, and one for volume control. You need to make sure your mic is unmuted by pressing the mic mute button and test your audio.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/feature_arctis_prime_d_controls-1.jpg__1920x700_q100_crop-scale_optimize_subsampling-2-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3:**Bonus discounts** ![ SteelSeries Coupons](https://tools.techidaily.com/drivereasy/download/) are now available on DE coupon site. Don’t miss the deal and remember to grab your promo code before you make the purchase!
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 1: Set your headset as the input device
 
@@ -128,35 +66,8 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/search-sound-input.jpg)
 2. Choose your Arctis Prime headset as the input device.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  If the input device on your PC has been set as your headset but your mic still doesn’t work, try the next fix.
 
@@ -172,20 +83,14 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
  If your headset mic is enabled for recording but it still won’t pick up your voice in-game, move on to the next fix.
 
@@ -207,21 +112,21 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
- The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Turn on the microphone access on your PC
 
@@ -230,29 +135,17 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 1. In the search bar next to the Start button, type**microphone** then click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
 If your Arctis Prime microphone is still not working, try the last fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Install the latest SteelSeries Engine software
 
@@ -261,6 +154,14 @@ If your Arctis Prime microphone is still not working, try the last fix.
 1. Go to the[SteelSeries Engine official site](https://steelseries.com/engine) and download the software.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/download-steelseries-engine.jpg)
 2. Run the SteelSeries installer, and follow the on-screen instructions to finish the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once SteelSeries Engine is installed on your PC, run the software and it’ll automatically detect your Arctis Prime headset.
 4. Go to the headset page, and you can test your microphone using the**LIVE MIC PREVIEW** feature. You can also**adjust your mic volume** below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/mic-live-preview.jpg)
@@ -279,8 +180,6 @@ If your Arctis Prime microphone is still not working, try the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +187,26 @@ If your Arctis Prime microphone is still not working, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-financial-freedom-awaits-learn-these-8-ways-to-earn-on-tiktok/"><u>[Updated] 2024 Approved Financial Freedom Awaits Learn These 8 Ways to Earn on TikTok</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-best-tricks-to-make-your-silent-facebook-vids-sing-discover-12-steps/"><u>[Updated] 2024 Approved The Best Tricks to Make Your Silent Facebook Vids Sing – Discover 12 Steps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-8-authentic-youtube-boosting-platforms/"><u>[Updated] 2024 Approved Top 8 Authentic YouTube Boosting Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-best-tips-for-enhancing-obs-studio-edits/"><u>5 Best Tips for Enhancing OBS Studio Edits</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/balancing-price-and-performance-in-the-vixia-hf-r800/"><u>Balancing Price & Performance in the VIXIA HF R800</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-mac-computer-audio-issues-solutions-and-troubleshooting-guide/"><u>Fix Mac Computer Audio Issues: Solutions & Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g533-microphone-issues-solutions-and-tips/"><u>Fixing Logitech G533 Microphone Issues: Solutions & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-turtle-beach-microphone-issues-troubleshooting-guide/"><u>Fixing Turtle Beach Microphone Issues: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-fast-fixes-and-solutions/"><u>Fortnite Voice Communication Issues? Fast Fixes & Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-logitech-g933-mouse-a-step-by-step-audio-repair-guide/"><u>Getting the Most Out of Your Logitech G933 Mouse - A Step-by-Step Audio Repair Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-devices-found-for-your-headphones-on-windows-10/"><u>How to Resolve 'No Sound Devices Found' For Your Headphones on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restart-one-or-more-nonfunctional-audio-channels-successfully/"><u>How to Restart One or More Nonfunctional Audio Channels Successfully</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-7-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-tecno-spark-10c-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Tecno Spark 10C Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-15-upgrade-guide-picking-your-perfect-model-plus-vs-pro-max-edition/"><u>IPhone 15 Upgrade Guide - Picking Your Perfect Model, Plus Vs. Pro Max Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-timers-fixing-scheduler-errors/"><u>Master Your Timers: Fixing Scheduler Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-pc-sound-install-and-setup-new-speakers-with-windows-10/"><u>Mastering PC Sound: Install and Setup New Speakers with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-soundscape-heres-how-to-restore-your-warcraft-experience/"><u>No Soundscape? Here's How to Restore Your Warcraft Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-guide-to-tackling-windows-1astererror-0xc1900208-during-updates/"><u>Resolved Guide to Tackling Windows 1asterError 0Xc1900208 During Updates</u></a></li>
+</ul></div>
 

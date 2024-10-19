@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial to Silence Extra Sounds on Your Windows 11 Computer
-date: 2024-10-11T22:41:50.093Z
-updated: 2024-10-13T02:19:14.936Z
+date: 2024-10-12T17:52:16.950Z
+updated: 2024-10-18T19:21:14.019Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ After several patches, many gamers are still reporting a no sound/no dialogue au
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the connection of your audio device
@@ -44,13 +44,6 @@ After several patches, many gamers are still reporting a no sound/no dialogue au
  Let’s start with some easy troubleshooting. If your in-game audio isn’t working, first you want to**make sure the physical connection is robust** . Be sure the cable is not broken, and is securely plugged into the correct headphone jack. You can also try a replug and see if it gets your audio back. And if you’re using a headset with a volume switch, make sure it’s set to a moderate value.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the connection is fine, you can take a look at the next fix below.
 
@@ -63,16 +56,31 @@ Here’s how:
 1. On the bottom right corner of your screen, right-click the**Sound** icon and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings-1.jpg)
 2. Under the**Output** section, expand the menu below**Choose your output device** . Then select your desired output device. On the bar below**Master volume** , toggle the slider several times until you hear beeps coming out your device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-up-output-device.jpg)
 3. Now you can launch Cyberpunk 2077 and test the audio.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the problem remains, you can move on to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -94,6 +102,13 @@ If the problem remains, you can move on to the next method.
 
  If updating drivers doesn’t help you, simply take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Verify the integrity of your game files
 
  New games tend to be buggy, so there’ll be multiple patches after the release.[According to some gamers](https://forums.cdprojektred.com/index.php?threads/sound-issues.11040671/post-12308855) , the Cyberpunk 2077 no sound issue could be fixed by scanning and repairing game files. So you can try the same and see how it goes.
@@ -105,13 +120,6 @@ Here’re the guides on how to do that on different platforms:
 1. Launch GOG GALAXY 2.0\. From the left menu, select Owned games. Click the Cyberpunk picture.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-gog-1.jpg)
 2. Click the **Settings icon** next to the**Play** button. Hover your mouse cursor on**Manage installation** and select**Verify / Repair** . Then wait for the checking to complete.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-gog-2.jpg)
 
@@ -127,6 +135,14 @@ Here’re the guides on how to do that on different platforms:
 1. Open your Epic Games client. From the left menu, select**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/epic-games-launcher-library.jpg)
 2. Click the Cyberpunk 2077 tile and click the icon with three dots. Then click **Verify** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-epic-2.jpg)
 
  You might need to verify the game a couple of times to repair all the files.
@@ -145,21 +161,7 @@ Here’s how:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -182,24 +184,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-free-premiere-pro-templates/"><u>[New] Best Free Premiere Pro Templates</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-mediocre-to-marvelous-an-exhaustive-facetune-analysis/"><u>[New] From Mediocre to Marvelous An Exhaustive Facetune Analysis</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-accurate-speech-to-text-googles-breakthrough-approach-for-2024/"><u>[Updated] Accurate Speech-to-Text Google's Breakthrough Approach for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-itel-s23-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Itel S23 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mars-marvel-city-building-adventure-sparks-stellar-storms-and-endless-amusement/"><u>Mars Marvel: City-Building Adventure Sparks Stellar Storms and Endless Amusement</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/s-hottest-4k8k-video-editing-tools-a-comprehensive-guide-for-2024/"><u>S Hottest 4K/8K Video Editing Tools A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-cyberpunk-2077-heres-how-to-turn-up-the-volume-on-your-pc/"><u>Silent Cyberpunk 2077? Here's How to Turn Up the Volume on Your PC!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-logitech-g-pro-x-microphone-clicks-and-whistles-issue-a-step-by-step-guide/"><u>Solving the Logitech G Pro X Microphone Clicks and Whistles Issue : A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speaker-crackling-in-windows-117-solved/"><u>Speaker Crackling in Windows 11/7 [SOLVED]</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steam-cloud-connection-failure-fixes-and-solutions-explored/"><u>Steam Cloud Connection Failure - Fixes and Solutions Explored</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-broken-gaming-mic-on-runmjh-setup/"><u>Step-by-Step Fixes for a Broken Gaming Mic on RUNMJH Setup</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-mirroring-your-ipad-screen-using-airplay-on-mac-pc-and-apple-tv/"><u>Step-by-Step Guide: Mirroring Your iPad Screen Using AirPlay on Mac, PC & Apple TV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-remedies-for-resolving-pc-speaker-issues/"><u>Step-by-Step Remedies for Resolving PC Speaker Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-google-meet-microphone-malfunction-on-windows-operating-systems/"><u>Step-by-Step Solution for Google Meet Microphone Malfunction on Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-when-your-steelseries-arctis-pro-mic-stops-working/"><u>The Ultimate Fix for When Your SteelSeries Arctis Pro Mic Stops Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-restoring-sound-from-a-conexant-smartaudio-hd-in-windows-10/"><u>The Ultimate Guide to Restoring Sound From a Conexant SmartAudio HD in Windows 10</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-ranking-top-10-video-conferencing-apps-on-mobile-devices-for-2024/"><u>The Ultimate Ranking Top 10 Video Conferencing Apps on Mobile Devices for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-fortnite-microphone-heres-how-to-fix-it-quickly-and-easily/"><u>Trouble With Your Fortnite Microphone? Here's How to Fix It Quickly & Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-strategies-to-elevate-your-gopro-footage/"><u>[New] Expert Strategies to Elevate Your GoPro Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lightroom-mastery-the-top-10-lut-tools-for-expert-editors/"><u>[Updated] Lightroom Mastery – The Top 10 LUT Tools for Expert Editors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-steps-for-capturing-hd-content-on-fb/"><u>2024 Approved Steps for Capturing HD Content on FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerating-visuals-in-powerpoint-engagement-for-2024/"><u>Accelerating Visuals in PowerPoint Engagement for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11-speaker-malfunctions-a-step-by-step-fix/"><u>Diagnosing and Repairing Windows 11 Speaker Malfunctions – A Step-by-Step Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/elevating-speaker-levels-in-windows-11-simple-tweaks-and-adjustments/"><u>Elevating Speaker Levels in Windows 11 - Simple Tweaks and Adjustments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-manowar-microphone-issues-a-step-by-step-guide/"><u>Fixing Your Razer ManO'War Microphone Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-pc-when-playing-call-of-duty-warzone-latest-update/"><u>How to Restore Audio on Your PC When Playing Call of Duty: Warzone (Latest Update)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-reset-successfully-functioning/"><u>Lenovo Tap Reset Successfully Functioning</u></a></li>
+<li><a href="https://article-helps.techidaily.com/metaspace-contrasted-with-cosmic-universe/"><u>Metaspace Contrasted with Cosmic Universe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/netflix-issues-resolved-on-xbox-one-streaming-smoothly-again/"><u>Netflix Issues Resolved on Xbox One - Streaming Smoothly Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fix-laser-print-nozzle-blockage/"><u>Quick Fix: Laser Print Nozzle Blockage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-on-your-pc-running-windows-7-operating-system/"><u>Solving Sound Problems on Your PC Running Windows 7 Operating System</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/soundscapes-of-apple-in-the-realm-of-vids-for-2024/"><u>Soundscapes of Apple in the Realm of Vids for 2024</u></a></li>
 </ul></div>
 

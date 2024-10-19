@@ -1,7 +1,7 @@
 ---
 title: Mac Audio Not Working? Here’s How You Can Fix It Now!
-date: 2024-09-10T13:08:15.188Z
-updated: 2024-09-11T13:08:15.188Z
+date: 2024-10-15T02:55:56.068Z
+updated: 2024-10-18T17:46:16.909Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 
 Not to worry if your Nvidia High Definition Audio has no sound coming out: it’s quite usually seen, and it’s not that hard to fix at all. Here we have some fixes that have worked to fix the Nvidia High Definition Audio no sound or not working problem for many users, and you may want to try them as well.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Before we move further…
 
@@ -63,19 +46,12 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1\. Make sure your monitor has built-in speakers
 
@@ -87,19 +63,18 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-54.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ---
 
@@ -119,39 +94,18 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-56.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Select NVIDIA High Definition Audio as the output device
 
  Select Nvidia High Definition Audio from the last if you can see it. If you don’t have this option, please move on.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Try the generic Windows driver
 
@@ -161,19 +115,6 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Sound, video and game controllers** category, then right-click your**NVIDIA High Definition Audio** and select**Update driver** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-57.png)
 3. Select **Browse my computer for drivers** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-58.png)
@@ -181,25 +122,26 @@ Not to worry if your Nvidia High Definition Audio has no sound coming out: it’
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-59.png)
 5. Select **High Definition Audio Device**  from the list and click **Next** , then follow the on-screen instructions for the driver to be installed.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-60.png)
 6. Restart your computer afterward.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then see if your monitor has sound now. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clean install the Nvidia graphics card driver
 
@@ -213,40 +155,8 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
@@ -254,45 +164,26 @@ To do so:
 4. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 5. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 7. Then update your graphics card driver.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Option 1: Update your graphics driver manually
 
@@ -317,6 +208,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -335,8 +234,6 @@ To do so, first visit the website of your GPU manufacturer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -344,12 +241,23 @@ To do so, first visit the website of your GPU manufacturer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-scripting-journalisms-closing-statements/"><u>[New] Scripting Journalism's Closing Statements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-runmus-gaming-headset-mic-not-working/"><u>[Solved] RUNMUS Gaming Headset Mic Not Working</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-watch-instagram-live-anonymously-for-2024/"><u>[Updated] How to Watch Instagram Live Anonymously for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming/"><u>[Updated] Navigating the Convergence of OBS & Zoom for Enhanced Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-sleepy-screenplays-for-nights-end/"><u>2024 Approved Sleepy Screenplays for Night's End</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-and-restore-mic-functionality-during-google-meet-sessions-on-windows-11-and-10/"><u>Fix and Restore Mic Functionality During Google Meet Sessions on Windows 11 & 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/1722986899268-fortnite-login-woes-bypass-the-frustration-with-our-quick-fix-tips/"><u>Fortnite Login Woes? Bypass the Frustration with Our Quick Fix Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-infinix-hot-30i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Infinix Hot 30i without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-charting-earnings-from-youtube-adsense-what-you-can-expect-per-1000-views/"><u>In 2024, Charting Earnings From YouTube AdSense What You Can Expect per 1,000 Views</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016117555-logitech-g533-microphone-problems-heres-a-step-by-step-solution-for-you/"><u>Logitech G533 Microphone Problems? Here’s a Step-by-Step Solution for You!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g633-not-transmitting-audio-heres-how-you-can-repair-it/"><u>Logitech G633 Not Transmitting Audio? Here's How You Can Repair It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/phasmophobia-voice-chat-error-solutions-and-fixes-at-hand/"><u>Phasmophobia Voice Chat Error: Solutions and Fixes at Hand</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-troubleshooting-logitech-g533-microphone-issues/"><u>Quick Fix Guide: Troubleshooting Logitech G533 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-resolving-issues-with-your-laptops-sound-system/"><u>Solution Found: Resolving Issues with Your Laptop's Sound System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-solution-for-when-windows-says-mfc71dll-is-absent/"><u>The Ultimate Solution for When Windows Says mfc71.dll Is Absent</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 and Apple AirPods: Restoring Microphone Functionality in Simple Ways"
-date: 2024-09-10T13:04:53.667Z
-updated: 2024-09-11T13:04:53.667Z
+date: 2024-10-15T16:50:11.350Z
+updated: 2024-10-19T03:56:28.327Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
  **Recently we’ve seen many Logitech G230 users reporting that their mic is not working.**Although it’s very frustrating, you’re definitely not the only person to experience this issue.  More importantly,**you should be able to fix it pretty easily** …
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## **Try these fixes**
 
@@ -59,96 +42,24 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 8. Click **OK** .
 See if your Logitech G230 mic works. If not, try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -156,21 +67,22 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 
 1. On your keyboard, press the Windows logo key and I at the same time to open Windows Settings. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
-Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -189,7 +101,22 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -209,8 +136,6 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,12 +143,18 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-perfect-the-art-of-note-taking-mematic-way/"><u>[New] In 2024, Perfect the Art of Note-Taking - Mematic Way</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/becoming-an-expert-at-yt-studio-navigation-for-2024/"><u>Becoming an Expert at YT Studio Navigation for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dts-play-fi-unveiled-revolutionizing-wireless-music-sharing/"><u>DTS Play-Fi Unveiled: Revolutionizing Wireless Music Sharing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016658102-fast-track-microphone-diagnosis-ensuring-optimal-audio-performance/"><u>Fast-Track Microphone Diagnosis: Ensuring Optimal Audio Performance!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-your-borderlands-3-game-on-windowspc/"><u>How To Restore Sounds In Your Borderlands 3 Game On Windows/PC?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-melding-melodies-with-memories-in-cyberspace/"><u>In 2024, Melding Melodies with Memories in Cyberspace</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-realme-c67-4g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Realme C67 4G and Browser | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-razer-mic-heres-a-quick-step-by-step-solution/"><u>Trouble With Your Razer Mic? Here's a Quick Step-by-Step Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-no-sound-on-hp-laptops-a-step-by-step-guide/"><u>Troubleshooting and Repairing No Sound on HP Laptops – A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unwiring-the-problem-strategies-for-dealing-with-dead-in-ear-mics/"><u>Unwiring the Problem: Strategies for Dealing with Dead In-Ear Mics</u></a></li>
+<li><a href="https://win-top.techidaily.com/what-is-a-google-penalty-explaining-the-concept-plus-top-seo-strategies-to-avoid-them/"><u>What Is a Google Penalty? Explaining the Concept + Top SEO Strategies to Avoid Them</u></a></li>
+</ul></div>
 

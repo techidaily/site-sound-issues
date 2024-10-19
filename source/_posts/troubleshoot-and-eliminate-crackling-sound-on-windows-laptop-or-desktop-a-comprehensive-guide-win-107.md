@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot & Eliminate Crackling Sound on Windows Laptop or Desktop – A Comprehensive Guide [WIN 10/7]
-date: 2024-09-10T13:00:15.446Z
-updated: 2024-09-11T13:00:15.446Z
+date: 2024-10-17T03:17:38.496Z
+updated: 2024-10-18T16:02:03.650Z
 tags:
   - win11
   - win10
@@ -28,20 +28,6 @@ If you’re on Windows 10 or Windows 7, and you can only get stuttering, static 
 
 Audio enhancement is designed to make your system sound perfect. But things can go wrong somethings. To fix your sound stuttering problem, please perform: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**mmsys.cpl**and press**Enter**.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
 2) Right-click your default playback device (the one with a green tick) and click**Properties**.
@@ -54,23 +40,23 @@ Audio enhancement is designed to make your system sound perfect. But things can 
 
 If you don’t have an Enhancement tab here, the culprit is not enhancement then. Move on to methods below for more help.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Change Audio Formats**
 
 If your audio driver or software doesn’t support the current audio format you have, sound issues such as static or stuttering would happen. To fix it, you can try different audio formats: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**mmsys.cpl**and press**Enter**.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
@@ -78,93 +64,30 @@ If your audio driver or software doesn’t support the current audio format you 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00c40fe6e.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3) Click**Advanced**tab. Select**16 bit, 48000 Hz (DVD Quality)**. Click**Apply**and**OK**to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad05947a249.png)
 
 4) Test to see if your sound is still stuttering. If yes, go back to step 3 and try some other formats until you find the one works for you. If your audio problem remains, move on to method 3 for more help.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## **3: Reinstall Audio Driver**
 
 If you’re with faulty audio driver, incompatibility problem between your sound driver and your software would happen, then comes the stuttering sound. You can reinstall your audio driver to fix it: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**mmsys.cpl**and press**Enter**.
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad00cdcd6fd.png)
 
 2) Mark down the name of your default sound device. The screen shot shows**High Definition Audio Device**. Your could be different.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad07e6a7dc8.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 3) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad000fc9bbd.png)and**R**at the same time. Type in**devmgmt.msc**and press**Enter**.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad0821313b4.png)
 
@@ -172,39 +95,25 @@ If you’re with faulty audio driver, incompatibility problem between your sound
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad084b78a51.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5) Click**Uninstall**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad08d16834e.png)
 
-
-
-
+6) When the uninstall finishes, restart your computer. Windows will automatically find and install a correct audio driver for you. If your sound is still stuttering after reinstalling audio driver, move on to the method below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-6) When the uninstall finishes, restart your computer. Windows will automatically find and install a correct audio driver for you. If your sound is still stuttering after reinstalling audio driver, move on to the method below.
 
 ## **4: Update Audio Driver**
 
@@ -212,19 +121,12 @@ If, trying all the above, your sound it still stuttering or distorted, it’s ti
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad0f57e9dfa.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 3) Click the**Update**button next to the flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
@@ -241,8 +143,6 @@ If you need more help with your audio issue on Windows 10, feel free to leave us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +150,24 @@ If you need more help with your audio issue on Windows 10, feel free to leave us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-behind-the-scenes-iphone-video-loops-unveiled/"><u>[Updated] 2024 Approved Behind the Scenes IPhone Video Loops Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-android-gamings-new-era-with-the-rise-of-kinemaster-app/"><u>[Updated] In 2024, Android Gaming's New Era with the Rise of KineMaster App</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[Updated] In 2024, The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-your-path-to-uninterrupted-mobile-experience-with-these-7-apps/"><u>[Updated] In 2024, Your Path to Uninterrupted Mobile Experience with These 7 Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-the-future-of-drones-today-and-tomorrow/"><u>2024 Approved Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-to-restore-iphone-flashlight-functionality-a-12-point-plan/"><u>Expert Tips to Restore iPhone Flashlight Functionality - A 12 Point Plan</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-skype-microphone-functionality-on-microsofts-latest-os/"><u>Expert Tips to Restore Skype Microphone Functionality on Microsoft's Latest OS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/experttech-reviews-data-drive-de-stressing/"><u>ExpertTech Reviews Data Drive De-Stressing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-windows-11-simple-steps-for-restoring-audio/"><u>How to Fix Silent Windows 11: Simple Steps for Restoring Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-bluetooth-connectivity-issues/"><u>How to Repair Windows 11 Bluetooth Connectivity Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 13 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016255772-logitech-g230-headset-mic-issues-heres-how-to-get-it-working-again/"><u>Logitech G230 Headset Mic Issues? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-working-computer-sounds-easy-fixes-inside/"><u>Quick Solutions for Non-Working Computer Sounds | Easy Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skylab-is-launched-by-the-united-states-from-apollo-launch-complex-39-at-kennedy-space-center-using-an-unmodified-saturn-v-rocket-it-becomes-the-first-ameri645/"><u>Skylab Is Launched by the United States From Apollo Launch Complex 39 at Kennedy Space Center Using an Unmodified Saturn V Rocket. It Becomes the First American Space Station, Providing Valuable Data for Future Missions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-steelseries-arctis-pro-microphone-issues-resolved/"><u>Troubleshooting Guide: Fixing SteelSeries Arctis Pro Microphone Issues - Resolved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-fixes-and-tweaks-how-to-successfully-launch-and-use-the-app-updated-techniques/"><u>Voicemod Fixes and Tweaks: How to Successfully Launch & Use the App (Updated Techniques )</u></a></li>
+</ul></div>
 

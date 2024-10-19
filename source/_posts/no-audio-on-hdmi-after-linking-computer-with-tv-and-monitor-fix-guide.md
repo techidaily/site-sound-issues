@@ -1,7 +1,7 @@
 ---
 title: No Audio on HDMI After Linking Computer With TV and Monitor - Fix Guide
-date: 2024-09-10T13:00:16.966Z
-updated: 2024-09-11T13:00:16.966Z
+date: 2024-10-11T17:14:34.337Z
+updated: 2024-10-18T22:24:34.689Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
@@ -35,79 +42,37 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52a57919f5.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) View by **Large icons** and select **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ab2cb848.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Select **Change plan settings** of whichever plan you’re with now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ae2775a7.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4) Click **Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b6ad9a11.png)
 
 6) Check to see if your audio crackling problem is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Disable ATI HDMI Audio**
 
@@ -123,20 +88,6 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 If you don’t see this option here, move on to the next steps.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## **3\. DPC Latency**
 
  In some cases, high latency could be the cause of your static audio among many other audio problems. Luckily, there’s a handy tool called **DPC Latency Checker** . It helps monitor your PC performance and tells you what’s causing the latency.
@@ -147,23 +98,16 @@ If you don’t see this option here, move on to the next steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5313c8fd13.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
 
@@ -179,23 +123,16 @@ If you don’t see this option here, move on to the next steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -208,8 +145,6 @@ If you don’t see this option here, move on to the next steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +152,18 @@ If you don’t see this option here, move on to the next steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-video-thumbnail-personalization-on-youtube/"><u>[Updated] In 2024, Mastering Video Thumbnail Personalization on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-social-sphere-selection-channels-not-compromises/"><u>[Updated] Social Sphere Selection Channels, Not Compromises</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-future-of-editing-with-vita-a-complete-review-for-2024/"><u>[Updated] The Future of Editing with Vita - A Complete Review for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>[Updated] Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ace-your-audio-setting-up-new-or-unknown-speakers-in-windows-11-easily/"><u>Ace Your Audio: Setting Up New or Unknown Speakers in Windows 11 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-corsairs-virtuoso-mic-malfunctions-quickly/"><u>Diagnosing and Repairing Corsair's Virtuoso Mic Malfunctions Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fix-for-your-logitech-g935-mic-failure-on-window-operating-system/"><u>DIY Fix for Your Logitech G935 Mic Failure on Window Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-csgo-microphone-issues-troubleshooting-guide/"><u>Fixing CS:GO Microphone Issues - Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-and-microphone-issues-in-call-of-duty-warzone-across-pc-and-consoles/"><u>Troubleshooting Voice and Microphone Issues in Call of Duty: Warzone Across PC and Consoles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/weaving-individual-snaps-into-a-cohesive-tapestry/"><u>Weaving Individual Snaps Into a Cohesive Tapestry</u></a></li>
+</ul></div>
 

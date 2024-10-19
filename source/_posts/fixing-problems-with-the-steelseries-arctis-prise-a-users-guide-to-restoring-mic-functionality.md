@@ -1,7 +1,7 @@
 ---
 title: "Fixing Problems With the SteelSeries Arctis Prise: A User's Guide to Restoring Mic Functionality"
-date: 2024-09-10T13:00:17.364Z
-updated: 2024-09-11T13:00:17.364Z
+date: 2024-10-14T21:52:52.120Z
+updated: 2024-10-19T00:42:37.980Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Turn on app permissions for your microphone
 
  To use your microphone with apps on Windows, you’ll need to turn on some permissions in Microphone settings. Here’s how:
@@ -47,45 +54,18 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
 
  After you’ve done all of these, try to use your headset microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Make sure your mic isn’t disabled
 
@@ -98,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
   
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Make sure that your headset is not disabled.  
   
@@ -115,37 +102,16 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Select the**Recording** tab. Select your microphone and then click**Set Default > OK** .  
   
@@ -154,20 +120,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 4\. Update your audio driver
 
@@ -183,44 +135,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -228,19 +153,12 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Troubleshoot hardware issues
 
@@ -260,8 +178,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -269,4 +185,21 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-strategies-for-soaring-on-facebooks-feeds-for-2024/"><u>[Updated] Strategies for Soaring on Facebook's Feeds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>[Updated] Streaming Spectacle How Twitch Stacks Up Against YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>Elite Fighters Unleashed Selecting Superior Street Fighter Clones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-the-distraction-fix-fluctuating-audio-in-windows-11-and-10s-bluetooth-setups/"><u>End the Distraction: Fix Fluctuating Audio in Windows 11 & 10'S Bluetooth Setups</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-engagement-share-tiktoks-on-twitter-for-2024/"><u>Enhancing Engagement Share TikToks on Twitter for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-fix-msi-afterburner-doesnt-detect-graphics-card-on-windows-now-it-will/"><u>Expert Fix: MSI Afterburner Doesn't Detect Graphics Card on Windows - Now It Will</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/game-audio-mastery-achieved-on-discord-a-comprehensive-solution/"><u>Game Audio Mastery Achieved on Discord - A Comprehensive Solution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-import-music-to-inshot-video-editor/"><u>How to Import Music to Inshot Video Editor?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-trouble-heres-how-to-get-your-mic-working-again/"><u>LucidSound LS30 Trouble? Here's How to Get Your Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-voice-input-problems-for-counter-strike-global-offensive-players/"><u>Resolving Voice Input Problems for Counter-Strike Global Offensive Players</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y100-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y100 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fix-sound-issue-when-headphones-are-connected-but-noise-is-emanating-from-speakers/"><u>Troubleshooting Guide: Fix Sound Issue When Headphones Are Connected But Noise Is Emanating From Speakers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-the-top-5-most-efficient-ipod-to-mac-conversion-programs/"><u>Ultimate Guide: The Top 5 Most Efficient iPod to Mac Conversion Programs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/understanding-sns-hdr-pros-features-vs-competitors-for-2024/"><u>Understanding SNS HDR Pro’s Features Vs. Competitors for 2024</u></a></li>
+</ul></div>
 

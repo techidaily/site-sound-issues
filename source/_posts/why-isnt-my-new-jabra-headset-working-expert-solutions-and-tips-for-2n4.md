@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My New Jabra Headset Working? Expert Solutions & Tips for 2N4
-date: 2024-10-11T02:23:38.940Z
-updated: 2024-10-12T16:12:41.170Z
+date: 2024-10-13T17:24:03.706Z
+updated: 2024-10-18T18:36:17.312Z
 tags:
   - win11
   - win10
@@ -71,24 +71,10 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer to fully employ the changes. Then test your Jabra headset. If it is still not working, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the sound settings
 
@@ -103,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 2. Select**Small icons** next to View by and click**Sound** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-2.jpg)
@@ -115,15 +101,16 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 4. If your Jabra headset is disabled, right-click it and click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-4-1.jpg)
 5. Select the**Jabra Headphones** and click**Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-5-1.jpg)
-6. Back to your desktop, right-click the**speaker icon** at the lower-right corner of the taskbar and select**Open Volume mixer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/2-5-1.jpg)
+6. Back to your desktop, right-click the**speaker icon** at the lower-right corner of the taskbar and select**Open Volume mixer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/1-2.jpg)
 7. Hold and drag each slider to turn up the volume.  
@@ -133,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 9. Still, you just need to hold and drag the slider to adjust the volume.
 
  If the audio-not-working issue only occurs in a few specific programs, make sure you’ve **set your Jabra headset as the default device in the app settings** . Now see if the audio works. If not, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 – Reset the Jabra headset and connection
 
@@ -154,35 +134,31 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 2. If you see your Jabra headphone is listed under Audio, click it and click**Remove device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-3.jpg)
 3. Turn off your Bluetooth for a few seconds and toggle it on.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-4.jpg)
-4. Click**Add Bluetooth or device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-5.jpg)
-5. Select**Bluetooth** .  
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-4.jpg)
+4. Click**Add Bluetooth or device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-5.jpg)
+5. Select**Bluetooth** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-6.jpg)
 6. Put your Jabra headset into pairing mode.
 7. When it’s successfully recognized by the computer, click it to build the connection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/bluetooth-connection-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Does your Jabra headset work now? If not, try the next method.
 
@@ -195,15 +171,16 @@ Does your Jabra headset work now? If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 If restoring your computer still failed, there is the last method to try.
@@ -217,9 +194,32 @@ If restoring your computer still failed, there is the last method to try.
 3. Navigate to the**Updates** tab. Then, click the**Update** button next to each available device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/firmware-update-1.jpg)
 4. Select the language you prefer and click**Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/firmware-update-2.jpg)
 5. Click**Ok** when the update completes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/firmware-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that both the headset software and firmware are updated, your Jarba headset should be working without trouble.
 
@@ -245,21 +245,19 @@ If restoring your computer still failed, there is the last method to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-building-captivating-visual-puzzles-a-mosaic-journey/"><u>2024 Approved Building Captivating Visual Puzzles A Mosaic Journey</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-calming-chorus-proven-voices-aid-sleep/"><u>2024 Approved The Calming Chorus Proven Voices Aid Sleep</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/beginners-guide-easy-steps-to-prepare-your-first-windows-laptop/"><u>Beginner's Guide: Easy Steps to Prepare Your First Windows Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/device-driver-error-resolved-ensuring-full-compatibility-within-wow-and-windows/"><u>Device Driver Error Resolved: Ensuring Full Compatibility Within WoW & Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-headphone-issues-on-windows-11-a-step-by-step-guide/"><u>Fixing Headphone Issues on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-solutions-to-world-of-warcraft-audio-issues/"><u>Fixing the Silence: Solutions to World of Warcraft Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g633-microphone-issues-a-step-by-step-guide/"><u>Fixing Your Logitech G633 Microphone Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harness-the-potential-of-iphone-burst-photography/"><u>Harness the Potential of iPhone Burst Photography</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-logitech-g935-microphone-problems-under-windows-operating-system/"><u>How to Resolve Logitech G935 Microphone Problems Under Windows Operating System</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>In 2024, The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/iphone-sound-distortion-repair-a-step-by-step-troubleshooting-guide/"><u>IPhone Sound Distortion Repair - A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-configuration-in-obs-tips-for-clear-recordings-and-smooth-playback/"><u>Mastering Audio Configuration in OBS: Tips for Clear Recordings and Smooth Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-solving-speaker-and-microphone-faults-in-windows-10/"><u>Mastering the Art of Solving Speaker and Microphone Faults in Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimize-your-win11-display-settings/"><u>Optimize Your Win11 Display Settings</u></a></li>
-<li><a href="https://win-able.techidaily.com/roblox-error-code-277-on-pc-2024-tips/"><u>Roblox Error Code 277 on PC – 2024 Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>2024 Approved Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-game-crashing-or-no-sound-troubleshoot-for-windows-11-users/"><u>Anthem Game Crashing or No Sound? Troubleshoot for Windows 11 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converta-audio-e-videos-facilmente-on-line-gratuitamente-com-movavi-de-mp4-para-ogg/"><u>Converta Áudio E Vídeos Fácilmente On-Line Gratuitamente Com Movavi: De MP4 Para OGG</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-easy-update-surface-driver-software/"><u>Download and Easy Update: Surface Driver Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-hp-wireless-network-adapter-drivers-for-windows/"><u>Download Latest HP Wireless Network Adapter Drivers for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-is-my-phasmophobia-games-voice-chat-malfunctioning/"><u>Fixing the Issue: Why Is My Phasmophobia Game's Voice Chat Malfunctioning?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016610663-laptop-speakers-not-working-heres-how-you-can-fix-it/"><u>Laptop Speakers Not Working? Here's How You Can Fix It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-essential-strategies-for-modern-workspaces/"><u>Mastering AI: Essential Strategies for Modern Workspaces</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-audio-problems-with-airpods-on-your-windows-pc/"><u>Quick Fixes for Audio Problems with AirPods on Your Windows PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-applying-luts-for-vivid-imagery-in-obs-videos-for-2024/"><u>Step-by-Step Guide to Applying LUTs for Vivid Imagery in OBS Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y55s-5g-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-unresponsive-audio-services-solutions-proven-effective/"><u>Troubleshooting & Fixing Unresponsive Audio Services: Solutions Proven Effective</u></a></li>
 </ul></div>
 

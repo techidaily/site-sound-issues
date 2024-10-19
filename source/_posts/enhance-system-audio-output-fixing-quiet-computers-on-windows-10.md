@@ -1,7 +1,7 @@
 ---
 title: "Enhance System Audio Output: Fixing Quiet Computers on Windows 10"
-date: 2024-09-10T13:07:46.359Z
-updated: 2024-09-11T13:07:46.359Z
+date: 2024-10-13T20:43:57.800Z
+updated: 2024-10-19T00:44:02.549Z
 tags:
   - win11
   - win10
@@ -25,13 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Option 1: Try the generic audio driver
 
@@ -40,19 +37,6 @@ Read on and follow the easy-doing images below!
 1. On your keyboard, press the**Windows key** and**X** at the same time, then choose**Device Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
@@ -63,41 +47,8 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -108,20 +59,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
@@ -131,6 +68,13 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -139,52 +83,19 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -196,52 +107,28 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
-5. Click**Finish** to end the configuration.  
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
+5. Click**Finish** to end the configuration.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
@@ -259,8 +146,6 @@ Read on and follow the easy-doing images below!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,12 +153,18 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>[New] 2024 Approved Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-instagrams-reels-to-your-camera-roll-a-guide/"><u>[New] In 2024, From Instagram's Reels to Your Camera Roll A Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-hot-40-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Hot 40 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-experience-the-robust-connectivity-with-asus-zenwifi-xt8-ax6600-mesh-system/"><u>Comprehensive Review: Experience the Robust Connectivity with ASUS ZenWifi XT8 AX6600 Mesh System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-realtek-high-definition-speaker-cable-connectivity-flaw-successfully/"><u>Expert Fixes Realtek High-Definition Speaker Cable Connectivity Flaw Successfully</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-speakers-on-your-hp-laptop-solved/"><u>How to Restore Speakers on Your HP Laptop [SOLVED]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/joining-the-twitter-conversation-a-guide-to-engaging-in-twitter-chats/"><u>Joining the Twitter Conversation: A Guide to Engaging in Twitter Chats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-remote-work-how-chatgpt-can-transform-your-freelancing-efficiency/"><u>Mastering Remote Work: How ChatGPT Can Transform Your Freelancing Efficiency</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-the-no-audio-hurdle-in-windows-1011-comprehensive-solutions-inside/"><u>Overcome the 'No Audio' Hurdle in Windows 10/11 – Comprehensive Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-functionality-of-a-non-working-redragon-pc-mic/"><u>Troubleshooting Guide: How to Restore Functionality of a Non-Working Redragon PC Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016689155-windows-7-hdmi-audio-troubles-heres-how-you-can-get-it-working-again/"><u>Windows 7 HDMI Audio Troubles? Here's How You Can Get It Working Again!</u></a></li>
+</ul></div>
 

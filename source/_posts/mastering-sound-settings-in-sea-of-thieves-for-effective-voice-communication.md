@@ -1,7 +1,7 @@
 ---
 title: Mastering Sound Settings in Sea of Thieves for Effective Voice Communication
-date: 2024-10-10T17:00:48.385Z
-updated: 2024-10-12T16:52:06.791Z
+date: 2024-10-15T23:20:22.871Z
+updated: 2024-10-18T21:58:55.833Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check out the obvious
 
  Whether it is that you cannot hear your friends, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -58,27 +51,20 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
@@ -92,12 +78,27 @@ You can follow the steps below to check:
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
 
@@ -111,15 +112,16 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
-**Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
+**Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
@@ -144,20 +146,15 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-opposite-view-creative-ways-to-watch-youtube-backwards/"><u>[New] 2024 Approved The Opposite View Creative Ways to Watch YouTube Backwards</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-streamlining-your-remote-podcast-setup-for-2024/"><u>[New] Streamlining Your Remote Podcast Setup for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-visualedits-exploration-in-depth-look-at-androvid/"><u>[Updated] 2024 Approved VisualEdits Exploration – In-Depth Look at AndroVid</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-black-screen-dilemma-top-solutions-revealed/"><u>Cyberpunk 2077 Black Screen Dilemma: Top Solutions Revealed!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-childrens-movies-streaming-on-netflix-you-dont-want-to-miss/"><u>Essential Children's Movies Streaming on Netflix You Don't Want to Miss</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/quicktime-imoviemp4/"><u>QuickTime iMovieでMP4にコンバートする方法とトラブルシューティング手帳</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/roccat-mouse-driver-software-free-download-for-optimal-performance/"><u>Roccat Mouse Driver Software - Free Download for Optimal Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-with-your-sound-blaster-headset-a-comprehensive-guide/"><u>Solving Audio Issues with Your Sound Blaster Headset - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mute-problem-in-battlefield-4-a-comprehensive-guide/"><u>Solving the Mute Problem in Battlefield 4 - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-iphones-noise-difficulties-guide-for-clearer-sounds/"><u>Solving Your iPhone's Noise Difficulties – Guide for Clearer Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/squad-mic-problem-solving-a-comprehensive-step-by-step-guide/"><u>Squad Mic Problem Solving: A Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-making-the-corsair-virtuoso-audio-device-functional-again/"><u>Step-by-Step Solution: Making the Corsair Virtuoso Audio Device Functional Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-steps-resolving-audio-problems-with-the-logitech-g935-on-pc/"><u>Step-by-Steps: Resolving Audio Problems with the Logitech G935 on PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/tinyflicker-log-review-and-options-to-consider-for-2024/"><u>TinyFlicker Log Review & Options to Consider for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-failures-of-thunder-tier-one-game-on-your-computer/"><u>Troubleshooting Continuous Failures of Thunder Tier One Game on Your Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flashframe-crafter-for-2024/"><u>[New] FlashFrame Crafter for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-captivating-tiktok-frames-creative-ideas-for-profile-standout/"><u>[Updated] Captivating TikTok Frames Creative Ideas for Profile Standout</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-commerce-in-the-metaverse/"><u>Cutting-Edge Commerce in the Metaverse</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-audio-recording-problems-in-open-broadcaster-software/"><u>Diagnosing & Fixing Audio Recording Problems in Open Broadcaster Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-corsair-hs35-microphone-functioning-on-a-windows-setup-step-by-step-guide/"><u>Getting Your Corsair HS35 Microphone Functioning on a Windows Setup - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-overcoming-lag-issues-in-bluetooth-audio-systems/"><u>Immediate Fixes for Overcoming Lag Issues in Bluetooth Audio Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-12-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 12 on MetroPCS</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/rapid-melody-download-how-to-effortlessly-save-tracks-onto-usb-drive-using-computer/"><u>Rapid Melody Download: How to Effortlessly Save Tracks Onto USB Drive Using Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-lucidsound-ls30-microphone-a-step-by-step-fix/"><u>Reviving Your LucidSound LS30 Microphone: A Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-chatgpt-for-emotional-support-and-reducing-isolation/"><u>Using ChatGPT for Emotional Support and Reducing Isolation</u></a></li>
 </ul></div>
 

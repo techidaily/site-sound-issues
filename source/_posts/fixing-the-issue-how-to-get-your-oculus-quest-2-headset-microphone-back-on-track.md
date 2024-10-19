@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Get Your Oculus Quest 2 Headset Microphone Back on Track"
-date: 2024-10-08T04:02:26.782Z
-updated: 2024-10-12T17:30:33.777Z
+date: 2024-10-13T17:46:11.825Z
+updated: 2024-10-18T18:25:51.120Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Blue Yeti is an excellent microphone for beginners. However, many users may expe
  First, to rule out a hardware issue, you can try another USB port and make sure your USB cable is properly connected. Check whether your microphone goes back to work. Many users find it works when they switch the USB port from 3.0 to 2.0.
 
  If Blue Yeti is still not showing up on your PC, you can try another USB cable. You can easily get a[**replacement cable**](https://www.amazon.com/Cable-Snowball-Product-Picture-Compatibility/dp/B08JG1SNB7?tag=drivereasycom-20) at Amazon. Check that the status light is illuminated.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2\. Update the microphone driver
 
@@ -89,13 +82,6 @@ There are mainly two methods for you to fix this driver issue:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/yeti-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Right-click the**Sound, video and game controllers** , and select**Scan for hardware changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/scan-for-hardware-changes.jpg)
@@ -111,10 +97,10 @@ There are mainly two methods for you to fix this driver issue:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  11) Select**Search automatically for drivers** .
@@ -124,10 +110,10 @@ There are mainly two methods for you to fix this driver issue:
  If updating failed, you can try uninstalling the USB driver, and scan for hardware changes.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Show disabled devices in settings
@@ -138,6 +124,13 @@ There are mainly two methods for you to fix this driver issue:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-set.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the**Recording** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/recording-tab.jpg)
@@ -145,6 +138,13 @@ There are mainly two methods for you to fix this driver issue:
  3) Check if the**Blue Yeti Microphone** is listed. If so, you need to set Blue Yeti as your default device. But if not, you can right-click the empty space and select**Show Disabled Devices** and**Show Disconnected Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/show-disabled.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Enable/reconnect your Blue Yeti Microphone if it appears.
 
@@ -179,18 +179,22 @@ There are mainly two methods for you to fix this driver issue:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-savers-review-cutting-edge-video-gadgets/"><u>[New] 2024 Approved Screen Savers Review Cutting-Edge Video Gadgets</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-video-watchlist-activate-av1-on-youtube/"><u>2024 Approved Elevate Your Video Watchlist - Activate AV1 on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-unveiled-a-comprehensive-ai-handbook-for-parents/"><u>ChatGPT Unveiled: A Comprehensive AI Handbook for Parents</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortlessly-solved-fixing-your-skypes-audio-problems/"><u>Effortlessly Solved: Fixing Your Skype's Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-overcoming-bluetooth-not-working-challenges-on-windows-11/"><u>Expert Fixes: Overcoming 'Bluetooth Not Working' Challenges on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-resolving-issues-with-your-inactive-turtle-beach-recon-70-mic/"><u>Expert Guide: Resolving Issues with Your Inactive Turtle Beach Recon 70 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-track-repairs-reviving-the-audio-on-your-oculus-rift-s-microphone-in-minutes/"><u>Fast Track Repairs: Reviving the Audio on Your Oculus Rift S Microphone in Minutes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-headphones-crackling-sound-instantly-a-step-by-step-guide/"><u>Fix Your Headphones' Crackling Sound Instantly - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-rainbow-six-siege-voice-chat-glitches-following-the-2024-game-enhancement/"><u>Fix Your Rainbow Six Siege Voice Chat Glitches Following the 2024 Game Enhancement</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 6</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-xperia-5-v-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Xperia 5 V</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-voicemail-not-working-discover-9-effective-remedies/"><u>Solving 'iPhone Voicemail Not Working': Discover 9 Effective Remedies</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-demystifying-vimeos-triplet-plans-for-content-creators-for-2024/"><u>[New] Demystifying Vimeo's Triplet Plans for Content Creators for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-font-picks-to-elevate-your-youtube-thumbnail-impact-for-2024/"><u>[New] Top Font Picks to Elevate Your YouTube Thumbnail Impact for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-journey-through-hybrid-horizons-understanding-mixed-reality/"><u>[Updated] 2024 Approved Journey Through Hybrid Horizons Understanding Mixed Reality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-the-problems-with-your-logitech-g733-microphone-solutions-inside/"><u>Addressing the Problems with Your Logitech G733 Microphone - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-deactivate-the-built-in-sound-optimization-for-windows-10-computers/"><u>Guide: Deactivate the Built-In Sound Optimization for Windows 10 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-not-found-resolve-audio-detection-problems-in-windows-10/"><u>Headphone Not Found? Resolve Audio Detection Problems in Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-defy-2-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Defy 2 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-integrated-approach-to-post-videos-on-twittertumblr/"><u>In 2024, Integrated Approach to Post Videos on Twitter/Tumblr</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pinnacle-endgame-total-vr-encompassment-for-2024/"><u>Pinnacle Endgame Total VR Encompassment for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-when-you-cant-hear-anythaster-on-your-device/"><u>Quick Solutions for When You Can't Hear Anythaster on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quoting/"><u>Quoting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-clearing-up-outriders-sound-interruptions/"><u>Step-by-Step Solution for Clearing Up Outriders' Sound Interruptions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-kid-friendly-flying-toys-for-2024/"><u>Top 5 Kid-Friendly Flying Toys for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-link-wifi-adapter-update-install-the-newest-driver-for-windows-1187/"><u>TP-Link WiFi Adapter Update: Install the Newest Driver for Windows 11/8/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-dealing-with-non-working-audio-devices-in-windows-10-environment/"><u>Troubleshooting Guide: Dealing With Non-Working Audio Devices in Windows 10 Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-speaker-issues-enhancing-audio-output-in-windows-11/"><u>Troubleshooting PC Speaker Issues: Enhancing Audio Output in Windows 11</u></a></li>
 </ul></div>
 

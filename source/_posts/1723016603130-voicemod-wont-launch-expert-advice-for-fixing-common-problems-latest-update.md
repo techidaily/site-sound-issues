@@ -1,7 +1,7 @@
 ---
 title: Voicemod Won't Launch? Expert Advice for Fixing Common Problems - Latest Update!
-date: 2024-09-10T13:00:43.253Z
-updated: 2024-09-11T13:00:43.253Z
+date: 2024-10-12T16:33:12.266Z
+updated: 2024-10-19T00:34:33.022Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 **Voice chat not working in Fortnite?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -51,20 +34,6 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 * [Fix 6: Reinstall Fortnite](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Sign out Fortnite, then sign back in
 
@@ -86,25 +55,38 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -122,25 +104,18 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
@@ -168,23 +143,16 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iii. Exit Fortnite.
 
@@ -196,61 +164,20 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  6\. Click **OK** .
 
@@ -266,43 +193,16 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3\. Restart your PC.
 
@@ -324,8 +224,6 @@ iii. Exit Fortnite.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -333,12 +231,22 @@ iii. Exit Fortnite.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-aural-alchemy-the-essence-of-crossfade-techniques/"><u>[New] 2024 Approved Aural Alchemy The Essence of Crossfade Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-broadcast-battlegrounds-where-does-streaming-technology-stand-strongest/"><u>[Updated] Broadcast Battlegrounds Where Does Streaming Technology Stand Strongest?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>[Updated] First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-efficient-tagging-techniques-to-boost-your-youtube-traffic/"><u>2024 Approved Efficient Tagging Techniques to Boost Your Youtube Traffic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-pro-microphone-malfunction-solved-step-by-step-fixes-for-gamers/"><u>Arctis Pro Microphone Malfunction Solved - Step-by-Step Fixes for Gamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/como-fazer-o-upgrade-do-seu-contente-video-melhores-software-de-transcodificacao-para-dvdmp4-no-mac-e-windows-11-em-2023/"><u>Como Fazer O Upgrade Do Seu Contente Vídeo: Melhores Software De Transcodificação Para DVD/MP4 No Mac E Windows 11 Em 2023</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/creative-collection-of-swaying-text-styles/"><u>Creative Collection of Swaying Text Styles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-voice-chat-issues-step-by-step-guide-to-fix-your-push-to-talk-feature/"><u>Discord Voice Chat Issues? Step-by-Step Guide to Fix Your Push-To-Talk Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-issue-troubleshooting-failed-launch-of-dolby-drivers-on-windows-11/"><u>Fixing Dolby Atmos Issue: Troubleshooting Failed Launch of Dolby Drivers on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016675659-fixing-the-irritating-speaker-crackle-issue-on-your-windows-107-device-solved/"><u>Fixing the Irritating Speaker Crackle Issue on Your Windows 10/7 Device – Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-warzones-audio-features-back-to-life-fixing-microphonevoice-glitches-on-gaming-platforms/"><u>Getting Warzone's Audio Features Back to Life: Fixing Microphone/Voice Glitches on Gaming Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guideline-for-granting-google-chrome-permissions-through-firewalls/"><u>Guideline for Granting Google Chrome Permissions Through Firewalls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016662399-persistent-discord-noise-issues-heres-your-2024-step-by-step-solution/"><u>Persistent Discord Noise Issues? Here’s Your 2024 Step-by-Step Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-problems-when-lucidsound-ls30-mic-fails-to-work-properly/"><u>Resolving Problems When LucidSound LS30 Mic Fails to Work Properly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stop-youtube-taking-over-as-your-apple-tvandroid-tv-desktop-background-easy-fix-guide/"><u>Stop YouTube Taking Over as Your Apple TV/Android TV Desktop Background - Easy Fix Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing a Disconnected Nvidia Connection - Expert Tips and Guides
-date: 2024-09-10T13:07:41.426Z
-updated: 2024-09-11T13:07:41.426Z
+date: 2024-10-16T16:26:10.341Z
+updated: 2024-10-19T02:05:31.046Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
  Gamers have been reporting that Discord voice chat would randomly stop working from time to time. If you experience the same problem, no worries. We’ve put together a few quick fixes for you. Read on and find out what they are…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes…
 
@@ -57,20 +40,6 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
  Before we dive into anything advanced, try restarting Discord and your PC to see if it was just a random glitch.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 1: Check Discord audio settings
 
  When Discord voice chat stops working, the first thing you can look at is the voice and audio settings.
@@ -80,88 +49,22 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-37-18.png)
 3. On the left panel, click the**Voice & Video** tab.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-37-56.png)
 4. Under Voice Settings, make sure the**correct input and output devices** are selected. You can also**adjust the volumes** accordingly or do a mic test.  
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-40-44.png)
 5. Select**Voice Activity** as the input mode, and turn off**Automatically determine input sensitivity** . Thereby, you can set up the volume level for Discord to recognize and pick up your voice but not the noise.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Snipaste_2021-10-21_16-41-23.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  You can test if Discord voice chat is working now. If adjusting the voice settings in Discord doesn’t help, try the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Configure your PC sound settings
 
@@ -172,41 +75,50 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 2. **Select the device you’re using as the input device** . Usually, it’s your headset mic.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Next, right-click the little speaker icon on your taskbar, then click **Sounds** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 4. Go to the **Recording** tab and find your headset. If you don’t see it, right-click an empty area then select **Show Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 5. Right-click your headset device, then click **Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 6. Click **Apply** then **OK** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  The device you’re using for Discord voice chatting is now set as the input device and allowed for recording. You can now test if Discord picks up your voice. If your problem persists, try the next fix.
 
@@ -226,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 If this doesn’t help, try the next fix.
@@ -244,25 +163,12 @@ If this doesn’t help, try the next fix.
 
 If this doesn’t work, there’s one more fix you can try.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Update/Reinstall Discord
 
@@ -281,8 +187,6 @@ If this doesn’t work, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -290,12 +194,20 @@ If this doesn’t work, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-expert-tips-for-crafting-intricate-photo-mosaics/"><u>2024 Approved Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
+<li><a href="https://windows11.techidaily.com/actions-for-correcting-windows-11-0x800f0922-error/"><u>Actions for Correcting Windows 11 0X800F0922 Error</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y100 5G FRP Locks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-usb-headphones-working-again-a-step-by-step-fix-for-windows-7-users/"><u>Getting Your USB Headphones Working Again: A Step-by-Step Fix for Windows 7 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/handling-chatgpts-review-system-failures-techniques-to-ensure-smooth-operation/"><u>Handling ChatGPT's Review System Failures: Techniques to Ensure Smooth Operation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-hal-initialization-error-on-windows-10-complete-guide/"><u>How to Fix HAL Initialization Error on Windows 10 - Complete Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-6s-plus-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 6s Plus Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reddits-hidden-gems-6-tactics-that-transform-beginners-into-titans-for-2024/"><u>Reddit's Hidden Gems 6 Tactics That Transform Beginners Into Titans for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-a-guide-for-resolving-audio-problems-in-windows/"><u>Restoring Soundscape: A Guide for Resolving Audio Problems in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-fixing-mpow-microphone-malfunctions-in-windows-os/"><u>Step-by-Step Solution: Fixing MPOW Microphone Malfunctions in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-corsair-hs35-headset-issues-in-windows-environments/"><u>Troubleshooting Tips for Corsair HS35 Headset Issues in Windows Environments</u></a></li>
+</ul></div>
 

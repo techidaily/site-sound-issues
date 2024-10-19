@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Restore Mic Functionality in Zoom on Windows 11 & 10"
-date: 2024-09-10T13:00:15.526Z
-updated: 2024-09-11T13:00:15.527Z
+date: 2024-10-17T01:24:57.650Z
+updated: 2024-10-18T16:43:07.523Z
 tags:
   - win11
   - win10
@@ -19,26 +19,6 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
  If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fixes for ‘Skype Microphone not working’
 
 1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
@@ -47,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 4. [Restart the Windows audio service](https://tools.techidaily.com/drivereasy/download/)
 
 ###
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
@@ -58,35 +45,8 @@ Follow these:
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 ###
 
@@ -96,29 +56,37 @@ Follow these:
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -133,26 +101,6 @@ Follow these:
 
 ###
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
@@ -160,20 +108,6 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 4. Log in Skype and check to see if your Microphone works.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -183,8 +117,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +124,24 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-craft-standout-names-for-your-youtube-channel-for-2024/"><u>[Updated] How to Craft Standout Names for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-best-youtube-livestreaming-screen-recorders/"><u>2024 Approved Best YouTube Livestreaming Screen Recorders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-headset-audio-fixes-mend-that-silent-mic-now/"><u>Astro A50 Headset Audio Fixes - Mend That Silent Mic Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-premier-usb-thumb-drives-of-2023-a-comprehensive-selection/"><u>Discover the Premier USB Thumb Drives of 2023: A Comprehensive Selection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-guide-updating-your-lenovo-thinkpad-t520-graphics-and-chipset-drivers/"><u>Effortless Guide: Updating Your Lenovo ThinkPad T520 Graphics and Chipset Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-classic-lg-watch-style-insights-into-navigating-wear-os-20-smartwatches/"><u>Evaluating the Classic LG Watch Style: Insights Into Navigating Wear OS 2.0 Smartwatches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-onikuma-microphone-malfunction-a-comprehensive-guide/"><u>Fixing Onikuma Microphone Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-interpretation-decoding-microsofts-bda-design/"><u>GPU Interpretation: Decoding Microsoft's BDA Design</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-ensure-your-obs-recordings-capture-desktop-sounds-correctly/"><u>How To Ensure Your OBS Recordings Capture Desktop Sounds Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-jabra-wireless-headset-working-again-a-step-by-step-guide/"><u>How to Get Your Jabra Wireless Headset Working Again: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-to-facebook-in-a-flash-easy-connection-methods/"><u>In 2024, Instagram to Facebook in a Flash Easy Connection Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oneplus-nord-3-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace OnePlus Nord 3 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-combat-lag-issues-during-naraka-bladepoint-sessions/"><u>Step-by-Step Fixes to Combat Lag Issues During Naraka Bladepoint Sessions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-fix-the-crackling-noise-problem-in-cyberpunk-2077/"><u>Step-by-Step Solutions to Fix the Crackling Noise Problem in Cyberpunk 2077</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-external-microphone-not-detected-by-your-pc-running-windows-11-8-or-7/"><u>Troubleshooting External Microphone Not Detected by Your PC Running Windows 11, 8, or 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-disruptions-on-your-pc-running-windows-nt-solutions-unveiled/"><u>Troubleshooting Sound Disruptions on Your PC Running Windows nT - Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-fixes-for-your-onikuma-microphone-complete-troubleshooting-tutorial/"><u>Unlocking Fixes for Your Onikuma Microphone - Complete Troubleshooting Tutorial</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Audio Issues in Modern Applications: Best Practices Unveiled"
-date: 2024-09-10T13:06:05.953Z
-updated: 2024-09-11T13:06:05.953Z
+date: 2024-10-16T03:43:43.268Z
+updated: 2024-10-19T04:12:43.140Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -65,20 +52,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
@@ -94,26 +67,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##
   
@@ -157,55 +110,13 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##
   
@@ -224,20 +135,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -278,8 +175,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,12 +182,37 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-go-global-with-gifs-converting-vimeo-video-to-animation/"><u>[New] In 2024, Go Global with GIFs Converting Vimeo Video to Animation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-zooming-elevate-your-tiktok-videos/"><u>[New] The Art of Zooming Elevate Your TikTok Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-handheld-gyro-stabilization-upgrade/"><u>[Updated] Handheld Gyro Stabilization Upgrade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolution-critical-innovations-in-the-latest-gpt-update/"><u>AI Revolution: Critical Innovations in the Latest GPT Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-non-functional-speakers-on-your-laptop/"><u>Fixing the Issue: How to Troubleshoot Non-Functional Speakers on Your Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-high-definition-audio-manager-wont-launch-issue/"><u>How to Fix Realtek High Definition Audio Manager Won't Launch Issue?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-your-pcs-audio-by-disabling-the-enhancements-on-windows-11/"><u>Improve Your PC's Audio by Disabling the Enhancements on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-protect-and-enhance-images-with-top-tools/"><u>In 2024, Protect & Enhance Images with Top Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-animate-like-a-pro-top-10-tools-for-beginners-and-experts-alike/"><u>New 2024 Approved Animate Like a Pro Top 10 Tools for Beginners and Experts Alike</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-obs-microphone-essential-tips-on-restoring-audio-and-recording-capabilities/"><u>Reviving Your OBS Microphone: Essential Tips on Restoring Audio and Recording Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fix-for-disruptive-sound-pop-ups-on-your-windows-operating-system/"><u>The Definitive Fix for Disruptive Sound Pop-Ups on Your Windows Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-resolve-mac-noise-issues-successfully/"><u>The Ultimate Guide to Resolve Mac Noise Issues Successfully</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/troubleshoot-and-resolve-sound-problems-handling-failed-to-generate-sound/"><u>Troubleshoot and Resolve Sound Problems: Handling 'Failed to Generate Sound'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-sound-malfunction-on-an-hp-laptop-running-windows-10/"><u>Troubleshooting Guide: Fixing the Sound Malfunction on an HP Laptop Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-anthem-volume-problems-how-to-restore-missing-sound-effects/"><u>Windows 11 Anthem Volume Problems: How to Restore Missing Sound Effects</u></a></li>
+</ul></div>
 
-
-
-
-
-
-
-
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Trouble with RUNMUS Headset Mic? Here's Your Guide to Making It Work Again!
-date: 2024-10-07T21:04:33.631Z
-updated: 2024-10-13T02:01:43.903Z
+date: 2024-10-12T18:39:58.339Z
+updated: 2024-10-18T22:03:26.309Z
 tags:
   - win11
   - win10
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -62,6 +68,13 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-138.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.  
 
  2) Test if your LS30 headset is working properly. If not, then move on to **Fix 3** , below.
@@ -78,15 +91,22 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-139.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
@@ -94,19 +114,6 @@ To do so:
  3) Click on **your microphone device** and click **Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-141.png)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .  
 
@@ -131,13 +138,6 @@ To do so:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-142.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
@@ -174,22 +174,15 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-maximize-iphone-visual-capture-selective-photo-and-video-tools/"><u>[New] 2024 Approved Maximize iPhone Visual Capture Selective Photo & Video Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-mastering-youtube-metrics-for-earning-livelihoods/"><u>[Updated] Mastering YouTube Metrics for Earning Livelihoods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-mobile-clips-10-video-phones-rated-high/"><u>[Updated] Prime Mobile Clips 10 Video Phones Rated High</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-site-functionality-through-advanced-cookiebot-solutions/"><u>Boost Site Functionality Through Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-x9a-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor X9a Phone? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-6-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 6</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-it-worth-it-a-comprehensive-review-of-the-amazing-amazon-kindle-oasis-and-its-price-point/"><u>Is It Worth It? A Comprehensive Review of the Amazing Amazon Kindle Oasis and Its Price Point</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-elevate-your-storytelling-easy-video-creation-with-ezvid-on-mac/"><u>New 2024 Approved Elevate Your Storytelling Easy Video Creation with Ezvid on Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-in-zoom-calls-essential-fixes-for-sound-problems-on-pc-or-mac/"><u>Overcoming Audio Hurdles in Zoom Calls: Essential Fixes for Sound Problems on PC or Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-your-creative-pebble-sound-system-proven-fix-techniques-unveiled/"><u>Overcoming Issues with Your Creative Pebble Sound System: Proven Fix Techniques Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-enable-your-gaming-voice-chat-on-discord-with-clear-audio/"><u>Quick Fix: Enable Your Gaming Voice Chat on Discord with Clear Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-troubles-restoring-plugged-in-status/"><u>Realtek HD Audio Troubles: Restoring Plugged In Status</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-astro-a10-microphone-problems-with-these-effective-techniques/"><u>Resolve Astro A10 Microphone Problems with These Effective Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-problems-with-voice-chat-in-call-of-duty-black-ops-cold-war/"><u>Resolving Connectivity Problems with Voice Chat in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-harmony-to-valheim-how-to-restore-sound-on-your-computer-game/"><u>Restoring Harmony to Valheim: How to Restore Sound on Your Computer Game</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-microphone-glitches-in-dota-2-pc-version-with-these-simple-tips/"><u>Solve Microphone Glitches in Dota 2 PC Version with These Simple Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-hacking-facebook-fast-profile-discovery-methods/"><u>In 2024, Hacking Facebook Fast Profile Discovery Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-errors-a-guide-to-fs-repair-in-win11/"><u>Mending Errors: A Guide to FS Repair in Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-revolutionary-evaporative-cooling-the-new-pump-free-aio-liquid-cooler/"><u>Noctua Unveils Revolutionary Evaporative Cooling, the New Pump-Free AIO Liquid Cooler</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-mute-problems-success-with-chrome-sounds-back-on/"><u>Overcoming Mute Problems - Success with Chrome Sounds Back On</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-identifying-and-setting-up-speakers-in-windows-11/"><u>Resolving Issues with Identifying and Setting Up Speakers in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-discrepancy-headset-plugged-in-but-output-is-routed-to-external-loudspeakers/"><u>Solving Sound Discrepancy: Headset Plugged In but Output Is Routed to External Loudspeakers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-prompt-injection-attacks-mechanisms-and-prevention/"><u>Understanding AI Prompt Injection Attacks: Mechanisms & Prevention</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-clear-audio-step-by-step-fixes-when-your-voice-goes-unheard/"><u>Unlock Clear Audio: Step-by-Step Fixes When Your Voice Goes Unheard</u></a></li>
 </ul></div>
 

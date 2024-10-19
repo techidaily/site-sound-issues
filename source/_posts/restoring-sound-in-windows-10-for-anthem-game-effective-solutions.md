@@ -1,7 +1,7 @@
 ---
 title: "Restoring Sound in Windows 10 for Anthem Game: Effective Solutions"
-date: 2024-09-10T13:03:11.692Z
-updated: 2024-09-11T13:03:11.692Z
+date: 2024-10-16T02:03:23.380Z
+updated: 2024-10-18T16:28:52.866Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
  Recently, many players have been reporting that**there is no sound when they play It Takes Two on PC** . If you happen to be one of those unlucky players, you don’t have to worry anymore. Here we gathered the latest fixes for It It Takes Two no sound issue. After reading this article, you should be able to resolve this issue easily.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -56,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 3. **[Run the Windows audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Modify Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Troubleshoot the connection
 
@@ -77,25 +61,12 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
  You should go to the manufacturer’s website of your sound card, find the latest version of the driver and install it in your computer. Ensure to download the latest correct driver that is compatible with your computer operating system. This requires time and computer skills.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Option 2: Automatically update the audio driver
 
@@ -108,25 +79,6 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/04/scannow.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update audio driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -137,19 +89,12 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 
  If the latest audio driver doesn’t give you luck, just try the next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Run the Windows audio troubleshooter
 
@@ -161,89 +106,30 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 ![Run Windows audio troubleshooter 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-1.jpg)
 3. Wait for it to detect problems. This usually takes only a few seconds.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Run Windows audio troubleshooter 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-2.jpg)
 4. Select the audio device you’re using, then click **Next** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Run Windows audio troubleshooter 3](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-3.jpg)
 5. If the troubleshooter suggests that you turn off the audio enhancements for better sound quality. Click **Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Run Windows audio troubleshooter 4](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-4.jpg)
 6. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Launch It Takes Two to see if this fix works. If not, try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Modify Windows sound settings
 
@@ -257,48 +143,38 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
 ![Enable audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/Enable-audio-device.jpg)
 4. Select the speaker / headset you’re using and click **Set Default** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
 5. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Launch It Takes Two.
 7. On your desktop, **right-click** **the speaker icon** on the lower-right corner, and then select **Open Volume Mixer** .  
 ![Open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-volume-mixer.jpg)
 8. If It Takes Two is muted, click **the speaker icon** under it to unmute it.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Unmute It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Unmute-It-Takes-Two.jpg)
 
  Now see if the in-game audio works as expected. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Verify the integrity of game files
 
@@ -326,8 +202,6 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -335,12 +209,20 @@ thumbnail: https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-skype-microphone-not-working-in-windows-11/"><u>[Fixed] Skype Microphone Not Working in Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-engineering-engaging-podcast-sneak-peeks/"><u>[Updated] 2024 Approved Engineering Engaging Podcast Sneak Peeks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-audio-hiccups-in-audacity-a-guide-to-correcting-sound-device-troubles-five-methods/"><u>Beat Audio Hiccups in Audacity: A Guide to Correcting Sound Device Troubles [Five Methods]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-problem-of-mute-speakers-in-windows-even-though-theyre-connected-correctly/"><u>Fixing the Problem of Mute Speakers in Windows Even Though They're Connected Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-hp-laptop-effective-solutions-for-sound-problems/"><u>How to Restore Audio on Your HP Laptop – Effective Solutions for Sound Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-lava-blaze-2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Lava Blaze 2 Activity | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-pova-6-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Pova 6 Pro 5G FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-investment-guidelines-for-effective-youtube-campaigns/"><u>In 2024, Investment Guidelines for Effective YouTube Campaigns</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016405925-skype-audio-not-working-heres-how-you-can-fix-it-easily/"><u>Skype Audio Not Working? Here’s How You Can Fix It Easily!</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-buying-how-to-dodge-errors-when-shop-ping-a-monitor/"><u>Smart Buying: How to Dodge Errors When Shop-Ping a Monitor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-airpods-work-but-dont-produce-sound-in-windows-environments/"><u>Solution Steps for When Your AirPods Work but Don't Produce Sound in Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-32-bit-applications-print-driver-host-stops-functioning/"><u>Troubleshooting Completed: 32 Bit Application's Print Driver Host Stops Functioning</u></a></li>
+</ul></div>
 

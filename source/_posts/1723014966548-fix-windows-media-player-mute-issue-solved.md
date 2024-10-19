@@ -1,7 +1,7 @@
 ---
 title: Fix Windows Media Player Mute Issue - Solved
-date: 2024-10-11T17:42:44.674Z
-updated: 2024-10-13T03:57:58.511Z
+date: 2024-10-12T22:44:06.239Z
+updated: 2024-10-19T01:10:09.111Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/f711c5172a110adae3abf928dbe0da94bf3039e13
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure you have not muted the sound
 
  Sometimes you hear no sound coming through Windows Media Player because you’ve muted the sound unknowingly.
@@ -43,27 +50,33 @@ To make sure the volume is not muted but audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-152.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Play some music in Windows Media Player and see if the  
 **Windows Media Player no sound** issue has been resolved. If yes, then great! But if the problem persists, you should try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -80,22 +93,15 @@ To make sure the volume is not muted but audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-155.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -131,20 +137,16 @@ To make sure the volume is not muted but audible:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/est-video-experts-in-photo-song-collaboration-for-2024/"><u>[New] Best Video Experts in Photo-Song Collaboration for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-optimizing-your-whiteboard-use-on-desktopiosandroid-devices-in-a-zoom-environment/"><u>[New] Optimizing Your Whiteboard Use on Desktop/iOS/Android Devices in a Zoom Environment</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-digital-converters-showcase-optimal-ytvideo-text-extraction-for-2024/"><u>[Updated] Digital Converters Showcase Optimal YTVideo Text Extraction for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287913026-winxvideo-ai-ai/"><u>無料で達成！Winxvideo AI - 最強高画質化AIソフトでプロ並みの美しい写真に。</u></a></li>
-<li><a href="https://win-data.techidaily.com/comment-resoudre-le-dilemme-de-la-commande-ctrlplusc-qui-arrete-de-repondre/"><u>Comment Résoudre Le Dilemme De La Commande Ctrl+C Qui Arrête De Répondre ?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-infinix-hot-40i-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Infinix Hot 40i Phone Network-Ready</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1728483917822-pcwindows-11/"><u>PC用にWindows 11で外付けドライブ上のデータを移動する正しい方法</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-audio-issues-in-google-chrome/"><u>Resolved: Fixing Audio Issues in Google Chrome</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-skypes-sound-problems-in-windows-11-a-step-by-step-mic-fix-guide/"><u>Resolving Skype's Sound Problems in Windows 11: A Step-by-Step Mic Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-to-facebook-streams-on-windowsmac-updated-fixes-for-playback-problems/"><u>Restore Audio to Facebook Streams on Windows/Mac: Updated Fixes for Playback Problems .</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-laptops-silent-speakers-comprehensive-fixes-for-malfunctioning-headphone-jaxports/"><u>Reviving Your Laptop's Silent Speakers: Comprehensive Fixes for Malfunctioning Headphone JAXPORTS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-of-dim-speakers-a-guide-for-windows-10-users/"><u>Solving the Dilemma of Dim Speakers: A Guide for Windows 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-mute-laptops-expert-tips-for-bringing-back-sound/"><u>Solving the Mystery of Mute Laptops: Expert Tips for Bringing Back Sound</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-discord-push-to-talk-not-working/"><u>[Solved] Discord Push-To-Talk Not Working</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-best-3d-software-perfect-for-youtube-openers/"><u>[Updated] In 2024, The Best 3D Software Perfect for YouTube Openers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-solution-resolving-no-audio-on-your-astro-a50-speaker/"><u>Fast Solution: Resolving No Audio on Your Astro A50 Speaker</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-12-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 12 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-dynamicvidxp-reviews-and-rating/"><u>In 2024, DynamicVidXP Reviews and Rating</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-hdmi-connection-errors-when-other-applications-are-active/"><u>Resolving HDMI Connection Errors When Other Applications Are Active</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taskbar-alert-managing-full-disk-on-win1110/"><u>Taskbar Alert: Managing Full Disk on Win11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015114600-trouble-with-noisy-meetings-restore-sound-in-zoom-on-your-desktop-computer/"><u>Trouble with Noisy Meetings? Restore Sound in Zoom on Your Desktop Computer.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstick-a-non-responsive-corsair-earpiece-a-step-by-step-repair-tutorial/"><u>Unstick a Non-Responsive Corsair Earpiece: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/44kk44oz44k144kk44oi5zcr5lik44gu44gf44kb44gu44k44k544kv44o744ox44ot44k744k544oe44kk44ol44oz44kw5oqa6kgt/"><u>インサイト向上のためのタスク・プロセスマイニング技術</u></a></li>
 </ul></div>
 

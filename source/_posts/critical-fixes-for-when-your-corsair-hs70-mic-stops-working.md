@@ -1,7 +1,7 @@
 ---
 title: Critical Fixes for When Your Corsair HS70 Mic Stops Working
-date: 2024-09-10T13:08:22.441Z
-updated: 2024-09-11T13:08:22.441Z
+date: 2024-10-18T00:09:55.917Z
+updated: 2024-10-18T17:59:07.516Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
 **SteelSeries Arctis 9** and**SteelSeries Arctis 9X** are premium gaming headsets that allow users to connect to the PC through the use of an adapter. Recently, quite a few players are reporting**the mic not working problem** on their**SteelSeries Arctis 9** **or 9X** gaming headsets. If you happen to be in the same boat, don’t worry. It is not hard to fix at all…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to fix SteelSeries Arctis 9/9X Mic Not Working on PC
 
@@ -46,20 +43,6 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
  Once you have double-checked these items, test your mic to see if it’s working properly. If yes, then great! If the problem persists, please move on to **Fix 2** below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2: Update your audio drivers
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,25 +56,25 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer and check if the mic not working on your SteelArctis 9/9X problem is resolved. If it’s no joy, head onto**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Allow access to microphone
 
@@ -101,51 +84,17 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.png)
 2. In the **Allow Apps To Access Your Microphone** section, make sure the toggle is**On** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-16.png)
 3. Scroll down to**Choose which app can access your microphone** section, and make sure that you have turned on the toggles for all the apps through which you need the microphone function.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-7.png)
 4. Test your mic to see if it’s working properly. If yes, congrats – you’ve resolved the issue! If the problem persists, please try**Fix 4** , below.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Modify your audio settings
 
@@ -161,34 +110,34 @@ So in this fix, you can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123.png)
 4. Click the**Advanced** tab. Under the **Default Format** section, choose a different sample rate and bit depth and click **Test** . Repeat this process until you find a format that works for you. Then, make sure the box for **Allow application to take exclusive control of this deviice** is **unticked** . After that, click**Apply** \>**OK** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1234-3.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Install the latest SteelSeries Engine software
 
@@ -199,56 +148,18 @@ So in this fix, you can follow the steps below to check:
 1. On your keyboard, press the **Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and **R** at the same time to invoke the Run box. Then type **appwiz.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-16.png)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 2. Right-click on **SteelSeries Engine** and click **Uninstall** .
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3. Navigate to[**SteelSeries Engine page**](https://steelseries.com/engine) . Then choose the download that’s corresponding to your version of Operating System.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-15.png)
 4. Once complete, run this executable file and follow the on-screen instructions to install Engine.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Restart your computer for the changes to take effect.
 6. Try your Steel Arctis 9 or 9X headphone to see if the microphone function is restored.
@@ -265,8 +176,6 @@ So in this fix, you can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,12 +183,24 @@ So in this fix, you can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-step-by-step-process-for-high-quality-thumbnails/"><u>[New] In 2024, Step-by-Step Process for High-Quality Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mirroring-mastery-the-craft-of-comical-mocks/"><u>[New] Mirroring Mastery The Craft of Comical Mocks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-5-dreamy-winter-scenes-as-youtube-backdrops-for-2024/"><u>[Updated] 5 Dreamy Winter Scenes as YouTube Backdrops for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-capture-simplicity-with-cybernetic-tools-for-2024/"><u>[Updated] Screen Capture Simplicity with Cybernetic Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-bugs-ultimate-fixes-for-windows-sound-popping-problems/"><u>Beat the Bugs: Ultimate Fixes for Windows Sound Popping Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/begin-with-basics-configuring-windows-11-for-your-new-hardware-storage/"><u>Begin with Basics: Configuring Windows 11 for Your New Hardware Storage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/efficient-mic-checks-fast-and-simple-steps-for-perfect-audio-quality/"><u>Efficient Mic Checks: Fast and Simple Steps for Perfect Audio Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-functionality-to-league-of-legends-in-game-voice-chat/"><u>Expert Tips for Restoring Functionality to League of Legends' In-Game Voice Chat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-mic-in-dota-2-on-your-windows-pc-solutions-inside/"><u>Fixing a Non-Functional Mic in Dota 2 on Your Windows PC - Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-discord-not-capturing-in-game-sound-solutions-and-tips/"><u>How To Fix Discord Not Capturing In-Game Sound: Solutions & Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-no-sound-solved/"><u>HP Laptop No Sound [SOLVED]</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-6s-plus-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 6s Plus Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-6s-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 6s Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-airpod-microphone-issues-on-windows-11-with-these-easy-fixes/"><u>Solve AirPod Microphone Issues on Windows 11 with These Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-compatibility-on-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 Compatibility on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288267605-winxdvd-dvd-iphone/"><u>WinXDVD官方網站 - DVD 開膛手影像編輯工具, iPhone 上下載解鎖</u></a></li>
+</ul></div>
 

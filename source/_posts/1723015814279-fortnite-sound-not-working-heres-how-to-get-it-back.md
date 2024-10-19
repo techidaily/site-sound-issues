@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Not Working? Here's How to Get It Back
-date: 2024-09-10T13:07:31.814Z
-updated: 2024-09-11T13:07:31.814Z
+date: 2024-10-15T01:37:05.282Z
+updated: 2024-10-18T19:54:56.978Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/a3ff3acad952490c637c7b896fc0975ebe9579353
 
 **Sound is not working on Fortnite** ? Actually, there are a few known reasons. And a few fixes that work for most users…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to fix Fortnite sound not working on Windows
 
@@ -35,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/a3ff3acad952490c637c7b896fc0975ebe9579353
 4. **[Adjust in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Some quick checks
 
@@ -57,90 +61,24 @@ Here’s how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-81.png)
 4. In**View by** , select**Large icons** . Then click**Sound** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-82.png)
 5. In the**Playback** tab, click on**the device you use** , and then click**Set default** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-87.png)
 6. Click the**Recording** tab, then**make sure your microphone device is set as default** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Open Fortnite and check to see if the Fortnite no sound problem is resolved. If yes, then great! If the problem remains, please try the next fix, below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Disable all enhancements
 
@@ -153,50 +91,24 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. In the **Enhancements** tab, tick**Disable all sound effects** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. For some sound cards, this feature is listed under the**Advanced** tab, and you should untick the box for**Enable audio enhancements** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/disable-audio-enhancements.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Try your Fortnite again to see if the no sound issue is fixed. If not, please move on.
 
@@ -212,18 +124,18 @@ Here is how to adjust Fortnite game settings:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-100.png)
 2. Click**SETTINGS** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-101.png)
 3. Click**the sound icon** . Then make sure**Voice Chat** and**Push To Talk** are both set**On** . In**Voice Chat Input Device** and**Voice Chat Output Device** , make sure**the devices are the ones you’ve set in Fix 1** . Once one, click**Apply** to save the changes.  
@@ -232,6 +144,19 @@ Here is how to adjust Fortnite game settings:
  4) Open Fortnite to see if the no sound on Fortnite issue is fixed. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
 
@@ -250,19 +175,12 @@ Here is how to adjust Fortnite game settings:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -294,8 +212,6 @@ Here is how to adjust Fortnite game settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,12 +219,23 @@ Here is how to adjust Fortnite game settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-aspect-ratio-insights-for-engaging-youtube-thumbnails/"><u>[New] In 2024, Aspect Ratio Insights for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screen-savvy-secure-your-captures-chromebooks-top-4-techniques/"><u>[New] In 2024, Screen Savvy Secure Your Captures - Chromebook's Top 4 Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-restoring-obs-full-screen-display-for-2024/"><u>[New] Restoring OBS Full Screen Display for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-cod-vanguard-voice-chat-not-working/"><u>[SOLVED] COD: Vanguard Voice Chat Not Working</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-guide-to-invisible-lines-in-virtual-meetings/"><u>[Updated] The Ultimate Guide to Invisible Lines in Virtual Meetings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-transform-your-tactics-exclusive-free-voice-change-tool-for-valorant-gamers-for-2024/"><u>[Updated] Transform Your Tactics Exclusive Free Voice Change Tool for Valorant Gamers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-blur-background-of-your-youtube-video/"><u>2024 Approved How to Blur Background of Your YouTube Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-stand-out-in-the-crowd-top-15-innovative-snapchat-posts/"><u>2024 Approved Stand Out in the Crowd Top 15 Innovative Snapchat Posts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expertly-edit-extravagant-tiktoks-your-key-to-less-overloaded-drafts/"><u>Expertly Edit Extravagant TikToks Your Key to Less Overloaded Drafts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-on-track-with-discord-calls-overcoming-common-voice-chat-errors/"><u>Getting Back on Track with Discord Calls - Overcoming Common Voice Chat Errors</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guia-eficaz-para-quitar-fotografias-indeseadas-de-su-telefono-o-pc/"><u>Guía Eficaz Para Quitar Fotografías Indeseadas De Su Teléfono O PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audacity-playback-woes-effective-solutions-for-open-sound-device-issues-5-steps/"><u>Solving Audacity Playback Woes: Effective Solutions for Open Sound Device Issues [5 Steps]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-to-silence-extra-sounds-on-your-windows-11-computer/"><u>Step-by-Step Tutorial to Silence Extra Sounds on Your Windows 11 Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-the-challenge-of-stuttering-sounds-during-musicvideo-playback-on-windows-os-versions-10-and-7-solutions-revealed/"><u>Tackling the Challenge of Stuttering Sounds During Music/Video Playback on Windows OS Versions: 10 and 7 Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-fix-for-disruptive-sound-pop-ups-on-your-windows-operating-system/"><u>The Definitive Fix for Disruptive Sound Pop-Ups on Your Windows Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-anthem-volume-problems-how-to-restore-missing-sound-effects/"><u>Windows 11 Anthem Volume Problems: How to Restore Missing Sound Effects</u></a></li>
+</ul></div>
 

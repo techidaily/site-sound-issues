@@ -1,7 +1,7 @@
 ---
 title: "Solving Call of Duty: Black Ops Cold War Players' Voice Connectivity Problems"
-date: 2024-09-10T13:00:16.020Z
-updated: 2024-09-11T13:00:16.020Z
+date: 2024-10-13T23:52:31.423Z
+updated: 2024-10-18T19:10:09.200Z
 tags:
   - win11
   - win10
@@ -30,31 +30,31 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 5. **[Change the in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Check the connection of your audio device
 
  When your voice chat stops working, the first thing you want to do is check your connection. You need to **make sure the device cable is not broken or worn out, and is securely plugged into the correct headphone jack of your PC** . Or you can simply do a replug and see how it goes. If you’re using a headset with a switch, make sure you’ve turned on the mic.
 
 If the connection is fine, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable your peripherals
 
  In some cases, your game chat won’t work[**because your controller is conflicting with your mic**](https://www.reddit.com/r/blackopscoldwar/comments/jtcnob/voice%5Fchat%5Fnot%5Fworking/) . This is a weird but possible situation. So before entering Black Ops Cold War, make sure you’ve disabled your peripherals, especially those with a headphone jack.
 
  If you’re not using any peripherals, simply move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change your default recording device
 
@@ -70,36 +70,16 @@ First you need to check the default audio device on your system:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #### Set up your mic correctly in the Battle.net client
 
@@ -111,29 +91,23 @@ Next, you need to check the voice chat settings in the Battle.net client:
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Now launch Black Ops Cold War and see if you can talk to others.
 
  If your mic still doesn’t work in the game, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -158,45 +132,18 @@ Now launch Black Ops Cold War and see if you can talk to others.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and test the gameplay in Black Ops Cold War.
 
  If updating the audio driver doesn’t work for you, simply continue to the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Change the in-game audio settings
 
@@ -206,20 +153,6 @@ Now launch Black Ops Cold War and see if you can talk to others.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-audio-settings.jpg)
 2. Be sure to set both**Speakers/Headphones Voice Chat Device** and**Microphone Device** to**Default Communication Device** . Set**Microphone Activation Mode** to**Open Mic** . Then increase the value of**Open Microphone Sensitivity** to over 50.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-ingame-voice-settings.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Now you can restart Black Ops Cold War and check if the voice chat is working.
 
@@ -235,34 +168,7 @@ Here’s a quick guide for that:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will download and install the available updates. Wait for the process to complete.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -278,8 +184,6 @@ Here’s a quick guide for that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +191,23 @@ Here’s a quick guide for that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-iphone-photography-breakthroughs-with-lifelike-motion/"><u>[New] 2024 Approved IPhone Photography Breakthroughs with Lifelike Motion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-the-top-free-tools-for-youtube-image-downloads/"><u>[Updated] In 2024, Discover the Top Free Tools for YouTube Image Downloads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-street-saga-best-gaming-matches-to-gta-v/"><u>[Updated] In 2024, Street Saga Best Gaming Matches to GTA V</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/efficient-methods-to-correctly-address-steam-voice-chatting-problems/"><u>Efficient Methods to Correctly Address Steam Voice Chatting Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-130-music-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia 130 Music to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-g933-microphone-troubleshooting-guide/"><u>How to Fix a Non-Functioning Logitech G933 Microphone: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issue-when-headphones-are-plugged-in-but-play-through-speakers/"><u>How to Fix Audio Issue When Headphones Are Plugged In But Play Through Speakers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-google-pixel-7a-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Google Pixel 7a</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-sound-capture-in-windows-11/"><u>In 2024, Mastering Sound Capture in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-12plus-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme 12+ 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016763288-quick-fixes-for-your-pcs-audio-problems-easy-solutions/"><u>Quick Fixes for Your PC's Audio Problems | Easy Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-silent-mode-on-google-chrome/"><u>Resolved: Fixing Silent Mode on Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-overview-handling-service-didnt-respond-timely-error-code-1053/"><u>Solution Overview: Handling 'Service Didn't Respond Timely,' Error Code 1053</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-every-kotion-g2000-mic/"><u>Troubleshooting Guide: Resolving Issues with Every KOTION G2000 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unplugging-mysteries-a-comprehensive-guide-to-fixing-no-sound-from-conexant-smartaudio-hd-under-windows-11/"><u>Unplugging Mysteries: A Comprehensive Guide to Fixing No Sound From Conexant SmartAudio HD Under Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288988664-dvd/"><u>ワークフロー・マスタークラス：パーソナライズされた新婚映像DVD制作の詳細レッスン</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing League of Legends: Troubleshooting Voice Chat Issues"
-date: 2024-10-11T16:30:49.678Z
-updated: 2024-10-13T02:43:57.977Z
+date: 2024-10-17T21:56:36.972Z
+updated: 2024-10-18T17:05:22.273Z
 tags:
   - win11
   - win10
@@ -52,20 +52,32 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
@@ -78,35 +90,30 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
 
@@ -145,19 +152,21 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/astering-hashtags-for-six-figure-youtube-growth/"><u>[New] Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-from-flat-to-fantastic-animated-text-transformations/"><u>[Updated] In 2024, From Flat to Fantastic Animated Text Transformations</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-decode-the-world-unveiling-the-top-22-platforms-for-video-translation/"><u>2024 Approved Decode the World Unveiling the Top 22 Platforms for Video Translation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-meme-text-generators-to-use/"><u>In 2024, Best Meme Text Generators to Use</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-5-remote-viewing-recorders/"><u>In 2024, Ultimate 5 Remote Viewing Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-cod-vanguard-fixing-voice-chat-issues/"><u>Troubleshooting Cod: Vanguard - Fixing Voice Chat Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-solve-voice-chat-issues-in-rainbow-six-siege-202-4-update/"><u>Troubleshooting Guide: How to Solve Voice Chat Issues in Rainbow Six Siege (202 4 Update)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-plugged-in-issues-with-realtek-ads/"><u>Troubleshooting Guide: Solving 'Plugged In' Issues with Realtek ADS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-shared-hdmi-use-between-apps-for-smooth-device-functionality/"><u>Troubleshooting Shared HDMI Use Between Apps for Smooth Device Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sony-headphones-fixing-nonfunctional-mic-issues-with-wh-1000xm3-or-wh-1000xm4/"><u>Troubleshooting Sony Headphones: Fixing Nonfunctional Mic Issues with WH-1000XM3 or WH-1000XM4</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-intermittent-sound-issues-on-windows-11/"><u>Troubleshooting Steps to Resolve Intermittent Sound Issues on Windows 11</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/wie-sie-airdrop-dateien-erfolgreich-von-ihrem-iphone-14-zu-windows-11-10-8-oder-7-hochladen/"><u>Wie Sie AirDrop-Dateien Erfolgreich Von Ihrem iPhone 14 Zu Windows 11, 10, 8 Oder 7 Hochladen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-share-the-laughter-mastering-kinemaster/"><u>[New] Share the Laughter Mastering KineMaster</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-masterful-marketing-top-strategies-to-thrive-in-fb-video-space/"><u>[Updated] 2024 Approved Masterful Marketing Top Strategies to Thrive in FB Video Space</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-quick-access-to-trending-tiktok-backdrops/"><u>[Updated] In 2024, Quick Access to Trending TikTok Backdrops</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-methods-for-sharing-igtv-in-stories/"><u>[Updated] In 2024, Step-by-Step Methods for Sharing IGTV in Stories</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-integrating-color-grading-techniques-with-luts-for-2024/"><u>[Updated] Integrating Color Grading Techniques with Luts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-runmus-gaming-mic-issues-step-by-step-troubleshooting-guide/"><u>Fixing RUNMUS Gaming Mic Issues: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-audio-stops-working-randomly-on-windows-10-a-step-by-step-guide/"><u>How to Fix Your Audio Stops Working Randomly on Windows 10? A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/inoperative-fingerprint-reader-on-laptop/"><u>Inoperative Fingerprint Reader on Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014816879-no-more-interference-swift-fix-for-crackling-headphones/"><u>No More Interference: Swift Fix for Crackling Headphones!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-advanced-audio-problems-launching-the-driver-successfully-on-windows-10/"><u>Overcoming Dolby Advanced Audio Problems: Launching the Driver Successfully on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-microphone-malfunctions-in-counter-strike-2-with-these-proven-techniques/"><u>Resolve Microphone Malfunctions in Counter-Strike 2 with These Proven Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-surprising-potential-of-the-minuscule-giant-a-complete-look-at-apples-iphone-12-mini/"><u>The Surprising Potential of the Minuscule Giant: A Complete Look at Apple's iPhone 12 Mini</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-astro-a10-microphone-problems/"><u>Troubleshooting and Repairing Astro A10 Microphone Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-language-decoder-how-does-it-work-and-why-is-it-vital/"><u>Understanding ChatGPT’s Language Decoder: How Does It Work and Why Is It Vital?</u></a></li>
+<li><a href="https://common-error.techidaily.com/verdict-no-opengl-advocacy-in-drivers/"><u>Verdict: No OpenGL Advocacy in Drivers</u></a></li>
 </ul></div>
 

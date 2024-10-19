@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Functional Corsair Void Mic: Step-by-Step Solution"
-date: 2024-09-10T13:05:37.380Z
-updated: 2024-09-11T13:05:37.380Z
+date: 2024-10-16T19:57:36.965Z
+updated: 2024-10-19T00:07:45.723Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000086-1.png)
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## **Try these fixes**
 
@@ -38,26 +35,6 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### **Fix 1: Check your microphone settings**
 
  If your Logitech G633 is not set as the default device, or if it is disabled on your PC, you may also run into this issue. You can follow the instructions below to check your microphone settings:
@@ -68,57 +45,17 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 3. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  See if your Logitech G633 mic works. If not, try the next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -127,6 +64,14 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 1. On your keyboard, press the**Windows logo key + I** at the same time to open Windows Settings. Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
@@ -152,39 +97,31 @@ There are two ways to update your sound card driver: **manually**  and **automat
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee  ).
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
 
-
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -204,8 +141,6 @@ There are two ways to update your sound card driver: **manually**  and **automat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,12 +148,17 @@ There are two ways to update your sound card driver: **manually**  and **automat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-art-of-video-editing-complimentary-top-pp-tools/"><u>[New] Master the Art of Video Editing Complimentary, Top PP Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-social-broadcast-battleground-fb-live-yt-live-twitvision/"><u>[New] Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-tips-innovative-lens-creation-on-snapchat/"><u>[Updated] Quick Tips Innovative Lens Creation on Snapchat</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-deletion-solutions-stellar-file-eraser-5-for-windows-safe-folder-and-file-cleanup/"><u>Efficient Deletion Solutions: Stellar File Eraser 5 for Windows - Safe Folder and File Cleanup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-troubleshoot-your-razer-kraken-microphone/"><u>Fixing Issues: How to Troubleshoot Your Razer Kraken Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-or-unresponsive-turtle-beach-elite-atlas-microphone/"><u>How to Fix a Broken or Unresponsive Turtle Beach Elite Atlas Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-idt-hd-audio-driver-problems-for-windows-11-users/"><u>How to Fix IDT HD Audio Driver Problems for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-speakers-even-when-they-are-attached-in-windows-os/"><u>How to Fix Silent Speakers Even When They Are Attached in Windows OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-windows-graphics-hurdle/"><u>Overcome Windows Graphics Hurdle</u></a></li>
+</ul></div>
 

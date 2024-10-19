@@ -1,7 +1,7 @@
 ---
 title: PUBG Voice Communication Breakdown? Here's How to Get It Working Again
-date: 2024-09-10T13:00:15.827Z
-updated: 2024-09-11T13:00:15.827Z
+date: 2024-10-14T22:20:43.659Z
+updated: 2024-10-19T03:30:19.203Z
 tags:
   - win11
   - win10
@@ -16,20 +16,6 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 ## PUBG Voice Communication Breakdown? Here's How to Get It Working Again
 
 **Voice chat is not working** in PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) Duo or Squad mode? This is so frustrating. But don’t worry, whether you’re getting issues like PUBG voice chat not working, or PUBG mic not working, there is something you can do to fix your problem.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to fix voice chat not working in PUBG
 
@@ -59,53 +45,11 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Make sure your mic is on for PUBG (for Windows 10 users)
 
  If you find your voice chat is not working in PUBG on Windows 10 computer, the first thing you should check is to turn on microphone permission for PUBG. Here’s what you need to do:  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**I** at the same time.  2) Click**Privacy** in**Settings** .
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Click**Microphone** on the left pane, and make sure Microphone access for this device is on, and the status is**On** for**PUBG** .
 
@@ -115,115 +59,59 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3: Configure the audio settings in your computer
 
  If PUBG voice chat doesn’t work in your computer, you should also check and set your microphone as the default device for your computer.  1) Right click the**volume icon** at the bottom right corner on your desktop, and select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Playback** tab, and make sure to set your microphone to**Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the**Recording** tab, and make sure your microphone is the**Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd37007122.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  4) Then right click on your microphone device, and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd3b101d73.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) In the new pop up pane, click the**Advanced** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd419e19e4.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  6) Make sure to**uncheck** the box next to**Allow application to take exclusive control of this device** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd457cd7a1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 7) Save your settings.  8) Restart your computer and try PUBG voice again to see if it works.  If this method doesn’t work for you, don’t worry. We have other solutions to try.
 
@@ -235,43 +123,16 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the**Update** button next to the flagged sound card (and microphone if any) to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4) Restart your computer to take effect.  Open PUBG in your computer and see if voice chat works in duo or squad mode.
 
@@ -295,19 +156,12 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd808d75a7.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  2) Click**Voice** or**In-Game Voice** .
 
@@ -317,29 +171,16 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd86b39d96.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Make sure the**Microphone volume** and**Receive volume** is dragged to medium or high, so you can hear from your friends and you can be heard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd888581ab.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  5) Save your changes and open PUBG again to see if it works for voice chat.
 
@@ -356,6 +197,13 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
  Sometimes the improper settings in your game configuration files can also cause the voice chat not working issue in your PUBG game. So follow the steps below:  1) Type**%appdata%** in the**search** bar from the**Start** menu, then select**%appdata%** in**File Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd9f253113.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Windows will open the**File Explorer** , then click**AppData** in the directory bar.
 
@@ -393,8 +241,6 @@ VoiceOutputVolume=100
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -402,4 +248,20 @@ VoiceOutputVolume=100
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-keeping-memories-alive-on-androidmac-with-snaps/"><u>[New] 2024 Approved Keeping Memories Alive on Android/Mac with Snaps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nleashing-potential-crafting-a-youtube-channel-brand-for-success-for-2024/"><u>[New] Unleashing Potential Crafting a YouTube Channel Brand for Success for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-boredom-to-chuckles-generating-funny-memes/"><u>[Updated] From Boredom to Chuckles Generating Funny Memes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-history-securely-saving-old-printed-images/"><u>2024 Approved Capturing History Securely Saving Old Printed Images</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-z37download-asus-z370-e-drivers-quick-and-easy-step-by-step-tutorial/"><u>ASUS Z37([DOWNLOAD] ASUS Z370-E Drivers | Quick & Easy): Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-audio-problems-discover-how-to-fix-it-here/"><u>Battlefield 4 Audio Problems? Discover How to Fix It Here!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-free-webm-players-how-to-play-webm-video-files-for-2024/"><u>Best Free WebM Players How to Play WebM Video Files for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-issues-with-unresponsive-headset-microphones-and-effective-remedies/"><u>Diagnosing Issues with Unresponsive Headset Microphones and Effective Remedies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-muted-madness-solutions-for-silent-hearthstone-gameplay/"><u>Fixing Muted Madness: Solutions for Silent Hearthstone Gameplay</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gamers-choice-best-alternatives-to-official-recorder-for-2024/"><u>Gamer's Choice Best Alternatives to Official Recorder for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015790777-reviving-speakers-post-win-11-updates-effortless-solutions-inside/"><u>Reviving Speakers Post-Win 11 Updates - Effortless Solutions Inside!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-mic-issues-in-google-meet-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Mic Issues in Google Meet on Windows 11 & 10</u></a></li>
+</ul></div>
 

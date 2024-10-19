@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Firefox Browser Now Produces Audio"
-date: 2024-09-10T13:00:16.950Z
-updated: 2024-09-11T13:00:16.950Z
+date: 2024-10-11T22:33:21.065Z
+updated: 2024-10-18T16:22:29.189Z
 tags:
   - win11
   - win10
@@ -45,46 +45,22 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/win-11-right-click-on-sound.jpg)
 2. Scroll down and click on**More sound settings** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/win-11-sound-settings.jpg)
 3. Select the**Recording** tab. Right-click on the device that you’re currently using and then select**Set as Default Device** from its context menu.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. On the**Levels** tab, drag the sliders of**Microphone** and**Microphone Boost** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself. After that, click**OK** to save the changes.  
-![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-393.png)
-6. You may do a voice test by speaking into your mic. If the recording device is working properly, you should witness a rise in the green bar as you talk.  
-
-
-
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-393.png)
+6. You may do a voice test by speaking into your mic. If the recording device is working properly, you should witness a rise in the green bar as you talk.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 7. Right-click on other recording devices and select**Disable** to turn them off temporarily. If you’d like to turn them on after playing CS:GO, simply repeat this step and select**Enable** .  
@@ -92,20 +68,6 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
  Also, if you have other output devices, go to the**Playback** tab and disable them (except the one in use) in the same way as you did on the**Recording** tab.
 8. After everything’s done, click**OK** to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-335.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Now it’s time to launch CS:GO and see whether your mic is working properly. If not, please proceed to the next fix below.
 
@@ -123,34 +85,15 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-334.png)
 4. Click to highlight your default microphone and then click**Properties** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-346.png)
 5. Go to**Advanced** , and untick the box for**Allow applications to take exclusive control of this device** . After that, click**OK** to save the changes.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-36.png)
 6. Click**OK** to save the change.
@@ -159,19 +102,12 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Check in-game settings
 
@@ -181,56 +117,18 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/image-338.png)
 2. Go to the**Audio Settings** tab and select**Audio** below. Then, pay attention to the related audio settings and make certain they are**turned on** or set to the correct state.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-339.png)
 3. Select**Game Settings** **\> Communication** . Make sure you haven’t muted your friends or others in the game. (This is not necessarily related to your mic, so you may skip this step if you want.)  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-345.png)
 4. Go to**Controller** . Below you’ll see the item –**Use Mic** . If there’s already a shortcut key assigned to it, then you don’t need to change anything; otherwise please assign a shortcut key to it. (The default key is**K** .)  
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-396.png)
 
@@ -250,20 +148,6 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -286,20 +170,6 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
@@ -313,41 +183,36 @@ thumbnail: https://thmb.techidaily.com/bb98865890fcbc6879df7bd56d4caa339b8a68a9a
 
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5ae0331bc08e4-2.png) and **R** at the same time to invoke the Run box. Type**services.msc** and click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-363.png)
-2. In the pop-up window, scroll through the list of services to locate**Windows Audio** . Click to highlight this item and click**Restart** in the left pane.  
-![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
-3. Wait for the process to complete and then exit the window.
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+2. In the pop-up window, scroll through the list of services to locate**Windows Audio** . Click to highlight this item and click**Restart** in the left pane.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
-
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
+3. Wait for the process to complete and then exit the window.
 
 If this fix didn’t help, you might try out the next one.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 7: Check Privacy settings
 
@@ -357,19 +222,6 @@ If this fix didn’t help, you might try out the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 2. Check if the Microphone access button is Off. If so, simply turn it**On** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access.jpg)
 3. Below you’ll see another toggle for**Let apps access your microphone** . Also turn it on if it’s been set to**Off** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
@@ -378,26 +230,6 @@ If this fix didn’t help, you might try out the next one.
  After making these tweaks, check to see if your mic goes back to normal in CS:GO. If not, there’s still one last fix you may try.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 8: Enter ‘voice\_enable 1’
 
@@ -409,21 +241,14 @@ If this fix didn’t help, you might try out the next one.
 3. Type **voice\_enable 1** and click **Submit** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-417.png)
 
-Test your mic in the game and see if it works properly now.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+Test your mic in the game and see if it works properly now.
 
 ## Fix 9: Repair corrupted system files
 
@@ -431,20 +256,6 @@ Test your mic in the game and see if it works properly now.
 
 1. [**Repair & replace corrupted system files with Fortect**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Run SFC scan**](https://tools.techidaily.com/drivereasy/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Repair & replace corrupted system files with Fortect
 
@@ -461,37 +272,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Restart your computer for the changes to take effect.
 6. Check your computer to see if the issue is fixed.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) the[Fortect support team](https://www.fortect.com/support/) .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Run SFC scan
 
@@ -500,52 +284,12 @@ Here’s how to use Fortect to repair system files on your PC:
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 2. Type in **SFC /Scannow** , and then press **Enter** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. When the process is completed, reboot your computer and test if the issue still exists.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  It’ll take some time for the SFC to replace the corrupted system files, so please be patient.
 
@@ -562,8 +306,6 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -571,4 +313,26 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-deciphering-ios-mechanism-for-image-capture/"><u>[New] Deciphering IO's Mechanism for Image Capture</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023-fb-live-stream-mp4-conversion-tool/"><u>[New] In 2024, 2023 FB Live Stream MP4 Conversion Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-az-video-logger-full-application-breakdown-for-2024/"><u>[Updated] AZ Video Logger Full Application Breakdown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies/"><u>[Updated] Syma X5C Insights Choosing the Best Drone for Aviation Rookies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clarifying-distorted-audio-problems-in-windows-117-comprehensive-fix-guide/"><u>Clarifying Distorted Audio Problems in Windows 11/7 – Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-onboard-ai-how-localized-machine-learning-transforms-devices/"><u>Decoding Onboard AI: How Localized Machine Learning Transforms Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-connexant-smartaudio-hd-effective-solutions-for-windows-11-users/"><u>Fixing the Silent Connexant SmartAudio HD: Effective Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-speaker-and-headphone-functionality-in-win11win8win7/"><u>Guide: Restoring Speaker and Headphone Functionality in Win11/Win8/Win7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-iphones-sound-malfunction-eliminating-silence-and-echoes/"><u>How to Repair Your iPhone's Sound Malfunction - Eliminating Silence & Echoes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-in-the-runmux-headset-for-uninterrupted-gaming/"><u>How To Restore Audio In The RunmuX Headset For Uninterrupted Gaming</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reinstate-crystal-clear-zoom-sound/"><u>In 2024, Reinstate Crystal-Clear Zoom Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-microphone-trouble-in-counter-strike-2-with-easy-fixes-and-tips/"><u>Mastering Microphone Trouble in Counter-Strike 2 with Easy Fixes & Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-through-green-screen-muddle-on-mac-for-smooth-youtubing-for-2024/"><u>Navigate Through Green Screen Muddle on Mac for Smooth YouTubing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-hdmi-speaker-failures-on-windows-7-effective-strategies-for-optimal-sound-performance/"><u>Overcome HDMI Speaker Failures on Windows 7: Effective Strategies for Optimal Sound Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-to-resolve-speakers-failure-on-windows-11-pc/"><u>Solution Steps to Resolve 'Speaker's Failure on Windows 11 PC'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-screens-a-guide-to-restoring-your-nvidia-hd-audio-output/"><u>Solving Silent Screens: A Guide to Restoring Your Nvidia HD Audio Output</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategic-approach-to-managing-fb-connected-tools/"><u>Strategic Approach to Managing Fb Connected Tools</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wie-sie-daten-von-einer-defekten-sd-karte-wiederherstellen-konnen/"><u>Wie Sie Daten Von Einer Defekten SD-Karte Wiederherstellen Können</u></a></li>
+</ul></div>
 

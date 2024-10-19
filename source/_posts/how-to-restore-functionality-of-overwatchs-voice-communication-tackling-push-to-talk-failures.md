@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Functionality of Overwatch's Voice Communication: Tackling Push-to-Talk Failures"
-date: 2024-09-10T13:01:09.441Z
-updated: 2024-09-11T13:01:09.441Z
+date: 2024-10-14T00:55:14.532Z
+updated: 2024-10-19T02:46:21.285Z
 tags:
   - win11
   - win10
@@ -17,33 +17,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 Corsair Virtuoso gaming headset is not working properly? If you can’t be heard on the microphone, you can follow the troubleshooting steps in this post.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -53,19 +30,12 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 1\. Make sure you use the right ports
 
@@ -81,40 +51,22 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
@@ -122,26 +74,6 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 3\. Re-installing drivers
 
@@ -157,20 +89,6 @@ There are mainly two ways for you to do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
@@ -188,25 +106,6 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
-3. Click**Additional device properties** .  
-
-
-
-
 <!-- affiliate ads begin -->
 <span id="1899850">
 					<video width="486" height="864" style="cursor:pointer"
@@ -220,8 +119,15 @@ There are mainly two ways for you to do this:
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
+3. Click**Additional device properties** .  
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
@@ -234,6 +140,14 @@ There are mainly two ways for you to do this:
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. You may need to restart your computer for the changes to take effect.
 
 ---
@@ -250,8 +164,6 @@ There are mainly two ways for you to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -259,12 +171,16 @@ There are mainly two ways for you to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-decoding-the-mystery-of-smooth-iphone-images-four-ways/"><u>[New] 2024 Approved Decoding the Mystery of Smooth iPhone Images (Four Ways)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-obs-setup-guide-for-macos-downloading-and-setting-up/"><u>[Updated] In 2024, OBS Setup Guide for macOS Downloading & Setting Up</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-fixes-to-resume-paused-stream-on-facebook-for-2024/"><u>[Updated] Quick Fixes to Resume Paused Stream on Facebook for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-solutions-to-restore-functionality-of-a-broken-corsair-hs70-microphone/"><u>Easy Solutions to Restore Functionality of a Broken Corsair HS70 Microphone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-detaille-comment-eliminer-les-restrictions-de-sauvegarde-de-film-sur-mac-et-pc/"><u>Guide Détaillé : Comment Éliminer Les Restrictions De Sauvegarde De Film Sur Mac Et PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-astro-a50-microphone-troubleshooting-and-solutions/"><u>How to Fix the Astro A50 Microphone: Troubleshooting and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-when-your-turtle-beach-elite-atlas-mic-fails-to-work/"><u>How to Resolve Issues When Your Turtle Beach Elite Atlas Mic Fails to Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-verdict-on-raspberry-pi-games-batocera-or-retropie/"><u>The Ultimate Verdict on Raspberry Pi Games: Batocera or RetroPie?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-fixes-for-pubg-voice-communication-problems/"><u>Troubleshooting Common Fixes for Pubg Voice Communication Problems</u></a></li>
+</ul></div>
 

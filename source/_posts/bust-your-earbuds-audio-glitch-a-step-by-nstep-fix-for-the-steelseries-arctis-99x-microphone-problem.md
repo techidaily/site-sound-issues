@@ -1,7 +1,7 @@
 ---
 title: "Bust Your Earbuds' Audio Glitch: A Step-by-nStep Fix for the SteelSeries Arctis 9/9X Microphone Problem"
-date: 2024-09-10T13:05:23.157Z
-updated: 2024-09-11T13:05:23.157Z
+date: 2024-10-14T21:50:34.968Z
+updated: 2024-10-19T02:49:13.914Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
  It’s a lot of fun to chat with friends all over the world at Rec Room, building and playing games together. However, when the microphone just stops working for no reason and other people can’t hear you, it could be very annoying. If you’re stuck in such a predicament, don’t worry, as you can fix this easily.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fixes to try
 
@@ -46,26 +43,6 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
  If you’ve done a quick check and confirmed there is no hardware issue, the cause may be related to the computer settings. Keep reading to find more solutions below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2 – Check your privacy settings
 
  To allow your headset mic to work on the PC, you should enable the necessary access so that your system and apps can use the microphone properly. Here’s how:
@@ -74,46 +51,40 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-1-4.jpg)
 2. Click the**Change** button and make sure**Microphone access for this device is turned on** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
 3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Set your headset mic as the default device
 
@@ -127,36 +98,24 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 
 #### On Oculus or SteamVR
 
@@ -176,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Update your audio driver
 
  If you’ve been constantly running into mic not working with Rec Room or other apps, chances are that your audio driver is faulty or out-of-date. In this case, you should update the driver to keep your VR rig up and running, and there are two ways for you:
@@ -192,37 +158,16 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After the update completes, restart the PC and see if your audio issue gets fixed. If not, there is one more fix to try.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5 – Close unnecessary background apps
 
@@ -232,34 +177,7 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -278,8 +196,6 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,12 +203,20 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-add-and-record-audio-to-powerpoint/"><u>[New] Add & Record Audio to PowerPoint</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-most-compelling-list-of-free-youtube-platforms-for-comic-book-illustrators/"><u>[Updated] The Most Compelling List of Free YouTube Platforms for Comic Book Illustrators</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-greatest-80s-movies-to-stream-immediately/"><u>Discover the Greatest '80S Movies to Stream Immediately</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-the-steelseries-arctis-1-mic-failure-challenge/"><u>Effective Solutions to the SteelSeries Arctis 1 Mic Failure Challenge</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-audio-issues-a-step-by-step-guide-to-restoring-internal-speaker-functionality/"><u>Fixing Laptop Audio Issues: A Step-by-Step Guide to Restoring Internal Speaker Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-canon-powershot-sx70-hs-driver-files-and-patch-notes/"><u>Get Canon Powershot SX70 HS Driver Files & Patch Notes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improved-performance-addressing-high-cpu-demands-in-windows-driver-foundation/"><u>Improved Performance: Addressing High CPU Demands in Windows Driver Foundation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-free-gaming-effective-fixes-for-eliminating-cyberpunk/"><u>Noise-Free Gaming: Effective Fixes for Eliminating Cyberpunk 지오블테슬리의 소음 깨짐</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016553457-solving-the-silent-mac-dilemma-restore-your-audio-today/"><u>Solving the Silent Mac Dilemma - Restore Your Audio Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-corsair-virtuoso-mic/"><u>Troubleshooting Guide: Solving Issues with Your Corsair Virtuoso Mic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-vr-selection-top-8-must-have-titles-for-2024/"><u>Ultimate VR Selection Top 8 Must-Have Titles for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleashing-desktop-performance-on-the-go-with-the-new-2021-ipad-pro-m1-in-depth-analysis/"><u>Unleashing Desktop Performance on the Go with the New 2021 iPad Pro (M1) - In-Depth Analysis</u></a></li>
+</ul></div>
 

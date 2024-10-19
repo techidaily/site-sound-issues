@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions to Get Your Redragon Laptop Mic Working Perfectly Again
-date: 2024-10-07T17:08:14.700Z
-updated: 2024-10-12T16:22:48.888Z
+date: 2024-10-14T00:35:44.162Z
+updated: 2024-10-18T23:42:32.656Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If your Corsair HS70 Mic Stopped Working on Windows, don’t worry. You can use 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to your microphone
 
  If your microphone is not allowed to access on your computer, you can’t use it properly. So first, check if it’s allowed to access on your computer. If it’s not allowed to access, configure the setting to make it work.
@@ -72,23 +65,30 @@ To do this, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-159.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Make sure**Allow apps to access your microphone** is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-160.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your microphone device settings
@@ -111,6 +111,13 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-163.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select the**Recording** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-164.png)
@@ -125,13 +132,6 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-166.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  b. Right click the microphone and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-167.png)
@@ -142,16 +142,16 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-168.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Click the**Levels** tab, and drag the volume slider to the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-169.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Click**OK** \->**OK** .
 
@@ -160,16 +160,10 @@ To do this, you can follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
@@ -188,18 +182,18 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-142.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-143.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -238,20 +232,18 @@ To do this, you can follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-clean-slate-creations-guide-to-the-psx-eraser-tool/"><u>[New] Clean Slate Creations Guide to the PSX Eraser Tool</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ultivate-creativity-20plus-inspiring-youtube-concepts-for-2024/"><u>[New] Cultivate Creativity 20+ Inspiring YouTube Concepts for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-ig-reel-secrets-pausing-time-for-creative-impact/"><u>[New] In 2024, IG Reel Secrets Pausing Time for Creative Impact</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-cyberpunk-2077-no-sound-on-windows-11/"><u>[SOLVED] Cyberpunk 2077 No Sound on Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-immersion-in-metaverse-leading-hmds-reviewed-for-2024/"><u>[Updated] Immersion in Metaverse Leading HMDs Reviewed for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-accelerate-with-these-key-windows-10-tricks/"><u>2024 Approved Accelerate with These Key Windows 10 Tricks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pause-autoplay-on-youtube-suggested-videos/"><u>2024 Approved Pause Autoplay on YouTube Suggested Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y78plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y78+ Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60x-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme Narzo 60x 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-skype/"><u>Solving Windows 지원 되는 Skype 마이크로폰 문제: 솔루션 스토리</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-skype-audio-issue-repairing-the-inoperative-microphone-on-windows-10/"><u>Solving Your Skype Audio Issue: Repairing the Inoperative Microphone on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-fix-intermittent-noise-problems-with-arctis-7-headset-on-windows/"><u>Step-by-Step Solutions to Fix Intermittent Noise Problems with Arctis 7 Headset on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-for-restoring-speaker-functionality-in-toshibe-laptops/"><u>Top Solutions for Restoring Speaker Functionality in Toshibe Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-idt-hd-audio-codec-issues-for-windows-11-users/"><u>Troubleshooting and Fixing IDT HD Audio Codec Issues for Windows 11 Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-future-cinema-the-vr-impact/"><u>[New] Future Cinema The VR Impact</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-steps-to-restore-obs-fullscreen/"><u>2024 Approved Steps to Restore OBS Fullscreen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-drone-tech-leading-gimbals-ranked/"><u>2024 Approved Top Drone Tech Leading Gimbals Ranked</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-dealing-with-broken-corsair-headset-mics-on-windows-platforms/"><u>Effective Solutions When Dealing with Broken Corsair Headset Mics on Windows Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-diagnosing-and-repairing-your-sennheuser-game-one-microphone-issues/"><u>Expert Advice: Diagnosing and Repairing Your Sennheuser Game One Microphone Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-googles-updated-palm-2-the-latest-in-large-scale-language-models/"><u>Exploring the Capabilities of Google's Updated PaLM 2: The Latest in Large-Scale Language Models</u></a></li>
+<li><a href="https://blog-min.techidaily.com/los-mejores-sitios-web-donde-obtener-animes-gratuitamente-la-lista-definitiva-del-2024/"><u>Los Mejores Sitios Web Donde Obtener Animes Gratuitamente: La Lista Definitiva Del 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-gaming-experience-tips-for-increasing-frames-per-second-fps-in-rust/"><u>Optimize Your Gaming Experience: Tips for Increasing Frames Per Second (FPS) in Rust</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-ace-2v-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus Ace 2V Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-dell-speaker-functionality-in-minutes/"><u>Troubleshoot and Restore Dell Speaker Functionality in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-fortnites-voice-communication-features-now/"><u>Troubleshoot and Restore Fortnite's Voice Communication Features Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-obs-microphone-issues-on-your-computer/"><u>Troubleshooting Guide: Resolving OBS Microphone Issues on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-windows-speaker-crackle-problems-windows-117-audio-tips-and-tricks/"><u>Ultimate Fix for Window's Speaker Crackle Problems - Windows 11/7 Audio Tips & Tricks</u></a></li>
 </ul></div>
 

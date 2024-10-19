@@ -1,7 +1,7 @@
 ---
 title: "Clear Audio Communication on Discord: Diagnosing and Repairing Common Problems"
-date: 2024-09-10T13:00:17.273Z
-updated: 2024-09-11T13:00:17.273Z
+date: 2024-10-15T17:14:30.230Z
+updated: 2024-10-18T19:52:22.571Z
 tags:
   - win11
   - win10
@@ -28,20 +28,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1: Check out the obvious
 
  Whether it is that you cannot hear your friends, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -60,55 +46,34 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Configure the audio settings
 
@@ -120,27 +85,29 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
 
@@ -157,19 +124,6 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
 
@@ -184,8 +138,6 @@ You can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +145,23 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-boost-your-tiktok-game-best-free-edits-for-mac-users-top-10/"><u>[New] In 2024, Boost Your TikTok Game - Best Free Edits for Mac Users (Top 10)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-finding-the-perfect-balance-mastering-iphone-photo-blurring/"><u>[New] In 2024, Finding the Perfect Balance Mastering iPhone Photo Blurring</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-practices-for-4k-screen-recording/"><u>Best Practices for 4K Screen Recording</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581579845-embracing-new-words-anytime/"><u>Embracing New Words, Anytime</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fix-solve-your-bluetooth-sound-delay-issues-instantly/"><u>Fast Fix: Solve Your Bluetooth Sound Delay Issues Instantly</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014784268-fortnite-voice-communication-issues-fix-them-instantly-with-these-simple-steps/"><u>Fortnite Voice Communication Issues? Fix Them Instantly with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-crackling-in-your-arctis-7-gaming-headset-while-using-a-windows-machine/"><u>How To Eliminate Crackling in Your Arctis 7 Gaming Headset While Using a Windows Machine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-c53-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme C53?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-multimedia-conversion-how-to-turn-your-ppts-into-engaging-page-turning-flash-animations-using-flipbuilder/"><u>Mastering Multimedia Conversion: How to Turn Your PPTs Into Engaging Page-Turning Flash Animations Using FlipBuilder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-tips-overcoming-sound-output-difficulties-in-sea-of-thieves-multiplayer/"><u>PC Tips: Overcoming Sound Output Difficulties in Sea of Thieves Multiplayer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/redragon-microphone-repair-fixing-unresponsive-pc-connectivity/"><u>Redragon Microphone Repair: Fixing Unresponsive PC Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-fortnite-communication-solve-microphone-woes-easily/"><u>Revive Your Fortnite Communication - Solve Microphone Woes Easily</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-transform-your-footage-expert-video-editing-for-sony-camcorder-users-for-2024/"><u>Updated Transform Your Footage Expert Video Editing for Sony Camcorder Users for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-back-the-volume-in-cyberpunk-2077-a-guide-for-windows-11-gamers/"><u>Winning Back the Volume in Cyberpunk 2077: A Guide for Windows 11 Gamers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oneplus-nord-ce-3-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On OnePlus Nord CE 3 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

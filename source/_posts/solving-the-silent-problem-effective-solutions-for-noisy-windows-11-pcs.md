@@ -1,7 +1,7 @@
 ---
 title: "Solving the Silent Problem: Effective Solutions for Noisy Windows 11 PCs"
-date: 2024-10-09T02:19:07.031Z
-updated: 2024-10-12T16:40:27.493Z
+date: 2024-10-16T19:46:39.933Z
+updated: 2024-10-18T21:20:47.635Z
 tags:
   - win11
   - win10
@@ -40,6 +40,19 @@ Having no sound coming out from your Logitech G435 gaming headset all of a sudde
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Try G435 on a different device
 
  When your G435 has no sound all of a sudden, the first thing to do is to see if the problem is with the headset itself, or with your computer settings. And the easiest way to do so is to use the headset on a different device.
@@ -62,33 +75,26 @@ To do so:
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_1.jpg)
 2. Switch to LIGHTSPEED — the LED will light cyan for 5 seconds.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_2.jpg)
 3. Switch to Bluetooth, the LED will light blue for five seconds.  
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if G435 works fine under both modes. If the headset has no sound in either mode, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Remove and pair the G435 headset via Bluetooth again
 
@@ -103,10 +109,10 @@ To do so:
 2. Click the**three-dot** button for your Logitech G435 headset, and select**Remove device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-14.png)
@@ -116,13 +122,6 @@ To do so:
  If your G435 headset still doesn’t have sound after this change, please try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Update Windows
 
@@ -137,10 +136,16 @@ To do so:
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then try your G435 headset again to see if it works. If the problem remains, please move on to the next fix.
@@ -148,10 +153,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Select G435 as the sound device in Windows Settings
@@ -167,10 +172,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update the Bluetooth and sound card drivers
@@ -201,17 +206,18 @@ To do so:
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Bluetooth** category, then right-click your Bluetooth adapter (it’s usually the one without any Microsoft wording) and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-17.png)
 3. Select**Power Management** , then untick the box for**Allow the computer to turn off this device to save power** . Then click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-18.png)
 4. Restart your computer for the change to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try your Logitech G435 headset again to see if it works fine now. If not, please move on.
 
@@ -226,6 +232,13 @@ To do so:
  If there’s no new firmware available for your headset, please move on to the final fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Repair system files
 
@@ -266,19 +279,24 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-the-peak-of-data-preservation-cloud-service-guide/"><u>[New] The Peak of Data Preservation Cloud Service Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-standard-definition-to-high-dynamic-range-mastery/"><u>[Updated] From Standard Definition to High Dynamic Range Mastery</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-video-edits-made-simple-with-windows-10s-story-remix/"><u>2024 Approved Innovative Video Edits Made Simple with Windows 10'S Story Remix</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>2024 Approved Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-issues-effective-solutions-when-your-logitech-g430-microphone-fails/"><u>Eliminating Issues: Effective Solutions When Your Logitech G430 Microphone Fails</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-restoring-your-voice-chat-feature-when-playing-valorant/"><u>Expert Tips on Restoring Your Voice Chat Feature When Playing Valorant</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-voice-communication-in-back-4-blood/"><u>Fixing the Issue: How To Restore Voice Communication in 'Back 4 Blood'</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-deactivating-windows-10s-audio-optimization-tools/"><u>Guide: Deactivating Windows 10'S Audio Optimization Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-overcoming-the-firefox-silence-restore-browser-sound-functionality/"><u>Guide: Overcoming the Firefox Silence - Restore Browser Sound Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hearthstone-audio-malfunction-heres-how-to-restore-your-game-sounds/"><u>Hearthstone Audio Malfunction? Here's How to Restore Your Game Sounds!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 13 Pro?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-your-workflow-master-dvd-creation-with-mac-os-x/"><u>In 2024, Elevate Your Workflow Master DVD Creation with Mac OS X</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>In 2024, Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-your-iphone-xs-full-potential/"><u>Unlock Your iPhone X's Full Potential</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-becoming-an-influencer-entrepreneur-creating-a-business-profile-on-ig-for-2024/"><u>[New] Becoming an Influencer Entrepreneur Creating a Business Profile on IG for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>[New] In 2024, How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-joyous-jigsaw-mobile-editors-crafting-humor/"><u>2024 Approved Joyous Jigsaw Mobile Editors Crafting Humor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-common-issues-with-the-logitech-g733-mic/"><u>Diagnosing and Repairing Common Issues with the Logitech G733 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-a-non-responsive-discord-voice-chat-experience/"><u>Effective Solutions for a Non-Responsive Discord Voice Chat Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elevate-your-presence-online-capture-high-definition-webcam-footage-in-vlc-for-2024/"><u>Elevate Your Presence Online Capture High-Definition Webcam Footage in VLC for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-making-discords-push-to-talk-function-work-properly-again/"><u>Expert Tips on Making Discord's Push-to-Talk Function Work Properly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mac-volume-issues-a-complete-guide/"><u>Fixing Mac Volume Issues: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-mic-in-your-dota-2-game-ultimate-solutions/"><u>Fixing the Non-Functional Mic in Your Dota 2 Game – Ultimate Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-speakers-working-again-in-firefox-a-comprehensive-fix/"><u>Get Your Speakers Working Again in Firefox - A Comprehensive Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-crackling-sound-on-speakers-for-windows-11-and-7-users-resolved/"><u>How to Fix Crackling Sound on Speakers for Windows 11 & 7 Users – Resolved!</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6s Plus Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-typing-troubles-overcoming-windows-11s-input-lag-issues/"><u>No More Typing Troubles: Overcoming Windows 11'S Input Lag Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-restoring-audio-on-your-astro-a50-speaker/"><u>Quick Solutions: Restoring Audio on Your Astro A50 Speaker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-astro-a50-microphone-compatibility-issues-for-perfect-sound-quality/"><u>Solve Astro A50 Microphone Compatibility Issues for Perfect Sound Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-correcting-the-d3dx941dll-missing-problem/"><u>The Ultimate Guide to Correcting the d3dx9_41.dll Missing Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-a-defective-jabra-headset-expert-tips/"><u>Troubleshoot and Repair a Defective Jabra Headset: Expert Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-b-roll-in-video-production-effectively-for-2024/"><u>Utilizing B-Roll in Video Production Effectively for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-extravaganza-claim-your-online-offers/"><u>Xbox Extravaganza: Claim Your Online Offers</u></a></li>
 </ul></div>
 

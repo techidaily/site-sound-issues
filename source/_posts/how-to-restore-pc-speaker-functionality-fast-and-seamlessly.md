@@ -1,7 +1,7 @@
 ---
 title: How to Restore PC Speaker Functionality Fast & Seamlessly
-date: 2024-10-11T19:26:14.028Z
-updated: 2024-10-12T21:35:09.925Z
+date: 2024-10-13T03:35:52.627Z
+updated: 2024-10-19T04:25:50.955Z
 tags:
   - win11
   - win10
@@ -30,31 +30,11 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 * [4. Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 * [5. Change your microphone settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the connections
 
  Since HyperX Cloud Alpha comes with a detachable microphone, so it’s important to firmly insert the detachable cable plug to ensure full connectivity (you really need to push it into the headset). Also, make sure not to mute the Mic, and increase the volume to the max level. This is the final fix for many users.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hx-keyfeatures-headset-alpha-4-lg-1200x356.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using HyperX Cloud Alpha on Xbox One, you’ll need an adapter. Make sure the Mute button is not active, and use the buttons on the adapter to adjust the sound and microphone volume. Then go to**Settings** , and go to**Audio** to make sure the microphone is on. (The Cloud Alpha S is only compatible with PC and PS4.)
 
@@ -69,16 +49,10 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 2. Under**Input** , choose the right input device (HyperX Cloud Alpha) and click**Troubleshoot** .  
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/input.jpg)
@@ -92,16 +66,32 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 2. Select **Microphone Privacy Settings** from the results list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microphone-setup.jpg)
 3. Under the **Allow Apps To Access Your Microphone** tab, ensure that the toggle is in the **On**  position so that other apps can use your microphone.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/on.jpg)
 4. Scroll down to choose which app can access your microphone, and make sure that you have it set for all the apps you want.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![choose apps to allow](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps-microphone.jpg)
 5. Now check if your mic is working for the app you’re using.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update your audio driver
@@ -126,13 +116,6 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Change your microphone settings
 
  Normally, Windows can automatically detect your microphone and set it as the default input device once your headphone is plugged into. But sometimes you’ll need to set it as the default device manually:
@@ -140,6 +123,14 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 1. Right-click on the sound icon in the lower-right corner of your desktop, and select **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sounds.jpg)
 2. Go to the **Recording** tab, and make sure your **Headset Microphone** is set as the default device. If not, select your headphone and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![set as default microphone](https://images.drivereasy.com/wp-content/uploads/2020/12/default.png)
 3. Also, make sure it displays your headphone name correctly and shows strong signals. If your headphone is shown as something else, there’s something wrong with your mic settings, so you should re-connect your headset.  
 ![mic not working wrong settings](https://images.drivereasy.com/wp-content/uploads/2020/12/no-connection.png)
@@ -148,20 +139,20 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 5. Click the **Levels** tab, then drag the volume slider towards the largest value (100).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels.jpg)
 6. Click **OK** to apply the changes, and then click **OK** on the last window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now check if your HyperX Cloud Alpha is working now. If not, you can check your game settings to make sure that it is not conflicting with your HyperX mic.
@@ -190,22 +181,20 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/1723014981754-fixed-no-sound-on-computer-quickly-and-easily/"><u>[Fixed] No Sound on Computer - Quickly & Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015007126-fixed-rec-room-mic-not-working-on-pc-2024-guide/"><u>[FIXED] Rec Room Mic Not Working on PC – 2024 Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-your-facebook-cover-leading-websites-for-professionals/"><u>[New] Enhancing Your Facebook Cover Leading Websites for Professionals</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-best-8-online-photo-montage-maker/"><u>2024 Approved Best 8 Online Photo Montage Maker</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chat-not-working-solved/"><u>Apex Legends Voice Chat Not Working [SOLVED]</u></a></li>
-<li><a href="https://win-webster.techidaily.com/are-mac-users-supported-by-flipbuilder-find-out-now/"><u>Are Mac Users Supported by FlipBuilder - Find Out Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-the-challenge-of-echo-during-voice-chats-on-discord-a-detailed-2024-troubleshooting-tutorial-for-pc-users/"><u>Conquer the Challenge of Echo During Voice Chats on Discord - A Detailed 2024 Troubleshooting Tutorial for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-muted-troubleshoot-game-sounds-for-a-perfect-gaming-experience-on-windows-11/"><u>Cyberpunk 2077 Muted? Troubleshoot Game Sounds for a Perfect Gaming Experience on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-problems-with-the-razer-kraken-microphone/"><u>Diagnosing and Correcting Problems with the Razer Kraken Microphone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/funny-ringtones-where-to-download-them-for-2024/"><u>Funny Ringtones Where to Download Them for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977541949-get-the-newest-msi-speakersheadphones-drivers-instantly/"><u>Get the Newest MSI Speakers/Headphones Drivers Instantly!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-depth-zoom-guidance-for-virtual-team-spaces-in-msteams/"><u>In-Depth Zoom Guidance for Virtual Team Spaces in MSTEAMS</u></a></li>
-<li><a href="https://facebook.techidaily.com/journey-to-prominence-in-the-social-sphere/"><u>Journey to Prominence in the Social Sphere</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-top-spots-10plus-websites-to-download-free-and-paid-games/"><u>Updated In 2024, The Top Spots 10+ Websites to Download Free and Paid Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016868170-windows-11-audio-hiccups-uncover-the-ultimate-fix-to-continuous-sound-interruptions/"><u>Windows 11 Audio Hiccups? Uncover the Ultimate Fix to Continuous Sound Interruptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016882973-windows-11-sounds-dropping-out-heres-how-you-can-fix-it/"><u>Windows 11 Sounds Dropping Out? Here's How You Can Fix It</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-comprehensible-approach-to-personal-branding-in-the-youtube-sphere/"><u>[New] In 2024, A Comprehensible Approach to Personal Branding in the YouTube Sphere</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-8-strategies-in-digital-sound-logging-techniques/"><u>[Updated] 2024 Approved Top 8 Strategies in Digital Sound Logging Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-thriving-on-the-grid-maximizing-your-telegram-impact-for-2024/"><u>[Updated] Thriving on the Grid Maximizing Your Telegram Impact for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-your-pathway-to-mastery-in-youtube-vids-on-twitter/"><u>[Updated] Your Pathway to Mastery in YouTube Vids on Twitter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmony-match-maker/"><u>2024 Approved Harmony Match Maker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cs-go-microphone-malfunction-solutions-get-back-to-gaming-now/"><u>CS GO Microphone Malfunction Solutions - Get Back to Gaming Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-lost-sounds-in-bluetooth-pairings-an-ultimate-guide-for-clear-audio/"><u>Fixing Lost Sounds in Bluetooth Pairings: An Ultimate Guide for Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-discord-captures-in-game-sounds-a-complete-guide/"><u>How Discord Captures In-Game Sounds: A Complete Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-overcome-audio-distortion-and-enhance-your-gaming-experience-with-cyberpunk/"><u>How to Overcome Audio Distortion & Enhance Your Gaming Experience with Cyberpunk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-note-taking-with-these-6-superior-ai-assisted-apps/"><u>Revolutionize Your Note-Taking with These 6 Superior AI Assisted Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolution-of-poor-sound-quality-on-a-windows-10-machine/"><u>Step-by-Step Resolution of Poor Sound Quality on a Windows 10 Machine</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-patekfly-12-a-companion-for-all-terrains/"><u>The Patekfly 12: A Companion for All Terrains</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protection-the-ultimate-guide-to-selecting-the-ideal-iphone-14-plus-case/"><u>Top-Rated Protection: The Ultimate Guide to Selecting the Ideal iPhone 14 Plus Case</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015310757-world-of-warcraft-fixes-now-playing-with-surround-sound/"><u>World of Warcraft Fixes – Now Playing with Surround Sound</u></a></li>
 </ul></div>
 

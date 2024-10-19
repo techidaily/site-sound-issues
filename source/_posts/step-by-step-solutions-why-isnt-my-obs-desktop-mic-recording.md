@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Why Isn't My OBS Desktop Mic Recording?"
-date: 2024-09-10T13:04:47.756Z
-updated: 2024-09-11T13:04:47.756Z
+date: 2024-10-13T03:44:39.521Z
+updated: 2024-10-19T02:12:49.142Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/687f213b654e163de402b0cf9fa734fffc6a53510
 
 Objectively, external webcams such as Logitech webcams offer better video quality, plus a range of features. But there are some situations where you may run into issues like the built-in microphone (**it could be your C920 webcame** ) not working all of a sudden. Instead of investing in another expensive webcam, there are several things you can do to reclaim your own voice.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -38,25 +35,12 @@ Objectively, external webcams such as Logitech webcams offer better video qualit
 
 ![how to fix Logitech webcam mic not working](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-webcam-mic-not-working.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 1\. Install all Windows updates
 
@@ -72,29 +56,23 @@ Here’s how you can do this:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed the latest Windows updates, try to use the microphone to check if it’s working now. If not, try the next fix below.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 2\. Update your webcam driver
 
@@ -125,19 +103,12 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 3\. Allow access to your webcam built-in microphone
 
@@ -149,55 +120,20 @@ Here’s how to update your drivers with Driver Easy:
   
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) Once you’ve allowed the microphone to access your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
@@ -221,29 +157,16 @@ Here’s how to update your drivers with Driver Easy:
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 5\. Set your device as default
 
@@ -261,45 +184,11 @@ Here’s how to update your drivers with Driver Easy:
   
 ![set your device as the default](https://images.drivereasy.com/wp-content/uploads/2021/03/microphone.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After applying changes, do a mic test to check if this method did the trick. If the microphone is still not working, you need to check the input sensitivity of your mic to ensure it is not too low or too high which could cause issues. Here’s how you can do this:
 
  1) In the Sound window (shown as the picture above), right-click the microphone and select**Properties** .
 
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## If your microphone is still not working properly…
 
@@ -309,39 +198,24 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ---
 
@@ -355,8 +229,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -364,12 +236,24 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-weave-soundscapes-into-premiere-pro-editing-workflows/"><u>[Updated] 2024 Approved Weave Soundscapes Into Premiere Pro Editing Workflows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-advancing-zoom-clarity-in-online-gatherings-google-meet/"><u>2024 Approved Advancing Zoom Clarity in Online Gatherings (Google Meet)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-15-plus-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 15 Plus screen turns black? | Stellar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-tozo-t6-connectivity-problems-on-the-latest-microsoft-operating-system-windows-11/"><u>Fixing Tozo T6 Connectivity Problems on the Latest Microsoft Operating System, Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016426967-hp-laptop-muting-mystery-get-it-working-in-windows-10-and-beyond/"><u>HP Laptop Muting Mystery? Get It Working in Windows 10 and Beyond</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oneplus-ace-2v-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from OnePlus Ace 2V to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-communication-in-cs2-troubleshooting-and-correcting-microphone-issues/"><u>Mastering Communication in CS2: Troubleshooting and Correcting Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-issues-resolved-tips-for-getting-your-sound-back-on-track/"><u>Razer Kraken Microphone Issues Resolved: Tips for Getting Your Sound Back On Track</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-7-microphone-issues-quick-and-easy-fixes/"><u>Resolving Windows 7 Microphone Issues Quick & Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-reactivate-your-dysfunctional-bose-speakers/"><u>Step-by-Step Solutions to Reactivate Your Dysfunctional Bose Speakers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-secret-sauce-for-clearer-more-informative-youtube-videos-for-2024/"><u>The Secret Sauce for Clearer, More Informative YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/this-chrome-extension-makes-chatgpt-prompting-easy/"><u>This Chrome Extension Makes ChatGPT Prompting Easy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-upping-speaker-levels-in-the-latest-windows-operating-system/"><u>Ultimate Tricks for Upping Speaker Levels in the Latest Windows Operating System</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fcpx-problem-solving-guide-fix-errors-and-optimize-performance/"><u>Updated In 2024, FCPX Problem-Solving Guide Fix Errors and Optimize Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-fix-enabling-visibility-for-headphones-in-media-controls/"><u>Windows 11 Audio Fix: Enabling Visibility for Headphones in Media Controls</u></a></li>
+</ul></div>
 

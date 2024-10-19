@@ -1,7 +1,7 @@
 ---
 title: "OBS Audio Glitches Demystified: A Step-by-Step Guide for Resolving Non-Working Microphones"
-date: 2024-09-10T13:08:34.726Z
-updated: 2024-09-11T13:08:34.726Z
+date: 2024-10-16T00:13:59.713Z
+updated: 2024-10-19T00:17:06.030Z
 tags:
   - win11
   - win10
@@ -24,13 +24,10 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 3. **[Reinstall Logitech Gaming Software](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Allow access to your headset microphone (for Windows 10 users)](https://www.drivereasy.com/knowledge/logitech-g533-mic-not-working-solved/#fix4)**
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fix 1 – Check your microphone settings
 
@@ -42,46 +39,8 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-0.jpg)
 3. Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-3-1.jpg)
 4. If your Logitech G533 microphone is disabled, right-click it and click**Enable** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-4-1.jpg)
 5. Make sure the microphone is set as the default device. If not, click it and click**Set Default** .  
@@ -89,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 6. Right-click your microphone and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7.jpg)
 7. Select the**Levels** tab. If the microphone is muted, click the**speaker icon** to unmute it.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-2.jpg)
 8. Drag the slider under Microphone to the left to maximize the volume. Then, click**OK** .  
@@ -115,19 +61,12 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 
  If you’re using the wrong audio driver or it’s out of date, the Logitech G533 headset microphone won’t function properly. So you should update your audio driver to see if it fixes the problem. Here are two options you can get the latest and right audio driver in a safe way: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Option 1 – Manually download and install the driver
 
@@ -148,36 +87,15 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1-3.jpg)
 3. Click the **Update**  button next to the flagged _Logitech G533 driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-6.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Check how your Logitech G533 headset microphone works after the driver update. Still no luck? Then try the next fix below.
 
@@ -192,18 +110,12 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-3.jpg)
 3. Click**Logitech Gaming Software** and click**Uninstall/Change** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-1.jpg)
 4. Follow the on-screen instructions to completely uninstall the program.
@@ -217,19 +129,12 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 4 – Allow access to your headset microphone (for Windows 10 users)
 
@@ -242,34 +147,14 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-6.jpg)
 4. Make sure**Allow apps to access your microphone** is turned**on** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-4.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  After finishing the steps above, check if your mic-not-working issue is resolved. If unfortunately, none of the preceding fixes does the trick, chances are that the microphone is physically broken and you may consider contacting the vendor for further assistance.
 
@@ -286,8 +171,6 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,12 +178,22 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-amassing-attention-on-ig-a-guide-for-a-thousand-likesmonth/"><u>[New] In 2024, The Art of Amassing Attention on IG A Guide for a Thousand Likes/Month</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>[New] Share Wide Enhancing Instagram Stories With YouTube Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exquisite-talent-in-vr-content-development/"><u>[Updated] Exquisite Talent in VR Content Development</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhancing-mobile-cinematography-the-top-9-accessories-reviewed/"><u>[Updated] In 2024, Enhancing Mobile Cinematography - The Top 9 Accessories Reviewed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-hiss-and-hum-learn-how-to-silence-those-bothersome-sounds-for-quiet-listening/"><u>Headphone Hiss and Hum? Learn How to Silence Those Bothersome Sounds for Quiet Listening</u></a></li>
+<li><a href="https://blog-min.techidaily.com/high-quality-dvd-conversion-guide-convert-your-dvds-to-wmv-format-using-windows/"><u>High-Quality DVD Conversion Guide: Convert Your DVDs to WMV Format Using Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-15-pro-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 15 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-best-way-to-record-a-powerpoint-presentation/"><u>In 2024, The Best Way to Record a PowerPoint Presentation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-restoring-sound-to-your-skype-conferences/"><u>Master the Art of Restoring Sound to Your Skype Conferences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016591300-no-audio-in-battlefield-4-discover-how-to-bring-your-game-back-to-life/"><u>No Audio in Battlefield 4? Discover How to Bring Your Game Back to Life!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-idt-high-definition-audio-codec-conflicts-on-your-new-windows-11-pc/"><u>Resolving IDT High Definition Audio Codec Conflicts on Your New Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-persistent-sound-issues-in-windows-11-systems/"><u>Solution Steps for Persistent Sound Issues in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-dota-2-mic-fails/"><u>Troubleshooting Steps: When Your Dota 2 Mic Fails</u></a></li>
+</ul></div>
 

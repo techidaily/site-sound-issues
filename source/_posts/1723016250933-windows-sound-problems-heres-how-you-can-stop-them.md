@@ -1,7 +1,7 @@
 ---
 title: Windows Sound Problems? Here's How You Can Stop Them
-date: 2024-09-10T13:00:47.316Z
-updated: 2024-09-11T13:00:47.316Z
+date: 2024-10-18T00:08:12.622Z
+updated: 2024-10-18T19:44:47.416Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/c923509aabb39b0eb7c18cacb723349038dd49742
 
 If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound coming out from your speaker and/or your headphones, you’re not alone. We’ve received reports from many Windows users reporting it. But no worries, you can get it fixed.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## **How do I fix it?**
 
@@ -43,20 +40,6 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52a57919f5.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) View by **Large icons** and select **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ab2cb848.jpg)
@@ -65,53 +48,27 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ae2775a7.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Click **Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b6ad9a11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Check to see if your audio crackling problem is gone.
 
@@ -123,25 +80,25 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52db77fe74.png)
 
 If you don’t see this option here, move on to the next steps.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## **3\. DPC Latency**
 
@@ -153,29 +110,22 @@ If you don’t see this option here, move on to the next steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5313c8fd13.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
 
@@ -191,37 +141,9 @@ If you don’t see this option here, move on to the next steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -234,8 +156,6 @@ If you don’t see this option here, move on to the next steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,12 +163,19 @@ If you don’t see this option here, move on to the next steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unlock-free-youtube-introend-customization/"><u>[New] 2024 Approved Unlock Free YouTube Intro/End Customization</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-scouting-for-starred-youtube-conversations-for-2024/"><u>[Updated] Scouting for Starred YouTube Conversations for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/empower-your-twitch-viewing-with-these-top-5-downloader-apps/"><u>Empower Your Twitch Viewing with These Top 5 Downloader Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-front-headphone-jack-troubleshooting-steps/"><u>Fixing a Non-Functional Front Headphone Jack - Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-disconnection-alerts-due-to-multiple-software-access-on-one-device/"><u>Fixing HDMI Disconnection Alerts Due to Multiple Software Access on One Device</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-realtek-digital-output-sound-problem-and-restore-audio-functionality/"><u>How to Resolve Realtek Digital Output Sound Problem and Restore Audio Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-analysis-does-inshot-stand-out-in-editing-software-for-2024/"><u>In-Depth Analysis Does InShot Stand Out in Editing Software for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/reinvent-your-hard-drive-troubles-with-clone-disk-software-aomeis-ultimate-backup-solution/"><u>Reinvent Your Hard Drive Troubles with Clone Disk Software – AOMEI's Ultimate Backup Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-headphone-port-on-your-laptop/"><u>Troubleshooting Guide: Fixing a Nonfunctional Headphone Port on Your Laptop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-forcefully-reset-your-iphone-and-reach-the-recovery-interface/"><u>Troubleshooting Tips: How to Forcefully Reset Your iPhone & Reach the Recovery Interface</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-open-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Open? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

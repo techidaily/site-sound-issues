@@ -1,7 +1,7 @@
 ---
 title: "Microphone Diagnosis: A Fast Track to Perfect Sound Quality"
-date: 2024-10-07T00:03:18.020Z
-updated: 2024-10-12T22:06:15.573Z
+date: 2024-10-12T00:19:37.187Z
+updated: 2024-10-18T22:05:10.997Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 4. **[Check the sound settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Change the power management settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Do some basic troubleshooting
 
  To troubleshoot the temporary device glitches, you could try a few common workarounds:
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged_Rift S driver_ and_USB adapter driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-2-1.jpg)
 
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check how your headset microphone works. If the driver update doesn’t help, continue to the third fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Allow access to your microphone
 
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/privacy-settings-1.jpg)
 4. Scroll to the Allow desktop apps to access your microphone section and **toggle on**  the button below.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-1.jpg)
 
  Test your Oculus Rift S mic with a game or program. Still no luck? Check out the next method then.
@@ -105,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-1.jpg)
 2. Select**Small icons** next to View by, and then click**Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2.jpg)
 3. On the**Recording** tab, make sure your Oculus Rift S Microphone is**enabled** . Then right-click it and select**Set as Default Device** . If you don’t see your microphone listed, tick**Show Disabled Devices** first.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/rift-settings-1.jpg)
@@ -119,28 +112,28 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/rift-settings-2.jpg)
 5. Navigate to the**Levels** tab. Make sure**the microphone is not muted** and**turn up the volume to the max** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Are you able to use the Oculus Rift S mic now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Change the power management settings
@@ -150,15 +143,16 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 1. Type**device manager** in the search box and click**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager.jpg)
 2. Double-click**Universal Serial Bus controllers** . Then right-click**USB Root Hub** from the list and select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-2.jpg)
-3. Navigate to the**Power Management** tab and**untick the box** next to Allow the computer to turn off this device to save power. Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-2.jpg)
+3. Navigate to the**Power Management** tab and**untick the box** next to Allow the computer to turn off this device to save power. Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-3.jpg)
 4. If you have more than one USB root hubs, repeat the steps above to disable the power management for them all.
@@ -167,16 +161,23 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 6. Righ-click**Rift Sensor** and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-5.jpg)
 7. Select the**Power Management** tab and **untick Allow the computer to turn off this device to save power** . Then, click**OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-6.jpg)
 8. Repeat the steps to disable the power-saving option of all the Rift sensors.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When it’s all set, you should see the Oculus Rift S mic return to normal and it will give you the VR experience as expected.
 
@@ -203,24 +204,14 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-exclusive-review-of-top-mp4-players-for-2024/"><u>[New] Exclusive Review of Top MP4 Players for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-lifelong-banishment-process-for-compact-youtube-videos/"><u>[New] Lifelong Banishment Process for Compact YouTube Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-pathway-to-popularity-strategies-for-soaring-viewership/"><u>[Updated] The Pathway to Popularity Strategies for Soaring Viewership</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-footage-to-film-how-to-make-a-dvd-with-the-best-software/"><u>2024 Approved From Footage to Film How to Make a DVD with the Best Software</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-xcover-6-pro-tactical-edition-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy XCover 6 Pro Tactical Edition Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/1716270675890-how-to-add-crop-and-edit-music-to-canva-video/"><u>How To Add, Crop And Edit Music To Canva Video?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-15-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 15 Pro in the Best Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-edge-40-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Edge 40 Pro online without jailbreak</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/mastering-video-editing-replacing-audio-tracks-a-comprehensive-guide-part-1/"><u>Mastering Video Editing Replacing Audio Tracks - A Comprehensive Guide (Part 1)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/oculus-quest-2-troubleshooting-repairing-and-fixing-a-defective-headset-mic/"><u>Oculus Quest 2 Troubleshooting - Repairing and Fixing a Defective Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-nvidias-silent-troubles-how-to-get-your-hd-stereo-back/"><u>Overcoming Nvidia's Silent Troubles: How to Get Your HD Stereo Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-tips-for-addressing-noise-absence-from-conexant-smartaudio-hd-under-windows-11/"><u>Quick Fix Tips for Addressing Noise Absence From Conexant SmartAudio HD Under Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-no-audio-issues-in-windows-10/"><u>Quick Fixes for 'No Audio' Issues in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-hd-sound-system-not-working-easy-solutions-to-ensure-proper-connection/"><u>Realtek HD Sound System Not Working? Easy Solutions to Ensure Proper Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/redragon-microphone-fix-resolving-pc-connectivity-issues/"><u>Redragon Microphone Fix: Resolving PC Connectivity Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-windows-10-audio-glitches-with-these-easy-steps/"><u>Resolve Windows 10 Audio Glitches with These Easy Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-runmuss-headset-mic-no-sound-during-games/"><u>Resolving Issues with Runmuss Headset Mic - No Sound During Games?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-malfunctioning-logitech-microphone-and-webcam-setup/"><u>Solution Steps for Malfunctioning Logitech Microphone & Webcam Setup</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/turn-the-tape-counterclockwise-instagrams-reverse-play-technique/"><u>Turn the Tape Counterclockwise Instagram's Reverse Play Technique</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-transforming-your-channel-url-step-by-step-instructions/"><u>[Updated] 2024 Approved Transforming Your Channel URL Step-by-Step Instructions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-nikons-leap-to-4k-the-d500-breakdown-for-2024/"><u>[Updated] Nikon's Leap to 4K The D500 Breakdown for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/gifpng-movavi/"><u>免費線上改造GIF成PNG格式：如何利用 Movavi 工具</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-implementing-captions-in-your-instastory-presentations/"><u>Complete Walkthrough: Implementing Captions in Your InstaStory Presentations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/digital-dominance-display-top-10-by-followers/"><u>Digital Dominance Display Top 10 by Followers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-astro-a50s-microphone-working-again/"><u>How to Get Your Astro A50's Microphone Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015714518-how-to-get-your-laptops-speakers-back-in-action/"><u>How to Get Your Laptop's Speakers Back in Action</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-noise-continuity-overcoming-sound-hiccups-in-windows-11-systems/"><u>Mastering Noise Continuity: Overcoming Sound Hiccups in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-runmuss-game-headset-microphone-woes/"><u>Troubleshoot and Fix Your Runmuss Game Headset Microphone Woes</u></a></li>
 </ul></div>
 

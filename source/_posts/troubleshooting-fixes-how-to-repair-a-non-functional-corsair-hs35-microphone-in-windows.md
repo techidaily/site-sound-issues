@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How to Repair a Non-Functional Corsair HS35 Microphone in Windows"
-date: 2024-09-10T13:01:27.907Z
-updated: 2024-09-11T13:01:27.907Z
+date: 2024-10-16T01:25:32.800Z
+updated: 2024-10-19T01:39:46.831Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
  Microphone not working when you’re on a Webex meeting? You’re not alone! Such audio issues are quite common but they’re usually not hard to fix. Even if you’re not familiar with computer, follow this post and you’ll be able to tackle the Webex microphone not working issue easily and quickly.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -35,20 +32,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 2. [**Allow Webex to access your microphone**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check the Webex settings](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1 – Troubleshoot the connection
 
@@ -68,52 +51,25 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2 – Update your audio driver
 
@@ -139,24 +95,17 @@ There are mainly two ways you can update the audio driver:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3 – Check the Webex settings
 
@@ -170,19 +119,12 @@ There are mainly two ways you can update the audio driver:
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
@@ -198,8 +140,6 @@ There are mainly two ways you can update the audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,12 +147,24 @@ There are mainly two ways you can update the audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-social-media-savvy-top-trending-hashtags-for-youtubers/"><u>[New] In 2024, Social Media Savvy Top Trending Hashtags for Youtubers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-keeping-secrets-on-screen-tips-for-private-content-reduction/"><u>[Updated] 2024 Approved Keeping Secrets on Screen Tips for Private Content Reduction</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-analyzing-lack-of-interaction-is-it-a-block/"><u>[Updated] Analyzing Lack of Interaction Is It a Block?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-store-complete-online-interface/"><u>2024 Approved Store Complete Online Interface</u></a></li>
+<li><a href="https://video-capture.techidaily.com/converting-mac-image-types-a-step-by-step-process/"><u>Converting Mac Image Types A Step-by-Step Process</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-10-audio-issues-a-comprehensive-guide/"><u>Fixing Windows 10 Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-chat-malfunction-in-the-game-back-4-blood/"><u>How to Fix Voice Chat Malfunction in the Game 'Back 4 Blood'</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-followers-footprints-trail-blazing-techniques/"><u>In 2024, Insta Followers Footprints Trail-Blazing Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-online-marketplaces-for-yt-channel-sales/"><u>In 2024, Navigating Online Marketplaces for YT Channel Sales</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g933-mic-troubleshooting-guide-finding-the-perfect-solution/"><u>Logitech G933 Mic Troubleshooting Guide - Finding The Perfect Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016699528-no-sound-from-windows-media-player-find-out-why-and-how-to-resolve-it/"><u>No Sound From Windows Media Player? Find Out Why and How to Resolve It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-challenges-in-restoring-your-clownfish-vocal-manipulation-tools-functionality/"><u>Overcoming Common Challenges in Restoring Your Clownfish Vocal Manipulation Tool's Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-fortnite-soundscape-expert-tips-on-correcting-auditory-errors/"><u>Revive Your Fortnite Soundscape: Expert Tips on Correcting Auditory Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-soundscape-solutions-for-cyberpunk-2077s-sound-issues-on-windows-11/"><u>Reviving Soundscape: Solutions for Cyberpunk 2077'S Sound Issues on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-manowar-microphone-effective-fixes-for-sound-problems/"><u>Reviving Your Razer ManO'War Microphone: Effective Fixes for Sound Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722692790188-the-ultimate-test-reviewing-performance-and-capacity-of-halo-bolt-chargerstarter-combo/"><u>The Ultimate Test: Reviewing Performance and Capacity of Halo Bolt Charger/Starter Combo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-distorted-audio-in-your-cyberpunk-2077-gameplay/"><u>Troubleshoot and Fix Distorted Audio in Your Cyberpunk 2077 Gameplay</u></a></li>
+</ul></div>
 

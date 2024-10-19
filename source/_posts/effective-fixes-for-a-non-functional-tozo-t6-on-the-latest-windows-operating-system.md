@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for a Non-Functional Tozo T6 on the Latest Windows Operating System
-date: 2024-09-10T13:06:00.492Z
-updated: 2024-09-11T13:06:00.492Z
+date: 2024-10-16T23:50:44.222Z
+updated: 2024-10-18T18:20:55.355Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
  If**the sound is not working** on your HP laptop (either HP pavilion or HP Envy laptop), don’t worry. This is a common issue. The good news is, you can**fix sound not working** **on HP laptop** quickly and easily.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## How to fix HP Laptop Sound Not Working
 
@@ -36,26 +33,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### **Fix 1: Troubleshoot the hardware issue**
 
@@ -72,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
  If the sound gets working again, it should be a problem of the headphone jack on your laptop, so you can**clean the jacks with a cotton swab or soft brush** ; Or it can be a problem of your headphone, **replace with another headphone cord or try another new headphone** to have the sound working through your headphone.
 
  If the sound is still not working, here’s the next thing to try…
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Check the audio settings in your Windows**
 
@@ -95,29 +79,16 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a446177e761d.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 3) Test the sound on your laptop so see whether there is any sound.
 
@@ -129,37 +100,22 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
@@ -177,49 +133,35 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Try the sound to see if it works.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Update your sound driver**
 
@@ -239,19 +181,12 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
@@ -260,20 +195,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 4) Restart your computer and check whether your problem is solved.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### **Fix 4: Reinstall your audio driver**
 
@@ -285,19 +206,12 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Right-click your sound device and click**Uninstall device** .
 
@@ -307,27 +221,20 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
-
-
-
+ 5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
- 5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
 
 ### Fix 5: Check for corrupted system files
 
@@ -353,20 +260,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ---
 
  These are the fix**easy solutions to fix the sound not working on HP laptop** . If you have any questions, feel free to comment below and we will see what more we can do to help.
@@ -380,8 +273,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -389,12 +280,19 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>[New] 2024 Approved Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-premiere-pro-streamline-for-online-video-uploads/"><u>[New] 2024 Approved Premiere Pro Streamline for Online Video Uploads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-master-the-art-of-streamlined-screen-recordings-on-mac/"><u>[Updated] 2024 Approved Master the Art of Streamlined Screen Recordings on Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chuckle-forge-mutant-comedy-creatures/"><u>[Updated] Chuckle Forge Mutant Comedy Creatures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhance-and-elevate-free-mobile-image-enhancer/"><u>[Updated] In 2024, Enhance & Elevate Free Mobile Image Enhancer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016955817-bluetooth-sound-delay-solutions-fast-and-simple-fixes/"><u>Bluetooth Sound Delay Solutions: Fast and Simple Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-free-games-with-a-simple-redeem/"><u>Get Free Games with a Simple Redeem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unresponsive-headphones-in-windows-11/"><u>How to Resolve Unresponsive Headphones in Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/idea-ink-the-top-10-iosandroid-image-writing-tools/"><u>Idea Ink The Top 10 iOS/Android Image-Writing Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemasters-secrets-to-transition-excellence/"><u>Kinemaster's Secrets to Transition Excellence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-digital-problems-starting-the-audio-driver-in-windows-10-easily/"><u>Overcoming Dolby Digital Problems: Starting the Audio Driver in Windows 10 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-a-comprehensive-guide-to-audio-troubleshooting-on-your-computer/"><u>Solving 'No Sound' Problems: A Comprehensive Guide to Audio Troubleshooting on Your Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Non-Responsive Steam Voice Chat Feature
-date: 2024-10-06T18:22:29.983Z
-updated: 2024-10-13T01:49:17.025Z
+date: 2024-10-12T22:45:25.414Z
+updated: 2024-10-19T02:23:59.832Z
 tags:
   - win11
   - win10
@@ -63,24 +63,24 @@ Here’s how you can do this:
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve done that, verify via the speaker icon in the taskbar that the audio is not muted and is turned up. Then you can test by playing a song. If your Creative Pebble speakers still won’t produce any sound, don’t worry, there are a few other fixes you can try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your sound driver
 
@@ -103,10 +103,10 @@ Here’s how to update drivers with Driver Easy:
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -126,10 +126,10 @@ Here’s how to update drivers with Driver Easy:
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
@@ -161,19 +161,21 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-dji-drone-techniques-for-effective-facebook-livestreams/"><u>[New] 2024 Approved DJI Drone Techniques for Effective Facebook Livestreams</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-evaluating-streamlabs-vs-competitive-embedders/"><u>[New] 2024 Approved Evaluating StreamLabs Vs. Competitive Embedders</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-hearthstone-no-sound-issue/"><u>[SOLVED] Hearthstone No Sound Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-logitech-webcam-microphone-not-working/"><u>[SOLVED] Logitech Webcam Microphone Not Working</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-eco-friendly-visual-effect-systems-a-beginners-guide/"><u>[Updated] 2024 Approved Top Eco-Friendly Visual Effect Systems A Beginner's Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-stepwise-strategies-to-make-a-stellar-youtube-opening-sequence/"><u>[Updated] Stepwise Strategies to Make a Stellar YouTube Opening Sequence</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1-pc-startup-issues-in-2er-gelusted-troubleshooting-non-bootable-systems/"><u>1. 'PC Startup Issues in 2Er Gelüsted: Troubleshooting Non-Bootable Systems'</u></a></li>
-<li><a href="https://article-files.techidaily.com/a-complete-guide-to-videdit-studio-pro-features-and-more-for-2024/"><u>A Complete Guide to VidEdit Studio Pro, Features and More for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-better-seo-results/"><u>Harness the Power of Cookiebot for Better SEO Results</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-reno-11f-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-corsair-hs70-mic-malfunction-effective-diagnosis-and-repair-methods/"><u>Solve Your Corsair HS70 Mic Malfunction: Effective Diagnosis and Repair Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-guide-reviving-your-unresponsive-wireless-headset-mic/"><u>Step-by-Step Fix Guide: Reviving Your Unresponsive Wireless Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-tips-for-a-malfunctioning-mic-on-the-steelseries-arctis-7/"><u>Step-by-Step Troubleshooting Tips for a Malfunctioning Mic on the SteelSeries Arctis 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-resolving-disruptive-echo-on-discord-updated/"><u>Step-by-Step Tutorial for Resolving Disruptive Echo on Discord - Updated</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-reclaim-lost-watch-video-preview/"><u>[Updated] 2024 Approved Reclaim Lost Watch Video Preview</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-achieve-optimum-stability-incorrances-for-tripods-in-vlog-shoots-for-2024/"><u>[Updated] Achieve Optimum Stability Incorrances for Tripods in Vlog Shoots for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-strategies-for-effective-macscreencasting/"><u>[Updated] Innovative Strategies for Effective MacScreencasting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-multitasking-firefox-picture-in-picture-explained/"><u>[Updated] Mastering Multitasking Firefox Picture-in-Picture Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-inoperative-audio-ports-on-notebook-computers/"><u>Diagnosing and Repairing Inoperative Audio Ports on Notebook Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-9-outstanding-simulators-for-steam-decks/"><u>Discovering 9 Outstanding Simulators for Steam Decks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017023755-fix-sizzling-sound-in-earbuds-simple-solutions-for-noise-free-listening/"><u>Fix Sizzling Sound in Earbuds: Simple Solutions for Noise-Free Listening</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014822429-from-mute-to-music-resolving-sound-problems-in-your-hp-laptop-today/"><u>From Mute to Music: Resolving Sound Problems in Your HP Laptop Today</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-smartphone-photo-and-film-capture-iphoneandroid-comparison/"><u>In 2024, Expert Smartphone Photo & Film Capture IPhone/Android Comparison</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-selecting-a-prime-livestream-service-top-10-essentials/"><u>In 2024, Selecting a Prime Livestream Service Top 10 Essentials</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shortcut-to-go-to-tags-maximizing-your-youtube-impact/"><u>In 2024, Shortcut to Go-To Tags Maximizing Your YouTube Impact</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-sounds-of-silence-troubleshooting-windows-audio-issues/"><u>Solving the Sounds of Silence: Troubleshooting Windows Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functioning-sounds-on-your-windows-7-pc/"><u>Troubleshooting Non-Functioning Sounds on Your Windows 7 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-playback-of-anthem-games-on-windows-nt/"><u>Troubleshooting Silent Playback of Anthem Games on Windows nT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-new-world-audio-problems/"><u>Ultimate Guide: Solving New World Audio Problems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>Updated 2024 Approved Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting HDMI Sound Problems in Windows 7 - Expert Advice & Solutions
-date: 2024-10-07T20:43:34.057Z
-updated: 2024-10-13T01:07:23.547Z
+date: 2024-10-12T20:18:15.537Z
+updated: 2024-10-19T04:28:36.410Z
 tags:
   - win11
   - win10
@@ -73,6 +73,14 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
@@ -89,43 +97,37 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -150,22 +152,16 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>[New] Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-short-sensation-keywords-for-enhancing-video-shows-virality/"><u>[Updated] 2024 Approved Short Sensation Keywords for Enhancing Video Shows' Virality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-freelancers-companion-easy-and-affordable-audio-effect-additions/"><u>[Updated] The Freelancer's Companion Easy and Affordable Audio Effect Additions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-audio-archive-checkout-and-scrutiny/"><u>2024 Approved Audio Archive Checkout & Scrutiny</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-11-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 11 How to Bypass?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-your-iphone-to-recognize-location-again-expert-advice/"><u>Getting Your iPhone to Recognize Location Again: Expert Advice</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 15</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-restoring-sound-functionality-to-your-conexant-smartaudio-hd-with-windows-10/"><u>Step-by-Step Solution: Restoring Sound Functionality to Your Conexant SmartAudio HD with Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-to-restore-voice-chat-functionality-in-destiny-2/"><u>Step-by-Step Tutorial to Restore Voice Chat Functionality in Destiny 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-broken-microphone-in-steelseries-arctis-prime/"><u>Troubleshooting Guide for Broken Microphone in SteelSeries Arctis Prime</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-what-to-do-if-logitechs-built-in-microphone-stops-functioning/"><u>Troubleshooting Guide: What to Do If Logitech's Built-In Microphone Stops Functioning?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turning-up-the-volume-a-step-by-step-guide-to-fix-no-sound-in-google-chrome/"><u>Turning Up The Volume: A Step-by-Step Guide to Fix No Sound in Google Chrome</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-how-to-troubleshoot-unresponsive-pc-speakers/"><u>Ultimate Guide: How To Troubleshoot Unresponsive PC Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-for-cyberpunk-2erpunks-distorted-sounds-fixing-common-issues/"><u>Ultimate Troubleshooting for Cyberpunk 2Erpunk's Distorted Sounds - Fixing Common Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-xcover-7s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy XCover 7s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-troubleshooting-guide-eliminating-audio-glitches/"><u>World of Warcraft Troubleshooting Guide: Eliminating Audio Glitches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-ultimate-crops-and-cultivation-compilation/"><u>[New] In 2024, The Ultimate Crops & Cultivation Compilation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevating-engagement-with-strategic-audio-additions-for-2024/"><u>[Updated] Elevating Engagement with Strategic Audio Additions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-innovative-animation-solutions-with-advanced-3d-modellers/"><u>In 2024, Innovative Animation Solutions with Advanced 3D Modellers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/nvidia-hd-audio-troubleshooting-how-to-get-back-your-sound/"><u>Nvidia HD Audio Troubleshooting: How To Get Back Your Sound</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-effective-ways-to-stop-endless-restart-cycles-in-windows-11/"><u>Quick and Effective Ways to Stop Endless Restart Cycles in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-windows-11-speaker-setup-issues-for-optimal-audio-performance/"><u>Solve Your Windows 11 Speaker Setup Issues for Optimal Audio Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-getting-your-redragon-pc-mic-back-in-action/"><u>Step-by-Step Guide: Getting Your Redragon PC Mic Back in Action</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-secret-sauce-to-never-miss-a-moment-on-youtube-for-2024/"><u>The Secret Sauce to Never Miss a Moment on YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-corsair-headset-working-effective-fixes-to-get-it-up-and-running/"><u>Why Isn't My Corsair Headset Working? Effective Fixes to Get It Up & Running</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-pc-sensor-error-noted/"><u>Windows PC Sensor Error Noted</u></a></li>
 </ul></div>
 

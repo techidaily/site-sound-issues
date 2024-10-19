@@ -1,7 +1,7 @@
 ---
 title: "Resolve Your PC's Sound Glitches: A Step-by-Step Guide for Windows Cuarenta [Spanish]"
-date: 2024-09-10T13:00:15.933Z
-updated: 2024-09-11T13:00:15.933Z
+date: 2024-10-12T02:34:47.035Z
+updated: 2024-10-18T22:35:02.384Z
 tags:
   - win11
   - win10
@@ -44,29 +44,23 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### **Fix 2: Update your audio driver**
 
@@ -88,39 +82,11 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -131,20 +97,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -153,27 +105,33 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
@@ -183,55 +141,20 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  8) Save your changes and restart your computer.
 
@@ -258,8 +181,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +188,26 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-anthem-no-sound-in-windows-11/"><u>[FIXED] Anthem No Sound in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-the-secret-of-youtube-to-gif-conversion-begin-here-for-2024/"><u>[New] Unlock the Secret of YouTube-to-GIF Conversion - Begin Here for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-meme-mastery-money-making-the-financial-figures-of-a-video-virtuoso/"><u>[Updated] In 2024, Meme Mastery Money-Making The Financial Figures of a Video Virtuoso</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-podcast-logo-basics-key-principles-for-striking-art/"><u>[Updated] Podcast Logo Basics Key Principles for Striking Art</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-11-best-online-facebook-cover-photo-makers/"><u>[Updated] Top 11 Best Online Facebook Cover Photo Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fixing-half-silenced-facebook-video-volume/"><u>2024 Approved Fixing Half-Silenced Facebook Video Volume</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crack-the-code-to-clear-audio-fixing-conexant-smartaudio-hd-sound-issues-in-your-windows-10-system/"><u>Crack the Code to Clear Audio: Fixing Conexant SmartAudio HD Sound Issues in Your Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-logitech-g-pro-x-microphone-failures/"><u>Expert Tips on Resolving Logitech G Pro X Microphone Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-tozo-t6-malfunctions-in-the-latest-windows-11-operating-system/"><u>Fixing Tozo T6 Malfunctions in the Latest Windows 11 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-bluetooth-up-and-running-on-windows-11-troubleshooting-steps-for-a-seamless-connection/"><u>Get Bluetooth Up and Running on Windows 11: Troubleshooting Steps for a Seamless Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016045091-how-to-get-your-call-of-duty-black-ops-cold-war-game-voice-chat-up-and-running-again/"><u>How to Get Your Call of Duty Black Ops Cold War Game Voice Chat Up and Running Again!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-inside-the-best-windows-10-features/"><u>In 2024, Inside the Best Windows 10 Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfect-your-igtv-presentations-with-top-video-editors/"><u>Perfect Your IGTV Presentations with Top Video Editors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pro-tips-for-smooth-playthroughs-overcoming-age-of-empires-4s-stuttering-challenge/"><u>Pro Tips for Smooth Playthroughs - Overcoming Age of Empires 4'S Stuttering Challenge</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-skype-audio-problems-windows-11-guide/"><u>Solving Skype Audio Problems: Windows 11 Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-to-clear-up-erratic-sounds-and-distortions-in-windows-os/"><u>The Definitive Solution to Clear Up Erratic Sounds and Distortions in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-sennheiser-game-one-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Sennheiser Game One Microphone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uniting-skype-and-zoom-for-seamless-video-calls-for-2024/"><u>Uniting Skype & Zoom for Seamless Video Calls for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-cause-of-error-30005-failed-files/"><u>Unraveling the Cause of Error 30005: Failed Files</u></a></li>
+</ul></div>
 

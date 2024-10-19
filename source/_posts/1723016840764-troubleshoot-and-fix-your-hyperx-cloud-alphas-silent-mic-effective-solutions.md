@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix Your HyperX Cloud Alpha's Silent Mic - Effective Solutions
-date: 2024-09-10T13:05:56.274Z
-updated: 2024-09-11T13:05:56.274Z
+date: 2024-10-13T23:12:10.668Z
+updated: 2024-10-18T18:31:12.071Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
  Cloud Alpha S is still one of the most popular products of HyperX. But some users have reported their headset mic is not working. If you’re on the same boat, don’t worry. It’s rather easy to fix, and we’ve put together some working fixes for you. Read on and find out what they are…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes…
 
@@ -55,33 +38,27 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
 [5: Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your microphone connection is solid
 
  HyperX Cloud Alpha S continues the design of the detachable microphone from the regular Cloud Alpha. If your microphone is not connected firmly, you may still hear sounds from your headset but can’t use the microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hx-product-headset-alpha-s-black-2-lg-1.jpg)
 
- If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+ If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
 
 ## Fix 2: Enable your headset mic for recording
 
@@ -91,36 +68,17 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
 
@@ -134,21 +92,22 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/search-sound-input.jpg)
 2. **Select your headset as the input device** . It could be shown as HyperX Cloud Alpha S or Headset.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your headset is set as the input device but the mic still won’t work, try the next fix.
 
@@ -160,56 +119,22 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 If this doesn’t fix your mic problem, try the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Update your audio driver
 
@@ -243,8 +168,6 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,12 +175,16 @@ If this doesn’t fix your mic problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-experts-reveal-unknown-functions-and-features/"><u>[New] Insta-Experts Reveal Unknown Functions and Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-color-transformation-an-expert-written-by-dr-jane-smith/"><u>[New] The Art of Color Transformation An Expert' Written by Dr. Jane Smith</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elevate-your-digital-diaries-with-complimentary-upgrades/"><u>[Updated] In 2024, Elevate Your Digital Diaries with Complimentary Upgrades</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-reviving-your-malfunctioning-bose-sound-system/"><u>DIY Guide: Reviving Your Malfunctioning Bose Sound System</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-google-pixel-8-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Google Pixel 8 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/in-depth-instructional-guide-on-duplicating-your-steam-decks-ssd-for-enhanced-performance/"><u>In-Depth Instructional Guide on Duplicating Your Steam Deck's SSD for Enhanced Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quieting-down-crackles-effective-fixes-for-arctis-7-sound-glitches-on-windows-machines/"><u>Quieting Down Crackles: Effective Fixes for Arctis 7 Sound Glitches on Windows Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-a-step-by-step-guide-to-get-your-airpods-microphone-working-on-windows-11/"><u>Solving Sound Problems: A Step-by-Step Guide to Get Your AirPods Microphone Working on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaking-up-in-fortnite-when-your-mic-fails/"><u>Troubleshooting: Speaking Up in Fortnite When Your Mic Fails!</u></a></li>
+</ul></div>
 

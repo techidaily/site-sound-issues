@@ -1,7 +1,7 @@
 ---
 title: End the Annoyance of Popping Sounds From Speakers in Windows PCs - Quick Fixes for Win 10/7 Users
-date: 2024-09-10T13:03:44.251Z
-updated: 2024-09-11T13:03:44.251Z
+date: 2024-10-12T20:17:50.089Z
+updated: 2024-10-18T17:16:59.679Z
 tags:
   - win11
   - win10
@@ -25,27 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Option 1: Try the generic audio driver
 
@@ -55,71 +38,18 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -146,39 +76,33 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -192,58 +116,27 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -259,8 +152,6 @@ Read on and follow the easy-doing images below!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,12 +159,21 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-proven-strategies-for-effective-phone-note-taking/"><u>[New] 2024 Approved Proven Strategies for Effective Phone Note-Taking</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>[Updated] 2024 Approved Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-color-the-top-15-gopro-luts-for-filmmaking/"><u>2024 Approved Perfecting Color The Top 15 GoPro LUTs for Filmmaking</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-bluetooth-audio-sync-problems-quickly-and-easily-top-tips-inside/"><u>Beat Bluetooth Audio Sync Problems Quickly & Easily: Top Tips Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-solution-how-to-repair-beyond-the-wire-microphone-issues/"><u>Complete Solution: How To Repair 'Beyond The Wire' Microphone Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ering-cross-platform-content-sharing-youtubes-and-fbs-for-2024/"><u>Conquering Cross-Platform Content Sharing YouTubes & FBs for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-window-11s-sound-troubles-a-step-by-step-guide/"><u>Fixing Window 11'S Sound Troubles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/get-the-videos-you-love-from-pinterest-for-free/"><u>Get the Videos You Love From Pinterest for Free</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014903712-no-noise-from-your-speakers-on-apex-legends-these-fixes-can-help/"><u>No Noise From Your Speakers on Apex Legends? These Fixes Can Help</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-problems-with-your-corsair-void-microphone-in-no-time/"><u>Resolving Connectivity Problems with Your Corsair Void Microphone in No Time</u></a></li>
+<li><a href="https://win-online.techidaily.com/restore-your-information-a-guide-on-retrieving-files-deleted-post-computer-restart/"><u>Restore Your Information: A Guide on Retrieving Files Deleted Post-Computer Restart</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-ensuring-your-gaming-sounds-are-recorded-and-shared-on-discord-efficiently/"><u>Solved: Ensuring Your Gaming Sounds Are Recorded and Shared on Discord Efficiently</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-pinnacle-of-sky-high-imagery-with-the-dji-mavic-3/"><u>Unveiling the Pinnacle of Sky-High Imagery with the DJI Mavic 3</u></a></li>
+</ul></div>
 

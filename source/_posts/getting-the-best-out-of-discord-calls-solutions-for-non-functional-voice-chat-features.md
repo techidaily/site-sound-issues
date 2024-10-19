@@ -1,7 +1,7 @@
 ---
 title: Getting the Best Out of Discord Calls - Solutions for Non-Functional Voice Chat Features
-date: 2024-10-11T02:49:05.165Z
-updated: 2024-10-13T01:50:29.357Z
+date: 2024-10-14T23:00:18.985Z
+updated: 2024-10-19T04:26:29.622Z
 tags:
   - win11
   - win10
@@ -58,10 +58,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
@@ -71,20 +71,13 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Set your Onikuma mic as the default device
 
@@ -95,36 +88,44 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Select**Small icons** next to View by and click**Sound** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
@@ -183,19 +184,20 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-beats-that-boost-your-instagram-presence-for-2024/"><u>[New] Beats That Boost Your Instagram Presence for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capture-mac-scenery-screen-and-microphone-feature/"><u>[Updated] Capture Mac Scenery Screen and Microphone Feature</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-search-filters-on-instagram-and-get-more-filters-for-free-for-2024/"><u>[Updated] How to Search Filters on Instagram and Get More Filters for Free for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mp3-recording-made-simple-with-skype-for-free/"><u>[Updated] In 2024, MP3 Recording Made Simple with Skype for FREE</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-innovative-youtube-channel-titles-the-key-to-successful-blogging-and-filmmaking-no-more-than-156-characters-for-2024/"><u>[Updated] Innovative YouTube Channel Titles The Key to Successful Blogging & Filmmaking (No More than 156 Characters) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-quick-and-simple-instagram-plus-facebook-integration-tips-for-2024/"><u>[Updated] Quick & Simple Instagram + Facebook Integration Tips for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-launching-a-youtube-series-focused-on-product-quality-insights/"><u>2024 Approved Launching a YouTube Series Focused on Product Quality Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-audios-essential-guide-to-top-10-free-luts/"><u>2024 Approved Pro Audio's Essential Guide to Top 10 Free LUTs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-and-easy-setup-guide-for-stellar-systems/"><u>Quick & Easy Setup Guide for Stellar Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-logitechs-video-call-combo-heres-the-fix/"><u>Trouble with Logitech's Video Call Combo? Here's the Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-fixing-silence-problems-in-wow/"><u>Troubleshooting Audio Issues: Fixing Silence Problems in WoW</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-glitches-in-the-latest-version-of-new-world/"><u>Troubleshooting Sound Glitches in the Latest Version of New World</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-the-silent-problem-in-your-lenovo-laptop/"><u>Troubleshooting Tips: Fixing the Silent Problem in Your Lenovo Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-sennheiser-gaming-headset-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Sennheiser Gaming Headset Microphone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-device-based-access-commence-google-meet-chat/"><u>[New] Device-Based Access Commence Google Meet Chat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-innovative-vertical-video-editing-for-instagrams-igtv/"><u>[New] In 2024, Innovative Vertical Video Editing for Instagram's IGTV</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-chasing-the-cause-of-frozen-photobooth-videos/"><u>[Updated] In 2024, Chasing the Cause of Frozen Photobooth Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-lighten-your-sentence-with-satire-ranking-funniest-facebook-detentions-for-2024/"><u>[Updated] Lighten Your Sentence with Satire Ranking Funniest Facebook Detentions for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-syncopated-soundscapes-logic-pros-fading-artistry/"><u>2024 Approved Syncopated Soundscapes - Logic Pro's Fading Artistry</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-issues-with-inoperative-main-audio-inputs/"><u>Diagnosing and Correcting Issues with Inoperative Main Audio Inputs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-common-glitches-in-discords-voice-chat-system/"><u>Diagnosing and Repairing Common Glitches in Discord's Voice Chat System</u></a></li>
+<li><a href="https://discover-data.techidaily.com/ensuring-mobile-security-a-guide-to-verifying-the-safety-of-your-android-applications/"><u>Ensuring Mobile Security: A Guide to Verifying the Safety of Your Android Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-functionality-of-a-stuck-lucidsound-ls30-microphone/"><u>Expert Tips: Restoring Functionality of a Stuck LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-non-responsive-creative-pebble-speakers/"><u>How to Restore Functionality of Non-Responsive Creative Pebble Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017010960-restore-audio-functionality-on-your-pc-running-windows-11-simple-solutions-inside/"><u>Restore Audio Functionality on Your PC Running Windows 11 – Simple Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-resolving-headphone-connectivity-issues-in-windows-11/"><u>Solution Steps: Resolving Headphone Connectivity Issues in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ancient-art-of-role-playing-evolutionary-trajectory/"><u>The Ancient Art of Role-Playing Evolutionary Trajectory</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-resolving-issues-with-your-corsair-hs70-headset-microphone/"><u>Troubleshooting Steps for Resolving Issues with Your Corsair HS70 Headset Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-on-school-inspired-themes-for-win-11/"><u>Turn On School-Inspired Themes for Win 11</u></a></li>
 </ul></div>
 

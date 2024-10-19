@@ -1,7 +1,7 @@
 ---
 title: "Getting Back on Track: Resolving Destiny 2 Voice Communication Errors"
-date: 2024-09-10T13:00:15.295Z
-updated: 2024-09-11T13:00:15.295Z
+date: 2024-10-14T23:40:54.278Z
+updated: 2024-10-19T03:27:40.129Z
 tags:
   - win11
   - win10
@@ -54,37 +54,16 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/turn-on-voice-chat.jpg)
 3. Close the game on PC, and then relaunch it on your console.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 Now check if voice chat functions properly.
 
  If this method doesn’t solve your problem, simply continue to the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Check your Stadia or Windows 10 Privacy Settings
 
@@ -105,58 +84,19 @@ Now check if voice chat functions properly.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-ms-settings-privacy-microphone.jpg)
 4. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** . If not, you can click the**Change** button above to turn it on.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-apps-to-access-your-microphone.jpg)
 5. Scroll down the list of apps below that toggle to find**Destiny 2** . Make sure it is also toggled to**ON** .
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6. **Relaunch** the game and check if the in-game voice chat is working.
 
 If this fix doesn’t do the trick, move on to the next one.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update your audio driver
 
@@ -214,73 +154,60 @@ If this method still gives you no luck, take a look at the next one.
 2. You’ll see a set of volume controls for your devices. Make sure none of them are muted.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/volume-mixer.jpg)
 3. Right-click the**Speakers** icon again and select**Sounds** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/sounds.jpg)
 4. Choose the**Playback** tab,**select the headphones** you want to use, and click Set Default.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 5. Navigate to the Recording tab, select the microphone you want to use, and click**Set Default** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 6. Click**OK** to save changes.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ok.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  After everything is set up correctly, restart Destiny 2 to see if your audio issue is resolved.
 
 If not, continue to the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Restart Windows Audio Service
 
@@ -290,34 +217,22 @@ If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/services.msc_.jpg)
 2. In the pop-up window, scroll down the services list and locate**Windows Audio** . Then right-click on it and select**Restart** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/restart-windows-audio.jpg)
 3. Check that your microphone is now working.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. If your microphone doesn’t work, right-click**Windows Audio** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/windows-audio-properties.jpg)
@@ -327,20 +242,6 @@ If not, continue to the next fix.
  Once done, restart your computer and launch Destiny 2 to see if this solves the problem.
 
 If the issue remains, try the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 8: Disable any VPNs
 
@@ -360,8 +261,6 @@ If the issue remains, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -369,4 +268,17 @@ If the issue remains, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlock-fb-livestream-potential-with-recorded-content-know-how/"><u>[New] 2024 Approved Unlock FB Livestream Potential with Recorded Content Know-How</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-real-time-storytelling-on-the-rise-navigating-and-thriving-in-a-social-media-world-for-2024/"><u>[New] Real-Time Storytelling on the Rise Navigating and Thriving in a Social Media World for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spotlight-savvy-profiling-and-promoting-on-snapchat/"><u>[Updated] Spotlight Savvy Profiling and Promoting on Snapchat</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-hyperx-cloud-alpha-mic-connectivity-problems/"><u>Diagnosing and Repairing HyperX Cloud Alpha Mic Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-for-when-your-creative-pebble-bass-boost-speaker-fails-to-work/"><u>DIY Repair Tips for When Your Creative Pebble Bass Boost Speaker Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-stinger-headset-microphone-issues-step-by-step-guide/"><u>Fixing HyperX Cloud Stinger Headset Microphone Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-common-issues-with-unresponsive-corsair-headsets-a-step-by-step-guide/"><u>Resolving Common Issues with Unresponsive Corsair Headsets - A Step by Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-most-popular-alarm-clock-applications/"><u>Top 7 Most Popular Alarm Clock Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726224448302-wav-mpeg-movavi/"><u>WAV 파일을 MPEG로 바꾸기: 원료 없이 웹에서 제공 - Movavi</u></a></li>
+</ul></div>
 

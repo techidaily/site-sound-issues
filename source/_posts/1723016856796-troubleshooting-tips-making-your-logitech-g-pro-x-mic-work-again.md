@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Making Your Logitech G PRO X Mic Work Again"
-date: 2024-09-10T13:05:58.938Z
-updated: 2024-09-11T13:05:58.938Z
+date: 2024-10-13T00:26:11.265Z
+updated: 2024-10-19T02:38:46.722Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 
 **SteelSeries Arctis 9** and**SteelSeries Arctis 9X** are premium gaming headsets that allow users to connect to the PC through the use of an adapter. Recently, quite a few players are reporting**the mic not working problem** on their**SteelSeries Arctis 9** **or 9X** gaming headsets. If you happen to be in the same boat, don’t worry. It is not hard to fix at all…
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to fix SteelSeries Arctis 9/9X Mic Not Working on PC
 
@@ -49,20 +32,6 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 4. **[Modify your audio settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install the latest SteelSeries Engine software](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 1: Perform some basic troubleshooting
 
  Whether it is that you cannot hear voice from the other end, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -72,25 +41,12 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
  SteelSeries Arctis 9/9X also has a hardware reset switch that allows you to reset the headphone. Press it and hold it down for around 1 second.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/arctis9.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Once you have double-checked these items, test your mic to see if it’s working properly. If yes, then great! If the problem persists, please move on to **Fix 2** below.
 
@@ -106,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
@@ -125,33 +94,12 @@ thumbnail: https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-7.png)
 4. Test your mic to see if it’s working properly. If yes, congrats – you’ve resolved the issue! If the problem persists, please try**Fix 4** , below.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Modify your audio settings
 
@@ -163,52 +111,18 @@ So in this fix, you can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/mmsys.cpl_.png)
 2. Click the **Recording** tab. Then make sure that your SteelSeries Arctis 9/9X mic is set as **Default Device** and click **Properties** (Here I just attach a screenshot as a reference of instruction).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-17.png)
 3. In**Levels** , make sure you have slided the Digital Audio (S/PDIF) bar to an appropriate level. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123.png)
 4. Click the**Advanced** tab. Under the **Default Format** section, choose a different sample rate and bit depth and click **Test** . Repeat this process until you find a format that works for you. Then, make sure the box for **Allow application to take exclusive control of this deviice** is **unticked** . After that, click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1234-3.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 5: Install the latest SteelSeries Engine software
 
@@ -218,37 +132,39 @@ So in this fix, you can follow the steps below to check:
 
 1. On your keyboard, press the **Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and **R** at the same time to invoke the Run box. Then type **appwiz.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-16.png)
-2. Right-click on **SteelSeries Engine** and click **Uninstall** .
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+2. Right-click on **SteelSeries Engine** and click **Uninstall** .
 
-
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Navigate to[**SteelSeries Engine page**](https://steelseries.com/engine) . Then choose the download that’s corresponding to your version of Operating System.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-15.png)
 4. Once complete, run this executable file and follow the on-screen instructions to install Engine.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 5. Restart your computer for the changes to take effect.
 6. Try your Steel Arctis 9 or 9X headphone to see if the microphone function is restored.
@@ -265,8 +181,6 @@ So in this fix, you can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,12 +188,23 @@ So in this fix, you can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-no-8-advanced-online-photographic-merge-suite/"><u>[New] No. 8 Advanced Online Photographic Merge Suite</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/afekeeping-your-online-space-youtube-channel-blocking-guide-for-2024/"><u>[New] Safekeeping Your Online Space Youtube Channel Blocking Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-verdict-on-inshot-master-editor/"><u>[New] The Verdict on InShot Master Editor?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-straightforward-guide-switch-video-direction-in-vlc/"><u>[Updated] Straightforward Guide Switch Video Direction in VLC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-sophisticated-style-advanced-tiktok-filters/"><u>2024 Approved Sophisticated Style Advanced TikTok Filters</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-phantom-v-flip-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Phantom V Flip Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-xr-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone XR Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-problems-get-your-game-on-restore-sounds-for-anthem-in-windows-11-now/"><u>Audio Problems? Get Your Game On - Restore Sounds for Anthem in Windows 11 Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-getting-your-kotion-g200n-mic-back-in-action/"><u>DIY Solutions: Getting Your Kotion G200n Mic Back in Action</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-comprehensive-reviews-and-insights/"><u>Exploring Tom's Hardware: Comprehensive Reviews & Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-realtek-dac-audio-issues-restore-your-devices-sound/"><u>Fixing Realtek DAC Audio Issues: Restore Your Device's Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-cyberpunk-2077-audio-working-troubleshooting-tips-for-windows-10-users/"><u>Getting Cyberpunk 2077 Audio Working: Troubleshooting Tips for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-perfect-audio-timing-a-step-by-step-guide/"><u>Mastering Perfect Audio Timing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-troubles-in-windows-10-diagnosis-and-solutions/"><u>MPOW Microphone Troubles in Windows 10: Diagnosis and Solutions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-exploring-the-creme-de-la-creme-of-distorted-audio-technology-tools-for-2024/"><u>New Exploring the Crème De La Crème of Distorted Audio Technology Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-connectivity-sony-wh-1000-series-microphone-fix-for-pc-users/"><u>Solving Audio Connectivity: Sony WH-1000 Series Microphone Fix for PC Users</u></a></li>
+</ul></div>
 

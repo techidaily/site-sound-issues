@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Logitech G430 Mic: Handy Solutions For Sound Problems"
-date: 2024-10-09T02:14:09.999Z
-updated: 2024-10-13T01:38:10.461Z
+date: 2024-10-12T02:03:54.912Z
+updated: 2024-10-18T21:44:11.132Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -52,21 +45,22 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
@@ -93,25 +87,11 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -130,13 +110,40 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
@@ -159,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -195,22 +195,24 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-download-free-sound-effects-for-youtubers/"><u>[Updated] 2024 Approved Download Free Sound Effects for YouTubers!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-discovering-the-quintessential-25-influence-kings-and-queens-for-2024/"><u>[Updated] Discovering The Quintessential 25 Influence Kings and Queens for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-daydream-to-reality-a-short-vr-history/"><u>[Updated] In 2024, From Daydream to Reality A Short VR History</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secrets-to-profit-from-tiktok-in-just-8-ways/"><u>[Updated] In 2024, Secrets to Profit From TikTok in Just 8 Ways</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-secure-your-linkedin-content-with-these-6-video-downloading-solutions/"><u>2024 Approved Secure Your LinkedIn Content with These 6 Video Downloading Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-rectifying-sound-distortion-issues-in-media-software-for-windows-10-and-7-systems/"><u>A Comprehensive Guide to Rectifying Sound Distortion Issues in Media Software for Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015736769-anthem-game-muted-troubleshoot-windows-10-sound-issues-today/"><u>Anthem Game Muted? Troubleshoot Windows 10 Sound Issues Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-silent-issue-on-pcs-resolving-no-sound-troubles-in-windows-10/"><u>Anthem Silent Issue on PCs - Resolving No-Sound Troubles in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016308149-audio-malfunctioning-on-pc-effortless-fixes-inside/"><u>Audio Malfunctioning on PC? Effortless Fixes Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016430270-counter-strike-2-microphone-not-functioning-heres-the-solution/"><u>Counter-Strike 2 Microphone Not Functioning? Here's the Solution!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/home-cinema-hacks-making-your-own-projector-screen-from-scratch/"><u>Home Cinema Hacks: Making Your Own Projector Screen From Scratch</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016561236-no-more-distorted-sound-solve-headphone-noise-issues-fast/"><u>No More Distorted Sound: Solve Headphone Noise Issues Fast</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/spectaculous-14-animated-text-illustration-samples-for-2024/"><u>Spectaculous 14 Animated Text Illustration Samples for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/trasforma-i-tuoi-file-mod-gratuito-e-con-facilita-in-formato-mp4-guida-rapidissima/"><u>Trasforma I Tuoi File MOD Gratuito E Con Facilità in Formato MP4 - Guida Rapidissima!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-does-my-lenovo-laptop-have-no-sound-expert-fixes-revealed/"><u>Why Does My Lenovo Laptop Have No Sound? Expert Fixes Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-issues-resolved-simple-fixes-for-sound-troubles/"><u>Windows 10 Audio Issues Resolved: Simple Fixes for Sound Troubles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfect-screen-recording-made-simple-and-orderly/"><u>[New] 2024 Approved Perfect Screen Recording Made Simple & Orderly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-free-fast-skype-to-mp3-guide-for-call-recorders-for-2024/"><u>[New] Free, Fast Skype to MP3 Guide for Call Recorders for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unseen-strategies-how-to-tap-into-your-facebook-message-library/"><u>[New] In 2024, Unseen Strategies How to Tap Into Your Facebook Message Library</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>[New] The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/op-10-youtube-cameras-from-novices-to-experts/"><u>[New] Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieve-side-by-side-viewing-on-chrome-the-pip-method/"><u>2024 Approved Achieve Side-by-Side Viewing on Chrome The PIP Method</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-sprinkle-of-life-in-your-text-animations/"><u>2024 Approved The Sprinkle of Life in Your Text Animations</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-s23-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy S23 by Name | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-problem-of-unplugged-speakersheadphones-in-windows-os-a-step-by-step-guide-for-windows-10-8-and-7-users/"><u>Diagnosing and Fixing the Problem of Unplugged Speakers/Headphones in Windows OS: A Step-by-Step Guide for Windows 10, 8 & 7 Users.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-dolby-truehd-to-work-on-windows-11-overcoming-driver-initialization-challenges/"><u>Getting Dolby TrueHD to Work on Windows 11: Overcoming Driver Initialization Challenges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-forcibly-update-login-credentials-for-windows-accounts-admin-only/"><u>How To Forcibly Update Login Credentials for Windows Accounts (Admin Only)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-and-repair-bluetooth-functionality-in-windows-11/"><u>How to Restore and Repair Bluetooth Functionality in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-uninterrupted-discord-communication-tackling-audio-problems-head-on/"><u>Master the Art of Uninterrupted Discord Communication - Tackling Audio Problems Head-On,</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-jabra-earphone-problems-effective-solutions-and-troubleshooting-techniques/"><u>Overcome Jabra Earphone Problems : Effective Solutions and Troubleshooting Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-microsoft-teams-audio-on-windows-1110-with-these-fixes/"><u>Revive Your Microsoft Teams Audio on Windows 11/10 with These Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-functional-logitech-g230-microphone/"><u>Troubleshooting Fixes: How to Repair a Non-Functional Logitech G230 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-microphone-issues-in-google-meet-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Microphone Issues in Google Meet on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-when-your-oculus-quest-microphone-wont-work-with-a-computer-in-2e25/"><u>Ultimate Fixes for When Your Oculus Quest Microphone Won't Work with a Computer in 2E25</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-grading-insights-from-dr-john-doe-for-2024/"><u>Unveiling the Power of Grading Insights From Dr. John Doe for 2024</u></a></li>
 </ul></div>
 

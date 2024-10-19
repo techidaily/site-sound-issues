@@ -1,7 +1,7 @@
 ---
 title: Voicemod Not Working? Top Tips for Successful Repair & Optimization
-date: 2024-09-10T13:02:09.742Z
-updated: 2024-09-11T13:02:09.742Z
+date: 2024-10-16T16:32:27.179Z
+updated: 2024-10-19T04:25:17.101Z
 tags:
   - win11
   - win10
@@ -29,13 +29,10 @@ Randomly can’t hear anyone on Discord? You’re not alone. This can happen whe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/how-to-fix-cant-hear-anyone-on-Discord-1200x396.png)
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fix 1: Refresh your Discord app
 
@@ -45,20 +42,6 @@ If that didn’t work, proceed to the next fix.
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2: Use Legacy Audio Subsystem
 
  There are instances where there’s an incompatibility between your hardware and Discord’s latest subsystem. Therefore, it’s recommended to revert to Legacy Audio Subsystem to fix the issue. To do this, follow these steps:
@@ -67,65 +50,38 @@ If that didn’t work, proceed to the next fix.
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) On the left pane, select**Voice & Video** . Scroll down to the**AUDIO SUBSYSTEM** section. Click on the down arrow and select**Legacy** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
 
 ![confirm to change audio subsystem Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm-to-change-audio-subsystem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once Discord reboots, check to see if the problem is resolved.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Update your audio driver
 
@@ -147,45 +103,24 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your PC. If your problem persists, move on to the next fix.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Set the audio device as the default
 
@@ -199,39 +134,11 @@ Here’s how to update drivers with Driver Easy:
   
 ![set input and output device correctly](https://images.drivereasy.com/wp-content/uploads/2020/12/input-and-output-device.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Once done, follow the steps below to set your audio device as the Default Communication Device:
 
  1) On your taskbar, right-click on the sound icon and select**Sounds** to open the Sound window.  
   
 ![set audio device as default Discord can't hear anyone](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Sounds.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  2) Under the**Playback** tab. Click on your audio device. Then in the lower right, click on the drop-down menu next to the**Set Default** option and select**Default Communication Device** .
 
@@ -250,6 +157,13 @@ Here’s how to update drivers with Driver Easy:
  2) On the left pane, select**Voice & Video** . Under the**OUTPUT DEVICE** section, click on the down arrow and select your output device instead of Default.
 
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Exit the Settings and you should be able to hear something from Discord.
 
@@ -273,8 +187,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,12 +194,24 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-improve-resilience-against-photos-app-issues-in-windows-11/"><u>[New] 2024 Approved How to Improve Resilience Against Photos App Issues in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-pinpointing-instagram-follower-losses-on-the-fly-for-2024/"><u>[New] Pinpointing Instagram Follower Losses on the Fly for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-youtube-shorts-filming-and-editing-made-simple/"><u>[New] The Art of YouTube Shorts Filming and Editing Made Simple</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-ensuring-privacy-4-steps-to-safely-log-fb-calls/"><u>[Updated] Ensuring Privacy 4 Steps to Safely Log FB Calls</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-se-2022-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone SE (2022)? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/breaking-down-and-solving-an-unresponsive-epson-on-windows-11/"><u>Breaking Down and Solving an Unresponsive Epson on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-silence-echo-disturbances-a-comprehensive-guide-for-discord-users-in-202e4/"><u>How to Silence Echo Disturbances: A Comprehensive Guide for Discord Users in 202E4</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nokia-105-classic-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nokia 105 Classic Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-on-your-window-10-computer-easy-fixes-to-get-it-working-again/"><u>No Audio on Your Window 10 Computer? Easy Fixes to Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-sound-woes-effective-fixes-for-windows-1011-bluetooth-audio-hiccups/"><u>Resolve Your Sound Woes: Effective Fixes for Windows 10/11 Bluetooth Audio Hiccups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-dropouts-and-glitches-on-a-windows-11-system-expert-tips-and-tricks/"><u>Resolving Audio Dropouts and Glitches on a Windows 11 System – Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-10-superior-image-replacement-for-videos/"><u>The Ultimate Guide 10 Superior Image Replacement for Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-corsair-hs35-microphone-compatibility-with-windows/"><u>Troubleshooting and Resolving Corsair HS35 Microphone Compatibility with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-your-sound-blaster-mic-issues/"><u>Troubleshooting Guide: Solving Your Sound Blaster Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-non-functional-creative-pebble-wireless-speakers/"><u>Troubleshooting Tips: Fixing Non-Functional Creative Pebble Wireless Speakers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-best-of-both-worlds-video-editing-apps-with-music-for-android-and-iphone-users/"><u>Updated In 2024, The Best of Both Worlds Video Editing Apps with Music for Android and iPhone Users</u></a></li>
+</ul></div>
 

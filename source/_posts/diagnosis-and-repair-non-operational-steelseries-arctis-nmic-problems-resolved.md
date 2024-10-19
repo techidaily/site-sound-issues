@@ -1,7 +1,7 @@
 ---
 title: "Diagnosis and Repair: Non-Operational SteelSeries Arctis Nmic Problems Resolved"
-date: 2024-10-07T00:02:28.575Z
-updated: 2024-10-13T02:50:02.737Z
+date: 2024-10-15T16:17:04.749Z
+updated: 2024-10-19T01:59:25.582Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,6 +50,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 5. **[Make sure to use the correct Default Format](https://tools.techidaily.com/drivereasy/download/)**
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Set up the microphone correctly
 
@@ -60,13 +74,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
@@ -74,13 +81,6 @@ Here’s how to do it:
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
  Now you can test recording and see if your SteelSeries Arctis Pro mic is working right now. But if not, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Set your headset as the default device
 
@@ -96,24 +96,18 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
@@ -124,10 +118,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Also go to the**Enhancements** tab, and check the box Disable all sound effects.
@@ -150,15 +144,22 @@ Here’s how to do it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Activate & Update** button next to the headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/SteelSeries-Apex-Pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
@@ -167,19 +168,6 @@ Here’s how to do it:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Make sure to use the correct Default Format
 
@@ -224,16 +212,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-3-tactics-to-enhance-your-instagram-films-look/"><u>[New] 2024 Approved 3 Tactics to Enhance Your Instagram Film's Look</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-compilation-of-15-most-engaging-youtube-themes/"><u>[New] In 2024, The Ultimate Compilation of 15 Most Engaging YouTube Themes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-walkthrough-for-correcting-connectivity-and-sound-issues-in-corsair-void-microphones/"><u>A Comprehensive Walkthrough for Correcting Connectivity and Sound Issues in Corsair Void Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audacity-sound-device-error-try-our-five-proven-solutions-to-get-back-on-track/"><u>Audacity Sound Device Error? Try Our Five Proven Solutions to Get Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-fixes-for-pc-gamers-resolve-silent-problems-in-call-of-dute-black-ops-cold-war-gameplay/"><u>Audio Fixes for PC Gamers - Resolve Silent Problems in Call of Dute: Black Ops Cold War Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-the-quiet-restoring-audio-after-windows-11-patch-quick-solutions/"><u>Banish the Quiet: Restoring Audio After Windows 11 Patch - Quick Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/free-update-for-rainbow-six-siege-new-features-and-fixes/"><u>Free Update for Rainbow Six Siege : New Features and Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-vivo-y36i-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y36i Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initiate-xp-project-masterpiece-creation-package-for-2024/"><u>Initiate XP Project Masterpiece Creation Package for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-v2-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic V2</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-high-quality-video-webcams-top-5-combos-with-sound/"><u>[Updated] In 2024, High-Quality Video Webcams - Top 5 Combo's With Sound</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-origami-inspired-best-minimalist-homes-in-minecraft/"><u>2024 Approved Origami Inspired Best Minimalist Homes in Minecraft</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-sound-to-your-windows-7-pc-fixing-usb-headphone-issues/"><u>Bring Back Sound to Your Windows 7 PC: Fixing USB Headphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-with-hyperx-cloud-stinger-microphones-and-proven-fixes-guide/"><u>Common Problems with HyperX Cloud Stinger Microphones and Proven Fixes [Guide]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dont-miss-out-discover-the-ultimate-list-of-still-available-prime-deals-for-hp-apple-and-razer-laptops-zdnet/"><u>Don't Miss Out: Discover the Ultimate List of Still-Available Prime Deals for HP, Apple, and Razer Laptops | ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-mobile-sound-trouble-fix-your-voice-chats-with-these-simple-steps/"><u>PUBG Mobile Sound Trouble? Fix Your Voice Chats with These Simple Steps!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-audio-on-your-oculus-rift-s-essential-quick-fixes-you-need/"><u>Revive the Audio on Your Oculus Rift S: Essential Quick Fixes You Need</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-silent-mac-computers-a-guide-to-resolving-the-no-sound-issue/"><u>Reviving Silent Mac Computers - A Guide to Resolving the 'No Sound' Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
 </ul></div>
 

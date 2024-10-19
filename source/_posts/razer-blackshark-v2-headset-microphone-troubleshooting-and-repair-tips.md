@@ -1,7 +1,7 @@
 ---
 title: Razer BlackShark V2 Headset Microphone Troubleshooting and Repair Tips
-date: 2024-09-10T13:00:59.992Z
-updated: 2024-09-11T13:00:59.992Z
+date: 2024-10-13T03:48:18.439Z
+updated: 2024-10-18T18:00:47.779Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
  If you’re also experiencing this Stereo Mix not working issue, don’t worry. The following are a few methods that have helped many users.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -35,39 +32,18 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 2. [**Update your sound driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Enable Stereo Mix**](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Method 1: Make sure your computer sound is going through your sound card
 
  To ensure your Stereo Mix works well, all your audio output has to go through your sound card so that it can record the output. If your sound is sent around the sound card (using HDMI to output video and audio together, for example), your Stereo Mix is unable to work.
 
  To use Stereo Mix, you should make sure your computer sound is coming from your sound card. Connect your sound card directly to your speakers and set up the proper output. After that, check to see if your Stereo Mix works normally.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Method 2: Update your sound driver
 
@@ -87,20 +63,6 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abddeecd0d61.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Method 3: Enable Stereo Mix
 
  Your Stereo Mix may not be able to work because it’s disabled. To disable Stereo Mix:
@@ -109,19 +71,12 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde029539aa.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **2)** Right click any empty space inside the device box, then make sure**Show Disabled Devices** is**ticked** .
 
@@ -131,43 +86,23 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde32cf0472.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **4)** Right click**Stereo Mix** , then click**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abde42a1495a.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **5)** Click**OK** , then check to see if you’re able to record audio on your computer with Stereo Mix.
 
@@ -179,8 +114,6 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,12 +121,20 @@ Many Windows users are having issues with their**Stereo Mix** . Their Stereo Mix
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-change-screenshot-file-formats-on-a-mac/"><u>[Updated] 2024 Approved How to Change Screenshot File Formats on a Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>[Updated] 2024 Approved Sound Engineering Simplified Gradual Diminishment in Lumafusion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comparative-analysis-of-youtubes-ownership-vs-cc-licenses-for-2024/"><u>[Updated] A Comparative Analysis of Youtube's Ownership Vs. CC Licenses for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-insiders-tale-to-tripling-instagram-traffic/"><u>[Updated] In 2024, The Insider’s Tale to Tripling Instagram Traffic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-srt-simplified-core-concepts-made-clear/"><u>[Updated] SRT Simplified Core Concepts Made Clear</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016337389-blue-yeti-not-detected-avoid-audio-hassles-with-these-proven-fixes/"><u>Blue Yeti Not Detected? Avoid Audio Hassles with These Proven Fixes!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-your-screen-space-integrating-video-within-video-for-2024/"><u>Conquer Your Screen Space Integrating Video Within Video for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expertly-curated-list-of-top-notch-netgear-routers-available/"><u>Expertly Curated List of Top-Notch Netgear Routers Available</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-working-sennheiser-game-one-mic-a-step-by-step-guide/"><u>Fixing the Non-Working Sennheiser Game One Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-editor-secrets-unlocked-in-canva-photo-editing/"><u>In 2024, Top Editor Secrets Unlocked in Canva Photo Editing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-eliminating-crackle-noise-a-step-by-step-guide-for-windows-107-users/"><u>Solution for Eliminating Crackle Noise: A Step-by-Step Guide for Windows 10/7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-headphones-not-working-properly-in-windows-7-operating-system/"><u>Step-by-Step Solutions for Headphones Not Working Properly in Windows 7 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-astro-a10-audio-problems-quick-repair-tips/"><u>Troubleshoot Your Astro A10 Audio Problems - Quick Repair Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Razer Barracuda X Mic Not Working Windows 11/10"
-date: 2024-10-12T00:51:43.745Z
-updated: 2024-10-13T01:14:39.310Z
+date: 2024-10-18T03:57:28.867Z
+updated: 2024-10-18T19:16:22.566Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -54,24 +47,31 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -87,6 +87,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
@@ -100,33 +108,28 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -152,21 +155,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-trilltones-techniques-how-to-cut-and-download-tamil-songs/"><u>[New] In 2024, TrillTones Techniques How to Cut and Download Tamil Songs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-adding-narrative-milestones-a-youtube-video-guide/"><u>[Updated] Adding Narrative Milestones A YouTube Video Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-forge-funny-frameworks/"><u>[Updated] Forge Funny Frameworks</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-an-ai-tool/"><u>2024 Approved What Is an AI Tool?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-tecno-pova-5-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Tecno Pova 5 PC | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719158810853-experience-the-thrill-play-six-amazing-chatgpt-games/"><u>Experience the Thrill: Play Six Amazing ChatGPT Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-stop-your-speakers-from-humming-or-buzzing/"><u>Quick Solutions: Stop Your Speakers From Humming or Buzzing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-driver-fixed-now-fully-functional/"><u>Realtek HD Audio Driver Fixed: Now Fully Functional</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-manager-problem-here-are-proven-ways-to-get-it-running/"><u>Realtek HD Audio Manager Problem? Here Are Proven Ways to Get It Running!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-audio-on-your-hp-device-windows-10-solutions/"><u>Resolving No Audio on Your HP Device - Windows 10 Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-skype-audio-problems-with-simple-fixes/"><u>Resolving Skype Audio Problems with Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-in-windows-11-expert-solutions-to-common-problems/"><u>Restoring Audio Functionality in Windows 11: Expert Solutions to Common Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-your-hearthstone-adventures-no-more-silent-battles/"><u>Restoring Audio to Your Hearthstone Adventures: No More Silent Battles!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-solving-the-absent-openal32dll-error/"><u>Troubleshooting Steps for Solving the Absent openAL32.dll Error</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-online-potential-top-5-strategic-approaches-to-youtube-marketing-for-2024/"><u>Unlocking Online Potential - Top 5 Strategic Approaches to YouTube Marketing for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-10-best-free-video-rotation-software-for-flipping-clips/"><u>Updated 2024 Approved 10 Best Free Video Rotation Software for Flipping Clips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-how-to-build-your-own-4k-video-editing-pc/"><u>[New] How To Build Your Own 4K Video Editing PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-from-jarring-cuts-to-elegant-edits-unlocking-inshots-transition-secrets/"><u>[Updated] 2024 Approved From Jarring Cuts to Elegant Edits Unlocking Inshot's Transition Secrets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9/"><u>2024 Approved Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-logitech-g733-microphone-connectivity-problems/"><u>Diagnosing and Resolving Logitech G733 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-silent-mac-systems-for-restoring-sounds/"><u>How to Troubleshoot and Resolve Silent Mac Systems for Restoring Sounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-analysis-the-full-spectrum-of-bublcam-360/"><u>In 2024, Expert Analysis The Full Spectrum of Bublcam 360</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-or-upgrade-hp-laserjet-p1606dn-driver-on-your-windows-pc-full-guide/"><u>Install or Upgrade HP LaserJet P1606dn Driver on Your Windows PC – Full Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/is-your-blue-yeti-not-responding-discover-how-to-restore-its-functionality/"><u>Is Your Blue Yeti Not Responding? Discover How to Restore Its Functionality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/madden-nfl-19-analysis-outstanding-features-amidst-growing-familiarity/"><u>Madden NFL 19 Analysis: Outstanding Features Amidst Growing Familiarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-microphone-tests-the-fast-and-easy-way-for-crystal-clear-audio/"><u>Mastering Microphone Tests: The Fast and Easy Way for Crystal Clear Audio</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-smooth-scrolling-expert-advice-for-a-broken-logitech-mouse-wheel/"><u>Restoring Smooth Scrolling: Expert Advice for a Broken Logitech Mouse Wheel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-maximizing-volume-settings-on-your-pc-running-windows-10/"><u>Step-by-Step: Maximizing Volume Settings on Your PC Running Windows 10</u></a></li>
 </ul></div>
 

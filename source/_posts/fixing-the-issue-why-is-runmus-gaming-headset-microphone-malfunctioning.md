@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Is RunmuS Gaming Headset Microphone Malfunctioning?"
-date: 2024-10-07T21:24:58.730Z
-updated: 2024-10-13T01:40:01.057Z
+date: 2024-10-16T19:46:14.460Z
+updated: 2024-10-19T03:36:29.384Z
 tags:
   - win11
   - win10
@@ -43,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
  If you’ve done a quick check and confirmed there is no hardware issue, the cause may be related to the computer settings. Keep reading to find more solutions below.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Check your privacy settings
 
  To allow your headset mic to work on the PC, you should enable the necessary access so that your system and apps can use the microphone properly. Here’s how:
@@ -50,17 +63,26 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 1. In the Windows search box, type**microphone privacy** and click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-1-4.jpg)
 2. Click the**Change** button and make sure**Microphone access for this device is turned on** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
-3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
-4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-6.jpg)
+3. Scroll down and**turn on** the button for**Allow apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
+4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
@@ -76,34 +98,8 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
@@ -127,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
  See if your microphone works in Rec Room. If not, continue to the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Update your audio driver
 
  If you’ve been constantly running into mic not working with Rec Room or other apps, chances are that your audio driver is faulty or out-of-date. In this case, you should update the driver to keep your VR rig up and running, and there are two ways for you:
@@ -140,32 +143,19 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After the update completes, restart the PC and see if your audio issue gets fixed. If not, there is one more fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Close unnecessary background apps
 
@@ -174,14 +164,15 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 1. Right-click any empty space on your taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -209,22 +200,19 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-professionals-insights-into-ios-recording-for-2024/"><u>[New] Professionals' Insights Into iOS Recording for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-120plus-original-title-concepts-for-unique-and-memorable-snapchat-stories-for-2024/"><u>[Updated] 120+ Original Title Concepts for Unique and Memorable Snapchat Stories for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-fb-link-collection-access-8-free-and-online-downloads-for-2024/"><u>[Updated] 2023 FB Link Collection Access 8 Free & Online Downloads for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-instas-trendy-filters/"><u>[Updated] In 2024, The Ultimate Guide to Insta's Trendy Filters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-asus-touchpad-drivers-for-optimal-performance-in-windows-11/"><u>Easy Installation of ASUS Touchpad Drivers for Optimal Performance in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-broken-fortnite-microphone-tips-and-solutions-for-players/"><u>Fixing a Broken Fortnite Microphone: Tips & Solutions for Players</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-correcting-the-tdr-failure-in-windows-nk-caused-by-atikmpagsys/"><u>Guide to Correcting the TDR Failure in Windows Nk Caused by atikmpag.sys</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/handling-non-connected-nvidia-outputs-with-these-proven-remedies/"><u>Handling Non-Connected Nvidia Outputs with These Proven Remedies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-stuttering-audio-effects-in-your-computers-output-windows-10-and-7/"><u>How to Eliminate Stuttering Audio Effects in Your Computer's Output - Windows 10 & 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-corsair-void-microphone-quickly-and-effectively/"><u>How to Fix a Non-Functional Corsair Void Microphone Quickly & Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headphones-to-appear-in-windows-10-media-player-step-by-step-guide/"><u>How to Get Your Headphones to Appear in Windows 10 Media Player: Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-and-repair-push-to-talk-on-your-overwatch-account/"><u>How to Reactivate and Repair 'Push-To-Talk' On Your Overwatch Account</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-hyperx-cloud-stinger-when-the-mic-fails-to-work/"><u>How to Repair Your HyperX Cloud Stinger When the Mic Fails to Work</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-logitech-g9n-gaming-mic-on-windows-pcs/"><u>How to Resolve Non-Functional Logitech G9n Gaming Mic on Windows PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-2023s-top-contenders-gopro-hero5-vs-yi-4k-action-cameras/"><u>In 2024, 2023'S Top Contenders GoPro Hero5 Vs. Yi 4K Action Cameras</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-x6-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco X6 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premium-virtual-meetup-software-titles-for-2024/"><u>[New] Premium Virtual Meetup Software Titles for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-giggle-factor-comparing-humor-in-tiktok-and-snapchat-videos/"><u>[Updated] 2024 Approved The Giggle Factor Comparing Humor in TikTok and Snapchat Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-comprehensive-look-at-ig-reels-vs-stories-for-2024/"><u>[Updated] A Comprehensive Look at IG Reels Vs Stories for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-media-player-how-to-restore-audio-functionality/"><u>Fixing Windows Media Player: How to Restore Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-razer-man-o-war-mic-working-again-successfully/"><u>How to Get Your Razer Man O' War Mic Working Again Successfully</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-note-30-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Note 30 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a18-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A18 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-motion-perception-systems/"><u>Navigating Through Motion Perception Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-guide-for-the-turtle-beach-elite-atlas-microphone-thats-not-working/"><u>Repair Guide for The Turtle Beach Elite Atlas Microphone That's Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-sound-solutions-for-non-responsive-sony-headphones-on-your-computer/"><u>Revive the Sound: Solutions for Non-Responsive Sony Headphones on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-making-your-headphones-detectable-in-windows-11-media-player/"><u>Step-by-Step: Making Your Headphones Detectable in Windows 11 Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-interruptions-for-bluetooth-devices-on-modern-windows-systems/"><u>Troubleshooting Audio Interruptions for Bluetooth Devices on Modern Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-guide-why-steam-9-reasons/"><u>Ultimate Gaming Guide: Why Steam? (9 Reasons)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-your-unresponsive-optical-drive/"><u>Ultimate Guide: Repairing Your Unresponsive Optical Drive</u></a></li>
 </ul></div>
 

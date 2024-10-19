@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] COD: Vanguard Voice Chat Not Working"
-date: 2024-10-10T02:41:21.605Z
-updated: 2024-10-12T18:07:41.547Z
+date: 2024-10-13T20:54:17.047Z
+updated: 2024-10-18T19:36:50.044Z
 tags:
   - win11
   - win10
@@ -33,28 +33,28 @@ Having problems with the**voice chat** in**World of Warcraft** ? You’re surely
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Scan and repair WoW](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Check your audio input device**
 
  There’re many reasons for microphone problems, but the first thing you should do when troubleshooting is to**check the physical connections** . Make sure the cables of your microphone are securely plugged into the**correct audio jack** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Also check if your**cable** is damaged. If your microphone or headset has a**mute switch** , make sure it’s unmuted. You can also try plugging in the cable again to see if it gives you any luck, or you can use your cellphone or another computer for audio testing.
 
  If there’s nothing wrong with your input device, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Configure your system microphone settings
@@ -67,15 +67,16 @@ You can use these steps to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to the desired one. Then click**Device properties and test microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/input-device.jpg)
 3. Make sure you’ve**unchecked the box** next to**Disable** , and the slider under the**Volume** section is set to**100** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click**Start test** and tap or speak to your microphone. Then click**Stop test** . If you’re prompted**The highest value we saw was xx percent** , it means your microphone is working correctly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
@@ -84,10 +85,10 @@ You can use these steps to check:
  If this method doesn’t tackle your problem, please continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:**Check your in-game settings**
@@ -105,6 +106,13 @@ Here’re the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/wow-in-game-voice-chat.jpg)
 
  If configuring in-game settings doesn’t give you any luck, take a look at the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4:**Update your audio driver**
 
@@ -126,10 +134,10 @@ Here’re the steps:
  If updating the audio driver failed to solve your case, simply move on to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
@@ -142,18 +150,18 @@ By the way, it’s surprisingly easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-windows-update.jpg)
 2. Click**Check for updates** . Windows will then search and install the system updates automatically. Once it’s done, restart your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed**all** the system updates, repeat these steps until it prompts “You’re up to date” when you click**Check for updates** .
 
  If your issue persists after installing system updates, please continue to the final fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Scan and repair WoW
 
@@ -162,13 +170,6 @@ By the way, it’s surprisingly easy to update too:
 1. Open your Blizzard client and select**World of Warcraft** . Then click**Options** and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-wow-scan-and-repair-1.jpg)
 2. It will take**5-30 minutes** to verify the integrity of your game files. Once completed, launch WoW and check your in-game voice chat.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -191,18 +192,18 @@ By the way, it’s surprisingly easy to update too:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-elevate-your-tiktok-presence-50plus-captivating-username-suggestions-for-2024/"><u>[New] Elevate Your TikTok Presence - 50+ Captivating Username Suggestions for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unraveling-the-web-of-social-media-illusions-for-marketers/"><u>[New] Unraveling the Web of Social Media Illusions for Marketers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016890506-apex-legends-voice-chatting-errors-here-are-the-solutions-you-need/"><u>Apex Legends Voice Chatting Errors? Here Are The Solutions You Need</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016635261-audio-malfunction-with-conexant-hardware-in-windows-11-a-detailed-fix-tutorial-for-users/"><u>Audio Malfunction with Conexant Hardware in Windows 11? A Detailed Fix Tutorial for Users.</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/future-proof-file-storage-essential-cloud-services-revealed/"><u>Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-pro-gif-maker-software-that-wins-every-time/"><u>In 2024, Pro-Gif Maker Software That Wins Every Time</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-zte-nubia-flip-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from ZTE Nubia Flip 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-non-functional-mic-setups-on-windows-11-devices/"><u>Ultimate Fixes for Non-Functional Mic Setups on Windows 11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-speedy-microphone-sound-checks/"><u>Ultimate Tricks for Speedy Microphone Sound Checks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/win-7-usb-headphone-silence-cracked-proven-solutions-to-restore-audio-functionality/"><u>Win 7 USB Headphone Silence Cracked - Proven Solutions to Restore Audio Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-enhancement-disabling-instructions-do-it-yourself/"><u>Windows 11 Audio Enhancement Disabling Instructions – Do It Yourself</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-infuse-rhythm-to-instagram-music-guide/"><u>[New] 2024 Approved Infuse Rhythm to Instagram Music Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-efficient-ways-to-delete-previewed-content-from-youtubes-queue-for-2024/"><u>[Updated] Efficient Ways to Delete Previewed Content From YouTube's Queue for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-secrets-of-selecting-a-powerful-streaming-device/"><u>[Updated] The Secrets of Selecting a Powerful Streaming Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/achieving-successful-game-audio-streaming-on-discord-fixed/"><u>Achieving Successful Game Audio Streaming on Discord - Fixed!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/capture-and-conserve-the-instagram-freedom-toolkit/"><u>Capture and Conserve The Instagram Freedom Toolkit</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-xiaomi-redmi-note-12r-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi Note 12R Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-webcam-mic/"><u>How to Fix a Non-Functioning Logitech Webcam Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastered-method-broadcasting-video-game-tunes-through-discord/"><u>Mastered Method: Broadcasting Video Game Tunes Through Discord</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcome-your-iphones-frustrating-flaw-with-expert-advice-from-zdnet/"><u>Overcome Your iPhone's Frustrating Flaw with Expert Advice From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-laptop-soundscape-expert-advice-for-solving-audio-problems/"><u>Reactivate Laptop Soundscape: Expert Advice for Solving Audio Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-consoles-simulated-perfectly-on-a-mac/"><u>Top 5 Consoles, Simulated Perfectly on a Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-non-functional-voice-chat-on-modern-warfare/"><u>Troubleshooting Guide: Resolving Non-Functional Voice Chat on Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-in-windows-11-a-complete-guide/"><u>Troubleshooting Intermittent Sound Issues in Windows 11 - A Complete Guide</u></a></li>
 </ul></div>
 

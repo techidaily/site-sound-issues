@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Fix Your Laptop's Audio Issues: A Step-by-Step Guide"
-date: 2024-09-10T13:05:05.344Z
-updated: 2024-09-11T13:05:05.344Z
+date: 2024-10-16T23:20:57.334Z
+updated: 2024-10-19T03:00:36.318Z
 tags:
   - win11
   - win10
@@ -19,33 +19,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
  **If you’re playing a song on your HP laptop but you don’t hear anything,** Don’t worry, although it’s very frustrating, you’re definitely not the only person to experience the no sound issue. Many other HP laptop users have reported the very same problem. More importantly, you can resolve this issue pretty easily on your own after reading this article!
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## **Try these fixes**
 
@@ -59,20 +36,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### **Fix 1: Run Windows audio playback troubleshooter**
 
  This might be one of the easiest fixes to try. The built-in Windows audio playback troubleshooter is a useful tool that can help you resolve audio playback issues. Here is how to do it:
@@ -81,37 +44,37 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000231-1.png)
 2. In the pop-up window, select**Playing Audio** , then click**Run the troubleshooter** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
- When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -135,29 +98,17 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap14.png)
 3. Click **Update**  next to your Bluetooth device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap908-2.png)  
  You can do it for free if you like, but it’s partly manual.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### **Fix 3: Check your audio settings**
 
@@ -170,19 +121,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 3. If your laptop speaker is disabled,**right-click** your laptop speaker and select**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
@@ -198,20 +136,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
  Play a song on your HP laptop to see if the no sound issue is resolved. If not, try the next fix to restart Windows audio service.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### **Fix 4: Restart Windows audio service**
 
  If the Windows audio service is stopped, your audio device may not function properly. Try restarting Windows audio service to see if you can fix it. Here is how to do it:
@@ -219,55 +143,43 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time to open the Run dialog. Type **services.msc**   and press **Enter** . You’ll be prompted for permission. Click **Yes**   to open **Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap190-5.png)
 2. Scroll down to locate **Windows Audio** . **Right-click**   it and select **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap193-5.png)
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart your PC.
 
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### **Fix 5: Troubleshoot hardware issues**
 
@@ -290,8 +202,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -299,12 +209,20 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-moviemeld-editor-review-in-depth-analysis/"><u>[New] MovieMeld Editor Review – In-Depth Analysis</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-tempo-trackers-guide-accessible-free-tools/"><u>2024 Approved The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-best-360-degree-action-cameras-you-should-use/"><u>5 Best 360-Degree Action Cameras You Should Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-7-user-manual-correcting-unwanted-sounds-in-your-headset-while-using-windows-os/"><u>Arctis 7 User Manual: Correcting Unwanted Sounds in Your Headset While Using Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs35-microphone-wont-work-with-windows-here-are-your-fixes/"><u>Corsair HS35 Microphone Won't Work with Windows? Here Are Your Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-correct-minecraft-crossbow-errors-effectively/"><u>Expert Tips to Correct Minecraft Crossbow Errors Effectively</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/gerez-vos-erreurs-rapides-avec-ces-9-techniques-au-volant-du-boulevard-peripherique-est-en-activite/"><u>Gérez Vos Erreurs Rapides Avec Ces 9 Techniques Au Volant Du Boulevard Périphérique Est en Activité</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stop-that-annoying-hum-top-5-tips-for-a-distortion-free-listening-experience/"><u>How to Stop That Annoying Hum: Top 5 Tips for a Distortion-Free Listening Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-unforgettable-home-videos-top-dvd-authoring-software/"><u>In 2024, Create Unforgettable Home Videos Top DVD Authoring Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-speakers-solutions-to-conexant-smartaudio-hds-lack-of-sound-on-windows-10-systems/"><u>Troubleshooting Silent Speakers: Solutions to Conexant SmartAudio HD's Lack of Sound on Windows 10 Systems</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-s23-tactical-edition-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy S23 Tactical Edition password or pattern lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726224071130-png-bmp-movavi/"><u>오늘날의 인터넷 시대에 필수품: PNG, BMP 파일 무료로 가동하는 최고의 영상 변환 도구 - Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Nonfunctional Jabra Headset : An Ultimate Step-by-Step Manual"
-date: 2024-09-10T13:00:17.291Z
-updated: 2024-09-11T13:00:17.291Z
+date: 2024-10-17T21:46:19.810Z
+updated: 2024-10-18T17:22:36.470Z
 tags:
   - win11
   - win10
@@ -19,20 +19,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  Is your**Logitech G430 microphone not working** ? You’re not alone. Many people have reported similar issues. But don’t worry, you can**fix the Logitech G430 mic not working** issues.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## **How to fix Logitech G430 mic not working**
 
  If you didn’t mute the mic, if you’ve troubleshot the hardware and tried plugging your headset into different USB ports but your mic is still not working, try the solutions below:
@@ -44,19 +30,12 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
@@ -75,20 +54,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### **Fix 2: Update your audio driver**
 
@@ -110,31 +75,31 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd5faedb2b.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click the**Update** button next to the flagged sound card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -145,20 +110,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -167,45 +118,31 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Recording** tab, then right click on any empty area inside the device list and select**Show** **Disabled** **Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  5) Right click on your microphone again and select**Set as Default Device** .
 
@@ -214,20 +151,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
@@ -258,8 +181,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +188,24 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-beyond-entertainment-vrs-utility/"><u>[New] Beyond Entertainment VR's Utility</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-convenient-compilation-finding-your-yt-comments/"><u>[Updated] In 2024, A Convenient Compilation Finding Your YT Comments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-easy-obs-youtube-live-streaming-guide/"><u>[Updated] In 2024, Easy OBS YouTube Live Streaming Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-intuitive-steps-for-photo-integration-in-instagram/"><u>[Updated] Intuitive Steps for Photo Integration in Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/become-a-pro-at-mac-audio-recording-using-audacity-today-for-2024/"><u>Become a Pro at Mac Audio Recording Using Audacity Today for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-microphone-fixes-how-to-restore-audio-functionality/"><u>Corsair Virtuoso Microphone Fixes: How to Restore Audio Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reinstate-audio-outputs-for-conexant-smartaudio-hd-on-a-windows-10-machine/"><u>How to Reinstate Audio Outputs for Conexant SmartAudio HD on a Windows 10 Machine</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-rid-of-filmora-watermark-with-or-without-subscription/"><u>In 2024, Get Rid of Filmora Watermark With or Without Subscription</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-issue-solved-functional-on-windows-11/"><u>Keyboard Issue Solved: Functional on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-easy-tips-for-fixing-a-non-functional-razer-microphone/"><u>Quick & Easy Tips for Fixing a Non-Functional Razer Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-speaker-fixing-a-nonfunctional-front-port/"><u>Revive Your Speaker: Fixing a Nonfunctional Front Port</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-sound-check-effective-techniques-for-quick-microphone-quality-control/"><u>Speedy Sound Check: Effective Techniques for Quick Microphone Quality Control</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y100-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y100 Android SIM Unlock APK</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-silent-firefox-experience/"><u>Troubleshooting Guide: Fixing Silent Firefox Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-the-non-functional-microphone-on-your-steelseries-arctis-1/"><u>Troubleshooting: Fixing the Non-Functional Microphone on Your SteelSeries Arctis 1</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-stabilizes-screen-flicker/"><u>Win11 Stabilizes Screen Flicker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016522622-windows-10/"><u>Windows 10에서 일시적으로 사라지는 소음을 수리하는 방법</u></a></li>
+</ul></div>
 
