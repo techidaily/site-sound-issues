@@ -1,7 +1,7 @@
 ---
 title: "Fix Windows Media Player Silent Issues: Step-by-Step Troubleshooting Guide"
-date: 2024-10-14T21:48:22.433Z
-updated: 2024-10-19T01:16:08.098Z
+date: 2024-10-23T16:55:11.546Z
+updated: 2024-10-24T21:44:52.750Z
 tags:
   - win11
   - win10
@@ -73,14 +73,22 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
@@ -88,10 +96,10 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
@@ -104,23 +112,16 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
@@ -150,17 +151,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-ultimate-guide-to-saving-memories-as-videos-on-iphone/"><u>[New] 2024 Approved Ultimate Guide to Saving Memories as Videos on iPhone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-blueprints-for-constructing-a-high-definition-video-editing-beast/"><u>[Updated] Blueprints for Constructing a High-Definition Video Editing Beast</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-webcams-to-elevate-your-zoom-video-conferencing/"><u>[Updated] Ideal Webcams to Elevate Your Zoom Video Conferencing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-club-vibes-best-dj-template-video-selections/"><u>[Updated] In 2024, Club Vibes Best DJ Template Video Selections</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-potential-of-youtube-shorts-a-comprehensive-tutorial/"><u>[Updated] Unlocking the Potential of YouTube Shorts A Comprehensive Tutorial</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-spotify-advertising-successfully/"><u>2024 Approved Navigating Spotify Advertising Successfully</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-when-using-zoom-on-your-computer/"><u>How to Restore Audio Functionality When Using Zoom on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-stereo-mix-functionality-on-your-device/"><u>How to Restore Stereo Mix Functionality on Your Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-your-laptops-onboard-speakers-for-optimal-sound-performance/"><u>How to Troubleshoot and Repair Your Laptop's Onboard Speakers for Optimal Sound Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lost-audio-on-your-hp-device-with-windows-11-follow-these-steps-to-fix-speaker-issues/"><u>Lost Audio on Your HP Device with Windows 11? Follow These Steps to Fix Speaker Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unrivaled-efficiency-macx-dvd-ripper-pro-v55-dominates-global-market-master-of-all-disc-formats/"><u>Unrivaled Efficiency - MacX DVD Ripper Pro V5.5 Dominates Global Market, Master of All Disc Formats</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-asus-vg2e3h-is-the-ultimate-choice-for-hardcore-gamers/"><u>Why Asus VG2e3H Is the Ultimate Choice for Hardcore Gamers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-chuckle-creator-app/"><u>[New] 2024 Approved Chuckle Creator App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-professionals-take-on-screenflow-pro-macos-experience/"><u>[New] In 2024, Professional's Take on ScreenFlow Pro macOS Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-rise-above-the-norm-expert-tips-for-broadcasting-spherical-content-on-youtube/"><u>[Updated] Rise Above the Norm Expert Tips for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-talent-to-treasure-the-proactive-pursuit-of-video-profitability/"><u>2024 Approved Tailoring Talent to Treasure The Proactive Pursuit of Video Profitability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-sound-bank-vintage-voice-choices/"><u>In 2024, Ultimate Sound Bank Vintage Voice Choices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-the-path-of-adobe-presenter-video-creation-for-2024/"><u>Navigating the Path of Adobe Presenter Video Creation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/premier-sounds-selections-for-video-creation-for-2024/"><u>Premier Sounds Selections for Video Creation for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restart-your-battle-chat-ultimate-guide-for-fixing-call-of-duty-modern-warfare-voice-connectivity-problems/"><u>Restart Your Battle Chat! Ultimate Guide for Fixing Call of Duty Modern Warfare Voice Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-playback-on-a-quiet-laptop-expert-tips-to-resolve-silent-speakers/"><u>Restore Audio Playback on a Quiet Laptop: Expert Tips to Resolve Silent Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-seamless-audio-experience-in-windows-11-a-step-by-step-solution-guide/"><u>Restore Seamless Audio Experience in Windows 11 - A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-wow-voice-chat-functionality-tips-and-tricks-to-restore-connection/"><u>Revive Your WoW Voice Chat Functionality – Tips and Tricks to Restore Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/runmux-microphone-malfunctions-effective-solutions-for-gamers/"><u>RunmuX Microphone Malfunctions: Effective Solutions for Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/secrets-of-the-trade-perfecting-sticker-removal-in-tiktoks/"><u>Secrets of the Trade Perfecting Sticker Removal in TikToks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-correct-failed-audio-playback-on-your-device/"><u>Simple Steps to Correct Failed Audio Playback on Your Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wildwood-lake-park/"><u>Wildwood Lake Park</u></a></li>
 </ul></div>
 

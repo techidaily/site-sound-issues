@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Fixing When Stereo Sound Isn't Working"
-date: 2024-10-13T00:49:34.946Z
-updated: 2024-10-18T20:48:01.019Z
+date: 2024-10-23T20:26:06.811Z
+updated: 2024-10-24T19:14:31.847Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
@@ -40,44 +47,31 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52a57919f5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) View by **Large icons** and select **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ab2cb848.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select **Change plan settings** of whichever plan you’re with now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ae2775a7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b27c8486.png)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
 
@@ -92,6 +86,13 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
  1) On your keyboard, press the **Windows logo key** and **X** at the same time, then choose **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
 
@@ -108,13 +109,6 @@ If you don’t see this option here, move on to the next steps.
  2) If you’re seeing green bars as shown in the screenshot below, and nothing in the top red section, your PC is in a good state. Move on to the next step below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5313c8fd13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
@@ -139,10 +133,10 @@ If you don’t see this option here, move on to the next steps.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -165,22 +159,21 @@ If you don’t see this option here, move on to the next steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-techniques-to-rectify-non-sending-videos-on-iphones-and-android-messengers/"><u>[New] 2024 Approved Techniques to Rectify Non-Sending Videos on iPhones & Android Messengers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mac-tools-to-tighten-instagram-video-content/"><u>[New] Mac Tools to Tighten Instagram Video Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-navigating-the-transition-of-zip-to-subrip-srt-formats/"><u>[Updated] 2024 Approved Navigating the Transition of Zip to SubRip (SRT) Formats</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-editor-insider-look-editmaster-pro-whats-new-in-2esy/"><u>2024 Approved Editor Insider Look EditMaster Pro - What's New in 2Esy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030383372-3gppmp4/"><u>3GPPファイルからMP4への完全な変換ガイド</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/5-best-no-cost-methods-for-converting-wmv-to-avi-with-superior-quality/"><u>5 Best No-Cost Methods for Converting WMV to AVI with Superior Quality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-to-fix-google-hangouts-microphone-not-working/"><u>Easy to Fix Google Hangouts Microphone Not Working</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-persistent-sound-dropouts-on-your-windows-11-device/"><u>How to Fix Persistent Sound Dropouts on Your Windows 11 Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-a58-4g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo A58 4G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-plan-uniting-instagram-and-tiktok-platforms-for-2024/"><u>Master Plan Uniting Instagram & TikTok Platforms for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-on-the-latest-game-version-a-step-by-step-guide/"><u>Resolving Audio Problems on the Latest Game Version: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-no-more-fixes-for-speaker-issues-with-mozillas-browser/"><u>Silent No More: Fixes for Speaker Issues with Mozilla's Browser</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-kotions-g2000-line-of-microphones-a-comprehensive-guide/"><u>Solving Common Problems with KOTION's G2000 Line of Microphones - A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978080366-steelseries-sg-mouse-drivers-get-them-here/"><u>SteelSeries SG Mouse Drivers - Get Them Here!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016477759-trouble-with-discord-voice-here-are-the-fixes-you-need/"><u>Trouble with Discord Voice? Here Are the Fixes You Need</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-eliminating-crackle-noise-from-system-speakers-in-win-107/"><u>Troubleshooting Guide: Eliminating Crackle Noise From System Speakers in Win 10/7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016786422-windows-11-and-cyberpunk-2077-how-to-overcome-silent-gameplay-solved/"><u>Windows 11 and Cyberpunk 2077: How to Overcome Silent Gameplay – Solved!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-workshop-naming-service-2023/"><u>[New] Advanced Workshop Naming Service 2023</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-transform-your-images-erase-backdrops-with-canva-skills/"><u>[Updated] Transform Your Images Erase Backdrops with Canva Skills</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-creating-a-countdown-timer-in-fcpx/"><u>2024 Approved From Zero to Hero Creating a Countdown Timer in FCPX</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquering-mute-mode-fixing-no-sound-problems-with-conexants-audio-on-windows-10/"><u>Conquering Mute Mode: Fixing No Sound Problems with Conexant's Audio on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-tips-for-resolving-sound-distortions-and-issues-in-outriders/"><u>Essential Tips for Resolving Sound Distortions and Issues in Outriders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-laptops-silent-mode-a-step-by-step-guide-to-restoring-audio/"><u>Fix Laptop's Silent Mode: A Step-by-Step Guide to Restoring Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-lack-of-audio-with-plugged-in-speakersheadphones-on-windows-systems/"><u>Fixing Lack of Audio with Plugged-In Speakers/Headphones on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-laptop-sound-problem-a-step-by-step-solution-guide/"><u>Fixing Your Laptop Sound Problem: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-correct-audio-misalignment-top-techniques/"><u>How to Correct Audio Misalignment - Top Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Phone?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nano-filled-composite-resins-offer-better-wear-resistance-smoother-surfaces-for-esthetics-and-can-incorporate-antimicrobial-agents-to-inhibit-bacterial-grow129/"><u>Nano-Filled Composite Resins Offer Better Wear Resistance, Smoother Surfaces for Esthetics, and Can Incorporate Antimicrobial Agents to Inhibit Bacterial Growth.</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-undetected-hurdles-successfully-recognizing-your-western-digital-my-passport-ultra-in-windows/"><u>Overcoming Undetected Hurdles: Successfully Recognizing Your Western Digital My Passport Ultra in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016969621-speaker-maintennance-made-easy-banish-the-hiss-and-hum-in-just-minutes/"><u>Speaker Maintennance Made Easy: Banish the Hiss & Hum in Just Minutes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-will-apples-new-ai-innovations-not-upgrade-your-previous-iphone-the-high-price-tag-explained/"><u>Why Will Apple’s New AI Innovations Not Upgrade Your Previous iPhone? The High Price Tag Explained</u></a></li>
 </ul></div>
 

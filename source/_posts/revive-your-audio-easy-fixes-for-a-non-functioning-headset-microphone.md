@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Audio: Easy Fixes for a Non-Functioning Headset Microphone"
-date: 2024-10-18T05:01:43.301Z
-updated: 2024-10-19T04:45:51.100Z
+date: 2024-10-23T21:58:25.672Z
+updated: 2024-10-24T18:59:44.251Z
 tags:
   - win11
   - win10
@@ -53,14 +53,14 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
 
@@ -86,26 +86,32 @@ There are mainly two ways you can update the audio driver:
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Check the Webex settings
 
@@ -116,15 +122,16 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
@@ -150,16 +157,24 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-discovering-the-finest-free-srt-translation-tools/"><u>[New] 2024 Approved Discovering the Finest FREE SRT Translation Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-your-content-with-these-20-pro-video-shortcuts/"><u>[New] In 2024, Elevate Your Content With These 20 Pro Video Shortcuts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-microphone-recorders-for-mac-users-our-five-superstar-picks/"><u>[Updated] 2024 Approved Advanced Microphone Recorders for Mac Users Our Five Superstar Picks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd4/"><u>DVD動画の永続的な保存法：4層構成とその正しい手順</u></a></li>
-<li><a href="https://techtrends.techidaily.com/everything-you-need-to-know-about-digital-video-recorders-dvrs/"><u>Everything You Need to Know About Digital Video Recorders (DVRs)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistic-agility-challenge-your-speaking-skills/"><u>Linguistic Agility: Challenge Your Speaking Skills</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-uninterrupted-voice-chats-on-discord-the-all-inclusive-2024-repair-manual/"><u>Mastering Uninterrupted Voice Chats on Discord - The All-Inclusive 2024 Repair Manual</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-windows-scanner-errors/"><u>Overcoming Common Windows Scanner Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-microphone-fixes-for-windows-11-and-10-users/"><u>Razer Barracuda X Microphone Fixes for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rec-room-headset-malfunction-troubleshooting-microphone-issues-on-pc-updated-guide/"><u>Rec Room Headset Malfunction: Troubleshooting Microphone Issues on PC (Updated Guide)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-20-copy-free-pubg-thumbnail-sequences/"><u>2024 Approved Excellent 20 Copy-Free PUBG Thumbnail Sequences</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-ways-to-fix-big-picture-mode-not-working-or-crashing-in-steam-for-windows/"><u>8 Ways to Fix Big Picture Mode Not Working or Crashing in Steam for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypassing-headphones-repairing-realtek-microphone-malfunctions-in-windows-1011/"><u>Bypassing Headphones: Repairing Realtek Microphone Malfunctions in Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/configuring-undetected-audio-outputs-on-your-pc-with-windows-10/"><u>Configuring Undetected Audio Outputs on Your PC with Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/configuring-your-audio-devices-when-the-speaker-type-is-undefined-on-windows-11/"><u>Configuring Your Audio Devices When the Speaker Type Is Undefined on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-tips-to-restore-functionality-of-broken-headset-microphones/"><u>DIY Tips to Restore Functionality of Broken Headset Microphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dxgidll-quest-triumphantly-tackled-in-pubg/"><u>Dxgi.dll Quest: Triumphantly Tackled in PUBG</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-airpods-mic-on-a-windows-10-pc/"><u>Effective Fixes for Non-Functioning AirPods Mic on a Windows 10 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-to-restore-in-game-voice-chat-in-dota-2-windows-version/"><u>Effective Fixes to Restore In-Game Voice Chat in Dota 2 Windows Version</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-hyperx-cloud-mic-wont-work-properly/"><u>Effective Solutions for When Your HyperX Cloud Mic Won't Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-audio-lags-in-bluetooth-connections-with-quick-and-easy-techniques/"><u>Eliminate Audio Lags in Bluetooth Connections with Quick & Easy Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-headphone-static-fast-easy-remedies-awaiting-you/"><u>End Headphone Static Fast! Easy Remedies Awaiting You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-konvertereen-cr2-naar-bmp-met-movavi-professioneel-image-converter/"><u>Gratis Online Konvertereen CR2 Naar BMP Met Movavi - Professioneel Image Converter</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-low-resource-utilization-wlanextexe/"><u>Mastering Low Resource Utilization: Wlanext.EXE</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resetting-your-fb-access-no-email-no-mobile-a-step-by-step-guide/"><u>Resetting Your FB Access: No Email, No Mobile - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revealing-the-strength-of-ankers-super-bright-defense-lamp-for-wilderness-adventures/"><u>Revealing the Strength of Anker's Super Bright Defense Lamp for Wilderness Adventures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/scouring-the-internet-for-superior-pixel-ringtone-sources/"><u>Scouring the Internet for Superior Pixel Ringtone Sources</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-apex-gamers-choice-of-2024-in-depth-benchmarking-and-reviews-of-leading-laptops/"><u>The Apex Gamers' Choice of 2024: In-Depth Benchmarking and Reviews of Leading Laptops</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweaking-your-tweets-audience-engagement-techniques-for-2024/"><u>Tweaking Your Tweets Audience Engagement Techniques for 2024</u></a></li>
 </ul></div>
 

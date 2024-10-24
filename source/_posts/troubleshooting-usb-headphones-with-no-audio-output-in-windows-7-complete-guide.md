@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting USB Headphones with No Audio Output in Windows 7 - Complete Guide
-date: 2024-10-15T20:36:26.968Z
-updated: 2024-10-18T22:12:06.447Z
+date: 2024-10-17T17:36:45.962Z
+updated: 2024-10-24T21:26:50.997Z
 tags:
   - win11
   - win10
@@ -75,16 +75,25 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
-4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
+4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -96,27 +105,20 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
@@ -126,10 +128,10 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -155,20 +157,19 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-fast-track-adding-snapchat-to-your-mac/"><u>[New] 2024 Approved Fast Track Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cut-to-the-chase-techniques-for-tightening-youtube-content-for-2024/"><u>[Updated] Cut to the Chase Techniques for Tightening YouTube Content for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-djis-game-changing-innovation-mavic-air-and-spark-face-off/"><u>2024 Approved DJI’s Game-Changing Innovation Mavic Air and Spark Face Off</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/5-effective-fixes-for-opening-sound-device-problems-in-audacity/"><u>5 Effective Fixes for 'Opening Sound Device' Problems in Audacity</u></a></li>
-<li><a href="https://facebook.techidaily.com/assessing-the-revival-of-second-life-as-a-metaverse-contributor/"><u>Assessing the Revival of Second Life as a Metaverse Contributor</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-your-dolby-advanced-audio-driver-when-confronted-with-startup-problems-in-windows-11/"><u>How to Reactivate Your Dolby Advanced Audio Driver When Confronted with Startup Problems in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-nvidia-graphics-output-problems-when-cable-is-loose/"><u>How To Resolve Nvidia Graphics Output Problems When Cable Is Loose</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/immerse-in-world-heritage-through-vr/"><u>Immerse in World Heritage Through VR</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-evolved-examination-of-sony-bdp-s3700/"><u>In 2024, The Evolved Examination of Sony BDP-S3700</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/prioritizing-elements-what-to-consider-with-a-new-4k-camera-lens/"><u>Prioritizing Elements What to Consider with a New 4K Camera Lens</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-speakers-back-for-an-hp-device-under-windows-11-os/"><u>Troubleshooting Guide: Getting Speakers Back for an HP Device Under Windows 11 OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-microsoft-teams-microphone-problems-on-windows-11-and-windows-10-systems/"><u>Troubleshooting Microsoft Teams Microphone Problems on Windows 11 and Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tips-to-maximize-volume-levels-in-windows-operating-systems/"><u>Ultimate Tips to Maximize Volume Levels in Windows Operating Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-windows-11-photos-implement-filters-and-playlist-features/"><u>[Updated] Perfecting Windows 11 Photos Implement Filters and Playlist Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-your-free-tool-to-record-androids-precision/"><u>2024 Approved Your Free Tool to Record Android's Precision</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-online-screen-recording-apps-manycam-and-alternatives/"><u>Best Online Screen Recording Apps: ManyCam and Alternatives</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-and-conquer-the-2022-leaf-bug-your-step-by-step-apex-legends-error-fix/"><u>Decode and Conquer the 2022 Leaf Bug: Your Step-by-Step Apex Legends Error Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-windows-compatible-art-tools-alike-procreate/"><u>Essential Windows-Compatible Art Tools Alike Procreate</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-z-flip-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy Z Flip 5 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-audio-problem-solutions-for-getting-the-speakers-back-on-track-windows-tenth/"><u>HP Laptop Audio Problem: Solutions for Getting the Speakers Back On Track (Windows Tenth)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-muting-problem-discover-how-to-bring-back-the-audio-solved/"><u>HP Laptop Muting Problem? Discover How to Bring Back the Audio [SOLVED]</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-harness-the-power-of-youtube-shorts-expert-filming-and-editing-techniques/"><u>In 2024, Harness the Power of YouTube Shorts Expert Filming and Editing Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instagrams-unusual-video-display-the-explanation-for-2024/"><u>Instagram's Unusual Video Display The Explanation for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-setup-how-to-identify-and-adjust-unrecognized-speaker-settings-on-windows-11/"><u>Mastering Audio Setup: How to Identify and Adjust Unrecognized Speaker Settings on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-from-your-microphone-proven-solutions-to-capturing-voices/"><u>No Sound From Your Microphone? Proven Solutions to Capturing Voices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/raising-the-decibels-optimizing-audio-loudness-in-windows-11/"><u>Raising the Decibels: Optimizing Audio Loudness in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/re-establish-audio-connection-fixing-unrecognized-speaker-and-headphone-issues-on-windows-pcs/"><u>Re-Establish Audio Connection: Fixing Unrecognized Speaker and Headphone Issues on Windows PCs</u></a></li>
 </ul></div>
 

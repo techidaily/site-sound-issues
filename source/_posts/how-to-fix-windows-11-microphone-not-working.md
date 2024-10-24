@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 11 Microphone Not Working
-date: 2024-10-14T17:09:14.180Z
-updated: 2024-10-18T20:32:20.519Z
+date: 2024-10-22T22:03:11.214Z
+updated: 2024-10-24T18:45:15.909Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Allow Webex to access your microphone
 
  On a Windows PC, you can manually adjust the permission for your microphone and choose specific apps to access it. To let your microphone work with Webex and pick up voice without problems, you’ll need to turn on the permission.
@@ -50,18 +57,26 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your audio driver
 
@@ -87,13 +102,6 @@ There are mainly two ways you can update the audio driver:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -110,20 +118,13 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
@@ -149,18 +150,20 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-powerpoint-tips-adding-and-capturing-speech-sounds-for-2024/"><u>[Updated] PowerPoint Tips Adding and Capturing Speech Sounds for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-noctuas-home-series-offerings-be-amazed-by-the-spectacular-and-economical-100-nv-fs1-desk-breezer/"><u>Discover Noctua's Home Series Offerings – Be Amazed by the Spectacular and Economical $100 NV-FS1 Desk Breezer</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-delay-explained-unveiling-the-reasons-behind-the-postponed-launch/"><u>Elden Ring Delay Explained - Unveiling the Reasons Behind the Postponed Launch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g935-mic-up-and-running-on-windows-1011/"><u>How To Get Your Logitech G935 Mic Up and Running on Windows 10/11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-merge-repeated-individual-photographs-using-your-iphonemac/"><u>How to Merge Repeated Individual Photographs Using Your iPhone/Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-repair-a-comprehensive-guide-for-new-world-players/"><u>Mastering Audio Repair: A Comprehensive Guide for New World Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-smooth-sounds-tips-to-eliminate-audio-crackling-in-cyberpunk-2077/"><u>Mastering Smooth Sounds: Tips to Eliminate Audio Crackling in Cyberpunk 2077</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-rust-mic-malfunctions-expert-fixes/"><u>Overcoming Common Rust Mic Malfunctions: Expert Fixes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overhauled-instagram-reel-problem/"><u>Overhauled: Instagram Reel Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-effective-troubleshooting-for-loudspeakers-not-working/"><u>Quick and Effective Troubleshooting for Loudspeakers Not Working</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-stability-issues-a-guide-to-preventing-house-flipper-2-crashes-on-your-computer/"><u>Resolving Stability Issues: A Guide to Preventing House Flipper 2 Crashes on Your Computer</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-se-2022-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone SE (2022) for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-infinix-hot-40-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Infinix Hot 40 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-reclaim-inaccessible-watch-icon/"><u>[New] Reclaim Inaccessible Watch Icon</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-arena-crafting-the-quintessential-7-total-war-tactics-for-2024/"><u>[New] Ultimate Arena Crafting the Quintessential 7 Total War Tactics for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-how-to-retrieve-individual-frames-from-windows-media-files/"><u>[Updated] How To Retrieve Individual Frames From Windows Media Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>In 2024, Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-configuring-invisible-audio-hardware-in-windows-11-expert-tips-and-tricks/"><u>Mastering the Art of Configuring Invisible Audio Hardware in Windows 11: Expert Tips & Tricks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-effortlessly-anywhere-discover-the-combination-of-accuracy-and-convenient-cable-in-sabrent-travel-mouse/"><u>Navigate Effortlessly Anywhere: Discover the Combination of Accuracy and Convenient Cable in Sabrent Travel Mouse</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-dolby-driver-challenges-a-guide-to-activating-dolby-audio-with-windows-11/"><u>Overcome Dolby Driver Challenges: A Guide to Activating Dolby Audio with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-low-sound-challenges-on-your-windows-10-device-a-comprehensive-guide/"><u>Overcoming Low Sound Challenges on Your Windows 10 Device - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-gaming-silence-broken-fix-the-soundless-mystery-in-borderlands-3/"><u>PC Gaming Silence Broken: Fix the Soundless Mystery in Borderlands 3</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-users-guide-solutions-to-restore-sound-in-zoom-meetings/"><u>PC Users Guide: Solutions to Restore Sound in Zoom Meetings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-restore-functionality-5-steps-to-fix-a-non-working-razer-mic/"><u>Quickly Restore Functionality: 5 Steps to Fix a Non-Working Razer Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-problem-solved-secure-and-optimal-device-connection-established/"><u>Realtek HD Audio Problem Solved: Secure and Optimal Device Connection Established</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-12-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme 12 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-missing-module-error-messages-in-software/"><u>Understanding and Fixing Missing Module Error Messages in Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974232661-updated-printer-drivers-for-hp-deskjet-ink-advantage-3520-secure-your-free-download-today/"><u>Updated Printer Drivers for HP Deskjet Ink Advantage 3520 - Secure Your FREE Download Today!</u></a></li>
 </ul></div>
 

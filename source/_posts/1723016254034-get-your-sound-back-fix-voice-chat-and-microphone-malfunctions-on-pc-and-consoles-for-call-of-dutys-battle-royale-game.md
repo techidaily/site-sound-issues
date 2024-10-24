@@ -1,7 +1,7 @@
 ---
 title: "Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game."
-date: 2024-10-14T19:56:45.531Z
-updated: 2024-10-18T23:38:49.068Z
+date: 2024-10-18T19:38:48.414Z
+updated: 2024-10-24T17:15:02.279Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. **[Configure the audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check out the obvious
 
  Whether it is that you cannot hear your friends, or you can’t get heard, the first thing you should check is whether your headset is connected properly.
@@ -57,8 +50,30 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 2. In the upper right corner, click**Settings** (the cog icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -74,23 +89,9 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
@@ -110,10 +111,10 @@ You can follow the steps below to check:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -139,17 +140,19 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>[New] Ultimate Backdrop Change Kit PixelPioneer's Reveal</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-canva-expertise-10-sneak-peek-tips-for-photo-editors/"><u>[Updated] Canva Expertise 10 Sneak Peek Tips for Photo Editors</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-master-headline-hacks-for-maximum-impressions-for-2024/"><u>[Updated] Master Headline Hacks for Maximum Impressions for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-chatgpt-a-guide-to-10-custom-tweaks/"><u>Elevating ChatGPT: A Guide to 10 Custom Tweaks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/google-drive-6/"><u>Google Drive 動画再生問題のトップ6解決法をご紹介</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-noise-disturbances-like-buzzing-during-headphones-use/"><u>Quick Fixes for Noise Disturbances Like Buzzing During Headphones Use</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolving-no-audio-issue-with-airpods-on-microsofts-latest-operating-systems/"><u>Quick Fixes: Resolving No Audio Issue with AirPods on Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-issue-guide-how-to-get-your-creative-pebble-bluetooth-speaker-up-and-running-again/"><u>Resolved Issue Guide: How To Get Your Creative Pebble Bluetooth Speaker Up and Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-dolby-atmos-on-windows-11-a-guide-to-fixing-and-starting-your-dolby-audio-driver/"><u>Resolving Issues with Dolby Atmos on Windows 11: A Guide to Fixing and Starting Your Dolby Audio Driver</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-silent-issues-restoring-audio-on-anthem-with-windows-11/"><u>Resolving Silent Issues: Restoring Audio on Anthem with Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-lava-blaze-pro-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Lava Blaze Pro 5G Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphoneipad-to-restore-functional-icloud-preferences/"><u>Troubleshooting iPhone/iPad to Restore Functional iCloud Preferences</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-fast-tracking-views-on-vimeo/"><u>[New] 2024 Approved Fast-Tracking Views on Vimeo</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-top-20-must-play-sandbox-adventures/"><u>2024 Approved The Top 20 Must-Play Sandbox Adventures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-y100-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo Y100 Data? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-toolwiz-visualize-a-comprehensive-2023-evaluation/"><u>In 2024, Toolwiz Visualize - A Comprehensive 2023 Evaluation</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-uncover-digital-entertainment-auditory-elements-for-2024/"><u>New Uncover Digital Entertainment Auditory Elements for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-sound-problems-with-your-arctis-headset-fix-for-non-functional-mic/"><u>Overcome Sound Problems with Your Arctis Headset: Fix for Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connection-woes-a-guide-to-making-your-blue-yeti-work-again/"><u>Overcoming Connection Woes: A Guide to Making Your Blue Yeti Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-your-oculus-rift-s-mic-functionality-expert-advice/"><u>Quick Solutions to Restore Your Oculus Rift S Mic Functionality - Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-microphone-not-working-fixes-for-windows-1110-devotees/"><u>Razer Barracuda X Microphone Not Working? Fixes for WINDOWS 11/10 Devotees!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-troubleshooting-and-fixing-windows-11s-bluetooth-connectivity-problem/"><u>Resolved: Troubleshooting and Fixing Windows 11'S Bluetooth Connectivity Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-world-of-warcraft-voice-communication-problems-easily/"><u>Resolving Your World of Warcraft Voice Communication Problems Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-common-causes-of-sluggish-downloads-in-utorrent/"><u>Troubleshooting Common Causes of Sluggish Downloads in uTorrent</u></a></li>
 </ul></div>
 

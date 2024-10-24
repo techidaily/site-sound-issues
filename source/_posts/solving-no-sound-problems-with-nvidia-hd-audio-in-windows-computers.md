@@ -1,7 +1,7 @@
 ---
 title: Solving 'No Sound' Problems with NVIDIA HD Audio in Windows Computers
-date: 2024-10-16T20:21:01.419Z
-updated: 2024-10-18T19:00:13.421Z
+date: 2024-10-17T19:22:58.394Z
+updated: 2024-10-24T20:06:41.996Z
 tags:
   - win11
   - win10
@@ -76,22 +76,23 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
@@ -104,23 +105,24 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
@@ -150,14 +152,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-new-apeaksoft-screenscape-capture-for-2024/"><u>[Updated] Unveiling the New Apeaksoft Screenscape Capture for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/innovative-techniques-for-easy-latino-learning/"><u>Innovative Techniques for Easy Latino Learning</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-visibility-identifying-users-whove-shared-your-content-on-facebook/"><u>Mastering Visibility: Identifying Users Who've Shared Your Content on Facebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-the-headphones-not-detected-issue-on-windows-11-pcs/"><u>Resolving the 'Headphones Not Detected' Issue on Windows 11 PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-razer-headset-mic-functionality-in-just-5-steps-easy-fixes-inside/"><u>Restoring Razer Headset Mic Functionality in Just 5 Steps - Easy Fixes Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-for-players-reactivating-voice-chat-feature-on-modern-warfare-game/"><u>Solution for Players: Reactivating Voice Chat Feature on Modern Warfare Game</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-non-functioning-mic-issues-for-razer-barracuda-x-users-a-guide-for-windows-11-and-10/"><u>Solving Non-Functioning Mic Issues for Razer Barracuda X Users: A Guide for Windows 11 & 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-update-failure-messages-in-warframe/"><u>Troubleshooting Guide: Overcoming 'Update Failure' Messages in Warframe</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-quantum-hdr-essentials-for-2024/"><u>Unveiling Quantum HDR Essentials for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-build-a-custom-facebook-coverage/"><u>[New] Build a Custom Facebook Coverage</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-secrets-with-enhanced-scopes-in-roblox-games/"><u>[New] In 2024, Unveiling Secrets with Enhanced Scopes in Roblox Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-orchestrate-an-engaging-statement-with-tunes/"><u>[New] Orchestrate an Engaging Statement with Tunes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-idea-to-execution-creating-must-watch-fb-reels/"><u>[Updated] In 2024, From Idea to Execution Creating Must-Watch FB Reels</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-repairing-non-functional-microphone-on-corsair-hs70-headphones/"><u>DIY Guide: Repairing Non-Functional Microphone on Corsair HS70 Headphones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-guide-to-overcoming-gtx-nine-fifty-zero-code-43-problems-on-winten-platforms/"><u>Expert Guide to Overcoming GTX Nine-Fifty Zero Code 43 Problems on WinTen Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-diagnosing-and-solving-discord-audio-malfunctions-quickly/"><u>Expert Tips for Diagnosing and Solving Discord Audio Malfunctions Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-hp-laptop-volume-issues-troubleshooting-guide-silent-mode-resolved/"><u>Fix HP Laptop Volume Issues: Troubleshooting Guide - Silent Mode Resolved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-device-used-by-another-application-for-seamless-hdmi-connection/"><u>Fixing 'Device Used by Another Application' For Seamless HDMI Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctioning-mic-on-your-oculus-quest-2-headset/"><u>How to Fix a Nonfunctioning Mic on Your Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-devices-inactive-front-audio-port-easy-diy-methods/"><u>How To Fix Your Device's Inactive Front Audio Port - Easy DIY Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reconnect-your-realtek-high-definition-sound-device-when-it-shows-as-unplugged/"><u>How to Reconnect Your Realtek High Definition Sound Device When It Shows as Unplugged</u></a></li>
+<li><a href="https://fox-access.techidaily.com/savvy-flyers-selection-least-expensive-drone-brands-for-2024/"><u>Savvy Flyers' Selection Least Expensive Drone Brands for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-mesh-wi-fi-setups-the-ultimate-guide/"><u>Top Rated Mesh Wi-Fi Setups: The Ultimate Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-picture-to-cartoon-transformation-tool/"><u>Updated 2024 Approved Picture to Cartoon Transformation Tool</u></a></li>
 </ul></div>
 

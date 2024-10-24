@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Silent Playthrough Solved: Sound Issues Addressed"
-date: 2024-10-15T16:29:41.178Z
-updated: 2024-10-18T17:11:51.053Z
+date: 2024-10-19T19:41:57.305Z
+updated: 2024-10-24T19:49:31.692Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the Windows audio troubleshooter
 
  Another quick fix to Apex Legends audio problems is running**the audio troubleshooter** . Follow the instructions below:
@@ -54,16 +61,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -97,22 +104,29 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -122,13 +136,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
@@ -136,13 +143,6 @@ OR
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -182,19 +182,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-guide-to-turning-fb-videos-into-audible-mp3s/"><u>[New] The Ultimate Guide to Turning Fb Videos Into Audible MP3s</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-top-tier-screen-capture-tech-in-itop-review-for-2024/"><u>[New] Unveiling Top-Tier Screen Capture Tech in ITop Review for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-novice-to-pro-a-comprehensive-reference-on-using-zds-video-capturing-features/"><u>[Updated] 2024 Approved From Novice to Pro A Comprehensive Reference on Using ZD's Video Capturing Features</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-reels-crafting-exquisite-slow-motion-content/"><u>[Updated] 2024 Approved Instagram Reels Crafting Exquisite Slow-Motion Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-dead-microphone-problem-in-skype-a-step-by-step-guide-for-windows-10-users/"><u>Fixing a Dead Microphone Problem in Skype: A Step-by-Step Guide for Windows 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dell-sound-driver-conflicts-on-windows-7-operating-system/"><u>Fixing Dell Sound Driver Conflicts on Windows 7 Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-correcting-mystery-speaker-configurations-in-windows-11-tips-and-tricks/"><u>Guide to Correcting Mystery Speaker Configurations in Windows 11: Tips & Tricks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/holistic-locomotion-examination-2023/"><u>Holistic Locomotion Examination 2023</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-logitech-g633-microphone-expert-advice/"><u>How to Fix a Non-Functional Logitech G633 Microphone - Expert Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-bluetooth-headphones-with-connection-but-no-audio/"><u>How to Fix Bluetooth Headphones with Connection but No Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-on-your-windows-10-pc/"><u>How to Turn Off Sound Improvement Features on Your Windows 10 PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-short-storyboard-scheme/"><u>In 2024, Short Storyboard Scheme</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-reels-strategy-for-instant-success-for-2024/"><u>Instagram Reels Strategy for Instant Success for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-eternal-vision-recorder-tool/"><u>[New] In 2024, Eternal Vision Recorder Tool</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ranked-9-iphone-applications-to-add-watermarks-on-photos/"><u>[New] Ranked 9 iPhone Applications to Add Watermarks on Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-airpods-connected-but-no-sound-on-windows-1110/"><u>[SOLVED] AirPods Connected But No Sound on Windows 11/10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-advanced-psd-text-styling/"><u>[Updated] 2024 Approved Advanced PSD Text Styling</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-thumbnail-insight-top-picks-for-maximizing-video-visibility/"><u>2024 Approved Thumbnail Insight Top Picks for Maximizing Video Visibility</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975429309-download-and-install-the-newest-roccat-epiq-raptor-mouse-driver-today/"><u>Download and Install the Newest Roccat Epiq Raptor Mouse Driver Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-function-fn-buttons-on-an-asus-computer/"><u>How to Repair Unresponsive Function (Fn) Buttons on an Asus Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-x50-gt-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor X50 GT Phone that is Locked?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-a-non-functional-razer-kraken-mic/"><u>Solution Steps for a Non-Functional Razer Kraken Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-your-mic-why-it-doesnt-record-your-voice-anymore/"><u>Solutions for Your Mic: Why It Doesn't Record Your Voice Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-silence-restore-audio-on-windows-10-fix-anthems-mute-issue/"><u>Solve the Silence: Restore Audio on Windows 10 | Fix Anthem's Mute Issue</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/value-meets-functionality-in-our-in-depth-review-of-the-mohu-leaf-30-tv-antenna/"><u>Value Meets Functionality in Our In-Depth Review of the Mohu Leaf 30 TV Antenna</u></a></li>
 </ul></div>
 

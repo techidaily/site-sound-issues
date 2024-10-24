@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reactivating the Razer BlackShark V2 Microphone Functionality"
-date: 2024-10-13T02:34:24.956Z
-updated: 2024-10-18T20:26:52.284Z
+date: 2024-10-23T22:07:15.180Z
+updated: 2024-10-24T16:53:30.416Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 3. [**Re-installing drivers**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Make sure you use the right ports
 
@@ -58,21 +65,7 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -94,13 +87,6 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,23 +99,31 @@ There are mainly two ways for you to do this:
 2. In the**Input** section, click**Device properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
@@ -139,6 +133,20 @@ There are mainly two ways for you to do this:
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. You may need to restart your computer for the changes to take effect.
 
 ---
@@ -164,24 +172,19 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-pcmac-screencasting-leaders-our-choice-roundup-for-2024/"><u>[New] PC/Mac Screencasting Leaders – Our Choice Roundup for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mirthful-missions-delving-into-the-goofy-movie-vhs-for-2024/"><u>[Updated] 'Mirthful Missions' - Delving Into The Goofy Movie VHS for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-a-step-by-step-approach-to-lut-application-in-ae-for-2024/"><u>[Updated] A Step-by-Step Approach to LUT Application in AE for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-gratis-lut-files-comprehensive-analysis-and-downloads/"><u>2024 Approved Top 10 Gratis LUT Files - Comprehensive Analysis & Downloads</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comment-effectuer-le-transfert-de-fichiers-entre-ordinateurs-avec-windows-11-6-techniques-simples/"><u>Comment Effectuer Le Transfert De Fichiers Entre Ordinateurs Avec Windows 11 - 6 Techniques Simples</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-top-uhd-video-players-free-download/"><u>Comprehensive Guide to Top UHD Video Players, Free Download</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/defeat-mac-no-sound-ultimate-troubleshooting-strategies-revealed/"><u>Defeat 'Mac No Sound': Ultimate Troubleshooting Strategies Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-realtek-hd-audio-plug-in-problems/"><u>Diagnosing & Repairing Realtek HD Audio Plug In Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-issues-with-unresponsive-bose-speakers/"><u>Diagnosing and Correcting Issues with Unresponsive Bose Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-bringing-back-life-to-your-unresponsive-corsair-headset-mic/"><u>Effective Solutions: Bringing Back Life to Your Unresponsive Corsair Headset Mic</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-11-guides-on-color-adjustment-excellence/"><u>Essential 11 Guides on Color Adjustment Excellence</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/experience-full-blast-action-rectifying-noise-glitches-in-battlefield-4/"><u>Experience Full Blast Action: Rectifying Noise Glitches in Battlefield 4</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341704660-expert-analysis-of-id-cooling-fx360-pro-cpu-cooler-great-performance-at-only-60/"><u>Expert Analysis of ID-Cooling FX360 Pro Cpu Cooler - Great Performance at Only $60</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-iphones-sound-issues-clear-up-no-audio-and-improve-sound-quality-now/"><u>Fix Your iPhone's Sound Issues: Clear Up No Audio and Improve Sound Quality Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-troubleshooting-your-unresponsive-pebble-speaker/"><u>Fixing Common Issues: Troubleshooting Your Unresponsive Pebble Speaker</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-oculus-quest-2-headsets-microphone-working-again-troubleshooting-techniques/"><u>How to Get Your Oculus Quest 2 Headset's Microphone Working Again: Troubleshooting Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-broken-dell-sound-drivers-in-windows-7-easily/"><u>How to Repair Broken Dell Sound Drivers in Windows 7 Easily</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-elite-motion-effect-bundles/"><u>In 2024, Elite Motion Effect Bundles</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-sony-vegas-replacements-for-windows-users-for-2024/"><u>New Top Sony Vegas Replacements for Windows Users for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-enhancing-auditory-appreciation-via-iphones-playback/"><u>[New] In 2024, Enhancing Auditory Appreciation via iPhone's Playback</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-getting-started-with-iphone-speech-recordings/"><u>[New] In 2024, Getting Started with iPhone Speech Recordings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-15-cameras-excelling-in-live-streaming/"><u>[Updated] In 2024, Top 15 Cameras Excelling in Live Streaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-to-facebooks-story-archives-quickly/"><u>2024 Approved Navigating to Facebook's Story Archives Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-amd-graphics-drivers-supports-windows-11-7-8-and-81-systems/"><u>Get Your AMD Graphics Drivers: Supports Windows 11, 7, 8, and 8.1 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-no-fluff-just-facts-the-verdict-on-recordcast/"><u>In 2024, No Fluff, Just Facts The Verdict on RecordCast</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-keeping-windows-time-unchanged/"><u>Mastery over Keeping Windows Time Unchanged</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-silent-hurdles-in-cs-go-expert-tips-on-microphone-repair/"><u>Overcome Silent Hurdles in CS: GO - Expert Tips on Microphone Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/playstyles/"><u>Playstyles:</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y27s-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y27s and Browser | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolving-common-speaker-hum-and-buzz-issues/"><u>Quick Fixes: Resolving Common Speaker Hum and Buzz Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-audio-issues-in-google-chrome/"><u>Resolved: Fixing Audio Issues in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-skypes-sound-problems-in-windows-11-a-step-by-step-mic-fix-guide/"><u>Resolving Skype's Sound Problems in Windows 11: A Step-by-Step Mic Fix Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy XCover 7 to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 
