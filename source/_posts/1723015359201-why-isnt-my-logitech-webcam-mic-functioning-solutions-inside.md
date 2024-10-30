@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Logitech Webcam Mic Functioning? Solutions Inside
-date: 2024-09-05T04:02:53.891Z
-updated: 2024-09-06T04:02:53.891Z
+date: 2024-10-27T17:29:22.688Z
+updated: 2024-10-30T17:28:59.423Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Why Isn't My Logitech Webcam Mic Functioning? So
 thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211e93965b72d3f210e8935545.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Isn't My Logitech Webcam Mic Functioning? Solutions Inside
 
 Objectively, external webcams such as Logitech webcams offer better video quality, plus a range of features. But there are some situations where you may run into issues like the built-in microphone (**it could be your C920 webcame** ) not working all of a sudden. Instead of investing in another expensive webcam, there are several things you can do to reclaim your own voice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -42,12 +30,6 @@ Objectively, external webcams such as Logitech webcams offer better video qualit
 
 ![how to fix Logitech webcam mic not working](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-webcam-mic-not-working.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Install all Windows updates
 
  Windows updates are used to keep Microsoft Windows and several other Microsoft programs updated. They often include feature enhancements and security updates to protect Windows from the malware and malicious attacks which would probably lead to your programs malfunctioning. Therefore, before trying the solutions listed below, you need to download and install the latest Windows updates.
@@ -67,11 +49,12 @@ Here’s how you can do this:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Update your webcam driver
 
  The built-in microphone won’t be functioning properly if you’re using a corrupted or outdated webcam driver. It would stop you from getting the most out of your device and you may be lacking a new feature required for the microphone to work as expected. Therefore, to troubleshoot the issue you’re having, you need to update your webcam driver.
@@ -102,17 +85,12 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Allow access to your webcam built-in microphone
 
  On Windows, you can decide whether your system and apps can access the microphone. In case you’ve disabled the access for some reasons, you should check the settings and grant the permission for the access by following the instructions below:
@@ -124,37 +102,33 @@ Here’s how to update your drivers with Driver Easy:
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Once you’ve allowed the microphone to access your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve done all of these, try to use your webcam microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Make sure your mic isn’t disabled
 
  Sometimes you may not notice that your microphone has accidentally been disabled. To check if that’s your case, take these steps:
@@ -162,6 +136,13 @@ Here’s how to update your drivers with Driver Easy:
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select **Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
   
@@ -184,31 +165,27 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select the **Recording**  tab. Select your microphone and then click **Set Default > OK** .  
   
 ![set your device as the default](https://images.drivereasy.com/wp-content/uploads/2021/03/microphone.png)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After applying changes, do a mic test to check if this method did the trick. If the microphone is still not working, you need to check the input sensitivity of your mic to ensure it is not too low or too high which could cause issues. Here’s how you can do this:
 
  1) In the Sound window (shown as the picture above), right-click the microphone and select**Properties** .
@@ -223,12 +200,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
@@ -247,8 +218,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -256,4 +225,18 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-do-beginners-make-a-cool-video-for-youtube-on-mac-for-2024/"><u>[New] How Do Beginners Make a Cool Video for YouTube on Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>[New] The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlock-easy-paths-for-exceptional-yt-thumbnails-for-2024/"><u>[Updated] Unlock Easy Paths for Exceptional YT Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visioncutting-software/"><u>[Updated] VisionCutting Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-unblocking-shared-access-problems-with-these-6-key-strategies/"><u>Expert Advice: Unblocking Shared Access Problems with These 6 Key Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-airpods-microphone-issues-with-windows-11-a-step-by-step-guide/"><u>How to Fix Your AirPods' Microphone Issues with Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-note-30-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Note 30 to iPod | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/one-or-more-audio-service-isnt-running-solved/"><u>One or More Audio Service Isn't Running [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-skype-microphone-issues-in-windows-11-step-by-step-tutorial/"><u>Solve Your Skype Microphone Issues in Windows 11 - Step by Step Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-repairs-expert-advice-on-restoring-audio-in-the-oculus-rift-s-for-a-better-vr-experience-new-strategies/"><u>Speedy Repairs: Expert Advice on Restoring Audio in the Oculus Rift S for a Better VR Experience - New Strategies</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-reno-9a-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo Reno 9A</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step by Step Guide: Fix Apple Airpod's Mic Not Working on a Device Running Windows 11"
-date: 2024-10-20T20:01:32.786Z
-updated: 2024-10-24T18:19:59.472Z
+date: 2024-10-29T17:53:11.863Z
+updated: 2024-10-30T17:11:23.083Z
 tags:
   - win11
   - win10
@@ -43,15 +43,15 @@ Follow these:
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###
 
@@ -60,19 +60,6 @@ Follow these:
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
@@ -90,14 +77,14 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -107,10 +94,23 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
@@ -132,18 +132,21 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>[New] Mastering Soundscapes The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-video-capture-on-your-laptop-with-screenrec/"><u>[New] Mastering Video Capture on Your Laptop with ScreenRec</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quick-guide-on-converting-videos-into-dynamic-gifs-online/"><u>[Updated] 2024 Approved Quick Guide on Converting Videos Into Dynamic Gifs Online</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-surf-tips-for-multiple-youtube-views-for-2024/"><u>[Updated] Streamline Your Surf Tips for Multiple Youtube Views for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-discover-the-5-best-android-software-for-ps2-games/"><u>In 2024, Discover the 5 Best Android Software for PS2 Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-unresponsive-phasmophobia-voice-chat-feature/"><u>Step-by-Step Solutions for Unresponsive Phasmophobia Voice Chat Feature</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-macbook-air-with-m1-a-game-changing-2020-review-of-apples-revolutionary-processor/"><u>The MacBook Air with M1: A Game-Changing 2020 Review of Apple's Revolutionary Processor</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-sound-issues-plaguing-your-outriders-adventure/"><u>The Ultimate Fix for Sound Issues Plaguing Your Outriders Adventure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-guide-to-get-the-best-out-of-your-jabra-headset/"><u>The Ultimate Fix Guide to Get the Best Out of Your Jabra Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functioning-voice-chat-in-fortnite-tips-for-swift-resolution/"><u>Troubleshooting Non-Functioning Voice Chat in Fortnite: Tips for Swift Resolution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-lack-of-audio-when-linking-pc-laptop-and-mac-to-hdtv/"><u>Troubleshooting Steps: Resolving Lack of Audio When Linking PC, Laptop & Mac To HDTV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-your-bose-speaker-connectivity-issues/"><u>Troubleshooting Tips: Solving Your Bose Speaker Connectivity Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-your-photo-workflow-in-windows-11/"><u>[Updated] Boost Your Photo Workflow in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budgeting-outlay-the-expense-of-rendering-songs-visually-for-2024/"><u>Budgeting Outlay The Expense of Rendering Songs Visually for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726028669018-flashhtml5/"><u>FlashビデオからHTML5へ - 円熟した変換手順解説</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-step-up-your-storytelling-effortless-text-addition-for-video-clips-with-photos/"><u>In 2024, Step Up Your Storytelling Effortless Text Addition for Video Clips with Photos</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/menemukan-partisi-lengkap-di-perangkat-usb-hidden/"><u>Menemukan Partisi Lengkap Di Perangkat USB Hidden</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-problems-in-counter-strike-2-mic-fixes-and-tips/"><u>Overcoming Audio Problems in Counter Strike 2 - Mic Fixes and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-phasmophobias-voice-communication-problems/"><u>Quick Fixes for Phasmophobia's Voice Communication Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-issue-audio-misdirection-headphones-connected-yet-sound-emerges-from-speakers/"><u>Resolved Issue: Audio Misdirection - Headphones Connected, Yet Sound Emerges From Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-in-windows-10-a-step-by-step-guide/"><u>Resolving Audio Problems in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-stuttering-distortion-problem-on-windows-107-solved/"><u>Sound Stuttering / Distortion Problem on Windows 10/7 [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-the-silent-problem-of-your-logitech-g933-headset/"><u>Step-by-Step Guide: Fixing the Silent Problem of Your Logitech G933 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-connecting-your-realtek-high-definition-audio-device/"><u>Step-by-Step Instructions: Connecting Your Realtek High Definition Audio Device</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/top-10-screen-recording-tools-for-windows-11-free-and-premium-options-explored/"><u>Top 10 Screen Recording Tools for Windows 11: Free and Premium Options Explored</u></a></li>
 </ul></div>
 

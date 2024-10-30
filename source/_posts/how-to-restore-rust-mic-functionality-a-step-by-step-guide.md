@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Rust Mic Functionality: A Step-by-Step Guide"
-date: 2024-10-20T17:31:08.415Z
-updated: 2024-10-24T21:47:35.658Z
+date: 2024-10-25T16:44:02.650Z
+updated: 2024-10-30T17:02:13.546Z
 tags:
   - win11
   - win10
@@ -30,18 +30,18 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Make sure you use the right ports
 
  You can connect your Virtuoso headset using the Slipstream Wireless dongle, a 3.5mm jack, or a USB connection. No matter what wired connection you use, you should first make sure you’re utilizing the correct port.
 
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
 
@@ -52,30 +52,23 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
@@ -113,27 +106,35 @@ There are mainly two ways for you to do this:
 1. Right-click the Volume icon in the notification area, and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -168,20 +169,20 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-engaging-tactics-for-increased-subscriber-count/"><u>[New] 2024 Approved Engaging Tactics for Increased Subscriber Count</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-seamless-sync-tweets-as-videos-on-whatsapp/"><u>[New] Seamless Sync Tweets as Videos on WhatsApp</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2023-facebook-live-video-downloaders-for-2024/"><u>2023 Facebook Live Video Downloaders for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/article-unveiling-the-role-of-digital-surveillance-in-monitoring-covid-19-immunization-efforts/"><u>Article: Unveiling the Role of Digital Surveillance in Monitoring COVID-19 Immunization Efforts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015437160-bypass-audacity-cannot-open-device-challenge-discover-5-reliable-fixes/"><u>Bypass 'Audacity Cannot Open Device' Challenge - Discover 5 Reliable Fixes!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-chortlechaos-dive-deep-into-meme-genesis/"><u>In 2024, ChortleChaos Dive Deep Into Meme Genesis</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-non-selectable-items-on-windows-11-desktop/"><u>Overcoming Non-Selectable Items on Windows 11 Desktop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-your-devices-the-crucial-fix-for-airtags-flawed-battery-safety-feature-zdnet/"><u>Protect Your Devices: The Crucial Fix for AirTags’ Flawed Battery Safety Feature | ZDNET</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/riches-skyrocket-with-viral-video-empire/"><u>Teen Riches Skyrocket with Viral Video Empire</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015399092-troubleshoot-and-solve-no-sound-problems-on-pc-easy-techniques-inside/"><u>Troubleshoot & Solve No Sound Problems on PC - Easy Techniques Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014808686-troubleshooting-the-non-functional-onikuma-headset-mic-solution-found/"><u>Troubleshooting the Non-Functional Onikuma Headset Mic - Solution Found!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-pc-playback-problems-with-facebook-videos-sound-issues/"><u>Ultimate Guide: Resolving PC Playback Problems with Facebook Videos (Sound Issues)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-troubleshooting-swift-methods-for-noise-restoration/"><u>Windows 10 Audio Troubleshooting: Swift Methods for Noise Restoration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-7-sound-troubles-restoring-functionality-to-your-microphone/"><u>Windows 7 Sound Troubles: Restoring Functionality to Your Microphone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-break-through-boundaries-15plus-best-free-video-starters/"><u>[Updated] 2024 Approved Break Through Boundaries 15+ Best Free Video Starters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-efficiently-start-and-schedule-a-zoom-call-on-any-android-device/"><u>[Updated] Efficiently Start & Schedule a Zoom Call on Any Android Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-roadmap-to-unearth-gorgeous-pexel-pictures/"><u>[Updated] The Ultimate Roadmap to Unearth Gorgeous Pexel Pictures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capture-your-screen-like-a-pro-ultimate-techniques-for-taking-screenshots-on-pcs/"><u>Capture Your Screen Like a Pro: Ultimate Techniques for Taking Screenshots on PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-chat-applications-compatible-with-iphone-and-ipod-touch-devices/"><u>Free Chat Applications Compatible with iPhone and iPod Touch Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/immersive-playgrounds-androids-top-15-simulations/"><u>Immersive Playgrounds Android's Top 15 Simulations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/practical-solutions-for-activating-your-tozo-t6-device-with-windows-11-integration/"><u>Practical Solutions for Activating Your Tozo T6 Device with Windows 11 Integration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/professional-framing-methods-using-letterbox-and-black-bar-on-social-networks/"><u>Professional Framing Methods Using Letterbox & Black Bar on Social Networks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016156971-quick-fixes-to-silence-crackling-sounds-in-your-headphones-now/"><u>Quick FIXES to Silence Crackling Sounds in Your Headphones Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-setting-up-idt-hd-audio-codec-for-windows-10-system/"><u>Step-by-Step Solution: Setting Up IDT HD Audio Codec for Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-latest-techniques-for-rectifying-echoes-and-delays-your-guide/"><u>The Latest Techniques for Rectifying Echoes & Delays - Your Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-no-cost-global-communication-applications/"><u>Top 5 No-Cost Global Communication Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-instantly-restoring-audio-in-google-hangouts-with-a-non-functional-mic/"><u>Troubleshoot Instantly: Restoring Audio in Google Hangouts with a Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-audio-issues-in-dell-computers-on-windows-7/"><u>Troubleshooting and Repairing Audio Issues in Dell Computers on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-not-working-learn-quick-fixes-and-updates/"><u>Voicemod Not Working? Learn Quick Fixes & Updates</u></a></li>
 </ul></div>
 

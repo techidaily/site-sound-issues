@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Repair No-Sound Issues in Toshiba Notebooks
-date: 2024-09-05T03:59:17.499Z
-updated: 2024-09-06T03:59:17.499Z
+date: 2024-10-26T16:33:32.947Z
+updated: 2024-10-30T16:08:07.049Z
 tags:
   - win11
   - win10
@@ -13,30 +13,12 @@ excerpt: This Article Describes How to Successfully Repair No-Sound Issues in To
 thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178416607e8e0046420c189dda.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Astro A50 Silent Woes? Troubleshoot and Repair the Sound Issue Fast
 
 If your Astro A50 headset has no sound, but you don’t know how to troubleshoot the issue yourself, don’t worry. Here we’ll walk you through 4 simple fixes and provide you with a step-by-step guide.
 
  If your**Astro A50 headset’s microphone** **is not working** , please check the[microphone troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  We’ve put together 4 simple fixes for you when your Astro A50 has no sound. You may not need to try them all; just walk your way down until you find the one that works.
@@ -45,6 +27,13 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. [**Set your Astro A50 as the default**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update the sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Troubleshoot the connection
 
@@ -61,6 +50,13 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  When the connections are fine, but the Astro A50 no sound issue persists, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set your Astro A50 as the default
 
  Next, you need to**check if your headset is properly configured on Windows** .
@@ -70,19 +66,14 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 1. Right-click the **volume icon** at the bottom right corner, and click **Open Volume mixer** .  
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/02/open-volume-mixer.jpg)
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
 3. Now test and see if there is any sound from your Astro A50.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Make sure your Astro A50 is set as default
@@ -91,35 +82,24 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. Type**mmsys.cpl** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/win11-mmsys.cpl_.jpg)
 3. Go to the**Playback** tab and make sure your Astro A50 is the default output device and shows strong signals.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
 4. Test the audio.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the problem remains, you can move on to the next method.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Update the sound card driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your sound card driver to see if it fixes your problem.
@@ -129,6 +109,13 @@ If the problem remains, you can move on to the next method.
 ### Option 1: Update your sound card driver manually
 
  You can update your sound drivers manually by going to the manufacturer’s website for your sound card and searching for the most recent correct sound driver. Be sure to choose only drivers that are compatible with your variant of Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Update your sound card driver automatically (Recommended)
 
@@ -140,12 +127,6 @@ If the problem remains, you can move on to the next method.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -162,14 +143,16 @@ If the problem remains, you can move on to the next method.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time. Type in **mmsys.cpl** and press **Enter** .  
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
 
@@ -187,8 +170,6 @@ If the problem remains, you can move on to the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +177,26 @@ If the problem remains, you can move on to the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-express-exuberance-create-memetic-content-with-kapwing/"><u>[New] 2024 Approved Express Exuberance Create Memetic Content With Kapwing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-becoming-a-gif-maestro-the-meme-creators-handbook/"><u>[Updated] Becoming a GIF Maestro The Meme Creator’s Handbook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-quicktweetgrabber-swiftly-secure-tweets-videos-on-iphone/"><u>2024 Approved QuickTweetGrabber Swiftly Secure Tweets' Videos on iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-get-your-razer-blackshark-v2-microphone-working-again/"><u>DIY Repair: Get Your Razer BlackShark V2 Microphone Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-troubleshooting-how-to-restore-and-improve-voice-chat-in-valorant/"><u>DIY Troubleshooting: How to Restore and Improve Voice Chat in Valorant</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-home-security-smartly-the-waterproof-blink-mini-2-stands-out-as-the-premier-alternative-to-wyze-cam/"><u>Enhance Home Security Smartly: The Waterproof Blink Mini #2 Stands Out as the Premier Alternative to Wyze Cam</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-find-youtube-hidden-videos-for-2024/"><u>How to Find YouTube Hidden Videos for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-se-2020-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone SE (2020) SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-fb-audio-problems-revive-your-videos-sounds-on-desktop-systems/"><u>Mastering FB Audio Problems: Revive Your Videos' Sounds on Desktop Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-volume-control-tips-for-louder-sounds-on-windows-10/"><u>Mastering Volume Control: Tips for Louder Sounds on Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimize-your-windows-11-photo-viewing-include-audio-files-and-artistic-layers/"><u>Optimize Your Windows 11 Photo Viewing Include Audio Files and Artistic Layers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-battle-against-audio-distortion-in-resident-evil-village-gameplay/"><u>Overcoming the Battle Against Audio Distortion in Resident Evil Village Gameplay</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-honor-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Honor .</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-non-functioning-logitech-g933-microphone-step-by-step/"><u>Quick Fix for Non-Functioning Logitech G933 Microphone - Step by Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016725544-troubleshoot-fortnites-voice-chatting-glitches-fast-and-efficiently/"><u>Troubleshoot Fortnite's Voice Chatting Glitches Fast & Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-audio-silence-solving-your-laptops-sound-problem/"><u>Troubleshooting Complete Audio Silence: Solving Your Laptop's Sound Problem</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-12-pro-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 12 Pro Max? How to Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-restore-your-voice-chat-functionality-expert-tips-and-tricks/"><u>World of Warcraft: Restore Your Voice Chat Functionality – Expert Tips & Tricks</u></a></li>
+</ul></div>
 

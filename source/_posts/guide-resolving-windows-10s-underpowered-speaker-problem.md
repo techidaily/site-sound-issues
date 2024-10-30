@@ -1,7 +1,7 @@
 ---
 title: "Guide: Resolving Windows 10'S Underpowered Speaker Problem"
-date: 2024-10-21T20:29:52.565Z
-updated: 2024-10-24T21:33:16.272Z
+date: 2024-10-24T16:37:00.732Z
+updated: 2024-10-30T16:56:05.477Z
 tags:
   - win11
   - win10
@@ -36,19 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -58,13 +45,35 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -80,31 +89,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
@@ -114,13 +116,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
@@ -152,17 +147,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-13-incredible-minecraft-architectural-plans/"><u>[Updated] In 2024, 13 Incredible Minecraft Architectural Plans</u></a></li>
-<li><a href="https://facebook.techidaily.com/ensure-only-you-see-your-facebook-pics/"><u>Ensure Only You See Your Facebook Pics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-connectivity-problems-between-corsair-hs35-headset-and-windows-system/"><u>How to Resolve Connectivity Problems Between Corsair HS35 Headset and Windows System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-muting-problem-solved-a-comprehensive-fixing-manual/"><u>HP Laptop Muting Problem Solved: A Comprehensive Fixing Manual</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-8-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 8 Without iTunes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-gt-10-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix GT 10 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-output-from-airpods-step-by-step-guide-for-playing-audio-via-windows-11-and-10-systems/"><u>No Output From AirPods? Step-by-Step Guide for Playing Audio via Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prepare-for-the-metaverse-the-7-indispensable-tools-for-2024/"><u>Prepare for the Metaverse - The 7 Indispensable Tools for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/quick-troubleshooting-tips-resolving-issues-with-windows-stap-paer-in-windows-7/"><u>Quick Troubleshooting Tips: Resolving Issues with Windows ˈstaʊp ɹɪpaɪər in WINDOWS 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-skype-audio-problems-repairing-microphone-functionality-on-windows-11/"><u>Resolve Your Skype Audio Problems: Repairing Microphone Functionality on Windows 11</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-15-most-effective-snapchat-posts-of-the-year/"><u>The 15 Most Effective Snapchat Posts of the Year</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-more-subscribers-on-youtube-for-2024/"><u>[New] How to Get More Subscribers on YouTube for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-non-retweeting-video-tweets-from-your-phone/"><u>[New] In 2024, Non-Retweeting Video Tweets From Your Phone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-tailoring-trailers-to-amplify-your-youtube-channels-earnings/"><u>[New] In 2024, Tailoring Trailers to Amplify Your YouTube Channel's Earnings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-superior-sd-card-compatible-with-a7s-ii/"><u>[Updated] Superior SD Card Compatible with A7S II</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6s-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6s Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-depths-of-ai-truthgpt-discovery-and-the-story-behind-mullvad-vpn-police-raid-plus-best-no-cost-games-and-essential-mechanic-keyboard-knowledge35/"><u>Exploring the Depths of AI: TruthGPT Discovery & The Story Behind Mullvad VPN Police Raid - Plus Best No-Cost Games & Essential Mechanic Keyboard Knowledge</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-how-to-troubleshoot-non-functional-speakers-on-a-windows-10-hp-laptop/"><u>Fixing Audio Issues: How to Troubleshoot Non-Functional Speakers on a Windows 10 HP Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hear-again-simple-solutions-to-resolve-no-sound-problem-on-laptop-or-desktop/"><u>Hear Again! Simple Solutions to Resolve No-Sound Problem on Laptop or Desktop</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y27-4g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y27 4G is off? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-game-sound-resolving-no-audio-in-hearthstone-issues/"><u>Restore Your Game Sound: Resolving No Audio in Hearthstone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-discord-voice-chat-woes-expert-tips-and-tricks/"><u>Solving Your Discord Voice Chat Woes: Expert Tips and Tricks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-devices-for-streaming-and-capturing-ultra-hd-content-a-guide-to-the-best-4k-phone-and-tablet-options/"><u>Top Devices for Streaming & Capturing Ultra HD Content: A Guide to the Best 4K Phone and Tablet Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mute-mode-a-guide-to-recovering-sound-on-pc-for-zoom-users/"><u>Troubleshooting Mute Mode: A Guide to Recovering Sound on PC for Zoom Users</u></a></li>
 </ul></div>
 

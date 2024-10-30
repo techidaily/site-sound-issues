@@ -1,7 +1,7 @@
 ---
 title: Turtle Beach Mic Not Working [FIXED]
-date: 2024-10-20T16:56:52.967Z
-updated: 2024-10-24T20:37:50.575Z
+date: 2024-10-25T16:05:28.099Z
+updated: 2024-10-30T16:40:20.868Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -53,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
@@ -62,33 +62,25 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -105,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
@@ -125,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
@@ -134,6 +133,19 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -163,21 +175,18 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-lightning-lens-work-a-guide-to-speedy-google-collage-creation/"><u>[New] 2024 Approved Lightning Lens Work A Guide to Speedy Google Collage Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simplified-video-sharing-via-ms-vision-suite/"><u>[New] Simplified Video Sharing via MS Vision Suite</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>[Updated] Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-top-10-ai-talking-avatars-revolutionizing-communication/"><u>2024 Approved Top 10 AI-Talking Avatars Revolutionizing Communication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-dealing-with-a-malfunctioning-lucidsound-ls30-mic/"><u>Common Problems & Solutions: Dealing With a Malfunctioning LucidSound LS30 Mic</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversor-de-musica-en-linea-gratis-mp3-a-m4a-con-facilidad-movavi/"><u>Conversor De Música en Línea Gratis: MP3 a M4A Con Facilidad - Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-your-computers-audio-quick-and-effective-methods/"><u>How to Reactivate Your Computer's Audio: Quick and Effective Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-enhance-your-gopros-battery-health/"><u>In 2024, How to Enhance Your GoPro's Battery Health</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-subject-emphasis-background-cleanse/"><u>In 2024, Subject Emphasis Background Cleanse</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/in-depth-diagnosis-and-repair-strategies-for-malfunctioning-beyond-the-wire-mics/"><u>In-Depth Diagnosis and Repair Strategies for Malfunctioning Beyond The Wire Mics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-click-free-experience-how-to-resolve-crackling-sounds/"><u>Logitech G Pro X Click-Free Experience: How to Resolve Crackling Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-quiet-computers-diy-solutions-for-a-lenovo-laptop-that-wont-play-sounds/"><u>No More Quiet Computers: DIY Solutions for a Lenovo Laptop That Won't Play Sounds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pioneering-simple-sound-shifts-in-pubg/"><u>Pioneering Simple Sound Shifts in PUBG</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-speakers-the-ultimate-solution-for-no-audio-in-zoom-meetings-on-windows-1011/"><u>Reviving Speakers: The Ultimate Solution for No Audio in Zoom Meetings on Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-spells-gone-reinstating-audio-during-hearthstone-battles/"><u>Silent Spells Gone: Reinstating Audio During Hearthstone Battles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-make-a-3d-text-effect-in-photoshop-for-2024/"><u>[New] How to Make a 3D Text Effect in Photoshop for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-visual-cutting-edge-extracting-frames-from-films-on-windows-10-for-2024/"><u>[New] Visual Cutting Edge Extracting Frames From Films on Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-free-mobile-editing-aids-to-elevate-your-images-quality/"><u>[Updated] Best FREE Mobile Editing Aids to Elevate Your Image's Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensible-introduction-to-openai-api-features/"><u>A Comprehensible Introduction to OpenAI API Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-your-systems-bass-and-treble-a-guide-for-fixing-weak-sounds-on-windows-11-computers/"><u>Boosting Your System's Bass and Treble: A Guide for Fixing Weak Sounds on Windows 11 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-bringing-back-sound-on-your-nvidia-hd-audio-configuration/"><u>Effective Solutions for Bringing Back Sound on Your Nvidia HD Audio Configuration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-steam-troubleshooting-complete-quietness-in-valheim-for-windows/"><u>Fixing Silent Steam: Troubleshooting Complete Quietness in Valheim for Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-enhancing-facebook-video-sounds-on-your-pc-top-strategies-unveiled/"><u>Master the Art of Enhancing Facebook Video Sounds on Your PC - Top Strategies Unveiled</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-10-vlogging-editing-apps-for-mobile-devices/"><u>New In 2024, Top 10 Vlogging Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-overcoming-the-unsuccessful-playback-test-tone-glitch/"><u>Step-by-Step Fixes for Overcoming the Unsuccessful Playback Test Tone Glitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-when-your-oculus-quest-2s-microphone-wont-work/"><u>Step-by-Step Fixes When Your Oculus Quest 2'S Microphone Won't Work</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-seamless-gaming-tackle-and-correct-apex-legends-startup-glitches-swiftly/"><u>Unlock Seamless Gaming - Tackle and Correct Apex Legends' Startup Glitches Swiftly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-in-depth-insights-into-the-alcatel-joy-tab-2-a-value-driven-lte-tablet/"><u>Unveiling the Potential: In-Depth Insights Into the Alcatel Joy Tab 2, A Value-Driven LTE Tablet</u></a></li>
 </ul></div>
 

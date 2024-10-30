@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Silent Problem? Here's How to Get Sound Working Again!
-date: 2024-10-17T17:36:51.245Z
-updated: 2024-10-24T20:11:53.879Z
+date: 2024-10-27T17:05:56.063Z
+updated: 2024-10-30T17:32:38.087Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
@@ -69,13 +69,6 @@ To make sure the volume is audible:
  2) Test if you can hear any sound from your Lenovo laptop. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -96,10 +89,10 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
@@ -107,6 +100,13 @@ To make sure the volume is audible:
  4) **Restart** your computer and test if you get sound back on your Lenovo laptop. If yes, then congrats! If the no sound issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set default audio devices
 
@@ -119,22 +119,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
@@ -151,6 +144,13 @@ Here’s how:
  1) Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
@@ -187,19 +187,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-understanding-the-dynamics-of-facebooks-in-stream-ad-model/"><u>[New] In 2024, Understanding the Dynamics of Facebook's In-Stream Ad Model</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015736769-anthem-game-muted-troubleshoot-windows-10-sound-issues-today/"><u>Anthem Game Muted? Troubleshoot Windows 10 Sound Issues Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016308149-audio-malfunctioning-on-pc-effortless-fixes-inside/"><u>Audio Malfunctioning on PC? Effortless Fixes Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-hurdle-a-step-by-step-guide-to-resolve-error-0x80072f8f-in-windows-1110/"><u>Bypassing the Hurdle: A Step-by-Step Guide to Resolve Error 0X80072F8F in Windows 11/10</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-hidden-highlight-harvester/"><u>In 2024, Hidden Highlight Harvester</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-full-screen-in-ppro/"><u>In 2024, Navigating Full Screen in PPro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/noise-free-videography-utilizing-free-tools-or-purchasing/"><u>Noise-Free Videography Utilizing Free Tools or Purchasing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-non-functioning-kotion-each-g2000-microphones/"><u>Troubleshooting Steps for Non-Functioning KOTION Each G2000 Microphones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/uncovering-niche-experts-on-instagram-a-guide-to-impactful-collaborators-for-2024/"><u>Uncovering Niche Experts on Instagram A Guide to Impactful Collaborators for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-need-a-change-from-sony-vegas-check-out-these-top-windows-alternatives-for-2024/"><u>Updated Need a Change From Sony Vegas? Check Out These Top Windows Alternatives for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-does-my-lenovo-laptop-have-no-sound-expert-fixes-revealed/"><u>Why Does My Lenovo Laptop Have No Sound? Expert Fixes Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-issues-resolved-simple-fixes-for-sound-troubles/"><u>Windows 10 Audio Issues Resolved: Simple Fixes for Sound Troubles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-a-critical-look-at-the-latest-camera-recording-systems/"><u>[New] In 2024, A Critical Look at the Latest Camera Recording Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-when-your-realtek-hd-audio-manager-refuses-to-start-up/"><u>Effective Fixes for When Your Realtek HD Audio Manager Refuses to Start Up</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-headphone-issues-troubleshooting-windows-11/"><u>Fixing Headphone Issues: Troubleshooting Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-microphone-functionality-restored-in-microsoft-teams-on-windows-11-and-10/"><u>Fixing the Issue: Microphone Functionality Restored in Microsoft Teams on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-expert-solutions-for-a-broken-mic-problem/"><u>HyperX Cloud Alpha S: Expert Solutions for a Broken Mic Problem</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-60-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo 60 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/learn-the-essential-steps-recording-youtube-live-with-ease-across-devices-for-2024/"><u>Learn the Essential Steps Recording YouTube Live with Ease Across Devices for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-issues-a-guide-for-non-working-corsair-earsets/"><u>Overcoming Connectivity Issues: A Guide for Non-Working Corsair Earsets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-the-silent-issues-in-google-chrome-audio/"><u>Resolved: Fixing the Silent Issues in Google Chrome Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-troubles-restoring-sound-after-windows-10-update/"><u>Solving Silent Troubles: Restoring Sound After Windows 10 Update</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-12-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 12 Pro Max Making It Possible</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-resolving-echo-issues-in-discord-on-your-computer/"><u>Ultimate Troubleshooting: Resolving Echo Issues in Discord on Your Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-editing-gopro-videos-on-mac-best-practices-and-software/"><u>Updated Editing GoPro Videos on Mac Best Practices and Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-flip-a-clip-in-final-cut-pro-with-4-steps/"><u>Updated In 2024, How to Flip a Clip in Final Cut Pro with 4 Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-honor-90-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor 90 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat the Hum: 5 Straightforward Strategies for Perfect Audio Performance"
-date: 2024-10-20T18:29:10.635Z
-updated: 2024-10-24T21:48:17.018Z
+date: 2024-10-27T16:36:17.911Z
+updated: 2024-10-30T16:20:46.653Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 
  Is the mic working now? If unfortunately not, you can try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Allow access to your headset microphone
 
 [I’m a Windows 10 user](https://tools.techidaily.com/drivereasy/download/)
@@ -67,10 +60,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 2. Select **Privacy** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Privacy.jpg)
@@ -79,22 +72,30 @@ Many users are reporting that they’re having microphone issues with their Hype
 4. Click the**Change** button, and make sure the**Microphone for this device** option is**O** n.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/make-sure-its-on.jpg)
 5. Scroll down and make sure the**Allow apps to access your microphone** is**On** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps.jpg)
 6. Also, make sure the app you’re using now is turned on.  
 ![select the app you're using and turn it on](https://images.drivereasy.com/wp-content/uploads/2020/12/which-app.jpg)
 7. Now check if HyperX Cloud Stinger’s microphone is working. If you have granted all the permissions to the microphone but you still can’t be heard, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **To allow apps to access your Microphone on a Mac**
 
 1. Choose Apple menu ![](https://help.apple.com/assets/5E3B07C0094622B541F026E3/5E3B07C3094622B541F026EA/en_GB/2f77cc85238452e25cb517130188bf99.png) \>**System Preferences** , click**Sound** , then click**Input** .  
  (Note: _The options that appear depend on your Mac model and the audio devices plugged into your Mac._ )
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Select your headphone in the list of sound input devices and adjust the volume to make sure it can record your voice.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/micro.png)
@@ -116,27 +117,28 @@ Many users are reporting that they’re having microphone issues with their Hype
 4. Select the **Recording** tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/show-disabled-devices.jpg)
 5. Make sure your HyperX headset is enabled and set as the default device. If not, right-click your headphone to**Enabl** e it and**Set as Default Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hyper-X-default.jpg)
 6. Right click **Headset Microphone** and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/properties-sound.jpg)
 7. Click the**Levels** tab, then drag the volume slider towards the largest value.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels-100.jpg)
 8. Click **OK** to apply the changes, then click**OK** from the last opened window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your HyperX headphone should now be enabled now. Test if the mic is working. If so, congratulations! But if not, don’t worry, since we have a few more fixes.
 
@@ -157,13 +159,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**full technical support** and a**30-day money back guarantee** . You ’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Once the update is complete, restart your computer for it to take full effect and reinsert the headset.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -172,10 +167,10 @@ Many users are reporting that they’re having microphone issues with their Hype
  Now test your HyperX Cloud Stinger’s microphone by recording your voice and playing your recording.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Close other apps that have access to your headset microphone
@@ -183,6 +178,13 @@ Many users are reporting that they’re having microphone issues with their Hype
  If you have any audio software, especially that of your audio adapter, or you have third-party software such as Realtek software, disable these and make sure your operating system has the default control over your headphone.
 
  Also, shut down all other programs that utilize the headset microphone, including some communications apps such as Discord, Skype, Zoon, etc. VOIP (Voice Over IP) apps can play with your microphone settings on their own accord and prevent it from working properly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check your HyperX Cloud Stinger in your game apps
 
@@ -198,10 +200,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/check-for-updates-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Contact the manufacturer for troubleshooting
@@ -232,20 +234,15 @@ Many users are reporting that they’re having microphone issues with their Hype
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-the-perfect-pitch-inviting-listeners-to-join-us/"><u>[New] Crafting the Perfect Pitch Inviting Listeners to Join Us</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-boost-your-visual-storytelling-key-strategies-for-solo-videos/"><u>[Updated] Boost Your Visual Storytelling Key Strategies for Solo Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-guide-resolving-the-absence-of-a-coprocessor-driver-in-windows-11/"><u>Fix Guide: Resolving the Absence of a Coprocessor Driver in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-laptop-audio-issues-a-step-by-step-guide-to-restoring-internal-speaker-functionality/"><u>Fixing Laptop Audio Issues: A Step-by-Step Guide to Restoring Internal Speaker Functionality</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/how-to-add-audio-fade-out-effect-in-2024/"><u>How to Add Audio Fade Out Effect, In 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/mastering-file-transfer-with-aws-s3-cp-a-guide-to-moving-data-between-local-and-s3-storage/"><u>Mastering File Transfer with AWS S3 CP: A Guide to Moving Data Between Local and S3 Storage</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-free-gaming-effective-fixes-for-eliminating-cyberpunk/"><u>Noise-Free Gaming: Effective Fixes for Eliminating Cyberpunk 지오블테슬리의 소음 깨짐</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016553457-solving-the-silent-mac-dilemma-restore-your-audio-today/"><u>Solving the Silent Mac Dilemma - Restore Your Audio Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review: Expert Insights on Hardware</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-your-steelseries-arctis-1-headset-microphone-issues/"><u>Troubleshooting Tips: Fixing Your SteelSeries Arctis 1 Headset Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-missing-headphone-list-during-audio-playback/"><u>Troubleshooting: Windows 11 Missing Headphone List During Audio Playback</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncover-the-secret-to-an-ad-free-no-subs-experience-on-amazon-prime/"><u>Uncover the Secret to an Ad-Free, No-Subs Experience on Amazon Prime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-correcting-xbox-game-pass-error-0x000-on-windows-11-systems/"><u>Understanding and Correcting Xbox Game Pass Error 0X000_ on Windows 11 Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-creative-control-over-images/"><u>Unleash Creative Control Over Images</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/valheim-on-pc-sound-troubleshooting-guide-restore-your-audio-experience/"><u>Valheim on PC Sound Troubleshooting Guide - Restore Your Audio Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-incredible-live-stream-options-a-compilation/"><u>[New] In 2024, Incredible Live Stream Options - A Compilation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>[Updated] Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-perfect-presentation-cutting-out-image-backdrops-on-canva/"><u>[Updated] The Path to Perfect Presentation Cutting Out Image Backdrops on Canva</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone SE (2020)? How to Fix it?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-tips-to-resolve-audio-glitches-with-arctis-7-headset-on-a-windows-machine/"><u>Effective Tips to Resolve Audio Glitches with Arctis 7 Headset on a Windows Machine</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-8-plus-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 8 Plus activation lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intelligent-discovery-bings-journey-to-ai-integration/"><u>Intelligent Discovery: Bing's Journey to AI Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-team-communication-fixing-dota-2s-mic-not-working-on-pc/"><u>Mastering Team Communication: Fixing Dota 2'S Mic Not Working on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-fix-guide-reactivating-silent-dell-systems-with-ease/"><u>Speedy Fix Guide: Reactivating Silent Dell Systems with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015328822-speedy-microphone-testing-methods-for-crystal-clear-results-every-time/"><u>Speedy Microphone Testing Methods for Crystal Clear Results Every Time</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: No More Muted Facebook - Top Strategies to Restore Sound on Your Desktop This Year
-date: 2024-10-22T18:22:18.766Z
-updated: 2024-10-24T19:18:57.204Z
+date: 2024-10-25T16:06:05.111Z
+updated: 2024-10-30T16:24:15.375Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 6. [**Change your default playback device**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Change your audio channel](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Check if it’s a video problem**
 
  There are many reasons why a Facebook video has no sound, and the most common one is that the video is incorrectly encoded, or is silent at the first place. In that case, you can try other videos and see if they have audio issues as well.
@@ -63,20 +56,13 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t fix your problem, please take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: **Change to another browser**
@@ -94,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
  If restarting your computer doesn’t help either, please continue to the next method below.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5:**Update your audio driver**
@@ -144,19 +124,6 @@ This method also applies to Windows 10, 8 or 7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
 
@@ -175,18 +142,41 @@ Here’s how to do it:
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -209,21 +199,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-forum.techidaily.com/software-name-the-ultimate-tool-for-managing-your-windows-11-computers-cache-effectively/"><u>[Software Name]: The Ultimate Tool for Managing Your Windows 11 Computer's Cache Effectively</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>[Updated] 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-google-meet-broadcast-simplified-youtube-steps/"><u>[Updated] 2024 Approved Google Meet Broadcast Simplified YouTube Steps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>[Updated] In 2024, From YouTube to Excitement Easy Guide to Making Animated GIFS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-x-professional-studio-for-windows/"><u>[Updated] X-Professional Studio for Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Unlock Without Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a10-mic-not-working-fixed/"><u>Astro A10 Mic Not Working [FIXED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-not-playing-heres-the-solution-for-firefox-users/"><u>Audio Not Playing? Here's the Solution for Firefox Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-service-malfunctions-heres-how-you-can-restore-them-successfully/"><u>Audio Service Malfunctions? Here's How You Can Restore Them Successfully!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/csgo-headset-troubles-how-to-restore-microphone-functionality/"><u>CS:GO Headset Troubles: How to Restore Microphone Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-a-broken-mic-on-your-oculus-quest-2-device/"><u>Effective Remedies for a Broken Mic on Your Oculus Quest 2 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-corsair-hs35-microphone-failures-in-windows-computers/"><u>Effective Solutions for Corsair HS35 Microphone Failures in Windows Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-advice-on-acquiring-royalty-free-high-quality-graphics-for-2024/"><u>Expert Advice on Acquiring Royalty-Free, High-Quality Graphics for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-resolve-401-unauthorized-access-issues/"><u>Solving the Puzzle: A Step-by-Step Guide to Resolve 401 Unauthorized Access Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016702440-voice-not-being-recorded-by-mic-heres-what-you-need-to-do/"><u>Voice Not Being Recorded by Mic? Here’s What You Need to Do!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/wattpad-stars-moments-on-snapchat-for-2024/"><u>Wattpad Stars Moments on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparative-study-samsung-vs-traditional-photo-tools/"><u>[New] Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-tips-to-master-camera-snap-in-zoom-calls/"><u>[New] Expert Tips to Master Camera Snap in Zoom Calls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-techniques-to-reformat-macscreenshot-extensions/"><u>[New] Techniques to Reformat MacScreenshot Extensions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-15-top-mobiles-elevating-dji-video-production-value/"><u>[Updated] 2024 Approved 15 Top Mobiles Elevating DJi Video Production Value</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-silence-proven-techniques-to-solve-webex-microphone-problems/"><u>Beat the Silence: Proven Techniques to Solve Webex Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-functionality-to-your-primary-aux-jack-no-sweat/"><u>Expert Tips for Restoring Functionality to Your Primary AUX Jack – No Sweat!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-with-headphones-on-a-windows-7-pc-expert-tips-and-tricks/"><u>How to Restore Audio with Headphones on a Windows 7 PC - Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-voice-chat-feature-in-call-of-dutys-latest-installment/"><u>How to Restore Functionality of Voice Chat Feature in Call of Duty's Latest Installment</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-simple-procedure-modify-clownfish-tones-on-pc/"><u>In 2024, Simple Procedure Modify Clownfish Tones on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-ultimate-guide-to-eliminating-speaker-hum/"><u>Quick Fix: Ultimate Guide to Eliminating Speaker Hum</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-multitasking-with-quick-access-on-win-11/"><u>Streamline Multitasking with Quick Access on Win 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tiny-tinas-wonderlands-seamless-installation-guide-for-windows-pc/"><u>Tiny Tina's Wonderlands Seamless Installation Guide for Windows PC</u></a></li>
 </ul></div>
 

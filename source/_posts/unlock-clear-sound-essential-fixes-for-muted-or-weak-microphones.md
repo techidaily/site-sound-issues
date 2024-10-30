@@ -1,7 +1,7 @@
 ---
 title: "Unlock Clear Sound: Essential Fixes for Muted or Weak Microphones"
-date: 2024-10-18T19:48:07.750Z
-updated: 2024-10-24T21:59:05.793Z
+date: 2024-10-27T17:00:50.089Z
+updated: 2024-10-30T16:29:22.108Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -63,10 +56,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
@@ -77,18 +70,18 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -120,27 +113,41 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -169,19 +176,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-clear-black-boards-in-your-youtube-videos/"><u>[New] In 2024, How to Clear Black Boards in Your YouTube Videos?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-guide-to-instagram-livestreaming-using-obs/"><u>[New] Step-by-Step Guide to Instagram Livestreaming Using OBS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-superb-costless-video-rendezvous-games-for-2024/"><u>[New] Superb Costless Video Rendezvous Games for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/channel-flair-free-download-templates/"><u>Channel Flair Free Download Templates</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-100-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 100 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issues-with-headphones-on-windows-7-computers/"><u>How to Fix Audio Issues with Headphones on Windows 7 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-logitech-g-pro-x-cracking-popping-noise-on-pc-2024-tips/"><u>How to Fix Logitech G Pro X Cracking/ Popping Noise on PC - 2024 Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-microphone-issues-in-microsoft-teams-a-guide-for-windows-11-and-10-users/"><u>How to Fix Microphone Issues in Microsoft Teams: A Guide for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microphone-problems-with-your-razer-barracuda-x-in-windows-1110/"><u>How to Resolve Microphone Problems with Your Razer Barracuda X in Windows 11/10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-microphone-functionality-on-zoom-in-windows-1011-computers/"><u>How to Restore Your Microphone Functionality on Zoom in Windows 10/11 Computers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-cover-videos-demystified-what-everyone-should-know/"><u>In 2024, FB Cover Videos Demystified What Everyone Should Know</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-13-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 13 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-guide-to-the-best-gaming-tech/"><u>In 2024, YouTube's Guide to the Best Gaming Tech</u></a></li>
-<li><a href="https://win-tips.techidaily.com/serwer-migratorski-praktyczne-zastosowania-dla-przesiegniecia-nocy-na-jestny-serwer/"><u>Serwer Migratorski: Praktyczne Zastosowania Dla Przesięgnięcia Nocy Na Jestny Serwer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-integrating-video-conferencing-mastering-skypes-screen-sharing-functionality/"><u>[Updated] 2024 Approved Integrating Video Conferencing Mastering Skype's Screen Sharing Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-footage-to-followers-uploading-on-twitter-for-2024/"><u>[Updated] From Footage to Followers Uploading on Twitter for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-the-crunching-noise-from-your-logitech-g-pro-x-on-laptoppc-top-remedies-for-2amo/"><u>Eliminate the Crunching Noise From Your Logitech G Pro X on Laptop/PC - Top Remedies for 2Amo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016585691-end-popping-noises-now-hassle-free-repair-tips-for-your-headsets/"><u>End Popping Noises Now: Hassle-Free Repair Tips for Your Headsets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-gopro-videos-time-lapse-guide/"><u>Enhance Your GoPro Videos Time-Lapse Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-of-non-functional-headphone-ports-on-your-laptop-a-step-by-step-guide/"><u>Fixing the Issue of Non-Functional Headphone Ports on Your Laptop - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-onikuma-microphone-working-again-expert-fixes-revealed/"><u>How To Get Your Onikuma Microphone Working Again - Expert Fixes Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-laptops-native-speakers/"><u>How to Restore Audio on Your Laptop's Native Speakers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enhance-privacy-and-speed-the-best-7-android-adblocks/"><u>In 2024, Enhance Privacy & Speed The Best 7 Android AdBlocks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-your-trusted-computer-hub/"><u>Inside Tom's Hardware: Your Trusted Computer Hub</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/showcase-spectacatives-the-best-ice-artistry-22/"><u>Showcase Spectacatives The Best Ice Artistry '22</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sonic-clarity-redefined-cutting-edge-techniques-to-mend-cracking-sound-in-logitech-g-pro-x-headsets/"><u>Sonic Clarity Redefined: Cutting-Edge Techniques to Mend Cracking Sound in Logitech G Pro X Headsets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-key-differences-between-public-private-and-personal-ai-solutions/"><u>The Key Differences Between Public, Private & Personal AI Solutions</u></a></li>
 </ul></div>
 

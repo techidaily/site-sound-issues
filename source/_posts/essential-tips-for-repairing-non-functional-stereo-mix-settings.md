@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Repairing Non-Functional Stereo Mix Settings
-date: 2024-10-20T17:32:46.855Z
-updated: 2024-10-24T19:40:42.416Z
+date: 2024-10-23T16:32:45.892Z
+updated: 2024-10-30T17:23:25.038Z
 tags:
   - win11
   - win10
@@ -48,21 +48,29 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 1. Press the**Windows + I** keys to open Windows settings, then select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
-3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
+3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -73,30 +81,31 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
@@ -117,16 +126,16 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
@@ -142,13 +151,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
@@ -160,13 +162,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  If this method doesn’t work, then try the one below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
 
@@ -223,16 +218,24 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facebooks-10-best-music-clips-making-them-happen-for-2024/"><u>[New] Facebook's 10 Best Music Clips Making Them Happen for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-safe-mp4-extraction-from-youtube-videos/"><u>[Updated] Safe MP4 Extraction From YouTube Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-top-5-lightweight-video-capturers-guide/"><u>2024 Approved Foremost Top 5 Lightweight Video Capturers Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-getting-started-a-primer-on-screencastify-use/"><u>2024 Approved Getting Started A Primer on Screencastify Use</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/secrets-of-crafting-an-exclusive-identifier-on-tiktok/"><u>Secrets of Crafting an Exclusive Identifier on TikTok</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-problem-of-invisible-headphones-in-windows-10s-media-player/"><u>Solve the Problem of Invisible Headphones in Windows 10'S Media Player</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-silent-pc-issue-fixing-the-sound-glitch-in-windows-11/"><u>Solve Your Silent PC Issue: Fixing the Sound Glitch in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-issues-with-the-primary-speaker-output-hole-a-comprehensive-guide/"><u>Solving Issues with the Primary Speaker Output Hole: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-expert-tips-for-getting-your-usb-headphones-working-on-windows-7/"><u>Solving No Sound Problems: Expert Tips for Getting Your USB Headphones Working on Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tackling-audio-playback-issues-in-audacity-try-these-5-key-solutions-to-resolve-sound-devices-error/"><u>Tackling Audio Playback Issues in Audacity? Try These 5 Key Solutions to Resolve Sound Devices Error.</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mts-video-editing-made-easy-top-5-software-solutions/"><u>Updated MTS Video Editing Made Easy Top 5 Software Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-expert-tips-for-sprucing-up-photos-top-10-mobile-apps-list/"><u>[New] 2024 Approved Expert Tips for Sprucing Up Photos Top 10 Mobile Apps List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ideal-marketing-havens-for-youtube-videos-for-2024/"><u>[New] Ideal Marketing Havens for YouTube Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-slack-and-filmora-efficient-meeting-planning-and-recording-guide/"><u>[New] Mastering Slack & Filmora Efficient Meeting Planning & Recording Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pure-joy-of-gratuitous-screen-mingle-games-for-2024/"><u>[New] Pure Joy of Gratuitous Screen Mingle Games for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bang-and-olufsen-beoplay-h8i-review-pure-luxury/"><u>Bang & Olufsen Beoplay H8i Review: Pure Luxury</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-activate-or-deactivate-your-network-discovery-setting-in-windows-10/"><u>Complete Tutorial: Activate or Deactivate Your Network Discovery Setting in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-nonfunctional-headphone-setups-in-windows-7-systems/"><u>Diagnosing and Repairing Nonfunctional Headphone Setups in Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-troubleshooting-steps-to-stop-buzzing-noises-from-speakers/"><u>Effortless Troubleshooting Steps to Stop Buzzing Noises From Speakers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-mp4-converter-convert-mpe-files-instantly/"><u>Free MP4 Converter - Convert MPE Files Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-hyperx-cloud-alpha-headset-mic-working-again-complete-solution/"><u>How to Get Your HyperX Cloud Alpha Headset Mic Working Again - Complete Solution</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-htc-u23-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From HTC U23 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-navigating-snapchat-pins-with-ease/"><u>In 2024, Navigating Snapchat Pins with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-fixing-skypes-microphone-fault-in-windows-11/"><u>Overcoming Audio Hurdles: Fixing Skype's Microphone Fault in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-plugged-in-but-no-sound-problem-for-windows-users/"><u>Resolving 'Plugged In but No Sound' Problem for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-speakers-steps-to-restore-sounds-on-your-pc/"><u>Resolving Silent Speakers - Steps to Restore Sounds on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-post-windows-11-upgrade-troubleshooting-made-simple/"><u>Restoring Audio Post-Windows 11 Upgrade: Troubleshooting Made Simple</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-fix-audio-issues-on-hp-devices-running-windows-11/"><u>Troubleshooting Steps to Fix Audio Issues on HP Devices Running Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-vn-video-editor-pc-edition-a-brief-inspection/"><u>Updated VN Video Editor PC Edition A Brief Inspection</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-10-which-means-how-to-display-hidden-files-and-folders-on-windows-10/"><u>Windows 10で隠しファイルとフォルダを表示する方法, Which Means How to Display Hidden Files and Folders on Windows 10.</u></a></li>
 </ul></div>
 

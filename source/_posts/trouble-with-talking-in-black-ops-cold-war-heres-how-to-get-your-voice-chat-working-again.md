@@ -1,7 +1,7 @@
 ---
 title: "Trouble with Talking in Black Ops: Cold War? Here's How to Get Your Voice Chat Working Again!"
-date: 2024-10-17T16:09:22.649Z
-updated: 2024-10-24T19:02:31.036Z
+date: 2024-10-26T16:52:43.628Z
+updated: 2024-10-30T16:48:46.332Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ If that didn’t work, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
@@ -95,18 +95,18 @@ Here’s how to update drivers with Driver Easy:
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/12/update-audio-driver-automatically-with-Driver-Easy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your PC. If your problem persists, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Set the audio device as the default
 
@@ -120,6 +120,13 @@ Here’s how to update drivers with Driver Easy:
   
 ![set input and output device correctly](https://images.drivereasy.com/wp-content/uploads/2020/12/input-and-output-device.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, follow the steps below to set your audio device as the Default Communication Device:
 
  1) On your taskbar, right-click on the sound icon and select**Sounds** to open the Sound window.  
@@ -132,13 +139,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Use the correct output device
 
  If you are not using the correct output device, you definitely can’t hear anyone on Discord. To check if that’s your case, take these steps:
@@ -148,16 +148,16 @@ Here’s how to update drivers with Driver Easy:
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
+<span id="1983584">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left pane, select**Voice & Video** . Under the**OUTPUT DEVICE** section, click on the down arrow and select your output device instead of Default.
@@ -177,10 +177,10 @@ Here’s how to update drivers with Driver Easy:
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Under the**Processes** tab, navigate to your game. Right-click it and select**Go to details** . Then you’ll be directed to the**Details** tab and your game will be highlighted. Till then, right-click it and select**Set priority > Normal/ Realtime** .
@@ -202,18 +202,14 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>[New] Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-zoom-microphone-not-working-on-windows-1110/"><u>[SOLVED] Zoom Microphone Not Working on Windows 11/10</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-itel-a60-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel A60 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-websites-to-download-classical-ringtones/"><u>Best Websites to Download Classical Ringtones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivo-wmv-a-formato-mov-sin-costo-con-herramientas-en-linea-movavi/"><u>Cómo Convertir Archivo WMV a Formato MOV Sin Costo Con Herramientas en Línea - Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/complete-insiders-guide-to-japanese-scripts/"><u>Complete Insider’s Guide to Japanese Scripts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/counter-strike-2-mic-not-functional-heres-your-step-by-step-fix/"><u>Counter-Strike 2 Mic Not Functional? Here's Your Step-by-Step Fix!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-6s-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 6s How to Bypass?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-for-usb-headsets-a-step-by-step-guide-for-windows-7-users/"><u>Reviving Audio for USB Headsets: A Step-by-Step Guide for Windows 7 Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-home-with-style-get-a-blink-4-camera-and-floodlight-bundle-for-just-80-this-labor-day-season-techguide/"><u>Secure Your Home with Style – Get a Blink 4 Camera and Floodlight Bundle for Just $80 This Labor Day Season | TechGuide.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-issues-with-disconnected-realtek-hd-audio-drivers/"><u>Solved: Issues with Disconnected Realtek HD Audio Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-hyperx-cloud-alphas-mic-successful-repair-strategies-unveiled/"><u>Trouble with HyperX Cloud Alpha's Mic? Successful Repair Strategies Unveiled</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/winter-olympics-2022-precision-snowriders-in-the-spotlight/"><u>Winter Olympics 2022 - Precision Snowriders in the Spotlight</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-camclip-collector-social-edition/"><u>2024 Approved CamClip Collector, Social Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-with-hyperx-cloud-stinger-microphones-and-proven-fixes-guide/"><u>Common Problems with HyperX Cloud Stinger Microphones and Proven Fixes [Guide]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-hot-40-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Hot 40 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-10-high-fidelity-4k-laptops-for-gamers/"><u>In 2024, Top 10 High-Fidelity 4K Laptops for Gamers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-your-content-deciphering-the-minimum-views-needed-for-2024/"><u>Monetizing Your Content Deciphering the Minimum Views Needed for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-10-platforms-for-accessing-professional-montage-music-tracks/"><u>New In 2024, Top 10 Platforms for Accessing Professional Montage Music Tracks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-audio-on-your-oculus-rift-s-essential-quick-fixes-you-need/"><u>Revive the Audio on Your Oculus Rift S: Essential Quick Fixes You Need</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-silent-mac-computers-a-guide-to-resolving-the-no-sound-issue/"><u>Reviving Silent Mac Computers - A Guide to Resolving the 'No Sound' Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-speakers-working-with-zoom-again/"><u>Troubleshooting Guide: Getting Speakers Working with Zoom Again</u></a></li>
 </ul></div>
 

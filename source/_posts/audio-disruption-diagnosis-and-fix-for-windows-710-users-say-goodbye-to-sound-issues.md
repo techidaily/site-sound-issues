@@ -1,7 +1,7 @@
 ---
 title: Audio Disruption Diagnosis & Fix for Windows 7/10 Users - Say Goodbye to Sound Issues!
-date: 2024-10-23T20:23:06.627Z
-updated: 2024-10-24T20:23:40.236Z
+date: 2024-10-28T16:39:44.203Z
+updated: 2024-10-30T17:47:51.995Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
@@ -62,13 +62,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
@@ -77,31 +70,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
  Check if the headphone crackling problem persists. If yes, then congrats! But if it still persists, you should try **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -116,15 +102,15 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -135,8 +121,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
@@ -168,22 +170,16 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/best-fixes-toshiba-laptop-sound-not-working/"><u>[Best Fixes] Toshiba Laptop Sound Not Working</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-engaging-full-degree-footage-with-adobe-premieres-state-of-the-art-tools/"><u>[New] Crafting Engaging Full Degree Footage with Adobe Premiere's State-of-the-Art Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-capture-clarity-complimentary-photo-refining-app/"><u>[Updated] 2024 Approved Capture Clarity - Complimentary Photo Refining App</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-capture-the-moment-idevice-screenshots-and-playback-for-2024/"><u>[Updated] Capture the Moment IDevice Screenshots & Playback for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>[Updated] The New Era of Mobile Gaming with Android and VR</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-troubles-restore-computer-sounds-quickly-with-these-tips/"><u>Audio Troubles? Restore Computer Sounds Quickly With These Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016396465-csgo-audio-trouble-heres-how-to-resolve-mic-problems/"><u>CS:GO Audio Trouble? Here's How to Resolve Mic Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/error-327-in-star-wars-battlefront-ii-diagnosis-and-fix-steps/"><u>Error 327 in Star Wars Battlefront II: Diagnosis and Fix Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/evolutionary-advantages/"><u>Evolutionary Advantages</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/farm-frontier-the-best-seed-to-sow-in-gaming/"><u>Farm Frontier The Best Seed to Sow in Gaming</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-corsair-void-mic-not-working/"><u>How To Fix Corsair Void Mic Not Working</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-when-your-voice-chat-strikes-a-content-warning/"><u>How to Restore Functionality when Your Voice Chat Strikes a Content Warning</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-poco-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Poco Phones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenge-of-non-functional-microphone-with-your-airpods-on-a-pc-running-windows-10/"><u>Overcoming the Challenge of Non-Functional Microphone with Your AirPods on a PC Running Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-when-windows-10-fails-to-detect-your-headphones-during-playback/"><u>Solution Guide: When Windows 10 Fails to Detect Your Headphones During Playback</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-windows-11-microphone-problems-with-these-easy-fixes/"><u>Solve Windows 11 Microphone Problems with These Easy Fixes!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/spotifys-1-artists-of-the-month-for-2024/"><u>Spotify’s #1 Artists of the Month for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-a-non-responsive-discord-voice-chat-experience/"><u>Effective Solutions for a Non-Responsive Discord Voice Chat Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-resolving-issues-with-microsofts-cortana-assistant/"><u>Expert Tips for Resolving Issues with Microsoft's Cortana Assistant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-making-discords-push-to-talk-function-work-properly-again/"><u>Expert Tips on Making Discord's Push-to-Talk Function Work Properly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-mic-in-your-dota-2-game-ultimate-solutions/"><u>Fixing the Non-Functional Mic in Your Dota 2 Game – Ultimate Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-speakers-working-again-in-firefox-a-comprehensive-fix/"><u>Get Your Speakers Working Again in Firefox - A Comprehensive Fix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-framing-essentials-top-apps-and-websites-creators-for-2024/"><u>Image Framing Essentials Top Apps & Websites Creators for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/siri-speaks-up-learn-to-configure-voice-assistant-for-reading-aloud-on-iosmacos/"><u>Siri Speaks Up! Learn to Configure Voice Assistant for Reading Aloud on iOS/macOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tutorial-how-to-switch-off-sound-amplification-on-your-windows-11-pc/"><u>Tutorial: How to Switch Off Sound Amplification on Your Windows 11 PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlocking-full-potential-steam-and-your-switch-pro-controller-for-2024/"><u>Unlocking Full Potential Steam and Your Switch Pro Controller for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027231009-vlc/"><u>VLCメディアプレーヤーで効果的なスクリーン録画・キャプチャ技術：詳細ガイド</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-v27-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo V27 Pro Phone Network-Ready</u></a></li>
 </ul></div>
 

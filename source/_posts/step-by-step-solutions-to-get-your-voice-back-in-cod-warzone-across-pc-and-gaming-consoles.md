@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Get Your Voice Back in COD Warzone Across PC and Gaming Consoles
-date: 2024-10-18T18:28:20.856Z
-updated: 2024-10-24T19:05:18.082Z
+date: 2024-10-29T16:29:58.746Z
+updated: 2024-10-30T17:25:13.261Z
 tags:
   - win11
   - win10
@@ -58,34 +58,41 @@ First you need to check the default audio device on your system:
 1. On your keyboard, press**Win+R** (the Windows logo button and the r button) at the same time to invoke the Run box. Type or paste **ms-settings:sound** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to your desired one. Then click**Device properties and test microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Set up your mic correctly in the Battle.net client
 
@@ -95,14 +102,15 @@ Next, you need to check the voice chat settings in the Battle.net client:
 2. At the top left corner, click the **BLIZZARD**  icon and select **Settings**  from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
 Now launch Black Ops Cold War and see if you can talk to others.
 
@@ -137,6 +145,13 @@ Now launch Black Ops Cold War and see if you can talk to others.
 
  If updating the audio driver doesn’t work for you, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change the in-game audio settings
 
  For your voice chat to work correctly, you also need to make sure the in-game audio settings are properly set up. You can follow these steps to check:
@@ -150,13 +165,6 @@ Now launch Black Ops Cold War and see if you can talk to others.
 
  If changing game settings doesn’t help, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Install all Windows updates
 
  In addition to drivers, you also need to**keep your system up to date** . That means you need to make sure you’ve installed all the available system updates, which often addresses compatibility issues and helps you avoid many strange errors.
@@ -166,14 +174,15 @@ Here’s a quick guide for that:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will download and install the available updates. Wait for the process to complete.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -198,17 +207,22 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-marketing-magic-in-metaverse/"><u>2024 Approved Mastering Marketing Magic in Metaverse</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-the-silence-comprehensive-fixes-for-rec-room-microphone-problems-in-pc/"><u>Bust the Silence! Comprehensive Fixes for Rec Room Microphone Problems in PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cure-your-game-glitch-ultimate-guide-to-resolving-among-us-crashes/"><u>Cure Your Game Glitch: Ultimate Guide to Resolving 'Among Us' Crashes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-battlefields-troubleshooting-audio-issues-in-apex-legends/"><u>Fixing Silent Battlefields: Troubleshooting Audio Issues in Apex Legends</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-huawei-nova-y71-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Huawei Nova Y71?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-u23-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock HTC U23 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-v30t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme V30T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-when-your-in-game-voice-chat-fails-on-lol/"><u>Solving the Problem When Your In-Game Voice Chat Fails on LoL</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-dell-audio-problems-in-minutes-easy-steps-inside/"><u>Troubleshoot Your Dell Audio Problems in Minutes – Easy Steps Inside</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/usb-surface-pc/"><u>USBメモリへのバックアップ: Surface PCで効果的なデータ保護手段</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-multitasking-media-mastery-proficient-use-of-netflixs-pip-functionality/"><u>[New] Multitasking Media Mastery Proficient Use of Netflix’s PIP Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-step-by-step-utilizing-your-twitter-archive/"><u>[Updated] 2024 Approved Step-by-Step Utilizing Your Twitter Archive</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-auditory-interpretation-accessible-at-no-expense/"><u>2024 Approved Auditory Interpretation Accessible at No Expense</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-sound-issues-find-relief-in-our-detailed-fixes/"><u>Battlefield 4 Sound Issues? Find Relief in Our Detailed Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-to-fix-failed-to-play-test-tone-error/"><u>Easy to Fix “Failed to Play Test Tone” Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-troubleshooting-a-non-functioning-webex-mic/"><u>Effective Solutions for Troubleshooting a Non-Functioning WebEx Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-airpods-issue-how-to-restore-audio-on-windows-11-or-10/"><u>Fixing the Silent AirPods Issue: How to Restore Audio on Windows 11 or 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-y100i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo Y100i without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-samsung-gear-360-replacements-latest-innovations-in-camera-tech/"><u>In 2024, Samsung Gear 360 Replacements Latest Innovations in Camera Tech</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-hurdles-in-google-meet-with-these-windows-11-and-10-solutions/"><u>Overcome Audio Hurdles in Google Meet with These Windows 11 & 10 Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015627116-resolve-bluetooth-audio-delay-in-no-time-with-these-simple-fixes/"><u>Resolve Bluetooth Audio Delay in No Time with These Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-logitee-g933-microphone-issue-effective-solutions-and-tips/"><u>Solving the Logitee G933 Microphone Issue: Effective Solutions and Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-your-sound-blaster-mic-issues/"><u>Troubleshooting Tips: Solving Your Sound Blaster Mic Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-of-accessing-wi-fi-passwords-on-windows-11-devices/"><u>Unlock the Secrets of Accessing Wi-Fi Passwords on Windows 11 Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlock-your-storytelling-potential/"><u>Unlock Your Storytelling Potential</u></a></li>
 </ul></div>
 

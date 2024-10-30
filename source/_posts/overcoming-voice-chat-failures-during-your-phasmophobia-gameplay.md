@@ -1,7 +1,7 @@
 ---
 title: Overcoming Voice Chat Failures During Your Phasmophobia Gameplay
-date: 2024-10-17T16:33:58.516Z
-updated: 2024-10-24T21:01:23.898Z
+date: 2024-10-24T17:47:35.778Z
+updated: 2024-10-30T17:33:02.277Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![fix Phasmophobia voice chat not working](https://img.gamerjournalist.com/spai/w_1535+q_lossy+ret_img+to_webp/https://cdn.gamerjournalist.com/primary/2020/10/Test-Voice-Phasmophobia.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check sound settings
 
  Sometimes your Microphone may not be detected or selected correctly. So when you’re in-game, the voice chat would not be working as you wish. To fix it, you should check your sound settings.
@@ -50,26 +43,32 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2020/10/open-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure that your input device is set to whatever microphone you’re currently using or prefer to use. Then click**Device properties** .
 
 ![check input device ](https://images.drivereasy.com/wp-content/uploads/2020/10/check-your-input-device-1200x903.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Set the volume to at least 50.
 
 ![set the volume](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-volume-to-as-least-50-1200x571.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After applying the changes, play your game to check if the problem persists.
 
@@ -87,18 +86,18 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/test-Microphone-1200x715.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Remember to click**Apply** if you change the**Microphone** .
 
  3) You’ll be asked to speak into your connected piece of hardware to ensure Voice Recognition is properly set up. If it shows**We heard you!** , your voice chat should be working now.
 
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/we-heard-you-1200x725.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -125,10 +124,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -144,16 +143,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 ---
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Reset your network
@@ -168,15 +161,22 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![reset network to fix Phasmophobia voice chat not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-reset-now.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once it’s finished, play your game to check if it works.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Verify the integrity of game files
@@ -214,17 +214,24 @@ Once it’s finished, play your game to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-tips-to-improve-profile-cover-videos-for-2024/"><u>[Updated] Tips to Improve Profile Cover Videos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-a-malfunctioning-sennheiser-microphone-for-gamers/"><u>Dealing with a Malfunctioning Sennheiser Microphone for Gamers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-solutions-restoring-microphone-functionality-in-the-steelseries-arctis-7/"><u>Easy Solutions: Restoring Microphone Functionality in the SteelSeries Arctis 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-resolving-issues-with-discords-voice-chat-feature/"><u>Effective Remedies for Resolving Issues with Discord's Voice Chat Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/facebook-video-sound-issues-heres-how-to-fix-them-on-your-computer/"><u>Facebook Video Sound Issues? Here's How to Fix Them on Your Computer !</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-phasmophobias-voice-chat-gone-silent-heres-what-works/"><u>Fix Phasmophobia's Voice Chat Gone Silent? Here’s What Works</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nubia-red-magic-9-proplus-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nubia Red Magic 9 Pro+ Phone that is Locked?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-freeze-frame-fantasy-expert-techniques-for-gameplay-preservation-pc/"><u>In 2024, Freeze Frame Fantasy Expert Techniques for Gameplay Preservation (PC)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-magical-marketing-essential-terms-to-master/"><u>In 2024, Magical Marketing Essential Terms to Master</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-revolutionizing-your-brand-with-the-top-30-fb-hacks-all-levels/"><u>In 2024, Revolutionizing Your Brand with the Top 30 FB Hacks (All Levels)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-audio-editing-essentials-two-ways-to-create-smooth-fades-in-final-cut-pro-for-2024/"><u>New Audio Editing Essentials Two Ways to Create Smooth Fades in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/step-by-step-how-to-master-these-7-expert-graders-for-2024/"><u>Step-by-Step How to Master These 7 Expert Graders for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-explore-10-youtube-creators-accelerating-their-popularity/"><u>[New] 2024 Approved Explore 10 YouTube Creators Accelerating Their Popularity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-xiaomi-redmi-k70-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Xiaomi Redmi K70 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oneplus-ace-2-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from OnePlus Ace 2 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/camclip-extractor-chatfocused-for-2024/"><u>CamClip Extractor, ChatFocused for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-fix-your-logitech-g230-microphone-and-get-it-up-and-running-again/"><u>DIY Solutions to Fix Your Logitech G230 Microphone and Get It Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-effective-solutions-to-get-your-razer-headset-mic-working-again/"><u>Five Effective Solutions to Get Your Razer Headset Mic Working Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-how-to-restore-functionality-of-the-windows-11-taskbar/"><u>Fixing Issues: How to Restore Functionality of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headset-mic-problems-heres-how-to-get-your-audio-working-again/"><u>Headset Mic Problems? Here's How to Get Your Audio Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-the-razer-manowar-microphone/"><u>How to Restore Functionality of the Razer ManO'War Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-common-microphone-errors-in-windows-7-systems-easily/"><u>How to Solve Common Microphone Errors in Windows 7 Systems Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-conquering-the-dilemma-how-to-send-videos-on-facebook-message/"><u>In 2024, Conquering the Dilemma How to Send Videos on Facebook Message</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-streamlinedprocess-for-youcamwebrecord/"><u>In 2024, StreamlinedProcess for YouCamWebRecord</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-audio-delights-the-art-of-apple-podcast-download/"><u>In 2024, Unleashing Audio Delights The Art of Apple Podcast Download</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/league-of-legends-communication-problems-solved-restore-your-voice-chat/"><u>League of Legends Communication Problems Solved - Restore Your Voice Chat!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-choice-compact-gaming-computers-the-ultimate-list/"><u>Top Choice Compact Gaming Computers: The Ultimate List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-iphone-sound-malfunctions-restore-crystal-clear-audio/"><u>Troubleshooting iPhone Sound Malfunctions – Restore Crystal Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015223792-troubleshooting-tips-for-realtek-mic-issues-get-your-audio-up-and-running/"><u>Troubleshooting Tips for Realtek Mic Issues - Get Your Audio Up and Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-solutions-address-and-correct-connection-refused-by-live-config-servers-errors/"><u>Unlock Solutions: Address and Correct 'Connection Refused by Live Config Servers' Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/wrangling-your-tunes-troubleshooting-and-fixing-stuttering-bluetooth-sound-quality-on-modern-windows-machines/"><u>Wrangling Your Tunes: Troubleshooting and Fixing Stuttering Bluetooth Sound Quality on Modern Windows Machines</u></a></li>
 </ul></div>
 

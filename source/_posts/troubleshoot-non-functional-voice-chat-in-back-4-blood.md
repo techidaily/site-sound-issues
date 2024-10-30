@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Functional Voice Chat in 'Back 4 Blood'
-date: 2024-10-23T17:48:21.095Z
-updated: 2024-10-24T16:50:30.771Z
+date: 2024-10-26T16:31:49.018Z
+updated: 2024-10-30T16:25:53.257Z
 tags:
   - win11
   - win10
@@ -38,20 +38,33 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 
 [5: Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure your microphone connection is solid
 
  HyperX Cloud Alpha S continues the design of the detachable microphone from the regular Cloud Alpha. If your microphone is not connected firmly, you may still hear sounds from your headset but can’t use the microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hx-product-headset-alpha-s-black-2-lg-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’ve attached the microphone to your headset correctly but your mic still won’t catch your voice, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Enable your headset mic for recording
 
@@ -60,21 +73,37 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 1. Right-click the speaker icon on your taskbar, and click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-48-56.jpg)
 2. Go to the**Recording** tab and you should see your headset. If you can’t find it, it could be hidden or disabled. You can right-click an empty area then select Show**Disabled Devices** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_16-57-37.jpg)
 3. Right-click your headset, then click**Enable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
-
- If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-05-07_17-06-58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If your headset is enabled for recording but the microphone is still not working, move on to the next fix.
 
 ## Fix 3: Set your headset as the audio input device
 
@@ -84,24 +113,10 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/search-sound-input.jpg)
 2. **Select your headset as the input device** . It could be shown as HyperX Cloud Alpha S or Headset.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/set-input-device.jpg)
 3. Test your microphone.
 
  If your headset is set as the input device but the mic still won’t work, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn on the mic access on your PC
 
@@ -110,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 1. Type**microphone** in the search bar next to the Start button, and click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-08-05.jpg)
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
@@ -141,10 +149,10 @@ If this doesn’t fix your mic problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -170,19 +178,17 @@ If this doesn’t fix your mic problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-beginners-tutorial-how-to-insert-on-screen-dialogue-in-video-formats/"><u>[Updated] 2024 Approved A Beginner's Tutorial How to Insert On-Screen Dialogue in Video Formats</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-audiophiles-guide-to-speed-adjustment-apps/"><u>[Updated] Audiophile's Guide to Speed Adjustment Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-bypass-software-for-youtube-downloads-for-2024/"><u>[Updated] Bypass Software for YouTube Downloads for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-the-immersive-world-tips-for-recording-vr-games-for-2024/"><u>[Updated] Capturing the Immersive World Tips for Recording VR Games for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-transcending-boundaries-the-vr-evolutionary-journey/"><u>[Updated] In 2024, Transcending Boundaries The VR Evolutionary Journey</u></a></li>
-<li><a href="https://windows11.techidaily.com/contrasting-the-workflow-of-cloud-based-and-disk-installed-windows-oses/"><u>Contrasting the Workflow of Cloud-Based & Disk Installed Windows OSes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ticklishtones-selecting-the-best-ringtones-for-smiles-for-2024/"><u>TicklishTones Selecting the Best Ringtones for Smiles for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-document-management-and-communication-leveraging-onlyoffice-docspace-alongside-chatgpt-technology/"><u>Transform Document Management & Communication: Leveraging ONLYOFFICE DocSpace Alongside ChatGPT Technology</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/transforming-channels-with-powerful-visual-branding-strategies-for-2024/"><u>Transforming Channels with Powerful Visual Branding Strategies for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-conexant-smartaudio-hd-issues-restoring-sounds-on-a-windows-11-system/"><u>Troubleshooting Conexant SmartAudio HD Issues: Restoring Sounds on a Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-headset-microphone/"><u>Troubleshooting Guide: Fixing a Non-Functional Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-bluetooth-issues-in-windows-11-computers/"><u>Troubleshooting Guide: Fixing Bluetooth Issues in Windows 11 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolve-silent-anthem-gameplay-on-windows-10-systems/"><u>Troubleshooting Guide: Resolve Silent Anthem Gameplay on Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-mic-issues-for-zoom-users-on-windows-platforms/"><u>Troubleshooting Guide: Resolving Mic Issues for Zoom Users on Windows Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-best-monitors-for-ps5/"><u>[New] Top 5 Best Monitors for Ps5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-chronicle-conversations-on-google/"><u>2024 Approved Chronicle Conversations on Google</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-the-problem-of-unplugged-speakersheadphones-in-windows-os-a-step-by-step-guide-for-windows-10-8-and-7-users/"><u>Diagnosing and Fixing the Problem of Unplugged Speakers/Headphones in Windows OS: A Step-by-Step Guide for Windows 10, 8 & 7 Users.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-with-headsets-on-your-windows-7-pc/"><u>Expert Tips for Restoring Sound with Headsets on Your Windows 7 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-dolby-truehd-to-work-on-windows-11-overcoming-driver-initialization-challenges/"><u>Getting Dolby TrueHD to Work on Windows 11: Overcoming Driver Initialization Challenges</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v30-lite-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V30 Lite 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-logitech-g230-microphone-a-step-by-step-guide-to-fix-the-problems/"><u>Reviving Your Logitech G230 Microphone: A Step-by-Step Guide to Fix the Problems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/seamlesscapture-w10s-simple-recording-tool-for-2024/"><u>SeamlessCapture W10's Simple Recording Tool for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-v29e-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo V29e</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-microphone-issues-in-google-meet-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Microphone Issues in Google Meet on Windows 11 & 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-snapchats-high-value-content/"><u>Understanding Snapchat's High-Value Content</u></a></li>
 </ul></div>
 

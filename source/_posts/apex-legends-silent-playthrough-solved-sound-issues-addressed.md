@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Silent Playthrough Solved: Sound Issues Addressed"
-date: 2024-10-19T19:41:57.305Z
-updated: 2024-10-24T19:49:31.692Z
+date: 2024-10-29T17:24:16.993Z
+updated: 2024-10-30T17:16:28.810Z
 tags:
   - win11
   - win10
@@ -35,16 +35,16 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -64,13 +64,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -105,10 +98,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -118,10 +111,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -139,6 +132,19 @@ OR
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
@@ -182,18 +188,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-eternal-vision-recorder-tool/"><u>[New] In 2024, Eternal Vision Recorder Tool</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ranked-9-iphone-applications-to-add-watermarks-on-photos/"><u>[New] Ranked 9 iPhone Applications to Add Watermarks on Photos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-airpods-connected-but-no-sound-on-windows-1110/"><u>[SOLVED] AirPods Connected But No Sound on Windows 11/10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-advanced-psd-text-styling/"><u>[Updated] 2024 Approved Advanced PSD Text Styling</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-thumbnail-insight-top-picks-for-maximizing-video-visibility/"><u>2024 Approved Thumbnail Insight Top Picks for Maximizing Video Visibility</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975429309-download-and-install-the-newest-roccat-epiq-raptor-mouse-driver-today/"><u>Download and Install the Newest Roccat Epiq Raptor Mouse Driver Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-function-fn-buttons-on-an-asus-computer/"><u>How to Repair Unresponsive Function (Fn) Buttons on an Asus Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-x50-gt-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor X50 GT Phone that is Locked?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-a-non-functional-razer-kraken-mic/"><u>Solution Steps for a Non-Functional Razer Kraken Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-your-mic-why-it-doesnt-record-your-voice-anymore/"><u>Solutions for Your Mic: Why It Doesn't Record Your Voice Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-silence-restore-audio-on-windows-10-fix-anthems-mute-issue/"><u>Solve the Silence: Restore Audio on Windows 10 | Fix Anthem's Mute Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/value-meets-functionality-in-our-in-depth-review-of-the-mohu-leaf-30-tv-antenna/"><u>Value Meets Functionality in Our In-Depth Review of the Mohu Leaf 30 TV Antenna</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-truth-about-magix-video-pro-xs-performance/"><u>[New] 2024 Approved The Truth About Magix Video Pro X's Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-9-key-approaches-to-free-webinar-archiving/"><u>[New] 9 Key Approaches to Free Webinar Archiving</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/emmcssd/"><u>「EMMCデータをSSDに簡単且つ無料で複製する手順」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-muting-mystery-solved-fixing-mic-problems-on-a-windows-11-system/"><u>AirPods Muting Mystery Solved: Fixing Mic Problems on a Windows 11 System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choose-a-weatherproof-smart-plug-ensure-durability-against-external-conditions/"><u>Choose a Weatherproof Smart Plug - Ensure Durability Against External Conditions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-skirmishes-the-ultimate-fix-for-sound-problems-in-fortnite/"><u>Fixing Silent Skirmishes: The Ultimate Fix for Sound Problems in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015634476-fortnite-voice-communication-issues-fix-them-fast-with-our-simple-solutions/"><u>Fortnite Voice Communication Issues? Fix Them Fast with Our Simple Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016649339-getting-your-windows-11-bluetooth-up-and-running-proven-fixes-inside/"><u>Getting Your Windows 11 Bluetooth Up and Running: Proven Fixes Inside!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-s24plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy S24+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-driver-updates-on-win7/"><u>Quick Driver Updates on Win7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-hot-40-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Hot 40</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-buzzing-sounds-from-your-earbuds-a-step-by-step-guide/"><u>Solving the Problem of Buzzing Sounds From Your Earbuds: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-laptops-audio-problem-a-step-by-step-guide/"><u>Solving Your Laptop's Audio Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-a-nonfunctional-corsair-hs70-microphone/"><u>Step-by-Step Guide to Repairing a Nonfunctional Corsair HS70 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-hyperx-cloud-alphas-non-functional-mic-problem/"><u>Troubleshooting and Solving HyperX Cloud Alpha's Non-Functional Mic Problem</u></a></li>
 </ul></div>
 

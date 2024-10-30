@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Fixing When Stereo Sound Isn't Working"
-date: 2024-10-23T20:26:06.811Z
-updated: 2024-10-24T19:14:31.847Z
+date: 2024-10-28T17:08:23.857Z
+updated: 2024-10-30T16:44:55.457Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
@@ -52,22 +45,15 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ab2cb848.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select **Change plan settings** of whichever plan you’re with now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52ae2775a7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **Change advanced power settings** .
 
@@ -76,6 +62,19 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
  5) Click the **+** button to expand **Processor power management** . Then expand **Minimum processor state** in this way as well. Change the **Setting** (%) to **100** . Then click **Apply** and **OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52b6ad9a11.png)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Check to see if your audio crackling problem is gone.
 
@@ -88,10 +87,10 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
@@ -110,9 +109,23 @@ If you don’t see this option here, move on to the next steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5313c8fd13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
 
@@ -131,13 +144,6 @@ If you don’t see this option here, move on to the next steps.
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -159,21 +165,14 @@ If you don’t see this option here, move on to the next steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-workshop-naming-service-2023/"><u>[New] Advanced Workshop Naming Service 2023</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-transform-your-images-erase-backdrops-with-canva-skills/"><u>[Updated] Transform Your Images Erase Backdrops with Canva Skills</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-zero-to-hero-creating-a-countdown-timer-in-fcpx/"><u>2024 Approved From Zero to Hero Creating a Countdown Timer in FCPX</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquering-mute-mode-fixing-no-sound-problems-with-conexants-audio-on-windows-10/"><u>Conquering Mute Mode: Fixing No Sound Problems with Conexant's Audio on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-tips-for-resolving-sound-distortions-and-issues-in-outriders/"><u>Essential Tips for Resolving Sound Distortions and Issues in Outriders</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-laptops-silent-mode-a-step-by-step-guide-to-restoring-audio/"><u>Fix Laptop's Silent Mode: A Step-by-Step Guide to Restoring Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-lack-of-audio-with-plugged-in-speakersheadphones-on-windows-systems/"><u>Fixing Lack of Audio with Plugged-In Speakers/Headphones on Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-laptop-sound-problem-a-step-by-step-solution-guide/"><u>Fixing Your Laptop Sound Problem: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-correct-audio-misalignment-top-techniques/"><u>How to Correct Audio Misalignment - Top Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Phone?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nano-filled-composite-resins-offer-better-wear-resistance-smoother-surfaces-for-esthetics-and-can-incorporate-antimicrobial-agents-to-inhibit-bacterial-grow129/"><u>Nano-Filled Composite Resins Offer Better Wear Resistance, Smoother Surfaces for Esthetics, and Can Incorporate Antimicrobial Agents to Inhibit Bacterial Growth.</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-undetected-hurdles-successfully-recognizing-your-western-digital-my-passport-ultra-in-windows/"><u>Overcoming Undetected Hurdles: Successfully Recognizing Your Western Digital My Passport Ultra in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016969621-speaker-maintennance-made-easy-banish-the-hiss-and-hum-in-just-minutes/"><u>Speaker Maintennance Made Easy: Banish the Hiss & Hum in Just Minutes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-will-apples-new-ai-innovations-not-upgrade-your-previous-iphone-the-high-price-tag-explained/"><u>Why Will Apple’s New AI Innovations Not Upgrade Your Previous iPhone? The High Price Tag Explained</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis-for-2024/"><u>[New] From Viewers to Profits An Authoritative Guide on YouTube Revenue and Popularity Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-best-tools-to-download-your-favorite-fb-videos-on-firefox-updated/"><u>[Updated] Unveiling the Best Tools to Download Your Favorite FB Videos on FireFox, Updated</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725289600615-instagram/"><u>「[機密情報] Instagramのビデオ再生に失敗する原因とその修正方法」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-on-your-hp-laptop-with-windows-11-update/"><u>How to Restore Audio Functionality on Your HP Laptop with Windows 11 Update</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-astro-a50-microphone-issue-a-step-by-step-guide/"><u>Solving the Astro A50 Microphone Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-restoration-tutorial-making-firefox-speak-with-clarity-once-more/"><u>Sound Restoration Tutorial: Making Firefox Speak with Clarity Once More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strategies-for-implementing-metas-ai-capabilities-on-instagram/"><u>Strategies for Implementing Meta's AI Capabilities on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-issues-in-call-of-duty-warzone-across-pc-and-consoles/"><u>Troubleshooting Voice Chat Issues in Call of Duty: Warzone Across PC and Consoles</u></a></li>
 </ul></div>
 

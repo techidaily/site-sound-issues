@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix a Non-Functional Microphone in Fortnite"
-date: 2024-10-23T19:57:23.413Z
-updated: 2024-10-24T16:35:34.257Z
+date: 2024-10-28T17:19:22.408Z
+updated: 2024-10-30T16:48:17.954Z
 tags:
   - win11
   - win10
@@ -43,46 +43,26 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click **OK** .
 See if your Logitech G230 mic works. If not, try the next fix, below.
@@ -93,7 +73,35 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 
 1. On your keyboard, press the Windows logo key and I at the same time to open Windows Settings. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -110,13 +118,6 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
@@ -149,15 +150,18 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rom-raw-footage-to-highlight-hits/"><u>[New] From Raw Footage to Highlight Hits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-master-iphone-image-conversion-from-jpgpng-to-pdf/"><u>[New] In 2024, Master iPhone Image Conversion From JPG/PNG to PDF</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/guide-to-screen-record-on-mac-with-shortcuts/"><u>Guide to Screen Record on Mac with Shortcuts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-remedies-for-lack-of-sound-on-astro-a50-headphones-get-the-fix-now/"><u>Immediate Remedies for Lack of Sound on Astro A50 Headphones - Get the Fix Now!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/jabra-headset-wont-connect-master-the-fix-with-our-expert-tips/"><u>Jabra Headset Won't Connect? Master the Fix with Our Expert Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-voice-chat-problems-solutions-to-get-you-talking-again/"><u>League of Legends Voice Chat Problems? Solutions to Get You Talking Again!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-guide-convert-youtube-videos-seamlessly-to-mpeg-for-2024/"><u>Master Guide Convert YouTube Videos Seamlessly to MPEG for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-guide-to-fix-idt-hd-audio-codec-driver-quirks-for-a-smooth-experience-with-windows-10/"><u>Master Guide to Fix IDT HD Audio Codec Driver Quirks for a Smooth Experience with Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-artisans-guide-to-professional-level-vr-captures-for-2024/"><u>The Artisan's Guide to Professional-Level VR Captures for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-immortalize-memories-unleash-save-free-magic/"><u>[Updated] In 2024, Immortalize Memories, Unleash Save-Free Magic</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-6-video-techniques-that-grab-eyes/"><u>[Updated] In 2024, Unveiling 6 Video Techniques That Grab Eyes</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-runmus-gaming-mic-issues-step-by-step-troubleshooting-guide/"><u>Fixing RUNMUS Gaming Mic Issues: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-audio-stops-working-randomly-on-windows-10-a-step-by-step-guide/"><u>How to Fix Your Audio Stops Working Randomly on Windows 10? A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-earnings-breakdown-one-million-glances-at-youtube/"><u>In 2024, Earnings Breakdown One Million Glances at Youtube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-10-unique-gaming-screen-capture-applications/"><u>In 2024, Top 10 Unique Gaming Screen Capture Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/inoperative-fingerprint-reader-on-laptop/"><u>Inoperative Fingerprint Reader on Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014816879-no-more-interference-swift-fix-for-crackling-headphones/"><u>No More Interference: Swift Fix for Crackling Headphones!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-advanced-audio-problems-launching-the-driver-successfully-on-windows-10/"><u>Overcoming Dolby Advanced Audio Problems: Launching the Driver Successfully on Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-astro-a10-microphone-problems/"><u>Troubleshooting and Repairing Astro A10 Microphone Problems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-earnings-potential-essential-view-numbers/"><u>Unlocking Earnings Potential Essential View Numbers</u></a></li>
 </ul></div>
 

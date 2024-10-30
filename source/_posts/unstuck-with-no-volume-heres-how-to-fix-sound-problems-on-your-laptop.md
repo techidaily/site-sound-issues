@@ -1,7 +1,7 @@
 ---
 title: Unstuck with No Volume? Here's How to Fix Sound Problems on Your Laptop
-date: 2024-10-20T21:57:35.412Z
-updated: 2024-10-24T17:29:20.441Z
+date: 2024-10-25T16:34:15.181Z
+updated: 2024-10-30T17:24:31.796Z
 tags:
   - win11
   - win10
@@ -45,59 +45,39 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
@@ -121,9 +101,23 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
@@ -146,18 +140,22 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-streamlining-social-media-top-strategies-for-pc-livestreaming-on-tiktok/"><u>[New] 2024 Approved Streamlining Social Media Top Strategies for PC Livestreaming on TikTok</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-stylish-shots-top-trending-instagram-filters/"><u>[New] Stylish Shots Top Trending Instagram Filters</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/connect-and-conquer-tips-for-eternal-snapstreaks/"><u>Connect and Conquer Tips for Eternal Snapstreaks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-wow-troubleshooting-steps-when-your-in-game-voice-chat-fails/"><u>Fixing WoW: Troubleshooting Steps When Your In-Game Voice Chat Fails</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-take-360-videos-on-iphone-for-facebook/"><u>In 2024, How to Take 360 Videos on iPhone for Facebook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-blur-apps-to-soften-images/"><u>In 2024, Mobile Blur Apps to Soften Images</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professional-secrets-to-flawless-photo-cropping-online-for-2024/"><u>Professional Secrets to Flawless Photo Cropping Online for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-logitech-g733-mic-problems-expert-fixes-and-advice/"><u>Resolve Logitech G733 Mic Problems: Expert Fixes & Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-gaming-experience-with-these-fixes-hyperx-cloud-microphone-not-working-anymore/"><u>Revive Your Gaming Experience with These Fixes: HyperX Cloud Microphone Not Working Anymore?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-silent-mode-restoring-speakers-and-headphones-functionality-on-pcs-and-laptops/"><u>Solving Silent Mode: Restoring Speakers and Headphones Functionality on PCs & Laptops</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-determining-the-perfect-orientation-for-fb-videos/"><u>[New] Determining the Perfect Orientation for FB Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-youtube-video-splitting/"><u>[New] The Ultimate Guide to YouTube Video Splitting</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovative-10-solutions-for-seamless-video-background-swapping-for-2024/"><u>[Updated] Innovative 10 Solutions for Seamless Video Background Swapping for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-camcorder-mic-troubleshooting-guide/"><u>Fixing Your Logitech Camcorder Mic: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hearthstone-volume-glitches-heres-how-you-can-get-your-sounds-back/"><u>Hearthstone Volume Glitches? Here's How You Can Get Your Sounds Back!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-microphone-issues-with-no-output-devices-on-various-windows-versions/"><u>How to Troubleshoot Microphone Issues with No Output Devices on Various Windows Versions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-s17e-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo S17e online without jailbreak</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/metaverse-mirth-makers-top-tips-for-crafting-hilarious-virtual-images/"><u>Metaverse Mirth Makers Top Tips for Crafting Hilarious Virtual Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/navigating-through-2024s-best-video-editor-applications-a-comprehensive-guide-for-selection/"><u>Navigating Through 2024'S Best Video Editor Applications - A Comprehensive Guide for Selection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/proven-methods-for-diagnosing-and-restoring-audio-functionality-in-toshiba-laptops/"><u>Proven Methods for Diagnosing and Restoring Audio Functionality in Toshiba Laptops</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-broken-corsair-headset-expert-advice-for-clear-sound-restoration/"><u>Reviving a Broken Corsair Headset: Expert Advice for Clear Sound Restoration</u></a></li>
+<li><a href="https://win-unique.techidaily.com/schritt-fur-schritt-anleitung-ssd-steam-deck-and-klonen/"><u>Schritt-Für-Schritt Anleitung, SSD, Steam Deck and Klonen.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-audio-problems-a-guide-to-resolving-new-world-game-sounds/"><u>Solving Your Audio Problems: A Guide to Resolving New World Game Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-sea-of-thieves-pc-voice-communication-problems/"><u>Step-by-Step Solutions to Sea of Thieves PC Voice Communication Problems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-7-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 7 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-your-mac-isnt-playing-sounds-and-how-to-turn-it-back-on/"><u>Why Your Mac Isn't Playing Sounds and How to Turn It Back On</u></a></li>
 </ul></div>
 

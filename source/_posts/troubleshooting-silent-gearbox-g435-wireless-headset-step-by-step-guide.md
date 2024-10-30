@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Gearbox G435 Wireless Headset - Step-by-Step Guide
-date: 2024-10-23T18:51:46.804Z
-updated: 2024-10-24T19:37:37.558Z
+date: 2024-10-28T17:47:35.729Z
+updated: 2024-10-30T16:21:52.030Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 * **Check the mute switches** on your microphone and make sure it’s disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run the audio troubleshooter
@@ -54,10 +54,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
@@ -76,22 +76,22 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Set your Onikuma mic as the default device
 
@@ -105,15 +105,16 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
-5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
+5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
@@ -145,14 +146,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -181,21 +183,21 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-vlog-versus-channels-choosing-between-obs-and-twitch-for-2024/"><u>[New] Vlog Versus Channels Choosing Between OBS & Twitch for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-10-fastest-growing-youtube-channels-to-light-up-your-mind/"><u>[Updated] 10 Fastest Growing YouTube Channels to Light Up Your Mind</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-voice-connection-problems-here-are-the-solutions/"><u>Discord Voice Connection Problems? Here Are the Solutions!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/fixed-ways-to-scramble-youtube-watchlist-content-for-2024/"><u>Fast Fixed Ways to Scramble YouTube Watchlist Content for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-12-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 12 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-microphone-thats-not-capturing-your-sound/"><u>How to Fix a Microphone That's Not Capturing Your Sound</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-crafting-splitscreen-youtube-videos-a-guide-to-creativity/"><u>In 2024, Crafting Splitscreen YouTube Videos A Guide to Creativity</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-from-channels-to-champions-leveraging-lingo-in-telegram-marketing/"><u>In 2024, From Channels to Champions Leveraging Lingo in Telegram Marketing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-overcoming-game-crashes/"><u>NVIDIA RTX 3080: Overcoming Game Crashes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-microphone-woes-expert-guide-to-resolve-audio-problems-in-windows-1110/"><u>Razer Barracuda X Microphone Woes? Expert Guide to Resolve Audio Problems in Windows 11/10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-on-fixing-your-rust-mic-issues-updated-for-2e4-tech-needs/"><u>Step-by-Step Tutorial on Fixing Your Rust Mic Issues: Updated for 2E4 Tech Needs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/top-7-camcorders-for-extreme-weather-and-splashes-review-for-2024/"><u>Top 7 Camcorders for Extreme Weather and Splashes Review for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-nonfunctional-corsair-void-headset-microphone/"><u>Troubleshooting Steps for a Nonfunctional Corsair Void Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-the-no-audio-problem-with-intel-conexant-hdt-advanced-micro-devices-in-windows-10/"><u>Troubleshooting Steps: Resolving the 'No Audio' Problem with Intel Conexant HDT Advanced Micro Devices in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tips-and-tricks-to-resolve-realtek-sound-driver-not-starting-problem/"><u>Ultimate Tips and Tricks to Resolve Realtek Sound Driver Not Starting Problem</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/zte-nubia-flip-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>ZTE Nubia Flip 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-quick-cinematic-creations-your-ultimate-guide-to-at-home-filmmaking-hacks/"><u>[New] 2024 Approved Quick Cinematic Creations Your Ultimate Guide to At-Home Filmmaking Hacks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlocking-your-facebook-video-potential-mp3-edition/"><u>[New] 2024 Approved Unlocking Your Facebook Video Potential - MP3 Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-noworrycapture-quick-and-easy-win11-recordings/"><u>[Updated] In 2024, NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/aomei-software-collaboration-opportunities-join-our-exclusive-tech-partner-network/"><u>AOMEI Software Collaboration Opportunities: Join Our Exclusive Tech Partner Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/break-language-monotony-emulate-your-favorite-games-in-diverse-languages/"><u>Break Language Monotony: Emulate Your Favorite Games in Diverse Languages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-audio-recording-problems-in-open-broadcaster-software/"><u>Diagnosing & Fixing Audio Recording Problems in Open Broadcaster Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-corsair-hs35-microphone-functioning-on-a-windows-setup-step-by-step-guide/"><u>Getting Your Corsair HS35 Microphone Functioning on a Windows Setup - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-overcoming-lag-issues-in-bluetooth-audio-systems/"><u>Immediate Fixes for Overcoming Lag Issues in Bluetooth Audio Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/introducing-the-upcoming-snooze-functionality-in-youtube-for-better-sleep-habits/"><u>Introducing the Upcoming Snooze Functionality in YouTube for Better Sleep Habits</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-free-software-update-available-for-your-hp-deskjet-ink-advantage-3050a-on-windows/"><u>Latest Free Software Update Available for Your HP Deskjet Ink Advantage 3050A on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-opengl-advocates-on-record/"><u>No OpenGL Advocates on Record</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-lucidsound-ls30-microphone-a-step-by-step-fix/"><u>Reviving Your LucidSound LS30 Microphone: A Step-by-Step Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015478407-solution-steps-for-world-of-warcraft-voip-problems-get-your-microphone-working/"><u>Solution Steps for World of Warcraft VOIP Problems – Get Your Microphone Working!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-to-sub-mastery-unveiling-3-key-strategies-for-2024/"><u>SRT-to-SUB Mastery Unveiling 3 Key Strategies for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016695565-trouble-with-csgo-voice-chat-heres-the-solution/"><u>Trouble with CS:GO Voice Chat? Here's the Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-issue-of-bluetooth-connection-with-no-audio/"><u>Troubleshooting Guide: Fixing the Issue of Bluetooth Connection with No Audio</u></a></li>
 </ul></div>
 

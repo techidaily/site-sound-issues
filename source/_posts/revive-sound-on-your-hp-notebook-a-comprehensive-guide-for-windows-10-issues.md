@@ -1,7 +1,7 @@
 ---
 title: Revive Sound on Your HP Notebook - A Comprehensive Guide for Windows 10 Issues
-date: 2024-09-05T03:59:17.418Z
-updated: 2024-09-06T03:59:17.418Z
+date: 2024-10-26T16:40:35.629Z
+updated: 2024-10-30T17:43:20.175Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ But first, ensure that your device has been connected and set correctly.
 5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart the game**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Set your device as Default
 
  If you have multiple output devices (more than two), you’d better set the headset as default. It probably the reason for “Anthem no sound” error.
@@ -41,19 +48,7 @@ But first, ensure that your device has been connected and set correctly.
 2. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go back to the Anthem and check it has sound or not.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run audio troubleshooting
 
@@ -61,14 +56,21 @@ But first, ensure that your device has been connected and set correctly.
 
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Follow the on-screen instructions to finish the process.
 4. Restart your computer and check whether Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Set the Default Format in the lowest mode
 
@@ -78,32 +80,16 @@ But first, ensure that your device has been connected and set correctly.
 2. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Reboot your computer and check whether Anthem has sound or not.
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Uncheck “Disable all sound effects”
 
@@ -114,21 +100,17 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click **Apply > OK** .
-6. Reboot your computer and go back to the game, you should have audio now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Reboot your computer and go back to the game, you should have audio now.
+
 ### Fix 5: Update your audio driver
 
  One reason for many computer errors is outdated drivers for your hardware devices. You should verify that your devices have the right and latest drivers, and update those that don’t.
@@ -143,22 +125,25 @@ But first, ensure that your device has been connected and set correctly.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Restart the game
 
  If the “Anthem no sound” error is nothing to do with the hardware, audio program and windows system, the error is caused by the game itself.
@@ -177,8 +162,6 @@ But first, ensure that your device has been connected and set correctly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +169,26 @@ But first, ensure that your device has been connected and set correctly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unlocking-youtubes-potential-with-a-subscription-plan/"><u>[New] 2024 Approved Unlocking YouTube's Potential with a Subscription Plan</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xpertise-unleashed-professional-insights-into-video-editing-for-2024/"><u>[New] Expertise Unleashed Professional Insights Into Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-the-course-for-youtube-music-uploads/"><u>[New] In 2024, Charting the Course for YouTube Music Uploads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guide-to-acquiring-free-picture-frame-videos/"><u>[Updated] Guide to Acquiring Free Picture Frame Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-webcams-for-professional-sound-recording/"><u>[Updated] Premium Webcams for Professional Sound Recording</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-viral-anime-themed-videos-for-tiktok-success-for-2024/"><u>[Updated] Viral Anime-Themed Videos for TikTok Success for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-most-reliable-cloud-vault-apps-2024-edition/"><u>Android's Most Reliable Cloud Vault Apps - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-headset-audio-fixes-mend-that-silent-mic-now/"><u>Astro A50 Headset Audio Fixes - Mend That Silent Mic Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-onikuma-microphone-malfunction-a-comprehensive-guide/"><u>Fixing Onikuma Microphone Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-ensure-your-obs-recordings-capture-desktop-sounds-correctly/"><u>How To Ensure Your OBS Recordings Capture Desktop Sounds Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-jabra-wireless-headset-working-again-a-step-by-step-guide/"><u>How to Get Your Jabra Wireless Headset Working Again: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-the-accuracy-of-no-activity-tag-in-discord/"><u>Investigating the Accuracy of 'No Activity' Tag in Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-fix-the-crackling-noise-problem-in-cyberpunk-2077/"><u>Step-by-Step Solutions to Fix the Crackling Noise Problem in Cyberpunk 2077</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-external-microphone-not-detected-by-your-pc-running-windows-11-8-or-7/"><u>Troubleshooting External Microphone Not Detected by Your PC Running Windows 11, 8, or 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-disruptions-on-your-pc-running-windows-nt-solutions-unveiled/"><u>Troubleshooting Sound Disruptions on Your PC Running Windows nT - Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-csgo-headset-and-mic-solutions-guide/"><u>Troubleshooting Your CS:GO Headset and Mic - Solutions Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-6-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 6</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-fixes-for-your-onikuma-microphone-complete-troubleshooting-tutorial/"><u>Unlocking Fixes for Your Onikuma Microphone - Complete Troubleshooting Tutorial</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728480697185-windows-11/"><u>Windows 11における不正な起動ドライブを特定・解決するテクニック</u></a></li>
+</ul></div>
 

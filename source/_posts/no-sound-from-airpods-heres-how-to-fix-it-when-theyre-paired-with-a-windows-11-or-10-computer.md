@@ -1,7 +1,7 @@
 ---
 title: No Sound From AirPods? Here's How to Fix It When They're Paired with a Windows 11 or 10 Computer
-date: 2024-10-23T18:01:33.481Z
-updated: 2024-10-24T20:05:44.095Z
+date: 2024-10-23T16:57:09.240Z
+updated: 2024-10-30T17:44:15.251Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -68,8 +68,24 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings menu. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
@@ -83,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
@@ -95,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
@@ -116,16 +125,10 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 2. Make sure your microphone is not turned off.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
@@ -133,20 +136,13 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -175,24 +171,24 @@ thumbnail: https://thmb.techidaily.com/49ffa66d38abced0cb3f87fd6a7f07b59b78823dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-technology-behind-whatsapp-voice-calls/"><u>[New] Unveiling the Technology Behind WhatsApp Voice Calls</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016822499-solved-dell-audio-not-working-quickly-and-easily/"><u>[Solved] Dell Audio Not Working - Quickly & Easily</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-flavorful-funnels-catchy-recipe-channels-that-work/"><u>[Updated] 2024 Approved Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>[Updated] 2024 Approved Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-analyzing-screen-capture-tech-for-professionals-for-2024/"><u>[Updated] Analyzing Screen Capture Tech for Professionals for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-compreeved-guide-to-creating-stellar-youtube-outros/"><u>[Updated] In 2024, Compreeved Guide to Creating Stellar YouTube Outros</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-aspect-ratio-guide-for-youtube-creators/"><u>2024 Approved A Step-by-Step Aspect Ratio Guide for YouTube Creators</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-void-mic-trouble-heres-how-you-can-repair-it-easily/"><u>Corsair Void Mic Trouble? Here's How You Can Repair It Easily!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-black-ops-cold-war-missing-audio-in-pc-version-complete-guide/"><u>How to Fix Black Ops: Cold War Missing Audio in PC Version - Complete Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-on-your-pc-with-windows-10/"><u>How to Turn Off Sound Improvement Features on Your PC with Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-2022-winter-games-skate-spotlights/"><u>In 2024, 2022 Winter Games Skate Spotlights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015104625-no-audio-on-your-airpods-pro-heres-how-to-fix-it/"><u>No Audio on Your AirPods Pro? Here's How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-guide-troubleshooting-sound-issues-on-microsofts-windows-10/"><u>Quick Guide: Troubleshooting Sound Issues on Microsoft's Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-mic-problems-on-fortnite-platform/"><u>Step-by-Step Guide: Repairing Mic Problems on Fortnite Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-functionality-of-non-working-headphones-on-pcs-with-windows-nt/"><u>Step-by-Step Guide: Restoring Functionality of Non-Working Headphones on PCs with Windows nT</u></a></li>
-<li><a href="https://facebook.techidaily.com/sweep-away-stored-views-delete-fb-watch-trails/"><u>Sweep Away Stored Views: Delete FB Watch Trails</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-microphone-problems-on-turtle-beach-devices/"><u>Troubleshooting Guide: Resolving Microphone Problems on Turtle Beach Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-guide-to-maximizing-your-roi-on-spotify-ads/"><u>[New] 2024 Approved Step-by-Step Guide to Maximizing Your ROI on Spotify Ads</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-a-deep-dive-into-panasonics-hx-a1-camera-features/"><u>2024 Approved A Deep Dive Into Panasonic's HX-A1 Camera Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-vistas-backgrounds-boosting-live-quality/"><u>2024 Approved Best Vistas Backgrounds Boosting Live Quality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-camslice-critique/"><u>2024 Approved CamSlice Critique</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-engagement-with-expert-level-niche-creators/"><u>2024 Approved Elevating Engagement with Expert-Level Niche Creators</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-sound-lag-and-cut-outs-troubleshooting-audio-issues-in-modern-windows-os/"><u>Bluetooth Sound Lag and Cut-Outs: Troubleshooting Audio Issues in Modern Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-counter-strike-global-offensive-microphone-up-and-running-again/"><u>How to Get Your Counter Strike Global Offensive Microphone Up and Running Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-audio-problems-solve-the-silent-pc-issue-in-windows-10-here/"><u>HP Laptop Audio Problems? Solve the Silent PC Issue in Windows 10 Here!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-download-kinemaster-for-macos-a-beginners-guide/"><u>New In 2024, Download KineMaster for macOS A Beginners Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-glitches-in-the-game-phasmophobia-a-helpful-guide/"><u>Overcoming Voice Chat Glitches in the Game Phasmophobia: A Helpful Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-output-in-windows-1187-correct-speaker-and-headphone-connection-problems-effectively/"><u>Restore Audio Output in Windows 11/8/7: Correct Speaker and Headphone Connection Problems Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-fortnites-audio-chats-easily-a-step-by-step-fix/"><u>Revive Fortnite's Audio Chats Easily – A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-installing-the-latest-epson-driver-updates-on-windows/"><u>Simple Steps: Installing the Latest Epson Driver Updates on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-resolving-packet-disruption-in-your-discord-chat-experience/"><u>Step-by-Step Guide: Resolving Packet Disruption in Your Discord Chat Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-debate-chatgpt-versus-bings-bot-dialogues/"><u>The Digital Debate: ChatGPT Versus Bing's Bot Dialogues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nokia-c12-plus-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Nokia C12 Plus Phone Pattern Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-guide-eliminating-audiovisual-lag-in-streams/"><u>Ultimate 2024 Guide: Eliminating Audiovisual Lag in Streams</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/vanquish-the-silent-void-a-guide-to-fixing-audio-in-cyberpunk-2077-for-windows-10-gamers/"><u>Vanquish the Silent Void: A Guide to Fixing Audio in Cyberpunk 2077 for Windows 10 Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-arent-my-creative-pebble-speakers-working-expert-advice-for-common-issues-and-fixes/"><u>Why Aren't My Creative Pebble Speakers Working? Expert Advice for Common Issues & Fixes</u></a></li>
 </ul></div>
 

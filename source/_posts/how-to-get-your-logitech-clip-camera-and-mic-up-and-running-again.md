@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Logitech Clip Camera and Mic Up and Running Again
-date: 2024-10-18T03:32:11.016Z
-updated: 2024-10-18T17:52:51.301Z
+date: 2024-10-23T16:47:09.443Z
+updated: 2024-10-30T16:15:43.150Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 3. **[Adjust your audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on your**LusidSound LS30** won’t work simply because the volume is mute or set too low.
@@ -55,13 +69,6 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-138.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.  
 
  2) Test if your LS30 headset is working properly. If not, then move on to **Fix 3** , below.
@@ -69,10 +76,10 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -99,6 +106,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click **OK** to apply the changes in the windows.
 
  6) Now with microphone set as default device and the volume turned up, try playing some audio on your LS30 headset and see if it works. If it does, then the **LucidSound LS30 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
@@ -119,23 +133,9 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-142.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -168,15 +168,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-understanding-different-hand-tracker-techniques/"><u>[New] Understanding Different Hand Tracker Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-streamline-your-browsing-eliminate-youtube-ads-in-chrome-firefox-ios/"><u>[Updated] Streamline Your Browsing Eliminate YouTube Ads in Chrome, Firefox, iOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-sees-limited-time-amazon-offer-deep-200-cut-will-it-stick-insights-from-zdnet/"><u>Apple Vision Pro Sees Limited-Time Amazon Offer: Deep $200 Cut - Will It Stick? Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-no-sound-problem-in-conexant-smartaudio-hd-for-windows-11-users/"><u>Diagnosing and Repairing the No Sound Problem in Conexant SmartAudio HD for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-audio-functionality-on-your-valorant-voice-call/"><u>Expert Advice: Restoring Audio Functionality on Your Valorant Voice Call</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-g24-power-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola G24 Power</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-startup-errors-in-star-wars-the-old-republic-swtor/"><u>Resolving Startup Errors in Star Wars: The Old Republic (SWTOR)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-after-the-recent-windows-10-upgrade/"><u>Restoring Audio After the Recent Windows 10 Upgrade?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y100a-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y100A Phone Pattern Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-when-your-destiny-press-voice-chat-wont-work/"><u>Troubleshooting Tips for When Your Destiny Press Voice Chat Won't Work</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-bridging-language-barriers-adding-subtitles-to-windows-media-player-for-2024/"><u>[Updated] Bridging Language Barriers Adding Subtitles to Windows Media Player for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-8-top-movie-downloader-rankings/"><u>[Updated] Mastering Facebook #8 Top Movie Downloader Rankings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-documenting-xbox-playtime-online/"><u>[Updated] The Art of Documenting Xbox Playtime Online</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-15-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 15 How to Bypass?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-discords-pc-echo-glitches-a-comprehensive-troubleshooting-guide/"><u>Conquer Discord's PC Echo Glitches: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-digital-life-with-this-google-photos-tutorial/"><u>Elevate Your Digital Life with This Google Photos Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-streets-cyberpunk-2077-audio-issues-on-windows-11/"><u>Fixing Silent Streets: Cyberpunk 2077 Audio Issues on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kobo-clara-hd-evaluation-your-perfect-portable-companion-for-book-lovers/"><u>Kobo Clara HD Evaluation: Your Perfect Portable Companion for Book Lovers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/restoring-supported-dolby-digitaldigital-theater-systems-dts-on-your-device/"><u>Restoring Supported Dolby Digital/Digital Theater Systems (DTS) on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-fixing-corsairs-virtuoso-microphone-when-it-stops-working/"><u>Solutions for Fixing Corsair's Virtuoso Microphone When It Stops Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-word-docs-converting-to-pdfs-with-windows-11/"><u>Streamline Your Word Docs: Converting to PDFs with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-windows-11-microphone-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Microphone Issues</u></a></li>
 </ul></div>
 

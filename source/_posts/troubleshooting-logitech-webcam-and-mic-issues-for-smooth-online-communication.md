@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Logitech Webcam & Mic Issues for Smooth Online Communication
-date: 2024-09-05T04:00:52.151Z
-updated: 2024-09-06T04:00:52.151Z
+date: 2024-10-23T16:30:05.616Z
+updated: 2024-10-30T17:31:42.886Z
 tags:
   - win11
   - win10
@@ -13,24 +13,12 @@ excerpt: This Article Describes Troubleshooting Logitech Webcam & Mic Issues for
 thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf919402e8696c70895bc723b47.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Trouble with Team Communication? Get Your League of Legends Voice Chat Working Again
 
 Voice chat feature is a much-anticipated feature that Riot Games has introduced to League of Legends over the past few years. It allows you to chat up with players from premade parties, coordinating with them while still focusing yourself on the game.
 
  Occasionally, players find the**voice chat not working** in the game. If you happen to be in the same boat, don’t worry. It’s fixable.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix League of Legends Voice Chat Not Working
 
  Here are four fixes that have helped other users resolve the voice chat not working problem in LoL. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -48,18 +36,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -69,15 +45,24 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 2. In the upper right corner, click**Settings** (the cog icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Configure the audio settings
 
  You may not be able to use voice chat due to incorrect audio settings in Windows.
@@ -89,35 +74,19 @@ You can follow the steps below to check:
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
 ### Fix 4: Update your audio drivers
@@ -132,6 +101,14 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -148,8 +125,6 @@ You can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +132,18 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-your-digital-footprint-facebook-lives-made-easy/"><u>[Updated] 2024 Approved Mastering Your Digital Footprint Facebook Lives Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bridging-the-gap-a-guide-to-casting-disneyplus-from-your-device-onto-a-chromecast-enabled-tv/"><u>Bridging the Gap: A Guide to Casting Disney+ From Your Device Onto a Chromecast-Enabled TV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensible-guide-for-novices-crafting-professional-tiktok-edits/"><u>Comprehensible Guide for Novices Crafting Professional TikTok Edits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-a-broken-corsair-virtuoso-microphone-a-comprehensive-guide/"><u>Diagnosing and Fixing a Broken Corsair Virtuoso Microphone: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-silent-realtek-digital-speaker-audio-solutions/"><u>How to Resolve Silent Realtek DIGITAL SPEAKER - Audio Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restarting-the-roar-of-battle-a-guide-to-fix-hearthstone-noise-issues/"><u>Restarting the Roar of Battle: A Guide to Fix Hearthstone Noise Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-a-comprehensive-fix-for-speakers-not-working-in-windows-11/"><u>Restoring Sound: A Comprehensive Fix for Speakers Not Working in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sky-high-savings-the-least-expensive-drones-on-market-for-2024/"><u>Sky-High Savings The Least Expensive Drones on Market for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>The way to get back lost music from Samsung</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/winning-back-your-soundscape-a-step-by-step-guide-for-fixing-audio-in-windows-11/"><u>Winning Back Your Soundscape: A Step-by-Step Guide for Fixing Audio in Windows 11</u></a></li>
+</ul></div>
 

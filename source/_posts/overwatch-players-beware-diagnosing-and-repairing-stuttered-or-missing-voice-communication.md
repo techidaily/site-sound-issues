@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Players Beware: Diagnosing and Repairing Stuttered or Missing Voice Communication"
-date: 2024-09-05T03:59:49.426Z
-updated: 2024-09-06T03:59:49.426Z
+date: 2024-10-24T16:24:50.203Z
+updated: 2024-10-30T17:06:52.281Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: "This Article Describes Overwatch Players Beware: Diagnosing and Repair
 thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## COD: Vanguard Voice Communication Problems Solved Here
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/call-of-duty-vanguard-1-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As the newest installment in the long-running FPS series, Call of Duty: Vanguard has finally launched. However, many players are reporting that the in-game voice chat feature in Vanguard is not working properly, which greatly spoils players’ gaming experience. If you’re experiencing the same problem, don’t worry. We’ve put together some working fixes for you.
 
 ## Try these fixes
@@ -48,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 5. **[Check in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Perform basic troubleshooting
 
  When your voice chat isn’t working, you can first do a basic troubleshooting step to see if it will fix the issue. You can follow the steps:
@@ -59,11 +48,12 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
  If everything is fine with your audio device, the problem may lie somewhere else. Read on to find out more.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Allow the game to access your microphone
 
  If you’re having trouble with your microphone, make sure your privacy settings are configured properly to allow the game to access your microphone. Here’s how:
@@ -74,21 +64,22 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 3. In the left panel, select**Microphone** . Under**Allow desktop apps to access your microphone** , make sure the toggle is set to**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/microphone-allow-desktop-apps.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you’ve done these, relaunch Vanguard to see if your voice chat works properly.
 
 If this fix doesn’t do the trick, check out the next one.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -116,18 +107,6 @@ If this fix doesn’t do the trick, check out the next one.
 
  If updating the audio driver doesn’t work for you, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Check sound settings
 
  For your microphone or headset to work in Vanguard, you need to make sure your default device is set up correctly in Windows and the Battle.net client. Here’s how:
@@ -137,23 +116,19 @@ If this fix doesn’t do the trick, check out the next one.
 2. Under the**Playback** tab, select the**speakers or headphones** you want to use and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Navigate to the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Open your**Battle.net** client.
 5. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 6. Select**Voice Chat** , then set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Click**Done** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
 Now launch Vanguard and see if you can talk to your teammates.
@@ -168,23 +143,34 @@ If the voice chat still doesn’t work, move on to the next fix.
 2. Select**ACCOUNT & NETWORK** . Under the**ONLINE** section, set**CROSSPLAY** and**CROSSPLAY COMMUNICATION** to**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-crossplay-on.jpg)
 3. Navigate to the**AUDIO** tab. Under the**Voice Chat** section, make sure**VOICE CHAT** is set to**On** . Set**VOICE CHAT DEVICE** and**MICROPHONE DEVICE** to**Default Communication Device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-on.jpg)
 4. According to your personal preference, set**MICROPHONE ACTIVATION MODE** to**Open Mic** or**Push to Talk** . If you set it to**Open Mic** , make sure**OPEN MIC ACTIVATION THRESHOLD** is set to**3** . But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
 5. Set**VOICE CHAT VOLUME** and**MICROPHONE VOLUME** to a moderate value. Then set**VOICE CHAT EFFECT** to**No Effect** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-volume.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can restart Vanguard and check if the voice chat is working.
 
@@ -197,20 +183,8 @@ If your problem remains, try the last fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve installed all the updates, restart your PC and check if the voice chat feature works properly in Vanguard.
 
 ---
@@ -226,8 +200,6 @@ If your problem remains, try the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +207,24 @@ If your problem remains, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings/"><u>[New] 2024 Approved Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-avoid-risks-secure-paths-to-get-gratis-vlc-for-mac-os-x-for-2024/"><u>[New] Avoid Risks Secure Paths to Get Gratis VLC for Mac OS X for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-collages-thanks-to-picshot/"><u>[New] Master the Art of Collages, Thanks to Picshot</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-turning-views-into-cash-secrets-to-successful-facebook-video-money-making-for-2024/"><u>[New] Turning Views Into Cash Secrets to Successful Facebook Video Money-Making for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/create-audio-cds-from-mp3-using-imgburn-in-windows-environment/"><u>Create Audio CDs From MP3 Using ImgBurn in Windows Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-solutions-to-restore-functionality-of-a-broken-corsair-hs70-microphone/"><u>Easy Solutions to Restore Functionality of a Broken Corsair HS70 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-steps-to-solve-non-working-speakers-on-a-windows-7-machine/"><u>Easy Steps to Solve Non-Working Speakers on a Windows 7 Machine</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/guia-paso-a-paso-para-transformar-archivos-mpeg-en-mp3-opciones-de-servidores-onlines-o-aplicaciones-desktop/"><u>Guía Paso a Paso Para Transformar Archivos MPEG en MP3: Opciones De Servidores Onlines O Aplicaciones Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-astro-a50-microphone-troubleshooting-and-solutions/"><u>How to Fix the Astro A50 Microphone: Troubleshooting and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-when-your-turtle-beach-elite-atlas-mic-fails-to-work/"><u>How to Resolve Issues When Your Turtle Beach Elite Atlas Mic Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-hyperx-cloud-microphone-not-working-issues-with-easy-fixes/"><u>Solve HyperX Cloud Microphone Not Working Issues with Easy Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-professional-screen-capture-using-adobe-captive-software-for-2024/"><u>The Ultimate Guide to Professional Screen Capture Using Adobe Captive Software for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-fixes-for-pubg-voice-communication-problems/"><u>Troubleshooting Common Fixes for Pubg Voice Communication Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016219792-troubleshooting-non-functional-sound-on-your-windows-10-system-solved/"><u>Troubleshooting Non-Functional Sound on Your Windows 10 System - Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-non-functional-g2000-mics-on-kotion-a-comprehensive-guide/"><u>Troubleshooting Steps for Non-Functional G2000 Mics on Kotion: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unfettered-gpt-accessibility-globally-reachable-guide/"><u>Unfettered GPT Accessibility: Globally Reachable Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-effortless-audio-conversion-leading-free-apps-for-textualizing-voice-input-on-smartphones-and-tablets/"><u>Updated In 2024, Effortless Audio Conversion Leading Free Apps for Textualizing Voice Input on Smartphones & Tablets</u></a></li>
+</ul></div>
 

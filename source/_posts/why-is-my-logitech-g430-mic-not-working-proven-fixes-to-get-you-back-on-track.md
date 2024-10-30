@@ -1,7 +1,7 @@
 ---
 title: Why Is My Logitech G430 Mic Not Working? Proven Fixes to Get You Back on Track
-date: 2024-09-05T04:02:59.841Z
-updated: 2024-09-06T04:02:59.841Z
+date: 2024-10-26T16:24:40.915Z
+updated: 2024-10-30T16:14:38.481Z
 tags:
   - win11
   - win10
@@ -13,36 +13,12 @@ excerpt: This Article Describes Why Is My Logitech G430 Mic Not Working? Proven 
 thumbnail: https://thmb.techidaily.com/f41722464c2cc7a96245959591829cdc5706533ced28a08a790d8df958eaebc6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Logitech G230 Headset Mic Issues? Here's How to Get It Working Again
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000091-268x300.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Recently we’ve seen many Logitech G230 users reporting that their mic is not working.**Although it’s very frustrating, you’re definitely not the only person to experience this issue.  More importantly,**you should be able to fix it pretty easily** …
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other Logitech users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -55,36 +31,46 @@ thumbnail: https://thmb.techidaily.com/f41722464c2cc7a96245959591829cdc5706533ce
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 1: Check your microphone settings**
 
 This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 8. Click **OK** .
 See if your Logitech G230 mic works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -92,25 +78,7 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 
 1. On your keyboard, press the Windows logo key and I at the same time to open Windows Settings. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -129,13 +97,22 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -155,8 +132,6 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +139,26 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-embedding-youtube-music-in-media-files/"><u>[New] Embedding YouTube Music in Media Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-igtv-mastery-best-video-editors-for-social-media/"><u>[Updated] 2024 Approved IGTV Mastery Best Video Editors for Social Media</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-correcting-gopros-fish-eye-distortion-techniques/"><u>2024 Approved Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-noisy-earbuds-stop-the-crackles-now/"><u>Easy Fixes for Noisy Earbuds: Stop the Crackles Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functional-voice-communication-in-overwatch-ptt/"><u>Effective Fixes for Non-Functional Voice Communication in Overwatch (PTT)</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solution-eliminate-unwanted-cursor-blind-spots-for-a-smoother-experience/"><u>Effective Solution: Eliminate Unwanted Cursor Blind Spots for a Smoother Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-on-how-to-repair-voice-communication-in-counter-strike-2/"><u>Guide on How to Repair Voice Communication in Counter-Strike 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-missing-audio-output-on-pcs-with-windows-10-8-and-7/"><u>How to Resolve Missing Audio Output on PCs with Windows 10, 8, and 7</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels/"><u>Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests/"><u>Personalize Your Pixelated World The Ultimate Guide to Discovering Creator Types via 6 Tests</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211150228-9780008667603-scorpio-2025-your-personal-horoscope/"><u>Scorpio 2025: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-resolving-laptop-speaker-problems-efficiently/"><u>Silence No More: Resolving Laptop Speaker Problems Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-the-noise-a-2024-users-manual-for-correcting-and-preventing-echo-on-discord-pc-focus/"><u>Silencing the Noise: A 2024 User's Manual for Correcting and Preventing Echo on Discord (PC Focus)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-fix-a-non-functional-microphone-in-fortnite/"><u>Solved: How to Fix a Non-Functional Microphone in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stop-the-popping-sounds-in-your-speakers-on-windows-pcs-windows-10-and-7/"><u>Stop the Popping Sounds in Your Speakers on Windows PCs (Windows 10 & 7)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-premium-panorama-creation-tools-the-ultimate-guide-to-professional-photo-stitching-software/"><u>Top 8 Premium Panorama Creation Tools: The Ultimate Guide to Professional Photo Stitching Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-facilement-et-sans-frais-un-fichier-ogv-en-gif-a-laide-de-movavi-online/"><u>Transformez Facilement Et Sans Frais Un Fichier OGV en GIF À L'aide De Movavi Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-hyperx-cloud-alpha-microphone-malfunction/"><u>Troubleshooting Guide: Solving Issues with Your HyperX Cloud Alpha Microphone Malfunction</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-ai-text-to-video/"><u>Updated In 2024, What Is AI Text to Video?</u></a></li>
+</ul></div>
 

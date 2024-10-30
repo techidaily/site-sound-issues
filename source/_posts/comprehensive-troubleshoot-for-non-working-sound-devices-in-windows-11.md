@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Troubleshoot for Non-Working Sound Devices in Windows 11
-date: 2024-09-05T04:02:49.876Z
-updated: 2024-09-06T04:02:49.876Z
+date: 2024-10-26T17:40:33.147Z
+updated: 2024-10-30T17:17:35.960Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 After several patches, many gamers are still reporting a no sound/no dialogue audio issue in Cyberpunk 2077\. But don’t worry if you happen to be one of them. Here we put together some working fixes for you, try them and restore the audio in a jiff.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that rocks.
@@ -40,17 +28,12 @@ After several patches, many gamers are still reporting a no sound/no dialogue au
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Check the connection of your audio device
 
  Let’s start with some easy troubleshooting. If your in-game audio isn’t working, first you want to**make sure the physical connection is robust** . Be sure the cable is not broken, and is securely plugged into the correct headphone jack. You can also try a replug and see if it gets your audio back. And if you’re using a headset with a volume switch, make sure it’s set to a moderate value.
@@ -58,6 +41,13 @@ After several patches, many gamers are still reporting a no sound/no dialogue au
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
 
 If the connection is fine, you can take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your audio device is set up properly
 
@@ -70,14 +60,15 @@ Here’s how:
 2. Under the**Output** section, expand the menu below**Choose your output device** . Then select your desired output device. On the bar below**Master volume** , toggle the slider several times until you hear beeps coming out your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-up-output-device.jpg)
 3. Now you can launch Cyberpunk 2077 and test the audio.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the problem remains, you can move on to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -89,15 +80,17 @@ If the problem remains, you can move on to the next method.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your device drivers, restart your PC and see if the audio is restored in Cyberpunk 2077.
@@ -115,12 +108,14 @@ Here’re the guides on how to do that on different platforms:
 1. Launch GOG GALAXY 2.0\. From the left menu, select Owned games. Click the Cyberpunk picture.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-gog-1.jpg)
 2. Click the **Settings icon** next to the**Play** button. Hover your mouse cursor on**Manage installation** and select**Verify / Repair** . Then wait for the checking to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-gog-2.jpg)
 
 #### Steam
@@ -128,12 +123,6 @@ Here’re the guides on how to do that on different platforms:
 1. Open your Steam client. Navigate to the**LIBRARY** tab. Right-click**Cyberpunk 2077** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-steam-1.jpg)
 2. Navigate to the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME FILES** , then wait for it to complete.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-steam-2.jpg)
 
 #### Epic Games
@@ -141,26 +130,8 @@ Here’re the guides on how to do that on different platforms:
 1. Open your Epic Games client. From the left menu, select**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/epic-games-launcher-library.jpg)
 2. Click the Cyberpunk 2077 tile and click the icon with three dots. Then click **Verify** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-verify-epic-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You might need to verify the game a couple of times to repair all the files.
 
 Now launch Cyberpunk 2077 and see if you can hear anything.
@@ -168,11 +139,12 @@ Now launch Cyberpunk 2077 and see if you can hear anything.
 If this solution doesn’t help you, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Install all Windows updates
 
  Windows updates include security patches that tackle compatibility issues. They can also help avoid loads of strange issues. If you never bother to check for system updates, definitely do it now.
@@ -184,12 +156,6 @@ Here’s how:
 2. Click **Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
 ---
@@ -202,8 +168,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +175,22 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-stabilize-your-camera-without-buying-a-tripod-in-2024/"><u>[New] How to Stabilize Your Camera without Buying a Tripod, In 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-network-stardom-top-10-music-video-countdown/"><u>[Updated] 2024 Approved Social Network Stardom Top 10 Music Video Countdown</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-choosing-a-screen-recorder-for-learning/"><u>[Updated] 2024 Approved Ultimate Guide to Choosing a Screen Recorder for Learning</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-channels-success-key-equipment-insights/"><u>[Updated] 2024 Approved Unlock Channels Success Key Equipment Insights</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>[Updated] Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discovering-the-most-effective-tool-for-win-soft-dependency/"><u>Discovering the Most Effective Tool for Win Soft Dependency</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/most-effective-macos-sierra-video-coders-for-2024/"><u>Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-bluetooth-functionality-in-windows-11-a-step-by-step-guide-for-troubled-users/"><u>Restore Bluetooth Functionality in Windows 11: A Step-by-Step Guide for Troubled Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/setting-up-and-correcting-windows-10s-invisible-audio-equipment/"><u>Setting Up & Correcting Windows 10'S Invisible Audio Equipment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/signs-of-being-blocked-when-your-imessage-goes-out-as-regular-sms-heres-what-it-means/"><u>Signs of Being Blocked: When Your iMessage Goes Out as Regular SMS, Here's What It Means</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-non-functioning-hdmi-audio-on-windows-7-systems/"><u>Solution Steps for Non-Functioning HDMI Audio on Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-audio-problem-how-to-fix-your-windows-7-headphones/"><u>Solving the Audio Problem: How to Fix Your Windows 7 Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-your-razer-blackshark-v2s-nonfunctional-mic/"><u>Step-by-Step Guide to Repairing Your Razer BlackShark V2's Nonfunctional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-removing-audio-enhancements-feature-from-windows-10/"><u>Step-by-Step Guide: Removing Audio Enhancements Feature From Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-innovative-conversations-integrating-nvidias-rtx-powered-ai-chat-assistant-into-your-pc/"><u>Unleashing Innovative Conversations: Integrating Nvidia's RTX-Powered AI Chat Assistant Into Your PC</u></a></li>
+</ul></div>
 

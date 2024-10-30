@@ -1,7 +1,7 @@
 ---
 title: "Fixes Revealed: Enabling Game Audio Streams in Discord Now!"
-date: 2024-10-17T16:48:25.450Z
-updated: 2024-10-24T18:25:02.623Z
+date: 2024-10-23T17:06:39.587Z
+updated: 2024-10-30T16:49:35.631Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
 
@@ -79,10 +72,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
@@ -91,19 +84,33 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -115,13 +122,6 @@ There’re mainly two ways for you to update an audio driver:
  2) Type in**appwiz.cpl** and press**Enter** .
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click Discord, and select**Uninstall** .
 
@@ -150,22 +150,22 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-beginners-blueprint-for-initiating-instagram-discussions/"><u>[New] In 2024, Beginner's Blueprint for Initiating Instagram Discussions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-list-of-recent-unfollowers-in-instagram/"><u>[New] List of Recent Unfollowers in Instagram</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-epson-scan-not-working-in-windows-1111/"><u>[SOLVED] Epson Scan Not Working in Windows 11/11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-by-step-inverting-movies-with-iphone/"><u>[Updated] In 2024, Step by Step Inverting Movies with iPhone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-latest-series-captivating-qanda-for-podcast-audience/"><u>2024 Approved Latest Series Captivating Q&A for Podcast Audience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-google-pixel-8-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Google Pixel 8</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-is-picku-the-ultimate-answer-to-enhancing-your-android-photos/"><u>In 2024, Is PickU the Ultimate Answer to Enhancing Your Android Photos?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a1-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo A1 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speaker-check-fast-and-simple-guide-to-testing-your-mic/"><u>Speaker Check: Fast and Simple Guide to Testing Your Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-razer-barracuda-x-microphone-failure-on-windows-11-and-10/"><u>Step-by-Step Solution for Razer Barracuda X Microphone Failure on Windows 11 & 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-art-of-anonymity-in-video-hiding-private-data-for-2024/"><u>The Art of Anonymity in Video Hiding Private Data for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-enigma-exchange-where-anonymity-meets-digital-riches-2023-edition-for-2024/"><u>The Enigma Exchange Where Anonymity Meets Digital Riches, 2023 Edition for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-silence-how-to-restore-audio-functionality-on-your-laptop/"><u>Troubleshooting Complete Silence: How to Restore Audio Functionality on Your Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fix-how-to-restore-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting Fix: How to Restore Audio on Your HP Laptop Running Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolved-realtek-high-quality-sound-connection-issue/"><u>Troubleshooting Guide - Resolved: Realtek High-Quality Sound Connection Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-in-windows-11-solutions-unveiled/"><u>Troubleshooting Intermittent Sound Issues in Windows 11: Solutions Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-valorants-voice-communication-issues/"><u>Troubleshooting Tips: Solving Valorant's Voice Communication Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-google-meet-go-live-your-youtube-broadcast-companion-for-2024/"><u>[New] Google Meet Go Live - Your YouTube Broadcast Companion for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-exclusive-no-fee-fb-visual-content-craftsman/"><u>[New] In 2024, Exclusive No-Fee FB Visual Content Craftsman</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-for-effective-io-image-capture-use-for-2024/"><u>[Updated] Expert Tips for Effective IO Image Capture Use for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721959011392-50-phone-strategy-unraveling-ransomware-and-behind-the-scenes-of-our-ai-assisted-chatpodcast/"><u>$50 Phone Strategy: Unraveling Ransomware & Behind-the-Scenes of Our AI-Assisted ChatPodcast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-9-processor-deals-in-france-how-much-for-the-high-end-ryzen-9-9900x-750/"><u>AMD Ryzen 9 Processor Deals in France - How Much for the High-End Ryzen 9 9900X (€750)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-cracking-sounds-effective-solutions-to-quiet-your-headphones/"><u>Banish Cracking Sounds: Effective Solutions to Quiet Your Headphones</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comprehensive-qanda-on-utilizing-the-aomei-system-backup-and-recovery-software-for-your-needs/"><u>Comprehensive Q&A on Utilizing the AOMEI System Backup & Recovery Software for Your Needs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/epicurean-escapades-crafting-kitchen-films-for-2024/"><u>Epicurean Escapades Crafting Kitchen Films for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-your-connection-for-seamless-steam-voice-interaction/"><u>Expert Tips: Restoring Your Connection for Seamless Steam Voice Interaction 🌐</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-into-battle-with-a-sound-fix-for-your-fortnite-game-issues/"><u>Get Back Into Battle with a Sound Fix for Your Fortnite Game Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-search-microsoft-upgrades-bing-with-ai-technology/"><u>Next-Gen Search: Microsoft Upgrades Bing with AI Technology</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-color-concealment-in-premiere-for-2024/"><u>Quick Color Concealment in Premiere for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-solving-astro-a50-microphone-issues/"><u>Quick Fix Guide: Solving Astro A50 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sennheiser-game-one-microphone-malfunctions-heres-how-to-fix-them/"><u>Sennheiser Game One Microphone Malfunctions? Here's How to Fix Them!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolving-in-game-sounds-in-new-world/"><u>Step-by-Step Tutorial: Resolving In-Game Sounds in New World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-left-and-right-channel-issues-effective-fixes-for-a-clearer-sound-experience/"><u>Troubleshoot Left and Right Channel Issues: Effective Fixes for a Clearer Sound Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-non-functional-logitech-g633-mic-solutions-inside/"><u>Troubleshooting the Non-Functional Logitech G633 Mic - Solutions Inside</u></a></li>
 </ul></div>
 

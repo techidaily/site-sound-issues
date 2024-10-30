@@ -1,7 +1,7 @@
 ---
 title: Windows Sensors Fail to Identify Touch
-date: 2024-10-20T17:12:04.821Z
-updated: 2024-10-24T16:50:29.074Z
+date: 2024-10-26T17:42:21.460Z
+updated: 2024-10-30T17:25:16.555Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the connection issue
 
  To use your scanner, you need to make sure that your scanner is**powered on** in the first place.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
  If you’ve checked the above steps and your HP scanner still doesn’t work, don’t worry. There is something else to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
@@ -72,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd1688e0055e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then restart your computer. Try to use your HP scanner again and see if it works now.
@@ -94,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 3. Ensure these services are set to**Automatic** and the**Service status** is**Running** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * **Remote Procedure Call RPC**  
@@ -143,6 +151,13 @@ Then try scanning with your scanner to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot hardware problems
 
  It’s possible that there’s something wrong with your scanner, so run a troubleshooter in your computer to fix the issue.
@@ -152,10 +167,10 @@ Then try scanning with your scanner to see if it works.
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `**msdt.exe -id DeviceDiagnostic**`
@@ -168,16 +183,10 @@ Then try scanning with your scanner to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
@@ -190,33 +199,12 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0319454560.jpg)
 2. In Command Prompt, type the following command, then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd031d993e59.jpg)
 3. Then wait for**Verification 100% complete** . This can take a while.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Once complete, Type**exit** in Command Prompt and press**Enter** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
 
@@ -254,18 +242,17 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-become-a-color-grading-pro-utilizing-luts-within-adobes-suite/"><u>[New] Become a Color Grading Pro Utilizing LUTs Within Adobe's Suite</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-monitor-magic-asuss-mg28uq-review-reveals-a-new-vision-era/"><u>[New] Monitor Magic – ASUS's MG28UQ Review Reveals a New Vision Era</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/acers-r11-chromebook-a-sleek-portable-revision/"><u>Acer's R11 Chromebook - A Sleek, Portable Revision</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-to-stop-that-persistent-hiss-in-your-sound-system/"><u>DIY Fixes to Stop that Persistent Hiss in Your Sound System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-your-audio-experience-in-windows-11-tips-on-amplifying-volume/"><u>Enhance Your Audio Experience in Windows 11: Tips on Amplifying Volume</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/cing-views-with-these-premium-tools-for-youtube-seo/"><u>Enhancing Views with These Premium Tools for YouTube SEO</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-xs-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone XS Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/innovative-broadcast-strategies-live-on-instagram-using-obs-software-for-2024/"><u>Innovative Broadcast Strategies Live on Instagram Using OBS Software for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resident-evil-village-troubleshooting-common-sound-problems/"><u>Resident Evil Village - Troubleshooting Common Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-volume-problem-restoring-sound-for-valheim-gamers/"><u>Solve Your PC's Volume Problem: Restoring Sound for Valheim Gamers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-conexant-smartaudio-hd-audio-problem-on-windows-11-a-step-by-step-guide/"><u>Solving the Conexant SmartAudio HD Audio Problem on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722879512452-step-by-step-guide-correcting-ieframedll-errors-and-glitches/"><u>Step-by-Step Guide: Correcting Ieframe.dll Errors and Glitches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-headphones-in-windows-11/"><u>Troubleshooting Guide: Fixing Non-Functional Headphones in Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-audio-wizards-unveiled-top-5-techniques-for-win10/"><u>[New] In 2024, Audio Wizards Unveiled Top 5 Techniques for Win10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elite-mp4-streamer-system-for-fb/"><u>2024 Approved Elite MP4 Streamer System for FB</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/como-superar-los-retos-al-intercambiar-archivos-entre-dispositivos-con-windows-cuando-no-funciona-guia-esencial/"><u>Cómo Superar Los Retos Al Intercambiar Archivos Entre Dispositivos Con Windows Cuando No Funciona: Guía Esencial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-common-glitches-in-discords-voice-chat-system/"><u>Diagnosing and Repairing Common Glitches in Discord's Voice Chat System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elevate-video-calls-browse-through-our-top-5-hd-webcams-and-mics-for-2024/"><u>Elevate Video Calls - Browse Through Our Top 5 HD Webcams & Mics for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-functionality-of-a-stuck-lucidsound-ls30-microphone/"><u>Expert Tips: Restoring Functionality of a Stuck LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-refine-your-youtube-identity-with-efficient-descriptions/"><u>In 2024, Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/microsoft-365-outage-understanding-the-cause-behind-major-user-disruption-techinsights/"><u>Microsoft 365 Outage: Understanding the Cause Behind Major User Disruption | TechInsights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017010960-restore-audio-functionality-on-your-pc-running-windows-11-simple-solutions-inside/"><u>Restore Audio Functionality on Your PC Running Windows 11 – Simple Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-resolving-headphone-connectivity-issues-in-windows-11/"><u>Solution Steps: Resolving Headphone Connectivity Issues in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-6-heavies-massive-language-models-triumph/"><u>Ultimate 6 Heavies: Massive Language Models Triumph</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmvogv-onlinetoolscom/"><u>WMV/OGV 이미지를 무료로 스트리밍하는 방법 - Onlinetools.com</u></a></li>
 </ul></div>
 

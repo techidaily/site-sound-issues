@@ -1,7 +1,7 @@
 ---
 title: "Reviving Rich Audio on Nvidia Systems: The Definitive Fixes You Need"
-date: 2024-09-05T03:59:17.979Z
-updated: 2024-09-06T03:59:17.979Z
+date: 2024-10-23T16:07:24.567Z
+updated: 2024-10-30T16:15:57.263Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Is your**Logitech G430 microphone not working** ? You’re not alone. Many people have reported similar issues. But don’t worry, you can**fix the Logitech G430 mic not working** issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How to fix Logitech G430 mic not working**
 
  If you didn’t mute the mic, if you’ve troubleshot the hardware and tried plugging your headset into different USB ports but your mic is still not working, try the solutions below:
@@ -37,11 +31,18 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -53,20 +54,22 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
@@ -98,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd61613c73.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -107,12 +117,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -121,12 +125,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
@@ -135,57 +133,34 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Right click on your microphone again and select**Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6275be6bfc9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6278bfe07b0.png)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Save your changes and restart your computer.
 
@@ -212,8 +187,6 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +194,20 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-sound-not-working-on-pc-quickly-and-easily/"><u>[Fixed] Sound Not Working on PC | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-5-tools-for-cutting-edge-video-title-and-tag-generation/"><u>[New] In 2024, 5 Tools for Cutting Edge Video Title & Tag Generation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-cutest-drone-companions-for-little-ones/"><u>[New] In 2024, Cutest Drone Companions for Little Ones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>[New] Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-masterful-multiplatform-apps-for-dynamic-media-collage/"><u>[Updated] Masterful Multiplatform Apps for Dynamic Media Collage</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728470875921-google/"><u>勝手に消えてしまう Google フォトの写真：探り当て解決法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrective-steps-for-desktop-is-unreachable-under-cwindowssystem32configsystemprofile/"><u>Corrective Steps for 'Desktop Is Unreachable' Under C: Windows System32 Config SystemProfile</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-g933-microphone-troubleshooting-guide/"><u>How to Fix a Non-Functioning Logitech G933 Microphone: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issue-when-headphones-are-plugged-in-but-play-through-speakers/"><u>How to Fix Audio Issue When Headphones Are Plugged In But Play Through Speakers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-analyzing-t-series-youtube-financial-gains/"><u>In 2024, Analyzing T-Series Youtube Financial Gains</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-15-pro-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 15 Pro online without SIM Card?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015745844-pubg-voice-chat-not-functioning-expert-advice-to-restore-it/"><u>PUBG Voice Chat Not Functioning? Expert Advice to Restore It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unplugging-mysteries-a-comprehensive-guide-to-fixing-no-sound-from-conexant-smartaudio-hd-under-windows-11/"><u>Unplugging Mysteries: A Comprehensive Guide to Fixing No Sound From Conexant SmartAudio HD Under Windows 11</u></a></li>
+</ul></div>
 

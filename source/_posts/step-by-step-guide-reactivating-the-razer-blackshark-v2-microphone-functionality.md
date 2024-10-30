@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reactivating the Razer BlackShark V2 Microphone Functionality"
-date: 2024-10-23T22:07:15.180Z
-updated: 2024-10-24T16:53:30.416Z
+date: 2024-10-23T16:48:02.415Z
+updated: 2024-10-30T17:40:12.856Z
 tags:
   - win11
   - win10
@@ -30,18 +30,18 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 4. [**Change to DVD quality**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Make sure you use the right ports
 
  You can connect your Virtuoso headset using the Slipstream Wireless dongle, a 3.5mm jack, or a USB connection. No matter what wired connection you use, you should first make sure you’re utilizing the correct port.
 
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
 
@@ -54,10 +54,16 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
@@ -82,10 +88,24 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 3. Click the**Update** button next to the flagged**Corsaire Virtuoso** driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -97,34 +117,21 @@ There are mainly two ways for you to do this:
 1. Right-click the Volume icon in the notification area, and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
-3. Click**Additional device properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
+3. Click**Additional device properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
 
@@ -135,16 +142,10 @@ There are mainly two ways for you to do this:
 2. Follow the instructions given in the popped-up Help window.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You may need to restart your computer for the changes to take effect.
@@ -172,19 +173,16 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-enhancing-auditory-appreciation-via-iphones-playback/"><u>[New] In 2024, Enhancing Auditory Appreciation via iPhone's Playback</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-getting-started-with-iphone-speech-recordings/"><u>[New] In 2024, Getting Started with iPhone Speech Recordings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-15-cameras-excelling-in-live-streaming/"><u>[Updated] In 2024, Top 15 Cameras Excelling in Live Streaming</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-to-facebooks-story-archives-quickly/"><u>2024 Approved Navigating to Facebook's Story Archives Quickly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-amd-graphics-drivers-supports-windows-11-7-8-and-81-systems/"><u>Get Your AMD Graphics Drivers: Supports Windows 11, 7, 8, and 8.1 Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-no-fluff-just-facts-the-verdict-on-recordcast/"><u>In 2024, No Fluff, Just Facts The Verdict on RecordCast</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-keeping-windows-time-unchanged/"><u>Mastery over Keeping Windows Time Unchanged</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-silent-hurdles-in-cs-go-expert-tips-on-microphone-repair/"><u>Overcome Silent Hurdles in CS: GO - Expert Tips on Microphone Repair</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/playstyles/"><u>Playstyles:</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y27s-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y27s and Browser | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolving-common-speaker-hum-and-buzz-issues/"><u>Quick Fixes: Resolving Common Speaker Hum and Buzz Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-audio-issues-in-google-chrome/"><u>Resolved: Fixing Audio Issues in Google Chrome</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-skypes-sound-problems-in-windows-11-a-step-by-step-mic-fix-guide/"><u>Resolving Skype's Sound Problems in Windows 11: A Step-by-Step Mic Fix Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy XCover 7 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-the-craft-of-looped-visuals-for-social-media-success/"><u>[Updated] 2024 Approved Mastering the Craft of Looped Visuals for Social Media Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-digital-expression-the-joy-of-creating-metaverse-memes/"><u>[Updated] 2024 Approved Unlocking Digital Expression The Joy of Creating Metaverse Memes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pro-game-documentation-capturing-roblox-experiences-with-a-mac-in-focus/"><u>[Updated] Pro Game Documentation Capturing Roblox Experiences with a Mac in Focus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-menace-black-ops-cold-war-pc-troubleshooting-guide/"><u>Fixing the Silent Menace: Black Ops Cold War PC Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-resolve-compatibility-issues-with-lg-usb-drivers-on-windows-11-8-and-7/"><u>How to Resolve Compatibility Issues with LG USB Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-when-your-lucidsound-ls30-mic-fails-to-work/"><u>How to Resolve Problems When Your LucidSound LS30 Mic Fails to Work</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-compatibility-woes-fix-your-programs-in-windows/"><u>No More Compatibility Woes: Fix Your Programs in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-your-pcs-audio-settings-on-windows-11-tips-and-tricks/"><u>Optimizing Your PC's Audio Settings on Windows 11: Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-advantage-unveiling-steams-benefits/"><u>The Ultimate Gaming Advantage: Unveiling Steam’s Benefits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unresponsive-nvidia-output-errors-expert-ways-to-get-your-graphics-card-back-online/"><u>Unresponsive Nvidia Output Errors? Expert Ways to Get Your Graphics Card Back Online</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-itel-p55plus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Itel P55+ Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

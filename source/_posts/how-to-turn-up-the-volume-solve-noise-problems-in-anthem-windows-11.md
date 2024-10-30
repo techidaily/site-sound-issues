@@ -1,7 +1,7 @@
 ---
 title: "How to Turn Up the Volume: Solve Noise Problems in Anthem (Windows 11)"
-date: 2024-10-23T17:58:54.163Z
-updated: 2024-10-24T21:27:42.621Z
+date: 2024-10-23T17:01:45.258Z
+updated: 2024-10-30T16:19:57.500Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ We’ve seen users reporting the microphone not working after they updated to Wi
  1\. If you’re using an**external microphone** , make sure it’s correctly connected to your PC.  
  2\. If you’re using a**headset mi** c, make sure it’s not set to mute on your headset.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Configure the input device
 
  The first fix you can try is to set up the input device, the microphone you’re using, correctly and adjust the recording volume. Here’s how to do it on Windows 11:
@@ -45,16 +52,16 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
 
  You can check your microphone to see if it works now. If it doesn’t, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Allow apps to access your microphone
 
@@ -63,29 +70,17 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 1. Press the**Windows logo key** on your keyboard, or**click the magnifier icon on the taskbar** . Then, search for**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Enable the microphone for recording
 
@@ -94,26 +89,27 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 1. On the taskbar, right-click the**speaker icon** and select**Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. Scroll down and click**More sound settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-13-21-2.png)
 3. Under the**Recording tab** , enable your microphone. If you can’t find it, right-click anywhere empty and select**Show Disabled devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this fix doesn’t solve your problem, try the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update the audio drivers
 
@@ -132,13 +128,6 @@ If this fix doesn’t solve your problem, try the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
@@ -155,6 +144,14 @@ If this fix doesn’t solve your problem, try the next one.
 2. Run the software. Fortect will start a deep scan of your system. The process may take a while.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the microphone or other sound issues, you can click **START REPAIR** to fix them.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, feel free to contact their support team.
@@ -181,21 +178,20 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-add-fade-inout-premiere-pro/"><u>[New] Add Fade In/Out Premiere Pro</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[New] In 2024, The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-androids-top-12-virtual-creature-experiences/"><u>[Updated] 2024 Approved Android's Top 12 Virtual Creature Experiences</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-freeze-the-fun-screenshots-and-recording-in-win10/"><u>[Updated] In 2024, Freeze the Fun Screenshots & Recording in Win10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-xs-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone XS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/e-fables-enthralling-channel-names-for-epicureans/"><u>Foodie Fables Enthralling Channel Names for Epicureans</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-rid-of-the-redundant-essential-app-removals-in-windows/"><u>Get Rid of the Redundant: Essential App Removals in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-hp-laptops-silent-problem-a-comprehensive-fix-for-lack-of-sound/"><u>Solve Your HP Laptop's Silent Problem: A Comprehensive Fix for Lack of Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-silent-pc-resolving-windows-11-update-sound-issues/"><u>Solve Your Silent PC - Resolving Windows 11 Update Sound Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-setup-of-idt-advanced-audio-codec-driver-in-windows-11-environments/"><u>Step-by-Step Setup of IDT Advanced Audio CODEC Driver in Windows 11 Environments</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/synchronize-perfectly-advanced-techniques-for-overcoming-audio-delay-challenges/"><u>Synchronize Perfectly: Advanced Techniques for Overcoming Audio Delay Challenges</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-for-realtek-microphone-not-working-problems-on-any-device/"><u>The Ultimate Solution for 'Realtek Microphone Not Working' Problems on Any Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-turtle-beach-mic-heres-how-you-can-fix-it/"><u>Trouble with Your Turtle Beach Mic? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-interruptions-in-windows-11-a-comprehensive-guide/"><u>Troubleshooting Audio Interruptions in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-setup-integrating-amazon-firestick-with-cellular-data-networks-on-mobile-phones/"><u>Wireless Setup: Integrating Amazon Firestick with Cellular Data Networks on Mobile Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-covert-measures-for-efficient-home-based-learning/"><u>[New] Covert Measures for Efficient Home-Based Learning</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>[Updated] Harnessing Technology The Art of Capturing iOS Devices in Media</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-easy-to-follow-guide-adding-snapchat-to-your-mac-os/"><u>[Updated] In 2024, Easy-to-Follow Guide Adding Snapchat to Your Mac OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-softer-beats-with-ableton/"><u>2024 Approved Crafting Softer Beats with Ableton</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revealing-the-top-notch-free-srt-translators-for-your-needs/"><u>2024 Approved Revealing the Top-Notch FREE SRT Translators for Your Needs</u></a></li>
+<li><a href="https://win-great.techidaily.com/are-files-deleted-forever-when-placed-in-the-recycle-bin/"><u>Are Files Deleted Forever When Placed in the Recycle Bin?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-sound-problems-in-turtle-beach-recon-70-mics/"><u>Diagnosing and Fixing Sound Problems in Turtle Beach Recon 70 Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-on-your-lenovo-laptop-or-desktop/"><u>Expert Tips for Restoring Sound on Your Lenovo Laptop or Desktop</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-nonfunctional-microphone-on-your-hyperx-cloud-alpha-troubleshooting-tips/"><u>Fixing the Nonfunctional Microphone on Your HyperX Cloud Alpha - Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-astro-a10-mic-working-perfectly-again-expert-fixes-revealed/"><u>Get Your Astro A10 Mic Working Perfectly Again - Expert Fixes Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-restore-functionality-of-the-corsair-virtuoso-mic/"><u>How To Repair and Restore Functionality of the Corsair Virtuoso Mic</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a54-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A54 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-high-pitch-noise-interruptions-in-windows-system-sounds/"><u>Resolve High Pitch Noise Interruptions in Windows System Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-a-guide-to-restoring-your-obs-desktop-sound/"><u>Solving Audio Issues: A Guide to Restoring Your OBS Desktop Sound</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Black Ops Cold War: Resolving Voice Chat Issues"
-date: 2024-10-19T20:52:21.871Z
-updated: 2024-10-24T18:02:44.254Z
+date: 2024-10-25T16:36:11.341Z
+updated: 2024-10-30T16:33:19.641Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 5. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Origin and Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow Origin to access your microphone
 
  The voice chat not working in Apex Legends error may happen if you have not allowed Origin to access your microphone.
@@ -50,28 +43,15 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-245.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In**Allow apps to access your microphone** , and turn on**the switch** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-246.png)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to**Allow desktop apps to access your microphone** , turn on**the switch** .
@@ -98,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the **Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
@@ -111,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your microphone is set as default in Windows
@@ -137,6 +124,13 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Configure in-game settings
 
  It is also important that you configured the audio settings right in order for the microphone to work properly.
@@ -151,13 +145,6 @@ Here is how to configure in-game settings:
 
 ![This image has an empty alt attribute; its file name is image-261-1024x700.png](https://images.drivereasy.com/wp-content/uploads/2019/10/image-261-1024x700.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Open Apex Legends, then go to**Settings > AUDIO** and set the **Voice Chat Record Mode** to **Push to Talk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-262-1024x576.png)
@@ -167,6 +154,13 @@ Here is how to configure in-game settings:
  Still no joy? Please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest game patch
 
@@ -186,16 +180,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **Apex Legends** and uninstall it too.
 
@@ -229,17 +223,20 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-exclusive-list-of-the-top-10-digital-recording-apps/"><u>[New] Exclusive List of the Top 10 Digital Recording Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerating-productivity-microsoft-azure-speech-recognition/"><u>Accelerating Productivity Microsoft Azure Speech Recognition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/all-you-need-to-know-about-mobizens-screen-capture-for-2024/"><u>All You Need to Know About Mobizen's Screen Capture for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/arctis-7-user-manual-correcting-unwanted-sounds-in-your-headset-while-using-windows-os/"><u>Arctis 7 User Manual: Correcting Unwanted Sounds in Your Headset While Using Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-microphone-issues-on-your-razer-barracuda-x-solutions-for-windows-11-and-10-users/"><u>Fixing Microphone Issues on Your Razer Barracuda X - Solutions for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-best-practices-the-8-truly-effective-promotion-techniques/"><u>In 2024, Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-moves-for-unlocking-the-calculator-in-windows-11/"><u>Key Moves for Unlocking the Calculator in Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-stereo-amplifiers-on-the-market-expert-picks-for-2n24/"><u>Leading Stereo Amplifiers on the Market - Expert Picks for 2N24</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/on-the-go-internet-solution-with-tp-links-lightweight-travel-router-wr902ac/"><u>On-the-Go Internet Solution with TP-Link's Lightweight Travel Router (WR902AC)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-bypass-tools-to-bypass-lock-screen-oppo-a1x-5g-by-drfone-android-unlock-android-unlock/"><u>Oppo Bypass Tools to Bypass Lock Screen(Oppo A1x 5G)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-speakers-solutions-to-conexant-smartaudio-hds-lack-of-sound-on-windows-10-systems/"><u>Troubleshooting Silent Speakers: Solutions to Conexant SmartAudio HD's Lack of Sound on Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unsticking-your-game-sound-a-step-by-step-fix-for-runmusr-mic-problems/"><u>Unsticking Your Game Sound: A Step-by-Step Fix for RUNMUSR Mic Problems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-start-at-vectors-beginning-a-short-overview-of-forms-and-tools/"><u>[New] In 2024, Start at Vector's Beginning A Short Overview of Forms & Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-newbie-vlogger-tips-simple-video-concepts-for-2024/"><u>[New] Newbie Vlogger Tips Simple Video Concepts for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-13-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 13 for Free</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-newcomers-primer-to-av1-codecs/"><u>A Newcomer’s Primer to AV1 Codecs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-logitech-g733-microphone-connectivity-problems/"><u>Diagnosing and Resolving Logitech G733 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-free-youtube-outro-kings-6-top-suggestions/"><u>In 2024, Free YouTube Outro Kings 6 TOP Suggestions!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-m6-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco M6 5G Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-microphone-tests-the-fast-and-easy-way-for-crystal-clear-audio/"><u>Mastering Microphone Tests: The Fast and Easy Way for Crystal Clear Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016725706-pubg-voice-not-working-discover-easy-fixes-for-uninterrupted-gaming-talks/"><u>PUBG Voice Not Working? Discover Easy Fixes for Uninterrupted Gaming Talks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-converting-dvdmedia-files-to-mp4-format-on-a-mac/"><u>Step-by-Step Guide: Converting DVDMedia Files to MP4 Format on a Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-unlocking-the-joys-of-ifunnys-meme-app/"><u>Step-by-Step Unlocking the Joys of iFunny's Meme App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-maximizing-volume-settings-on-your-pc-running-windows-10/"><u>Step-by-Step: Maximizing Volume Settings on Your PC Running Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-excessive-cpu-use-in-phasmophobia-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Use in Phasmophobia: Effective Solutions and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-corsair-hs35-microphone-problems-on-pc-operating-systems/"><u>Troubleshooting Tips for Corsair HS35 Microphone Problems on PC Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-logitech-g230-mic-solutions-for-sound-problems/"><u>Troubleshooting Your Logitech G230 Mic: Solutions for Sound Problems</u></a></li>
 </ul></div>
 

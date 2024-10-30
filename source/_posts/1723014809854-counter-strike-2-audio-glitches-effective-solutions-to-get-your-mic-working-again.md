@@ -1,7 +1,7 @@
 ---
 title: "Counter-Strike 2 Audio Glitches: Effective Solutions to Get Your Mic Working Again!"
-date: 2024-09-05T03:59:17.085Z
-updated: 2024-09-06T03:59:17.085Z
+date: 2024-10-27T17:26:47.824Z
+updated: 2024-10-30T16:10:44.014Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 Launched 6 years ago,[Rainbow Six Siege](https://www.epicgames.com/store/en-US/p/rainbow-six-siege?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=carnation) remains one of the hottest shooters. Though the game is lit, many gamers still report being bugged by the**chat not working** issue. If you happen to be on the same boat, don’t worry. Here we put together some working fixes down below, try them and get your comms back right away.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Just work your way down until you find the one that does the trick.
@@ -40,27 +28,28 @@ Launched 6 years ago,[Rainbow Six Siege](https://www.epicgames.com/store/en-US/p
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your mic is working
 
  Before attempting anything more complicated, you need to**make sure your microphone is functioning** . Check if your device is securely plugged into the correct port, and if the cable is in good condition. Also if you’re using a headset with a physical switch, make sure it’s turned on and set to a moderate volume. If possible, test your device on another computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-port.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Audio Ports
 
  If you believe that your mic is working properly, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the sound settings on your PC
 
@@ -69,33 +58,22 @@ Audio Ports
 1. On your keyboard, press**Win+R** (the Windows logo button and the r button) at the same time to invoke the Run box. Type or paste **ms-settings:sound** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to your desired one. Then click**Device properties and test microphone** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
 Now you can test your mic in Rainbow Six Siege.
 
  If this fix doesn’t give you luck, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -136,31 +114,33 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, reboot your PC and test the mic in Rainbow Six Siege.
 
  If this fix doesn’t do the trick for you, simply move on to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Set your in-game audio properly
 
@@ -170,29 +150,26 @@ Here’s how:
 2. Navigate to the**AUDIO** tab. Set**Master Volume** to a moderate value,**Voice Chat Volume** to max (100).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/r6-in-game-voice-chat-1.jpg)
 3. You can set**Voice Chat Record Mode** to**Open** depending on your use case. Set**Voice Chat Record Level** to**100** , then choose a moderate value for**Voice Chat Record Threshold** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/r6-in-game-voice-chat-2.jpg)
 4. Now return to your game and test the game chat.
+
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If changing the audio settings can’t get your chat working, you can continue to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Check if it’s a server issue
 
  If none of the fixes above work for you, maybe you shouldn’t worry too much. According to some games, it might be just a server glitch. And feedback suggests that this error occurs occasionally. To find out if it’s simply a server issue, you can check the[Ubisoft Support Twitter](https://twitter.com/UbisoftSupport) for the latest information.
@@ -209,8 +186,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +193,19 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-experts-pick-essential-plugins-to-elevate-your-ae-projects/"><u>[New] Expert's Pick Essential Plugins to Elevate Your AE Projects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revolutionize-vision-the-best-10-techniques-for-text-effects/"><u>[New] Revolutionize Vision - The Best 10 Techniques for Text Effects</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-direct-the-degrees-cutting-edge-youtube-video-manipulation/"><u>[Updated] Direct the Degrees Cutting-Edge YouTube Video Manipulation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhance-real-time-periscope-broadcasting-for-2024/"><u>[Updated] Enhance Real-Time Periscope Broadcasting for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-superior-drones-at-your-fingertips/"><u>[Updated] Superior Drones at Your Fingertips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-audiovisual-transmitters/"><u>Comprehensive Guide to Audiovisual Transmitters</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-interruptions-on-windows-107-a-step-by-step-guide/"><u>How to Resolve Audio Interruptions on Windows 10/7 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-filmora-alternative-similar-features-at-zero-cost-for-2024/"><u>New Free Filmora Alternative Similar Features at Zero Cost for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-your-hangouts-audio-problems-in-minutes-with-these-tips/"><u>Repair Your Hangouts Audio Problems in Minutes with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-for-the-astro-a20-microphone-malfunction/"><u>Simple Solutions for the Astro A20 Microphone Malfunction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-get-your-fortnite-voice-chat-up-and-running-today/"><u>Troubleshooting Guide: Get Your Fortnite Voice Chat Up & Running Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-the-conexant-smartaudio-hd-silent-problem-on-windows-11/"><u>Troubleshooting Steps: Resolving the Conexant SmartAudio HD Silent Problem on Windows 11</u></a></li>
+</ul></div>
 

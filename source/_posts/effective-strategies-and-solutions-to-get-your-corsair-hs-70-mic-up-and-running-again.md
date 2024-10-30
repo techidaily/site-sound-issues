@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies and Solutions to Get Your Corsair HS 70 Mic Up and Running Again
-date: 2024-09-05T04:02:43.337Z
-updated: 2024-09-06T04:02:43.337Z
+date: 2024-10-29T16:56:59.084Z
+updated: 2024-10-30T17:16:21.432Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes Effective Strategies and Solutions to Get Your C
 thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a13a529d9a3d917fda81ba43e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting Your Modern Warfare Voice Chat Up and Running Again – Solutions Inside
 
 Many players are reporting that they can hear others clearly but the voice chat is not working in Call of Duty: Modern Warfare. If you’re experiencing the same problem, don’t worry. We’ve put together every possible fix for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -53,17 +35,34 @@ Many players are reporting that they can hear others clearly but the voice chat 
 2. Go to the**AUDIO** tab and set**Voice Chat** to**Enabled** .  
 ![voice chat enabled](https://images.drivereasy.com/wp-content/uploads/2021/01/Voice-chat-enabled.jpg)
 3. If your**Voice Chat Recording Mode** is set to**Open Mic** , set Set **Open Mic Recording Threshold** to the lowest setting/minimum (we recommend 0.00). Setting this level too high may prevent your voice from being heard by other players.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-low.png)
 4. But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Apply the settings. Go back to your game and test the sound issues.
 
 **Note:** If you’re on Xbox, please check to ensure that your Xbox privacy settings are set appropriately for**Crossplay** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Perform a Windows Update
 
@@ -72,20 +71,23 @@ Many players are reporting that they can hear others clearly but the voice chat 
 1. In the Windows Search bar, start typing**check for updates** , and select**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates-windows.jpg)
 2. Install the available updates.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Once complete, launch Modern Warfare again to see if voice chat is working now.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Check sound settings
 
  Many players find their headset mic is not set to the default input device, thus causing the voice chat not to work on Modern Warfare. Therefore, you need to make sure your headset mic is set to default. Here’s how:
@@ -95,20 +97,8 @@ Many players are reporting that they can hear others clearly but the voice chat 
 2. Select the **Recording** tab. Right-click on the device that you’re currently using (your headphone) and then select **Set as Default Device** and then **Set as Default Communication Device** from its context menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default.jpg)
 3. Right-click your default microphone and then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
 4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
 5. Click **OK** to save the changes.
 6. Play Modern Warfare and test if others can hear you this time.
@@ -139,21 +129,16 @@ Here’s how to update your drivers with Driver Easy:
 3. Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the FREE version), and then manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have the full support and a 30-day money back guarantee).
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Disable the SIP-ALG setting
 
  Use a wired Ethernet connection whenever possible, because a wireless connection can cause latency and affect VoIP calls (your voice chat). But if you’re using Wi-Fi, make sure you have disabled SIP ALG.
@@ -181,8 +166,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +173,23 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-premier-pro-ultimate-2023-template-collection-free-for-2024/"><u>[New] Premier Pro Ultimate 2023 Template Collection (FREE) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>[Updated] 2024 Approved Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-decoding-the-mystery-of-tiktoks-pfp-emoji/"><u>2024 Approved Decoding the Mystery of TikTok's PFP Emoji</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unleash-creativity-the-best-9-gif-recorders-to-preserve-windows-animation/"><u>2024 Approved Unleash Creativity The Best 9 GIF Recorders to Preserve Windows Animation</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-disruption-diagnosis-and-fix-for-windows-710-users-say-goodbye-to-sound-issues/"><u>Audio Disruption Diagnosis & Fix for Windows 7/10 Users - Say Goodbye to Sound Issues!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/camsphere-exploration-what-else-can-we-see-for-2024/"><u>CamSphere Exploration What Else Can We See for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-guide-silencing-the-annoying-buzz-in-your-audio-system/"><u>DIY Guide: Silencing the Annoying Buzz in Your Audio System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-black-ops-cold-war-resolving-voice-chat-issues/"><u>Fixing Black Ops Cold War: Resolving Voice Chat Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-restore-functionality-of-the-lucidsound-ls30-microphone/"><u>Fixing Issues: How to Restore Functionality of the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/lightninglapse-delaydox-video-for-2024/"><u>LightningLapse DelayDox Video for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-a-malfunctioning-steelseries-arctis-pro-headset-mic/"><u>Step-by-Step Repair Tips for a Malfunctioning SteelSeries Arctis Pro Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-unplugged-nvidia-card-issues-get-back-to-gaming/"><u>Step-by-Step Solutions to Unplugged Nvidia Card Issues - Get Back To Gaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/trailblazing-trends-the-top-5-tips-for-youtube-triumph-for-2024/"><u>Trailblazing Trends The Top 5 Tips for YouTube Triumph for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016140061-troubleshooting-tips-for-non-functional-corsair-hs35-mic-on-windows-pcs-solution-found/"><u>Troubleshooting Tips for Non-Functional Corsair HS35 Mic on Windows PCs – Solution Found</u></a></li>
+</ul></div>
 

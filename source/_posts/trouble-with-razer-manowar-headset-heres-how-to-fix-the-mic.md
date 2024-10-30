@@ -1,7 +1,7 @@
 ---
 title: Trouble with Razer ManO’War Headset? Here’s How to Fix the Mic
-date: 2024-10-21T16:01:04.353Z
-updated: 2024-10-24T19:17:54.712Z
+date: 2024-10-29T17:25:42.462Z
+updated: 2024-10-30T16:55:57.129Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 
  If everything is fine with your audio device, the problem may lie somewhere else. Read on to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Allow the game to access your microphone
 
  If you’re having trouble with your microphone, make sure your privacy settings are configured properly to allow the game to access your microphone. Here’s how:
@@ -54,25 +61,18 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/privacy.jpg)
 3. In the left panel, select**Microphone** . Under**Allow desktop apps to access your microphone** , make sure the toggle is set to**ON** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/microphone-allow-desktop-apps.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve done these, relaunch Vanguard to see if your voice chat works properly.
 
 If this fix doesn’t do the trick, check out the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -94,10 +94,10 @@ If this fix doesn’t do the trick, check out the next one.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
@@ -108,13 +108,6 @@ If this fix doesn’t do the trick, check out the next one.
 
  If updating the audio driver doesn’t work for you, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Check sound settings
 
  For your microphone or headset to work in Vanguard, you need to make sure your default device is set up correctly in Windows and the Battle.net client. Here’s how:
@@ -122,6 +115,14 @@ If this fix doesn’t do the trick, check out the next one.
 1. On your keyboard, press the**Windows logo key** and**R** together to open the Run dialog box. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headphones** you want to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Navigate to the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
@@ -129,7 +130,22 @@ If this fix doesn’t do the trick, check out the next one.
 5. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 6. Select**Voice Chat** , then set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Click**Done** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now launch Vanguard and see if you can talk to your teammates.
 
@@ -144,13 +160,6 @@ If the voice chat still doesn’t work, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-crossplay-on.jpg)
 3. Navigate to the**AUDIO** tab. Under the**Voice Chat** section, make sure**VOICE CHAT** is set to**On** . Set**VOICE CHAT DEVICE** and**MICROPHONE DEVICE** to**Default Communication Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-on.jpg)
 4. According to your personal preference, set**MICROPHONE ACTIVATION MODE** to**Open Mic** or**Push to Talk** . If you set it to**Open Mic** , make sure**OPEN MIC ACTIVATION THRESHOLD** is set to**3** . But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
@@ -162,10 +171,10 @@ Now you can restart Vanguard and check if the voice chat is working.
 If your problem remains, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
@@ -175,13 +184,6 @@ If your problem remains, try the last fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
@@ -209,16 +211,17 @@ If your problem remains, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-viewers-verdict-on-scopes-for-2024/"><u>[New] Viewer's Verdict on Scopes for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-cutting-edge-video-processing-free-hd1080p-from-ff-videos/"><u>2024 Approved Cutting Edge Video Processing Free HD/1080P From FF Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here's The Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-solve-mpow-microphone-problems-on-windows-systems/"><u>Diagnose and Solve MPOW Microphone Problems on Windows Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cyberlinks-screen-recorder-an-expert-evaluation/"><u>In 2024, Cyberlink's Screen Recorder An Expert Evaluation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-nord-n30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus Nord N30 5G Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-revolutionize-your-webcam-experience-now/"><u>In 2024, Revolutionize Your Webcam Experience Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015865731-ultimate-fix-resolve-the-steelseries-arctis-headset-mic-not-working-issue-today/"><u>Ultimate Fix: Resolve the SteelSeries Arctis Headset Mic Not Working Issue Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-windows-10s-muffled-sounds-steps-to-maximize-volume/"><u>Ultimate Fixes for Windows 10'S Muffled Sounds: Steps to Maximize Volume</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ling-youtubes-monetization-process/"><u>Unveiling YouTube's Monetization Process</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-redefining-content-creation-beyond-vimeo-tools/"><u>[New] 2024 Approved Redefining Content Creation Beyond Vimeo Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/8-proven-solutions-to-correct-the-bluish-hue-on-your-television-display/"><u>8 Proven Solutions to Correct the Bluish Hue on Your Television Display</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/blue-yeti-not-detected-essential-fixes-to-get-it-working-again/"><u>Blue Yeti Not Detected? Essential Fixes to Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-restore-functionality-of-the-corsair-hs35-mic-on-a-windows-computer/"><u>Effective Ways to Restore Functionality of the Corsair HS35 Mic on a Windows Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-audio-stuttering-when-using-bluetooth-headsets-with-windows-11-or-windows-10/"><u>Eliminating Audio Stuttering When Using Bluetooth Headsets with Windows 11 or Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-m4v-konverter-fur-gifs-zu-videos-im-web-movavi/"><u>Gratis M4V Konverter Für GIFs Zu Videos Im Web - Movavi</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-balance-youtube-with-a-full-time-job/"><u>How to Balance YouTube with a Full-Time Job</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-sounds-back-in-anthem-after-fixing-windows-issues/"><u>How to Get Sounds Back in Anthem After Fixing Windows Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-sound-on-your-windows-11-machine/"><u>Troubleshooting PC Audio Issues: Fixing Low Sound on Your Windows 11 Machine</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-creating-stunning-travel-videos-expert-advice-and-techniques/"><u>Ultimate Guide to Creating Stunning Travel Videos: Expert Advice & Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-potential-of-the-aeious-ny-portable-solar-generator-your-reliable-pure-sine-wave-inverter-partner-in-healthcare-environments/"><u>Unveiling the Potential of the Aeious Ny Portable Solar Generator - Your Reliable Pure Sine Wave Inverter Partner in Healthcare Environments</u></a></li>
 </ul></div>
 

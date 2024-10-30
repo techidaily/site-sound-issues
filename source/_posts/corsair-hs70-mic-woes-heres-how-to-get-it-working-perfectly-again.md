@@ -1,7 +1,7 @@
 ---
 title: Corsair HS70 Mic Woes? Here's How to Get It Working Perfectly Again
-date: 2024-10-22T16:03:56.266Z
-updated: 2024-10-24T18:31:59.840Z
+date: 2024-10-28T17:25:27.200Z
+updated: 2024-10-30T16:26:54.961Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ If your Corsair HS70 Mic Stopped Working on Windows, don’t worry. You can use 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to your microphone
@@ -57,19 +57,33 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-146.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-150.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Change** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-158.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you see ‘Microphone access for this device’ is**On** , it means microphone is allowed to access on your computer. Leave it and**head to the next step** .
@@ -81,13 +95,6 @@ To do this, you can follow these steps:
  5) Make sure**Allow apps to access your microphone** is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-160.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -103,6 +110,13 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-161.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In Control Panel, View by**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-162.png)
@@ -111,27 +125,20 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-163.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select the**Recording** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-164.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you see microphone is disabled,**right click the device** and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-165.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t see microphone in the device list, you need to show it first, then enable it manually.
 
@@ -139,22 +146,22 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-166.png)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  b. Right click the microphone and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-167.png)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Right click the microphone again and select**Set as Default Device** .
 
@@ -171,13 +178,6 @@ To do this, you can follow these steps:
 10) Check to see if your Corsair HS70 mic is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
 
@@ -238,22 +238,20 @@ To do this, you can follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-logitech-g935-mic-not-working-on-windows/"><u>[Fixed] Logitech G935 Mic Not Working on Windows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-efficiently-add-youtube-playlists-to-your-website-interface/"><u>[New] Efficiently Add YouTube Playlists to Your Website Interface</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-video-capture-4-best-pc-and-mac-tools-for-2024/"><u>[New] Mastering Video Capture 4 Best PC & Mac Tools for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/humbnails-unleashed-elevate-your-video-presence-for-2024/"><u>[New] Thumbnails Unleashed Elevate Your Video Presence for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expertly-curated-5-best-android-screen-capture-options/"><u>[Updated] 2024 Approved Expertly Curated 5 Best Android Screen Capture Options</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-solving-movie-editing-queries-with-filmora-guidance/"><u>[Updated] 2024 Approved Solving Movie-Editing Queries with Filmora Guidance</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-laptop-video-edits-going-off-inshot/"><u>[Updated] In 2024, Laptop Video Edits Going Off-Inshot</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-the-newly-released-apple-tv-4k-series-4-explored/"><u>Comprehensive Review: The Newly Released Apple TV 4K Series 4 Explored</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-how-to-restore-microphone-functionality-in-csgo/"><u>Fixes & Solutions: How to Restore Microphone Functionality in CSGO</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-resolving-your-hearthstone-audio-problem/"><u>Fixing Silent Gameplay: Resolving Your Hearthstone Audio Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-speaker-emitting-crackles-on-windows-107-systems-a-complete-solution/"><u>How to Fix a Speaker Emitting Crackles on Windows 10/7 Systems - A Complete Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-microphone-problems-when-playing-sea-of-thieves-on-your-pc/"><u>How to Fix Microphone Problems when Playing Sea of Thieves on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-tozo-t6-printer-in-windows-11-environment/"><u>How to Repair a Non-Functional Tozo T6 Printer in Windows 11 Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-your-runmus-gaming-headsets-microphone/"><u>How to Restore Functionality of Your Runmus Gaming Headset's Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-in-a-laptop-with-no-output/"><u>How to Restore Sound Functionality in a Laptop with No Output</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-exploring-the-youtube-content-manager-toolkit/"><u>In 2024, Exploring the YouTube Content Manager Toolkit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speed-demon-diy-kit-construct-your-own-mini-pc-for-unmatched-egpu-pcie-connectivity-leaving-thunderbolt-4-behind/"><u>Speed Demon DIY Kit: Construct Your Own Mini PC for Unmatched eGPU PCIe Connectivity, Leaving Thunderbolt 4 Behind</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-best-tools-for-transforming-your-spotify-mixes-into-youtube-channels/"><u>[New] 2024 Approved Best Tools for Transforming Your Spotify Mixes Into YouTube Channels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-secure-and-upgrade-your-video-conferences-top-10-recorder-choices/"><u>[New] Secure and Upgrade Your Video Conferences - Top 10 Recorder Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-smoothmoves-recordwatcher-study/"><u>[New] SmoothMoves RecordWatcher Study</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nveil-your-video-potential-streaming-google-meet-to-youtube-guide/"><u>[New] Unveil Your Video Potential Streaming Google Meet to YouTube Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-android-listening-tools/"><u>2024 Approved Premier Android Listening Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-addressing-logitech-g430-microphone-connectivity-problems/"><u>Effective Solutions for Addressing Logitech G430 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-your-steelseries-arctis-pro-headsets-mic-problem/"><u>How to Troubleshoot and Repair Your SteelSeries Arctis Pro Headset's Mic Problem</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-asus-rog-phone-8-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Asus ROG Phone 8 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-poco-x6-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Poco X6 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-manager-not-opening-solved/"><u>Realtek HD Audio Manager Not Opening [Solved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-lost-audio-a-step-by-step-fix-for-post-windows-10-upgrade-sound-problems/"><u>Reviving Lost Audio: A Step-by-Step Fix for Post-Windows 10 Upgrade Sound Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-sound-in-warzone-battles-for-gamers-troubleshooting-guide/"><u>Reviving Sound in Warzone Battles for Gamers: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-loss-of-volume-in-laptop-easy-fixes-applied/"><u>Troubleshooting Complete Loss of Volume in Laptop - Easy Fixes Applied</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-sound-problems-in-windows-7-easy-solutions/"><u>Troubleshooting HDMI Sound Problems in Windows 7: Easy Solutions</u></a></li>
 </ul></div>
 

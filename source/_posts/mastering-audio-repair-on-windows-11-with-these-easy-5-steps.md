@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Repair on Windows 11 with These Easy 5 Steps
-date: 2024-10-18T18:04:06.973Z
-updated: 2024-10-24T21:45:27.437Z
+date: 2024-10-29T17:41:53.670Z
+updated: 2024-10-30T16:58:36.191Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
  4) headphones are plugged in: your speakers might not work if you have the headphones in.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Turn off Audio Enhancements
 
  Audio enhancement feature is supposed to make your sound card work at its peak, but unfortunately, not all sound card hardware work well when it’s on. You can turn it off by:
@@ -56,24 +63,25 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881badde83bd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to **the Enhancement** tab, tick the box for**Disable all sound effects** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bcabb193b.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) See if your sound is back. If you still cannot get your sound back, choose Cancel here, and then repeat 2) and 3) with your other default device and have a try again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3: Update sound driver
 
@@ -93,13 +101,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596440101ae68.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the audio device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -114,16 +115,16 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Expand **Sound, video and game controllers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click your sound card driver, then click**Uninstall** .
 
@@ -139,13 +140,6 @@ Windows will then help you reinstall the driver.
 
  And if this still don’t work, please try the next step where we try using the generic audio driver that comes with Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5: Try generic audio driver provided by Windows 10
 
  1) On your keyboard, press**Windows key** and**X** at the same time, then click**Device Manager** .
@@ -157,10 +151,10 @@ Windows will then help you reinstall the driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click your sound card driver, then click**Update Driver Software…** .
@@ -175,22 +169,16 @@ Windows will then help you reinstall the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c2564577d.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click**High Definition Audio Device** , and**Next.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c28f9c29e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** at this prompt and continue.
 
@@ -201,10 +189,10 @@ Windows will then help you reinstall the driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c48369340.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if your sound is back.
@@ -228,24 +216,16 @@ Check if your sound is back.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-illuminating-insights-your-comprehensive-buying-guide-for-a-4k-display/"><u>[New] Illuminating Insights Your Comprehensive Buying Guide for a 4K Display</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-through-sns-hdr-effectiveness-and-hdr-competitors/"><u>[New] In 2024, Navigating Through SNS HDR Effectiveness & HDR Competitors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pros-picks-top-10-shaky-free-cameras-for-action/"><u>[New] Pro's Picks Top 10 Shaky-Free Cameras for Action</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-leveraging-youtube-luck-a-no-ad-earnings-blueprint-for-content-masters/"><u>[Updated] Leveraging YouTube Luck A No-Ad Earnings Blueprint for Content Masters</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-staying-relevant-essential-instagram-hashtags-for-success/"><u>[Updated] Staying Relevant Essential Instagram Hashtags for Success</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/breaking-the-quiet-barrier-effective-techniques-for-restoring-your-laptops-audio-output/"><u>Breaking the Quiet Barrier: Effective Techniques for Restoring Your Laptop's Audio Output</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722963971087-brother-mfc7360n-drivers-seamless-download-and-installation-for-windows-1187-users/"><u>Brother MFC7360N Drivers: Seamless Download & Installation for Windows 11/8/7 Users!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016363571-effortless-ways-to-eliminate-bluetooth-audio-lag/"><u>Effortless Ways to Eliminate Bluetooth Audio Lag</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-troubleshooting-the-absence-of-nvidia-high-definition-audio-output/"><u>Expert Advice for Troubleshooting the Absence of Nvidia High Definition Audio Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-restoring-microphone-functionality-in-steelseries-arctis-1/"><u>Expert Tips: Restoring Microphone Functionality in SteelSeries Arctis 1</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-error-1053-the-service-did-not-respond-to-the-start-or-control-request-in-a-timely-fashion/"><u>Fixed: Error 1053: The Service Did Not Respond to the Start or Control Request in a Timely Fashion</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-15-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 15 Pro Max Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-reno-9a-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo Reno 9A Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g230-mic-problem-solved-step-by-step-troubleshooting-tips/"><u>Logitech G230 Mic Problem Solved? Step-by-Step Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-onikuma-microphone-expert-tips-for-resolving-mic-not-working/"><u>Revive Your Onikuma Microphone: Expert Tips for Resolving 'Mic Not Working'</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-windows-scanner-a-step-by-step-guide/"><u>Reviving Your Windows Scanner: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016606425-stereo-speaker-mix-malfunction-repairs-get-your-left-and-right-channels-back-on-track/"><u>Stereo Speaker Mix Malfunction Repairs: Get Your Left and Right Channels Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015727900-the-latent-heat-of-fusion-for-ice-is-334-kjkg/"><u>The Latent Heat of Fusion for Ice Is 334 kJ/Kg.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-insta-video-edits-and-borders/"><u>[New] Step-By-Step Guide Insta Video Edits & Borders</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-google-hangouts-microphone-problem-fast-and-easy/"><u>Fix Your Google Hangouts Microphone Problem Fast and Easy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-get-your-realtek-mic-up-and-running-again/"><u>Fixing Issues: How To Get Your Realtek Mic Up And Running Again</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hardness-must-be-balanced-with-biocompatibility-to-prevent-damage-to-opposing-teeth-and-tissues/"><u>Hardness Must Be Balanced with Biocompatibility to Prevent Damage to Opposing Teeth and Tissues.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-ios-how-apples-latest-ocular-commands-empower-users-with-eye-control-on-iphones-and-ipads-insights/"><u>Revolutionizing iOS: How Apple's Latest Ocular Commands Empower Users with Eye-Control on iPhones and iPads - Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-guide-5-methods-to-securely-backup-your-iphone-applications/"><u>Simple Guide: 5 Methods to Securely Backup Your iPhone Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-mesh-wireless-routers-the-ultimate-guide/"><u>Top Mesh Wireless Routers : The Ultimate Guide</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/transformar-audio-aiff-em-formatos-compativeis-gratuitamente-com-o-movavi/"><u>Transformar Áudio AIFF Em Formatos Compatíveis Gratuitamente Com O Movavi!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-issues-with-discords-push-to-talk-feature/"><u>Troubleshooting: Fixing Issues with Discord's Push-to-Talk Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-my-logitech-g430-mic-not-working-proven-fixes-to-get-you-back-on-track/"><u>Why Is My Logitech G430 Mic Not Working? Proven Fixes to Get You Back on Track</u></a></li>
 </ul></div>
 

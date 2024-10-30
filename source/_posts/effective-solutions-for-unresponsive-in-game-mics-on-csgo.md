@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for Unresponsive In-Game Mics on CS:GO"
-date: 2024-10-23T20:26:25.399Z
-updated: 2024-10-24T17:31:05.605Z
+date: 2024-10-25T17:13:57.729Z
+updated: 2024-10-30T17:22:19.449Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  3) After those testing, see if the sound comes from your speakers.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your speakers related drivers
 
  An old, corrupted or missing driver related your speakers can also cause this error, like**a sound card driver** ,**a Bluetooth driver** (if yo’re using a Bluetooth speakers). You can solve it through updating the driver.
@@ -59,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -71,21 +78,7 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3\. Reset your sound controller
 
@@ -93,20 +86,27 @@ Or click **Update All**  to automatically download and install the correct versi
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdf8f58307f.png)**  and **R**  (at the same time) to invoke the Run command.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on your sound card to choose**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c40611eb6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Yes** .
 
@@ -137,18 +137,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-peak-performance-memory-for-a7s-ii/"><u>[New] Peak Performance Memory for A7S II</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>[New] Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-optimizing-performance-a-deep-dive-into-streamlabs-obs/"><u>[Updated] 2024 Approved Optimizing Performance A Deep Dive Into Streamlabs OBS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-maximize-moments-with-engaging-tasks-while-embracing-your-favorite-talk-shows/"><u>[Updated] Maximize Moments with Engaging Tasks While Embracing Your Favorite Talk Shows</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-stand-out-and-thrive-strategies-for-staff-recognition-at-vimeo/"><u>2024 Approved Stand Out and Thrive Strategies for Staff Recognition at Vimeo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-groans-with-crackling-noise-heres-how-to-fix-it/"><u>Cyberpunk Groans with Crackling Noise? Here's How to Fix It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-resolve-logitech-g430-microphone-issues-quickly/"><u>Expert Tips to Resolve Logitech G430 Microphone Issues Quickly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/faca-compras-rapidamente-com-nossos-precos-competitivos-hoje/"><u>Faça Compras Rapidamente Com Nossos Preços Competitivos Hoje!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-and-warping-sounds-in-windows-11-and-7-solutions-revealed/"><u>How to Fix Audio Glitches and Warping Sounds in Windows 11 & 7 - Solutions Revealed!</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/ifind-data-rescue-infographic-understanding-the-six-major-categories-of-lost-or-damaged-data-powered-by-ifind-software/"><u>IFind Data Rescue Infographic: Understanding the Six Major Categories of Lost or Damaged Data - Powered by iFinD Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/make-a-living-with-reddit-even-for-novices-top-13-easy-strategies/"><u>Make a Living with Reddit (Even for Novices!) Top 13 Easy Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-skype-audio-problems-with-simple-fixes/"><u>Resolve Your Skype Audio Problems with Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-your-hyperx-cloud-alpha-s-headset-microphone-functionality/"><u>Solved: How to Restore Your HyperX Cloud Alpha S Headset Microphone Functionality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ini-mic-marvels-affordable-sound-for-youtube-creators/"><u>[New] Mini-Mic Marvels Affordable Sound for YouTube Creators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-in-class-no-charging-switch-replicas/"><u>[Updated] 2024 Approved Best-in-Class, No-Charging Switch Replicas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-clarity-powerpoint-and-webcam-synergy/"><u>[Updated] In 2024, Capturing Clarity PowerPoint and Webcam Synergy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-and-techniques-for-repairing-broken-audio-in-fortnite-games/"><u>Expert Tips and Techniques for Repairing Broken Audio in Fortnite Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonious-hits-free-download-zones-for-skype-tunes-for-2024/"><u>Harmonious Hits Free Download Zones for Skype Tunes for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-iphone-screen-and-clear-sound-distortions-effectively/"><u>How To Fix Silent iPhone Screen & Clear Sound Distortions Effectively</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-ultimate-compendium-hands-free-device-interaction/"><u>In 2024, The Ultimate Compendium Hands-Free Device Interaction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-13-mini-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 13 mini i Do? Get Answers here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016705383-quick-fixes-for-those-irritating-cracks-in-your-headphones/"><u>Quick Fixes for Those Irritating Cracks in Your Headphones!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-management-problems-heres-how-to-solve-them/"><u>Realtek HD Audio Management Problems? Here’s How to Solve Them</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-wow-performance-lags-a-step-by-step-guide/"><u>Resolving 'WoW' Performance Lags: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-eliminating-audio-issues-in-black-ops-cold-war-for-pc-players/"><u>Solved! Eliminating Audio Issues in Black Ops: Cold War for PC Players</u></a></li>
 </ul></div>
 

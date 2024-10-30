@@ -1,7 +1,7 @@
 ---
 title: Laptop Sound Issues Resolved - Repairing Silent Speakers Easily
-date: 2024-10-20T20:24:58.824Z
-updated: 2024-10-24T17:27:36.103Z
+date: 2024-10-28T16:44:47.978Z
+updated: 2024-10-30T17:50:53.086Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ If you’re playing _World of Warcraft(WoW)_ and the audio cuts out abruptly, or
 7. **[Clear temporary game files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the Blizzard Battle.net app](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check cables and volume
 
  If you don’t have any sound at all in_WoW_ , you need to check your audio device is well-connected to your computer, and it’s not muted. Follow the instructions below:
@@ -60,6 +53,13 @@ If your cables and volume are okay, move on to the fix below.
 **1)** On your keyboard, press the Windows logo key and R at the same time to open the Run dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-664.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Type**mmsys.cpl** , then press the Enter key on your keyboard.
 
@@ -93,24 +93,38 @@ To disable the Audio Enhancements, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-674.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**Enhancements tab** , then check the box next to**Disable all enhancements** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-683.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  \*If you don’t have the Enhancements tab, click the**Advanced tab** instead, then uncheck**Enable audio enhancements** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-685.png)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click**APPLY > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-684.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If turning off Audio Enhancements didn’t fix your issue, read on and try the fix below.
 
@@ -156,13 +170,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: **Reset the game settings**
 
  Incompatible in-game settings can cause _World of Warcraft_ audio issues. Try restoring your in-game settings to default to see if that fixes your issue. Follow the instructions below:
@@ -178,13 +185,6 @@ OR
 **3)** Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-647.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch the Battle.net launcher and your game.
 
@@ -223,16 +223,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -240,14 +240,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810-5.png)
 
- Try launching _WoW_ again to see if the sound works properly now. If not, move on to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Try launching _WoW_ again to see if the sound works properly now. If not, move on to the next fix.
 
 ### Fix 7: Clear temporary game files
 
@@ -275,6 +275,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-657.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Relaunch_WoW_ to test your issue.
 
  If the_WoW_ sound issue persists, don’t fret. There is still one more fix to try.
@@ -287,16 +294,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-361-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
 
@@ -307,13 +314,6 @@ OR
  If you’re prompted for permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-14_12-24-28-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard launcher.
 
@@ -342,17 +342,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-best-ios-tools-for-psp-gaming-top-5-for-2024/"><u>[New] Best iOS Tools for PSP Gaming, Top 5 for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instastars-academy-how-to-amass-1000plus-followers-each-month/"><u>[New] InstaStars Academy How to Amass 1,000+ Followers Each Month</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/effective-strategies-to-craft-influential-patient-stories-on-film-for-2024/"><u>Effective Strategies to Craft Influential Patient Stories on Film for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-magic-5-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor Magic 5 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-avoid-virtual-reality-queasiness-5-useful-tips/"><u>In 2024, Avoid Virtual Reality Queasiness 5 Useful Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-audio-expert-solutions-for-silent-hp-notebook-users/"><u>Revive the Audio: Expert Solutions for Silent HP Notebook Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-turtle-beach-recon-eby-fixing-a-non-functional-mic/"><u>Reviving Your Turtle Beach Recon Eby Fixing a Non-Functional Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silenced-airpods-get-them-working-with-sound-again-on-your-windows-computer-version-111n/"><u>Silenced AirPods? Get Them Working with Sound Again on Your Windows Computer (Version 11/1N)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/smart-speaker-face-off-how-does-the-echo-dot-stack-up-against-the-homepod-mini/"><u>Smart Speaker Face-Off: How Does the Echo Dot Stack Up Against the HomePod Mini?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-repair-non-functional-mic-on-steelseries-arctis-pro/"><u>Solution Guide: How to Repair Non-Functional Mic on SteelSeries Arctis Pro</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/step-by-step-subtitle-insertion-for-vimeo-videos-for-2024/"><u>Step-by-Step Subtitle Insertion for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-audio-input-assessment-report-for-2024/"><u>[New] Audio Input Assessment Report for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovations-crown-award-winning-computers/"><u>[New] In 2024, Innovation's Crown Award-Winning Computers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-zero-to-hero-solo-podcast-trendsetters-secrets/"><u>[Updated] From Zero to Hero Solo Podcast Trendsetters' Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-canvas-into-magic-the-best-mac-drawing-apps/"><u>2024 Approved Transform Canvas Into Magic - The Best Mac Drawing Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-on-a-malfunctioning-laptop/"><u>How to Restore Sound Functionality on a Malfunctioning Laptop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y100-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y100 online without jailbreak</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-causes-of-overwatch-2-collapses-during-playtime-on-pcs/"><u>Overcoming Common Causes of Overwatch 2 Collapses During Playtime on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-making-valorants-voice-chat-work-flawlessly-again/"><u>Overcoming Glitches: Making Valorant's Voice Chat Work Flawlessly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-malfunction-here-are-the-solutions/"><u>Realtek Microphone Malfunction? Here Are The Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016314521-sound-issues-on-windows-7-heres-what-you-can-do/"><u>Sound Issues on Windows 7? Here’s What You Can Do</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonfunctional-skype-mic-in-windows-11-environments/"><u>Step-by-Step Fix for Nonfunctional Skype Mic in Windows 11 Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-unresponsive-dvd-blu-ray-and-cd-drives/"><u>Troubleshooting Steps for Unresponsive DVD, Blu-Ray, and CD Drives</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-the-samsung-ru7300-a-detailed-review-on-its-55-4k-curved-screen-performance/"><u>Unboxing and Testing the Samsung RU7300 - A Detailed Review on Its 55 4K Curved Screen Performance</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
 </ul></div>
 

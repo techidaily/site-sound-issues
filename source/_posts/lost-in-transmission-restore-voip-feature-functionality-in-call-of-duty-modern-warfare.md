@@ -1,7 +1,7 @@
 ---
 title: Lost in Transmission? Restore VOIP Feature Functionality in Call of Duty Modern Warfare
-date: 2024-10-18T17:23:12.240Z
-updated: 2024-10-24T16:57:46.685Z
+date: 2024-10-26T17:34:18.191Z
+updated: 2024-10-30T17:03:57.147Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Many players are reporting that they can hear others clearly but the voice chat 
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable the SIP-ALG setting](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Enable Voice Chat
 
  Before getting started, please make sure your microphone is not muted, especially when you’re using a headset (the mute button is not activated). When you make sure the mic is not muted, please do the following:
@@ -41,19 +48,25 @@ Many players are reporting that they can hear others clearly but the voice chat 
 ![voice chat enabled](https://images.drivereasy.com/wp-content/uploads/2021/01/Voice-chat-enabled.jpg)
 3. If your**Voice Chat Recording Mode** is set to**Open Mic** , set Set **Open Mic Recording Threshold** to the lowest setting/minimum (we recommend 0.00). Setting this level too high may prevent your voice from being heard by other players.  
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-low.png)
 4. But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.
 
 5. Apply the settings. Go back to your game and test the sound issues.
 
 **Note:** If you’re on Xbox, please check to ensure that your Xbox privacy settings are set appropriately for**Crossplay** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Perform a Windows Update
 
@@ -64,13 +77,6 @@ Many players are reporting that they can hear others clearly but the voice chat 
 2. Install the available updates.
 3. Once complete, launch Modern Warfare again to see if voice chat is working now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Check sound settings
 
  Many players find their headset mic is not set to the default input device, thus causing the voice chat not to work on Modern Warfare. Therefore, you need to make sure your headset mic is set to default. Here’s how:
@@ -79,32 +85,34 @@ Many players are reporting that they can hear others clearly but the voice chat 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Select the **Recording** tab. Right-click on the device that you’re currently using (your headphone) and then select **Set as Default Device** and then **Set as Default Communication Device** from its context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default.jpg)
 3. Right-click your default microphone and then select **Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
-4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
-5. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-properties.jpg)
+4. On the **Levels** tab, drag the sliders of the **Microphone** to turn up the volume. Just make sure you haven’t muted them or set them to such low levels that you cannot hear the voice yourself.  
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/headphone-levels.jpg)
+5. Click **OK** to save the changes.
 
 6. Play Modern Warfare and test if others can hear you this time.
 
@@ -120,6 +128,19 @@ Many players are reporting that they can hear others clearly but the voice chat 
 
 **Note:** You can update your device driver via Device Manager, but Windows won’t deliver the latest driver.[Learn Why…](https://tools.techidaily.com/drivereasy/download/) So to make sure you can update your audio card driver to the latest version, you should get it from the manufacturer.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically update your audio driver (recommended)
 
  If you don’t have the time, patience, or computer skills to update the graphics card driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -132,24 +153,18 @@ Here’s how to update your drivers with Driver Easy:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the FREE version), and then manually install it.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all.jpg)  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll have the full support and a 30-day money back guarantee).
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable the SIP-ALG setting
 
@@ -187,22 +202,17 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-step-by-step-strategies-for-sizzling-tiktok-videos-via-mac-editing-for-2024/"><u>[New] Step-by-Step Strategies for Sizzling TikTok Videos via Mac Editing for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/achieving-optimal-health-through-chatgpt-strategies/"><u>Achieving Optimal Health Through ChatGPT Strategies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dial-back-the-dazzle-a-close-look-at-our-astoundingly-bright-mini-led-tv-display/"><u>Dial Back the Dazzle: A Close Look at Our Astoundingly Bright Mini LED TV Display</u></a></li>
-<li><a href="https://win-data.techidaily.com/dwa-efektywne-techniki-przesuwac-stara-maszyne-do-najnowszej-podreczny-przewodnik/"><u>Dwa Efektywne Techniki Przesuwać Starą Maszynę Do Najnowszej: Podręczny Przewodnik</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-address-the-lack-of-speaker-output-on-a-windows-11-computer/"><u>How to Address the Lack of Speaker Output on a Windows 11 Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-erase-crashdump-files-from-your-windows-11-pc-a-comprehensive-guide/"><u>How To Erase Crashdump Files From Your Windows 11 PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-apex-legends-troubleshooting-voice-chat-issues-solution/"><u>How to Fix Apex Legends: Troubleshooting Voice Chat Issues - SOLUTION</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-discords-push-to-talk-capability-when-it-stops-responding/"><u>How To Restore Discord's Push-to-Talk Capability When It Stops Responding</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptops-silent-restore-sound-functionality-with-these-windows-11-fixes/"><u>HP Laptops Silent? Restore Sound Functionality with These Windows 11 Fixes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-s23plus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy S23+ Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-6-plus-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 6 Plus Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-from-bluetooth-heres-how-you-can-resolve-it/"><u>No Audio From Bluetooth? Here's How You Can Resolve It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-silence-expert-tips-for-repairing-world-of-warcrafts-voice-chat-feature/"><u>Overcoming Silence: Expert Tips for Repairing World of Warcraft's Voice Chat Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-arctis-headset-distortion-on-windows-effective-strategies-and-tips/"><u>Resolve Arctis Headset Distortion on Windows - Effective Strategies and Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-sound-from-internal-laptop-speakers-with-these-simple-tips/"><u>Resolving No Sound From Internal Laptop Speakers with These Simple Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-browsing-with-gpt-extensions-or-risks/"><u>Secure Browsing with GPT: Extensions or Risks?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-vr-ultimate-guide-connecting-ps-vr-console-with-your-personal-computer/"><u>Wireless VR: Ultimate Guide - Connecting PS VR Console with Your Personal Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly/"><u>[New] In 2024, Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-profile-pictures-download-for-free/"><u>2024 Approved Profile Pictures - Download for FREE!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-playback-problems-solved-in-microsofts-latest-operating-systems/"><u>Bluetooth Playback Problems Solved in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-eero-pro-mesh-network-router-assessment-ideal-choice-for-whole-house-connectivity/"><u>Comprehensive Eero Pro Mesh Network Router Assessment – Ideal Choice For Whole House Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-problems-getting-your-voice-chat-up-and-running-on-valorant/"><u>Fixing Problems: Getting Your Voice Chat Up and Running on Valorant</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-enhance-your-pc-gaming-experience-with-steelseries-engine-on-windows-11/"><u>Free Download: Enhance Your PC Gaming Experience with SteelSeries Engine on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/jest-sculptor-undead-funnybots/"><u>Jest Sculptor Undead Funnybots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-windows-10-sound-card-troubles-with-these-easy-solutions/"><u>Solve Windows 10 Sound Card Troubles with These Easy Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-on-your-computer-how-to-restore-speaker-functionality-in-windows-e10/"><u>Solving Sound Problems on Your Computer: How to Restore Speaker Functionality in Windows E10</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/subtract-this-multiple-of-the-divisor-from-those-selected-digits-and-bring-down-the-next-digit-of-the-dividend/"><u>Subtract This Multiple of the Divisor From Those Selected Digits and Bring Down the Next Digit of the Dividend.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-persistent-issues-windows-obs-not-opening-troubleshooting/"><u>Tackling Persistent Issues: Windows OBS Not Opening Troubleshooting</u></a></li>
 </ul></div>
 

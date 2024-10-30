@@ -1,7 +1,7 @@
 ---
 title: "Resolve Audio Troubles: Top 5 Fixes for 'Opening Sound Device' Problems in Audacity"
-date: 2024-10-18T18:08:58.111Z
-updated: 2024-10-24T21:38:34.491Z
+date: 2024-10-26T16:27:44.105Z
+updated: 2024-10-30T16:17:22.035Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -56,16 +49,10 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disconnect external speakers
@@ -82,9 +69,23 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Output** tab > **Internal Speakers** . Move the**Output volume** slider all the way to the right and make sure the box before**Mute** is**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038f642ae65.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If instead of**Internal Speakers** , you see **Digital Output** or**No output devices found** , then insert your headphone into the headphone port and pull it out. Keep plugging and unplugging until **Internal Speakers** appears. Then repeat step 2).
 
@@ -102,19 +103,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
@@ -122,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
  2) Check if the**no sound problem** has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Restart your Mac
 
@@ -136,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 1) Shut down your computer.
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
@@ -160,22 +162,15 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
@@ -193,13 +188,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
  9) Click **System Preferences** \> **Users & Groups** \> the**Lock** icon > the**Minus** icon to delete your testing account.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix **8: Update your Mac OS**
 
@@ -241,18 +229,24 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-taking-screenshots-of-pc-games-6-ways/"><u>[New] In 2024, Taking Screenshots of PC Games [6 Ways]</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-art-of-youtube-thumbnails/"><u>[Updated] Navigating the Art of YouTube Thumbnails</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-stardust-the-premier-10-sites-for-hdr-skyscapes/"><u>2024 Approved Capturing Stardust The Premier 10 Sites for HDR Skyscapes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banishing-buzz-a-guide-to-silence-your-headphones-irritating-sound/"><u>Banishing Buzz: A Guide to Silence Your Headphones' Irritating Sound</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-transform-srt-to-video-top-10-free-subtitle-tools/"><u>In 2024, Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-vimeo-video-farewells-tips-and-tricks/"><u>Mastering Vimeo Video Farewells Tips and Tricks</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-gt-10-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix GT 10 Pro without backup.</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-5-pc-compatible-gb-advance-emulators-for-optimal-play-for-2024/"><u>Top 5 PC-Compatible GB Advance Emulators for Optimal Play for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-computers-resolving-the-lenovo-pc-speaker-problem/"><u>Troubleshooting Quiet Computers: Resolving the Lenovo PC Speaker Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-macs-effective-techniques-for-restoring-audio/"><u>Troubleshooting Silent Macs: Effective Techniques for Restoring Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-how-to-fix-audio-issues-with-your-counter-strike-go-microphone/"><u>Troubleshooting Steps: How to Fix Audio Issues with Your Counter-Strike GO Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-restoring-audio-on-your-logitech-g933-mouse-a-step-by-step-guide/"><u>Troubleshooting Tips: Restoring Audio on Your Logitech G933 Mouse - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-dilemma-expert-solutions-for-restoring-your-devices-audio-features/"><u>Windows 11 Audio Dilemma? Expert Solutions for Restoring Your Device's Audio Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-ace-editing-essential-10-final-cut-pro-extensions/"><u>[New] Ace Editing Essential 10 Final Cut Pro Extensions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>[New] Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-guide-to-instantaneously-add-closed-captions-to-youtube-clips/"><u>[Updated] Your Guide to Instantaneously Add Closed Captions to YouTube Clips</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/access-device-manager-on-your-windows-11-computer-and-check-if-there-are-any-yellow-exclamation-marks-next-to-universal-serial-bus-controllers-if-present-ri636/"><u>Access Device Manager on Your Windows 11 Computer and Check if There Are Any Yellow Exclamation Marks Next to Universal Serial Bus Controllers. If Present, Right-Click and Choose 'Update Driver' Or 'Uninstall Device,' Then Disconnect/Reconnect the Tozo T6</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-editing-success-how-to-overcome-common-audacity-sound-device-glitches-5-effective-fixes/"><u>Audio Editing Success: How to Overcome Common Audacity Sound Device Glitches [5 Effective Fixes]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/demystifying-advanced-video-coding-techniques/"><u>Demystifying Advanced Video Coding Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-your-scansnap-s1300i-scanner-simple-steps/"><u>Download and Update Your ScanSnap S1300i Scanner - Simple Steps!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-mode-expert-tips-on-getting-fortnites-sound-working-again/"><u>Fixing the Silent Mode: Expert Tips on Getting Fortnite's Sound Working Again</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-astro-laptop-fixing-mic-connectivity-problems/"><u>Getting the Most Out of Your Astro Laptop: Fixing Mic Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-hangouts-microphone-wont-work-heres-how-to-fix-it-easily/"><u>Google Hangouts Microphone Won't Work? Here’s How to Fix It Easily!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-t2-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo T2 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-color-laserjet-pro-mfp-series-m477-printer-drivers-free-download/"><u>HP Color Laserjet Pro MFP Series M477 Printer Drivers - Free Download</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-sound-timing-pro-solutions-to-correct-audio-lags/"><u>Mastering Sound Timing: Pro Solutions to Correct Audio Lags</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-system-after-windows-11-patch-quick-remedies-inside/"><u>No Sound on Your System After Windows 11 Patch? Quick Remedies Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-sounds-in-your-favorite-card-game-hearthstone-edition/"><u>Troubleshooting Missing Sounds in Your Favorite Card Game - Hearthstone Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-solving-the-dilemma-of-your-unresponsive-corsair-void-headset/"><u>Ultimate Troubleshooting Guide: Solving the Dilemma of Your Unresponsive Corsair Void Headset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-reno-11-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo Reno 11 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

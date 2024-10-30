@@ -1,7 +1,7 @@
 ---
 title: Turning Up the Volume Again on Google Chrome - Fix Tutorial Released
-date: 2024-10-21T18:51:29.949Z
-updated: 2024-10-24T16:03:09.727Z
+date: 2024-10-28T16:22:18.801Z
+updated: 2024-10-30T16:47:34.632Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Rule out the obvious
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
  If**no sound at all** comes from any desktop apps or browsers on your computer, then it isn’t really a**Chrome-no-sound** issue, you might want to refer[here](https://tools.techidaily.com/drivereasy/download/) for further assistance.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound driver
 
@@ -79,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check volume mixer
 
 **Volume mixer** is a feature in Windows that allows us to adjust the volumes for individual apps. If sound plays properly on apps other than Chrome, chances are you might have muted the volume for Chrome. To check and un-mute:
@@ -93,24 +93,19 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 1. Right-click on the sound icon  on the lower-right of your screen, then click**Open Volume Mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df14ca9334.jpg)
 2. Make sure you’ve moved the**volume slider** for**Chrome** to at least halfway up.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df24a53f15.jpg)  
  If the volume controller for Chrome isn’t listed here, you can play audio/video on Chrome and then it should pop up.
 3. Re-launch Chrome and play some audio/video and see if you can hear the sound. If the Chrome no sound problem persists, move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4:   Make sure the page is not mute
 
@@ -119,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **inetcpl.cpl**  into the box and click OK.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-31.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click the **Advanced**  tab. Then scroll down to **Multimedia** and check the box before **Play sounds in web pages** . Then click **Apply** \> **OK** .
 
@@ -136,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Clear cache and cookies
@@ -151,16 +139,23 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select**the time range** for the data cache clearing (Last 7 days in my example). Then click**CLEAR DATA** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable extensions
 
@@ -174,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 4. Re-launch Chrome and check if sound comes through. If yes, you can try to enable the extensions one by one until you find out the responsible one. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to**Fix 7** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Update Adobe Flash Player
 
@@ -191,13 +193,6 @@ Here’s how to do it:
 * Re-open Chrome and check if sound comes through. If the problem still lingers on, proceed with**Fix 8** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Chrome
 
@@ -235,22 +230,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-skype-microphone-not-working-in-windows-11/"><u>[Fixed] Skype Microphone Not Working in Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-video-view-count-boosters-top-8-thumbnails-tactics/"><u>[New] In 2024, Video View Count Boosters Top 8 Thumbnails Tactics</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-mastering-ps4-captures-with-obs-studio-your-complete-guide/"><u>[Updated] In 2024, Mastering PS4 Captures with OBS Studio - Your Complete Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-sound-step-down-strategy-a-pro-guide-to-fading-audio-for-2024/"><u>[Updated] Sound Step-Down Strategy A Pro Guide to Fading Audio for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-audio-hiccups-in-audacity-a-guide-to-correcting-sound-device-troubles-five-methods/"><u>Beat Audio Hiccups in Audacity: A Guide to Correcting Sound Device Troubles [Five Methods]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-why-isnt-my-logitech-g6letec-g633-mic-working/"><u>Diagnose and Repair: Why Isn't My Logitech G6letec G633 Mic Working?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-problem-of-mute-speakers-in-windows-even-though-theyre-connected-correctly/"><u>Fixing the Problem of Mute Speakers in Windows Even Though They're Connected Correctly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-se-2022-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone SE (2022) With 7 Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correctly-address-the-80n070057-bug-in-cod-black-ops-cold-war/"><u>How To Correctly Address the 80N070057 Bug in COD: Black Ops Cold War</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-hp-laptop-effective-solutions-for-sound-problems/"><u>How to Restore Audio on Your HP Laptop – Effective Solutions for Sound Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016909872-logitech-g935-microphone-not-functional-on-windows-heres-the-fix/"><u>Logitech G935 Microphone Not Functional on Windows? Here's the Fix!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-best-free-video-editing-tools-for-avi-videos/"><u>New In 2024, The Best Free Video Editing Tools for AVI Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launch-issues-in-assassins-creed-odyssey-essential-tricks-and-advice/"><u>Overcoming Launch Issues in Assassin's Creed Odyssey: Essential Tricks and Advice</u></a></li>
-<li><a href="https://games-able.techidaily.com/regretting-the-steep-price-tag-for-graphics-power/"><u>Regretting the Steep Price Tag for Graphics Power</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016405925-skype-audio-not-working-heres-how-you-can-fix-it-easily/"><u>Skype Audio Not Working? Here’s How You Can Fix It Easily!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-airpods-work-but-dont-produce-sound-in-windows-environments/"><u>Solution Steps for When Your AirPods Work but Don't Produce Sound in Windows Environments</u></a></li>
-<li><a href="https://games-able.techidaily.com/twitch-decoded-a-comprehensive-overview-of-live-broadcasts/"><u>Twitch Decoded: A Comprehensive Overview of Live Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-hundreds-to-millions-a-youtube-growth-journey-for-2024/"><u>[New] From Hundreds to Millions A YouTube Growth Journey for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-igniting-instagram-interest-maximizing-content-reach-and-interactions/"><u>[New] In 2024, Igniting Instagram Interest Maximizing Content Reach and Interactions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-infuse-illustration-with-life-techniques-for-motion-in-ai-images/"><u>[New] Infuse Illustration with Life Techniques for Motion in AI Images</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-correct-iosandroid-video-failures-on-fb-for-2024/"><u>[Updated] Correct iOS/Android Video Failures on FB for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-techniques-for-unbiased-and-structured-interviews/"><u>2024 Approved Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-the-problems-with-your-logitech-g733-microphone-solutions-inside/"><u>Addressing the Problems with Your Logitech G733 Microphone - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-crackling-headphones-instantly-simple-troubleshooting-guide/"><u>Fix Your Crackling Headphones Instantly: Simple Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-not-found-resolve-audio-detection-problems-in-windows-10/"><u>Headphone Not Found? Resolve Audio Detection Problems in Windows 10</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 11 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-googles-cutting-edge-initiative-the-gemini-ai-project-explained/"><u>Inside Google's Cutting-Edge Initiative: The Gemini AI Project Explained</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-google-meet-live-broadcast-steps-for-2024/"><u>Mastering YouTube Google Meet Live Broadcast Steps for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014575348-no-output-after-windows-11-patch-heres-the-easy-fix/"><u>No Output After Windows 11 Patch? Here's the Easy Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-when-you-cant-hear-anythaster-on-your-device/"><u>Quick Solutions for When You Can't Hear Anythaster on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-clearing-up-outriders-sound-interruptions/"><u>Step-by-Step Solution for Clearing Up Outriders' Sound Interruptions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-why-is-my-airpods-microphone-not-working-in-windows/"><u>The Definitive Solution: Why Is My AirPods Microphone Not Working in Windows?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracking-down-image-files-for-windows-11-backgrounds/"><u>Tracking Down Image Files for Windows 11 Backgrounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-speaker-issues-enhancing-audio-output-in-windows-11/"><u>Troubleshooting PC Speaker Issues: Enhancing Audio Output in Windows 11</u></a></li>
 </ul></div>
 

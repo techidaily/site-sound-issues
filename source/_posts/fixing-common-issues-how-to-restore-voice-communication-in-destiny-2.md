@@ -1,7 +1,7 @@
 ---
 title: "Fixing Common Issues: How To Restore Voice Communication In Destiny 2?"
-date: 2024-09-05T04:01:17.312Z
-updated: 2024-09-06T04:01:17.312Z
+date: 2024-10-25T16:31:32.195Z
+updated: 2024-10-30T16:12:42.648Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Fixing Common Issues: How To Restore Voice Comm
 thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be14bb05420507854521a636d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solving Destiny 2'S Silent Streets: Reactivating Voice Chat for Gaming Communication
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/destiny-2.jpg)
@@ -41,11 +35,12 @@ thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Perform basic troubleshooting
 
  If you’re having trouble hearing your friends using in-game voice chat when playing Destiny 2, you should check the following first:
@@ -58,17 +53,12 @@ thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be
  After confirming that your audio device is not the problem, go ahead with the fixes below.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Check the Voice Chat settings
 
  Some players found that the voice chat setting seems to carry over from Steam to console clients. This means that if you have ever logged into the game through Steam and disabled voice chat, then you may encounter the issue of in-game voice chat not working on your console. To fix this problem, you may have to log into the game through Steam and re-enable voice chat in settings. Here’s how:
@@ -77,11 +67,12 @@ thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be
 2. Open**Settings** menu, then select**SOUND** and turn on**Voice Chat** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/turn-on-voice-chat.jpg)
 3. Close the game on PC, and then relaunch it on your console.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now check if voice chat functions properly.
@@ -99,12 +90,6 @@ Now check if voice chat functions properly.
 3. Ensure that “**Who can send you voice chat and party invites** ” is not set to Private.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/stadia-privacy-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Windows 10
 
 1. If Destiny 2 is open, close the game entirely.
@@ -114,28 +99,10 @@ Now check if voice chat functions properly.
 4. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** . If not, you can click the**Change** button above to turn it on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-apps-to-access-your-microphone.jpg)
 5. Scroll down the list of apps below that toggle to find**Destiny 2** . Make sure it is also toggled to**ON** .
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. **Relaunch** the game and check if the in-game voice chat is working.
 
 If this fix doesn’t do the trick, move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
  The voice chat not working issue could indicate that you’re using a faulty or outdated audio driver. If you can’t remember the last time you updated your drivers, definitely do it now as this might solve your problem right away.
@@ -160,6 +127,13 @@ If this fix doesn’t do the trick, move on to the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and test if you can talk with your friends in Destiny 2.
@@ -183,12 +157,6 @@ Now you can check if the voice chat feature works properly in Destiny 2.
 
 If this method still gives you no luck, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Check your sound settings (PC)
 
  If your device is muted or disabled by mistake, you may encounter the issue of Destiny 2 voice chat not working. To see if that’s the case, you need to check the sound settings on your computer. Besides, make sure your microphone is listed as the default device. Here’s how:
@@ -200,34 +168,32 @@ If this method still gives you no luck, take a look at the next one.
 3. Right-click the**Speakers** icon again and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/sounds.jpg)
 4. Choose the**Playback** tab,**select the headphones** you want to use, and click Set Default.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
-5. Navigate to the Recording tab, select the microphone you want to use, and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
-6. Click**OK** to save changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/ok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
+5. Navigate to the Recording tab, select the microphone you want to use, and click**Set Default** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
+6. Click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/ok.jpg)
+
  After everything is set up correctly, restart Destiny 2 to see if your audio issue is resolved.
 
 If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Restart Windows Audio Service
 
  Windows Audio service manages audio devices for Windows-based programs. If this service is stopped, your audio devices will not function properly. To fix the voice chat not working issue, you can try restarting this service. Here’s how:
@@ -235,28 +201,36 @@ If not, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/services.msc_.jpg)
 2. In the pop-up window, scroll down the services list and locate**Windows Audio** . Then right-click on it and select**Restart** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/restart-windows-audio.jpg)
 3. Check that your microphone is now working.
 4. If your microphone doesn’t work, right-click**Windows Audio** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/windows-audio-properties.jpg)
 5. In the Windows Audio properties window, check if the**Startup type** is set to Automatic. If not,**set it to Automatic** and click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/audio-automatic-ok.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, restart your computer and launch Destiny 2 to see if this solves the problem.
 
 If the issue remains, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable any VPNs
 
@@ -276,8 +250,6 @@ If the issue remains, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +257,22 @@ If the issue remains, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-full-insight-guide-to-efficiently-use-google-docs-speech-to-text/"><u>[New] In 2024, Full Insight Guide to Efficiently Use Google Docs Speech-to-Text</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-breakthrough-practices-in-youtube-video-saving-for-2024/"><u>[Updated] Breakthrough Practices in YouTube Video Saving for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-stepwise-decrease-in-mix-dynamics-for-2024/"><u>[Updated] Stepwise Decrease in Mix Dynamics for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-unresponsive-in-game-mics-on-csgo/"><u>Effective Solutions for Unresponsive In-Game Mics on CS:GO</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fixes-dealing-with-the-playback-test-tone-error-smoothly-and-easily/"><u>Fast Fixes: Dealing with the Playback Test Tone Error Smoothly and Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-fixing-and-optimizing-your-pcs-mic-for-a-seamless-sea-of-thieves-gaming-experience/"><u>Guide: Fixing and Optimizing Your PC's Mic for a Seamless Sea of Thieves Gaming Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-xcover-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy XCover 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-amplify-your-content-speedy-instagram-fame/"><u>In 2024, Amplify Your Content Speedy Instagram Fame</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dji-spark-explored-pioneering-portable-drones-for-self-photography/"><u>In 2024, DJI Spark Explored Pioneering Portable Drones for Self-Photography</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-top-7-android-apps-blocking-intrusive-ads/"><u>In 2024, The Ultimate List Top 7 Android Apps Blocking Intrusive Ads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-clear-voice-chats-in-discord-quick-fixes-guide/"><u>Mastering Clear Voice Chats in Discord - Quick Fixes Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rainbow-six-siege-solving-post-update-voice-chat-disconnects-for-players/"><u>Rainbow Six Siege: Solving Post-Update Voice Chat Disconnects for Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-wmps-server-failure-error/"><u>Resolving WMP's Server Failure Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-non-functional-hyperx-cloud-stinger-mic-easy-fixes-revealed/"><u>Troubleshooting a Non-Functional HyperX Cloud Stinger Mic - Easy Fixes Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-restoring-in-game-music-in-anthem-on-windows-11-machines/"><u>Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines</u></a></li>
+</ul></div>
 

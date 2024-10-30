@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secret to Transmitting In-Game Noise via Discord - Fixed!
-date: 2024-09-05T04:01:35.713Z
-updated: 2024-09-06T04:01:35.713Z
+date: 2024-10-29T16:47:00.345Z
+updated: 2024-10-30T16:19:01.477Z
 tags:
   - win11
   - win10
@@ -19,29 +19,24 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-game-edited.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Why is Discord picking up the game audio?**
 
 * **Wrong connection type:** It’s recommended to plug your headphone into the correct USB port, instead of the USB port in your keyboard.
 * **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix Discord audio issues?
 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
 
@@ -59,12 +54,6 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
@@ -75,6 +64,13 @@ There’re mainly two ways for you to update an audio driver:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Change sound settings
 
@@ -90,26 +86,21 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Reinstall Discord
 
  If nothing worked, you can try reinstalling Discord in case it’s an app-related issue. Here’s how:
@@ -121,11 +112,12 @@ There’re mainly two ways for you to update an audio driver:
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
@@ -144,8 +136,6 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +143,22 @@ There’re mainly two ways for you to update an audio driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-no-fuss-trick-for-clownfish-tone-change-in-windows-domain/"><u>[New] 2024 Approved No-Fuss Trick for Clownfish Tone Change in Windows Domain</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unlocking-potential-how-to-maximize-whiteboards-in-zoom-meets/"><u>[New] 2024 Approved Unlocking Potential How to Maximize Whiteboards in Zoom Meets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-zooms-best-alternatives-on-laptops-and-tablets/"><u>[New] Zoom's Best Alternatives on Laptops & Tablets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pros-in-mac-streaming-the-top-5-applications/"><u>2024 Approved Pros in Mac Streaming The Top 5 Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-free-video-editing-tools-of-2024-top-picks-and-comprehensive-review/"><u>Best FREE Video Editing Tools of 2024: Top Picks & Comprehensive Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/best-troubleshooting-steps-when-toshiba-laptop-fails-to-produce-sound/"><u>Best Troubleshooting Steps When Toshiba Laptop Fails to Produce Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-fixes-for-non-responsive-squad-mics/"><u>Complete Fixes for Non-Responsive Squad Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs70-mic-woes-heres-how-to-get-it-working-perfectly-again/"><u>Corsair HS70 Mic Woes? Here's How to Get It Working Perfectly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-silent-laptops-fixing-the-lack-of-sound-issue/"><u>Dealing with Silent Laptops: Fixing the Lack of Sound Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-windows-117-playback-issues-stuttering-distortion-solutions-uncovered/"><u>How to Resolve Windows 11/7 Playback Issues: Stuttering, Distortion Solutions Uncovered</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ideal-gaming-gear-for-kids-choosing-the-right-consoles-and-extras/"><u>Ideal Gaming Gear for Kids: Choosing the Right Consoles and Extras</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-failures-during-your-phasmophobia-gameplay/"><u>Overcoming Voice Chat Failures During Your Phasmophobia Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-windows-11-sound-cut-outs-effective-techniques-for-stable-audio-experience/"><u>Solve Windows 11 Sound Cut-Outs: Effective Techniques for Stable Audio Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-essential-ios-16-functions-you-need-and-their-easy-usage-guide-techwise/"><u>Top 5 Essential iOS 16 Functions You Need and Their Easy Usage Guide | TechWise</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/under-150-of-pure-melody-indulge-in-infinite-karaoke-delight-at-karaoke-usa/"><u>Under $150 of Pure Melody: Indulge in Infinite Karaoke Delight at Karaoke USA.</u></a></li>
+</ul></div>
 

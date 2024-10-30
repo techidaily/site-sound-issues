@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Sound Sync Issues"
-date: 2024-09-05T04:00:44.650Z
-updated: 2024-09-06T04:00:44.650Z
+date: 2024-10-26T16:11:52.553Z
+updated: 2024-10-30T16:21:06.350Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03bb72019e3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  No sound comes through your Mac? Don’t panic –  it’s usually not a hard problem to solve at all. In this article, we’ll provide 8 tried and tested fixes to help you**get your Mac sound back** in no time.
 
 ## **Try these fixes**
@@ -40,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check sound on different apps
 
  Make sure you play sound on different apps (say Youtube, iTunes, Spotify etc.). Check if it’s only on one app that you have this **no sound problem** :
@@ -56,11 +44,12 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Disconnect external speakers
 
  Sometimes you can’t hear any sound from your Mac because it sends the audio to its external devices, such as headphones, TV, etc. Unplug all of them and check if you can hear the sound. If no, go with**Fix 3** .
@@ -72,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
  If the volume on your computer is set mute or too low, you won’t be able to hear the sound. To make sure you have turned up the volume:
 
  1) On the dock, click the**System Preferences** icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026d618d4e9.png) , then click on the **Sound** icon.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b026dbda51a8.jpg)
 
@@ -95,22 +91,17 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b037f3956a98.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * If**no** (i.e. **Bluetooth: Off** ): click the**Close** button. Proceed to Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03a1e86842f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Check if the**no sound problem** has been solved.
 
 ---
@@ -121,12 +112,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reset **NVRAM**
 
  By resetting NVRAM, we bring back the default settings (including speaker volume, time zone, and display solution etc.). This may well help solve sound-related problems.
@@ -135,12 +120,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
 2) Turn on your computer by pressing the power button, and IMMEDIATELY hold down**the** **Command key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b029439e60ea.png) **, the options/alt key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b02946710198.png) ,**P** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Don’t release the keys before you hear the start-up sound. (This reboot will take up to 20 seconds.)
 
 4) After the start-up, your computer will be refreshed to the default settings. This time, you might need to  reconfigure settings for speaker volume, time zone, and display solution etc.
@@ -148,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 5) Test to see if the sound works properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix **7: Create a testing account on safe mode**
 
@@ -163,32 +149,28 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b03850a49123.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click the**Lock** icon > the **Add** icon. Then enter the user password if asked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0388cd4df0e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  6) In**New Account** , choose**Administrator** . In**Full Name** , enter a name for your testing account (TEST, in my case). Then click**Create User** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b038a64edd48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Note: no password for this account is needed since it’s only a testing account.
 
  7) You’ll be asked to confirm creating a new account without a password. Click**OK** \> the**Close** button.
@@ -233,8 +215,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +222,16 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-complete-breakdown-of-facebooks-changes/"><u>[New] The Complete Breakdown of Facebook's Changes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-negative-space-how-to-flip-vids-on-instagram-for-2024/"><u>[Updated] Navigating Negative Space How to Flip Vids on Instagram for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-pci-driver-packs-free-download-for-modern-windows-systems-windows-11-10-8-and-7/"><u>Essential PCI Driver Packs: Free Download for Modern Windows Systems (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468447250-get-your-ios-up-to-date-overcome-update-problems-with-these-9-handy-fixes-for-iphones-and-ipads/"><u>Get Your iOS Up-to-Date: Overcome Update Problems With These 9 Handy Fixes For iPhones and iPads.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-unresponsive-headphones-and-speakers-in-windows-1187-environments/"><u>Guide to Fixing Unresponsive Headphones and Speakers in Windows 11/8/7 Environments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/maximize-collaboration-via-zooms-share-feature/"><u>Maximize Collaboration via Zoom's Share Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-sound-on-a-toshibe-notebook-proven-techniques-and-advice/"><u>Reviving Sound on a Toshibe Notebook: Proven Techniques and Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-fix-your-redragon-laptoppc-microphone-when-it-stops-working/"><u>Step-by-Step Guide to Fix Your Redragon Laptop/PC Microphone When It Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015744328-world-of-warcraft-audio-troubles-heres-how-to-restore-game-sounds/"><u>World of Warcraft Audio Troubles? Here's How to Restore Game Sounds</u></a></li>
+</ul></div>
 

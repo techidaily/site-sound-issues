@@ -1,7 +1,7 @@
 ---
 title: Enabling and Repairing Windows Scanning Functionality
-date: 2024-10-18T18:26:52.005Z
-updated: 2024-10-24T19:35:19.654Z
+date: 2024-10-24T17:46:04.280Z
+updated: 2024-10-30T17:21:40.626Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the connection issue
 
  To use your scanner, you need to make sure that your scanner is**powered on** in the first place.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
  If you’ve checked the above steps and your HP scanner still doesn’t work, don’t worry. There is something else to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Enable Windows Image Acquisition (WIA) service and associated services
 
@@ -70,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
  If the**Service status** is already**Running** , click**Stop** to stop the service, then click**Start** to re-enable the service.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the changes.  
@@ -95,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
    **INFORMATION:**  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
     The**Windows Image Acquisition (WIA)** service is dependent upon the**Shell Hardware Detection Service** , while the**Shell Hardware Detection Service** is dependent upon these services: Remote Procedure Call RPC, DCOM Server Process Launcher, and RPC Endpoint Mapper.
@@ -126,16 +140,22 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the Update button next to your scanner to download the latest driver (you can do this with the FREE version), then install it on your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install all problem drivers in your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/update-dell-touchpad-driver.jpg.png)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -154,34 +174,26 @@ Then try scanning with your scanner to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/cmd-run-as-admin.jpg)
 2. Copy & paste the following command line into the Command Prompt window and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `**msdt.exe -id DeviceDiagnostic**`
 3. Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
 4. Follow the on-screen instructions to finish the troubleshooting and fix the detected issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, try your scanner again and see if it’s working properly.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
@@ -200,10 +212,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd036dad46be.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer and see if your scanner begins to work.
@@ -242,22 +254,17 @@ To fix your issues, follow the steps below to run a full scan of your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-temporal-twist-learn-how-to-turn-back-time/"><u>[New] 2024 Approved Instagram's Temporal Twist Learn How to Turn Back Time</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-custom-your-youtube-channel-url-super-easy-in-2024/"><u>[New] How to Custom Your YouTube Channel URL – Super Easy, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-uniting-brands-and-youtube-for-maximum-impact-for-2024/"><u>[Updated] Uniting Brands & YouTube for Maximum Impact for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-htc-u23-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to HTC U23 FRP Bypass Instantly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-system-malfunction-heres-how-to-get-your-sounds-running-again/"><u>Audio System Malfunction? Here’s How to Get Your Sounds Running Again!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Infinix Note 30 VIP Racing Edition.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-updating-username-on-windows-11/"><u>Essential Guide to Updating Username on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-no-audio-on-your-hp-pc-troubleshooting-windows-10-solutions/"><u>Fixing No Audio on Your HP PC: Troubleshooting Windows 10 Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016967821-hear-again-on-your-logitech-g933-follow-these-straightforward-sound-solutions/"><u>Hear Again on Your Logitech G933? Follow These Straightforward Sound Solutions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-install-and-fix-idt-high-definition-sound-codec-driver-on-windows-11/"><u>How to Install and Fix IDT High Definition Sound Codec Driver on Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-network-driver-download-for-windows-1178/"><u>HP Network Driver Download for Windows 11/7/8</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-the-meta-search-realm-key-definitions-and-advanced-seo-techniques-for-optimized-visibility/"><u>Mastering the Meta Search Realm: Key Definitions and Advanced SEO Techniques for Optimized Visibility</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-audio-connectivity-hurdles-correcting-speaker-and-headphone-issues-in-various-windows-versions-11-groovy-7/"><u>Overcome Audio Connectivity Hurdles: Correcting Speaker and Headphone Issues in Various Windows Versions (11, Groovy, 7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-guide-to-reactivating-your-computers-speakers-after-a-windows-10-patch/"><u>Quick Guide to Reactivating Your Computer's Speakers After a Windows 10 Patch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-compatibility-installing-idt-hd-sound-card-drivers-in-windows-11/"><u>Resolving Compatibility: Installing IDT HD Sound Card Drivers in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-reviving-your-steelseries-arctis-7s-mic-capabilities/"><u>Step-by-Step Solution: Reviving Your SteelSeries Arctis 7'S Mic Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11-for-2024/"><u>[New] The Ultimate Guide to Screenshot & Record Mastery on Mi 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-15-free-audio-resources-for-youtube-clips-makers/"><u>[New] Top 15 FREE Audio Resources for YouTube Clips Makers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-dive-into-the-world-of-customized-ringtones-with-tiktok-beats/"><u>[Updated] In 2024, Dive Into the World of Customized Ringtones with TikTok Beats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamline-your-seminars-economical-tech-tips/"><u>[Updated] Streamline Your Seminars Economical Tech Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-guide-to-securing-photographic-backdrops-for-2024/"><u>[Updated] Ultimate Guide to Securing Photographic Backdrops for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-next-gen-cinema-a-virtual-leap-forward/"><u>2024 Approved Next-Gen Cinema A Virtual Leap Forward</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-x6-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-mic-problems-on-your-windows-7-pc-complete-guide/"><u>How to Fix Mic Problems on Your Windows 7 PC - Complete Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 15 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-for-usb-earbuds-plugged-into-windows-aturality-with-a-sophisticated-natural-feel/"><u>Restoring Audio for USB Earbuds Plugged Into Windows Aturality with a Sophisticated, Natural Feel.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-sudden-sounds-on-your-pc-windows-troubleshooting-tips/"><u>Solving the Mystery of Sudden Sounds on Your PC - Windows Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-pc-the-top-5-solutions-for-audio-problems-in-windows-10/"><u>Troubleshooting Your PC: The Top 5 Solutions for Audio Problems in Windows 10</u></a></li>
 </ul></div>
 

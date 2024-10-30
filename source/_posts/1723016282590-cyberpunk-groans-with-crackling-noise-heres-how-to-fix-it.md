@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk Groans with Crackling Noise? Here's How to Fix It
-date: 2024-10-23T18:40:47.858Z
-updated: 2024-10-24T19:53:06.485Z
+date: 2024-10-26T17:27:52.005Z
+updated: 2024-10-30T17:18:47.714Z
 tags:
   - win11
   - win10
@@ -35,22 +35,15 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 
  It seems a cliche but a simple restart can usually fix various game glitches. Restart your PC and relaunch Cyberpunk 2077 to test. If this doesn’t help, move on to the second trick.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Change USB port
 
  Cyberpunk 2077 audio not working properly might be caused by a faulty headphone port. To rule out this possibility, simply**replug your audio equipment to another USB port** which should be located at both the front and back of your PC, and play the game again. If sound crackling persists, take a look at the solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the sound settings
@@ -61,13 +54,6 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3.jpg)
 2. Select**Small icons** next to View by, and click**Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-5.jpg)
 3. Right-click your audio device and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-6.jpg)
@@ -77,16 +63,23 @@ If you’re encountering Cyberpunk 2077 sound crackling or buzzing background no
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.jpg)
 6. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the 96000 Hz sample rate doesn’t give any luck, you can try the other options until you find the one that stops the sound from crackling. If none of them works, continue to the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -102,6 +95,13 @@ There are two ways for you to do this:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1.jpg)
 3. Click the**Update** button next to the flagged sound driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-2.jpg)
@@ -132,18 +132,19 @@ There are two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfect-video-conferencing-the-essential-list-of-10-free-recorders/"><u>[New] 2024 Approved Perfect Video Conferencing The Essential List of 10 Free Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-5-premium-ps1-game-simulators-for-pc-gamers-for-2024/"><u>[Updated] 5 Premium PS1 Game Simulators for PC Gamers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-dynamic-duo-combining-multiple-photos-for-impactful-stories-for-2024/"><u>[Updated] Dynamic Duo Combining Multiple Photos for Impactful Stories for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-pixelprofilers-picks-top-tools-for-your-screen-snapping-needs-for-2024/"><u>[Updated] PixelProfiler's Picks Top Tools for Your Screen Snapping Needs for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-uncomplicated-video-snip-for-win10-users-for-2024/"><u>[Updated] Uncomplicated Video Snip for Win10 Users for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-supercharge-your-social-media-scrapping-the-best-5-chrome-plugins/"><u>2024 Approved Supercharge Your Social Media Scrapping The Best 5 Chrome Plugins</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/aural-artistry-the-magic-of-sound-fading/"><u>Aural Artistry The Magic of Sound Fading</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-ai-giants-which-is-superior-googles-bard-or-microsofts-bing-chat/"><u>Comparing AI Giants: Which Is Superior - Google's Bard or Microsoft's Bing Chat?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-walkthrough-navigating-the-telnet-command-line-on-windows/"><u>Comprehensive Walkthrough: Navigating the Telnet Command Line on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-harmony-troubleshooting-wows-muted-mystery/"><u>Restoring Soundscape Harmony: Troubleshooting WoW's Muted Mystery</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-get-your-logitech-g230-mic-back-online/"><u>Solved! How to Get Your Logitech G230 Mic Back Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-arctis-7-audio-glitches-in-windows-a-comprehensive-guide/"><u>Solving the Issue of Arctis 7 Audio Glitches in Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-pcs-missing-sound-issue-in-zoom-a-step-by-step-guide/"><u>Solving the PC's Missing Sound Issue in Zoom: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-accelerated-mp4-conversion-for-fb-media-for-2024/"><u>[Updated] Accelerated MP4 Conversion for FB Media for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-edge-with-free-best-premiere-pro-resources/"><u>2024 Approved Professional Edge with FREE, Best Premiere Pro Resources</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-guide-streamlining-video-calls-on-xbox-one/"><u>2024 Approved Quick Guide Streamlining Video Calls on Xbox One</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-lava-blaze-2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Lava Blaze 2 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/clearshot-vision-screen-recap-for-2024/"><u>ClearShot Vision Screen Recap for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-a-non-functional-logitech-g533-microphone/"><u>DIY Solutions for a Non-Functional Logitech G533 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-diagnosing-and-repairing-your-razer-man-owar-microphone-issues/"><u>Expert Guide: Diagnosing & Repairing Your Razer Man O'War Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-troubleshoot-and-repair-your-non-functional-logitech-g733-microphone/"><u>Fixing the Issue: How to Troubleshoot and Repair Your Non-Functional Logitech G733 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-on-your-pc-solutions-to-eliminate-pops-and-cracks/"><u>How to Fix Audio Glitches on Your PC: Solutions to Eliminate Pops and Cracks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-when-modern-warfares-voice-communication-wont-connect/"><u>How to Resolve Issues When Modern Warfare's Voice Communication Won't Connect</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-enhancing-content-with-youtube-tags-and-notes/"><u>In 2024, Enhancing Content with YouTube Tags & Notes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-chatgpt-communication-using-smart-folders/"><u>Optimize ChatGPT Communication Using Smart Folders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
 </ul></div>
 

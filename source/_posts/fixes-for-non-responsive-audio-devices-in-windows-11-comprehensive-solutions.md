@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Non-Responsive Audio Devices in Windows 11: Comprehensive Solutions"
-date: 2024-09-05T03:59:17.313Z
-updated: 2024-09-06T03:59:17.313Z
+date: 2024-10-28T17:30:05.590Z
+updated: 2024-10-30T17:40:07.392Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Fixes for Non-Responsive Audio Devices in Windo
 thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb071407495f0911dc7de431c6c41.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 11 Update Causes Audio Issues? Here's an Easy Solution
 
 Many people reported that**after Windows 10 update no soun** d available in computers, especially after Windows October 1809 update. Don’t worry. We’ll help you fix the no sound issue in your Windows computer.
@@ -33,12 +27,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your audio driver
 
  It’s likely your audio driver becomes incompatible after upgrading Windows system, so it’s recommended to update your audio driver to fix the no sound issue.
@@ -55,6 +43,14 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
@@ -63,12 +59,6 @@ Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check audio settings
 
  The improper audio settings can also result in the no sound issue in your computer, so you should configure the audio settings properly.
@@ -78,6 +68,14 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
  If your device has been the default device, you’ll see a green check mark next to your device.  
@@ -86,18 +84,6 @@ To do so:
 
 Still no luck? Okay, there’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Roll back your audio driver
 
  Another effective method to resolve the no sound issue is to roll back your audio driver. To do so:
@@ -106,30 +92,28 @@ Still no luck? Okay, there’s one more thing to try.
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -147,8 +131,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +138,20 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-costless-live-camera-capturer/"><u>[New] Ultimate Costless Live Camera Capturer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-happy-enrollment-and-logout-flowchart/"><u>[Updated] Happy Enrollment & Logout Flowchart</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-back-your-hidden-airpods-a-comprehensive-list-of-amo-fixes-using-the-find-my-tool/"><u>Bring Back Your Hidden AirPods: A Comprehensive List of Amo Fixes Using the Find My Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-leader-in-generative-ai-an-in-depth-look-at-notion-ai-vs-chatgpt/"><u>Choosing the Leader in Generative AI: An In-Depth Look at Notion AI Vs. ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-windows-10-preparing-your-pc-for-the-upgrade-for-2024/"><u>From Windows 10 Preparing Your PC for the Upgrade for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-detecting-and-fixing-headphone-recognition-errors-on-windows-11/"><u>Guide to Detecting and Fixing Headphone Recognition Errors on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-xs-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone XS Without a Passcode</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-f5-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Poco F5 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-xr-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone XR and iPad</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-audio-issues-restoring-sound-on-your-windows-11-system/"><u>Quick Fixes for Audio Issues: Restoring Sound on Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-non-functional-dell-speakers/"><u>Quick Solutions for Non-Functional Dell Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-functionality-in-malfunctioning-headset-mics/"><u>Quick Solutions to Restore Functionality in Malfunctioning Headset Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-unresponsive-realtek-audio-settings-application/"><u>Troubleshooting Steps for Unresponsive Realtek Audio Settings Application</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Resolve the 'Unable to Play Test Sound' Glitch Easily"
-date: 2024-09-05T04:00:34.405Z
-updated: 2024-09-06T04:00:34.405Z
+date: 2024-10-29T16:22:10.136Z
+updated: 2024-10-30T17:06:43.289Z
 tags:
   - win11
   - win10
@@ -29,9 +29,23 @@ Having trouble with push-to-talk during gameplay? You’re not alone! Many Overw
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart your computer
 
  This is the quickest fix to try when you’re experiencing Overwatch audio issues. Just restart your computer and Overwatch to test your issue. If your problem still exists, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Run Discord as Administrator
 
@@ -45,16 +59,23 @@ If you’re not sure how to do it, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click Discord then select **End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click the Discord icon on your desktop, then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
@@ -63,12 +84,6 @@ If you’re not sure how to do it, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Relaunch Discord.
 
 If your issue persists, try the next fix.
@@ -99,38 +114,21 @@ If your issue persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Install the latest Overwatch patch
 
  The developers of Overwatch release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -146,17 +144,18 @@ To check if there is any update, follow the instructions below:
  If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Check your in-game settings
 
  Improper audio settings can also trigger this issue. To see if that’s the problem for you, verify your in-game push-to-talk settings. Follow the instructions below:
@@ -168,11 +167,12 @@ To check if there is any update, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-407.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click the**Sound tab** , and verify that**TEAM VOICE CHAT** , and**GROUP VOICE CHAT** are set to**AUTO JOIN.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
@@ -181,34 +181,10 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-401-1024x569.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Click the**CONTROLS** tab. Under**CHAT AND VOICE** , click the button next to**VOICE CHAT: PUSH TO TALK** and change your push-to-talk key to a different one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-416-1024x402.png)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Restart your game to test your issue.
 
  Hopefully, one of the fixes above helped in resolving your issue. If you have any questions or suggestions, feel free to leave a comment below.
@@ -226,8 +202,6 @@ To check if there is any update, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +209,26 @@ To check if there is any update, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-enhancing-visibility-popularize-your-youtube-short-videos/"><u>[New] 2024 Approved Enhancing Visibility Popularize Your YouTube Short Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-ios-guide-to-superior-psp-emulators/"><u>[New] In 2024, The Ultimate iOS Guide to Superior PSP Emulators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-alias-update-on-google-meet-devices-for-2024/"><u>[New] Mastering Alias Update on Google Meet Devices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate/"><u>[Updated] In 2024, In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-headset-microphone-repair-guide-fixing-common-issues/"><u>Astro A50 Headset Microphone Repair Guide: Fixing Common Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015107644-battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here’s The Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs60-headset-microphone-repairs-a-complete-guide/"><u>Corsair HS60 Headset Microphone Repairs: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-steelseries-arctis-pro-microphone-problems-expert-advice/"><u>Diagnosing and Solving SteelSeries Arctis Pro Microphone Problems - Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-for-steelseries-arctis-headsets-resolving-the-non-working-mic-conundrum/"><u>Expert Solutions for SteelSeries Arctis Headsets - Resolving the Non-Working Mic Conundrum</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-reno-9a-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo Reno 9A</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-mouse-settings-a-guide-to-microsoft-drivers-update-for-windows-users/"><u>Mastering Mouse Settings: A Guide to Microsoft Drivers Update for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016507875-no-more-silence-in-battlegrounds-get-your-world-of-warcraft-voice-chat-running-smoothly-again/"><u>No More Silence in Battlegrounds: Get Your World of Warcraft Voice Chat Running Smoothly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-mute-mystery-expert-advice-on-getting-heard-on-discord/"><u>Resolving the Mute Mystery: Expert Advice on Getting Heard on Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-output-unplugged-issue-nvidia-card-troubleshooting-tips/"><u>Solving the 'Output Unplugged' Issue: Nvidia Card Troubleshooting Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcodez-gratuitement-des-fichiers-wma-a-laide-de-movavi/"><u>Transcodez Gratuitement Des Fichiers WMA À L'aide De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-pc-performance-for-faster-play-in-counter-strike-2-minimize-lag-low-ping-solutions/"><u>Troubleshooting PC Performance for Faster Play in Counter-Strike 2 - Minimize Lag, Low Ping Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-how-to-repair-your-airpods-microphone-issues/"><u>Troubleshooting Windows 10: How to Repair Your AirPods' Microphone Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/vidmore-screen-recorder-how-to-use-it/"><u>Vidmore Screen Recorder - How to Use It</u></a></li>
+</ul></div>
 

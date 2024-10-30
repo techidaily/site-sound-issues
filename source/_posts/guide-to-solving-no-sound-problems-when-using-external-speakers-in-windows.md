@@ -1,7 +1,7 @@
 ---
 title: Guide to Solving No Sound Problems When Using External Speakers in Windows
-date: 2024-10-18T18:07:59.593Z
-updated: 2024-10-24T19:33:57.781Z
+date: 2024-10-29T16:19:25.873Z
+updated: 2024-10-30T16:21:22.602Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  When the above check is done, and you find the problem on your computer, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2, make sure the connection between your speakers and computer is good
@@ -47,19 +47,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -69,29 +56,49 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set Speakers as Default
@@ -111,26 +118,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
@@ -141,6 +135,14 @@ Follow these steps:
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
@@ -162,13 +164,6 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
 <ins class="adsbygoogle"
@@ -186,24 +181,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[New] Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-analyzing-flight-performance-in-djis-drone-standard-edition/"><u>[Updated] 2024 Approved Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mythos-makers-circle-top-ten-tales/"><u>[Updated] Mythos Makers Circle – Top Ten Tales</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-online-free-video-editing-hacks-for-2024/"><u>[Updated] Top Online Free Video Editing Hacks for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-first-steps-launching-a-youtube-channel-for-profit/"><u>2024 Approved First Steps Launching a YouTube Channel for Profit</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-silence-tips-for-dealing-with-your-laptops-sound-issue/"><u>Eliminating Silence: Tips for Dealing With Your Laptop's Sound Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-steps-to-restore-functionality-of-malfunctioning-computer-speakers/"><u>Essential Steps to Restore Functionality of Malfunctioning Computer Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-troubleshooting-no-sound-on-realtek-digital-devices-solved/"><u>Expert Advice for Troubleshooting No Sound on Realtek Digital Devices [Solved]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-squad-mic-issues-in-no-time-a-comprehensive-guide/"><u>Fix Your Squad Mic Issues in No Time: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-internal-speakers-glitches-for-a-better-gaming-experience-resident-evil-village-edition/"><u>Fixing Internal Speakers Glitches for a Better Gaming Experience - Resident Evil Village Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-sound-on-your-windows-11-device/"><u>Fixing the Issue: How to Restore Sound on Your Windows 11 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-windows-groovy-my-friend-here-are-five-new-best-seo-titles-similar-in-meaning-to-fixed-windows-11-bluetooth-not-working-issue/"><u>How to Get Windows Groovy, My Friend! Here Are Five New Best SEO Titles Similar in Meaning to [FIXED] Windows 11 Bluetooth Not Working Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-steelseries-arctis-pro-headset-mic-back-on-track-issue-solved/"><u>How to Get Your SteelSeries Arctis Pro Headset Mic Back on Track [ISSUE SOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-overcome-audio-issues-playing-games-and-using-discord-simultaneously/"><u>How to Overcome Audio Issues: Playing Games and Using Discord Simultaneously</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-digging-into-the-heart-of-recordcast-technology/"><u>In 2024, Digging Into the Heart of RecordCast Technology</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-zooms-potential-with-key-conversion-techniques/"><u>In 2024, Harnessing Zoom's Potential with Key Conversion Techniques</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/pioneering-the-future-of-instagram-downloads/"><u>Pioneering the Future of Instagram Downloads</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-trio-techniques-retrieving-data-seagate-portable-hdd-3-step-guide-and-restore-files/"><u>Simple, Trio Techniques, Retrieving Data, Seagate Portable HDD, 3-Step Guide, and Restore Files.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-oneplus-nord-3-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from OnePlus Nord 3 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-enhance-content-reach-and-impact-social-blades-role-in-youtube-analytics/"><u>[New] In 2024, Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-become-a-zoom-screenshare-pro-in-minutes/"><u>[Updated] In 2024, Become a Zoom Screenshare Pro in Minutes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-boomerang-edge-captivating-your-instagram-audience/"><u>[Updated] In 2024, The Boomerang Edge Captivating Your Instagram Audience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximizing-engagement-10-tips-for-stellar-yt-shorts-content/"><u>[Updated] Maximizing Engagement 10 Tips for Stellar YT Shorts Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y78plus-t1-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y78+ (T1) Edition to iPhone | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-overwatch-voice-chat-push-to-talk-failures/"><u>Fixing the Issue: Overwatch Voice Chat (Push-to-Talk) Failures</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/functionality-meets-aesthetics-in-our-review-of-the-lamicall-s-tablet-display-holder/"><u>Functionality Meets Aesthetics in Our Review of the Lamicall S Tablet Display Holder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-increase-and-restore-default-audio-levels-in-windows-10/"><u>How to Increase and Restore Default Audio Levels in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-risk-of-rain-2s-game-crash-issues-once-and-for-all/"><u>How to Resolve Risk of Rain 2'S Game Crash Issues Once and For All</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-troubleshooting-a-step-by-step-guide-to-making-windows-11-speakers-functional/"><u>Mastering Troubleshooting: A Step-by-Step Guide to Making Windows 11 Speakers Functional</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-silent-logiteche-g933-headset-easily-with-these-tips/"><u>Resolve Silent Logiteche G933 Headset Easily with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-speaker-problems-on-your-windows-11-system-step-by-step-fixes/"><u>Resolving Speaker Problems on Your Windows 11 System - Step by Step Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-on-your-gameplay-fixing-warzones-mute-dilemma/"><u>Restore Sound on Your Gameplay: Fixing Warzone's Mute Dilemma</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-team-talks-comprehensive-fixes-for-destiny-2s-voice-chat-troubles/"><u>Revive Your Team Talks! Comprehensive Fixes for Destiny 2'S Voice Chat Troubles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-boosting-volume-on-windows-11-computers-with-troubled-sounds/"><u>Step-by-Step Guide: Boosting Volume on Windows 11 Computers with Troubled Sounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-for-semaphore-timeout-period-has-expired-error/"><u>Step-by-Step Repair for 'Semaphore Timeout Period Has Expired' Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-deleting-pictures-on-facebook/"><u>The Ultimate Tutorial for Deleting Pictures on Facebook</u></a></li>
 </ul></div>
 

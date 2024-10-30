@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing Common Problems with the HyperX Cloud Stinger Headset
-date: 2024-10-18T20:14:46.694Z
-updated: 2024-10-24T21:55:16.770Z
+date: 2024-10-29T17:05:13.315Z
+updated: 2024-10-30T17:25:06.700Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Many users are reporting that they’re having microphone issues with their Hype
 * [8. Contact the manufacturer for troubleshooting](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check the physical connections
@@ -49,16 +49,17 @@ Many users are reporting that they’re having microphone issues with their Hype
 3. Check the volume knob on the right ear and **make sure the mic is not muted or the volumes are not too low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/volume.jpg)
 4. If you’re using the controller box of your headset, make sure the mute switch hasn’t been activated.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/hyper-X.jpg)
 
  Is the mic working now? If unfortunately not, you can try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Allow access to your headset microphone
 
@@ -75,34 +76,20 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Privacy.jpg)
 3. Click**Microphone** from the left pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![click microphone](https://images.drivereasy.com/wp-content/uploads/2020/12/Microphone.jpg)
 4. Click the**Change** button, and make sure the**Microphone for this device** option is**O** n.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/make-sure-its-on.jpg)
 5. Scroll down and make sure the**Allow apps to access your microphone** is**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps.jpg)
 6. Also, make sure the app you’re using now is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![select the app you're using and turn it on](https://images.drivereasy.com/wp-content/uploads/2020/12/which-app.jpg)
 7. Now check if HyperX Cloud Stinger’s microphone is working. If you have granted all the permissions to the microphone but you still can’t be heard, you can try the next fix.
@@ -118,6 +105,13 @@ Many users are reporting that they’re having microphone issues with their Hype
 
  If you can talk to Siri but this app still isn’t working, check the app’s preferences to see if there are separate settings for input devices. But if everything works just fine in other apps, you can try reinstalling this app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check your microphone settings
 
  Another common cause of microphone problems is that you may have disabled your headset microphone, or not set it as the default input device. To check if this is the source of the problem, please check these things:
@@ -128,13 +122,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/large-icons.jpg)
 3. Select **Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sound.jpg)
 4. Select the **Recording** tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/show-disabled-devices.jpg)
@@ -143,10 +130,25 @@ Many users are reporting that they’re having microphone issues with their Hype
 6. Right click **Headset Microphone** and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/properties-sound.jpg)
 7. Click the**Levels** tab, then drag the volume slider towards the largest value.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels-100.jpg)
 8. Click **OK** to apply the changes, then click**OK** from the last opened window.
 
  Your HyperX headphone should now be enabled now. Test if the mic is working. If so, congratulations! But if not, don’t worry, since we have a few more fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your audio drivers
 
@@ -164,6 +166,14 @@ Many users are reporting that they’re having microphone issues with their Hype
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  You can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**full technical support** and a**30-day money back guarantee** . You ’ll be prompted to upgrade when you click Update All.)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once the update is complete, restart your computer for it to take full effect and reinsert the headset.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -177,6 +187,13 @@ Many users are reporting that they’re having microphone issues with their Hype
 
  Also, shut down all other programs that utilize the headset microphone, including some communications apps such as Discord, Skype, Zoon, etc. VOIP (Voice Over IP) apps can play with your microphone settings on their own accord and prevent it from working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Check your HyperX Cloud Stinger in your game apps
 
  Sometimes the culprit may not be on your audio or control box settings, but in the game or app, you use instead. Check the audio settings in the game, or in the app, then confirm whether this will make your HyperX Cloud Stinger mic work again.
@@ -189,26 +206,6 @@ Many users are reporting that they’re having microphone issues with their Hype
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/check-for-updates.jpg)
 2. Click**Check for updates** . If there is an update, make sure it is downloaded and installed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/check-for-updates-now.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Contact the manufacturer for troubleshooting
 
@@ -238,20 +235,18 @@ Many users are reporting that they’re having microphone issues with their Hype
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-automatic-video-playback-in-facebook/"><u>[New] Unlocking Automatic Video Playback in Facebook</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-groundwork-unraveling-storytellings-foundations/"><u>[Updated] Groundwork Unraveling Storytelling's Foundations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-advanced-systems-for-tracking-human-manoeuvres/"><u>2024 Approved Advanced Systems for Tracking Human Manoeuvres</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-steps-to-remove-following-requests-on-instagram/"><u>2024 Approved Steps to Remove Following Requests on Instagram</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sound-driver-glitches-on-a-dell-pc-using-windows-83647/"><u>How to Resolve Sound Driver Glitches on a Dell PC Using Windows #8364;7</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/qualitatsbewusstes-komprimieren-avi-videos-unter-windows-10-einfache-schritte-fur-eine-bessere-speicherung/"><u>Qualitätsbewusstes Komprimieren AVI-Videos Unter Windows 10: Einfache Schritte Für Eine Bessere Speicherung!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/specific-heat-plays-an-important-role-in-climate-science-as-it-affects-how-quickly-land-or-water-bodies-can-warm-up-or-cool-down-under-sunlight-or-during-ni662/"><u>Specific Heat Plays an Important Role in Climate Science as It Affects How Quickly Land or Water Bodies Can Warm up or Cool Down Under Sunlight or During Nighttime.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989929121-titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-list-elite-quality-4k-displays/"><u>TOP 10 List Elite Quality 4K Displays</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-setup-issues-in-audacity-with-these-5-effective-solutions/"><u>Troubleshoot Audio Setup Issues in Audacity with These 5 Effective Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hp-computers-sound-malfunction-under-windows-11/"><u>Troubleshooting HP Computer's Sound Malfunction Under Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016019998-turtle-beach-microphone-wont-work-heres-what-you-need-to-do/"><u>Turtle Beach Microphone Won't Work? Here's What You Need to Do!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-amplify-audio-levels-on-windows-10-computers-easily/"><u>Ultimate Tricks to Amplify Audio Levels on Windows 10 Computers Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-phone-link-microsofts-bluetooth-connectivity-app/"><u>Unveiling 'Phone Link': Microsoft’s Bluetooth Connectivity App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-premiere-pro-full-screen-magic/"><u>[New] Unlocking Premiere Pro Full-Screen Magic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>[Updated] Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ghostly-lens-takedown-reviews/"><u>2024 Approved Ghostly Lens Takedown Reviews</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-strategies-for-leveraging-the-question-sticker-on-instagram/"><u>2024 Approved The Ultimate Strategies for Leveraging the Question Sticker on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-fixing-the-hyperx-cloud-alpha-microphone-problems/"><u>DIY Repair Guide: Fixing the HyperX Cloud Alpha Microphone Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-productivity-how-microsoft-copilot-revolutionizes-writing-with-smart-suggestions/"><u>Enhancing Productivity: How Microsoft Copilot Revolutionizes Writing with Smart Suggestions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sound-malfunctions-in-obs-studio-tips-and-tricks-to-restore-recording-capabilities/"><u>Fixing Sound Malfunctions in OBS Studio: Tips and Tricks to Restore Recording Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-treatment-razer-mic-troubleshooting-made-easy/"><u>Fixing the Silent Treatment: Razer Mic Troubleshooting Made Easy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-finding-a-contacts-current-position-using-your-iphone/"><u>Guide: Finding a Contact's Current Position Using Your iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-valorant/"><u>How to Restore Voice Chat Functionality in Valorant</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/time-lapse-software-create-time-lapse-video-for-2024/"><u>Time Lapse Software Create Time Lapse Video for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-rated-alavsoft-udemy-app-compatible-with-mac-and-windows-11-8-7-vista-learn-anytime/"><u>Top Rated Alavsoft Udemy App Compatible with MAC & WINDOWS 11, 8, 7, Vista: Learn Anytime!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-the-solution-getting-your-realtek-hd-audio-manager-up-and-running-again/"><u>Unlock the Solution: Getting Your Realtek HD Audio Manager Up and Running Again</u></a></li>
 </ul></div>
 

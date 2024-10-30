@@ -1,7 +1,7 @@
 ---
 title: "Audio Troubles on PC: Fixing a Laptop When the Speakers Fail"
-date: 2024-09-05T03:59:48.168Z
-updated: 2024-09-06T03:59:48.168Z
+date: 2024-10-28T16:35:05.722Z
+updated: 2024-10-30T16:59:07.702Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
  **Don’t know how to test your microphone on your Windows computer?** Don’t worry! You’ve come to the right place. It’s pretty easy. After reading this post, you should be able to test your mic quickly and easily!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## There’re two methods to test your microphone
 
 1. **[Mic testing in Windows audio settings](https://tools.techidaily.com/drivereasy/download/)**
@@ -33,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Mic testing in Windows audio settings
 
  In Windows audio settings, you can easily perform a mic testing. Here’s how to do it:
@@ -52,19 +40,36 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control /name Microsoft.Sound** and press**Enter** to open**Windows sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Test your microphone
 
@@ -73,26 +78,8 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. **Right-click** **the speaker icon** in the bottom-right corner of your screen, then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
 
 ---
@@ -104,20 +91,16 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. On your keyboard, press**the Windows logo key** and type**recorder** . In the list of search results, click**Voice Recorder** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
@@ -125,11 +108,12 @@ Follow the steps below to test your microphone in Windows audio settings:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Bonus tip: How to fix microphone not working on your computer?
 
  Don’t worry if your microphone is not working on your computer. One of the most common causes of this problem is an outdated or a faulty sound card driver.
@@ -146,15 +130,16 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
 
@@ -169,8 +154,6 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +161,21 @@ Follow the steps below to test your microphone in Windows audio settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-non-operational-epson-printer-in-windows-11-environment/"><u>[FIXED] Non-Operational Epson Printer in Windows 11 Environment</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-supercharge-your-status-top-8-apps-for-boosting-facebook-popularity/"><u>[New] 2024 Approved Supercharge Your Status Top 8 Apps for Boosting Facebook Popularity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-profit-maximizers-playlist-8-tools-and-products-to-elevate-your-business-game/"><u>[Updated] Profit Maximizers Playlist 8 Tools & Products to Elevate Your Business Game</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/aumentar-a-intensidade-do-som-tecnicas-eferroviadas-para-controle-de-volume-e-as-maiores-ferramentas-no-mercado/"><u>Aumentar a Intensidade Do Som: Técnicas Eferroviadas Para Controle De Volume E as Maiores Ferramentas No Mercado</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-audio-problems-in-your-logitech-video-capture-device/"><u>Diagnosing & Solving Audio Problems in Your Logitech Video Capture Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-correcting-non-functional-microphone-settings-in-windows-11/"><u>Expert Advice: Correcting Non-Functional Microphone Settings in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-x8b-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor X8b Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g533-mic-working-perfectly-again/"><u>How to Get Your Logitech G533 Mic Working Perfectly Again</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-leading-your-audience-into-a-world-of-instagram-live/"><u>In 2024, Leading Your Audience Into a World of Instagram Live</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-sham-buzzwords-in-fake-game-ads/"><u>Scrutinizing Sham Buzzwords in Fake Game Ads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-issues-in-windows-solutions-for-audio-pop-ups/"><u>Troubleshooting Sound Issues in Windows - Solutions for Audio Pop-Ups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-your-skype-mic-issues-on-windows-11/"><u>Troubleshooting: Fixing Your Skype Mic Issues on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 Pro i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 

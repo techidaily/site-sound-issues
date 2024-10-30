@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Compatibility with IDT High Definition Sound Card - Solved
-date: 2024-10-21T19:48:49.052Z
-updated: 2024-10-24T18:05:53.333Z
+date: 2024-10-29T17:19:56.348Z
+updated: 2024-10-30T17:17:50.305Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Faulty audio driver can be the lead cause of this problem. You can reinstall its
 2) Expand**Sound, video and game controllers** and locate**IDT High Definition Audio CODEC**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784665dcbc35.png)3) Right-click **IDT High Definition Audio CODEC** and select**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784923683fba.png)Select**OK**when the confirmation window pops up. 4) Restart your computer after this change to make sure that Windows Update help you with the update of the driver for your audio device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 2: Update driver automatically (Recommended)**
@@ -46,10 +46,16 @@ If reinstalling driver doesn’t help you with it, you should try update your au
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e04542e1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged sound card driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**_Update All_**).
@@ -57,10 +63,10 @@ If reinstalling driver doesn’t help you with it, you should try update your au
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e18a76b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve encountered any questions while using Driver Easy, please feel free to contact our support team at <support@drivereasy.com> for further assistance. Our support team would be happy to help you resolve this issue.**Please attach the URL of this article** so we could assist you better.
@@ -82,21 +88,15 @@ If you have any ideas or questions, please feel free to leave your comments belo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snapchats-secret-stories-creation-guide/"><u>[New] 2024 Approved Mastering Snapchat's Secret Stories Creation Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-first-edition-top-notch-user-centric-game-edit-apps/"><u>[New] In 2024, First Edition Top-Notch, User-Centric Game Edit Apps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nlock-the-secrets-of-efficient-banner-use-in-game-channels/"><u>[New] Unlock the Secrets of Efficient Banner Use in Game Channels</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-pathway-to-professional-pc-livestreams-with-tiktok/"><u>[Updated] The Pathway to Professional PC Livestreams with TikTok</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/lating-riches-a-look-at-mr-beasts-wallet/"><u>Calculating Riches A Look at Mr. Beast's Wallet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-instantly-hp-officejet-5740-printer-drivers-fast-reliable-setup/"><u>Download Instantly: HP OfficeJet 5740 Printer Drivers - Fast, Reliable Setup</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fingerprint-sensor-no-reading-on-pc/"><u>Fingerprint Sensor: No Reading on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-a-non-functioning-mic-in-microsoft-teams-for-windows-operating-systems/"><u>How to Troubleshoot a Non-Functioning Mic in Microsoft Teams for Windows Operating Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-itel-a60-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Itel A60 Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-for-no-sound-in-logitech-g93-revised-problem/"><u>Quick Fix for No Sound in Logitech G93 # Revised Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-fortnite-audio-problems-in-no-time-with-these-easy-steps/"><u>Resolve Fortnite Audio Problems in No Time with These Easy Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-skype-audio-repairing-microphone-problems-in-windows-10/"><u>Revive Your Skype Audio: Repairing Microphone Problems in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-audacity-problem-how-to-fix-sound-device-not-found-glitch/"><u>Solve Your Audacity Problem: How to Fix 'Sound Device Not Found' Glitch</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-broadcasters-blueprint-step-by-step-windows-pc-guide-to-live-capture-for-2024/"><u>The Broadcaster's Blueprint Step-by-Step Windows PC Guide to Live Capture for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-restore-functionality-to-your-corsair-hs60-headsets-mic/"><u>Troubleshooting Tips: How to Restore Functionality to Your Corsair HS60 Headset's Mic</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-getting-acquainted-with-zoom-segregated-sessions/"><u>[Updated] In 2024, Getting Acquainted with Zoom Segregated Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-monthly-income-prospects-for-youtube-creators/"><u>[Updated] Monthly Income Prospects for YouTube Creators</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-sound-quality-problems-in-windows-10-and-7-clear-audio-distortion-and-skipping-issues/"><u>Eliminate Sound Quality Problems in Windows 10 & 7: Clear Audio Distortion and Skipping Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gear-up-your-new-iphone-with-essential-anker-charger-extras-latest-tech-insights/"><u>Gear Up Your New iPhone with Essential Anker Charger Extras - Latest Tech Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-130-music-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia 130 Music Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016827385-redragon-microphone-malfunction-heres-how-you-can-fix-it/"><u>Redragon Microphone Malfunction? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-scrambled-avchd-files/"><u>Repairing Scrambled AVCHD Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-disconnected-nvidia-graphics-top-tips-and-fixes/"><u>Resolving Disconnected Nvidia Graphics: Top Tips & Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016347282-troubleshooting-guide-fixing-steelseries-arctis-pro-microphone-issues-resolved/"><u>Troubleshooting Guide: Fixing SteelSeries Arctis Pro Microphone Issues - Resolved</u></a></li>
 </ul></div>
 

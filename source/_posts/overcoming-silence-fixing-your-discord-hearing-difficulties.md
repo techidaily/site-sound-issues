@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Silence: Fixing Your Discord Hearing Difficulties"
-date: 2024-10-18T21:55:53.080Z
-updated: 2024-10-24T18:45:05.933Z
+date: 2024-10-28T16:41:30.651Z
+updated: 2024-10-30T17:34:40.833Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
@@ -59,16 +59,16 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -76,6 +76,13 @@ There’re mainly two ways for you to update an audio driver:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Change sound settings
 
@@ -85,37 +92,24 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Open Discord application, and go to**User Settings** .
 
  5) Under**Voice Settings** , choose the correct**Input Device** and**Output Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
@@ -156,22 +150,24 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-decoding-watermarks-in-social-media-imagery/"><u>[Updated] In 2024, Decoding Watermarks in Social Media Imagery</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elite-race-sims-ultimate-selection/"><u>[Updated] In 2024, Elite Race Sims Ultimate Selection</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-essential-guide-to-creating-cinematic-videos-in-camtasa/"><u>[Updated] In 2024, The Essential Guide to Creating Cinematic Videos in Camtasa</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-6-social-media-channels-fostering-business-innovation/"><u>[Updated] Leading 6 Social Media Channels Fostering Business Innovation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/10-basic-blocks-house-concepts-for-mc-players-for-2024/"><u>10 Basic Blocks House Concepts for MC Players for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-se-2020ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone SE (2020)/iPad/iPod</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-epochs-epic-journey-best-free-mmo-games-roundup/"><u>In 2024, Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-smartwatch-syncing-made-simple-contact-family-and-friends-effortlessly-with-an-apple-wrist-device/"><u>IOS Smartwatch Syncing Made Simple: Contact Family & Friends Effortlessly with an Apple Wrist Device</u></a></li>
-<li><a href="https://win-updates.techidaily.com/navigating-the-void-understanding-page-unavailable-errors/"><u>Navigating the Void: Understanding 'Page Unavailable' Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-how-to-ensure-your-discord-captures-in-game-sound/"><u>Resolved: How to Ensure Your Discord Captures In-Game Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-how-to-troubleshoot-silent-windows-media-player-on-pcs/"><u>Resolved: How to Troubleshoot Silent Windows Media Player on PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-silent-system-post-windows-11-upgrade-quick-fix/"><u>Resolved: Silent System Post-Windows 11 Upgrade - Quick Fix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-your-hearing-in-apex-legends-expert-tips-to-fix-sound-issues-and-enjoy-gameplay/"><u>Restoring Your Hearing in Apex Legends: Expert Tips to Fix Sound Issues and Enjoy Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-spellcasting-sounds-a-step-by-nstep-guide-for-quieted-hearthstone-battles/"><u>Revive Your Spellcasting Sounds - A Step-by-nStep Guide for Quieted Hearthstone Battles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-soundscape-fixing-noise-problems-in-windows-10-update/"><u>Reviving Soundscape: Fixing Noise Problems in Windows 10 Update</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-non-functional-turtle-beach-elite-atlas-mic-problems/"><u>Solution Steps for Non-Functional Turtle Beach Elite Atlas Mic Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-windows-11-speaker-malfunctions-with-these-proven-techniques/"><u>Solve Windows 11 Speaker Malfunctions With These Proven Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigating-instagram-data-a-complete-analysis-for-businesses-and-individuals/"><u>[New] In 2024, Navigating Instagram Data A Complete Analysis for Businesses and Individuals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-avoid-oversaturated-greenscreen-effective-strategies-for-mac-editors-for-2024/"><u>[Updated] Avoid Oversaturated Greenscreen Effective Strategies for Mac Editors for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[Updated] Guerrilla Marketing for YouTube Upping Video Traffic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>[Updated] In 2024, Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/august-25th-dwayne-johnson-an-american-actor-known-for-his-roles-in-various-films-he-was-born-to-former-professional-wrestler-rocky-johnson-and-ata-maivia.m651/"><u>August 25Th - Dwayne Johnson, an American Actor Known for His Roles in Various Films. He Was Born to Former Professional Wrestler Rocky Johnson and Ata Maivia.</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208263035-beating-the-windows-10-update-blues-cracking-code-0xc1900208-successfully/"><u>Beating the Windows 10 Update Blues: Cracking Code 0xC1900208 Successfully!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-why-ios-gets-the-preferential-treatment-in-gpt/"><u>Discovering Why iOS Gets the Preferential Treatment in GPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-audio-gear-reviving-a-dead-steelseries-halo-30-microphone/"><u>Getting the Most Out of Your Audio Gear: Reviving a Dead SteelSeries Halo 30 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-mic-not-working-solved/"><u>HyperX Cloud Stinger Mic Not Working [Solved]</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-loss-of-audio-output-in-your-laptop-expert-tips-for-quick-repair/"><u>Solving Loss of Audio Output in Your Laptop – Expert Tips for Quick Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-and-flaws-in-windows-10-a-comprehensive-guide/"><u>Troubleshooting Audio Glitches & Flaws in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-in-discord-a-guide-for-silent-users/"><u>Troubleshooting Audio Problems in Discord - A Guide for Silent Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restoring-sound-in-your-windows-11-system/"><u>Troubleshooting Guide: Restoring Sound in Your Windows 11 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hp-laptop-sound-problems-effective-solutions/"><u>Troubleshooting HP Laptop Sound Problems: Effective Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-non-paged-memory-issues-in-windows-10-pcs/"><u>Troubleshooting Non-Paged Memory Issues in Windows 10 PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/turn-up-the-volume-with-instagram-reels-copycat-tiktok-style/"><u>Turn Up the Volume with Instagram Reels, Copycat TikTok Style</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unsticking-stuck-playback-a-guide-to-fixing-pebble-speakers/"><u>Unsticking Stuck Playback: A Guide to Fixing Pebble Speakers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/virtual-vistas-of-video-select-top-6-apps-for-macos-big-surs-editors-for-2024/"><u>Virtual Vistas of Video Select Top 6 Apps for macOS Big Sur's Editors for 2024</u></a></li>
 </ul></div>
 

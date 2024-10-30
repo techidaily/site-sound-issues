@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Your SteelSeries Headset: Arctis 9/9X Microphone Repair Tips Revealed"
-date: 2024-09-05T04:01:46.974Z
-updated: 2024-09-06T04:01:46.974Z
+date: 2024-10-29T17:40:47.306Z
+updated: 2024-10-30T16:25:45.848Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Troubleshoot Your SteelSeries Headset: Arctis 9
 thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12434956d1fe5521df7d6718e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting and Repairing Your Arctis 9X Mic - Fixed
 
 **SteelSeries Arctis 9** and**SteelSeries Arctis 9X** are premium gaming headsets that allow users to connect to the PC through the use of an adapter. Recently, quite a few players are reporting**the mic not working problem** on their**SteelSeries Arctis 9** **or 9X** gaming headsets. If you happen to be in the same boat, don’t worry. It is not hard to fix at all…
@@ -42,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
  SteelSeries Arctis 9/9X also has a hardware reset switch that allows you to reset the headphone. Press it and hold it down for around 1 second.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/arctis9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have double-checked these items, test your mic to see if it’s working properly. If yes, then great! If the problem persists, please move on to **Fix 2** below.
 
 ## Fix 2: Update your audio drivers
@@ -56,24 +57,26 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer and check if the mic not working on your SteelArctis 9/9X problem is resolved. If it’s no joy, head onto**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Allow access to microphone
 
@@ -81,35 +84,33 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
 
 1. On your keyboard, press the **Windows** **logo** **key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , and type**privacy** . Click on**Microphone privacy settings** when it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.png)
-2. In the **Allow Apps To Access Your Microphone** section, make sure the toggle is**On** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2. In the **Allow Apps To Access Your Microphone** section, make sure the toggle is**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-16.png)
 3. Scroll down to**Choose which app can access your microphone** section, and make sure that you have turned on the toggles for all the apps through which you need the microphone function.  
+
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-7.png)
 4. Test your mic to see if it’s working properly. If yes, congrats – you’ve resolved the issue! If the problem persists, please try**Fix 4** , below.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify your audio settings
 
@@ -122,26 +123,24 @@ So in this fix, you can follow the steps below to check:
 2. Click the **Recording** tab. Then make sure that your SteelSeries Arctis 9/9X mic is set as **Default Device** and click **Properties** (Here I just attach a screenshot as a reference of instruction).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-17.png)
 3. In**Levels** , make sure you have slided the Digital Audio (S/PDIF) bar to an appropriate level. Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123.png)
 4. Click the**Advanced** tab. Under the **Default Format** section, choose a different sample rate and bit depth and click **Test** . Repeat this process until you find a format that works for you. Then, make sure the box for **Allow application to take exclusive control of this deviice** is **unticked** . After that, click**Apply** \>**OK** .  
+
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1234-3.png)
 
 ## Fix 5: Install the latest SteelSeries Engine software
@@ -153,21 +152,9 @@ So in this fix, you can follow the steps below to check:
 1. On your keyboard, press the **Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and **R** at the same time to invoke the Run box. Then type **appwiz.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-16.png)
 2. Right-click on **SteelSeries Engine** and click **Uninstall** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Navigate to[**SteelSeries Engine page**](https://steelseries.com/engine) . Then choose the download that’s corresponding to your version of Operating System.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-15.png)
 4. Once complete, run this executable file and follow the on-screen instructions to install Engine.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Restart your computer for the changes to take effect.
 6. Try your Steel Arctis 9 or 9X headphone to see if the microphone function is restored.
 
@@ -183,8 +170,6 @@ So in this fix, you can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +177,24 @@ So in this fix, you can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-calculator-projected-profits-from-youtube/"><u>[New] 2024 Approved Calculator Projected Profits From YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-premier-5-high-resolution-film-makers/"><u>[New] 2024 Approved Premier 5 High-Resolution Film Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elite-7-film-downloader-apps-for-2024/"><u>[New] Elite 7 Film Downloader Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-eye-catching-vlog-talk-points/"><u>[New] In 2024, Eye-Catching Vlog Talk Points</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-game-on-camera-strategies-for-videographers-in-sports/"><u>[Updated] 2024 Approved Game On, Camera! Strategies for Videographers in Sports</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-no-fuss-video-snipping-for-w10-users/"><u>[Updated] In 2024, No-Fuss Video Snipping for W10 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/androidmp4/"><u>AndroidスマートフォンにおけるMP4動画の正しい再生方法</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-kivoton-g2000-microphones-back-online-effective-fixes-and-tips/"><u>Getting Your Kivoton G2000 Microphones Back Online: Effective Fixes and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-driver-verifier-manager-in-windows-11/"><u>How to Open the Driver Verifier Manager in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-oculus-quest-2s-malfunctioning-microphone-problem/"><u>How to Resolve Oculus Quest 2'S Malfunctioning Microphone Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-microphone-malfunction-solutions-and-tips/"><u>HyperX Cloud Alpha Microphone Malfunction: Solutions & Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-smart-8-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Smart 8 Pro Lock Screen Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-realtek-audio-driver-fails-restoring-system-volume/"><u>Solved: Realtek Audio Driver Fails - Restoring System Volume</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-turtle-beach-headset-microphones-quickly-and-easily/"><u>Troubleshooting and Repairing Turtle Beach Headset Microphones Quickly & Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-multiple-unresponsive-audio-services-easily/"><u>Troubleshooting and Resolving Multiple Unresponsive Audio Services Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-gearbox-g435-wireless-headset-step-by-step-guide/"><u>Troubleshooting Silent Gearbox G435 Wireless Headset - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-non-functional-runmus-mic-in-gaming-setup/"><u>Troubleshooting Techniques for Non-Functional RunmuS Mic in Gaming Setup</u></a></li>
+</ul></div>
 

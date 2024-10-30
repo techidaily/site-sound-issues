@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions for an Unconnected Nvidia Graphics Card
-date: 2024-10-18T21:54:09.896Z
-updated: 2024-10-24T18:56:43.886Z
+date: 2024-10-28T16:43:14.622Z
+updated: 2024-10-30T16:39:05.774Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 4. **[Use the generic high definition audio device driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check NVIDIA Output settings
@@ -45,13 +45,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/set-up.jpg)
 3. Click**Open Windows Sound Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Under the**Playback** tab, right-click the blank area and check**Show Disabled Devices** and**Show Disconnected Devices** . Your device should not be grayed out anymore.
 5. Select your device and**Set Default** .
 
@@ -59,13 +52,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
  If you bump into HDMI no sound issues, you can check this article:  
 [How to Fix HDMI No Sound after Connecting Computer to Monitor and TV.](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update NVIDIA graphics driver
 
@@ -86,18 +72,19 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 4. After performing the system check, select only**NVIDIA Graphics Driver** . Then click**AGREE AND CONTINUE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/select.jpg)
 5. Select**Custom(Advanced)** \>**NEXT** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/installation-options.jpg)
 6. Be sure to tick the box next to**Perform a clean installation** , then click**NEXT** .  
  (You can uncheck the software you don’t need.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-install.jpg)
 7. Follow the on-screen instructions to complete the installation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Restart your computer for the changes to take effect.
 
@@ -120,6 +107,13 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-all-your-drivers-3.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Go to Playback devices and see if the issue has been solved. Your audio output devices should be “ready” instead of “not plugged in” now.
 
  If you need assistance, please contact **Driver Easy’s support** **team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -131,16 +125,31 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 1. Right click the**Start** menu and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manger.png)
 2. Double click**Display Adapters** , then right click your graphics card driver and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/properties.png)
 3. Go to the**Driver** tab, and select**Roll Back Driver** if the option is not gray.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver.png)
 4. Follow the on-screen instructions to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Use the generic high definition audio device driver
@@ -157,13 +166,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 6. Select**High Definition Audio Device** . Then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update.png)
 7. Click**No** if you’re prompted for a restart.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Go back to Device Manager and click Action, then select**Scan for hardware changes** .
 9. Check if the issue still persists.
@@ -187,20 +189,21 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[Updated] Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-format-conversion-for-mac-screenshots-for-2024/"><u>[Updated] Mastering Format Conversion for Mac Screenshots for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-minimize-surround-loudness-economical-and-premium-solutions/"><u>[Updated] Minimize Surround Loudness - Economical & Premium Solutions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/celestial-craftsmanship-perfecting-night-portraits-step-by-step/"><u>Celestial Craftsmanship Perfecting Night Portraits Step-by-Step</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-google-play-books-vs-amazon-kindle-which-is-superior/"><u>Comprehensive Guide: Google Play Books Vs. Amazon Kindle - Which Is Superior?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-devices-earphone-port-solutions-for-non-functional-front-audio-jack/"><u>Reviving Your Device's Earphone Port: Solutions for Non-Functional Front Audio Jack</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-10/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problems-with-windows-media-player-for-a-perfect-listening-experience/"><u>Solving 'No Sound' Problems with Windows Media Player for a Perfect Listening Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-persistent-click-issue-eliminating-sound-problems-on-windows-computers/"><u>Solving the Persistent 'Click' Issue: Eliminating Sound Problems on Windows Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-speaker-problems-on-windows-11-quickly-and-easily/"><u>Solving Your Speaker Problems on Windows 11 Quickly and Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speakers-best-friend-a-step-by-step-approach-to-rapid-mic-evaluation/"><u>Speaker's Best Friend: A Step-by-Step Approach to Rapid Mic Evaluation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-headset-mic-failure-solutions-at-hand/"><u>SteelSeries Arctis Prime Headset Mic Failure - Solutions at Hand</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-your-windows-10-pc/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Your Windows 10 PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformar-videos-vob-a-formato-asf-online-sin-coste-guia-paso-a-paso-con-movavi/"><u>Transformar Videos VOB a Formato ASF Online Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-full-review-of-the-latest-powerdirector-app-24/"><u>[New] In 2024, Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-durecorder-handbook-insights-and-evaluation/"><u>[Updated] Ultimate DuRecorder Handbook Insights & Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-emotional-odyssey-charting-the-territory-of-feelings/"><u>AI's Emotional Odyssey: Charting the Territory of Feelings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-game-crashing-or-no-sound-troubleshoot-for-windows-11-users/"><u>Anthem Game Crashing or No Sound? Troubleshoot for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-shutting-down-advanced-audio-options-for-windows-10-users/"><u>Expert Tips on Shutting Down Advanced Audio Options for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-is-my-phasmophobia-games-voice-chat-malfunctioning/"><u>Fixing the Issue: Why Is My Phasmophobia Game's Voice Chat Malfunctioning?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960759788-get-the-latest-upgrade-for-your-dymo-4xl-label-printer-today/"><u>Get the Latest Upgrade for Your DYMO 4XL Label Printer Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-pova-5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Pova 5 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016610663-laptop-speakers-not-working-heres-how-you-can-fix-it/"><u>Laptop Speakers Not Working? Here's How You Can Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-audio-problems-with-airpods-on-your-windows-pc/"><u>Quick Fixes for Audio Problems with AirPods on Your Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-gaming-experience-can-your-favorite-ps4-games-work-with-ps5-technology/"><u>Seamless Gaming Experience: Can Your Favorite PS4 Games Work with PS5 Technology?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-media-files-from-xmltxt-to-srt-mastery-for-2024/"><u>Streamlining Media Files From XML/TXT to SRT Mastery for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshoot-non-playing-apple-videos/"><u>Troubleshoot Non-Playing Apple Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-unresponsive-audio-services-solutions-proven-effective/"><u>Troubleshooting & Fixing Unresponsive Audio Services: Solutions Proven Effective</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-amplify-speaker-output-in-windows-10/"><u>Ultimate Tricks to Amplify Speaker Output in Windows 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-virtualdub-is-it-still-the-best-top-alternatives-revealed/"><u>Updated 2024 Approved Virtualdub Is It Still the Best? Top Alternatives Revealed</u></a></li>
 </ul></div>
 

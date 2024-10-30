@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: How to Repair the Unresponsive Mic on Your Corsair HS60"
-date: 2024-10-19T20:58:39.004Z
-updated: 2024-10-24T20:07:10.327Z
+date: 2024-10-23T17:03:42.303Z
+updated: 2024-10-30T17:07:26.089Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Select the Bluetooth device as the default playback device
 
  Sometimes we might need to set our audio devices as default in order for them to work properly. To do so:
@@ -45,10 +52,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Set Default** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
@@ -57,10 +64,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the audio level is high enough
@@ -76,10 +83,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 4. Click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
@@ -95,26 +102,26 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 2. Double-click on**Bluetooth Support Service** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your Bluetooth driver
 
@@ -137,13 +144,6 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -181,17 +181,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-ultimate-tutorial-looping-techniques-for-maximum-watcher-satisfaction/"><u>[New] 2024 Approved Ultimate Tutorial Looping Techniques for Maximum Watcher Satisfaction</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigate-through-group-sharing-options-on-messenger/"><u>[New] Navigate Through Group Sharing Options on Messenger</u></a></li>
-<li><a href="https://win-news.techidaily.com/aomei-backupper-and-cyberbackup-for-windows/"><u>優れたバックアップソリューション：AOMEI Backupper & CyberBackup for Windowsサーバー用販売方法</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/bargain-bin-of-the-clouds-spacious-file-staging-area-for-2024/"><u>Bargain Bin of the Clouds Spacious File Staging Area for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-nokia-c12-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Nokia C12 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/immersive-viewing-microsoft-edges-pip-for-2024/"><u>Immersive Viewing Microsoft Edge's PIP for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/insider-tips-for-fixing-audio-problems-in-resident-evil-village-title/"><u>Insider Tips for Fixing Audio Problems in Resident Evil Village Title</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016027727-insiders-trick-for-fixing-nonfunctional-speakers-in-the-latest-windows-os/"><u>Insider's Trick for Fixing Nonfunctional Speakers in the Latest Windows OS!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/link-sounds-to-visual-elements-in-ppt-for-2024/"><u>Link Sounds to Visual Elements in PPT for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-the-roar-of-battle-how-to-get-sounds-back-in-valheim-for-pc-players/"><u>Restoring the Roar of Battle: How to Get Sounds Back in Valheim for PC Players</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-2024-solution-resolving-rec-room-microphone-problems-on-personal-computers/"><u>The Definitive 2024 Solution: Resolving Rec Room Microphone Problems on Personal Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-issues-when-your-discord-voice-call-wont-connect/"><u>Troubleshooting: Fixing Issues When Your Discord Voice Call Won't Connect</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exploring-cinema-best-filming-cameras-from-35mm-to-point-and-shoot/"><u>[Updated] 2024 Approved Exploring Cinema Best Filming Cameras From 35Mm to Point-and-Shoot</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-sound-delay-fast-fixes-and-solutions/"><u>Bluetooth Sound Delay: Fast Fixes and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-sudden-sound-cutoffs-in-windows-10-now-fixed/"><u>Expert Tips for Resolving Sudden Sound Cutoffs in Windows 10 - Now Fixed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-windows-media-player-volume-issues-ultimate-guide-with-solutions/"><u>Fix Windows Media Player Volume Issues: Ultimate Guide with Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-voice-chat-with-in-game-audio-on-discord-platforms/"><u>Mastering Voice Chat with In-Game Audio on Discord Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/nearing-its-end-the-iconic-60-year-legacy-of-the-4-pin-molex-connector/"><u>Nearing Its End: The Iconic 60-Year Legacy of the 4-Pin Molex Connector</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pushing-boundaries-of-video-production-in-youtube-studio/"><u>Pushing Boundaries of Video Production in YouTube Studio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-hyperx-cloud-alpha-s-mic-expert-tips/"><u>Troubleshoot and Repair Your HyperX Cloud Alpha S Mic - Expert Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/uncover-the-best-android-photo-editor-does-picku-stand-out-in-2024/"><u>Uncover the Best Android Photo Editor – Does PickU Stand Out, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-full-screen-flexibility-with-pip-on-iphone-youtube-app/"><u>Unleash Full Screen Flexibility with PIP on iPhone YouTube App</u></a></li>
 </ul></div>
 

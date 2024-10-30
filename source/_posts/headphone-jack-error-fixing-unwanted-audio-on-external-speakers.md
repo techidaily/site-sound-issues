@@ -1,7 +1,7 @@
 ---
 title: "Headphone Jack Error: Fixing Unwanted Audio on External Speakers"
-date: 2024-10-11T18:23:55.948Z
-updated: 2024-10-18T19:15:50.520Z
+date: 2024-10-29T17:54:21.569Z
+updated: 2024-10-30T17:55:05.616Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ Hey, buddy, can you hear me?
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b3985ef65.jpg)  
    3. **Turn off** Voice Chat, then click**Apply** at the bottom.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88b6b121fbd.jpg)
 2. Close Fortnite.
 3. **Right-click** the volume icon in the bottom-right part of your screen, then select **Sounds.** \>>If you are using Windows 11, it will be Settings > System > Sound > More sound settings.  
@@ -62,34 +55,28 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf478c5ca3c.jpg)
 5. **Right-click** on the device you want to use, and select**Set as Default Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47aa5ad97.jpg)  
 **Note:** You can try**speaking into your microphone** to test if it’s working properly. If it is, you should see a green bar rising next to it while you talk.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47cf4729b.jpg)
 6. **Right click** on and**disable** every other input device except the one you want to use. (If you have any other output devices, repeat for the**Playback** tab).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf47f49119e.jpg)
 7. Click**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Open Fortnite again, go to the settings menu and**turn Voice Chat on** .
 9. Join a squad or duo to test if your mic works now. If not, try Method 2 below.
@@ -113,13 +100,6 @@ Hey, buddy, can you hear me?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb0550e404c0.jpg)
 4. Restart your computer and check if your mic now works properly in Fortnite. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Method 3 below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Method 3: Restart the Windows Audio service
@@ -130,8 +110,24 @@ Hey, buddy, can you hear me?
 2. Type**services.msc** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf51cc29fe5.png)
 3. Find and right-click on **Windows Audio** , then click **Restart** on the upper left.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf52397a39c.jpg)
 4. **Close** the Services window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Relaunch** Fortnite to see if your mic is working now.
 
 ---
@@ -159,14 +155,14 @@ Hey, buddy, can you hear me?
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Settings-Privacy-and-security-Microphone.jpg)
 3. Toggle on **Microphone access** and **Let apps access your microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![windows 11 - Make sure apps have access to your microphone](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Microphone-access-and-Let-apps-access-your-microphone-On.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, make sure that you toggle on **Let desktop apps access your microphone** .  
 
@@ -174,19 +170,19 @@ Hey, buddy, can you hear me?
 4. Now test your voice chat in-game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Check for Windows updates
@@ -202,6 +198,13 @@ Hey, buddy, can you hear me?
  That’s it. You’re more than welcome to leave a comment below to share your results or any other suggestions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ea7983aa7-269x300.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Enjoy your game!
 
@@ -223,22 +226,18 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-pinnacle-of-image-capture-highlighting-the-best-10-4k-phone-cameras-for-2024/"><u>[New] Pinnacle of Image Capture Highlighting the Best 10 4K Phone Cameras for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-microsoft-teams-mic-not-working-on-windows-1110/"><u>[SOLVED] Microsoft Teams Mic Not Working on Windows 11/10</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oneplus-ace-2-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your OnePlus Ace 2 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-methods-to-remove-accessories-from-your-google-smart-home-ecosystem/"><u>Easy Methods to Remove Accessories From Your Google Smart Home Ecosystem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-audio-inspection-the-definitive-method-to-test-microphones-on-the-go/"><u>Effortless Audio Inspection: The Definitive Method to Test Microphones on the Go!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-your-quiet-turtle-beach-advance-prise-microphone-get-it-working-again/"><u>Expert Fixes for Your Quiet Turtle Beach Advance Prise Microphone – Get It Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-windows-1110-bluetooth-stuttering-a-step-by-step-guide-to-smooth-sound/"><u>Fix Your Window's 11/10 Bluetooth Stuttering: A Step-by-Step Guide to Smooth Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-fixing-inoperative-mics-on-windows-1110-for-seamless-google-meetings/"><u>Get Your Sound Back: Fixing Inoperative Mics on Windows 11/10 for Seamless Google Meetings</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/horizon-zero-dawn-upgrade-unlocking-enhanced-speed-and-performance-potential/"><u>Horizon Zero Dawn Upgrade: Unlocking Enhanced Speed and Performance Potential</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y78-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-zte-nubia-flip-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing ZTE Nubia Flip 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-problems-with-the-logitech-g533-headset-mic/"><u>Troubleshooting and Solving Problems with the Logitech G533 Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-stalled-auditory-outputs-in-multi-service-configurations/"><u>Troubleshooting Stalled Auditory Outputs in Multi-Service Configurations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-chat-problems-for-a-smooth-co-op-experience-in-back-4-blood/"><u>Troubleshooting Voice Chat Problems for a Smooth Co-Op Experience in Back 4 Blood</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-prevent-and-solve-scavengers-pc-game-crashes/"><u>Ultimate Guide to Prevent and Solve Scavengers PC Game Crashes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/write-characters-that-come-alive-discover-the-best-11-prompts-for-using-chatgpt-in-book-development/"><u>Write Characters That Come Alive: Discover the Best 11 Prompts for Using ChatGPT in Book Development</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eamless-addition-youtube-videos-into-google-slides/"><u>[New] Seamless Addition YouTube Videos Into Google Slides</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials/"><u>[Updated] 2024 Approved Step-by-Step Adding Subsections and Chapters to Your YouTube Tutorials</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-conquering-macs-record-functionality-keyboard-driven-tips/"><u>[Updated] Conquering Mac's Record Functionality Keyboard-Driven Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-audio-drivers-for-windows-7/"><u>Download Audio Drivers for Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-non-workingnot-captured-obs-desktop-sounds/"><u>Essential Fixes for Non-Working/Not Captured OBS Desktop Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-phasmophobia-voice-communication-problems/"><u>How to Resolve Phasmophobia Voice Communication Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-on-g435-headset-comprehensive-solutions-for-mute-microphones-and-speakers/"><u>Reviving Audio on G435 Headset: Comprehensive Solutions for Mute Microphones and Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-windows-10-headphone-issues-a-comprehensive-fix/"><u>Solving Your Windows 10 Headphone Issues - A Comprehensive Fix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-630-gpu-software-enhancement/"><u>Speedy 630 GPU Software Enhancement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-resolving-speaker-delay-challenges/"><u>The Definitive Guide to Resolving Speaker Delay Challenges</u></a></li>
+<li><a href="https://win-help.techidaily.com/wie-ubertragen-sie-songs-vom-pc-zu-allen-ipod-modellen-einfach-und-schnell/"><u>Wie Übertragen Sie Songs Vom PC Zu Allen iPod-Modellen Einfach Und Schnell?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-audio-troubles-heres-how-to-restore-game-sounds/"><u>World of Warcraft Audio Troubles? Here's How to Restore Game Sounds!</u></a></li>
 </ul></div>
 

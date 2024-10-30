@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your PC's Sound Difficulties in Windows 11 - A Step-by-Step Approach
-date: 2024-10-17T16:44:05.797Z
-updated: 2024-10-24T21:10:47.005Z
+date: 2024-10-25T16:24:41.132Z
+updated: 2024-10-30T16:25:28.316Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** In the left pane, scroll down and click**Microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2.jpg)
@@ -51,15 +58,22 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** **Toggle on** to allow apps to access your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Scroll down to the**Allow desktop apps to access your microphone** section, and make sure to**turn on** this setting.
 
@@ -68,13 +82,6 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
  Now that you’ve granted the access, check if your microphone can pick up your voice as intended. If not, please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Check your microphone settings
 
@@ -88,6 +95,19 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Recording** tab. Then, right-click on any empty area and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3.jpg)
@@ -100,13 +120,6 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Right-click your microphone and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
@@ -118,13 +131,6 @@ You’re joining an online meeting on Zoom but find the microphone isn’t worki
 **8)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After settings are applied as above, your microphone should be working fine. You can simply take a mic test on Zoom to check. If the issue persists, please move on to the next fix.
 
@@ -152,6 +158,13 @@ There are two ways you can update your audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -160,13 +173,6 @@ There are two ways you can update your audio driver:
  The up-to-date audio driver should make you use the microphone on Zoom without trouble. If this method isn’t helpful, there are a few more fixes to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Modify Zoom’s audio settings
 
@@ -180,34 +186,20 @@ There are two ways you can update your audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Tick**Automatically join audio by computer when joining a meeting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the**Advanced** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Configure the settings as below:
 
@@ -218,6 +210,13 @@ There are two ways you can update your audio driver:
  Join a meeting to test if your microphone works on Zoom. If you see the microphone icon with a red line in the bottom bar, it’s muted, and you need to click the icon to unmute it before other participants can hear you. If the mic-not-working problem remains, please check out the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Zoom
 
@@ -230,6 +229,13 @@ There are two ways you can update your audio driver:
 **2)** Right-click**Zoom** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/6-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the uninstallation process. Then, download Zoom from the **[official website](https://zoom.us/download)**  and install a fresh new app on your computer.
 
@@ -256,20 +262,20 @@ There are two ways you can update your audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guided-approach-to-saving-exact-youtube-segments/"><u>[New] 2024 Approved Guided Approach to Saving Exact YouTube Segments</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-hacking-halted-swift-steps-to-recover-your-fb-account-for-2024/"><u>[New] Hacking Halted Swift Steps to Recover Your FB Account for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-easily-access-igtv-content-download-guide-for-pcmac-users/"><u>[New] In 2024, Easily Access IGTV Content Download Guide for PC/Mac Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-transform-your-channel-with-effective-youtube-link-protocols/"><u>2024 Approved Transform Your Channel with Effective YouTube Link Protocols</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-making-headphones-appear-in-windows-10-playback-device-list/"><u>Guide: Making Headphones Appear in Windows 10 Playback Device List</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-address-audio-malfunctions-within-the-newworld-environment/"><u>How to Address Audio Malfunctions Within the NewWorld Environment</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/how-to-create-a-live-stream-on-youtube-with-the-best-webcams-for-2024/"><u>How to Create a Live Stream on YouTube With the Best Webcams for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-relocate-your-downloads-seamless-file-transfer-between-c-and-d-drives/"><u>How to Relocate Your Downloads: Seamless File Transfer Between C and D Drives</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-razer-kraken-audio-input-device/"><u>How to Repair a Non-Functional Razer Kraken Audio Input Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-issue-with-jbl-quantum-one-headset-g435/"><u>How to Resolve 'No Sound' Issue with JBL Quantum ONE Headset (G435)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-when-your-discord-voice-chats-wont-connect/"><u>How to Resolve Problems When Your Discord Voice Chats Won't Connect</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-affordable-and-reliable-discover-the-best-online-passport-photo-apps/"><u>In 2024, Affordable & Reliable Discover the Best Online Passport Photo Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-sound-setbacks-repairing-your-dota-2-pcs-mic-functionality/"><u>Overcoming Sound Setbacks: Repairing Your Dota 2 PC's Mic Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-livekernelevent-117-mishap-a-comprehensive-guide/"><u>Solving the LiveKernelEvent 117 Mishap: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/uninstalling-windows-11-updates-made-easy-a-detailed-walkthrough/"><u>Uninstalling Windows 11 Updates Made Easy – A Detailed Walkthrough</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-7-essential-free-online-tiktok-converters-for-mp3s/"><u>[New] 7 Essential Free Online TikTok Converters for MP3s</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-deciphering-concealed-views-on-video-content-for-2024/"><u>[New] Deciphering Concealed Views on Video Content for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-simplified-guide-to-incorporating-ken-burns-effect-in-camtasa-for-2024/"><u>[Updated] Simplified Guide to Incorporating Ken Burns Effect in Camtasa for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cloud-price-wars-best-value-allocation-for-2024/"><u>Cloud Price Wars Best Value Allocation for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-connectivity-fixes-for-windows-11-users/"><u>Headphone Connectivity Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-realtek-microphone-when-it-wont-work-anymore/"><u>How to Repair Your Realtek Microphone When It Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-in-windows-11/"><u>How to Turn Off Sound Improvement Features in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-tecno-spark-go-2023-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Tecno Spark Go (2023)? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximizing-drone-efficiency-with-premium-lipo-units/"><u>Maximizing Drone Efficiency with Premium LiPo Units</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-fun-with-junior-drivers/"><u>Navigating Fun with Junior Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-addressing-the-common-problem-of-voice-chat-failure-in-phasmophobia-games/"><u>Solved! Addressing the Common Problem of Voice Chat Failure in Phasmophobia Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-resolving-the-nonfunctional-ptt-in-overwatch-gameplay/"><u>Step-by-Step Solution: Resolving the Nonfunctional PTT in Overwatch Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-windows-7-microphone-issues-step-by-step-solutions/"><u>Troubleshoot & Fix Windows 7 Microphone Issues - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-windows-11-installation-secrets-startup-success-without-your-microsoft-profile/"><u>Unlocking Windows 11 Installation Secrets: Startup Success Without Your Microsoft Profile</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-setup-made-easy-dealing-with-unrecognized-speaker-systems/"><u>Windows 10 Audio Setup Made Easy: Dealing with Unrecognized Speaker Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Restore Sound to Your Headphones When They're Not Working with Windows 10
-date: 2024-09-05T03:59:40.428Z
-updated: 2024-09-06T03:59:40.428Z
+date: 2024-10-23T16:58:54.189Z
+updated: 2024-10-30T17:04:36.699Z
 tags:
   - win11
   - win10
@@ -31,22 +31,10 @@ This post provides you with some of the most effective methods that will help yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b25760043.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the empty space and make sure that you have selected both of the options: **Show Disconnected Devices** and**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b4b199809.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) See if you spot the name of your headphone and speakers. If you can see the name of your headphone listed here, and there is a green icon on the corner of the device, then you should be good to go.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b68c79f52.png)
@@ -67,38 +55,14 @@ This post provides you with some of the most effective methods that will help yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b99e78e85.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Then choose**Playback Audio** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8b9cf767f3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Follow the on-screen instructions to find out if there is anything wrong with your audio device or device driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8ba99410e0.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The above screenshot shows the problem of my device, yours should be different. If you have detected the problem, but you are not sure how to fix it, please leave a comment and we will see what we can do to help.
 
 **PRO TIP** : It is always suggested that you keep your audio card driver updated so as to avoid any unwanted problems like this one.
@@ -111,18 +75,6 @@ This post provides you with some of the most effective methods that will help yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Step Three: Check Hardware**
 
  1) Try your headphone on your other devices, such as your cell phone. Make sure it works properly on another device. If not, you might need to see if this problem is caused by broken headphone.
@@ -141,8 +93,6 @@ This post provides you with some of the most effective methods that will help yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +100,29 @@ This post provides you with some of the most effective methods that will help yo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-troubleshooting-solo-earbuds-for-2024/"><u>[New] Troubleshooting Solo Earbuds for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-start-your-social-media-show-going-live-on-facebook/"><u>[Updated] In 2024, Start Your Social Media Show Going Live on Facebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-computer-speaker-volume-solutions-for-windows-11-users/"><u>Boosting Computer Speaker Volume: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bulk-clean-up-eliminating-characters-from-an-excel-document-simultaneeously/"><u>Bulk Clean-Up: Eliminating # Characters From an Excel Document Simultaneeously</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficient-ways-to-save-ppt-slides-for-2024/"><u>Efficient Ways to Save PPT Slides for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-visual-experience-with-the-newest-intel-iris-xe-windows-10-11-driver-pack/"><u>Enhance Your Visual Experience with the Newest Intel Iris Xe Windows 10, 11 Driver Pack</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-working-sennheiser-game-one-mic-a-step-by-step-guide/"><u>Fixing the Non-Working Sennheiser Game One Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x8bwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X8bwith/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-spark-20c-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20C without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity-for-2024/"><u>Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-eliminating-crackle-noise-a-step-by-step-guide-for-windows-107-users/"><u>Solution for Eliminating Crackle Noise: A Step-by-Step Guide for Windows 10/7 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-issues-with-non-responsive-airpods/"><u>Step-by-Step Guide: Resolving Issues with Non-Responsive AirPods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-headphones-not-working-properly-in-windows-7-operating-system/"><u>Step-by-Step Solutions for Headphones Not Working Properly in Windows 7 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-hdmi-sound-problems-in-windows-7-easily/"><u>Troubleshoot and Resolve HDMI Sound Problems in Windows 7 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-astro-a10-audio-problems-quick-repair-tips/"><u>Troubleshoot Your Astro A10 Audio Problems - Quick Repair Tips</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

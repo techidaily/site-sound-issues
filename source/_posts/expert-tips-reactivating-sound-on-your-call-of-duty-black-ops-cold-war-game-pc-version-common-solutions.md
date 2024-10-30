@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Reactivating Sound on Your Call of Duty: Black Ops Cold War Game (PC Version) - Common Solutions"
-date: 2024-10-17T00:13:52.915Z
-updated: 2024-10-18T16:12:27.142Z
+date: 2024-10-26T17:03:18.027Z
+updated: 2024-10-30T17:34:07.448Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ When you’re ready to fight side by side with your mates in Warzone, the last t
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there’s nothing suspicious with the connection, you can check out the next fix.
@@ -76,16 +76,16 @@ Here’s how:
 3. On the menu to your left, select **Voice Chat** . Set **OUTPUT DEVICE** and **INPUT DEVICE** to **System Default Device** . Then click **Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can launch Warzone and test the game chat.
 
  If this fix doesn’t solve the problem, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -113,10 +113,10 @@ Now you can launch Warzone and test the game chat.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,13 +124,6 @@ Now you can launch Warzone and test the game chat.
  Once you’ve updated your audio driver, restart your PC and see if the voice chat is working in Warzone.
 
  If updating the audio driver doesn’t work for you, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -142,26 +135,13 @@ So here’s a simple guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install the available updates. Wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -180,7 +160,22 @@ You can follow these steps to check:
 2. Navigate to the**AUDIO** tab. Under the**Voice Chat** section, set**Voice Chat** to**Enabled** ,**Voice Chat Recording Mode** to**Open Mic** ,**Open Mic Recording Threshold** to**0.00** ,**Voice Chat Volume** and**Microphone Volume** to a moderate value (at least over 100.00).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-voice-chat-in-game-1.jpg)
 3. Navigate to the**ACCOUNT** tab. Under the**Online** section, set**Crossplay** to**Enabled** . If you can see an option named**Crossplay Communication** , make sure it’s set to**Enabled** . (If your friend isn’t gaming on PC, make sure he or she has enabled this feature as well.)  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/warzone-crossplay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now restart Warzone and check if you can chat with your friends now.
 
@@ -203,24 +198,21 @@ Now restart Warzone and check if you can chat with your friends now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-comprehensive-guide-to-io-screen-capture-capabilities-for-2024/"><u>[New] Comprehensive Guide to IO Screen Capture Capabilities for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-pro-simplified-youtube-live-streaming-with-obs-for-2024/"><u>[New] From Novice to Pro Simplified YouTube Live Streaming with OBS for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-mastering-zoom-for-effective-fb-live-broadcasts/"><u>[New] Mastering Zoom for Effective FB Live Broadcasts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unbeatable-ps1-emulators-for-high-quality-gaming-for-2024/"><u>[Updated] Unbeatable PS1 Emulators for High-Quality Gaming for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-cameras-unsuccessful-save-attempts/"><u>Decoding Windows Camera's Unsuccessful Save Attempts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-loss-of-sound-in-nvidia-high-definition-audio-systems-easily/"><u>Fixing Loss of Sound in NVIDIA High Definition Audio Systems Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-quiet-fields-of-war-how-to-restore-sound-in-battlefield-4/"><u>Fixing the Quiet Fields of War: How to Restore Sound in Battlefield 4</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-s24-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy S24 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-speaker-distortion-on-pcs-windows-10-and-7-solutions/"><u>How to Fix Window's Speaker Distortion on PCs (Windows 10 & 7 Solutions)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-reviving-dull-images-the-most-effective-10-web-editing-aids/"><u>In 2024, Reviving Dull Images The Most Effective 10 Web Editing Aids</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-c50-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco C50 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-visual-prodigies-top-4k-monitors-for-cutting-edge-work/"><u>In 2024, Visual Prodigies Top 4K Monitors for Cutting-Edge Work</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-wireless-connectivity-an-authoritative-review-of-the-netgear-nighthawk-x4-wi-fi-range-extender/"><u>Mastering Wireless Connectivity: An Authoritative Review of the Netgear Nighthawk X4 Wi-Fi Range Extender</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-how-to-restore-functionality-to-your-steelseries-arctis-7-mic/"><u>Overcoming Audio Hurdles: How to Restore Functionality to Your SteelSeries Arctis 7 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-silent-pc-get-your-computer-speakers-working-now/"><u>Quick Fixes for a Silent PC – Get Your Computer Speakers Working Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-the-voice-chat-service-in-steam-platform/"><u>Quick Solutions to Restore the Voice Chat Service in Steam Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-audio-glitches-solving-the-silent-mission-in-call-of-dutys-cold-war-edition-pc/"><u>Revive Audio Glitches: Solving the Silent Mission in Call of Duty's Cold War Edition (PC)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sennheiser-game-one-microphone-trouble-heres-how-to-restore-functionality/"><u>Sennheiser Game One Microphone Trouble? Here's How to Restore Functionality!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-mac-audio-issues-effective-fixes-that-work/"><u>Troubleshooting Mac Audio Issues – Effective Fixes That Work!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-editing-enhanced-mastering-movies-in-windows-11-environment-for-2024/"><u>[New] Editing Enhanced Mastering Movies in Windows 11 Environment for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination-for-2024/"><u>[New] Strategic Planning for Virtual Teams Mastering Slack & Filmora Coordination for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-effective-youtube-thumbnails-and-banners/"><u>[Updated] In 2024, Crafting Effective YouTube Thumbnails & Banners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-free-webm-players/"><u>2024 Approved Best Free WebM Players</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elite-architects-best-of-breed-instragram-hlv-artisans/"><u>2024 Approved Elite Architects Best-of-Breed Instragram HLV Artisans</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assembling-a-spectacular-screenplay-cut-out-for-2024/"><u>Assembling a Spectacular Screenplay Cut-Out for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-not-working-on-laptopdesktop-heres-how-to-turn-it-on-easily/"><u>Audio Not Working on Laptop/Desktop? Here's How to Turn It On Easily</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-gaming-revolution-oculus-quests-language-leap-with-mondly/"><u>Global Gaming Revolution: Oculus Quest's Language Leap with Mondly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-hyperx-cloud-headset-when-the-mic-isnt-functioning/"><u>How to Fix Your HyperX Cloud Headset When the Mic Isn't Functioning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-microphone-malfunction-solutions/"><u>LucidSound LS30 Microphone Malfunction Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017040677-no-more-audio-glitches-solve-headphone-distortion-fast-and-easy/"><u>No More Audio Glitches: Solve Headphone Distortion Fast and Easy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-repair-your-astro-a20-microphone-issue/"><u>Quick Solutions: How to Repair Your Astro A20 Microphone Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-why-isnt-your-steelseries-arctis-pro-mic-functioning/"><u>Solution Steps: Why Isn't Your SteelSeries Arctis Pro Mic Functioning?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-fixes-how-to-restore-your-logitech-g433-microphone-functionality/"><u>Troubleshooting Fixes: How To Restore Your Logitech G433 Microphone Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-why-your-sony-headphones-might-be-silent-fixes-and-tips/"><u>Troubleshooting: Why Your Sony Headphones Might Be Silent - Fixes and Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-dji-mavic-air-2s-unveiled-a-game-changing-drone-experience/"><u>Ultimate Guide: DJI Mavic Air 2S Unveiled - A Game-Changing Drone Experience</u></a></li>
 </ul></div>
 

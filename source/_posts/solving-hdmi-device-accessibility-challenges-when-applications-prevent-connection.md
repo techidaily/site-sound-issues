@@ -1,7 +1,7 @@
 ---
 title: Solving HDMI Device Accessibility Challenges When Applications Prevent Connection
-date: 2024-09-05T04:01:45.641Z
-updated: 2024-09-06T04:01:45.641Z
+date: 2024-10-23T17:03:50.220Z
+updated: 2024-10-30T16:23:38.971Z
 tags:
   - win11
   - win10
@@ -19,18 +19,6 @@ External speakers such as Creative Pebble speakers are engineered with clear dia
 
 ![how to fix Creative Pebble speakers not working](https://images.drivereasy.com/wp-content/uploads/2021/03/featured-image-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before attempting the other troubleshooting steps in this article, we suggest you restart your computer and test the audio to check if the problem is resolved. Becuase chances are, an application may be controlling your device or preventing other applications from using it.
 
  But if a system restart didn’t rid you of the issue, try the fixes listed below.
@@ -53,32 +41,14 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve installed the latest Windows updates, try to play a song to check if your speakers are functioning properly. If not, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Set your speakers as the default
 
  When you connect the external speakers to your computer, your system would recognize it. But there are some situations where the sound may not come from your external speakers. That’s because your device isn’t set as the default audio playback device that Windows uses to output sound. In this case, you need to manually set your speakers as the default:
@@ -92,18 +62,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update your sound driver
 
  If you are experiencing audio issues, you may need to check if your sound card driver is outdated or faulty. Using outdated drivers can affect performance and you may lack certain features required for the speakers to function properly. Therefore, you need to update your sound driver as this may solve your issue immediately.
@@ -119,16 +77,23 @@ Here’s how to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -137,11 +102,12 @@ Here’s how to update drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Run the audio troubleshooter
 
  Windows offers a built-in audio troubleshooter that scans your system and helps identify and fix a variety of common sound problems. To use it, take these steps:
@@ -150,17 +116,31 @@ Here’s how to update drivers with Driver Easy:
 
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
 2. Select your device and click**Next** to start the troubleshooting process. Then wait for it to complete and you may be asked to restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Contact the customer service
 
@@ -178,8 +158,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +165,21 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-premiere-pros-finest-tools-free-and-exceptional-quality/"><u>[New] 2024 Approved Premiere Pro's Finest Tools - Free & Exceptional Quality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-art-of-crafting-instagram-highlights/"><u>[New] 2024 Approved The Art of Crafting Instagram Highlights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence/"><u>[New] The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-vocal-vortex-validity-of-the-transmutation-app-questioned-explore-more-alternatives/"><u>2024 Approved Vocal Vortex Validity of the Transmutation App Questioned - Explore More Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-the-magic-of-quantum-hdr/"><u>Behind the Scenes The Magic of Quantum HDR</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-a-malfunctioning-logitech-g633-microphone-a-user-friendly-guide/"><u>Effective Fixes for a Malfunctioning Logitech G633 Microphone: A User-Friendly Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-cs-go-microphone-issues-solutions-inside/"><u>Fixing CS: GO Microphone Issues - Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-explore-the-best-facebook-lite-video-downloader-picks-of-2023/"><u>In 2024, Explore the Best Facebook Lite Video Downloader Picks of 2023</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-lava-yuva-2-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Lava Yuva 2 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/optimal-obs-studio-setup-top-configurations-guaranteed-to-enhance-your-recordings/"><u>Optimal Obs Studio Setup: Top Configurations Guaranteed to Enhance Your Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-in-selecting-the-perfect-nvidia-driver-for-you/"><u>Precision in Selecting the Perfect Nvidia Driver for You</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-volume-control-on-your-pc-no-more-silent-windows-10/"><u>Restoring Volume Control on Your PC: No More Silent Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-realtek-hd-audio-manager-failure-to-start-up/"><u>Solving the Dilemma: Realtek HD Audio Manager Failure to Start Up</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turning-up-the-volume-again-on-google-chrome-fix-tutorial-released/"><u>Turning Up the Volume Again on Google Chrome - Fix Tutorial Released</u></a></li>
+</ul></div>
 

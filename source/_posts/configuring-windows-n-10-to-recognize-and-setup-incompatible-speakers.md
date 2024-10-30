@@ -1,7 +1,7 @@
 ---
 title: Configuring Windows N 10 to Recognize and Setup Incompatible Speakers
-date: 2024-09-05T03:59:19.394Z
-updated: 2024-09-06T03:59:19.394Z
+date: 2024-10-26T16:08:20.295Z
+updated: 2024-10-30T16:48:36.959Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ Looking for answers to your**Speaker Setup (UNKNOWN)** error? You’ve come to t
 * Replug or restart your audio device
 * Check the cables, plugs, volume settings, mute switch, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  Here’re some advanced solutions for your**Speaker Setup (UNKNOWN)** error. You might not have to try them all. Simply work down the list until you find the one that does the trick.
@@ -35,6 +42,13 @@ Looking for answers to your**Speaker Setup (UNKNOWN)** error? You’ve come to t
 4. **[Change the startup type of audio services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset your PC](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Install all Windows updates
 
@@ -47,12 +61,6 @@ So you can follow these steps to install all system updates manually:
 2. Click**Check for updates** . Windows will then search and install available system updates. This might take up to an hour depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once completed, restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  system updates, repeat these steps until you see “You’re up to date” when you click **Check for updates** .
 
@@ -72,35 +80,18 @@ So you can follow these steps to install all system updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve installed or updated your device drivers, restart your computer and check if the Speaker Setup (Unknown) error has gone.
 
  If this method doesn’t give you any luck, simply move on to the next one below.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run the audio troubleshooter
 
  Windows has a built-in audio troubleshooter. You can use it to try to root out the cause of your audio issue and fix the error automatically.
@@ -113,25 +104,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-troubleshooter-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If the audio troubleshooter failed to detect or solve your error, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Change the startup type of audio services
 
  The audio error might appear when your audio service isn’t running properly. If that’s the case,**changing the startup type of your audio service** could solve your problem in a snap.
@@ -141,26 +121,16 @@ So here’s how to do it:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-box-services-msc.jpg)
 2. Right-click**Windows Audio** and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-audio-services-properties.jpg)
 3. Set**Startup type** to**Automatic** . Then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-audio-services-automatic-new.jpg)
 4. Use the same steps to set the**Startup type** of the following services to**Automatic** :  
 **Windows Audio Endpoint Builder**  
@@ -177,20 +147,8 @@ So here’s how to do it:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ### Fix 6: Reset your PC
@@ -204,32 +162,43 @@ You can follow these steps to reset your PC:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. From the left menu, select**Recovery** . Under the**Reset this PC** section, click**Get started** .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc.jpg)
 3. In the pop-up window, select**Remove everything** .  
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-2.jpg)
 4. You might then see two reinstall options:**Cloud download** and**Local reinstall** . You can choose**Cloud download** if you want to reinstall using the latest Windows installation files. If you don’t wish to wait, choose**Local reinstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-3.jpg)
 5. Click**Next** and follow the on-screen instructions to reset your PC.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/reset-pc-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The reset process will take some time (up to a few hours) depending on your hard drive speed. Once you’ve reset your PC, check if your sound problem has disappeared.
 
 ---
@@ -242,8 +211,6 @@ You can follow these steps to reset your PC:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,4 +218,23 @@ You can follow these steps to reset your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-action-herogo-black-vs-star-sj7-camera/"><u>[New] 2024 Approved Action HeroGo Black Vs Star SJ7 Camera</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-discover-the-top-8-cost-free-videography-suites-for-digital-filmmakers-for-2024/"><u>[Updated] Discover the Top 8 Cost-Free Videography Suites for Digital Filmmakers for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-soft-cessation-of-audio-tracks-with-audacity/"><u>2024 Approved Exploring Soft Cessation of Audio Tracks with Audacity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sharpscope-zoommax7-precision-in-size-adjustment/"><u>2024 Approved SharpScope ZoomMax7 Precision in Size Adjustment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-emotional-impact-in-personal-youtube-content/"><u>Crafting Emotional Impact in Personal YouTube Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-the-distraction-fix-fluctuating-audio-in-windows-11-and-10s-bluetooth-setups/"><u>End the Distraction: Fix Fluctuating Audio in Windows 11 & 10'S Bluetooth Setups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-mac-solutions-to-restore-your-computers-audio/"><u>Fixing Silent Mac: Solutions to Restore Your Computer's Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/game-audio-mastery-achieved-on-discord-a-comprehensive-solution/"><u>Game Audio Mastery Achieved on Discord - A Comprehensive Solution</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-strategies-for-fixing-realtek-hd-audio-manager-wont-launch-error/"><u>In-Depth Strategies for Fixing 'Realtek HD Audio Manager Won’t Launch' Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-trouble-heres-how-to-get-your-mic-working-again/"><u>LucidSound LS30 Trouble? Here's How to Get Your Mic Working Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-woes-solved-why-does-lost-ark-keep-quitting-and-how-you-can-stop-it-now/"><u>PC Woes Solved! Why Does 'Lost Ark' Keep Quitting and How You Can Stop It Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-voice-input-problems-for-counter-strike-global-offensive-players/"><u>Resolving Voice Input Problems for Counter-Strike Global Offensive Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fix-sound-issue-when-headphones-are-connected-but-noise-is-emanating-from-speakers/"><u>Troubleshooting Guide: Fix Sound Issue When Headphones Are Connected But Noise Is Emanating From Speakers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-sony-vegas-audio-editor-a-step-by-step-tutorial-for-professionals/"><u>Updated 2024 Approved Sony Vegas Audio Editor A Step-by-Step Tutorial for Professionals</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-free-mpeg-video-splitters-for-windows-mac-and-linux/"><u>Updated In 2024, The Best Free MPEG Video Splitters for Windows, Mac, and Linux</u></a></li>
+</ul></div>
 

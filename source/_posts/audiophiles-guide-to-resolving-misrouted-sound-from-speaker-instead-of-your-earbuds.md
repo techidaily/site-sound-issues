@@ -1,7 +1,7 @@
 ---
 title: Audiophile's Guide to Resolving Misrouted Sound From Speaker Instead of Your Earbuds
-date: 2024-10-22T19:07:48.021Z
-updated: 2024-10-24T20:44:31.700Z
+date: 2024-10-28T17:14:01.256Z
+updated: 2024-10-30T17:12:13.180Z
 tags:
   - win11
   - win10
@@ -36,6 +36,19 @@ If your audio still cuts out after a restart, try these fixes:
 6. **[Restart audio services](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check the basics
 
  To efficiently identify the source of the problem, you need to confirm that your audio device is functioning properly. If you’re using external speakers, check the power source and connections. Check if they’re working properly on other devices.
@@ -59,6 +72,13 @@ Reboot your device and play the audio to see if your problem persists.
 
  There are mainly two ways you can update your audio drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Get driver updates from the manufacturer’s websites or via the Device Manager
 
  You can visit the manufacturer’s website for your sound card, find the driver version that corresponds with your system, and follow the on-screen instructions to download and install the latest driver.
@@ -76,13 +96,6 @@ Or you can update your audio drivers through the Device Manager:
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In the Device Manager window, find and double-click the**Sound, video and game controllers** category to expand it. Right-click on the audio device for which you want to update the driver. This could be your sound card or integrated audio device.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/update-audio-drivers.jpg)
 
@@ -105,6 +118,13 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 
  After updating your drivers, restart your computer. If your audio is still cutting out, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the audio troubleshooter
 
  The Windows audio troubleshooter is a built-in tool in the Windows operating system designed to automatically diagnose and resolve common audio-related issues. It provides a guided process to identify problems and apply solutions to restore proper audio functionality. If you’re experiencing issues like audio cutting out, using the Windows audio troubleshooter can be a helpful step in troubleshooting the problem.
@@ -113,17 +133,32 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 2. From the left navigation panel, select**System** . Scroll down and Click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to**Audio** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Other-troubleshooters-Audio-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then follow the on-screen instructions to detect and solve your issues. If it fails to do so, no worries! Below are some other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable audio enhancements
@@ -136,13 +171,6 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 3. Scroll down to the**Advanced** section and click**All sound devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-All-sound-devices.jpg)
 4. Under the**Output devices** section, click**Speakers** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-Output-devices-Speakers.jpg)
 5. Click on the**Audio enhancements** drop-down menu and select**Off** .  
@@ -160,22 +188,15 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-services.msc_.jpg)
 3. Right-click each of the following services and select**Restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Windows Audio**  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-restarted-Windows-audio-services.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Windows Audio Endpoint Builder**  
@@ -183,20 +204,13 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-restart-Windows-audio-endpoint-builder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If restarting these services doesn’t resolve your issue, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Repair your system files
 
@@ -211,13 +225,6 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the repair, restart your computer. Then check if your problem has been solved.
 
@@ -242,18 +249,18 @@ _\*featured image by GraphiqaStock on Freepik_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-secrets-to-profitability-earning-with-youtube-shorts-explored/"><u>[Updated] 2024 Approved Secrets to Profitability Earning with YouTube Shorts Explored</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-efficiency-meets-entertainment-the-finest-31-video-cutters-for-phones/"><u>2024 Approved Efficiency Meets Entertainment The Finest 31 Video Cutters for Phones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/agile-quick-windows-picture-sorter/"><u>Agile Quick Windows Picture Sorter</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-and-capabilities-of-the-new-asus-zenbook-s16-through-our-rigorous-testing-and-detailed-analysis-of-the-amd-ryzen-ai-9-hx-370-cpu/"><u>Discover the Power and Capabilities of the New Asus Zenbook S16 Through Our Rigorous Testing and Detailed Analysis of the AMD Ryzen AI 9 HX 370 CPU.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-on-your-windows-7-computer/"><u>Fixing Audio Issues on Your Windows 7 Computer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-note-12r-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi Note 12R?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-6-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 6</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-broken-microphone-on-skype-with-windows-10/"><u>How to Repair a Broken Microphone on Skype with Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-speaker-setbacks-in-windows-7-comprehensive-troubleshooting-guide/"><u>Overcoming HDMI Speaker Setbacks in Windows 7: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/precision-recording-perfecting-video-captures-on-your-android-phone/"><u>Precision Recording Perfecting Video Captures on Your Android Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-audio-problems-in-zoom-meetings-for-windows-users/"><u>Resolve Audio Problems in Zoom Meetings for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-pc-based-microphone-problems-in-rec-room-your-ultimate-fix-guide-updated/"><u>Solve PC-Based Microphone Problems in Rec Room: Your Ultimate Fix Guide, Updated !</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-performance-issues-overcoming-lag-and-stutter-in-naraka-point-of-hell/"><u>Troubleshooting Performance Issues: Overcoming Lag & Stutter in Naraka: Point of Hell</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-effortless-strategies-to-detect-duplicate-and-phony-likes/"><u>[New] 2024 Approved Effortless Strategies to Detect Duplicate and Phony Likes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-quick-and-the-funny-with-kinemaster-memes-for-2024/"><u>[Updated] The Quick and the Funny with KineMaster Memes for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-functionality-to-a-broken-corsair-void-mic-setup/"><u>Expert Advice on Restoring Functionality to a Broken Corsair Void Mic Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guard-your-data-from-malware-disguised-as-ai-helpers/"><u>Guard Your Data From Malware Disguised as AI Helpers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone SE (2022) Passcode Screen?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-chucklecraft-sign-up-now-and-laugh-later/"><u>In 2024, ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-def-zoom-manipulator/"><u>In 2024, High-Def Zoom Manipulator</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-vloggers-guide-to-choosing-camera-essentials-the-top-9-accessories/"><u>In 2024, Vloggers' Guide to Choosing Camera Essentials - The Top 9 Accessories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>In 2024, Your Video, Their Feast How to Craft GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015669255-onikuma-headset-mic-malfunction-heres-how-you-can-fix-it/"><u>Onikuma Headset Mic Malfunction? Here's How You Can Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-system-boost-your-speakers-after-the-latest-windows-10-update/"><u>Silent System? Boost Your Speakers After the Latest Windows 10 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-restoring-sounds-in-firefox-browser/"><u>Troubleshooting Complete: Restoring Sounds in Firefox Browser</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unrivaled-vr-sets-for-aerial-adventures/"><u>Unrivaled VR Sets for Aerial Adventures</u></a></li>
 </ul></div>
 

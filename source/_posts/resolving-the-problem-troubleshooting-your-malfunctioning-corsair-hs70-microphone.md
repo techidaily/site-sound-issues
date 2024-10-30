@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Problem: Troubleshooting Your Malfunctioning Corsair HS70 Microphone"
-date: 2024-10-17T19:19:50.798Z
-updated: 2024-10-24T20:49:46.668Z
+date: 2024-10-29T17:49:59.054Z
+updated: 2024-10-30T17:49:44.616Z
 tags:
   - win11
   - win10
@@ -43,20 +43,20 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 
@@ -66,10 +66,10 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 8. Click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 See if your Logitech G230 mic works. If not, try the next fix, below.
@@ -82,13 +82,26 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -108,13 +121,6 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -145,16 +151,22 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-copy-and-paste-not-working-on-windows-10/"><u>[SOLVED] Copy and Paste Not Working on Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-inside-the-wonders-of-stardew-valley-particularly-ginger-island/"><u>2024 Approved Inside the Wonders of Stardew Valley, Particularly Ginger Island</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-find-n3-flip-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Find N3 Flip Location Settings | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/getting-to-know-the-user-friendly-features-of-arlos-home-protection-solution/"><u>Getting to Know the User-Friendly Features of Arlo's Home Protection Solution</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-100-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor 100</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-deployment-hurdles-a-comprehensive-guide-to-fixing-app-issues-before-the-2024-market-entry/"><u>Overcoming Deployment Hurdles: A Comprehensive Guide to Fixing App Issues Before the 2024 Market Entry</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015664095-solving-audio-glitches-resolve-your-pubg-voice-chat-woes-today/"><u>Solving Audio Glitches - Resolve Your PubG Voice Chat Woes Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015494757-troubleshooting-distorted-audio-on-pcs-running-windows-7-or-10-solutions-found/"><u>Troubleshooting Distorted Audio on PCs Running Windows 7 or 10 - Solutions Found!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unclogging-audio-issues-how-to-rectify-no-sound-after-hooking-up-computer-and-tv-using-hdmi-link/"><u>Unclogging Audio Issues: How to Rectify No Sound After Hooking Up Computer and TV Using HDMI Link</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-speakers-not-working-solved/"><u>Windows 10 Speakers Not Working [SOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-strategies-for-repairing-audio-on-a-windows-10-pc-all-issues-addressed/"><u>Winning Strategies for Repairing Audio on a Windows 10 PC - All Issues Addressed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ehind-the-mascara-youtubes-top-makeup-artists-unveiled-for-2024/"><u>[New] Behind the Mascara YouTube's Top Makeup Artists Unveiled for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-premiere-pros-art-of-audio-transitioning/"><u>[New] In 2024, Premiere Pro’s Art of Audio Transitioning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-ultimate-11-strategies-for-impeccable-color-balancing/"><u>[Updated] Unveiling the Ultimate 11 Strategies for Impeccable Color Balancing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-comparison-best-microphones-for-podcasters/"><u>2024 Approved The Ultimate Comparison Best Microphones for Podcasters</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-in-resident-evil-village-a-step-by-step-guide/"><u>Fixing Audio Glitches in Resident Evil Village: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-speaker-issues-a-comprehensive-guide-for-windows-10-users/"><u>Fixing Speaker Issues: A Comprehensive Guide for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-laptops-audio-back-on-track-expert-fixes-and-tips/"><u>Getting Your Laptop's Audio Back on Track – Expert Fixes and Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-your-youtube-potential-6-crucial-actions-for-visibility/"><u>In 2024, Unleash Your YouTube Potential 6 Crucial Actions for Visibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-conversations-with-ai-comparing-snapchats-my-ai-and-chatgpt/"><u>Smart Conversations with AI: Comparing Snapchat's My AI and ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-quiet-game-night-cyberpunk-2077-sound-fixes-for-windows-11-users/"><u>Solve Your Quiet Game Night: Cyberpunk 2077 Sound Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-restoring-microphone-functionality-in-warzone-across-all-platforms/"><u>Step-by-Step Solutions for Restoring Microphone Functionality in Warzone Across All Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-pc-audio-malfunctions-step-by-step-solutions-for-zero-output/"><u>Troubleshoot and Resolve PC Audio Malfunctions - Step-by-Step Solutions for Zero Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-instantly-fixing-that-annoying-speaker-vibration-issue/"><u>Troubleshoot Instantly: Fixing that Annoying Speaker Vibration Issue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-mystery-scriptwriting-for-documentaries-for-2024/"><u>Unveiling the Mystery Scriptwriting for Documentaries for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016603130-voicemod-wont-launch-expert-advice-for-fixing-common-problems-latest-update/"><u>Voicemod Won't Launch? Expert Advice for Fixing Common Problems - Latest Update!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques for Restoring Microphone Functionality on Oculus Quest 2
-date: 2024-10-21T16:37:56.338Z
-updated: 2024-10-24T18:44:45.318Z
+date: 2024-10-27T17:23:23.960Z
+updated: 2024-10-30T17:30:26.200Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Unplug and replug your headset](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Allow access to your microphone
 
  To use Oculus Quest 2 normally on your PC, you should allow the apps to access its microphone in the privacy settings. Here are the steps:
@@ -41,22 +48,8 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-2-2.jpg)
 3. Scroll to Allow apps to access your microphone and**turn on** the button.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-3.jpg)
 4. Scroll down to**turn on** desktop apps’ access to your microphone.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4-2.jpg)
 
@@ -73,32 +66,61 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 3. Scroll down to select**Sound Control Panel** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-7.jpg)
 4. Navigate to the**Recording** tab. Then select**Oculus Quest 2 headset microphone** and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-2.jpg)
 5. Click your mic again and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-8.jpg)
 6. Go to the**Levels** tab and**set the mic volume to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-9.jpg)
 7. Select the**Advanced** tab and untick**Allow applications to take exclusive control of this device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-6.jpg)
 8. Click**OK** to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that everything on the PC sound settings is good to go, test how your mic works. If the mic-not-working issue only occurs in specific programs like SteamVR, make sure **Oculus Quest 2 is also chosen as the input device in the app settings** .
 
 If this trick doesn’t help, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your device drivers
@@ -114,28 +136,8 @@ If this trick doesn’t help, take a look at more fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/de-borderless-1.jpg)
 3. Click**Update** next to the flagged_Oculus VR Headset driver_ or any devices to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -180,16 +182,19 @@ If updating the driver doesn’t work, continue to Fix 4 below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-advanced-tactics-for-seamless-subtitles-on-vimeo-videos/"><u>[New] 2024 Approved Advanced Tactics for Seamless Subtitles on Vimeo Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-simplified-approaches-to-insta-photovideo-resharing/"><u>[New] In 2024, Simplified Approaches to Insta Photo/Video Resharing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-digital-dilemma-unexpectedly-barred-content/"><u>[Updated] 2024 Approved Digital Dilemma Unexpectedly Barred Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-snap-to-stream-a-complete-youtube-picture-upload-manual/"><u>[Updated] From Snap to Stream A Complete YouTube Picture Upload Manual</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016312393-achieving-successful-game-audio-streaming-on-discord-fixed/"><u>Achieving Successful Game Audio Streaming on Discord - Fixed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-mode-a-step-by-step-guide-on-resolving-no-audio-problems-with-your-lenovo-notebook/"><u>Fixing the Silent Mode: A Step-by-Step Guide on Resolving No Audio Problems with Your Lenovo Notebook</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-pova-5-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Pova 5 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/modern-warfares-voice-chat-problem-solutions-and-tips-for-gamers/"><u>Modern Warfare's Voice Chat Problem: Solutions and Tips for Gamers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-techniques-for-reducing-room-acoustics-on-taped-music/"><u>New Techniques for Reducing Room Acoustics on Taped Music</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-no-sound-problems-in-laptop-built-in-speakers/"><u>Troubleshooting and Solving No-Sound Problems in Laptop Built-In Speakers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-windowsmac-tutorials-for-skype-audio-and-video-archive-for-2024/"><u>[New] Windows/Mac Tutorials for Skype Audio & Video Archive for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-windows-10-mastering-photo-and-video-importation/"><u>[Updated] Unveiling Windows 10 Mastering Photo & Video Importation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-what-phone-is-compatible-with-gear-vr-2023-update/"><u>[Updated] What Phone Is Compatible with Gear VR? -2023 Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-overcome-the-code-28-hurdle-in-your-windows-device-drivers/"><u>Effective Ways to Overcome the 'Code 28' Hurdle in Your Windows Device Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-restoring-audio-in-cyberpunk-2077-on-windows-11/"><u>Fixes & Solutions: Restoring Audio in Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-correctly-update-and-repair-dell-sound-drivers-in-windows-7/"><u>How to Correctly Update and Repair Dell Sound Drivers in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-services-not-operational-on-your-device/"><u>How to Fix: Audio Services Not Operational on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-undetected-headphones-problems-for-playback-devices-in-windows-11/"><u>How to Resolve Undetected Headphones Problems for Playback Devices in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-common-audio-glitches-in-outriders-expert-advice-and-fixes/"><u>How to Solve Common Audio Glitches in Outriders – Expert Advice and Fixes</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-5-top-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>New 5 Top Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ranking-the-best-identifying-the-quintessential-5-online-title-designers-for-2024/"><u>Ranking the Best Identifying the Quintessential 5 Online Title Designers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-repairing-logitech-g935-microphone-compatibility-with-windows/"><u>Solving Sound Problems: Repairing Logitech G935 Microphone Compatibility with Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/spotify-not-working-on-your-browser-resolve-playback-speed-issues/"><u>Spotify Not Working on Your Browser? Resolve Playback Speed Issues</u></a></li>
 </ul></div>
 

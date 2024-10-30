@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Restore Sound on Your Laptop's Built-In Speakers
-date: 2024-10-22T18:00:31.577Z
-updated: 2024-10-24T21:38:58.666Z
+date: 2024-10-23T16:52:24.759Z
+updated: 2024-10-30T16:57:04.945Z
 tags:
   - win11
   - win10
@@ -46,26 +46,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -81,11 +74,34 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -95,32 +111,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -148,21 +150,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/2024-fix-rainbow-six-siege-voice-chat-not-working/"><u>[2024 Fix] Rainbow Six Siege Voice Chat Not Working</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-razers-hd-webcam-thorough-review-guide/"><u>[Updated] In 2024, Razer's HD Webcam Thorough Review Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722139473883-chatgpt-on-iphone-not-responding-apply-any-of-our-9-proven-strategies/"><u>ChatGPT on iPhone Not Responding? Apply Any of Our 9 Proven Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/crossover-solutions-for-non-working-corsair-hs70-microphone-issues/"><u>Crossover Solutions for Non-Working Corsair HS70 Microphone Issues</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-wf-3540-drivers-on-your-windows-pc/"><u>Download & Install Epson WF-3540 Drivers on Your Windows PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/getting-started-with-dashlane-understanding-costs-key-functionalities-and-initial-setup-steps-insights-from-zdnet/"><u>Getting Started with Dashlane: Understanding Costs, Key Functionalities & Initial Setup Steps - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hear-the-click-restore-the-beep-overcoming-no-sound-troubles-with-your-lenovo-laptop/"><u>Hear the Click, Restore the Beep: Overcoming No-Sound Troubles with Your Lenovo Laptop</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/iphone-volume-not-working-fixes-for-muffled-silent-or-crackling-sounds/"><u>IPhone Volume Not Working? Fixes for Muffled, Silent, or Crackling Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-restore-your-steam-voice-call-functionality/"><u>Overcoming Common Problems: Restore Your Steam Voice Call Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-in-counter-strike-global-offensive/"><u>Overcoming Microphone Challenges in Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/troubleshooting-external-hdd-connectivity-issues-quick-solutions/"><u>Troubleshooting External HDD Connectivity Issues - Quick Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016765439-troubleshooting-non-functional-onikuma-headset-mics-solutions-inside/"><u>Troubleshooting Non-Functional Onikuma Headset Mics - Solutions Inside!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-one-stop-wireless-solution-for-globetrotters-by-tp-link/"><u>Unveiling the One-Stop Wireless Solution for Globetrotters by TP-Link</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-top-12-ultimate-wildlife-game-picks-for-2024/"><u>[New] Android's Top 12 Ultimate Wildlife Game Picks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[Updated] In 2024, Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-social-media-showdown-is-likee-set-to-dominate-over-tiktok/"><u>[Updated] Social Media Showdown Is Likee Set to Dominate Over TikTok?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-a-malfunctioning-webex-mic-this-year/"><u>Essential Fixes for a Malfunctioning Webex Mic This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-redrazor-headset-mic-on-your-computer/"><u>How to Fix a Non-Functioning RedRazor Headset Mic on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-sounds-disappearing-or-stuttering-on-your-windows-11-pc-solutions-explored/"><u>How to Fix Sounds Disappearing or Stuttering on Your Windows 11 PC: Solutions Explored</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-mic-in-rec-room-for-windows-users-a-2024-tutorial/"><u>How to Repair a Malfunctioning Mic in Rec Room for Windows Users - A 2024 Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-perfect-sound-quality-in-cyberpunk-2077-clear-audio-solutions/"><u>How to Restore Perfect Sound Quality in Cyberpunk 2077 - Clear Audio Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-nord-3-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus Nord 3 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-optimizing-privacy-for-your-online-videography/"><u>In 2024, Optimizing Privacy for Your Online Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-5-display-choices-for-ps5/"><u>In 2024, Ultimate 5 Display Choices For PS5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/obs-vs-modern-broadcasting-tools-a-comparison-for-2024/"><u>OBS Vs. Modern Broadcasting Tools A Comparison for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-functionality-how-to-troubleshoot-a-non-responsive-logitech-g430-microphone/"><u>Restoring Functionality: How to Troubleshoot a Non-Responsive Logitech G430 Microphone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-intelligent-intersection-of-bing-and-ai/"><u>The Intelligent Intersection of Bing & AI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-microphones-top-fixes-that-work/"><u>Troubleshooting Quiet Microphones: Top Fixes That Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-unresponsive-csgo-microphone-problems/"><u>Troubleshooting Steps for Unresponsive CS:GO Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-2024-updates-in-rainbow-six-siege-voice-chat-issues/"><u>Troubleshooting Steps to Resolve 2024 Updates in Rainbow Six Siege Voice Chat Issues</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>Updated In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1528029-9781451636031-waking-up/"><u>Waking Up | Free Book</u></a></li>
 </ul></div>
 

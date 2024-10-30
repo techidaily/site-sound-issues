@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting HDMI Sound Problems on Windows 7 Computers
-date: 2024-10-19T21:11:56.949Z
-updated: 2024-10-24T18:05:56.241Z
+date: 2024-10-24T16:07:09.012Z
+updated: 2024-10-30T16:43:43.960Z
 tags:
   - win11
   - win10
@@ -74,27 +74,14 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
@@ -103,10 +90,10 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
@@ -118,20 +105,28 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
@@ -158,24 +153,21 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-masterclass-top-10-recorder-options-on-spotify/"><u>[Updated] 2024 Approved Masterclass Top 10 Recorder Options on Spotify</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-prime-live-tech-the-most-popular-streaming-tools-reviewed/"><u>[Updated] In 2024, Prime Live Tech The Most Popular Streaming Tools Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-the-crash-top-surf-cameras-of-2023/"><u>2024 Approved Capture the Crash Top Surf Cameras of 2023</u></a></li>
-<li><a href="https://driver-install.techidaily.com/activate-tablet-with-new-marvell-avstar-controller/"><u>Activate Tablet with New Marvell AVSTAR Controller</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-not-plugged-in-error-with-your-realtek-high-definition-sound-card/"><u>How to Resolve 'Not Plugged In' Error with Your Realtek High-Definition Sound Card</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-upgrade-your-content-presentation-with-top-tier-templates/"><u>In 2024, Upgrade Your Content Presentation with Top-Tier Templates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-voicemod-advanced-strategies-to-repair-and-enhance-usability/"><u>Mastering Voicemod : Advanced Strategies To Repair and Enhance Usability</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-problem-solved-get-your-world-of-warcraft-game-sounds-back/"><u>Noise Problem Solved! Get Your World of Warcraft Game Sounds Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/onikuma-headset-mic-not-working-solved/"><u>Onikuma Headset Mic Not Working [SOLVED]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ps4mp4/"><u>PS4上でMP4ファイルをスムーズに再生するコツとトラブルシューティング手順</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-for-your-logitech-g933s-sound-problem-step-by-step-instructions/"><u>Quick Fix for Your Logitech G933's Sound Problem - Step-by-Step Instructions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolve-google-meet-microphone-problems-in-windows-11-or-10/"><u>Quick Fixes: Resolve Google Meet Microphone Problems in Windows 11 or 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-guide-repairing-a-non-functional-corsair-void-mic/"><u>Quick Guide: Repairing a Non-Functional Corsair Void Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-error-when-opening-sound-device-in-audacity-top-5-fixes/"><u>Resolve 'Error When Opening Sound Device' In Audacity: Top 5 Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-windows-10-sound-problems-with-this-step-by-step-guide/"><u>Resolve Your Windows 10 Sound Problems with This Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/seamless-iphone-synchronization-a-guide-to-merging-your-devices-with-and-without-icloud/"><u>Seamless iPhone Synchronization: A Guide to Merging Your Devices, With and Without iCloud</u></a></li>
-<li><a href="https://win-news.techidaily.com/transform-your-digital-flipbooks-into-physical-cd-format-instantly-using-flipbuilder-tools/"><u>Transform Your Digital FlipBooks Into Physical CD Format Instantly Using FlipBuilder Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-for-pc-components-wisdom-by-tom/"><u>Unlocking Performance Secrets for PC Components - Wisdom by Tom</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-banner-blueprints-a-gamers-design-handbook/"><u>YouTube Banner Blueprints A Gamers' Design Handbook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ephemeral-insights-into-fb-episodes-for-2024/"><u>[New] Ephemeral Insights Into FB Episodes for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-tomtom-bandit-camera-review-the-latest/"><u>[Updated] In 2024, TomTom Bandit Camera Review The Latest</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-top-tools-for-saving-insta-photos-and-videos/"><u>[Updated] In 2024, Top Tools for Saving Insta Photos & Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehve-steps-to-restore-sound-on-a-silent-pc-or-mac-speaker-system/"><u>Comprehve Steps to Restore Sound on a Silent PC or Mac Speaker System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g933-mic-issues-for-optimal-audio-performance/"><u>Fixing Logitech G933 Mic Issues for Optimal Audio Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-nonfunctional-laptop-headset-connection-tips-and-solutions/"><u>Fixing Your Nonfunctional Laptop Headset Connection – Tips and Solutions</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/geekom-unveils-new-ax8-mini-pc-featuring-latest-intel-13th-gen-and-amd-ryzen-8000-processor-compatibility/"><u>GeekOm Unveils New AX8 Mini PC Featuring Latest Intel 13Th Gen & AMD Ryzen 8000 Processor Compatibility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-steelseries-arctis-mic-back-to-life-effective-fixes-for-the-99x-models/"><u>Getting Your SteelSeries Arctis Mic Back to Life: Effective Fixes for the 9/9X Models</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-melodies-of-google-chrome-a-solution-to-no-sound-issues/"><u>Reviving the Melodies of Google Chrome: A Solution to No-Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016705946-startup-failures-of-dolby-headphone-technology-in-windows-11-heres-the-solution/"><u>Startup Failures of Dolby Headphone Technology in Windows 11? Here's the Solution</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-extracting-the-main-subject-from-any-photo/"><u>Step-by-Step Guide: Extracting the Main Subject From Any Photo</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-solution-to-enable-dvd-title-detection-in-handbrake-software/"><u>Step-by-Step Solution to Enable DVD Title Detection in HandBrake Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-real-deal-on-truthgpt-coin-investigating-its-authenticity-and-safety-for-investors/"><u>The Real Deal on TruthGPT Coin – Investigating Its Authenticity and Safety for Investors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-razer-barracuda-x-microphone-malfunctions-in-win11win10/"><u>Troubleshooting: Razer Barracuda X Microphone Malfunctions in Win11/Win10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-twitch-downtime-is-there-a-widespread-glitch-affecting-everyone/"><u>Understanding Twitch Downtime: Is There a Widespread Glitch Affecting Everyone?</u></a></li>
 </ul></div>
 

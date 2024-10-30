@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solve 'No Audio Output' Issue When Speaker Is Connected to Windows"
-date: 2024-10-19T21:56:21.023Z
-updated: 2024-10-24T22:13:54.383Z
+date: 2024-10-27T16:27:56.920Z
+updated: 2024-10-30T16:17:35.732Z
 tags:
   - win11
   - win10
@@ -75,10 +75,10 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
@@ -86,6 +86,13 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -98,30 +105,23 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
@@ -151,19 +151,17 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-foremost-low-impact-screen-recorders-explored/"><u>[New] 2024 Approved Foremost Low-Impact Screen Recorders Explored</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-6-easy-free-youtube-closers-for-your-videos-top-picks-for-2024/"><u>[New] 6 Easy, Free YouTube Closers for Your Videos (Top Picks) for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-maximizing-income-sourav-joshis-youtube-journey/"><u>[Updated] 2024 Approved Maximizing Income Sourav Joshi's YouTube Journey</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reviving-shadows-and-highlights-in-iphone-hdr-footage-with-premiere-pro/"><u>2024 Approved Reviving Shadows and Highlights in iPhone HDR Footage with Premiere Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/como-convertir-archivo-tiff-a-pdf-o-jpg-sin-coste-guia-de-conversion-online-por-movavi/"><u>Cómo Convertir Archivo TIFF a PDF O JPG Sin Coste: Guía De Conversión Online Por Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-s17-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo S17 Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/download-free-imgburn-software-securely-convert-cpd-discs-into-iso-files/"><u>Download Free IMGBurn Software: Securely Convert CPD Discs Into ISO Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-airpods-working-again-on-windows-1110-steps-for-audio-restoration/"><u>Getting Your AirPods Working Again on Windows 11/10 – Steps for Audio Restoration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-no-sound-in-windows-pc-a-step-by-step-guide/"><u>How to Fix No Sound in Windows PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-huawei-nova-y71-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-for-voice-chat-failure-in-world-of-warcraft-effective-strategies-inside/"><u>Quick Fix for Voice Chat Failure in World of Warcraft - Effective Strategies Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-nvidia-connection-errors-quickly-essential-troubleshooting-steps/"><u>Resolve Nvidia Connection Errors Quickly – Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-steps-to-fix-your-google-hangouts-microphone-problems-today/"><u>Simple Steps to Fix Your Google Hangouts Microphone Problems Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-and-resolving-lack-of-sound-in-zoom-for-desktop-users/"><u>Ultimate Guide: Troubleshooting and Resolving Lack of Sound in Zoom for Desktop Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-list-of-16-key-youtube-videos-for-higher-engagement/"><u>[Updated] Ultimate List of 16 Key YouTube Videos for Higher Engagement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-vigorous-voyages-the-longest-flight-drone-elite-for-2024/"><u>[Updated] Vigorous Voyages The Longest Flight Drone Elite for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/5asx5y6755qe5b6u5lplush5rai5ogv77ym5ogi5asn5pa55rov5oplust5pmt4ocu4ocu6ycc55so5lqo6lplusf6ycf5a6e6kgm77yb/"><u>失去的微信消息，恢复方法揭晓——适用于迅速实行！</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-and-voice-chat-woes-discover-simple-solutions-to-sound-off-in-the-game/"><u>Apex Legends and Voice Chat Woes? Discover Simple Solutions to Sound Off in the Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/approach-discuss-the-impact-of-temperature-on-the-hydration-reaction-and-concrete-properties/"><u>Approach: Discuss the Impact of Temperature on the Hydration Reaction and Concrete Properties</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-logitech-camera-and-mic-back-online-expert-troubleshooting-tips/"><u>Get Your Logitech Camera and Mic Back Online - Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rectify-audio-problems-on-your-computer-a-comprehensive-guide-for-windows-11-users/"><u>Rectify Audio Problems on Your Computer: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/scherzo-is-a-replacement-for-the-minuet-in-romantic-symphonies-characterized-by-its-lively-tempo-and-rhythm/"><u>Scherzo Is a Replacement for the Minuet in Romantic Symphonies, Characterized by Its Lively Tempo and Rhythm.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/speech-capture-device-scrutiny-for-2024/"><u>Speech Capture Device Scrutiny for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-eliminate-sound-fluctuations-on-windows-11windows-7-systems/"><u>Troubleshooting Guide: How to Eliminate Sound Fluctuations on Windows 11/Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-issues-with-unresponsive-mic-and-audio-detection/"><u>Ultimate Guide: Resolving Issues with Unresponsive Mic and Audio Detection</u></a></li>
 </ul></div>
 

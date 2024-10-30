@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Intermittent Sound Issues on Windows 11
-date: 2024-10-23T16:38:45.917Z
-updated: 2024-10-24T19:20:31.081Z
+date: 2024-10-28T16:41:50.025Z
+updated: 2024-10-30T17:18:09.970Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ But first, ensure that your device has been connected and set correctly.
 5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart the game**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Set your device as Default
 
  If you have multiple output devices (more than two), you’d better set the headset as default. It probably the reason for “Anthem no sound” error.
@@ -74,20 +67,34 @@ But first, ensure that your device has been connected and set correctly.
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 5. Reboot your computer and check whether Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Uncheck “Disable all sound effects”
@@ -98,13 +105,6 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 5. Click **Apply > OK** .
@@ -126,10 +126,10 @@ But first, ensure that your device has been connected and set correctly.
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -137,10 +137,10 @@ But first, ensure that your device has been connected and set correctly.
 4. Restart your computer and check the Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
@@ -170,19 +170,18 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-a34-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy A34 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-overview-2024s-comprehensive-video-show-app/"><u>Expert Overview 2024'S Comprehensive Video Show App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-avi-files-to-wav-format-with-ease-use-movavi-today/"><u>Free Online Converter: Transform AVI Files to WAV Format with Ease - Use Movavi Today!</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-issues-resolved-tips-for-getting-your-sound-back-on-track/"><u>Razer Kraken Microphone Issues Resolved: Tips for Getting Your Sound Back On Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-7-microphone-issues-quick-and-easy-fixes/"><u>Resolving Windows 7 Microphone Issues Quick & Easy Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-11/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/solving-the-cannot-connect-to-world-problem-in-minecraft-for-seamless-gameplay/"><u>Solving the 'Cannot Connect to World' Problem in Minecraft for Seamless Gameplay</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-booting-your-mac-into-macos-recovery/"><u>Step-by-Step Guide: Booting Your Mac Into macOS Recovery</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-inshot-on-pcs-and-laptops-for-2024/"><u>The Ultimate Guide to Inshot on PCs and Laptops for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-y02t-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y02T Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-unplugging-false-alarms-for-headphones-and-speakers-in-windows-os/"><u>Troubleshooting Audio Issues: Unplugging False Alarms for Headphones and Speakers in Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-upping-speaker-levels-in-the-latest-windows-operating-system/"><u>Ultimate Tricks for Upping Speaker Levels in the Latest Windows Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-audio-fix-enabling-visibility-for-headphones-in-media-controls/"><u>Windows 11 Audio Fix: Enabling Visibility for Headphones in Media Controls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-video-editing-journeys-end-discover-the-best-10-tools/"><u>[Updated] In 2024, Video Editing Journey's End Discover the Best 10 Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-solved-obs-full-screen-anomaly/"><u>2024 Approved Solved OBS Full Screen Anomaly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-razer-blackshark-v2-microphone-problems/"><u>Diagnosing and Repairing Your Razer Blackshark V2 Microphone Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellent-10-drone-fleet-for-professional-photos-and-films-for-2024/"><u>Excellent 10-Drone Fleet for Professional Photos & Films for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-discover-the-truth-is-vn-video-editor-pro-a-top-notch-video-editor/"><u>In 2024, Discover the Truth Is VN Video Editor Pro a Top-Notch Video Editor?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy M54 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-voice-communication-in-fortnite-mic-troubleshooting-guide-for-gamers/"><u>Mastering Voice Communication in Fortnite: Mic Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-gray-zone-warfare-gzw-pc-game-crashing-woes-with-easy-fixes/"><u>Overcoming Gray Zone Warfare (GZW) PC Game Crashing Woes with Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sound-challenges-expert-advice-to-get-your-logitee-g733-mic-working-again/"><u>Overcoming Sound Challenges: Expert Advice to Get Your Logitee G733 Mic Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-on-your-computer-after-a-recent-windows-11-software-patch/"><u>Restoring Audio on Your Computer After a Recent Windows 11 Software Patch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-a54-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy A54 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-workplace-revolution-how-generative-ai-shapes-7-key-job-trends/"><u>The Future Workplace Revolution: How Generative AI Shapes 7 Key Job Trends</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-silencing-static-and-improving-sound-from-your-arctisys-7-microphone-on-windows-pcs/"><u>Troubleshooting Tips: Silencing Static and Improving Sound From Your ArctiSys #7 Microphone on Windows PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve Your Anthem Game's Sound Issues on Windows 10 Here!
-date: 2024-10-20T16:28:12.058Z
-updated: 2024-10-24T20:08:27.915Z
+date: 2024-10-29T17:02:37.795Z
+updated: 2024-10-30T17:25:46.012Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check audio settings
 
  The improper audio settings can also result in the no sound issue in your computer, so you should configure the audio settings properly.
@@ -68,32 +75,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Still no luck? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -103,20 +89,36 @@ Still no luck? Okay, there’s one more thing to try.
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -143,18 +145,22 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>[New] In 2024, Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/5-swift-fixes-to-get-your-oculus-rift-ss-microphone-up-and-running/"><u>5 Swift Fixes to Get Your Oculus Rift S's Microphone Up and Running</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-motorola-razr-40-ultra-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Motorola Razr 40 Ultra Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-audio-experience-on-your-computer-with-easy-windows-11-settings/"><u>Enhancing Audio Experience on Your Computer with Easy Windows 11 Settings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-to-gaming-with-friends-resolving-voice-chat-problems-in-valorant/"><u>Get Back to Gaming with Friends: Resolving Voice Chat Problems in Valorant</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-dynamic-backdrop-customization-in-teammate-windows-prepost-calls/"><u>In 2024, Dynamic Backdrop Customization in Teammate Windows, Pre/Post Calls</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Hot 30 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-x-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone X when Phone is Broken?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/magic-meets-technology-the-future-of-home-studio-production-for-2024/"><u>Magic Meets Technology The Future of Home Studio Production for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/solo-stardom-in-the-podcast-universe/"><u>Solo Stardom in the Podcast Universe</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-implemented-eliminating-audio-issues-within-firefox-web-browser/"><u>Solution Implemented: Eliminating Audio Issues Within Firefox Web Browser</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-a-non-functional-mic-on-your-steelseries-arctis-7-headset/"><u>Solving the Problem of a Non-Functional Mic on Your SteelSeries Arctis 7 Headset</u></a></li>
-<li><a href="https://facebook.techidaily.com/transforming-photos-into-stereoscopic-delights-for-fb/"><u>Transforming Photos Into Stereoscopic Delights for FB</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-video-uploads-with-ios-the-complete-youtube-guide-for-2024/"><u>[New] Effortless Video Uploads with iOS The Complete YouTube Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-aimp-pro-streaming-enhancer-without-wmsp/"><u>[New] In 2024, AIMP Pro Streaming Enhancer Without WMSP</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-inshot-tips-achieving-seamless-video-segmentation/"><u>[Updated] 2024 Approved Inshot Tips Achieving Seamless Video Segmentation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-secrets-for-effective-ipad-sound-capture/"><u>[Updated] Expert Secrets for Effective iPad Sound Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenge-accepted-how-twitter-x-checkmarks-stack-up-and-chatgpts-biggest-flaws-uncovered-by-a-tech-visionary/"><u>Challenge Accepted: How Twitter X Checkmarks Stack Up and ChatGPT's Biggest Flaws Uncovered by a Tech Visionary</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-restore-voice-communication-in-destiny-2/"><u>Fixing Issues: How to Restore Voice Communication in Destiny 2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-free-realtek-sound-card-driver-packs-compatible-with-windows-11-10-and-7/"><u>Get Your Free Realtek Sound Card Driver Packs Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>In 2024, In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-rhythms-with-the-magix-groove-master-suite-for-2024/"><u>Innovative Rhythms with the Magix Groove Master Suite for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-a-broken-or-malfunctioning-headset-microphone/"><u>Quick Solutions: Resolving a Broken or Malfunctioning Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-malfunctions-of-airpods-on-your-new-pc-running-windows-11/"><u>Resolving Microphone Malfunctions of AirPods on Your New PC Running Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-functionality-addressing-headphone-problems-in-your-windows-11-setup/"><u>Restore Audio Functionality: Addressing Headphone Problems in Your Windows 11 Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-stereo-sound-issues-a-comprehensive-guide/"><u>Troubleshoot and Fix Stereo Sound Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-your-pcs-sony-headphones-wh-1000xm3-or-wh-1000xm4-microphone-issues/"><u>Troubleshooting and Fixing Your PC's Sony Headphones: WH-1000XM3 or WH-1000XM4 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solution-guide-for-non-operational-audio-systems/"><u>Troubleshooting and Solution Guide for Non-Operational Audio Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-sound-problems-starting-your-dolby-audio-driver-with-windows-11/"><u>Troubleshooting Dolby Sound Problems: Starting Your Dolby Audio Driver with Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-golds-role-reimagined-in-the-game-pass-system/"><u>Xbox Gold's Role Reimagined in the Game Pass System</u></a></li>
 </ul></div>
 

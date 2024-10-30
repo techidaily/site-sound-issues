@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent AirPods: Troubleshooting Sound Issues on PCs with Windows 11 and 10"
-date: 2024-09-05T03:59:18.546Z
-updated: 2024-09-06T03:59:18.546Z
+date: 2024-10-24T16:03:41.288Z
+updated: 2024-10-30T16:29:13.714Z
 tags:
   - win11
   - win10
@@ -30,11 +30,12 @@ Before you start, make sure your headset is working properly.
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
@@ -43,29 +44,18 @@ Before you start, make sure your headset is working properly.
 2. Go to**System > Sound > All sound devices** and choose your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
 If this trick doesn’t work for you, please move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your audio driver
 
  The Windows 11 no sound issue and other audio issues are usually caused by drivers. Outdated drivers or missing drivers are the reason for many PC problems. To fix it, you need to find the latest and compatible driver for your devices.
@@ -81,22 +71,17 @@ If this trick doesn’t work for you, please move to the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If this fix doesn’t help, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Realtek driver issue
 
@@ -105,48 +90,42 @@ If this fix doesn’t help, move to the next fix.
 1. Click the**Search** button on the bottom and type**device manager** . Then press the**Enter** key to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
-7. Restart your PC for the changes to take effect.
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-8. Check the sound on your PC.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
+7. Restart your PC for the changes to take effect.
+8. Check the sound on your PC.
+
 ## Fix 4: Update your Windows system
 
  Windows 11 will release new updates to fix some issues, so check for updates and it might cure the Windows 11 no sound issue. You can do it manually by following the steps below.
@@ -155,12 +134,14 @@ If this fix doesn’t help, move to the next fix.
 2. Click**Windows Update** \>**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. After the whole process, restart your PC and check the effect.
 
 ## Fix 5: Repair system files
@@ -176,26 +157,8 @@ If this fix doesn’t help, move to the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -207,8 +170,6 @@ If this fix doesn’t help, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +177,24 @@ If this fix doesn’t help, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-iphone-no-sound-or-distorted-sound-problem/"><u>[Fixed] iPhone No Sound or Distorted Sound Problem</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elevating-your-live-experience-with-recorded-content/"><u>[New] Elevating Your Live Experience with Recorded Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-operational-status-achieved-cameras-ready-for-2024/"><u>[Updated] Operational Status Achieved - Cameras Ready for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-top-10-economical-platforms-for-seamless-online-video-meetings-for-2024/"><u>[Updated] The Top 10 Economical Platforms for Seamless Online Video Meetings for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-enthusiasm-the-amazing-world-of-smart-glasses-a-deep-dive-into-innovation/"><u>Discover Apple's Enthusiasm: The Amazing World of Smart Glasses - A Deep Dive Into Innovation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ending-the-hush-on-your-desktop-effortless-solutions-for-computer-sound-issues/"><u>Ending the Hush on Your Desktop: Effortless Solutions for Computer Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/facing-issues-with-your-blue-yeti-microphone-check-these-proven-fixes/"><u>Facing Issues with Your Blue Yeti Microphone? Check These Proven Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-problem-google-hangouts-microphone-not-working-solutions/"><u>Fixing the Silent Problem: Google Hangouts Microphone Not Working Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptop-has-lost-its-voice-heres-how-to-bring-back-the-sound/"><u>HP Laptop Has Lost Its Voice? Here's How to Bring Back the Sound</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-luminous-landscapes-mastering-nightscape-portraits-with-precision/"><u>In 2024, Luminous Landscapes Mastering Nightscape Portraits with Precision</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/master-the-art-of-video-editing-with-top-10-fcp-tools/"><u>Master the Art of Video Editing with Top 10 FCP Tools</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-video-for-your-babys-first-year-for-2024/"><u>New How to Make a Video for Your Babys First Year for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-intermittent-sound-issues-on-your-windows-10-device-a-guide/"><u>Resolving Intermittent Sound Issues On Your Windows 10 Device - A Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-mic-failure-solutions-effective-ways-to-fix-your-gaming-headsets-microphone/"><u>SteelSeries Arctis Prime Mic Failure Solutions: Effective Ways to Fix Your Gaming Headset's Microphone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-influence-of-ai-powered-chatbots-on-modern-content-production-techniques/"><u>The Influence of AI-Powered Chatbots on Modern Content Production Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-editing-efforts-10-text-innovations-for-2024/"><u>Top Editing Efforts 10 Text Innovations for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-your-razer-kraken-microphone-issues/"><u>Troubleshooting Guide: Fixing Your Razer Kraken Microphone Issues</u></a></li>
+</ul></div>
 

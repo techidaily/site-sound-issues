@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes for a Non-Functional Logitech G230 Mic – Resolved
-date: 2024-10-23T18:47:10.929Z
-updated: 2024-10-24T17:10:14.836Z
+date: 2024-10-29T17:23:18.548Z
+updated: 2024-10-30T16:32:55.216Z
 tags:
   - win11
   - win10
@@ -35,49 +35,51 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Check your microphone settings**
 
 This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control** and press**Enter** to open**Control Panel** . ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000092.png)
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 8. Click **OK** .
 See if your Logitech G230 mic works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -85,6 +87,14 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 
 1. On your keyboard, press the Windows logo key and I at the same time to open Windows Settings. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
 
 ### **Fix 3: Update your audio driver**
@@ -104,13 +114,6 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -141,19 +144,18 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-guide-perfecting-voiceovers-in-filming/"><u>[New] Step-by-Step Guide Perfecting Voiceovers in Filming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-compelling-podcast-summaries-explained/"><u>[New] The Art of Compelling Podcast Summaries Explained</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-instagrams-background-replace-technique/"><u>[New] Unveiling Instagram’s Background Replace Technique</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-revenue-rationale-calculating-your-average-earning-from-adsense-per-k-views/"><u>[Updated] In 2024, Revenue Rationale Calculating Your Average Earning From AdSense per K Views</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-masterclass-analyzing-the-updated-lg-bp550-for-2024/"><u>[Updated] Masterclass Analyzing the Updated LG BP550 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-the-fixes-an-authoritative-approach-to-overcoming-devastating-ark-server-crashes/"><u>Decode the Fixes: An Authoritative Approach to Overcoming Devastating ARK Server Crashes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2010-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2010 document electronically</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-microsoft-surface-go-a-low-cost-tablet-struggling-with-identity/"><u>In-Depth Look at Microsoft Surface Go: A Low-Cost Tablet Struggling with Identity</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/safe-and-secure-top-10plus-websites-to-download-games-online/"><u>Safe and Secure Top 10+ Websites to Download Games Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-g435-bluetooth-headphones-silent-mode-solutions/"><u>Troubleshooting G435 Bluetooth Headphones - Silent Mode Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-onikuma-headsets-non-functional-mic-fixed-now/"><u>Troubleshooting Onikuma Headset's Non-Functional Mic - Fixed Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-issues-how-to-prevent-audio-interruptions-in-windows-11/"><u>Troubleshooting Sound Issues: How to Prevent Audio Interruptions in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-broken-realtek-microphone-connection/"><u>Troubleshooting Steps for a Broken Realtek Microphone Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-rejuvenating-a-dormant-windows-scan-tool/"><u>Troubleshooting: Rejuvenating a Dormant Windows Scan Tool</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vocal-excellence-techniques-for-capturing-flawless-audio/"><u>[Updated] 2024 Approved Vocal Excellence Techniques for Capturing Flawless Audio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-virtual-scenes-enhancing-zoomgoogle-experience/"><u>[Updated] Perfect Virtual Scenes Enhancing Zoom/Google Experience</u></a></li>
+<li><a href="https://solve-news.techidaily.com/10-simple-steps-transforming-your-dvds-into-mp4-format-on-windows-11-and-mac/"><u>10 Simple Steps: Transforming Your DVDs Into MP4 Format on Windows 11 and Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-corriger-une-image-video-distorcee-creee-avec-handbrake-lors-de-lextraction-dun-dvd-sous-windows-10/"><u>Comment Corriger Une Image Video Distorcée Créée Avec HandBrake Lors De L’Extraction D'un DVD Sous Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-solving-speaker-issues-easily/"><u>How To Get Your Windows 11 Audio Back: Solving Speaker Issues Easily</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-screen-capture-tips-for-phones/"><u>In 2024, Snapchat Screen Capture Tips for Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-cyberpunk-2077-for-windows-10-users-step-by-step-guide/"><u>Restoring Audio to Cyberpunk 2077 for Windows 10 Users - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-redragon-headset-microphone-on-your-computer/"><u>Step-by-Step Guide to Restoring Redragon Headset Microphone on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-best-free-email-services-to-try-today/"><u>Top 10 Best Free Email Services to Try Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-resolving-toshiba-laptop-audio-issues/"><u>Top Solutions for Resolving Toshiba Laptop Audio Issues</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-add-and-edit-background-music-to-video-with-filmora/"><u>Updated In 2024, Add & Edit Background Music to Video with Filmora</u></a></li>
 </ul></div>
 

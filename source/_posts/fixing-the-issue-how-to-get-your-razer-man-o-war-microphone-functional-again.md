@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Get Your Razer Man O' War Microphone Functional Again"
-date: 2024-10-12T00:19:51.356Z
-updated: 2024-10-19T01:24:10.670Z
+date: 2024-10-24T16:47:41.668Z
+updated: 2024-10-30T17:41:07.701Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your audio driver
 
  If you’re using a faulty, corrupted or outdated audio driver, various audio issues will occur. You may find the microphone is malfunctioning or there’s no sound when using Google Meet. To fix the issue, make sure you install the latest correct audio driver.
@@ -48,21 +55,7 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -77,26 +70,19 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 2. Select**Microphone** . Then on the right pane, click the**Change** button and turn Microphone access for this device to**On** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Check your PC sound settings
 
@@ -105,29 +91,53 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Test your microphone again to see if it works without problem. If the issue persists, check out the next solution below.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Check Google Meet’s settings
 
@@ -168,19 +178,17 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-thriving-in-google-meet-chats/"><u>[Updated] In 2024, The Ultimate Guide to Thriving in Google Meet Chats</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-becoming-an-economic-force-a-guide-to-earning-on-youtube/"><u>2024 Approved Becoming an Economic Force A Guide to Earning on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-texting-solutions-ideal-apps-for-your-apple-mobile-gadgets/"><u>Affordable Texting Solutions: Ideal Apps for Your Apple Mobile Gadgets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-audio-output-on-your-pc-a-step-by-step-guide-for-windows-11-users/"><u>Boosting Audio Output on Your PC: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016644109-chromes-sound-troubles-fixed-discover-the-solutions-here/"><u>Chrome's Sound Troubles Fixed? Discover the Solutions Here!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016292592-csgo-mic-not-working-heres-what-you-need-to-do/"><u>CS:GO Mic Not Working? Here's What You Need to Do</u></a></li>
-<li><a href="https://facebook.techidaily.com/curating-personalized-social-network-content-on-fb/"><u>Curating Personalized Social Network Content on FB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-headset-malfunctions-in-windows-7-operating-system/"><u>Diagnosing & Repairing Headset Malfunctions in Windows 7 Operating System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722968951668-how-to-quickly-obtain-and-install-logitech-m325-drivers-with-one-click/"><u>How to Quickly Obtain and Install Logitech M325 Drivers with One Click!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 13 mini</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016233789-networking-opportunities/"><u>Networking Opportunities</u></a></li>
-<li><a href="https://win-dash.techidaily.com/run-the-downloaded-installer-files-one-at-acuoonding-usually-in-alphabetical-order-the-installation-process-may-vary-depending-on-the-manufacturers-setup-ho235/"><u>Run the Downloaded Installer Files One at Acuoonding (Usually in Alphabetical Order). The Installation Process May Vary Depending on the Manufacturer's Setup; However, You Typically Need to Restart Your Computer After Completing the Updates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-for-fixing-buzzing-issues-in-earbuds-and-headsets/"><u>Step-by-Step Troubleshooting for Fixing Buzzing Issues in Earbuds and Headsets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-directors-cut-assessment-video-editor-review/"><u>[New] In 2024, Director's Cut Assessment – Video Editor Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-what-does-the-blue-marker-on-fb-chat-reveal/"><u>[Updated] What Does the Blue Marker on FB Chat Reveal?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-art-of-documenting-xbox-playtime-online/"><u>2024 Approved The Art of Documenting Xbox Playtime Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-and-correcting-nonfunctional-audio-service-problems-for-optimal-performance/"><u>Addressing and Correcting Nonfunctional Audio Service Problems for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-for-malfunctioning-in-ear-or-usb-microphones/"><u>Common Problems & Solutions for Malfunctioning In-Ear or USB Microphones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-itbm-driver-not-available-error-easily/"><u>Fix ITBM Driver Not Available Error. Easily!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-responsive-speakers-in-windows-10-step-by-step-instructions/"><u>Fixing Non-Responsive Speakers in Windows 10 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-black-ops-cold-war-voice-communication-failure/"><u>Fixing the Issue: Black Ops Cold War Voice Communication Failure</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-enhance-youtube-trademarks-tips-on-logo-and-watermark-addition/"><u>In 2024, Enhance YouTube Trademarks Tips on Logo and Watermark Addition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extreme-quality-top-5-for-slow-motion-precision/"><u>In 2024, Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211472963-9781964959139-melchizedek-frequencies/"><u>Melchizedek Frequencies | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-reactivating-the-voice-communication-in-cod-vanguard/"><u>Solution Guide: Reactivating the Voice Communication in Cod: Vanguard</u></a></li>
 </ul></div>
 

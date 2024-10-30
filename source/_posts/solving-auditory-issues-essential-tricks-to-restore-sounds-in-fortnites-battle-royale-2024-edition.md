@@ -1,7 +1,7 @@
 ---
 title: "Solving Auditory Issues: Essential Tricks to Restore Sounds in Fortnite's Battle Royale - 2024 Edition"
-date: 2024-09-05T03:59:17.593Z
-updated: 2024-09-06T03:59:17.593Z
+date: 2024-10-29T16:58:10.168Z
+updated: 2024-10-30T16:53:55.162Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Solving Auditory Issues: Essential Tricks to Re
 thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c7637037d5e86d15b1b9eaa1.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tackling Audio Playback Issues in Audacity? Try These 5 Key Solutions to Resolve Sound Devices Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/error-opening-sound-device-feature-image-2.jpg)
@@ -38,12 +32,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 5. **[Update the audio driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Restart the Windows Audio Endpoint Builder service](https://tools.techidaily.com/drivereasy/download/)**
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 1: Ensure the external sound device is plugged in (desktop only)
 
  If you’re using a desktop computer, _**ensure the device you use to listen to the sound such as external speakers, is plugged in**_  .  
@@ -63,22 +51,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
  Follow these steps:  
@@ -91,18 +67,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d5e494746.png)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##
   
  Solution 3: Ensure audio device settings in Audacity are configured correctly
@@ -145,12 +109,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
@@ -183,12 +141,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) After updating the driver, check to see if you can record sound successfully.
 
 ##
@@ -209,12 +161,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Check to see if you can record successfully.  
   
  Hopefully the solutions above help you resolve the problem. If you have any questions, please feel free to leave your comments. I’d love to hear of any ideas or suggestions.
@@ -228,8 +174,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +181,27 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-troubleshoot-mute-audio-in-tweeted-vids/"><u>[New] Troubleshoot Mute Audio in Tweeted Vids</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unveiling-the-art-of-auditory-enhancement-on-youtube-for-2024/"><u>[Updated] Unveiling the Art of Auditory Enhancement on YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-language-barriers-windows-media-player-subtitle-guide-for-2024/"><u>Bridging Language Barriers Windows Media Player Subtitle Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/disabling-sound-amplification-in-windows-11-a-comprehensive-guide/"><u>Disabling Sound Amplification in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/dodging-dangers-restore-fb-after-the-2023-incident/"><u>Dodging Dangers Restore FB After the 2023 Incident</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-to-get-your-razer-kraken-mic-working-again/"><u>Effective Fixes to Get Your Razer Kraken Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-puzzling-sound-outages-in-windows-11-easy-fixes-and-strategies/"><u>Eliminating Puzzling Sound Outages in Windows 11: Easy Fixes and Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-star-wars-squadrons-crashing-issues-expert-tips-and-hacks/"><u>Resolving STAR WARS Squadrons Crashing Issues - Expert Tips & Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-system-solved-expert-tips-for-restoring-sound-on-windows-11-devices/"><u>Silent System Solved: Expert Tips for Restoring Sound on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-addressing-microphone-failures-across-the-kotion-g2000-range/"><u>Step-by-Step Fixes: Addressing Microphone Failures Across the Kotion G2000 Range</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-items-for-your-essential-summer-everyday-carry-edc/"><u>Top 7 Must-Have Items for Your Essential Summer Everyday Carry (EDC)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-when-your-black-ops-cold-war-mic-stops-working/"><u>Troubleshooting Guide: When Your Black Ops Cold War Mic Stops Working</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

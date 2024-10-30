@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality to a Broken Squad Mic - Expert Tips
-date: 2024-10-21T19:38:20.772Z
-updated: 2024-10-24T20:09:35.994Z
+date: 2024-10-28T16:07:33.227Z
+updated: 2024-10-30T16:39:52.996Z
 tags:
   - win11
   - win10
@@ -42,34 +42,13 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
@@ -84,32 +63,39 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -129,11 +115,25 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -163,14 +163,14 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-time-hopping-through-facebook-stories-a-device-based-expedition/"><u>[Updated] 2024 Approved Time-Hopping Through Facebook Stories A Device-Based Expedition</u></a></li>
-<li><a href="https://facebook.techidaily.com/ensure-only-you-see-your-facebook-pics/"><u>Ensure Only You See Your Facebook Pics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-persistent-buzzing-noise-on-your-windows-pc/"><u>How to Fix the Persistent Buzzing Noise on Your Windows PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unresponsive-voice-chatting-in-black-ops-cold-war-multiplayer-mode/"><u>How to Resolve Unresponsive Voice Chatting in Black Ops Cold War Multiplayer Mode</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimize-audio-quality-by-disabling-enhancements-in-windows-10/"><u>Optimize Audio Quality by Disabling Enhancements in Windows 10</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-overcome-microsoft-teams-audio-problems-for-users-of-windows-11-and-10/"><u>Solved! Overcome Microsoft Teams Audio Problems for Users of Windows 11 and 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-do-i-schedule-a-screen-recording/"><u>[New] How Do I Schedule A Screen Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/into-the-world-of-cosmetics-launching-a-beauty-channel/"><u>Dive Into the World of Cosmetics Launching a Beauty Channel</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-muted-mystery-resolving-sound-problems-on-iphones/"><u>Fixing the Muted Mystery: Resolving Sound Problems on iPhones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-issue-audio-problems-in-borderlands-3-on-pc/"><u>Fixing the Silent Issue: Audio Problems in Borderlands 3 on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100i-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y100i Phone without Google Account?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-mic-problems-with-microsoft-teams-for-desktop-users-windows-1110-guide/"><u>Resolve Mic Problems with Microsoft Teams for Desktop Users - Windows 11/10 Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-end-of-hacks-discovering-why-advanced-language-models-arent-easily-circumvented-anymore/"><u>The End of Hacks: Discovering Why Advanced Language Models Aren't Easily Circumvented Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-get-your-counter-strike-mic-functioning-again/"><u>Troubleshooting Guide: How to Get Your Counter-Strike Mic Functioning Again</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-slideshow-with-music-for-2024/"><u>Updated How to Make a Slideshow with Music for 2024</u></a></li>
 </ul></div>
 

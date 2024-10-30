@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Cod: Vanguard Voice Chat Glitches with Simple Solutions"
-date: 2024-10-15T17:14:14.624Z
-updated: 2024-10-19T01:00:08.259Z
+date: 2024-10-26T17:34:51.772Z
+updated: 2024-10-30T16:20:07.954Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 4. **[Connect your microphone directly to your controller](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Back 4 Blood](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your privacy settings
 
  If you downloaded Back 4 Blood from the Microsoft Store, make sure your privacy settings are configured properly to allow the game to access your microphone. Here’s how:
@@ -49,26 +42,26 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/settings-privacy.jpg)
 2. In the left panel, select**Microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/settings-privacy-microphone.jpg)
 3. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** , and the status is**On** for**Back 4 Blood** .  
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/tun-on-allow-apps-to-access-your-microphone.jpg)
 4. Launch the game again to see if the voice chat works now.
 
 If the in-game voice chat is still not working, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -99,43 +92,52 @@ If the in-game voice chat is still not working, try the next fix.
 2. Under the**Playback** tab, select the**speakers or headset** you want to use and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Click the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Launch Steam. At the bottom-right corner of the Steam client, click**FRIENDS & CHAT** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-friends-chat.jpg)
 5. In the pop-up window, click**the gear icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/friends-chat-gear.jpg)
 6. Select**VOICE** . In**VOICE INPUT DEVICE** , select the microphone you set as the default device in step 3). In**VOICE OUTPUT DEVICE** , select the headset you set as the default device in step 2).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-voice-set.jpg)
 7. Launch Back 4 Blood again to see if the voice chat is working properly.
 
 If the issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Connect your microphone directly to your controller
 
  Some console players have found that the voice chat may not work if you’ve your headset connected through a Mixamp. To ensure the voice chat works properly in Back 4 Blood, you might need to connect your microphone directly to your controller.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Back 4 Blood
 
@@ -145,6 +147,13 @@ If the issue remains, check out the next fix.
 2. **Right-click** Back 4 Blood and select**Manage** \>**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-uninstall-game.jpg)
 3. After the process completes, reinstalling the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Back 4 Blood voice chat not working issue should have been resolved after trying all the fixes mentioned above. But if not, you can contact the Back 4 Blood support directly and[submit a ticket](https://go.wbgames.com/B4BHelp) .
 
@@ -169,20 +178,19 @@ If the issue remains, check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-step-by-step-mastery-uploading-subtitles-to-gain-visibility-in-online-communities-for-2024/"><u>[New] Step-by-Step Mastery Uploading Subtitles to Gain Visibility in Online Communities for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-teaming-up-for-duet-video-on-tiktok/"><u>2024 Approved Teaming Up for Duet Video on TikTok</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-narzo-60x-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme Narzo 60x 5G Unlock Without Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conquer-the-mighty-lynel-in-the-legend-of-zelda-breath-of-the-wild/"><u>Conquer the Mighty Lynel in The Legend of Zelda: Breath of the Wild</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquering-silence-expert-tips-for-fixing-connexant-smartaudio-hds-audio-malfunction-in-windows-10-computers/"><u>Conquering Silence: Expert Tips for Fixing Connexant SmartAudio HD's Audio Malfunction in Windows 10 Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expertly-curated-list-of-premier-iphones-for-2n24-in-depth-testing-and-honest-reviews-zdnet/"><u>Expertly Curated List of Premier iPhones for 2N24: In-Depth Testing & Honest Reviews | ZDNET</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-the-fixes-you-need-for-voice-chat-glitches-in-call-of-dutys-warzone-across-pc-and-consoles/"><u>Getting the Fixes You Need for Voice Chat Glitches in Call of Duty's Warzone - Across PC & Consoles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-fall-guys-loading-issues-and-avoid-initial-game-crashes/"><u>How to Fix Fall Guys Loading Issues and Avoid Initial Game Crashes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ragnors-rebirth-warriors-alliance/"><u>In 2024, Ragnor's Rebirth Warriors Alliance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meet-the-fresh-face-of-macbook-what-just-came-out/"><u>Meet the Fresh Face of MacBook: What Just Came Out?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-voices-in-azeroth-overcoming-no-sound-challenges-in-wow/"><u>Reviving Voices in Azeroth: Overcoming No Sound Challenges in WoW</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tips-and-solutions-restoring-functionality-to-your-turtle-beach-elite-atlas-headsets-mic/"><u>Tips and Solutions: Restoring Functionality to Your Turtle Beach Elite Atlas Headset's Mic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-essential-factors-to-evaluate-when-shopping-for-your-next-fitness-tracker/"><u>Top 5 Essential Factors to Evaluate When Shopping for Your Next Fitness Tracker</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-how-to-deal-with-persistent-buzz-in-headphone-experience/"><u>Troubleshooting Audio Issues: How to Deal with Persistent Buzz in Headphone Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-how-to-restore-functionality-in-non-responsive-pc-speakers/"><u>Ultimate Solutions: How to Restore Functionality in Non-Responsive PC Speakers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dynamic-font-movement-packs/"><u>[New] In 2024, Dynamic Font Movement Packs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>[New] The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/complete-walkthrough-mastering-adobe-cloud-services/"><u>Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-magic-of-multimedia-with-the-new-201n-apple-ipad-air/"><u>Experience the Magic of Multimedia with the New 201N Apple iPad Air!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-issues-with-laptop-audio-jack-connectivity/"><u>Expert Tips: Resolving Issues With Laptop Audio Jack Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-the-nvidia-not-connected-screen-problem/"><u>Expert Tips: Resolving the 'Nvidia Not Connected' Screen Problem</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-camon-20-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Camon 20 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-complete-guide-mastering-final-cut-pro/"><u>In 2024, Complete Guide Mastering Final Cut Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-understanding-the-significance-of-team-collaboration-in-cinematic-projects/"><u>In 2024, Understanding the Significance of Team Collaboration in Cinematic Projects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-mirrored-window-issue-windows-11/"><u>Overcoming Mirrored Window Issue: Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-online-shopping-picks-for-one-of-a-kind-box-packaging/"><u>Perfect Online Shopping Picks for One-of-a-Kind Box Packaging</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-reviving-steelseries-arctis-primes-malfunctioning-communication-device-mic/"><u>Solved: Reviving SteelSeries Arctis Prime's Malfunctioning Communication Device (Mic)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-headphones-fix-playback-device-issues-in-windows-11/"><u>Troubleshooting Missing Headphones: Fix Playback Device Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-crystal-clear-communication-in-fortnite-quick-solutions-for-a-deaf-microphone/"><u>Unlock Crystal Clear Communication in Fortnite – Quick Solutions for a Deaf Microphone</u></a></li>
 </ul></div>
 

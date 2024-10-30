@@ -1,7 +1,7 @@
 ---
 title: Resolving HDMI Speaker Malfunctions on a Windows 7 PC – Step-by-Step Instructions
-date: 2024-10-21T17:46:47.893Z
-updated: 2024-10-24T18:24:46.617Z
+date: 2024-10-23T16:33:22.786Z
+updated: 2024-10-30T16:07:01.211Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 1: Troubleshoot the hardware issue**
 
@@ -100,22 +87,15 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select your audio device in the**Playback** tab, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
@@ -134,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
@@ -145,30 +125,30 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If a**down arrow** displays on the volume icon, the sound device is disabled. Right click the device name, and select**Enable** **device** to enable your sound device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
-4) Try the sound to see if it works.
-
 <!-- affiliate ads begin -->
-<span id="1982461">
+<span id="1993645">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4) Try the sound to see if it works.
 
 ### **Fix 3: Update your sound driver**
 
@@ -188,20 +168,27 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that is missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer and check whether your problem is solved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall your audio driver**
 
@@ -213,9 +200,29 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click your sound device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
@@ -243,13 +250,6 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
@@ -276,21 +276,18 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-secure-mov-file-storage-in-windows-11/"><u>[New] 2024 Approved Secure MOV File Storage in Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-mystery-mastering-attention-grabbing-posts-on-instagram/"><u>[New] Unveiling the Mystery Mastering Attention-Grabbing Posts on Instagram</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-metaverse-vs-multimeva-unveiling-their-comparative-features-for-2024/"><u>[Updated] Metaverse Vs. Multimeva Unveiling Their Comparative Features for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/fixing-the-windows-file-recovery-issue-understanding-command-parsing-errors/"><u>Fixing the Windows File Recovery Issue: Understanding Command Parsing Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-squads-mic-issues-ultimate-troubleshooting-steps/"><u>Fixing Your Squad's Mic Issues: Ultimate Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-microsoft-teams-microphone-up-and-running-on-pc-or-laptop-with-windows-1110/"><u>Get Microsoft Teams Microphone Up and Running on PC or Laptop with Windows 11/10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-cod-vanguard-voice-chat-working-again-expert-tips/"><u>Get Your Cod: Vanguard Voice Chat Working Again - Expert Tips</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-fix-asus-laptop-screen-flickering/"><u>How To Fix ASUS Laptop Screen Flickering</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-mic-problem-solved-step-by-step-fixes-for-gamers/"><u>HyperX Cloud Alpha S Mic Problem Solved – Step-by-Step Fixes for Gamers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-f04-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy F04 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014999163-laptop-audio-issues-solved-get-your-sound-back/"><u>Laptop Audio Issues Solved: Get Your Sound Back!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mejora-tu-creacion-de-video-con-winxvideo-ai-tutoria-completa-para-optimizacion-y-conversion/"><u>Mejora Tu Creación De Video Con Winxvideo AI - Tutoría Completa Para Optimización Y Conversión</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-smart-home-weather-sensors/"><u>Top-Rated Smart Home Weather Sensors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-non-functional-mic-on-windows-11-and-10-during-google-meets/"><u>Troubleshooting Guide: How to Repair Non-Functional Mic on Windows 11 and 10 During Google Meets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-nonfunctional-sound-blaster-microphones/"><u>Troubleshooting Techniques for Nonfunctional Sound Blaster Microphones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-quick-swivel-techniques-vlcs-video-flipping-mastery/"><u>[Updated] 2024 Approved Quick-Swivel Techniques VLC's Video Flipping Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-step-by-step-methodology-for-erasing-canvas-backdrops-for-2024/"><u>[Updated] Step-by-Step Methodology for Erasing Canvas Backdrops for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-recover-lost-photos-on-snapchat/"><u>2024 Approved Recover Lost Photos on Snapchat</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-10-economical-pc-screen-recorders-compared/"><u>2024 Approved Top 10 Economical PC Screen Recorders Compared</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-hyperx-cloud-headset-mic-fails-to-work-properly/"><u>Effective Solutions When Your HyperX Cloud Headset Mic Fails to Work Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-functionality-to-your-unresponsive-logitech-g733-mic/"><u>Expert Advice: Restoring Functionality to Your Unresponsive Logitech G733 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-track-fixes-for-audio-playback-error-test-tones-not-working/"><u>Fast-Track Fixes for 'Audio Playback Error: Test Tones Not Working'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-back-4-blood-a-step-by-step-guide/"><u>Fixing Voice Communication Issues in 'Back 4 Blood' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>In 2024, From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-timing-troubleshooting-delays-for-optimal-listening-experience-2erky/"><u>Mastering Audio Timing: Troubleshooting Delays for Optimal Listening Experience, 2Erky</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-google-duo-integration-with-gmail-a-step-by-step-guide/"><u>Mastering Google Duo Integration with Gmail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tapping-into-chatgpt-potential-with-its-api/"><u>Tapping Into ChatGPT Potential with Its API</u></a></li>
 </ul></div>
 

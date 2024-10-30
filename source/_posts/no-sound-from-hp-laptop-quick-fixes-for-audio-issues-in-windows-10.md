@@ -1,7 +1,7 @@
 ---
 title: No Sound From HP Laptop? Quick Fixes for Audio Issues in Windows 10
-date: 2024-10-23T18:22:02.458Z
-updated: 2024-10-24T17:15:49.821Z
+date: 2024-10-29T17:24:50.376Z
+updated: 2024-10-30T17:31:44.767Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -50,6 +43,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
@@ -57,10 +64,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
@@ -70,16 +77,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ---
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -97,6 +98,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -111,25 +120,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -154,22 +157,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-efficiently-redistributing-your-creative-works/"><u>[New] 2024 Approved Efficiently Redistributing Your Creative Works</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-fareless-cam-stream-and-snipper-pro/"><u>[Updated] In 2024, Best Fareless Cam Stream & Snipper Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snapshot-secrets-iphones-techniques-for-clear-reflections/"><u>2024 Approved Snapshot Secrets IPhone's Techniques for Clear Reflections</u></a></li>
-<li><a href="https://win-latest.techidaily.com/best-practices-and-toolkits-for-effective-ssd-data-migration-2024-edition/"><u>Best Practices & Toolkits for Effective SSD Data Migration, 2024 Edition</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-ideal-illustration-tools-for-windows-no-cost-high-prices/"><u>In 2024, Ideal Illustration Tools for Windows No Cost, High Prices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-lag-with-these-simple-tweaks-to-your-bluetooth-audio-setup/"><u>No More Lag with These Simple Tweaks to Your Bluetooth Audio Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-back-successful-troubleshooting-steps-for-wows-sound-problem/"><u>Noise Back! Successful Troubleshooting Steps for WoW's Sound Problem</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-microsofts-dism-hurdle-code-0x800f082f/"><u>Overcoming Microsoft's DISM Hurdle: Code 0X800F082F</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenge-of-a-silent-microphone-on-your-hyperx-cloud-alpha-setup/"><u>Overcoming the Challenge of a Silent Microphone on Your HyperX Cloud Alpha Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rec-room-headset-malfunction-fixing-mic-issues-on-pc/"><u>Rec Room Headset Malfunction: Fixing Mic Issues on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-street-fighter-6s-pc-stability-issues-with-these-effective-fixes/"><u>Resolve Street Fighter 6'S PC Stability Issues with These Effective Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-missing-headphones-in-device-list-during-media-playback-on-windows-11/"><u>Resolved: Missing Headphones in Device List During Media Playback on Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rgb-to-srgb-transition-what-it-means-for-visual-media-for-2024/"><u>Rgb to Srgb Transition What It Means for Visual Media for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-steps-for-a-non-functioning-hangouts-microphone/"><u>Simple Troubleshooting Steps for a Non-Functioning Hangouts Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-mystery-of-a-quiet-logitech-g933-quick-fixes-revealed/"><u>Solve the Mystery of a Quiet Logitech G933 - Quick Fixes Revealed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-functionality-of-non-working-stereo-mixes/"><u>Solved! How to Restore Functionality of Non-Working Stereo Mixes</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-reimagined-computing-with-windows-10s-upgrades/"><u>[New] In 2024, Reimagined Computing with Windows 10’S Upgrades</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pioneering-creative-expression-through-zero-cost-animation-for-2024/"><u>[New] Pioneering Creative Expression Through Zero-Cost Animation for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-windows-11-audio-not-working/"><u>[SOLVED] Windows 11 Audio Not Working</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-battery-performance-for-google-wireless-nest-doorbells/"><u>Expert Analysis of Battery Performance for Google Wireless Nest Doorbells</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-7-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 7 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-galaxy-smartphones-excluded-from-previous-samsung-messaging-platforms/"><u>Latest Galaxy Smartphones Excluded From Previous Samsung Messaging Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-headset-microphone-not-working-heres-how-to-fix-it/"><u>Onikuma Headset Microphone Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/phasmophobia-player-guide-fixing-malfunctioning-voice-chat-feature/"><u>Phasmophobia Player Guide: Fixing Malfunctioning Voice Chat Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-easy-ways-to-stop-headphone-sound-irregularities/"><u>Quick & Easy Ways to Stop Headphone Sound Irregularities!</u></a></li>
+<li><a href="https://win-special.techidaily.com/self-study-guide-hoe-om-rsync-toepassingen-te-leren-in-windows-10-eenvoudige-alternatieven/"><u>Self-Study Guide: Hoe Om Rsync Toepassingen Te Leren In Windows 10 - Eénvoudige Alternatieven</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-steelseries-arctis-primes-microphone-wont-work/"><u>Solutions for When Your SteelSeries Arctis Prime's Microphone Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-sound-blaster-mic-steps-to-restore-functionality/"><u>Troubleshooting Your Sound Blaster Mic: Steps to Restore Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-of-pages-files-on-desktop-systems-open-with-confidence/"><u>Unlocking the Secrets of Pages Files on Desktop Systems - Open with Confidence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-1-to-5-of-windows-free-screen-capture-apps/"><u>Unveiling the #1 to #5 of Windows Free Screen Capture Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/webex-microphone-woes-discover-4-key-repairs-that-work/"><u>Webex Microphone Woes? Discover 4 Key Repairs That Work</u></a></li>
 </ul></div>
 

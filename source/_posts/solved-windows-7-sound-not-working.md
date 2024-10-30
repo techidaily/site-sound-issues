@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Windows 7 Sound Not Working"
-date: 2024-10-23T16:00:25.335Z
-updated: 2024-10-24T19:33:07.212Z
+date: 2024-10-24T17:55:21.673Z
+updated: 2024-10-30T16:10:58.902Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure you have not muted the sound
 
  Sometimes you hear no sound coming through Windows Media Player because you’ve muted the sound unknowingly.
@@ -46,23 +53,16 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-152.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Play some music in Windows Media Player and see if the  
 **Windows Media Player no sound** issue has been resolved. If yes, then great! But if the problem persists, you should try**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -79,16 +79,16 @@ To make sure the volume is not muted but audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-155.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -99,10 +99,10 @@ To make sure the volume is not muted but audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update or reinstall Windows Media Player
@@ -131,22 +131,24 @@ To make sure the volume is not muted but audible:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-music-law-guide-for-instagram-users/"><u>[New] 2024 Approved The Music Law Guide for Instagram Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-the-power-of-online-cricket-broadcasts/"><u>[New] Unleashing the Power of Online Cricket Broadcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-10-gratis-video-chat-solutions-for-corporate-and-schools/"><u>[Updated] In 2024, Top 10 Gratis Video Chat Solutions for Corporate & Schools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-rhythmic-resonance-select-sites-for-downloading-tones/"><u>[Updated] Rhythmic Resonance Select Sites for Downloading Tones</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-best-starter-accessories-to-elevate-your-gopro-capture/"><u>[Updated] The Best Starter Accessories to Elevate Your GoPro Capture</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/achieving-high-quality-videos-with-your-cellphone-webcam/"><u>Achieving High-Quality Videos with Your Cellphone Webcam</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-restoring-functionality-to-your-corsair-virtuoso-mic/"><u>DIY Solutions: Restoring Functionality to Your Corsair Virtuoso Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-steps-for-dealing-with-non-functional-discord-calls/"><u>Effective Steps for Dealing with Non-Functional Discord Calls</u></a></li>
-<li><a href="https://fox-http.techidaily.com/evening-stories-visualized-evaluations-for-2024/"><u>Evening Stories Visualized Evaluations for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016787752-expert-tips-for-restoring-functionality-to-your-primary-aux-jack-no-sweat/"><u>Expert Tips for Restoring Functionality to Your Primary AUX Jack – No Sweat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-no-sound-troubles-in-duet-songs-a-step-by-step-guide/"><u>Fixing 'No Sound' Troubles in Duet Songs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-razer-blackshark-v2-microphone-problems-for-crystal-clear-audio/"><u>Fixing Razer BlackShark V2 Microphone Problems for Crystal Clear Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-calls-are-silent-on-cod-vanguard-restore-your-voice-chat/"><u>Fixing the Issue: Calls Are Silent on Cod: Vanguard - Restore Your Voice Chat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-discord-voice-call-isnt-connecting/"><u>Fixing the Issue: Why Your Discord Voice Call Isn't Connecting</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/guide-to-overcoming-blackout-in-obs-fullscreen-for-2024/"><u>Guide to Overcoming Blackout in OBS Fullscreen for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-controller-wont-launch-complete-solution/"><u>How to Fix Realtek HD Audio Controller Won't Launch – Complete Solution</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-simplifying-speech-integration-into-instagram-content/"><u>[New] In 2024, Simplifying Speech Integration Into Instagram Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-synergizing-social-networks-share-your-igtv-content/"><u>[New] In 2024, Synergizing Social Networks Share Your IGTV Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-selection-for-top-tier-hdr-cameras/"><u>[New] Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-selecting-peak-frame-rate-for-exceptional-slow-motion-video/"><u>[Updated] Selecting Peak Frame Rate for Exceptional Slow Motion Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skyward-start-best-easy-to-operate-drones/"><u>2024 Approved Skyward Start Best Easy-to-Operate Drones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-specs-and-pricing-apples-latest-audio-ready-wearable-device-rumors-and-release-dates-revealed/"><u>Exploring the Specs and Pricing: Apple's Latest Audio-Ready Wearable Device Rumors & Release Dates Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016032241-fix-your-crackling-headphones-instantly-simple-troubleshooting-guide/"><u>Fix Your Crackling Headphones Instantly: Simple Troubleshooting Guide!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-make-unrecognized-headphones-appear-as-a-sound-device-on-windows-10/"><u>How To Make Unrecognized Headphones Appear as a Sound Device on Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-smart-7-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix Smart 7 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-audio-performance-enhancing-speaker-volume-on-windows-11/"><u>Maximizing Audio Performance: Enhancing Speaker Volume on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-face-blur-mastery-a-step-by-step-guide-to-free-video-editing-tools-for-2024/"><u>New Face Blur Mastery A Step-by-Step Guide to Free Video Editing Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/professional-tactics-for-youtube-video-logging/"><u>Professional Tactics for YouTube Video Logging</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977363016-quick-setup-get-your-brother-mfc-7360n-ready-on-windows-systems-with-latest-driver-updates/"><u>Quick Setup: Get Your Brother MFC-7360N Ready on Windows Systems with Latest Driver Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-steps-for-logitech-g935-headset-microphone-not-detected-by-windows/"><u>Repair Steps for Logitech G935 Headset Microphone Not Detected by Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-razer-man-owar-headset-microphone-problems-effectively/"><u>Resolving Razer Man O'War Headset Microphone Problems Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-interruptions-in-windows-11-a-comprehensive-guide/"><u>Resolving Sound Interruptions in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-is-my-dota-2-microphone-not-capturing-audio/"><u>Solved: Why Is My Dota 2 Microphone Not Capturing Audio?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-solving-dell-speaker-problems-in-windows-7/"><u>Step-by-Step Guide: Solving Dell Speaker Problems in Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-stuttering-sounds-on-windows-systems-windows-107-effective-fixes-inside/"><u>Troubleshooting Stuttering Sounds on Windows Systems (Windows 10/7) – Effective Fixes Inside!</u></a></li>
 </ul></div>
 

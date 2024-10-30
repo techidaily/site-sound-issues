@@ -1,7 +1,7 @@
 ---
 title: Guide on How to Repair Voice Communication in Counter-Strike 2
-date: 2024-10-17T21:45:17.684Z
-updated: 2024-10-24T20:07:00.505Z
+date: 2024-10-24T17:19:19.041Z
+updated: 2024-10-30T17:15:47.672Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -59,6 +52,20 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -72,21 +79,14 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
@@ -94,10 +94,16 @@ You can follow the steps below to check:
 6. Once finished, click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
@@ -139,20 +145,14 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-crafting-a-music-career-15-essential-video-tutorials-for-artists/"><u>[New] Crafting a Music Career 15 Essential Video Tutorials for Artists</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-converting-video-content-from-twitter-to-an-audiophile-written-mp3-format/"><u>[Updated] 2024 Approved Converting Video Content From Twitter to an Audiophile' Written MP3 Format</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-practical-techniques-for-downloading-youtube-srt/"><u>[Updated] Practical Techniques for Downloading YouTube SRT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y200-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y200 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-ideal-steadicams-for-uav-aerial-cinematography/"><u>2024 Approved Ideal Steadicams for UAV Aerial Cinematography</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/bringing-waterfront-scenes-alive-with-insta360s-x2/"><u>Bringing Waterfront Scenes Alive with Insta360's X2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-when-your-league-of-legends-voice-chat-fails/"><u>Fixing the Issue: Troubleshooting When Your League of Legends Voice Chat Fails</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-creative-pebble-speakers-troubleshooting-tips/"><u>Fixing Your Creative Pebble Speakers: Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-mpow-microphone-working-on-a-pc-windows/"><u>How to Get Your MPOW Microphone Working on a PC (Windows)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-when-discords-push-to-talk-isnt-functioning-properly/"><u>How To Resolve When Discord's Push-to-Talk Isn't Functioning Properly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-realteks-digital-output-unit-a-step-by-step-solution/"><u>How To Restore Sounds on Realtek's Digital Output Unit: A Step-By-Step Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-computer-a-step-by-step-guide/"><u>How to Restore Sounds on Your Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-productivity-and-device-longevity-with-the-ultimate-3-in-1-magsafe-charging-station-for-apple-users-zdnet/"><u>Maximize Productivity and Device Longevity with the Ultimate 3-in-1 MagSafe Charging Station for Apple Users | ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a25-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A25 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-13-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi 13 Ultra without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-handheld-vr-camera-stability-enhancer/"><u>[New] Handheld VR Camera Stability Enhancer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-the-astro-a50-audio-problem-get-clear-sounds-back/"><u>Immediate Fixes for the Astro A50 Audio Problem – Get Clear Sounds Back!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-whats-the-real-distinction-between-youtube-and-dailymention/"><u>In 2024, What's the Real Distinction Between YouTube and DailyMention?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/preserving-excellence-a-step-by-step-process-to-downscale-your-1080p-footage-to-720p-without-quality-loss/"><u>Preserving Excellence: A Step-by-Step Process to Downscale Your 1080P Footage to 지팡사이트하려면 염두에서 생각해보세요720P Without Quality Loss</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/revitalizing-microsofts-copilot-avoid-repeating-cortanas-fate-with-these-four-strategies/"><u>Revitalizing Microsoft's Copilot: Avoid Repeating Cortana's Fate with These Four Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-the-disruptions-expert-advice-on-eliminating-crackling-noise-from-your-logitech-g-pro-x-headset-pc-edition/"><u>Silencing the Disruptions: Expert Advice on Eliminating Crackling Noise From Your Logitech G Pro X Headset (PC Edition)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-why-isnt-the-call-of-duty-black-ops-cold-war-voice-chat-functioning/"><u>Solution Guide: Why Isn't the Call of Duty: Black Ops Cold War Voice Chat Functioning?</u></a></li>
+<li><a href="https://techidaily.com/solved-microsoft-excel-2021-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2021 File Error The document cannot be saved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-sound-problems-heres-how-you-can-stop-them/"><u>Windows Sound Problems? Here's How You Can Stop Them!</u></a></li>
 </ul></div>
 

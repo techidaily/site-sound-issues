@@ -1,7 +1,7 @@
 ---
 title: Effortless Steps to Get Your Fortnite Voice Chat Up & Running Again!
-date: 2024-10-19T21:43:46.846Z
-updated: 2024-10-24T16:43:35.253Z
+date: 2024-10-25T16:49:35.761Z
+updated: 2024-10-30T16:46:56.648Z
 tags:
   - win11
   - win10
@@ -35,18 +35,24 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Sign out Fortnite, then sign back in
 
  This is the quickest and easiest fix to try when chat’s not working in Fortnite. Just sign out of the game, then sign back in.
 
  Now run the game again and test to see whether chat is working. If it’s not, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your sound card driver
 
@@ -66,7 +72,21 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
 
@@ -80,15 +100,22 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4\. Restart the Epic Games Launcher.
@@ -99,19 +126,6 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Make sure your microphone is on for Fortnite
 
  If you downloaded Fortnite from**the Microsoft Store** , check if it has permission to use your microphone. Here’s how to do it:
@@ -119,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  1\. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
@@ -157,6 +164,13 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Click the **Recording** tab, select the microphone you’re using and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
@@ -166,10 +180,10 @@ iii. Exit Fortnite.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6\. Click **OK** .
@@ -186,23 +200,9 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -233,18 +233,15 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-securely-and-swiftly-acquiring-your-youtube-watch-lists/"><u>[New] Securely and Swiftly Acquiring Your YouTube Watch Lists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-tunes-curated-list-of-websites-for-youtuberingtones/"><u>[New] Unlock Your Tunes Curated List of Websites For YouTubeRingtones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-strategic-social-sharing-master-facebook-story-linking/"><u>[Updated] 2024 Approved Strategic Social Sharing Master Facebook Story Linking</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-seamlessly-record-your-screen-while-watching-netflix-for-2024/"><u>[Updated] Seamlessly Record Your Screen While Watching Netflix for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-to-superior-websites-for-tamil-ringtone-saves/"><u>2024 Approved Navigating to Superior Websites for Tamil Ringtone Saves</u></a></li>
-<li><a href="https://extra-information.techidaily.com/calm-in-chaos-how-to-reduce-shake-on-action-cam-videos-for-2024/"><u>Calm in Chaos How to Reduce Shake on Action Cam Videos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/classroom-readiness-in-the-digital-age-selecting-the-top-9-essential-technological-tools-for-students/"><u>Classroom Readiness in the Digital Age: Selecting the Top 9 Essential Technological Tools for Students</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/hack-the-system-avoid-video-ads-directly-on-fb-for-2024/"><u>Hack the System Avoid Video Ads Directly on FB for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/securing-top-quality-pixel-ringtones-where-to-go-for-2024/"><u>Securing Top Quality Pixel Ringtones Where to Go for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-overcoming-audio-glitches-in-pcs-zoom-video-conferences/"><u>Step-by-Step Fixes: Overcoming Audio Glitches in PC's Zoom Video Conferences</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-restore-hdmi-audio-in-your-windows-n-7-pc/"><u>Step-by-Step Solution to Restore HDMI Audio in Your Windows N 7 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-restore-functionality-of-your-steelseries-arctis-7-audio-input/"><u>Steps to Restore Functionality of Your SteelSeries Arctis 7 Audio Input</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-training-data-includes-a-diverse-range-of-internet-text-but-its-important-to-note-that-grover-is-designed-more-with-content-generation-in-mind-rather-th671/"><u>The Training Data Includes a Diverse Range of Internet Text, but It's Important to Note that Grover Is Designed More with Content Generation in Mind Rather than Deep Specialization Like Legal Reasoning</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-pureimagezone-premium-tool-to-remove-backgrounds-for-2024/"><u>[New] PureImageZone Premium Tool to Remove Backgrounds for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-dance-directives-finding-ideal-dj-templates-for-2024/"><u>[Updated] Dance Directives Finding Ideal DJ Templates for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-understanding-the-magic-behind-quantum-hdr/"><u>[Updated] In 2024, Understanding the Magic Behind Quantum HDR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-meme-magic-online/"><u>2024 Approved Meme Magic Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-speaker-loudness-on-windows-10-a-step-by-step-guide/"><u>Boosting Speaker Loudness on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-snappy-driver-installer-version-113-evaluation/"><u>Comprehensive Overview: Snappy Driver Installer Version 1.13 Evaluation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-computer-mute-mystery-unraveled-restoring-volume-and-quality-of-sound/"><u>HP Computer Mute Mystery Unraveled: Restoring Volume and Quality of Sound</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-non-working-pc-mic-in-dota-2-gameplay/"><u>Step-by-Step Fixes for Non-Working PC Mic in Dota 2 Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-working-headphones-on-windows-10-systems/"><u>Troubleshooting Non-Working Headphones on Windows 10 Systems</u></a></li>
 </ul></div>
 

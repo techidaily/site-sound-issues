@@ -1,7 +1,7 @@
 ---
 title: "Rainbow Six Siege: Solving Post-Update Voice Chat Disconnects for Players"
-date: 2024-10-22T17:41:21.426Z
-updated: 2024-10-24T18:24:10.296Z
+date: 2024-10-25T16:21:14.613Z
+updated: 2024-10-30T17:06:06.245Z
 tags:
   - win11
   - win10
@@ -55,21 +55,28 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
+<span id="1982461">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -90,18 +97,18 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Restart the Epic Games Launcher.
 
  5\. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
 
@@ -113,24 +120,24 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap428.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Run Fortnite to see if chat works now. If not, try Fix 5, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check your audio settings
@@ -144,15 +151,22 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap925.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ii. Click**the speaker icon** to view the audio settings. Then**turn off Voice Chat** and click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap431-1024x576.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iii. Exit Fortnite.
 
@@ -186,23 +200,9 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Click**Uninstall** to uninstall Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap950.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Restart your PC.
 
@@ -233,20 +233,24 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-seamless-integration-of-text-with-image-editing-tools/"><u>[New] 2024 Approved Seamless Integration of Text with Image Editing Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-gaming-heaven-a-treasure-trove-of-superb-offline-ios-game-titles/"><u>[Updated] In 2024, Gaming Heaven A Treasure Trove of Superb Offline iOS Game Titles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-vimeoifytweets-audiovideo-tweet-tool/"><u>[Updated] VimeoifyTweets Audio/Video Tweet Tool</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convertir-archivos-ts-a-formato-mp4-gratuito-por-internet-usando-la-servicio-movilvi/"><u>Convertir Archivos TS a Formato MP4 Gratuito Por Internet Usando La Servicio Móvilvi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-audio-problems-on-a-windows-7-machine/"><u>Diagnosing and Fixing Audio Problems on a Windows 7 Machine</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/t-tips-for-crafting-top-notch-video-hashtags/"><u>Expert Tips for Crafting Top-Notch Video Hashtags</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-crackling-sound-from-speakers-on-windows-11-and-7-problem-solved/"><u>Fixing Crackling Sound From Speakers on Windows 11 & 7 - Problem Solved!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015699155-hearthstone-audio-malfunction-heres-how-to-restore-your-game-sounds/"><u>Hearthstone Audio Malfunction? Here's How to Restore Your Game Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-chrome-browser-solutions-at-hand/"><u>How to Restore Sound on Your Chrome Browser - Solutions at Hand</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-non-youtube-video-editing-discover-the-top-5-newcomers/"><u>In 2024, Non-YouTube Video Editing Discover the Top 5 Newcomers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-video-submissions-from-imovie-to-vimeo/"><u>In 2024, Streamlining Video Submissions From iMovie to Vimeo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-resolving-logitech-g533-microphone-issues/"><u>Quick Fix Guide: Resolving Logitech G533 Microphone Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-access-to-windows-updates-on-windows-108/"><u>Regaining Access to Windows Updates on Windows 10/8</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-restore-destiny-2s-voice-chat-functionality/"><u>Troubleshooting Tips - How to Restore Destiny 2'S Voice Chat Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-successfully-opening-the-realtek-hd-audio-manager/"><u>Troubleshooting Tips for Successfully Opening the Realtek HD Audio Manager</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xploring-the-economic-value-of-a-million-youtube-followers-for-2024/"><u>[New] Exploring the Economic Value of a Million YouTube Followers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-reversed-video-techniques-for-instagram-savvy-users/"><u>[New] In 2024, Reversed Video Techniques for Instagram Savvy Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-bring-your-video-to-life-from-standard-to-hdri-excellence/"><u>2024 Approved Bring Your Video to Life From Standard to HDRI Excellence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/college-comeback-score-top-discounts-on-laptops-and-tablets-from-samsung-zdnet/"><u>College Comeback? Score Top Discounts on Laptops & Tablets From Samsung | ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-oppo-f23-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Oppo F23 5G.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-installing-and-configuring-the-idt-hd-audio-codec-for-windows-10-users/"><u>Expert Tips on Installing and Configuring the IDT HD Audio Codec for Windows 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-systems-a-guide-to-restoring-audio-on-your-lenovo-notebook/"><u>Fixing Silent Systems: A Guide to Restoring Audio on Your Lenovo Notebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/idea-to-execution-creating-youtube-trailers-in-filmora-for-2024/"><u>From Idea to Execution Creating YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-hp-officejet-pro-6970-driver-for-windows-systems-here/"><u>Get Updated HP OfficeJet Pro ˈ6970 Driver for Windows Systems Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-pops-and-crackles-on-the-logitech-arctis-7-when-used-with-windows-computers/"><u>How to Resolve Pops and Crackles on the Logitech Arctis 7 When Used with Windows Computers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-5-streamlined-online-convertors-for-gifs-to-video/"><u>In 2024, Best 5 Streamlined Online Convertors for GIFs to Video</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lenovo-laptops-losing-volume-top-solutions-for-bringing-back-sounds/"><u>Lenovo Laptops Losing Volume – Top Solutions for Bringing Back Sounds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ethereal-networks-who-really-receives-our-messages-in-cyberspace/"><u>Navigating Ethereal Networks: Who Really Receives Our Messages in Cyberspace?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pushing-limits-top-4-software-for-exceeding-windows-maxed-volume/"><u>Pushing Limits: Top 4 Software for Exceeding Windows’ Maxed Volume</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-troubleshooting-common-problems-and-fixes/"><u>Razer Kraken Microphone Troubleshooting: Common Problems and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-troubleshoot-and-repair-crackling-sound-from-your-pcs-speakers-in-windows-117/"><u>Solved! How to Troubleshoot and Repair Crackling Sound From Your PC's Speakers in Windows 11/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-hd-audio-codec-drivers-on-windows-11-solutions-and-fixes/"><u>Troubleshooting IDT HD Audio Codec Drivers on Windows 11 - Solutions and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-the-issues-with-your-razer-kraken-microphone/"><u>Troubleshooting: Fixing the Issues with Your Razer Kraken Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-volume-woes-simple-tips-to-restore-your-computers-sound/"><u>Windows 10 Volume Woes? Simple Tips to Restore Your Computer's Sound</u></a></li>
 </ul></div>
 
