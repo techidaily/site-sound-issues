@@ -1,7 +1,7 @@
 ---
 title: "Fix Windows Media Player Silent Issues: Step-by-Step Troubleshooting Guide"
-date: 2024-10-25T16:12:07.070Z
-updated: 2024-10-30T16:59:56.080Z
+date: 2024-10-31T05:37:08.610Z
+updated: 2024-11-05T00:12:45.391Z
 tags:
   - win11
   - win10
@@ -66,13 +66,6 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -84,24 +77,32 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
@@ -116,10 +117,16 @@ Read on and follow the easy-doing images below!
 3. Click**Next** to move forward from the sound test.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
@@ -152,16 +159,24 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-marketing-brands-and-youtubes-co-creative-pathways/"><u>[New] Harmonizing Marketing Brands & YouTube's Co-Creative Pathways</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-best-of-the-best-reddits-all-time-favorites/"><u>[Updated] 2024 Approved The Best of the Best Reddit's All-Time Favorites</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-redmi-13c-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi Redmi 13C to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beta-blockers-reduce-heart-rate-and-blood-pressure-by-blocking-beta-1-receptors-in-the-heart/"><u>Beta Blockers Reduce Heart Rate and Blood Pressure by Blocking Beta-1 Receptors in the Heart.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016008656-common-problems-and-fixes-for-a-malfunctioning-logitech-g230-microphone-resolved/"><u>Common Problems and Fixes for a Malfunctioning Logitech G230 Microphone - Resolved!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deciding-between-smart-voice-aids-alexa-or-google-assistant-for-your-needs/"><u>Deciding Between Smart Voice Aids: Alexa or Google Assistant for Your Needs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/instant-remedies-when-your-iphones-predictive-emoji-stops-responding/"><u>Instant Remedies When Your iPhone's Predictive Emoji Stops Responding</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/recognizing-and-fixing-blue-yeti-not-detected-error-messages-effectively/"><u>Recognizing and Fixing Blue Yeti Not Detected Error Messages Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-resolving-the-silent-airpods-problem-on-windows-1110-systems/"><u>Restoring Audio: Resolving the Silent AirPods Problem on Windows 11/10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016983310-reviving-hdmi-sound-outputs-for-your-windows-presso-pc-easy-fixes/"><u>Reviving HDMI Sound Outputs for Your Windows Presso PC - Easy Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-new-audio-devices-on-windows-10/"><u>Step-by-Step Guide: Setting Up New Audio Devices on Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-logic-pro-techniques-for-fading-out-sounds/"><u>[New] Logic Pro Techniques for Fading Out Sounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-ventures-partnership-playbook/"><u>[Updated] Visual Ventures Partnership Playbook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-troubleshooting-steps-solve-your-pcs-warzone-sound-problem-today/"><u>2024 Troubleshooting Steps: Solve Your PC's Warzone Sound Problem Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-audio-errors-in-audacity-5-strategies-to-restore-sound-device-functionality/"><u>Beat Audio Errors in Audacity: 5 Strategies to Restore Sound Device Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-connected-but-silent-discover-solutions-for-bringing-back-sound/"><u>Bluetooth Connected but Silent - Discover Solutions for Bringing Back Sound</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/decoding-the-art-of-backdrop-cleansing-in-figma-design-for-2024/"><u>Decoding the Art of Backdrop Cleansing in Figma Design for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-canon-mg3620-drivers-safely-and-efficiently/"><u>Find and Install Canon MG3620 Drivers Safely & Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-stutter-and-noise-interference-with-your-pcs-speakers-in-modern-windows-os/"><u>Fixing Stutter and Noise Interference with Your PC's Speakers in Modern Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-jabra-headset-issues-comprehensive-troubleshooting-steps/"><u>Fixing Your Jabra Headset Issues: Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-xs-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone XS Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-discord-recognizing-your-game-volume-correctly/"><u>How to Get Discord Recognizing Your Game Volume Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-realtek-microphone-functioning-again/"><u>How To Get Your Realtek Microphone Functioning Again</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-enhancing-profile-photo-impact/"><u>In 2024, Enhancing Profile Photo Impact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-multi-monitor-magic-your-step-by-step-manual-for-using-three-screens-simultanenously/"><u>Master Multi-Monitor Magic: Your Step-by-Step Manual for Using Three Screens Simultanenously</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-yourself-from-counterfeit-chatbot-applications-on-iphone-and-ipad-stores/"><u>Protecting Yourself From Counterfeit Chatbot Applications on iPhone and iPad Stores</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015300699-quick-solutions-for-a-non-functioning-oculus-rift-s-microphone-learn-here/"><u>Quick Solutions for a Non-Functioning Oculus Rift S Microphone - Learn Here!</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nokia-c12-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nokia C12 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016970014-windows-11-sound-problems-heres-how-to-get-your-volume-back-quickly/"><u>Windows 11 Sound Problems? Here's How to Get Your Volume Back Quickly!</u></a></li>
 </ul></div>
 

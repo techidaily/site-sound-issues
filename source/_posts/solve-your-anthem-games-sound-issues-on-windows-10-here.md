@@ -1,7 +1,7 @@
 ---
 title: Solve Your Anthem Game's Sound Issues on Windows 10 Here!
-date: 2024-10-29T17:02:37.795Z
-updated: 2024-10-30T17:25:46.012Z
+date: 2024-10-30T20:15:59.068Z
+updated: 2024-11-05T02:32:11.519Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ Check if there’s any sound in your computer.
  If the problem still persists, don’t worry. We have other solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check audio settings
@@ -72,6 +72,14 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
@@ -80,6 +88,13 @@ To do so:
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
 Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -90,33 +105,19 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721431cb33.jpg)
 3. Double click**Sound, video and game controllers** to expand it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Restart your computer.
@@ -145,22 +146,18 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-video-uploads-with-ios-the-complete-youtube-guide-for-2024/"><u>[New] Effortless Video Uploads with iOS The Complete YouTube Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-aimp-pro-streaming-enhancer-without-wmsp/"><u>[New] In 2024, AIMP Pro Streaming Enhancer Without WMSP</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-inshot-tips-achieving-seamless-video-segmentation/"><u>[Updated] 2024 Approved Inshot Tips Achieving Seamless Video Segmentation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-expert-secrets-for-effective-ipad-sound-capture/"><u>[Updated] Expert Secrets for Effective iPad Sound Capture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenge-accepted-how-twitter-x-checkmarks-stack-up-and-chatgpts-biggest-flaws-uncovered-by-a-tech-visionary/"><u>Challenge Accepted: How Twitter X Checkmarks Stack Up and ChatGPT's Biggest Flaws Uncovered by a Tech Visionary</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-restore-voice-communication-in-destiny-2/"><u>Fixing Issues: How to Restore Voice Communication in Destiny 2</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-free-realtek-sound-card-driver-packs-compatible-with-windows-11-10-and-7/"><u>Get Your Free Realtek Sound Card Driver Packs Compatible with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>In 2024, In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-rhythms-with-the-magix-groove-master-suite-for-2024/"><u>Innovative Rhythms with the Magix Groove Master Suite for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-resolving-a-broken-or-malfunctioning-headset-microphone/"><u>Quick Solutions: Resolving a Broken or Malfunctioning Headset Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-microphone-malfunctions-of-airpods-on-your-new-pc-running-windows-11/"><u>Resolving Microphone Malfunctions of AirPods on Your New PC Running Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-functionality-addressing-headphone-problems-in-your-windows-11-setup/"><u>Restore Audio Functionality: Addressing Headphone Problems in Your Windows 11 Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-stereo-sound-issues-a-comprehensive-guide/"><u>Troubleshoot and Fix Stereo Sound Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-your-pcs-sony-headphones-wh-1000xm3-or-wh-1000xm4-microphone-issues/"><u>Troubleshooting and Fixing Your PC's Sony Headphones: WH-1000XM3 or WH-1000XM4 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solution-guide-for-non-operational-audio-systems/"><u>Troubleshooting and Solution Guide for Non-Operational Audio Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-sound-problems-starting-your-dolby-audio-driver-with-windows-11/"><u>Troubleshooting Dolby Sound Problems: Starting Your Dolby Audio Driver with Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-golds-role-reimagined-in-the-game-pass-system/"><u>Xbox Gold's Role Reimagined in the Game Pass System</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-learning-ranks-top-10-education-centric-channels/"><u>[New] Learning Ranks Top 10 Education-Centric Channels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-scribblers-ios-and-androids-leading-image-editors/"><u>2024 Approved Best Scribblers IOS & Android's Leading Image Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-vs-sony-vegas-pro-a-side-by-side-comparison-for-2024/"><u>Adobe Premiere Pro vs Sony Vegas Pro A Side-by-Side Comparison for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/explaining-the-hidden-meaning-behind-fb-messenger-symbols/"><u>Explaining the Hidden Meaning Behind FB Messenger Symbols</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-headset-port-issues-a-comprehensive-guide/"><u>Fixing Laptop Headset Port Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-fix-lack-of-audio-in-monitors-and-televisions-after-computer-connection-via-hdmi/"><u>Guide: Fix Lack of Audio in Monitors and Televisions After Computer Connection via HDMI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-a58-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo A58 4G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improve-speaker-loudness-advanced-methods-for-windows-11-users/"><u>Improve Speaker Loudness: Advanced Methods for Windows 11 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-vsdc-capture-expert-analysis-and-top-replacements/"><u>In 2024, VSDC Capture Expert Analysis & Top Replacements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-skype-microphone-issues-solutions-for-windows-10-users/"><u>Resolving Skype Microphone Issues - Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snag-the-deal-before-it-ends-amazons-temporary-200-discount-on-apple-vision-pro/"><u>Snag the Deal Before It Ends! Amazon's Temporary $200 Discount on Apple Vision Pro.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-your-discord-voice-communication/"><u>Troubleshooting Guide: Fixing Issues with Your Discord Voice Communication</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-troubleshooting-tips-reviving-your-rust-microphone/"><u>Ultimate 2024 Troubleshooting Tips: Reviving Your Rust Microphone</u></a></li>
 </ul></div>
 

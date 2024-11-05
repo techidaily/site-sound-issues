@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: Getting Sounds Through Speakers When Headphones Are Connected"
-date: 2024-09-05T03:59:21.160Z
-updated: 2024-09-06T03:59:21.160Z
+date: 2024-11-04T06:42:56.216Z
+updated: 2024-11-05T09:42:40.145Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes How to Fix: Getting Sounds Through Speakers Whe
 thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4734b479814370ac29d24cc7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## No More Distractions: Fixing the Pesky Buzz Sound on Your Favorite Headphones Today
 
 When you wear your headphones and plug it into your computer, you may hear the buzzing noise from headphones. It’s not a pleasant sound and may scare you. Don’t worry. Many people have resolved the buzzing noise issue with the solutions below. Read on to find how…
@@ -39,12 +33,6 @@ You can try these solutions to fix buzzing sound from headphones.
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Configure audio settings in the computer](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot the hardware problem
 
  As mentioned above, the hardware issue is one of the possible reasons to cause buzzing sound in speakers, so you should check the hardware problem and fix any hardware issue found.
@@ -56,6 +44,13 @@ You can try these solutions to fix buzzing sound from headphones.
 #### 2\. Turn the volume control up and down
 
  While connected, turn the volume up and down to test if the sound works properly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Turn off other electronic devices
 
@@ -79,11 +74,12 @@ If not, don’t worry. We have other solutions for you.
 If the issue is coming from the PC, the next method may help you fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your audio driver
 
  The missing or outdated audio driver can cause the speaker making a buzzing sound. So you should verify that your audio driver has the latest version and update it if it doesn’t.
@@ -98,17 +94,18 @@ If the issue is coming from the PC, the next method may help you fix it.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26d624ac18.png)
 3. Click the **Update** button next to the flagged audio device to automatically download the correct version this driver (you can do this with the **FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1cfada499.jpg)
 4. Restart your computer to make it take effect.
 
 **Note** : If you have problems when using Driver Easy, please feel free to contact our support team at **<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Configure audio settings in the computer
 
@@ -120,36 +117,26 @@ If the issue is coming from the PC, the next method may help you fix it.
 2. Click **Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1d7f78c8d.jpg)
 3. Click **Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1da9de109.jpg)
 4. In the popup pane, right-click on your speaker device, and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1de596e87.jpg)
 5. Click the **Enhancements** tab, and uncheck the box next to **Disable all sound effects** . Then click **Apply** and **OK** .  
+
 <!-- affiliate ads begin -->
-<span id="1983588">
+<span id="1983549">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1ecabd099.jpg)
 6. Try your headphones again to see if the sound works.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We’ll be glad if any of the fixes above helped you resolve the buzzing noise in your headphones. Please feel free to leave a comment below if you have further questions or ideas.
 
@@ -161,8 +148,6 @@ If the issue is coming from the PC, the next method may help you fix it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +155,21 @@ If the issue is coming from the PC, the next method may help you fix it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-ios-tools-mimicking-playstation-2-experience/"><u>[New] Premier IOS Tools Mimicking PlayStation 2 Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-laughter-lane-navigating-to-the-top-15-funny-youtubers/"><u>[Updated] 2024 Approved Laughter Lane Navigating to the Top 15 Funny YouTubers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-syncopated-shots-picking-the-best-music-for-social-media/"><u>[Updated] 2024 Approved Syncopated Shots Picking the Best Music for Social Media</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-trends-in-instagram-hashtags-for-enhanced-reach/"><u>[Updated] In 2024, Top Trends in #Instagram Hashtags for Enhanced Reach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-wirecast-vs-obs-which-is-better/"><u>[Updated] Wirecast Vs OBS Which Is Better?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-reliable-fixes-for-overcoming-audio-issues-with-your-sound-device-in-audacity/"><u>5 Reliable Fixes for Overcoming Audio Issues with Your Sound Device in Audacity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-solution-for-non-functional-windows-10-speakers/"><u>Complete Solution for Non-Functional Windows 10 Speakers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-collage-design-compendium-for-2024/"><u>Comprehensive Collage Design Compendium for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income-for-2024/"><u>Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-reno-11f-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Reno 11F 5G Through Google Earth?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-s23-fe-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy S23 FE Black and White | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-to-your-bose-g435-noise-canceling-headphones-solutions-inside/"><u>Restoring Sound to Your Bose G435 Noise-Canceling Headphones: Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-dell-speaker-problems-on-windows-haendwn-proven-fixes/"><u>Solve Your Dell Speaker Problems on Windows ˈhændwɪn - Proven Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-microphone-issues-on-windows-11-step-by-step-guide/"><u>Troubleshooting Microphone Issues on Windows 11 - Step by Step Guide</u></a></li>
+</ul></div>
 

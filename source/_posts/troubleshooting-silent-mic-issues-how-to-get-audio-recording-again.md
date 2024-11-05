@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Mic Issues - How to Get Audio Recording Again!
-date: 2024-10-26T16:47:07.483Z
-updated: 2024-10-30T16:30:17.491Z
+date: 2024-10-30T09:41:37.022Z
+updated: 2024-11-05T05:56:49.943Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ Read on and follow the easy-doing images below!
  If your computer sound still keeps cutting out, please move on to the next option.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2: Change Sound Enhancement Settings
@@ -81,32 +81,20 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -125,16 +113,23 @@ Read on and follow the easy-doing images below!
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -159,24 +154,19 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-meme-photo-editor/"><u>[New] 2024 Approved Best Meme Photo Editor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1717705367145-new-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits-for-2024/"><u>[New] Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-shine-bright-with-these-simple-android-video-steps/"><u>[Updated] 2024 Approved Shine Bright with These Simple Android Video Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-sifting-through-social-media-stars-targeting-your-specific-interests/"><u>[Updated] In 2024, Sifting Through Social Media Stars Targeting Your Specific Interests</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-uncovering-asmr-truths-for-viewers/"><u>[Updated] Uncovering ASMR Truths for Viewers</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-drone-dynamics-yuneecs-4k-flight-exploration/"><u>2024 Approved Drone Dynamics Yuneec's 4K Flight Exploration</u></a></li>
-<li><a href="https://driver-install.techidaily.com/asus-firmware-upgrade-kit-for-windows-systems/"><u>Asus Firmware Upgrade Kit for Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015659266-chrome-sound-not-working-heres-how-you-can-get-your-audio-back/"><u>Chrome Sound Not Working? Here's How You Can Get Your Audio Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-solutions-resolving-sound-issues-on-your-astro-a50-speaker/"><u>Fast Solutions: Resolving Sound Issues on Your Astro A50 Speaker</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-mode-resolved-chrome-audio-issues/"><u>Fixing Silent Mode: Resolved Chrome Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-solutions-for-your-hearthstone-audio-problems/"><u>Fixing the Silence: Solutions for Your Hearthstone Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-immeditely-resolve-fortnite-voice-chat-problems-and-reconnect-with-friends/"><u>How to Immeditely Resolve Fortnite Voice Chat Problems and Reconnect with Friends</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-output-solving-conexant-hdt-hd-audio-driver-malfunctions-in-windows-10-environments/"><u>How to Restore Sound Output: Solving Conexant HDT (HD-Audio) Driver Malfunctions in Windows 10 Environments</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-total-windows-screen-capturing-with-these-4-tips/"><u>Mastering the Art of Total Windows Screen Capturing with These 4 Tips.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hyperx-cloud-alpha-microphone-problems-effective-solutions/"><u>Overcoming HyperX Cloud Alpha Microphone Problems: Effective Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solution-how-to-repair-an-unresponsive-astro-a20-microphone/"><u>Quick Solution: How to Repair an Unresponsive Astro A20 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quiet-quests-no-more-bringing-volume-to-world-of-warcraft/"><u>Quiet Quests No More: Bringing Volume to World of Warcraft</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oneplus-nord-3-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your OnePlus Nord 3 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-discovering-potential-youtubes-role-in-modern-education-strategies/"><u>[New] In 2024, Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-can-your-tv-play-facebook-content-like-youtube-now-in-2024/"><u>[Updated] Can Your TV Play Facebook Content Like YouTube Now, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-motorola-moto-g34-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Motorola Moto G34 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-get-your-stereo-speakers-working-perfectly-again/"><u>DIY Solutions: Get Your Stereo Speakers Working Perfectly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-interruptions-and-warping-sounds-on-your-windows-pc-windows-117-solutions/"><u>Fixing Audio Interruptions and Warping Sounds on Your Windows PC (Windows 11/7 Solutions)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsung-galaxy-s8-4k-smartphone-review/"><u>In 2024, Samsung Galaxy S8 4K Smartphone Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/maximizing-performance-optimize-mov-files-in-win-11/"><u>Maximizing Performance Optimize MOV Files in Win 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-your-tech-choices-insights-from-toms-hardware-analysis/"><u>Navigating Your Tech Choices: Insights From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016447294-resolve-your-silent-apex-legends-experience-with-our-proven-fixes/"><u>Resolve Your Silent Apex Legends Experience with Our Proven Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-issues-with-undetected-speaker-setup-on-windows-10/"><u>Resolving Sound Issues with Undetected Speaker Setup on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-a-step-by-step-solution-for-a-non-responsive-razer-blackshark-v2-microphone/"><u>Reviving the Sound: A Step-by-Step Solution for a Non-Responsive Razer BlackShark V2 Microphone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-complete-manual-to-mobile-igtv-video-acquisition/"><u>The Complete Manual to Mobile IGTV Video Acquisition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-cod-vanguard-voice-chat-heres-how-to-get-it-working-again/"><u>Trouble with COD: Vanguard Voice Chat? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playfields-trophies-terrains/"><u>Ultimate Playfields: Trophies Terrains</u></a></li>
 </ul></div>
 

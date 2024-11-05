@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Problems? Here's How You Can Repair Your Microphone
-date: 2024-10-28T17:42:13.087Z
-updated: 2024-10-30T17:46:13.404Z
+date: 2024-10-29T07:05:01.695Z
+updated: 2024-11-04T17:07:29.729Z
 tags:
   - win11
   - win10
@@ -46,15 +46,28 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
 
@@ -74,16 +87,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -92,6 +105,13 @@ Here’s how to do it:
 5) Check to see if the mic works properly. If yes, then great! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -103,23 +123,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the **Recording** tab, then click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-249.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If**Headset** **Microphone Corsair VOID Wireless Gaming Dongle** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
@@ -128,16 +134,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
@@ -179,24 +179,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-frolics-of-fun-dissecting-the-goofy-movie-for-2024/"><u>[New] 'Frolics of Fun' - Dissecting 'The Goofy Movie' For 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-rising-stars-in-digital-domain/"><u>[Updated] 2024 Approved Rising Stars in Digital Domain</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/5-simple-tricks-to-stop-that-irritating-vibrating-sound-from-your-speakers/"><u>5 Simple Tricks to Stop That Irritating Vibrating Sound From Your Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/biometric-failure-in-windows-system/"><u>Biometric Failure in Windows System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-methods-for-chatgpt-data-exportation-tactics/"><u>Comprehensive Methods for ChatGPT Data Exportation Tactics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-issues-for-a-nonfunctional-logitech-g633-microphone/"><u>Diagnosing and Resolving Issues for a Nonfunctional Logitech G633 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-audio-input-functionality-in-obs-desktop-applications/"><u>Effective Techniques to Restore Audio Input Functionality in OBS Desktop Applications</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-common-problems-when-your-steam-microphone-isnt-responding/"><u>Fixing Common Problems When Your Steam Microphone Isn't Responding</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-g22-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia G22 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy F54 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-release-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-1187-download-latest-update/"><u>New Release: NVIDIA GeForce RTX 3080 Ti Drivers Compatible with Windows 11/8/7 - Download Latest Update</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-6-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 6 Plus Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-overcoming-the-silence-getting-your-corsair-hs35-mic-to-work-on-windows-computers/"><u>Solved! Overcoming the Silence: Getting Your Corsair HS35 Mic to Work on Windows Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speedy-repairs-needed-heres-how-to-fix-the-microphone-on-your-oculus-rift-s-quickly/"><u>Speedy Repairs Needed? Here's How to Fix the Microphone on Your Oculus Rift S Quickly</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-art-of-efficiently-exiting-social-network-groups/"><u>The Art of Efficiently Exiting Social Network Groups</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-amazonbasics-flat-antenna-review-for-economical-free-to-air-tv-enthusiasts/"><u>The Ultimate AmazonBasics Flat Antenna Review for Economical Free-to-Air TV Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-logitech-webcam-audio-heres-how-to-fix-it/"><u>Trouble With Your Logitech Webcam Audio? Here's How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-microphone-on-skype-for-windows-10-users/"><u>Troubleshooting Guide: How to Fix a Non-Functional Microphone on Skype for Windows 10 Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-screen-recording-in-adobe-captivate-a-step-by-step-guide/"><u>[New] Mastering Screen Recording in Adobe Captivate A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/roubleshooting-techniques-for-optimized-video-shorts-for-2024/"><u>[New] Troubleshooting Techniques for Optimized Video Shorts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unleash-your-inner-editor-with-these-premium-androidpc-apps/"><u>[Updated] 2024 Approved Unleash Your Inner Editor with These Premium Android/PC Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discover-how-to-maintain-clear-audio-on-discord-the-complete-guide/"><u>Discover How to Maintain Clear Audio on Discord - The Complete Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-software-suite-for-pc-and-mac-enthusiasts-discover-my-top-picks-zdnet-reviews/"><u>Essential Software Suite for PC & Mac Enthusiasts: Discover My Top Picks | ZDNet Reviews</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-get-your-redragon-laptop-mic-working-perfectly-again/"><u>Expert Solutions to Get Your Redragon Laptop Mic Working Perfectly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-logitech-g430-mic-handy-solutions-for-sound-problems/"><u>Fix Your Logitech G430 Mic: Handy Solutions For Sound Problems</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/guia-gratuita-para-restablecer-archivos-perdidos-en-sistemas-operativos-windows-1011/"><u>Guía Gratuita Para Restablecer Archivos Perdidos en Sistemas Operativos Windows 10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gunstige-methode-zum-freikaufen-geschutzter-dvds-mit-vlc-und-handbrake/"><u>Günstige Methode Zum Freikaufen Geschützter DVDs Mit VLC Und Handbrake</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-not-detecting-mic-heres-how-to-fix-it/"><u>HyperX Cloud Alpha S Not Detecting Mic? Here's How to Fix It</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c33-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C33 2023 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/superior-steadicams-for-drone-shooting-precision/"><u>Superior Steadicams for Drone Shooting Precision</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-runmus-headset-mic-heres-your-guide-to-making-it-work-again/"><u>Trouble with RUNMUS Headset Mic? Here's Your Guide to Making It Work Again!</u></a></li>
 </ul></div>
 

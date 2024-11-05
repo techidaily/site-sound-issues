@@ -1,7 +1,7 @@
 ---
 title: Getting Your Corsair Audio Device Back on Track – Common Issues and Fixes
-date: 2024-10-29T17:33:05.836Z
-updated: 2024-10-30T16:26:46.259Z
+date: 2024-10-31T11:07:37.406Z
+updated: 2024-11-05T09:10:38.642Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/fba9d1b021c91a0b6059d158b3fda53b17a7a738b
 
  If your microphone isn’t working on Zoom, please check out this[troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the connection
 
  Before moving on to the more complicated tricks, make sure you have everything connected securely. You could simply replug your audio device, whether a speaker or headset, into the jack and see if the sound returns. If not, take a look at the second fix below.
@@ -60,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/fba9d1b021c91a0b6059d158b3fda53b17a7a738b
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click the**Update** button next to the flagged audio driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -82,15 +82,16 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-1.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-2.jpg)
 3. Choose your preferred output device and click**Set Default** . Then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/set-as-default.jpg)
 4. Click the device and select**Properties** .  
 
@@ -100,32 +101,40 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-audio-enhancements.jpg)
 6. Back to your desktop, right-click the**speaker icon** on the taskbar and click**Open Volume mixer** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-2.jpg)
 7. **Hold and drag the slider for Zoom** to turn up the volume.  
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/volume-mixer-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now see if the Zoom audio works as expected. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Check the Zoom settings
 
@@ -137,21 +146,7 @@ Below is how to configure a a correct setup:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-1.jpg)
 3. Tick**Show in-meeting option to Turn on Original Sound** and disable**Echo cancellation** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/zoom-settings-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Join a Zoom meeting to test. If the issue persists, proceed to the last solution.
 
@@ -164,10 +159,10 @@ Below is how to configure a a correct setup:
 2. Click the **Check for updates**  button. The available updates will be automatically downloaded and installed.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-for-windows-updates-2.jpg)
@@ -195,22 +190,22 @@ Below is how to configure a a correct setup:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-celebrating-creators-top-notch-otu-designs/"><u>[New] In 2024, Celebrating Creators Top-Notch OTU Designs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-is-obs-studio-or-fraps-your-ideal-choice-for-capturing-screens-in-2024/"><u>[New] Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens, In 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-insights-into-crafting-responses-to-youtube-comments/"><u>2024 Approved Insights Into Crafting Responses to YouTube Comments</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/avoid-download-hassle-top-5-online-converters-for-gif-to-video/"><u>Avoid Download Hassle Top 5 Online Converters for GIF to Video</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/echoes-returned-resolving-no-sound-problems-on-pc-while-playing-borderlands-3/"><u>Echoes Returned: Resolving No-Sound Problems on PC While Playing Borderlands 3</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 13 Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-clash-of-shadows-and-lightning-black-vs-silver/"><u>In 2024, Clash of Shadows and Lightning BLACK vs SILVER</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-verification-boost-your-following-with-these-6-secrets-for-2024/"><u>Mastering Instagram Verification Boost Your Following with These 6 Secrets for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hyperx-cloud-mic-problems-a-step-by-step-guide/"><u>Overcoming HyperX Cloud Mic Problems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-initiating-dolby-audio-driver-on-windows-10/"><u>Resolving Issues with Initiating Dolby Audio Driver on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-discord-voice-chat-solving-the-push-to-talk-malfunction/"><u>Revive Your Discord Voice Chat: Solving the Push-To-Talk Malfunction</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminate-echo-problems-on-your-discord-app-for-windows/"><u>Step-by-Step Tutorial: Eliminate Echo Problems on Your Discord App for Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-starting-dolby-digital-audio-drivers-in-windows-10/"><u>Troubleshooting and Starting Dolby Digital Audio Drivers in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016681243-troubleshooting-your-windows-media-players-missing-audio-solved/"><u>Troubleshooting Your Windows Media Player's Missing Audio – Solved</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-to-the-current-brother-hl-l2350dw-printer-driver-version-step-by-step-guide/"><u>Upgrade to the Current Brother HL-L2350DW Printer Driver Version: Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016449238-windows-10-sound-not-working-heres-how-you-can-fix-it/"><u>Windows 10 Sound Not Working? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-4-top-choices-for-seamless-pcmac-video-capture-for-2024/"><u>[New] 4 Top Choices for Seamless PC/Mac Video Capture for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-large-scale-video-migrations-from-iphone-to-mac-systems/"><u>[New] Optimizing Large-Scale Video Migrations From iPhone to Mac Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pushing-boundaries-with-yis-action-camera-and-4k-capture/"><u>[New] Pushing Boundaries with Yi's Action Camera & 4K Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tech-tools-for-streaming-a-detailed-overview-on-tv-recording/"><u>[New] Tech Tools for Streaming A Detailed Overview on TV Recording</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>[Updated] In 2024, Enhanced Visual Content Incorporate BB Overlays in FB Video Frames</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dell-speaker-woes-heres-how-to-correct-sound-driver-issues-in-windows-7/"><u>Dell Speaker Woes? Here's How to Correct Sound Driver Issues in Windows 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-tips-for-high-quality-audacity-recording/"><u>Essential Tips for High-Quality Audacity Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-upload-and-share-videos-seamlessly-on-instagram/"><u>How to Upload and Share Videos Seamlessly on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-sound-verification-effective-tips-for-speedy-microphone-testing-at-home/"><u>Instant Sound Verification: Effective Tips for Speedy Microphone Testing at Home</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016126512-league-of-legends-voice-chat-problems-solutions-to-get-you-talking-again/"><u>League of Legends Voice Chat Problems? Solutions to Get You Talking Again</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-footage-the-ultimate-1080p-video-editor-for-2024/"><u>New Transform Your Footage The Ultimate 1080P Video Editor for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-compatibility-hurdles-getting-tozo-t6-up-and-running-on-windows-11/"><u>Overcoming Compatibility Hurdles: Getting Tozo T6 Up and Running on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-issues-following-windows-11-upgrade-step-by-step-solution/"><u>Resolve Audio Issues Following Windows 11 Upgrade - Step by Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-no-sound-drivers-detected-fix-for-headphones-missing-from-list-of-audio-outputs-on-windows-11/"><u>Resolved: No Sound Drivers Detected - Fix for Headphones Missing From List of Audio Outputs on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-in-world-of-warcraft-tips-and-solutions-for-muted-sound/"><u>Restoring Soundscape in World of Warcraft: Tips & Solutions for Muted Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-sounds-in-windows-media-player-easy-fixes-and-tips/"><u>Reviving Sounds in Windows Media Player: Easy Fixes and Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/social-avatar-customization-concocting-caricatured-images-for-2024/"><u>Social Avatar Customization Concocting Caricatured Images for 2024</u></a></li>
 </ul></div>
 

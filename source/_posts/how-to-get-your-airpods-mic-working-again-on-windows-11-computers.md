@@ -1,7 +1,7 @@
 ---
 title: How to Get Your AirPods Mic Working Again on Windows 11 Computers
-date: 2024-10-29T16:23:55.905Z
-updated: 2024-10-30T16:55:40.896Z
+date: 2024-11-01T21:41:26.564Z
+updated: 2024-11-04T23:52:56.707Z
 tags:
   - win11
   - win10
@@ -42,23 +42,31 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -66,17 +74,18 @@ Follow these:
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
 ###
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -88,13 +97,6 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 4. Restart your computer and run Skype to see if your Microphone works.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
@@ -124,18 +126,19 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-obtain-pristine-photo-sets-for-free-use/"><u>[New] Obtain Pristine Photo Sets for Free Use</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-chrome-multitasking-via-picture-in-picture-mode/"><u>[Updated] Maximizing Chrome Multitasking via Picture in Picture Mode</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-mobile-snapchat-screen-capture/"><u>[Updated] The Ultimate Guide to Mobile Snapchat Screen Capture</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/comprehensive-guide-on-performing-full-backup-and-recovery-of-a-microsoft-sql-server-database/"><u>Comprehensive Guide on Performing Full Backup and Recovery of a Microsoft SQL Server Database</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discover-the-fix-enabling-sound-in-game-streams-on-discord/"><u>Discover the Fix: Enabling Sound in Game Streams on Discord</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-graphics-drivers-compatible-with-windows-7/"><u>Download AMD Radeon Graphics Drivers Compatible with Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-razer-man-o-war-mic-working-again-successfully/"><u>How to Get Your Razer Man O' War Mic Working Again Successfully</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-pro-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 Pro to PC via USB? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-tune-into-your-instagram-feed-music-integration-essentials/"><u>In 2024, Tune Into Your Instagram Feed Music Integration Essentials</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-sound-solutions-for-non-responsive-sony-headphones-on-your-computer/"><u>Revive the Sound: Solutions for Non-Responsive Sony Headphones on Your Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-interruptions-for-bluetooth-devices-on-modern-windows-systems/"><u>Troubleshooting Audio Interruptions for Bluetooth Devices on Modern Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-microphone-on-turtle-beach-stealth-60/"><u>Troubleshooting Guide: Fixing Non-Functional Microphone on Turtle Beach Stealth 60</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-delivering-quality-imagery-applying-lut-techniques-in-adobes-tools/"><u>[Updated] 2024 Approved Delivering Quality Imagery Applying LUT Techniques in Adobe's Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>[Updated] The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-cutting-edge-video-communities-eclipsing-youtube/"><u>2024 Approved Cutting-Edge Video Communities Eclipsing Youtube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banishing-popping-noise-from-your-pcs-logitech-g-pro-x-microphone-expert-advice/"><u>Banishing Popping Noise From Your PC's Logitech G Pro X Microphone - Expert Advice</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/breaking-down-barriers-combining-obs-with-zoom/"><u>Breaking Down Barriers Combining OBS with Zoom</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-repair-your-malfunctioning-corsair-headset-quickly/"><u>Expert Tips to Repair Your Malfunctioning Corsair Headset Quickly</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-googles-critical-reviews-of-battery-operated-nest-doorbell-devices/"><u>Explore Google's Critical Reviews of Battery Operated Nest Doorbell Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-mic-not-functional-discover-simple-solutions-and-restore-voice-in-the-battle-royale/"><u>Fortnite Mic Not Functional? Discover Simple Solutions and Restore Voice in the Battle Royale</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-lava-blaze-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Lava Blaze Pro 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-speaker-noise-interruptions-on-windows-platforms-windows-107-fixes/"><u>Overcoming Speaker Noise Interruptions on Windows Platforms (Windows 10/7 Fixes)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionizing-pet-health-and-weight-an-in-depth-review-of-the-petsafe-automatic-feeder/"><u>Revolutionizing Pet Health & Weight: An In-Depth Review of the PetSafe Automatic Feeder</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-recovering-missing-file-privileges-in-steam-fixed/"><u>The Ultimate Guide to Recovering Missing File Privileges in Steam [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-windows-10-sound-issues-with-these-simple-steps/"><u>Troubleshoot Windows 10 Sound Issues with These Simple Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlocking-clear-conversations-solving-common-issues-with-discords-voice-feature/"><u>Unlocking Clear Conversations: Solving Common Issues with Discord's Voice Feature</u></a></li>
 </ul></div>
 

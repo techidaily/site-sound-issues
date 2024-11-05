@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Restore Functionality of the LucidSound LS30 Microphone"
-date: 2024-10-24T17:32:06.226Z
-updated: 2024-10-30T16:17:33.746Z
+date: 2024-10-30T01:16:12.403Z
+updated: 2024-11-05T07:57:00.978Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -42,22 +49,15 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Select **Sound** .
@@ -69,30 +69,37 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
@@ -121,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -163,22 +163,17 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-digital-media-hacks-top-5-online-techniques-for-video-trimming-on-vimeo/"><u>[New] 2024 Approved Digital Media Hacks Top 5 Online Techniques for Video Trimming on Vimeo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-avoiding-manual-transcription-by-leveraging-voice-recognition-in-ppt/"><u>[New] Avoiding Manual Transcription by Leveraging Voice Recognition in PPT</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-secrets-to-affordable-buying-of-gopro-devices/"><u>[New] In 2024, Secrets to Affordable Buying of GoPro Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-elevate-your-photos-learn-bg-removal-with-picsart-tools/"><u>[Updated] Elevate Your Photos Learn Bg Removal with Picsart Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences/"><u>[Updated] The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/comprehensive-web-based-help-guide-all-you-need-to-know-about-winx-dvd-ripper-and-video-converter-solutions/"><u>Comprehensive Web-Based Help Guide - All You Need to Know About WinX DVD Ripper and Video Converter Solutions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/guidelines-to-broaden-youtube-content-area-for-2024/"><u>Guidelines to Broaden YouTube Content Area for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-easy-win-strategy-clownfish-chatter-on-any-pc-with-windows/"><u>In 2024, Easy-Win Strategy Clownfish Chatter on Any PC with Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-microphone-management-in-mpow-software-tips-to-overcome-audio-hurdles-on-pc/"><u>Mastering Microphone Management in MPOW Software: Tips to Overcome Audio Hurdles on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-voice-or-mic-revive-call-of-duty-warzone-communication-on-pc-and-gaming-consoles-today/"><u>No Voice or Mic? Revive Call of Duty: Warzone Communication on PC and Gaming Consoles Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-roar-of-victory-resolving-fortnites-sound-problems-easily/"><u>Revive the Roar of Victory: Resolving Fortnite's Sound Problems Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-logitech-g430-mic-heres-how-you-can-get-it-up-and-running-again/"><u>Trouble with Your Logitech G430 Mic? Here's How You Can Get It up and Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-astro-a5asters-mic-expert-tips-for-clear-audio/"><u>Troubleshoot and Fix Your Astro A5aster's Mic: Expert Tips for Clear Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-distortion-and-stuttering-in-windows-107-expert-fixes-revealed/"><u>Troubleshooting Audio Distortion & Stuttering in Windows 10/7 – Expert Fixes Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-discord-solutions-for-resolving-audio-issues/"><u>Troubleshooting Discord: Solutions for Resolving Audio Issues</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-11-ver22h2/"><u>Windows 11 Ver.22H2 更新不能時の解決策</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016774190-winning-strategies-for-repairing-audio-on-a-windows-10-pc-all-issues-addressed/"><u>Winning Strategies for Repairing Audio on a Windows 10 PC - All Issues Addressed!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-harmony-haven-gather-download-and-dissect-audio/"><u>[New] In 2024, Harmony Haven Gather, Download & Dissect Audio</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-remove-background-in-logitech-webcam-recording-for-2024/"><u>[New] Remove Background in Logitech Webcam Recording for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-at-device-levels-functionality-insights/"><u>Decoding AI at Device Levels: Functionality Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-standard-to-stunning-applying-filters-in-zoom-step-by-step/"><u>From Standard to Stunning Applying Filters in Zoom Step-by-Step</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-downloadsave-instagram-reels-video-in-2-ways-for-2024/"><u>How to Download/Save Instagram Reels Video in 2 Ways for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-a-comprehensive-list-of-prime-tablets-for-photo-editing-lovers/"><u>In 2024, A Comprehensive List of Prime Tablets for Photo Editing Lovers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovation-unleashed-experience-our-6-best-signature-removers/"><u>In 2024, Innovation Unleashed – Experience Our 6 Best Signature Removers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/loud-and-clear-gaming-tackling-silent-borderlands-3-on-windows-machines/"><u>Loud and Clear Gaming: Tackling Silent Borderlands 3 on Windows Machines</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-portfolio-cutting-edge-cardboard-vr-game-listings/"><u>Premium Portfolio Cutting-Edge Cardboard VR Game Listings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-audio-manager-failure-heres-your-definitive-fix/"><u>Realtek Audio Manager Failure? Here's Your Definitive Fix!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-silent-troubles-fixing-the-no-sound-issue-in-minutes/"><u>Solve Your PC's Silent Troubles: Fixing the 'No Sound Issue' In Minutes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-strategies-for-overcoming-hyperx-cloud-mic-issues-no-more-silence-in-your-setup/"><u>Top Strategies for Overcoming HyperX Cloud Mic Issues: No More Silence in Your Setup!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Audio System Malfunction? Here’s How to Get Your Sounds Running Again
-date: 2024-10-26T17:12:32.758Z
-updated: 2024-10-30T17:03:26.228Z
+date: 2024-11-03T06:51:56.815Z
+updated: 2024-11-04T18:35:56.999Z
 tags:
   - win11
   - win10
@@ -42,31 +42,32 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
 4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
 5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2290c014.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**OK** , then close the Service window.
 
 7. Test by playing a song. If your problem still exists, try Fix 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio drivers
 
@@ -85,18 +86,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1fc67e2400.jpg)
 3. Click the **Update** button next to your audio driver to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your audio drivers
 
@@ -107,24 +108,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f91648965.png)
 5. Restart your computer, then check if your problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -150,19 +151,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-rediscovering-the-past-with-your-camera-roll-on-snapchat-for-2024/"><u>[New] Rediscovering the Past with Your Camera Roll on Snapchat for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-compose-your-story-best-mobile-annotation-tools/"><u>[Updated] 2024 Approved Compose Your Story Best Mobile Annotation Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-flash-clip-content-wizard/"><u>[Updated] Flash Clip Content Wizard</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-broadcasting-directly-on-instagram/"><u>[Updated] In 2024, OBS Broadcasting Directly on Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-audacitys-guide-to-fading-sounds-invisibly/"><u>2024 Approved Audacity's Guide to Fading Sounds Invisibly</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-7-headphone-issues-expert-tips/"><u>Diagnosing and Repairing Windows 7 Headphone Issues: Expert Tips</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-engaging-tiktok-personal-frames-ideas-that-pop/"><u>In 2024, Engaging TikTok Personal Frames Ideas That Pop</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y28-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y28 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-crackling-headset-sound-fixes-top-tips-to-silence-the-pop/"><u>Logitech G Pro X Crackling Headset Sound Fixes: Top Tips to Silence the Pop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-windows-users-facing-mpow-microphone-failures/"><u>Quick Fixes for Windows Users Facing MPOW Microphone Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/soundless-systems-solved-resolve-windows-11s-no-sound-hurdle-today/"><u>Soundless Systems Solved: Resolve Windows 11'S 'No Sound' Hurdle Today</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ated-hardware-review-essential-capture-cards-for-online-viewing-for-2024/"><u>Top-Rated Hardware Review Essential Capture Cards for Online Viewing for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-sounds-in-hearthstone/"><u>Troubleshooting Guide: How to Restore Sounds in Hearthstone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unveiling-exciting-photography-aspects-of-ios-11/"><u>[New] 2024 Approved Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-the-great-outdoors-rc-experience-the-blh4100-blade-120-s-ready-to-fly-helicopter/"><u>Assessing the Great Outdoors RC Experience: The BLH4100 Blade 120 S Ready To Fly Helicopter</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210579859-9798985445718-camino-lessons/"><u>Camino Lessons | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-garmin-venu-assessment-your-all-in-one-daily-wellness-monitor/"><u>Comprehensive Garmin Venu Assessment: Your All-in-One Daily Wellness Monitor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhanced-firefox-playback-sound-now-working-perfectly/"><u>Enhanced Firefox Playback: Sound Now Working Perfectly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/expert-tips-for-solving-critical-bugs-affecting-playability-in-call-of-dutys-mw-and-black-ops-cold-war/"><u>Expert Tips for Solving Critical Bugs Affecting Playability in Call of Duty's MW and Black Ops Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-airpods-mic-not-working-on-windows-11/"><u>Fix Airpods Mic Not Working on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-repair-microsoft-teams-microphone-in-windows-1011/"><u>How to Enable and Repair Microsoft Teams Microphone in Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-built-in-iphone-apps-a-comprehensive-guide/"><u>How to Uninstall Built-In iPhone Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oneplus-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on OnePlus Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-3d-text-a-photoshop-technique/"><u>In 2024, Unleashing 3D Text A Photoshop Technique</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-logitech-g733-ultimate-guide-to-mic-repair/"><u>Revive Your Logitech G733 - Ultimate Guide to Mic Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-audio-troubles-in-audacity-5-steps-for-fixing-sound-device-problems/"><u>Solve Your Audio Troubles in Audacity – 5 Steps for Fixing Sound Device Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/touch-id-disconnectivity-in-os/"><u>Touch ID Disconnectivity in OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-the-mysterious-vibration-of-loudspeakers/"><u>Troubleshooting Tips: Resolving the Mysterious Vibration of Loudspeakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/update-overcoming-muted-web-browsing-experience-with-firefox/"><u>Update: Overcoming Muted Web Browsing Experience with Firefox</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia 130 Music? | Dr.fone</u></a></li>
 </ul></div>
 

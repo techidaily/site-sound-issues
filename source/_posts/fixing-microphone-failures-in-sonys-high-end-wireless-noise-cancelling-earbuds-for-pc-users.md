@@ -1,7 +1,7 @@
 ---
 title: Fixing Microphone Failures in Sony's High-End Wireless Noise-Cancelling Earbuds for PC Users
-date: 2024-09-05T03:59:21.381Z
-updated: 2024-09-06T03:59:21.381Z
+date: 2024-11-02T07:54:53.577Z
+updated: 2024-11-04T19:55:26.189Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db29239db22.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Users have reported that they are having problems using their microphone on Windows 7 all of a sudden, which makes it impossible to communicate with others online if they want to use programs such as Skype.
   
  There is always a silver lining to this problem: multiple solutions which have been proven to work are here to help you with it.
@@ -47,12 +41,6 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db4f8a348e2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Navigate to Recording tab, then check if there is a green icon on your Microphone, which indicates that your microphone should be working properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db52bbcd86d.jpg)
   
@@ -68,38 +56,14 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db560286c8c.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Then click to expand category**Sound, video and game controllers** . Right click the audio device driver that you have and choose**Update Driver Software…** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56426d3c7.png)
   
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Then choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db567b2d6cf.jpg)
   
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If you see the notification telling you that **Windows has determined the driver software for your device is up to date** , but the problem remains, you need to look for the correct in other ways.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db56c3a8acb.png)
@@ -108,12 +72,6 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db58bff02a9.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Then press the**Update** button next to the audio driver that you have to get it updated automatically.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db59148e846.jpg)
@@ -129,8 +87,6 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +94,29 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-game-recording-a-comprehensive-review/"><u>[New] 2024 Approved In-Game Recording A Comprehensive Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-live-viewers-choice-obs-or-shadowtoolkit/"><u>[New] In 2024, Live Viewers' Choice OBS or ShadowToolkit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumpstarting-your-marketing-the-essentials-of-telegram-advertising/"><u>2024 Approved Jumpstarting Your Marketing The Essentials of Telegram Advertising</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vering-featured-social-media-exchange-for-2024/"><u>Discovering Featured Social Media Exchange for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-getting-your-stereo-sound-back-in-action/"><u>DIY Solutions: Getting Your Stereo Sound Back in Action!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-when-your-sound-blaster-mic-wont-work/"><u>DIY Solutions: When Your Sound Blaster Mic Won't Work</u></a></li>
+<li><a href="https://win-dash.techidaily.com/from-doodles-to-data-how-excel-revolutionizes-the-process-of-turning-handwritten-notes-into-editable-text/"><u>From Doodles to Data: How Excel Revolutionizes the Process of Turning Handwritten Notes Into Editable Text</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-and-why-does-the-merge-feature-fail-to-work-in-software-applications/"><u>How and Why Does the Merge Feature Fail to Work in Software Applications?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturecanvas-hd-screen-toolkit/"><u>In 2024, CaptureCanvas HD Screen Toolkit</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skip-windows-emulators-top-linux-gaming-stores-offering-officially-compatible-titles/"><u>Skip Windows Emulators: Top Linux Gaming Stores Offering Officially Compatible Titles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-your-bluetooth-device-is-connected-but-has-no-sound/"><u>Solved! Why Your Bluetooth Device Is Connected but Has No Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-dell-audio-problems-with-these-easy-steps/"><u>Troubleshoot Dell Audio Problems with These Easy Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-modems-fixing-post-windows-10-sound-issues/"><u>Troubleshooting Silent Modems: Fixing Post-Windows 10 Sound Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-your-creative-vision-with-youtubes-filmmaking-courses-for-2024/"><u>Unleash Your Creative Vision with YouTube's Filmmaking Courses for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/what-should-i-do-if-im-hearing-voices/"><u>What Should I Do if I'm Hearing Voices?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

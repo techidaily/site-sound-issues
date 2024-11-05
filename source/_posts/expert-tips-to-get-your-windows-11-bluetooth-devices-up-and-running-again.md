@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Get Your Windows 11 Bluetooth Devices Up and Running Again
-date: 2024-10-23T16:24:55.230Z
-updated: 2024-10-30T16:18:12.328Z
+date: 2024-10-29T10:34:09.922Z
+updated: 2024-11-04T23:08:43.864Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ If you’re trying to make your Airpods pro mic working on Windows PC, you’ve 
 
 If the issue still exists, move to the below fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -52,26 +59,33 @@ If the issue still exists, move to the below fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-41-45.jpg)
 2. In the**Playback** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
 3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
 4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your Bluetooth Drivers
 
@@ -88,15 +102,15 @@ There’re 2 ways to update drivers, manually and automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
 4. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your PC and check your AirPods mic.
 
@@ -112,25 +126,11 @@ There’re 2 ways to update drivers, manually and automatically.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your Bluetooth driver, reboot your PC to check if you can use AirPods microphone on Windows.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install Windows updates
 
@@ -144,16 +144,16 @@ So follow the steps below to install the latest Windows updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  
  If you see “You’re up to date” after clicking the button, your PC confirms that it has all Windows updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Restart your PC and check the AirPods microphone after the whole process is finished.
 
 If this fix doesn’t work for you, the next one might suit you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a Bluetooth adapter
 
@@ -182,22 +182,17 @@ If this fix doesn’t work for you, the next one might suit you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-beyond-google-other-ar-sticker-solutions/"><u>[New] 2024 Approved Beyond Google Other AR Sticker Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-find-and-buy-premium-youtube-ringtone-videos-easily/"><u>[New] Find & Buy Premium YouTube Ringtone Videos Easily</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-chromebook-zoom-capabilities/"><u>[Updated] In 2024, Unlocking Chromebook Zoom Capabilities</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-9-smartphone-meeting-platforms-iphone-vs-android-comparison-for-2024/"><u>[Updated] Top 9 Smartphone Meeting Platforms IPhone vs Android Comparison for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-unplugged-or-missing-nvidia-outputs/"><u>Diagnosing & Repairing Unplugged or Missing Nvidia Outputs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-steelseries-a-step-by-step-guide-to-repair-your-arctis-pro-mic/"><u>Fixing the Silent SteelSeries: A Step-by-Step Guide to Repair Your Arctis Pro Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-windows-media-player-how-to-restore-audio-functionality/"><u>Fixing Windows Media Player: How to Restore Audio Functionality</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-most-lucrative-star-title/"><u>In 2024, YouTube's Most Lucrative Star Title</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016941940-no-sound-from-speakers-in-windows-heres-how-you-can-get-them-working-again/"><u>No Sound From Speakers in Windows? Here's How You Can Get Them Working Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/repair-guide-for-the-turtle-beach-elite-atlas-microphone-thats-not-working/"><u>Repair Guide for The Turtle Beach Elite Atlas Microphone That's Not Working</u></a></li>
-<li><a href="https://win-info.techidaily.com/secure-your-favorite-vids-from-camwhores-site-with-easy-steps/"><u>Secure Your Favorite Vids From CamWhores Site with Easy Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-silent-problem-fixing-microphone-failures-in-steelseries-arctis-headsets/"><u>Solve the Silent Problem: Fixing Microphone Failures in SteelSeries Arctis Headsets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-re-enabling-audio-functionality-in-pcs-zoom-meetings/"><u>Step-by-Step Solution: Re-Enabling Audio Functionality in PC's Zoom Meetings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-making-your-headphones-detectable-in-windows-11-media-player/"><u>Step-by-Step: Making Your Headphones Detectable in Windows 11 Media Player</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/superior-console-emulation-best-ps1-games-for-your-pc-for-2024/"><u>Superior Console Emulation Best PS1 Games for Your PC for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-choosing-the-right-mkv-to-mp4-converter-for-windows-and-macos-users/"><u>Ultimate Guide: Choosing the Right MKV to MP4 Converter for Windows and macOS Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>[New] Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-voice-personalization-tips-for-instagram-users/"><u>[Updated] 2024 Approved Voice Personalization Tips for Instagram Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-amplify-viewership-with-these-top-10-youtube-reaction-strategies-for-2024/"><u>[Updated] Amplify Viewership with These Top 10 YouTube Reaction Strategies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-narzo-60x-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme Narzo 60x 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/effective-strategies-for-using-chatgpt-to-generate-professional-resumes-tailored-for-various-positions/"><u>Effective Strategies for Using ChatGPT to Generate Professional Resumes Tailored for Various Positions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-insearchofimprovedcameratech-beyond-mycam/"><u>In 2024, InSearchOfImprovedCameraTech Beyond MyCam</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-repair-techniques-restoring-functionality-to-your-beyond-the-wire-mic/"><u>In-Depth Repair Techniques: Restoring Functionality to Your 'Beyond the Wire' Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/phasmophobia-voice-communication-woes-tips-and-solutions-to-get-it-working-again/"><u>Phasmophobia Voice Communication Woes: Tips and Solutions to Get It Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-dell-sound-card-errors-in-windows-7-with-easy-fixes/"><u>Resolve Your Dell Sound Card Errors in Windows 7 with Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-windows-11s-speakers-a-step-by-step-guide-to-solving-noise-problems-fast/"><u>Revive Your Windows 11'S Speakers: A Step-by-Step Guide to Solving Noise Problems Fast</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-troubleshooting-a-non-functional-corsair-hs70-microphone/"><u>Solving the Dilemma: Troubleshooting a Non-Functional Corsair HS70 Microphone</u></a></li>
 </ul></div>
 
