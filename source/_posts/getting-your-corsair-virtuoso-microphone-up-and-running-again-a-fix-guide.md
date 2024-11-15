@@ -1,7 +1,7 @@
 ---
 title: Getting Your Corsair Virtuoso Microphone Up and Running Again â€“ A Fix Guide
-date: 2024-08-27T21:17:28.386Z
-updated: 2024-08-28T21:17:28.386Z
+date: 2024-11-10T16:15:12.724Z
+updated: 2024-11-15T16:33:44.490Z
 tags:
   - win11
   - win10
@@ -39,14 +39,6 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ---
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 â€“ Check the microphone settings
 
  You need to correctly configure the settings for SteelSeries Arctis 7 headset microphone after itâ€™s plugged into your PC. Otherwise, it may not work as intended. Follow the steps below to set everything appropriately.
@@ -56,15 +48,45 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-1-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Select**Small icons** from the menu next to**View by** , and click**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Recording** tab. Then, right-click on any empty place and tick**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Check if your SteelSeries Arctis 7 headset microphone is enabled. If not, right-click it and click**Enable** .
 
@@ -82,6 +104,13 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-7-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** If the microphone is muted, click the**speaker icon** to unmute it. Then,**drag the volume slider to the largest** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-8.jpg)
@@ -93,6 +122,13 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
  So youâ€™ve applied the correct settings and SteelSeries Arctis 7 mic should be working again. If not, check out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 â€“ Update your audio driver
 
@@ -116,9 +152,6 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but itâ€™s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -128,9 +161,6 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 4 â€“ Allow access to your SteelSeries Arctis 7 microphone
 
  If your SteelSeries Arctis 7 mic refuses to work after a new system update, itâ€™s likely Windows has disabled the apps from accessing your microphone. If so, you need to allow the permission manually.
@@ -143,30 +173,25 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Microphone** on the left pane. Then, click the**Change** button and make sure**Microphone access for this device** is**On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Make sure to turn on**Allow apps to access your microphone** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you complete the process, test your SteelSeries Arctis 7 microphone. If it still doesnâ€™t work, try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5 â€“ Reinstall the SteelSeries Engine software
 
  The SteelSeries Engine software offers users better control over their SteelSeries gaming devices, but sometimes the app updates can mess with your SteelSeries Arctis headset. In this case, try to reinstall the program to cure the mic not working problem.
@@ -175,21 +200,35 @@ Your SteelSeries Arctis 7 headset microphone stopped working for no reason? Youâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click**SteelSeries Engine** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Go to the **[SteelSeries official website](https://steelseries.com/engine)**  .
 
 **4)** Click**Windows** to download the latest version of SteelSeries Engine.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Follow the on-screen instruction to install the SteelSeries Engine software.
 
@@ -212,8 +251,6 @@ It should be automatically detected and function normally.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +258,22 @@ It should be automatically detected and function normally.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-banishing-facebook-broadcasts-from-laptoptablet/"><u>[Updated] 2024 Approved Banishing Facebook Broadcasts From Laptop/Tablet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-20-second-symphony-understanding-musics-compact-formats-for-2024/"><u>[Updated] A 20-Second Symphony Understanding Music's Compact Formats for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-master-zoom-recording-with-essential-gear/"><u>2024 Approved Master Zoom Recording with Essential Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862820338-acer-nitros-stunning-34-inch-curved-screen-qhd-quality-at-unbeatable-200-shop-now-on-newegg/"><u>Acer Nitro's Stunning 34-Inch Curved Screen: QHD Quality at Unbeatable $200 - Shop Now on Newegg!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-sites-to-watch-any-game-online-2024-edition/"><u>Best FREE Sites to Watch Any Game Online - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-minecraft-experience-cutting-edge-solutions-to-pc-stuttering-problems-2023-tips-and-tricks/"><u>Boost Your Minecraft Experience â€“ Cutting-Edge Solutions to PC Stuttering Problems (2023 Tips & Tricks)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-walkthrough-on-updating-usernames-in-windows-11-os/"><u>Complete Walkthrough on Updating Usernames in Windows 11 OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-making-your-lucidsound-ls30-microphone-work-again/"><u>Expert Tips: Making Your LucidSound LS30 Microphone Work Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fix-tips-reviving-your-astro-a20-microphones-performance/"><u>Fast Fix Tips: Reviving Your Astro A20 Microphone's Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-windows-media-player-restoring-audio-output/"><u>Fixes and Solutions: Windows Media Player - Restoring Audio Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-issues-with-your-blue-yeti-headset-easily/"><u>Fixing Connectivity Issues with Your Blue Yeti Headset Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-microphone-issues-troubleshooting-tips/"><u>Fixing HyperX Cloud Microphone Issues: Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-audio-dilemma-sony-wh-1000-headphones-mic-malfunction-on-pcs-explained/"><u>Fixing the Audio Dilemma: Sony WH-1000 Headphones Mic Malfunction on PCs Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-non-functional-voice-chat-feature-on-rainbow-six-siege-a-guide-for-gamers/"><u>Fixing the Non-Functional Voice Chat Feature on Rainbow Six Siege - A Guide for Gamers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo X Fold 2 | Dr.fone</u></a></li>
+</ul></div>
 

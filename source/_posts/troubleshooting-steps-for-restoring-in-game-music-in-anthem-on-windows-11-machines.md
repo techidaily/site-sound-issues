@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines
-date: 2024-10-31T06:36:25.951Z
-updated: 2024-11-05T04:10:28.825Z
+date: 2024-11-12T16:32:28.680Z
+updated: 2024-11-15T17:09:01.077Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 1. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
 
@@ -67,14 +74,21 @@ To do so:
 2. In the**Sound** pane, click the**Playback** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
@@ -92,31 +106,17 @@ Still no luck? Okay, there’s one more thing to try.
 3. Double click**Sound, video and game controllers** to expand it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
@@ -146,16 +146,22 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-sales-select-from-these-top-15-facebook-analytics-pros/"><u>[New] In 2024, Mastering Sales Select From These Top 15 Facebook Analytics Pros</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-top-15-video-processing-suites-for-gopro-for-2024/"><u>[Updated] Top 15 Video Processing Suites for GoPro for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-photoshops-image-curve-secrets/"><u>2024 Approved Unveiling Photoshop's Image Curve Secrets</u></a></li>
-<li><a href="https://common-error.techidaily.com/asus-laptops-resolving-stuck-or-malfunctioning-function-fn-keys-problems/"><u>ASUS Laptops: Resolving Stuck or Malfunctioning Function (Fn) Keys Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquering-silence-expert-tips-for-fixing-connexant-smartaudio-hds-audio-malfunction-in-windows-10-computers/"><u>Conquering Silence: Expert Tips for Fixing Connexant SmartAudio HD's Audio Malfunction in Windows 10 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-the-fixes-you-need-for-voice-chat-glitches-in-call-of-dutys-warzone-across-pc-and-consoles/"><u>Getting the Fixes You Need for Voice Chat Glitches in Call of Duty's Warzone - Across PC & Consoles</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-se-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone SE Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/revolutionary-editing-video-tools-triumph-on-m1-power-for-2024/"><u>Revolutionary Editing Video Tools Triumph on M1 Power for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silence-expert-tips-for-restoring-sound-on-your-pclaptop/"><u>Solving the Silence: Expert Tips for Restoring Sound on Your PC/Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/tips-and-solutions-restoring-functionality-to-your-turtle-beach-elite-atlas-headsets-mic/"><u>Tips and Solutions: Restoring Functionality to Your Turtle Beach Elite Atlas Headset's Mic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-portable-gear-for-travel-cinematography/"><u>[Updated] 2024 Approved Portable Gear for Travel Cinematography</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-art-of-aerial-broadcasting-a-dji-drone-guide-for-facebook/"><u>[Updated] In 2024, The Art of Aerial Broadcasting A DJI Drone Guide for Facebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlock-the-power-of-cutting-for-beginner-editors/"><u>[Updated] In 2024, Unlock the Power of Cutting for Beginner Editors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-the-world-of-fbx-for-gamers-for-2024/"><u>[Updated] Navigating the World of FBX for Gamers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-perfecting-your-live-stream-our-picks-from-the-top-6-microphones/"><u>2024 Approved Perfecting Your Live Stream Our Picks From the Top 6 Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-not-working-heres-how-to-get-your-windows-10-mic-up-and-running-again/"><u>AirPods Not Working? Here's How to Get Your Windows 10 Mic Up & Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cracking-out-the-crackles-top-strategies-for-silencing-your-logitech-g-pro-x-on-pc-this-year/"><u>Cracking Out the Crackles: Top Strategies for Silencing Your Logitech G Pro X on PC This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-corsair-hs70-headphones-when-the-microphone-fails/"><u>DIY Solutions for Corsair HS70 Headphones When the Microphone Fails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-restoring-your-mics-functionality-in-microsoft-teams-for-winodws-11-users/"><u>Expert Guide: Restoring Your Mic's Functionality in Microsoft Teams for Winodws 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-persistent-buzzing-noise-on-your-windows-pc/"><u>How to Fix the Persistent Buzzing Noise on Your Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unresponsive-voice-chatting-in-black-ops-cold-war-multiplayer-mode/"><u>How to Resolve Unresponsive Voice Chatting in Black Ops Cold War Multiplayer Mode</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-time-lapse-production-using-advanced-gopro-software/"><u>In 2024, Seamless Time Lapse Production Using Advanced GoPro Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-you-ask-we-answer-answers-to-questions-related-to-filmora/"><u>In 2024, You Ask, We Answer- Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-privileges-fixes-for-win10-and-win11-errors/"><u>Mastering Privileges Fixes for Win10 & Win11 Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimize-audio-quality-by-disabling-enhancements-in-windows-10/"><u>Optimize Audio Quality by Disabling Enhancements in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overcome-microsoft-teams-audio-problems-for-users-of-windows-11-and-10/"><u>Solved! Overcome Microsoft Teams Audio Problems for Users of Windows 11 and 10</u></a></li>
 </ul></div>
 

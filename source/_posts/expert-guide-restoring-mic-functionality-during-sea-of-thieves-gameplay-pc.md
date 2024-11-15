@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Restoring Mic Functionality During Sea of Thieves Gameplay (PC)"
-date: 2024-10-29T01:30:15.603Z
-updated: 2024-11-04T18:00:22.072Z
+date: 2024-11-14T17:45:46.529Z
+updated: 2024-11-15T16:34:01.965Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the**Allow apps to access your microphone** section, make sure it’s turned**On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
@@ -59,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Make sure your mic isn’t disabled
@@ -73,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**Input** section, make sure that your headset is showing. Then click**Device Properties** .  
   
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
@@ -87,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
  3) Make sure that your headset is not disabled.  
   
 ![make sure your headset isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/02/make-sure-your-headset-isnt-disabled.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve confirmed that your microphone is enabled, do a test to check if it’s now back to normal. If the microphone is still not working properly, try the next fix below.
 
@@ -100,27 +107,20 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**Recording** tab. Select your microphone and then click**Set Default > OK** .  
   
 ![set your device as default](https://images.drivereasy.com/wp-content/uploads/2021/02/set-it-as-default.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
@@ -141,10 +141,10 @@ Here’s how to update drivers with Driver Easy:
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -159,10 +159,10 @@ Here’s how to update drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Troubleshoot hardware issues
@@ -192,24 +192,16 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[Updated] Expert Tips Crafting Compelling Facebook Ad Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-content-creation-showdown-twitch-versus-youtube-explored/"><u>2024 Approved Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/aiffmp3-2024/"><u>AIFFファイルからMP3への完全ガイド - 最新変換手法2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975663205-effortless-installation-free-qualcomm-atheros-ar938x-driver-download-available-now/"><u>Effortless Installation: Free Qualcomm Atheros AR938X Driver Download Available Now</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/effortlessdataback-take/"><u>EffortlessDataback Take</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016929962-expert-fixes-for-non-functional-mic-and-speakers-in-sea-of-thieves-gaming-optimize-your-experience/"><u>Expert Fixes for Non-Functional Mic and Speakers in Sea of Thieves Gaming – Optimize Your Experience!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-sound-back-a-step-by-step-guide-to-fixing-modern-warfares-voice-chat-issues/"><u>Getting Your Sound Back: A Step-by-Step Guide to Fixing Modern Warfare's Voice Chat Issues</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-lava-yuva-3-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Lava Yuva 3 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-sound-pivot-for-podcast-masters-for-2024/"><u>Premier Sound Pivot for Podcast Masters for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-interruptions-in-windows-11-a-comprehensive-fix-guide/"><u>Resolving Sound Interruptions in Windows 11: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-quality-enhancing-speakers-on-a-windows-10-device/"><u>Reviving Audio Quality: Enhancing Speakers on a Windows 10 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speeding-up-saved-time-optimizing-and-reviving-slow-computers-in-minutes/"><u>Speeding Up Saved Time: Optimizing and Reviving Slow Computers in Minutes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamlined-video-magnify-tool/"><u>Streamlined Video Magnify Tool</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-skype-microphone-malfunction-on-pcs-with-windows-10/"><u>Troubleshooting Guide: Skype Microphone Malfunction on PCs with Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-phasmophobias-malfunctioning-voice-chat-feature/"><u>Troubleshooting Steps for Phasmophobia's Malfunctioning Voice Chat Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-eliminating-unwanted-humming-noises-from-headphone-audio/"><u>Ultimate Guide: Eliminating Unwanted Humming Noises From Headphone Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/wired-to-win-addressing-sound-problems-in-cyberpunk-2077-for-gamers-using-windows-11/"><u>Wired to Win: Addressing Sound Problems in Cyberpunk 2077 for Gamers Using Windows 지급소11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unique-ways-to-document-your-console-games/"><u>[New] 2024 Approved Unique Ways to Document Your Console Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-safeguarding-and-recovering-private-snap-content/"><u>[Updated] In 2024, Safeguarding and Recovering Private Snap Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-video-converter-convert-twitter-video-to-audiomp4webm/"><u>[Updated] Twitter Video Converter | Convert Twitter Video to Audio/MP4/WebM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-fires-audio-transformation-tricks-for-2024/"><u>Free Fire's Audio Transformation Tricks for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/master-online-engagement-with-proficient-use-of-snap-in-teams-for-2024/"><u>Master Online Engagement with Proficient Use of Snap in Teams for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-voice-chat-trouble-heres-how-to-restore-audio-connection/"><u>PUBG Voice Chat Trouble? Here's How to Restore Audio Connection!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/recon-70-headset-repair-fixing-your-turtle-beach-microphone-issues/"><u>Recon 70 Headset Repair: Fixing Your Turtle Beach Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regain-lost-sound-fx-in-anthem-post-windows-10-enhancements/"><u>Regain Lost Sound Fx in Anthem Post-Windows 10 Enhancements</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-malfunctions-on-mac-computers-step-by-step-solutions/"><u>Resolving Audio Malfunctions on Mac Computers: Step-by-Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-and-headphone-recognition-problems-in-windows-operating-systems-11-8-7/"><u>Resolving Microphone and Headphone Recognition Problems in Windows Operating Systems (11, 8, 7)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Common Problems with the Corsair Void Microphone - A Step-by-Step Tutorial
-date: 2024-10-28T16:10:09.102Z
-updated: 2024-10-30T17:04:59.149Z
+date: 2024-11-08T16:40:30.399Z
+updated: 2024-11-15T17:39:53.308Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
@@ -50,10 +57,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
@@ -79,10 +86,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -103,23 +116,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the **Recording** tab, then click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-249.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If**Headset** **Microphone Corsair VOID Wireless Gaming Dongle** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
@@ -132,10 +131,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click **OK** to apply the changes in the windows.
@@ -143,6 +142,13 @@ Here is how to do it:
  Now that with microphone set as default device and the volume turned up, test your mic and see if the**microphone on Corsair Void headset** problem has been fixed. If yes, then great! If the mic still doesn’t work, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for hardware issues
 
@@ -173,16 +179,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-inspiration-boost-with-leading-hr-tapes/"><u>[New] Inspiration Boost with Leading HR Tapes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-5-dreamy-winter-scenes-as-youtube-backdrops-for-2024/"><u>[Updated] 5 Dreamy Winter Scenes as YouTube Backdrops for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unleashing-fb-video-potential-with-speedy-insights/"><u>2024 Approved Unleashing FB Video Potential with Speedy Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-mic-repair-tips-overcoming-non-working-status/"><u>Corsair HS60 Mic Repair Tips - Overcoming Non-Working Status</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/destiny-2-voice-chat-not-working-here-are-proven-fixes-to-reconnect-with-friends/"><u>Destiny 2 Voice Chat Not Working? Here Are Proven Fixes to Reconnect with Friends</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-10c-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 10C Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-identify-and-fix-an-unknown-audio-device-problem-on-your-windows-pc/"><u>How to Identify and Fix an Unknown Audio Device Problem on Your Windows PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-understanding-the-law-screencasting-youtube-videos/"><u>In 2024, Understanding the Law Screencasting YouTube Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-solutions-get-your-world-of-warcraft-voice-back-on-track/"><u>Quick Fix Solutions: Get Your World of Warcraft Voice Back on Track!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revamping-sound-quality-how-to-amplify-audio-levels-in-windows-11-effortlessly/"><u>Revamping Sound Quality: How to Amplify Audio Levels in Windows 11 Effortlessly</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-video-annotation-tools-add-watermarks-and-captions/"><u>Updated 2024 Approved Free Video Annotation Tools Add Watermarks and Captions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-screen-recording-on-skype-innovative-uses-of-obs/"><u>[New] 2024 Approved Mastering Screen Recording on Skype Innovative Uses of OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-techniques-for-superior-pics-free-of-charge/"><u>[New] Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-jailbreak-joy-top-funny-faces-at-the-social-networks-limits/"><u>[New] In 2024, Jailbreak Joy - Top Funny Faces at the Social Network’s Limits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-reimagining-game-logging-with-no-fbx-technology/"><u>[Updated] 2024 Approved Reimagining Game Logging with No-FBX Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-on-editing-away-backgrounds/"><u>[Updated] Expert Advice on Editing Away Backgrounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015765423-bluetooth-speaker-lags-resolve-now-with-ease/"><u>Bluetooth Speaker Lags - Resolve Now with Ease!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-nvidia-high-definition-audio-no-sound/"><u>How to Fix Nvidia High Definition Audio No Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-on-your-window-10-computer-easy-fixes-to-get-it-working-again/"><u>No Audio on Your Window 10 Computer? Easy Fixes to Get It Working Again</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimizing-edit-videos-with-m1-powered-macbook-air-for-2024/"><u>Optimizing Edit Videos with M1 Powered MacBook Air for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-dropouts-and-glitches-on-a-windows-11-system-expert-tips-and-tricks/"><u>Resolving Audio Dropouts and Glitches on a Windows 11 System – Expert Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-laps-effective-techniques-for-fixing-laptop-speaker-issues/"><u>Resolving Silent Laps: Effective Techniques for Fixing Laptop Speaker Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y78t-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y78t Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-your-sound-blaster-mic-issues/"><u>Troubleshooting Guide: Solving Your Sound Blaster Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-non-functional-creative-pebble-wireless-speakers/"><u>Troubleshooting Tips: Fixing Non-Functional Creative Pebble Wireless Speakers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-tutorial-for-professional-gopro-cinematography-for-2024/"><u>Ultimate Tutorial for Professional GoPro Cinematography for 2024</u></a></li>
 </ul></div>
 

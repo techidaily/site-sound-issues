@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing IDT HD Audio Codec Issues on Windows 11 Systems
-date: 2024-08-31T23:54:54.360Z
-updated: 2024-09-01T23:54:54.360Z
+date: 2024-11-13T16:17:34.925Z
+updated: 2024-11-15T17:20:13.505Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
@@ -60,23 +67,14 @@ To do so:
 1. Right click on the**Volume icon** at the bottom right corner, and click**Sounds** (or**Playback devices** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
 Still no luck? Okay, there’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Roll back your audio driver
 
  Another effective method to resolve the no sound issue is to roll back your audio driver. To do so:
@@ -87,21 +85,34 @@ Still no luck? Okay, there’s one more thing to try.
 3. Double click**Sound, video and game controllers** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -119,8 +130,6 @@ Feel free to leave a comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +137,23 @@ Feel free to leave a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-rage-quarters-and-swords-nintendo-switch-fighting-classics/"><u>[New] Rage Quarters & Swords Nintendo Switch Fighting Classics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-effortless-digital-preservation-how-to-record-live-tv-shows/"><u>[Updated] 2024 Approved Effortless Digital Preservation How To Record Live TV Shows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>[Updated] Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-infographic-social-media-trends-for-2024/"><u>[Updated] Infographic - Social Media Trends for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/brush-up-your-youtube-videos-with-color-correction/"><u>Brush Up Your Youtube Videos with Color Correction</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27s-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27s Phone without Any Data Loss</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-audio-connectivity-issues-for-windows-7-users/"><u>Overcoming HDMI Audio Connectivity Issues for Windows 7 Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/inent-audience-alteration-tools-for-content-casters-for-2024/"><u>Preeminent Audience Alteration Tools for Content Casters for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-mobile-chat-troubles-discover-easy-fixes-for-smooth-communication/"><u>PUBG Mobile Chat Troubles? Discover Easy Fixes for Smooth Communication!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-g435-headphones-silence-issue-step-by-step-guide-for-crystal-clear-sound/"><u>Solve Your G435 Headphones Silence Issue - Step-by-Step Guide for Crystal Clear Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-increasing-pc-speaker-volume-under-windows-10/"><u>Step-by-Step Solution for Increasing PC Speaker Volume Under Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-when-your-steam-in-game-vc-is-down/"><u>Step-by-Step Solutions When Your Steam In-Game VC Is Down</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-improving-sound-quality-and-increasing-volume-in-windows-11/"><u>Step-by-Step Tutorial: Improving Sound Quality and Increasing Volume in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-to-creating-personalized-projector-screens/"><u>The Beginner's Handbook to Creating Personalized Projector Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tip-correct-headphone-connection-fix-soft-spoken-sounds-via-speaker-system/"><u>Troubleshooting Tip: Correct Headphone Connection - Fix Soft-Spoken Sounds via Speaker System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-flv/"><u>ウェブ上でのフリーかつ簡単なMPEG FLVコンバートツール - ムヴァヴィ</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 11 Microphone Not Working
-date: 2024-10-30T06:54:51.120Z
-updated: 2024-11-04T17:58:58.127Z
+date: 2024-11-11T17:09:56.684Z
+updated: 2024-11-15T17:59:27.505Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 3. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check the Webex settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the connection
 
  Before you proceed to anything more complicated, make sure you’ve set up the audio device correctly.
@@ -43,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Allow Webex to access your microphone
@@ -58,19 +65,19 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-2.jpg)
 3. Select**Microphone** from the left pane. Then click the**Change** button and**turn on** Microphone access for this device.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your audio driver
 
@@ -110,27 +117,14 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
@@ -158,20 +152,21 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-savor-a-selection-of-free-flashy-emojis-from-online-sites/"><u>[Updated] In 2024, Savor a Selection of Free, Flashy Emojis From Online Sites</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-swiftrecorder-plus-soundtrack-guided-screen-recording/"><u>[Updated] SwiftRecorder Plus - Soundtrack Guided Screen Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-most-memorable-2022-ice-sculpture-moves/"><u>[Updated] The Most Memorable 2022 Ice Sculpture Moves</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/erful-methods-to-make-money-on-your-youtube-shorts-for-2024/"><u>9 Powerful Methods to Make Money on Your YouTube Shorts for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-amazon-basics-soundbar-review-hear-clear-and-loud/"><u>Budget-Friendly Amazon Basics Soundbar Review: Hear Clear & Loud</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bypass-audacity-cannot-open-device-challenge-discover-5-reliable-fixes/"><u>Bypass 'Audacity Cannot Open Device' Challenge - Discover 5 Reliable Fixes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/expert-tips-for-linking-your-youtube-and-tiktok-video-sources/"><u>Expert Tips for Linking Your YouTube & TikTok Video Sources</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/eyedome-recorder-chromeos-screen-snapshots-for-2024/"><u>EyeDome Recorder ChromeOS Screen Snapshots for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-to-your-squad-mic-comprehensive-guide/"><u>How to Restore Functionality to Your Squad Mic - Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-sound-challenges-repairing-headphone-functionality-in-windows-7/"><u>Overcoming Sound Challenges: Repairing Headphone Functionality in Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revitalize-your-vr-experience-immediate-fixes-for-the-oculus-rift-s-mic-updated-guide-2024/"><u>Revitalize Your VR Experience: Immediate Fixes for the Oculus Rift S Mic - Updated Guide 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-windows-10-heres-how-to-restore-sound-quickly-and-effectively/"><u>Silent Windows 10? Here's How to Restore Sound Quickly & Effectively!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-solve-device-in-use-by-other-application-hdmi-problems/"><u>Step-by-Step Guide to Solve 'Device in Use by Other Application' HDMI Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-overcoming-realtek-hd-audio-manager-access-problems/"><u>Troubleshooting Guide: Overcoming Realtek HD Audio Manager Access Problems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-advanced-tips-excelling-at-slide-show-recordings-for-2024/"><u>[New] Advanced Tips Excelling at Slide Show Recordings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-stabilizing-your-stream-avoid-dropped-frame-errors/"><u>[New] In 2024, Stabilizing Your Stream Avoid Dropped Frame Errors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-infuse-style-in-vids-3-proven-methods-for-instagram-borders/"><u>[Updated] Infuse Style in Vids 3 Proven Methods for Instagram Borders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-complete-guide-to-prevent-and-repair-fb-video-issues/"><u>2024 Approved The Complete Guide to Prevent and Repair FB Video Issues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-understanding-igtv-from-basics-to-boosting-your-presence/"><u>In 2024, Understanding IGTV From Basics, to Boosting Your Presence</u></a></li>
+<li><a href="https://win-dash.techidaily.com/in-depth-fixes-startech-peripheral-driver-issues-on-windows-10-and-earlier-versions-windows-87/"><u>In-Depth Fixes: StarTech Peripheral Driver Issues on Windows 10 and Earlier Versions (Windows 8/7)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-review-fugetek-ft-568-exceptional-quality-for-a-superior-selfie-experience/"><u>In-Depth Review: Fugetek FT-568 - Exceptional Quality for a Superior Selfie Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-get-your-logitech-g230-mic-back-online/"><u>Solved! How to Get Your Logitech G230 Mic Back Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-arctis-7-audio-glitches-in-windows-a-comprehensive-guide/"><u>Solving the Issue of Arctis 7 Audio Glitches in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-pcs-missing-sound-issue-in-zoom-a-step-by-step-guide/"><u>Solving the PC's Missing Sound Issue in Zoom: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-puzzle-ultimate-guide-to-eliminate-crackling-sounds-from-your-logitech-g-pro-x-headset/"><u>Solving the Puzzle: Ultimate Guide to Eliminate Crackling Sounds From Your Logitech G Pro X Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm-microphone-problem-fixes-for-windows-and-mac-users/"><u>Sony WH-1000XM Microphone Problem Fixes for Windows and Mac Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-headset-effective-solutions-to-restore-mic-working-status/"><u>SteelSeries Arctis Prime Headset: Effective Solutions to Restore Mic Working Status</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-creative-pebble-bluetooth-audio-devices-not-working-properly/"><u>Step-by-Step Fixes for Creative Pebble Bluetooth Audio Devices Not Working Properly</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-s23-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel S23 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/vivo-y36-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo Y36 support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
 

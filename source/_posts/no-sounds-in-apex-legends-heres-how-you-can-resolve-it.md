@@ -1,7 +1,7 @@
 ---
 title: No Sounds in Apex Legends? Here's How You Can Resolve It!
-date: 2024-10-23T16:08:29.149Z
-updated: 2024-10-30T16:55:18.775Z
+date: 2024-11-13T17:44:23.373Z
+updated: 2024-11-15T16:02:57.284Z
 tags:
   - win11
   - win10
@@ -36,15 +36,22 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -60,6 +67,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **2)** Click**Playing Audio** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
@@ -97,29 +111,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update button** next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows Audio Services
 
@@ -132,13 +139,6 @@ OR
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
@@ -182,19 +182,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-effortless-sound-capture-top-5-techniques-for-web-streaming/"><u>[New] In 2024, Effortless Sound Capture Top 5 Techniques for Web Streaming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-image-recording-assistant/"><u>[Updated] Image Recording Assistant</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-malfunctioning-steam-voice-chat-service/"><u>DIY Fixes for a Malfunctioning Steam Voice Chat Service</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-repairing-dell-audio-driver-mishaps-in-the-windows-7-operating-system/"><u>DIY Solutions: Repairing Dell Audio Driver Mishaps in the Windows 7 Operating System</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-free-animated-series-from-youtube-enjoy-your-favorite-shows-anywhere/"><u>Download Free Animated Series From YouTube - Enjoy Your Favorite Shows Anywhere!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-disruptions-in-windows-10-solutions-unveiled/"><u>How to Fix Audio Disruptions in Windows 10: Solutions Unveiled</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-moto-g23-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Moto G23 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-poco-x6-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Poco X6 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hype-generator-chief-architect/"><u>Hype Generator Chief Architect</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-slow-motion-mobile-photography-and-video-apps-iosandroid/"><u>In 2024, Premium Slow Motion Mobile Photography & Video Apps iOS/Android</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-sifting-through-the-advantages-and-disadvantages-of-vr/"><u>In 2024, Sifting Through the Advantages and Disadvantages of VR</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-logitech-g430-microphone-stops-working-a-comprehensive-guide/"><u>Solutions for When Your Logitech G430 Microphone Stops Working: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silence-a-guide-to-restoring-your-nvidia-hd-audio-output/"><u>Solving the Silence: A Guide to Restoring Your NVIDIA HD Audio Output</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>[Updated] Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-correct-your-pcs-sound-troubles-in-five-strategic-moves-for-windows-11/"><u>Diagnose & Correct Your PC's Sound Troubles in Five Strategic Moves for Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-instagram-presence-with-these-9-game-changing-tips/"><u>Elevate Your Instagram Presence with These 9 Game-Changing Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-scanner-issues-in-windows-11-a-guide-to-solve-them/"><u>Epson Scanner Issues in Windows 11: A Guide to Solve Them</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c300-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C300 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y27s-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y27s Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-top-rated-fully-adjustable-led-light-bars-get-yours-at-a-30-discount-today-zdnet-exclusive/"><u>Huge Savings on Top-Rated, Fully Adjustable LED Light Bars – Get Yours at a 30% Discount Today! (ZDNet Exclusive)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-rise-of-new-titans-against-vlc/"><u>In 2024, The Rise of New Titans Against VLC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-audio-functionality-addressing-non-recording-microphones-on-obs/"><u>Reviving Audio Functionality: Addressing Non-Recording Microphones on OBS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-rainbow-six-sieges-voice-chat-problem-post-2024-update-a-step-by-step-guide/"><u>Solving Rainbow Six Siege's Voice Chat Problem Post-2024 Update: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-troubleshooting-your-corsair-void-microphone-issues/"><u>Ultimate Guide: Troubleshooting Your Corsair Void Microphone Issues</u></a></li>
 </ul></div>
 

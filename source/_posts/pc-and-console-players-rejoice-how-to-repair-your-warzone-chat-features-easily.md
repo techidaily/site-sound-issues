@@ -1,7 +1,7 @@
 ---
 title: PC & Console Players Rejoice! How to Repair Your Warzone Chat Features Easily
-date: 2024-11-03T23:10:25.719Z
-updated: 2024-11-04T21:54:40.806Z
+date: 2024-11-12T16:33:57.217Z
+updated: 2024-11-15T18:02:12.700Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
 
  If your PC has two jacks to separate input and output for headphone audio and mic audio, you would need a[mic splitter](https://www.amazon.com/Headphone-Splitter-KOOPAO-Microphone-Earphones/dp/B084V3TRTV/?tag=drivereasycom-20) to use this headset with your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Try these fixes…
 
 **[1: Enable your headset mic for recording](https://tools.techidaily.com/drivereasy/download/)**
@@ -65,27 +58,35 @@ thumbnail: https://thmb.techidaily.com/c0dd113ef640e63463952867f5a2b0cf9994895a1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_16-48-56.jpg)
 2. Switch to the**Recording** tab and find your headset device. If you don’t see it, right-click on the empty area then select**Show Disabled Devices** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_16-57-37.jpg)
 3. Right-click the headset then select**Enable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-06-58-1.jpg)
 
 Check if your mic works. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2:**Set your headset as the input device**
@@ -98,15 +99,23 @@ Check if your mic works. If not, try the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-35-44.jpg)
 3. You’ll be able to adjust the volume and output/input device for different apps as you need.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-38-57.jpg)
 
  Check if your headset microphone can record your voice. If this doesn’t help, proceed to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:**Update your audio driver**
@@ -132,6 +141,13 @@ Check if your mic works. If not, try the next solution.
 
  Restart your PC for the new driver to take effect. Check if your headset microphone works now. If it still won’t pick up your voice, move on to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4:**Turn on microphone access on your PC**
 
  Although less likely, it’s possible that the microphone access on your PC has been disabled so your headset mic can’t record any voice. To turn on the microphone access on your computer:
@@ -141,20 +157,13 @@ Check if your mic works. If not, try the next solution.
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check if your headset mic is working. If this doesn’t give you luck, try the last solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5:**Re-enable your headset mic via Device Manager**
@@ -165,13 +174,6 @@ Check if your mic works. If not, try the next solution.
 2. Type**devmgmt.msc** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-30-17.jpg)
 3. Under**Audio inputs and outputs** , right-click your headset then select**Disable Device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-05-22.jpg)
 4. Again right-click your headset, then select**Enable device** .  
@@ -207,22 +209,20 @@ Check if your headset mic works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-securely-extract-and-convert-youtube-audios-as-mp3/"><u>[New] In 2024, How To Securely Extract and Convert YouTube Audios as MP3</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-video-sequencing-synergy-mastering-blend-modes-for-2024/"><u>[New] Video Sequencing Synergy Mastering Blend Modes for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-razer-barracuda-x-mic-problems-in-windows-operating-systems/"><u>Diagnosing and Repairing Razer Barracuda X Mic Problems in Windows Operating Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s24-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy S24 support AVCHD video?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-repairs-for-a-nonfunctioning-astro-a20-microphone/"><u>Effortless Repairs for a Nonfunctioning Astro A20 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-steelseries-arctis-1-headset-troubleshooting-the-non-functional-microphone/"><u>Fixing SteelSeries Arctis 1 Headset: Troubleshooting the Non-Functional Microphone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 8 Plus? | Stellar</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-elevate-your-content-seo-mastery-starts-here/"><u>In 2024, Elevate Your Content SEO Mastery Starts Here!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-seamless-audio-diminishment/"><u>In 2024, Implementing Seamless Audio Diminishment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016142686-logitech-g533-microphone-not-functional-heres-how-you-can-get-it-working-again/"><u>Logitech G533 Microphone Not Functional? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-fixing-no-sound-issues-on-pc-during-call-of-duty-warzone-gameplay-year-2abriel-here-are-five-new-seo-titles-that-convey-similar-me663/"><u>Mastering the Battlefield: Fixing No-Sound Issues on PC During Call of Duty Warzone Gameplay (Year 2Abriel: Here Are Five New SEO Titles that Convey Similar Meanings to [2024 Tips] How to Fix Warzone No Sound on PC:</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/oculus-rift-s-mic-not-working-try-these-5-rapid-fixes/"><u>Oculus Rift S Mic Not Working? Try These 5 Rapid Fixes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-motorola-edge-40-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Motorola Edge 40</u></a></li>
-<li><a href="https://win11.techidaily.com/precise-control-over-time-in-windows-without-auto-adjustments/"><u>Precise Control Over Time in Windows without Auto-Adjustments</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-persistent-windows-update-error-code-0x802n401c-on-windows-10-and-11/"><u>Resolving the Persistent Windows Update Error Code 0X802n401C on Windows 10 & 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-g435-headphones-a-comprehensive-guide/"><u>Troubleshooting Silent G435 Headphones: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-ms-teams-microphone-problems-on-pcs-with-windows-11-or-10/"><u>Troubleshooting Your MS Teams Microphone Problems on PCs with Windows 11 or 10</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>[New] Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-device-independent-techniques-for-capturing-youtube-live-streams/"><u>[Updated] Mastering Device-Independent Techniques for Capturing YouTube Live Streams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-playbook-for-splitting-views-in-facebook-livestreams-for-2024/"><u>[Updated] The Ultimate Playbook for Splitting Views in Facebook Livestreams for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/counter-strike-2-audio-glitches-effective-solutions-to-get-your-mic-working-again/"><u>Counter-Strike 2 Audio Glitches: Effective Solutions to Get Your Mic Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-annoying-windows-audio-glitch-a-complete-guide/"><u>Fixing the Annoying Windows Audio Glitch: A Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-chat-issue-discover-how-to-fix-microphone-problems-quickly/"><u>Fortnite Voice Chat Issue? Discover How to Fix Microphone Problems Quickly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-motorola-moto-g73-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Motorola Moto G73 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-practical-routines-for-streamlining-gotomeeting-session-logging/"><u>In 2024, Practical Routines for Streamlining GoToMeeting Session Logging</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-battleye-setup-errors-your-guide-to-a-stable-installation/"><u>Overcome BattlEye Setup Errors – Your Guide to a Stable Installation</u></a></li>
+<li><a href="https://facebook.techidaily.com/simplified-process-to-eliminate-a-business-profile-from-fb/"><u>Simplified Process to Eliminate a Business Profile From FB</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-persistent-speaker-noise-in-windows-117-expert-tips-revealed/"><u>Solving the Persistent Speaker Noise in Windows 11/7 - Expert Tips Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-tutorial-on-splitting-your-excel-window-for-enhanced-productivity/"><u>The Ultimate Tutorial on Splitting Your Excel Window for Enhanced Productivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-problems-caused-by-conflicting-application-usage/"><u>Troubleshooting HDMI Problems Caused by Conflicting Application Usage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-audio-glitches-in-windows-operating-systems/"><u>Ultimate Fix for Audio Glitches in Windows Operating Systems</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

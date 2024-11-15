@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting HyperX Cloud Speaker and Mic: Solved!"
-date: 2024-10-31T23:45:02.492Z
-updated: 2024-11-04T16:44:25.898Z
+date: 2024-11-08T17:33:07.363Z
+updated: 2024-11-15T17:39:30.455Z
 tags:
   - win11
   - win10
@@ -43,45 +43,32 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -110,21 +97,35 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -150,24 +151,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-efficient-zooming-strategies-for-youtube-videos/"><u>[New] In 2024, Efficient Zooming Strategies for YouTube Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-channel-success-strategy-standard-studio-or-beta-edge/"><u>[Updated] Channel Success Strategy Standard Studio or Beta Edge</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-making-funny-photos-no-fees-involved/"><u>2024 Approved Making Funny Photos No Fees Involved</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/battlefield-unmute-4-sound-problems-and-solutions-for-gamers/"><u>Battlefield ([Un]Mute) 4 Sound Problems and Solutions for Gamers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-bose-audio-equipment-stops-working/"><u>DIY Fixes for When Your Bose Audio Equipment Stops Working</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cing-youtube-content-via-finalcut-pro-techniques/"><u>Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-overcoming-windows-installation-issues-understanding-error-0x80070610/"><u>Expert Tips on Overcoming Windows Installation Issues: Understanding Error 0X800706[:10]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-mic-not-functioning-in-microsoft-teams-on-windows-11-or-10/"><u>Fixing the Issue: Mic Not Functioning in Microsoft Teams on Windows 11 or 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-realtek-audience-interface/"><u>How to Fix a Non-Functional Realtek Audience Interface</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-avoiding-lost-sequences-with-obs-fixes/"><u>In 2024, Avoiding Lost Sequences with OBS Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-11-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme 11 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pickus-triumph-in-android-photo-editing-a-comprehensible-review/"><u>In 2024, PickU's Triumph in Android Photo Editing – A Comprehensible Review</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/metodi-veloci-e-semplici-per-eliminare-gli-elementi-inutilizzati-dal-tuo-archivio-outlook/"><u>Metodi Veloci E Semplici per Eliminare Gli Elementi Inutilizzati Dal Tuo Archivio Outlook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-with-tom-comprehensive-hardware-guides/"><u>Navigating Through Technology with Tom - Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-epson-printer-setbacks-on-windows-11/"><u>Overcoming Epson Printer Setbacks on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pubg-voice-communication-troubles-heres-how-to-fix-it/"><u>PUBG Voice Communication Troubles? Here's How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-functionality-in-your-creative-pebble-wireless-speaker-set/"><u>Solved: How to Restore Functionality in Your Creative Pebble Wireless Speaker Set</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshoot-no-sound-problems-on-your-apex-legends-device/"><u>Solved: Troubleshoot No Sound Problems on Your Apex Legends Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-corsair-headset-mic-failures-in-windows-environment/"><u>Step-by-Step Guide: Repairing Corsair Headset Mic Failures in Windows Environment</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-quick-steps-to-find-youtube-comment-feed/"><u>[New] Quick Steps to Find YouTube Comment Feed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlock-your-viewing-pleasure-with-budget-friendly-recording-tools/"><u>[Updated] Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-storage-solution-for-sony-a7s-ii/"><u>2024 Approved Ultimate Storage Solution for Sony A7S II</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-10-free-recording-apps-for-slack-chats/"><u>Best 10 Free Recording Apps for Slack Chats</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-update-your-asus-laptop-drivers-comprehensive-guide-and-latest-version-download-links/"><u>Find And Update Your ASUS Laptop Drivers: Comprehensive Guide & Latest Version Download Links</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-discords-push-to-talk-issue-a-comprehensive-guide/"><u>Fixing Discord's Push-to-Talk Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-no-sound-in-fortnite-expert-tips-and-techniques-to-restore-audio-quality/"><u>Fixing No Sound in Fortnite: Expert Tips and Techniques to Restore Audio Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/game-sounds-on-resolving-discords-game-audio-issues/"><u>Game Sounds On! - Resolving Discord's Game Audio Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-making-headphones-appear-in-windows-10-playback-device-list/"><u>Guide: Making Headphones Appear in Windows 10 Playback Device List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-address-audio-malfunctions-within-the-newworld-environment/"><u>How to Address Audio Malfunctions Within the NewWorld Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-razer-kraken-audio-input-device/"><u>How to Repair a Non-Functional Razer Kraken Audio Input Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-issue-with-jbl-quantum-one-headset-g435/"><u>How to Resolve 'No Sound' Issue with JBL Quantum ONE Headset (G435)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-problems-when-your-discord-voice-chats-wont-connect/"><u>How to Resolve Problems When Your Discord Voice Chats Won't Connect</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a1-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A1 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-enrich-your-film-with-alternative-imagery/"><u>In 2024, How to Enrich Your Film with Alternative Imagery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maximize-productivity-on-your-mac-with-personalized-app-desktop-allocation-strategies/"><u>Maximize Productivity on Your Mac with Personalized App-Desktop Allocation Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sound-setbacks-repairing-your-dota-2-pcs-mic-functionality/"><u>Overcoming Sound Setbacks: Repairing Your Dota 2 PC's Mic Functionality</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-xiaomi-redmi-note-13-proplus-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Xiaomi Redmi Note 13 Pro+ 5G password or pattern lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-art-of-perfectly-synchronized-android-time-lapses-for-2024/"><u>Unveiling the Art of Perfectly Synchronized Android Time-Lapses for 2024</u></a></li>
 </ul></div>
 

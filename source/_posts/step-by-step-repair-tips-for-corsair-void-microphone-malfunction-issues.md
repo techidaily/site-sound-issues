@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for Corsair Void Microphone Malfunction Issues
-date: 2024-10-27T17:38:57.390Z
-updated: 2024-10-30T17:06:10.587Z
+date: 2024-11-08T16:10:14.056Z
+updated: 2024-11-15T16:16:29.598Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Allow access to microphone (for Windows 10 users)**
 
  If your Logitech G430 microphone stops working in Windows 10, the first thing you should check is to turn on the microphone access. Here’s what you need to do:
@@ -45,20 +52,33 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Microphone** on the left pane, and make sure**Microphone access for this device** **is on** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (If this issue happens in the voice chat when you play games, you can also check if the microphone status for that game is**ON** .)
 
  Re-plug your microphone again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
 
@@ -95,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
  If your issue still persists, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 3: Check your sound settings**
 
  Your Logitech G430 mic may not work because it’s disabled or not set as the default device for your Windows computer. Follow the steps below to check your sound settings:
@@ -109,6 +122,19 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
  1) Right click the volume icon at the bottom right corner on your desktop, and select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click the**Playback** tab, and make sure to set your microphone to**Default** **Device** .
 
@@ -118,23 +144,9 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6274ee58efa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right click your microphone and click**Enable** (if it’s enabled, you’ll see**Disable** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627553bb550.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Right click on your microphone again and select**Set as Default Device** .
 
@@ -143,13 +155,6 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
  6) Right click your microphone, and click**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62766a93d1c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click the**Levels** tab, and drag the volume slider to**maximum** .
 
@@ -160,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
  Try your Logitech G430 mic again and see if it works.
 
  Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall Logitech Game Software**
 
@@ -189,22 +201,24 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-m1-advantage-high-speed-smooth-video-editing-experience/"><u>[New] 2024 Approved M1 Advantage High-Speed, Smooth Video Editing Experience</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/oosting-bank-balance-effective-tactics-for-mobile-video-money-making-for-2024/"><u>[New] Boosting Bank Balance Effective Tactics for Mobile Video Money-Making for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-building-a-memorable-podcast-logo/"><u>[Updated] Unleash Creativity Building a Memorable Podcast Logo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-the-voice-chat-feature-in-black-ops-cold-war/"><u>Expert Advice on Fixing the Voice Chat Feature in Black Ops Cold War</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-silent-windows-10-simple-steps-to-restore-audio/"><u>Fix Silent Windows 10: Simple Steps to Restore Audio</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-zte-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On ZTE</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/m1-advantage-high-speed-smooth-video-editing-experience/"><u>M1 Advantage High-Speed, Smooth Video Editing Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-a-disconnected-printer-issue/"><u>Navigating a Disconnected Printer Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016994045-no-more-silence-restore-fortnite-microphone-functionality-easy-fixes-inside/"><u>No More Silence: Restore Fortnite Microphone Functionality – Easy Fixes Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016323661-quick-fixes-for-a-silent-pc-get-your-computer-speakers-working-now/"><u>Quick Fixes for a Silent PC – Get Your Computer Speakers Working Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-disruption-issues-in-windows-10-a-comprehensive-guide/"><u>Resolving Sound Disruption Issues in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/skype-voice-troubleshooting-on-windows-11-get-your-mic-working-again/"><u>Skype Voice Troubleshooting on Windows 11 - Get Your Mic Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configuration-in-windows-11-a-step-by-step-guide/"><u>Troubleshooting Unknown Speaker Configuration in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-your-asus-mobo-download-and-setup-essential-drivers-in-windows/"><u>Troubleshooting Your ASUS Mobo – Download & Setup Essential Drivers in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-no-sound-errors-in-your-windows-media-player-experience/"><u>Ultimate Fixes for No Sound Errors in Your Windows Media Player Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/what-to-do-if-your-game-of-the-year-football-manager-202n3-wont-launch/"><u>What To Do If Your Game of the Year, Football Manager 202N3 Won't Launch?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-solve-missing-feed-items-from-linkedin/"><u>[New] Solve Missing Feed Items From LinkedIn</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-diy-movie-magic-speedy-hacks-for-aspiring-producers/"><u>[Updated] DIY Movie Magic Speedy Hacks for Aspiring Producers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-studio-editor-transform-your-videos-with-ease/"><u>[Updated] YouTube Studio Editor Transform Your Videos with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016401732-bluetooth-delay-fixes-fast-and-simple-solutions/"><u>Bluetooth Delay Fixes: Fast and Simple Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comment-resoudre-les-problemes-de-visibilite-des-fichiers-sous-windows/"><u>Comment Résoudre Les Problèmes De Visibilité Des Fichiers Sous Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-interaction-with-users-enhance-chatgpts-learning-process/"><u>Does Interaction With Users Enhance ChatGPT's Learning Process?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-restore-functionality-of-a-malfunctioning-razer-kraken-mic/"><u>Effective Techniques to Restore Functionality of a Malfunctioning Razer Kraken Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-alpha-s-microphone-issues-a-comprehensive-guide/"><u>Fixing HyperX Cloud Alpha S Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-itel-p55plus-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Itel P55+ FRP In 3 Different Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-12-mini-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 12 mini Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-littoral-filmmakers-script-vision/"><u>In 2024, Littoral Filmmaker's Script Vision</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016525340-mpow-microphone-trouble-heres-how-to-make-it-work-on-your-pc/"><u>MPOW Microphone Trouble? Here's How to Make It Work on Your PC!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-glitches-enhancing-the-sonic-experience-of-fortnite/"><u>Overcoming Audio Glitches: Enhancing the Sonic Experience of Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-restore-voice-communication-in-apex-legends/"><u>Resolved! How to Restore Voice Communication in Apex Legends</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-non-functional-speakers-in-the-latest-version-of-windows-os/"><u>Resolving Non-Functional Speakers in the Latest Version of Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-addressing-issues-with-your-unresponsive-corsair-hs70-mic/"><u>Step-by-Step Guide: Addressing Issues with Your Unresponsive Corsair HS70 Mic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-three-chatbots-face-off-gpt-microsofts-ai-and-googles-bard/"><u>Top Three Chatbots Face-Off: GPT, Microsoft's AI & Google's Bard</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-discords-voice-chat-issues/"><u>Troubleshooting Guide: How to Fix Discord's Voice Chat Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Get Your Voice Back in COD Warzone Across PC and Gaming Consoles
-date: 2024-11-02T16:26:13.633Z
-updated: 2024-11-05T04:48:57.697Z
+date: 2024-11-10T16:23:58.152Z
+updated: 2024-11-15T16:10:57.029Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 5. **[Change the in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the connection of your audio device
 
  When your voice chat stops working, the first thing you want to do is check your connection. You need to **make sure the device cable is not broken or worn out, and is securely plugged into the correct headphone jack of your PC** . Or you can simply do a replug and see how it goes. If you’re using a headset with a switch, make sure you’ve turned on the mic.
@@ -53,13 +46,6 @@ If the connection is fine, check out the next fix below.
  In some cases, your game chat won’t work[**because your controller is conflicting with your mic**](https://www.reddit.com/r/blackopscoldwar/comments/jtcnob/voice%5Fchat%5Fnot%5Fworking/) . This is a weird but possible situation. So before entering Black Ops Cold War, make sure you’ve disabled your peripherals, especially those with a headphone jack.
 
  If you’re not using any peripherals, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change your default recording device
 
@@ -73,39 +59,26 @@ First you need to check the default audio device on your system:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to your desired one. Then click**Device properties and test microphone** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Set up your mic correctly in the Battle.net client
@@ -143,8 +116,23 @@ Now launch Black Ops Cold War and see if you can talk to others.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -161,16 +149,16 @@ Now launch Black Ops Cold War and see if you can talk to others.
 2. Be sure to set both**Speakers/Headphones Voice Chat Device** and**Microphone Device** to**Default Communication Device** . Set**Microphone Activation Mode** to**Open Mic** . Then increase the value of**Open Microphone Sensitivity** to over 50.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-ingame-voice-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you can restart Black Ops Cold War and check if the voice chat is working.
 
  If changing game settings doesn’t help, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
 
@@ -181,6 +169,19 @@ Here’s a quick guide for that:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will download and install the available updates. Wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -207,17 +208,20 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-configuration-ticking-clocks-setup-guide-for-broadcasting-platforms/"><u>[Updated] In 2024, Ultimate Configuration Ticking Clocks Setup Guide for Broadcasting Platforms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-precision-cuts-and-transitions-for-premier-users/"><u>[Updated] Precision Cuts & Transitions for Premier Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-bandicam-review-enhancing-your-computer-with-effective-recording-techniques/"><u>2024 Approved Bandicam Review Enhancing Your Computer with Effective Recording Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-sign-in-error-messages-caused-by-user-profile-service-in-windows-operating-systems/"><u>Addressing Sign-In Error Messages Caused by User Profile Service in Windows Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-silent-modems-on-toshiba-laptops/"><u>Expert Advice: Resolving Silent Modems on Toshiba Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-headphones-popping-sounds-instantly-a-simple-step-by-step-guide/"><u>Fix Your Headphone's Popping Sounds Instantly - A Simple, Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/idt-hd-audio-codec-driver-in-windows-10-solved/"><u>IDT HD Audio CODEC Driver in Windows 10 [Solved]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-g2-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo G2 FRP</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-chromatic-enhancement/"><u>In 2024, The Art of Chromatic Enhancement</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-rankings-and-insights-best-camcorders/"><u>In 2024, Ultimate Rankings & Insights Best Camcorders</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/taming-data-management-how-chatgpt-can-revolutionize-your-excel-workflows/"><u>Taming Data Management: How ChatGPT Can Revolutionize Your Excel Workflows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-malfunctioning-lucidsound-ls30-mic/"><u>Troubleshooting Steps for a Malfunctioning LucidSound LS30 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015511929-cod-vanguard-voice-chat-not-responding-heres-how-to-fix-it/"><u>Cod: Vanguard Voice Chat Not Responding? Here's How to Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016608379-cs-global-offensive-sound-problems-how-to-get-your-mic-working-again/"><u>CS: Global Offensive Sound Problems? How to Get Your Mic Working Again!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-reno-8t-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-splitcam-breakdown-best-or-not-amongst-recorders/"><u>In 2024, SplitCam Breakdown Best or Not Amongst Recorders?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-superior-ai-photo-cutting-master/"><u>In 2024, Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-x-ology-vintage-iphone-xx-photography/"><u>In 2024, X-Ology Vintage iPhone Xx Photography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-how-to-fix-rainbow-six-siege-lags/"><u>Optimizing Performance: How to Fix Rainbow Six Siege Lags</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016102043-physical-activity-groups/"><u>Physical Activity Groups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017019298-skype-not-playing-sound-heres-how-you-can-fix-it-instantly/"><u>Skype Not Playing Sound? Here's How You Can Fix It Instantly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-screen-saving-solutions-for-win-710-problems-solved/"><u>Streamline Screen Saving: Solutions for Win 7/10 Problems [Solved]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tomtoms-next-gen-adventure-cameras-the-bandit-review/"><u>TomTom’s Next-Gen Adventure Cameras The Bandit Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-corsair-virtuoso-mic-steps-to-resolve-connectivity-issues/"><u>Troubleshooting Your Corsair Virtuoso Mic: Steps to Resolve Connectivity Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voice-chat-malfunction-solved-steps-to-reconnect-and-communicate-effectively-in-call-of-duty-modern-warfare/"><u>Voice Chat Malfunction Solved: Steps to Reconnect and Communicate Effectively in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-enhancement-feature-disablement-tutorial/"><u>Windows 11 Audio Enhancement Feature Disablement Tutorial</u></a></li>
 </ul></div>
 

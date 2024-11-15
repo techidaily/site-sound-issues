@@ -1,7 +1,7 @@
 ---
 title: AirPods Not Working? Here's How to Get Your Windows 10 Mic Up & Running Again!
-date: 2024-08-31T23:55:21.849Z
-updated: 2024-09-01T23:55:21.849Z
+date: 2024-11-08T17:38:36.399Z
+updated: 2024-11-15T17:32:16.021Z
 tags:
   - win11
   - win10
@@ -30,22 +30,41 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 3. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Allow access to your headset microphone (for Windows 10 users)
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
 
 1. Press the **Windows logo key** + **I** together. Then click **Privacy** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-7-1.jpg)
 2. Click **Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the **Change** button, then make sure the**Microphone for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, this method can fix your microphone issue. But if not, you can try the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Check your microphone device settings
 
  Your Corsair HS60 mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. Check these settings:
@@ -56,25 +75,27 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 3. Select **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-10.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Right-click it again and select Set as Default Device.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Right-click **Headset Microphone** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 8. Click the **Levels** tab, then drag the volume slider towards the _largest value_ .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 9. Click **OK** , then click **OK** .
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
@@ -98,8 +119,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Troubleshoot hardware issues
 
  If your headset microphone is still not working, it’s likely there are hardware issues with your computer or your headset. In this case, there are a few things you need to do.
@@ -122,8 +147,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +154,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ngage-audiences-best-hashtags-for-going-viral-on-yt-for-2024/"><u>[New] Engage Audiences Best Hashtags for Going Viral on YT for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-enhancing-video-appeal-20-premium-thumbnail-fonts/"><u>[Updated] Enhancing Video Appeal 20 Premium Thumbnail Fonts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-power-of-smooth-playback-asus-latest-rog-strix-xg27-wcs-gaming-monitor-a-game-changing-27-va-panel-with-exceptional-180hz-refresh-rate/"><u>Discover the Power of Smooth Playback: Asus' Latest ROG Strix XG27 WCS Gaming Monitor, a Game-Changing 27 VA Panel with Exceptional 180Hz Refresh Rate</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-your-customer-experience-by-integrating-chatgpt-with-whatsapp/"><u>Empower Your Customer Experience by Integrating ChatGPT with WhatsApp</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-quick-fixes-to-get-your-oculus-rift-s-microphone-working-again-2024-tips-and-tricks/"><u>Five Quick Fixes to Get Your Oculus Rift S Microphone Working Again - 2024 Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-your-steelseries-arctis-1-microphone-wont-work/"><u>Fixing the Issue: Why Your SteelSeries Arctis 1 Microphone Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-discord-sound-echo-issues-on-a-pc-updated-tips-for-202-exercise/"><u>How to Resolve Discord Sound Echo Issues on a PC - Updated Tips for 202 [Exercise]</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubing-upstarts-the-ideal-gadgets-list/"><u>In 2024, YouTubing Upstarts The Ideal Gadgets List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-issues-for-your-logitech-g633-headset-mic-a-step-by-nstep-guide/"><u>Resolving Connectivity Issues for Your Logitech G633 Headset Mic: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-headphone-functionality-on-windows-7-systems-a-step-by-step-solution/"><u>Reviving Headphone Functionality on Windows 7 Systems: A Step-by-Step Solution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft/"><u>The Art of Intense Focus 5 Techniques for Zooming in Minecraft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-popular-images-journey-to-meme-status-for-2024/"><u>The Most Popular Images' Journey to Meme Status for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-chatbots-exploring-their-rise-in-popularity/"><u>Understanding AI Chatbots: Exploring Their Rise in Popularity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-the-winxdvd-end-user-license-terms-by-digiarty-your-essential-legal-resource/"><u>Understanding the WinXDVD End-User License Terms by Digiarty - Your Essential Legal Resource</u></a></li>
+</ul></div>
 

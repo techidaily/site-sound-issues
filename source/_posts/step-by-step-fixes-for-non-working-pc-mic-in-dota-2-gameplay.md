@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes for Non-Working PC Mic in Dota 2 Gameplay
-date: 2024-08-27T21:19:04.354Z
-updated: 2024-08-28T21:19:04.354Z
+date: 2024-11-09T16:35:03.901Z
+updated: 2024-11-15T16:04:56.734Z
 tags:
   - win11
   - win10
@@ -49,38 +49,56 @@ Follow the steps here:
 1. At the bottom right corner of your desktop, right-click the**speaker icon** and select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. Then right-click**other unnecessary audio devices** and**disable** them one by one.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-3-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2 – Set your main microphone as the default device
 
 1. On the**Recording** tab, select your primary microphone and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-4-2.jpg)
 2. Right-click your microphone and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-5-1.jpg)
 3. Go to the**Levels** tab. Then,**drag the microphone volume slider to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-6-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 #### Step 3 – Change the sample rate
 
 1. On the Microphone Properties window, select the**Advanced** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-1.jpg)
 2. Select**2 channel, 16 bit, 48000 Hz (DVD Quality)** from the drop-down menu under Default Format. Then, click**OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve configured the microphone properly in Windows and still encounter the same problem, the next thing is to look at the in-game mic settings.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3 – Check the in-game settings
 
  For your headset mic to work in Squad, you also need to set it as the right input device in Steam. Here’s how:
@@ -96,8 +114,12 @@ Follow the steps here:
  Restart Squad to see if your microphone transmits your voice as normal. If not, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4 – Update your audio driver
 
  Squad mic not working may indicate your audio driver is faulty or outdated. To avoid the compatibility issues with Squad and keep your microphone working with the best performance, you should update your audio driver on a regular basis.
@@ -118,20 +140,21 @@ Follow the steps here:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-driver-update-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the driver, restart your computer and see if the Squad mic-not-working issue is still there. If yes, try the last fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -142,14 +165,16 @@ Follow the steps here:
 2. Right-click**Squad** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**Local Files** and then click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-2.jpg)
+
  Does your mic-not-working issue gets fixed now? If not, you should consider**uninstalling Squad and restarting from scratch** . If there was something wrong with your previous installation, you need to perform a fresh reinstallation to get your microphone to work again in Squad.
 
 ---
@@ -165,8 +190,6 @@ Follow the steps here:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +197,24 @@ Follow the steps here:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-art-of-profit-from-20-second-videography-a-guide-for-creators/"><u>[New] 2024 Approved The Art of Profit From 20-Second Videography A Guide for Creators</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-steps-for-controlling-video-comment-settings-in-youtube/"><u>[New] In 2024, Steps for Controlling Video Comment Settings in YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-reducing-sound-interference-in-video-meetings/"><u>[Updated] 2024 Approved Reducing Sound Interference in Video Meetings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conquer-youtubes-realms-a-step-by-step-video-uploading-guidebook/"><u>[Updated] In 2024, Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-basics-for-windows-users-how-to-connect-and-configure-unfamiliar-speakers/"><u>Audio Basics for Windows Users: How to Connect and Configure Unfamiliar Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-making-your-blue-yeti-microphone-function-correctly/"><u>Common Problems and Fixes: Making Your Blue Yeti Microphone Function Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-how-to-switch-off-the-built-in-audio-upgrade-on-windows-10-devices/"><u>Comprehensive Guide: How to Switch Off the Built-In Audio Upgrade on Windows 10 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-disconnected-nvidia-display-port-issues/"><u>Diagnosing and Repairing Disconnected Nvidia Display Port Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discounted-asus-vivobook-pro-n14-walmart-offers-under-450-for-premium-oled-laptop-zdnet/"><u>Discounted ASUS VivoBook Pro N14: Walmart Offers Under $450 for Premium OLED Laptop - ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-remedies-to-get-the-steelseries-arctis-1-headset-mic-up-and-running-again/"><u>Effective Remedies to Get the SteelSeries Arctis 1 Headset Mic Up and Running Again</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enchanting-photographs-with-music-infused-videography-for-2024/"><u>Enchanting Photographs with Music-Infused Videography for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-11-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 11 with 3 Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016191088-no-more-quiet-battles-wows-sound-problem-solved/"><u>No More Quiet Battles: WoW's Sound Problem Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015768663-realtek-microphone-malfunction-here-are-the-solutions/"><u>Realtek Microphone Malfunction? Here Are The Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015602571-skype-volume-troubles-heres-how-to-restore-your-sound/"><u>Skype Volume Troubles? Here's How to Restore Your Sound!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/traveling-through-history-students-top-youtubes-to-watch/"><u>Time Traveling Through History Students' Top YouTubes To Watch</u></a></li>
+</ul></div>
 

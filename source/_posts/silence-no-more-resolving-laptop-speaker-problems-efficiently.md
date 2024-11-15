@@ -1,7 +1,7 @@
 ---
 title: "Silence No More: Resolving Laptop Speaker Problems Efficiently"
-date: 2024-10-29T02:43:03.096Z
-updated: 2024-11-05T05:36:33.971Z
+date: 2024-11-09T16:31:46.359Z
+updated: 2024-11-15T18:00:27.154Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Set your speakers as default device
 
  1) Right-click on the**s** **ound** icon on your taskbar. Then click**Playback devices** .
@@ -53,15 +46,22 @@ When you try to play music or video on your laptop, but just find**no sound on t
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -70,6 +70,13 @@ Go with the easy steps to show it.
  1) On the Sound window, right-click on the blank area of the playback device list. Then choose**Show disabled devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
 
@@ -84,10 +91,10 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
@@ -111,13 +118,6 @@ Go with the easy steps to show it.
 It has two versions. Have a try on its **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , it will offer the latest drivers for you to install. But if you upgrade to **[PRO Version](https://tools.techidaily.com/drivereasy/download/)**  , you can get all your drivers including the sound card driver up-to-date with just one click — **Update All** (you get full tech support and 30-day money back guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -144,15 +144,14 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-essential-tips-for-basic-color-correction/"><u>[Updated] 2024 Approved Essential Tips for Basic Color Correction</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-alteration-a-guide-to-video-color-correction-11-parts/"><u>[Updated] The Art of Alteration A Guide to Video Color Correction (11 Parts)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-boosting-zoom-image-resolution-expert-advice/"><u>2024 Approved Boosting Zoom Image Resolution Expert Advice</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-obs-vs-wirecast-which-should-you-trust-for-live/"><u>2024 Approved OBS Vs. Wirecast - Which Should You Trust for Live?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-strategies-for-changing-song-pace-on-spotify-app/"><u>2024 Approved Top Strategies for Changing Song Pace on Spotify App</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-problems-get-your-game-on-restore-sounds-for-anthem-in-windows-11-now/"><u>Audio Problems? Get Your Game On - Restore Sounds for Anthem in Windows 11 Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-realtek-dac-audio-issues-restore-your-devices-sound/"><u>Fixing Realtek DAC Audio Issues: Restore Your Device's Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mpow-microphone-troubles-in-windows-10-diagnosis-and-solutions/"><u>MPOW Microphone Troubles in Windows 10: Diagnosis and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-connectivity-sony-wh-1000-series-microphone-fix-for-pc-users/"><u>Solving Audio Connectivity: Sony WH-1000 Series Microphone Fix for PC Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/xboxs-response-to-breaches-the-strike-mechanism/"><u>Xbox's Response to Breaches: The Strike Mechanism</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software/"><u>[New] In 2024, Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-journey-to-origin-how-to-utilize-reverse-image-functionality-on-instagram-for-2024/"><u>[New] The Journey to Origin How to Utilize Reverse Image Functionality on Instagram for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-head-mounted-display-creators/"><u>Elite Head-Mounted Display Creators</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-soundbank-freeness-central/"><u>FB Soundbank Freeness Central</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-zoom-audio-back-a-step-by-step-solution-for-windows-11-and-10-users/"><u>Get Your Zoom Audio Back: A Step-by-Step Solution for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-cs-go-how-to-fix-mic-not-working-error/"><u>Getting the Most Out of CS: GO - How to Fix Mic Not Working Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-windows-10-speakers-back-on-track-expert-solutions/"><u>Getting Windows 10 Speakers Back On Track – Expert Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hearthstone-quieted-down-heres-how-to-turn-up-the-volume-again/"><u>Hearthstone Quieted Down? Here's How to Turn Up the Volume Again!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nubia-red-magic-9-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nubia Red Magic 9 Pro FRP Bypass</u></a></li>
 </ul></div>
 

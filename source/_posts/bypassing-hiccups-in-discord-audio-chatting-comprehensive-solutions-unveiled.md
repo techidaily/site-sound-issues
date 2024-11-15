@@ -1,7 +1,7 @@
 ---
 title: Bypassing Hiccups in Discord Audio Chatting - Comprehensive Solutions Unveiled
-date: 2024-11-03T23:43:53.088Z
-updated: 2024-11-05T06:00:08.302Z
+date: 2024-11-14T17:44:20.657Z
+updated: 2024-11-15T16:53:22.755Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Update audio drivers
 
  A properly working audio driver can make sure your device is working normally. If your Discord picks up the game audio, it might be caused by a malfunctioning audio driver. To make sure your audio works fine, you should update your audio driver:
@@ -53,15 +60,22 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -78,25 +92,11 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -105,10 +105,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
@@ -150,24 +150,20 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-watch-this-top-music-reaction-videos-of-2023/"><u>[New] Watch This! Top Music Reaction Videos of 2023</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-building-a-brand-on-youtube-navigating-through-top-video-marketing-methods/"><u>[Updated] 2024 Approved Building a Brand on YouTube Navigating Through Top Video Marketing Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-box-customization-havens-on-the-internet/"><u>[Updated] Best Box-Customization Havens on the Internet</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-1111-dvd-usb/"><u>无成本生成Windows 11/11 快照DVD或 USB设备——方法介绍</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/discover-the-best-phone-apps-to-improve-vocality-for-2024/"><u>Discover the Best Phone Apps to Improve Vocality for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functional-mic-and-voice-chat-issues-in-sea-of-thieves-pc/"><u>Effective Fixes for Non-Functional Mic & Voice Chat Issues in Sea of Thieves (PC)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-audio-magic-the-premier-list-of-dolby-atmos-movies-to-watch-from-the-comfort-of-your-couch/"><u>Experience Audio Magic: The Premier List of Dolby Atmos Movies to Watch From the Comfort of Your Couch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-window-1011-how-to-eliminate-puzzling-bluetooth-sound-glitches/"><u>Fixing Window 10/11: How to Eliminate Puzzling Bluetooth Sound Glitches</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-timestamps-into-your-images/"><u>In 2024, Integrating Timestamps Into Your Images</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-percussive-purge-mastering-the-art-of-drum-free-music-online/"><u>New 2024 Approved Percussive Purge Mastering the Art of Drum-Free Music Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-realtek-sound-card-silence-tips-and-techniques/"><u>Overcoming Realtek Sound Card Silence: Tips and Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ering-the-future-of-online-filmmaking-with-sony-vegas-and-youtube-for-2024/"><u>Pioneering the Future of Online Filmmaking with Sony Vegas and YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-grammarly-a-dead-service-on-your-desktop/"><u>Reactivating Grammarly, a Dead Service on Your Desktop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reinstating-sound-on-hdmi-tips-for-computer-to-monitortv-connections/"><u>Reinstating Sound on HDMI: Tips for Computer-to-Monitor/TV Connections</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-fortnite-microphone-issues-quick-fixes-and-troubleshooting-steps/"><u>Solve Fortnite Microphone Issues: Quick Fixes & Troubleshooting Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-call-of-duty-warzone-audio-issues-ultimate-guide/"><u>Solve Your Call of Duty: Warzone Audio Issues - Ultimate Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-uneven-speaking-tracks-on-pcs-using-windows-107/"><u>Step-by-Step Guide: Resolving Uneven Speaking Tracks on PCs Using Windows 10/7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-strategies-for-restoring-sound-from-inactive-home-theater-system-components/"><u>Step-by-Step Strategies for Restoring Sound From Inactive Home Theater System Components</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-the-ultimate-guide-to-solving-cyberpunk-2077s-sound-crackles/"><u>Troubleshooting Audio Issues: The Ultimate Guide to Solving Cyberpunk 2077'S Sound Crackles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-best-practices-for-designing-compelling-youtube-video-thumbnails-for-2024/"><u>[New] Best Practices for Designing Compelling YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-ppt-recording-essential-tips/"><u>[New] In 2024, Mastering PPT Recording Essential Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-social-presence-with-customized-instagram-voices/"><u>Elevate Your Social Presence with Customized Instagram Voices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-nvidia-card-unconnected-errors-a-step-by-step-guide/"><u>Fixing 'Nvidia Card Unconnected' Errors – A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-multiple-unresponsive-audio-services-solutions-inside/"><u>Fixing Multiple Unresponsive Audio Services - Solutions Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-kraken-microphone-issue-troubleshooting-steps/"><u>Fixing Your Razer Kraken Microphone Issue: Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-logitech-g230-mic-solved/"><u>How to Repair Your Logitech G230 Mic - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-to-your-razer-manowar-mic-expert-advice/"><u>How to Restore Functionality to Your Razer ManO’War Mic: Expert Advice</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instantaneous-instagram-video-experience/"><u>Instantaneous Instagram Video Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-quick-mic-evaluation-tips-and-tricks-for-speedy-soundchecks/"><u>Master the Art of Quick Mic Evaluation - Tips & Tricks for Speedy Soundchecks</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728507485616-microsoft-outlook/"><u>Microsoft Outlook メールの転送とバックアップ手順ガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-during-warzone-matches-here-are-top-fixes-for-pc-gamers-202-4/"><u>No Audio During Warzone Matches? Here Are Top Fixes for PC Gamers (202 4)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/ride-the-viral-wave-mixing-tiktok-flair-into-instagram-reels/"><u>Ride the Viral Wave Mixing TikTok Flair Into Instagram Reels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029439020-windows-10mp3/"><u>Windows 10用MP3圧縮アプリ最新選び - スムーズな音楽管理のヒント</u></a></li>
 </ul></div>
 

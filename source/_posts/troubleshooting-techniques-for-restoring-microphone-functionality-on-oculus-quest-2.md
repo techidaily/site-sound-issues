@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques for Restoring Microphone Functionality on Oculus Quest 2
-date: 2024-10-29T17:32:23.257Z
-updated: 2024-11-04T19:08:33.751Z
+date: 2024-11-13T16:23:15.199Z
+updated: 2024-11-15T16:11:51.720Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Unplug and replug your headset](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Allow access to your microphone
 
  To use Oculus Quest 2 normally on your PC, you should allow the apps to access its microphone in the privacy settings. Here are the steps:
@@ -47,33 +40,26 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 2. Click the**Change** button and**toggle on** Microphone access for this device.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-2-2.jpg)
 3. Scroll to Allow apps to access your microphone and**turn on** the button.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-3.jpg)
 4. Scroll down to**turn on** desktop apps’ access to your microphone.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4-2.jpg)
 
  If you’ve enabled all the accesses but the microphone still refuses to work, try the next fix.
 
@@ -94,30 +80,50 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 5. Click your mic again and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-8.jpg)
 6. Go to the**Levels** tab and**set the mic volume to the max** .  
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-9.jpg)
 7. Select the**Advanced** tab and untick**Allow applications to take exclusive control of this device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-6.jpg)
 8. Click**OK** to apply the changes.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that everything on the PC sound settings is good to go, test how your mic works. If the mic-not-working issue only occurs in specific programs like SteamVR, make sure **Oculus Quest 2 is also chosen as the input device in the app settings** .
 
 If this trick doesn’t help, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your device drivers
 
@@ -139,6 +145,13 @@ If this trick doesn’t help, take a look at more fixes below.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the driver doesn’t work, continue to Fix 4 below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Unplug and replug your headset
 
@@ -178,18 +191,17 @@ If updating the driver doesn’t work, continue to Fix 4 below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-craft-your-story-with-vscos-editing-power-tools/"><u>[New] 2024 Approved Craft Your Story with VSCO’s Editing Power Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-turning-dull-vids-into-engaging-experienents-with-music/"><u>[New] 2024 Approved Turning Dull Vids Into Engaging Experienents With Music</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-daily-vlogging-ideas-what-to-talk-about-while-vlogging-in-2024/"><u>[New] Daily Vlogging Ideas What to Talk About While Vlogging, In 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-grading-made-simple-3-ways-to-amplify-your-pics/"><u>[New] Grading Made Simple 3 Ways to Amplify Your Pics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-rippleringers-finding-the-happiest-online-rhythms/"><u>[New] RippleRingers Finding the Happiest Online Rhythms</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-the-secrets-of-instagrams-trending-reels-for-2024/"><u>[New] Unlocking the Secrets of Instagram's Trending Reels for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-conversion-of-video-content-to-dynamic-gif-formats/"><u>[Updated] Seamless Conversion of Video Content to Dynamic GIF Formats</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-phasmophobia-voice-chat-a-step-by-step-guide-to-getting-back-on-track/"><u>Fix Your Phasmophobia Voice Chat: A Step-by-Step Guide to Getting Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-chat-issues-for-a-seamless-phasmophobia-experience/"><u>How to Resolve Voice Chat Issues for a Seamless Phasmophobia Experience</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/recon-70-mic-repair-guide-fixing-non-functional-headset-microphones/"><u>Recon 70 Mic Repair Guide: Fixing Non-Functional Headset Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016102236-say-goodbye-to-headphone-noise-easy-solutions-inside/"><u>Say Goodbye to Headphone Noise – Easy Solutions Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-a-non-responsive-microphone-in-sony-wh-1000xm3-headphones-for-windows/"><u>Troubleshooting Tips: Fixing a Non-Responsive Microphone in Sony WH-1000XM3 Headphones for Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-recording-multiplesecondary-monitors/"><u>[Updated] 2024 Approved Recording Multiple/Secondary Monitors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-insta-influence-made-simple/"><u>[Updated] Insta-Influence Made Simple</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-overcoming-the-hurdle-of-non-uploading-facebook-story-videos/"><u>[Updated] Overcoming the Hurdle of Non-Uploading Facebook Story Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-moto-g14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Moto G14</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-your-course-in-the-realm-of-youtube-shorts-for-2024/"><u>Charting Your Course in the Realm of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effortless-migration-of-cloned-os-images-and-recovery-sections-onto-a-samsung-nvme-ssd/"><u>Effortless Migration of Cloned OS Images and Recovery Sections Onto a Samsung NVMe SSD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-jabra-headset-comprehensive-troubleshooting-steps/"><u>Fixing Your Jabra Headset: Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-apple-airpods-working-perfectly-again-expert-tips-to-resolve-microphone-malfunctions-on-windows-10-systems/"><u>Getting Your Apple AirPods Working Perfectly Again: Expert Tips to Resolve Microphone Malfunctions on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-dead-mic-in-your-turtle-beach-elite-atlas-headset/"><u>How to Fix a Dead Mic in Your Turtle Beach Elite Atlas Headset?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-and-distortions-in-windows-10-and-11-step-by-step-guide/"><u>How to Fix Audio Glitches & Distortions in Windows 10 and 11 (Step-by-Step Guide)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/master-igtv-edits-top-10-tools-ranked-for-2024/"><u>Master IGTV Edits Top 10 Tools Ranked for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-the-microsoftdirectxdirectinputdll-failure-messages/"><u>Step-by-Step Solutions for the 'Microsoft.DirectX.DirectInput.DLL' Failure Messages</u></a></li>
 </ul></div>
 

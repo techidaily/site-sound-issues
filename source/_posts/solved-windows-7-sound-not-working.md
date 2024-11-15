@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Windows 7 Sound Not Working"
-date: 2024-10-24T17:55:21.673Z
-updated: 2024-10-30T16:10:58.902Z
+date: 2024-11-13T17:48:40.635Z
+updated: 2024-11-15T18:03:18.083Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 2. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update or reinstall Windows Media Player](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you have not muted the sound
 
  Sometimes you hear no sound coming through Windows Media Player because you’ve muted the sound unknowingly.
@@ -48,6 +41,19 @@ To make sure the volume is not muted but audible:
  1) In**Windows Media Player** , move the slider of the volume control bar to at least half way up.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-151.png)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the lower-right of your computer screen, click **the sound icon** and move **the volume slider** all the way to at least halfway up.
 
@@ -59,10 +65,10 @@ To make sure the volume is not muted but audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -84,10 +90,16 @@ To make sure the volume is not muted but audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-154.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -99,10 +111,10 @@ To make sure the volume is not muted but audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update or reinstall Windows Media Player
@@ -131,24 +143,22 @@ To make sure the volume is not muted but audible:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-simplifying-speech-integration-into-instagram-content/"><u>[New] In 2024, Simplifying Speech Integration Into Instagram Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-synergizing-social-networks-share-your-igtv-content/"><u>[New] In 2024, Synergizing Social Networks Share Your IGTV Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-selection-for-top-tier-hdr-cameras/"><u>[New] Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-selecting-peak-frame-rate-for-exceptional-slow-motion-video/"><u>[Updated] Selecting Peak Frame Rate for Exceptional Slow Motion Video</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-skyward-start-best-easy-to-operate-drones/"><u>2024 Approved Skyward Start Best Easy-to-Operate Drones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-specs-and-pricing-apples-latest-audio-ready-wearable-device-rumors-and-release-dates-revealed/"><u>Exploring the Specs and Pricing: Apple's Latest Audio-Ready Wearable Device Rumors & Release Dates Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016032241-fix-your-crackling-headphones-instantly-simple-troubleshooting-guide/"><u>Fix Your Crackling Headphones Instantly: Simple Troubleshooting Guide!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-make-unrecognized-headphones-appear-as-a-sound-device-on-windows-10/"><u>How To Make Unrecognized Headphones Appear as a Sound Device on Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-smart-7-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix Smart 7 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximizing-audio-performance-enhancing-speaker-volume-on-windows-11/"><u>Maximizing Audio Performance: Enhancing Speaker Volume on Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-face-blur-mastery-a-step-by-step-guide-to-free-video-editing-tools-for-2024/"><u>New Face Blur Mastery A Step-by-Step Guide to Free Video Editing Tools for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/professional-tactics-for-youtube-video-logging/"><u>Professional Tactics for YouTube Video Logging</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977363016-quick-setup-get-your-brother-mfc-7360n-ready-on-windows-systems-with-latest-driver-updates/"><u>Quick Setup: Get Your Brother MFC-7360N Ready on Windows Systems with Latest Driver Updates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/repair-steps-for-logitech-g935-headset-microphone-not-detected-by-windows/"><u>Repair Steps for Logitech G935 Headset Microphone Not Detected by Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-razer-man-owar-headset-microphone-problems-effectively/"><u>Resolving Razer Man O'War Headset Microphone Problems Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-interruptions-in-windows-11-a-comprehensive-guide/"><u>Resolving Sound Interruptions in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-is-my-dota-2-microphone-not-capturing-audio/"><u>Solved: Why Is My Dota 2 Microphone Not Capturing Audio?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-solving-dell-speaker-problems-in-windows-7/"><u>Step-by-Step Guide: Solving Dell Speaker Problems in Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-stuttering-sounds-on-windows-systems-windows-107-effective-fixes-inside/"><u>Troubleshooting Stuttering Sounds on Windows Systems (Windows 10/7) – Effective Fixes Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-fix-rainbow-six-siege-voice-chat-not-working/"><u>[2024 Fix] Rainbow Six Siege Voice Chat Not Working</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-leveraging-social-media-for-increased-video-engagement-on-youtube/"><u>[Updated] Leveraging Social Media for Increased Video Engagement on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175692064-affordable-valkyrie-al125-processor-heatsink-with-brilliant-rgb-led-lights-and-a-protective-anti-scratch-display-all-under-20/"><u>Affordable Valkyrie AL125 Processor Heatsink with Brilliant RGB LED Lights and a Protective Anti-Scratch Display – All Under $20!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crossover-solutions-for-non-working-corsair-hs70-microphone-issues/"><u>Crossover Solutions for Non-Working Corsair HS70 Microphone Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-microsoft-sculpt-keyboard-driver-software-update-tutorial/"><u>Easy Installation: Microsoft Sculpt Keyboard Driver Software Update Tutorial</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-to-creating-content-top-10-inclusive-video-ideas-for-anyone-for-2024/"><u>Guide to Creating Content Top 10 Inclusive Video Ideas for Anyone for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hear-the-click-restore-the-beep-overcoming-no-sound-troubles-with-your-lenovo-laptop/"><u>Hear the Click, Restore the Beep: Overcoming No-Sound Troubles with Your Lenovo Laptop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-gt-10-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Infinix GT 10 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-virtualdub-weighing-the-pros-and-cons-against-top-video-editing-alternatives/"><u>In 2024, Virtualdub Weighing the Pros and Cons Against Top Video Editing Alternatives</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-and-economical-unveiling-the-benefits-of-the-philips-hf3523520-alarm-clock/"><u>Innovative and Economical: Unveiling the Benefits of the Philips HF352지3520 Alarm Clock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/iphone-volume-not-working-fixes-for-muffled-silent-or-crackling-sounds/"><u>IPhone Volume Not Working? Fixes for Muffled, Silent, or Crackling Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-restore-your-steam-voice-call-functionality/"><u>Overcoming Common Problems: Restore Your Steam Voice Call Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-in-counter-strike-global-offensive/"><u>Overcoming Microphone Challenges in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-modems-tips-for-reactivating-windows-11s-speakers/"><u>Resolving Silent Modems: Tips for Reactivating Windows 11'S Speakers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/selecting-sacred-songs-for-smartphone-users-for-2024/"><u>Selecting Sacred Songs for Smartphone Users for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-streamlining-your-interactions-with-chatgpt-using-folder-techniques/"><u>Step-by-Step Guide to Streamlining Your Interactions with ChatGPT Using Folder Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016765439-troubleshooting-non-functional-onikuma-headset-mics-solutions-inside/"><u>Troubleshooting Non-Functional Onikuma Headset Mics - Solutions Inside!</u></a></li>
 </ul></div>
 

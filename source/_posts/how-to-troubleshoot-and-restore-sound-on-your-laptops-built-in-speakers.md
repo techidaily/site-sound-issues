@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Restore Sound on Your Laptop's Built-In Speakers
-date: 2024-11-04T11:29:30.757Z
-updated: 2024-11-04T18:57:17.674Z
+date: 2024-11-09T17:09:28.456Z
+updated: 2024-11-15T17:59:09.890Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -46,47 +53,34 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -109,10 +103,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
@@ -126,15 +120,15 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -162,19 +156,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quick-tips-for-posting-videos-on-instagram/"><u>[New] In 2024, Quick Tips for Posting Videos on Instagram</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-professional-filmmaking-made-easy-with-right-lenses/"><u>[New] Professional Filmmaking Made Easy with Right Lenses</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-360-video-landscape-key-dos-and-donts-9/"><u>[Updated] Navigating the 360 Video Landscape Key Do's and Don'ts (9)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-does-active-presenter-8-outperform-its-rivals/"><u>2024 Approved Does Active Presenter 8 Outperform Its Rivals?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-fortnite-voice-chat-issues-instantly-simple-solutions/"><u>Fix Your Fortnite Voice Chat Issues Instantly: Simple Solutions!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/generating-attention-grabbing-video-teasers/"><u>Generating Attention-Grabbing Video Teasers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-discord-voice-call-problems-a-step-by-step-solution/"><u>How to Resolve 'Discord Voice Call Problems': A Step-by-Step Solution</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-ownership-deciphering-in-instasongs/"><u>In 2024, Ownership Deciphering in InstaSongs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015473941-lost-your-astro-a50s-audio-heres-how-to-restore-it-fast-and-easy/"><u>Lost Your Astro A50's Audio? Here's How to Restore It Fast and Easy!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-overcoming-bluetooth-connectivity-challenges-in-windows-11/"><u>Mastering the Fix: Overcoming Bluetooth Connectivity Challenges in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-repairing-your-non-functional-headset-mic/"><u>Step-by-Step Solution: Repairing Your Non-Functional Headset Mic</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175716542-under-45-bucks-keep-your-pc-cool-with-the-deepcool-as500-plus-at-amazon/"><u>Under 45 Bucks? Keep Your PC Cool with the DeepCool AS500 Plus at Amazon!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-prevent-and-mend-live-stream-glitches-fb/"><u>[New] 2024 Approved How to Prevent & Mend Live Stream Glitches (FB)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-methods-for-restoring-full-display-in-youtube-videos/"><u>[New] 2024 Approved Methods for Restoring Full Display in YouTube Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-art-of-pinpointing-perfect-pexels-photographs/"><u>[New] 2024 Approved The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>[Updated] First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/professional-mac-gif-recording-top-10-picks/"><u>Professional Mac GIF Recording Top 10 Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-with-connectivity-to-steam-networks/"><u>Resolved: Issues with Connectivity to Steam Networks</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-corsair-headset/"><u>Troubleshooting Guide: Fixing a Nonfunctional Corsair Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-functionality-of-lucidsound-ls30/"><u>Troubleshooting Guide: How to Restore Functionality of LucidSound LS30</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-why-your-steelseries-headsets-mic-isnt-working-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Your SteelSeries Headset's Mic Isn't Working and How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functioning-voice-chat-in-valorant/"><u>Troubleshooting Steps for a Non-Functioning Voice Chat in VALORANT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-communication-in-call-of-duty-vanguard/"><u>Troubleshooting Voice Communication in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-window-117-speaker-glitches-clear-the-crackling-audio-now/"><u>Ultimate Fix for Window 11/7 Speaker Glitches: Clear the Crackling Audio Now</u></a></li>
 </ul></div>
 

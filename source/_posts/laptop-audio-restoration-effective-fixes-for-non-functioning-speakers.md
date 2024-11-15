@@ -1,7 +1,7 @@
 ---
 title: "Laptop Audio Restoration: Effective Fixes for Non-Functioning Speakers"
-date: 2024-10-27T17:09:01.234Z
-updated: 2024-10-30T17:29:46.565Z
+date: 2024-11-14T17:32:08.139Z
+updated: 2024-11-15T17:29:30.562Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  3) After those testing, see if the sound comes from your speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update your speakers related drivers
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -79,16 +86,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdf8f58307f.png)**  and **R**  (at the same time) to invoke the Run command.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac1fec110a5a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click on your sound card to choose**Disable device** .
 
@@ -101,22 +108,15 @@ Or click **Update All**  to automatically download and install the correct versi
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
 
@@ -137,18 +137,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-diving-into-video-quality-dslr-vs-mirrorless-cameras/"><u>[New] In 2024, Diving Into Video Quality DSLR vs Mirrorless Cameras</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-hidden-gems-10-unique-facebook-meme-pages/"><u>[Updated] 2024 Approved Hidden Gems 10 Unique Facebook Meme Pages</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras/"><u>[Updated] In 2024, From Beginner to Pro Essential Steps in Recording with Logitech Cameras</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-delay-expert-tips-to-fix-your-audio-glitches/"><u>Beat the Delay: Expert Tips to Fix Your Audio Glitches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/crafting-perfect-playlists-import-music-with-inshot-for-2024/"><u>Crafting Perfect Playlists Import Music with InShot for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-fixing-realtek-hd-audio-unplugged-notifications-on-pcs/"><u>Expert Guide: Fixing Realtek HD Audio Unplugged Notifications on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-disconnections-in-external-display-setup-on-windows/"><u>Fixing Disconnections in External Display Setup on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015939838-how-to-get-your-steelseries-arctis-9s-mic-working-again-proven-fixes/"><u>How to Get Your SteelSeries Arctis 9'S Mic Working Again - Proven Fixes!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-rec-room-microphone-connected-to-a-computer-comprehensive-tutorial/"><u>How to Repair Your Rec Room Microphone Connected to a Computer: Comprehensive Tutorial</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-show-audio-waveform-and-add-waveform-animation-in-premiere-protutor/"><u>In 2024, Show Audio Waveform and Add Waveform Animation in Premiere ProTutor</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-silencing-speaker-noise-on-your-pc-top-tips-for-windows-10-and-7/"><u>Mastering the Art of Silencing Speaker Noise on Your PC: Top Tips for Windows 10 and 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-sound-dilemma-headphones-attached-but-sound-streams-via-laptops-speakers/"><u>Step-by-Step Solution for Sound Dilemma: Headphones Attached but Sound Streams via Laptop's Speakers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-loop-your-videos-with-ease-10-best-free-online-looping-tools/"><u>Updated In 2024, Loop Your Videos with Ease 10 Best Free Online Looping Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-live-stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>[Updated] Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-methods-to-get-your-voicemod-running-smoothly-again-a-users-guide/"><u>Effective Methods to Get Your Voicemod Running Smoothly Again: A User's Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experiencing-trouble-with-steams-voice-chat-heres-how-to-fix-it/"><u>Experiencing Trouble With Steam's Voice Chat? Here's How to Fix It</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-restore-windows-photo-viewer-in-windows-10-2-methods/"><u>How to Restore Windows Photo Viewer in Windows 10 (2 Methods)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 13 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lut-techniques-for-enhanced-ae-visuals/"><u>LUT Techniques for Enhanced AE Visuals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-cyberpunk/"><u>Solve Your Cyberpunk</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-boosting-sound-quality-and-volume-on-windows-11-devices/"><u>Step-by-Step Tutorial: Boosting Sound Quality and Volume on Windows 11 Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-free-recorders-enhancing-virtual-meetings/"><u>Top 10 Free Recorders Enhancing Virtual Meetings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-potential-with-the-power-of-its-api/"><u>Unlocking ChatGPT Potential with the Power of Its API</u></a></li>
 </ul></div>
 

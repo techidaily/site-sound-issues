@@ -1,7 +1,7 @@
 ---
 title: "2024 Troubleshooting Steps: Solve Your PC's Warzone Sound Problem Today"
-date: 2024-08-31T23:55:10.998Z
-updated: 2024-09-01T23:55:10.998Z
+date: 2024-11-08T16:30:27.648Z
+updated: 2024-11-15T16:01:12.736Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
@@ -51,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
@@ -64,13 +85,17 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Method 2: Update your audio drivers
 
  The mic on your Razer Kraken headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -85,16 +110,10 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
  Once you’ve updated the driver for your Razer Kraken headset, restart your computer. Then log in again and see if the microphone is working.
@@ -107,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +133,20 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-screen-recorder-pro-for-windows-11/"><u>[New] 2024 Approved Screen Recorder Pro for Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unveiling-the-hidden-fixes-for-fb-video-upload-woes/"><u>[New] 2024 Approved Unveiling the Hidden Fixes for Fb Video Upload Woes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecurely-transforming-youtube-videos-into-mp3-files-3-techniques/"><u>[New] Securely Transforming YouTube Videos Into MP3 Files - 3 Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-maximizing-earning-potential-with-strategic-facebook-video-ads/"><u>[Updated] 2024 Approved Maximizing Earning Potential with Strategic Facebook Video Ads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-swift-image-polishing-the-best-ios-tools-for-removing-obstructions/"><u>[Updated] In 2024, Swift Image Polishing The Best iOS Tools for Removing Obstructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-guide-when-your-corsair-virtuoso-wont-work/"><u>DIY Repair Guide: When Your Corsair Virtuoso Won't Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellent-10-drone-set-professional-filming-and-photography/"><u>Excellent 10-Drone Set Professional Filming & Photography</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-time-reversal-tactics-unique-youtube-video-experiences/"><u>In 2024, Time-Reversal Tactics Unique YouTube Video Experiences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015061984-jabra-audio-issues-heres-your-2024-go-to-troubleshooting-handbook/"><u>Jabra Audio Issues? Here's Your 2024 Go-To Troubleshooting Handbook!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-note-13-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi Note 13 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformation-gratuite-de-fichiers-pgm-en-format-jpeg-en-ligne-solution-facile-avec-movavi/"><u>Transformation Gratuite De Fichiers PGM en Format JPEG en Ligne : Solution Facile Avec Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-mac-computers-expert-guidance/"><u>Troubleshooting Silent Mac Computers – Expert Guidance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-bluetooth-issues-on-your-windows-11-pc/"><u>Troubleshooting: Fixing Bluetooth Issues on Your Windows 11 PC</u></a></li>
+</ul></div>
 

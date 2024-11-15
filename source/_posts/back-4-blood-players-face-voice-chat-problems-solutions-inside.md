@@ -1,7 +1,7 @@
 ---
 title: "'Back 4 Blood' Players Face Voice Chat Problems: Solutions Inside!"
-date: 2024-08-27T21:17:35.611Z
-updated: 2024-08-28T21:17:35.611Z
+date: 2024-11-14T16:59:35.686Z
+updated: 2024-11-15T16:26:17.601Z
 tags:
   - win11
   - win10
@@ -41,11 +41,15 @@ thumbnail: https://thmb.techidaily.com/4c97bc2af1492107b1b184f14fb8adf2794e80876
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/tun-on-allow-apps-to-access-your-microphone.jpg)
 4. Launch the game again to see if the voice chat works now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the in-game voice chat is still not working, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  The voice chat not working issue can be caused by a corrupted or outdated audio driver. To fix it, you’ll need to update your audio driver.
@@ -58,17 +62,29 @@ If the in-game voice chat is still not working, try the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-scan-audio.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your PC and launch Back 4 Blood to see if voice chat functions properly.
@@ -82,16 +98,34 @@ If the in-game voice chat is still not working, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to open the Run dialog box. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/mmsys.cpl_.jpg)
 2. Under the**Playback** tab, select the**speakers or headset** you want to use and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 3. Click the**Recording** tab, select the**microphone or headset** you want to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Launch Steam. At the bottom-right corner of the Steam client, click**FRIENDS & CHAT** .  
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-friends-chat.jpg)
 5. In the pop-up window, click**the gear icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/friends-chat-gear.jpg)
@@ -101,9 +135,6 @@ If the in-game voice chat is still not working, try the next fix.
 
 If the issue remains, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Connect your microphone directly to your controller
 
  Some console players have found that the voice chat may not work if you’ve your headset connected through a Mixamp. To ensure the voice chat works properly in Back 4 Blood, you might need to connect your microphone directly to your controller.
@@ -116,9 +147,6 @@ If the issue remains, check out the next fix.
 2. **Right-click** Back 4 Blood and select**Manage** \>**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/b4b-uninstall-game.jpg)
 3. After the process completes, reinstalling the game.
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Back 4 Blood voice chat not working issue should have been resolved after trying all the fixes mentioned above. But if not, you can contact the Back 4 Blood support directly and[submit a ticket](https://go.wbgames.com/B4BHelp) .
 
@@ -134,8 +162,6 @@ If the issue remains, check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +169,26 @@ If the issue remains, check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-a-close-look-at-triller-its-distinctive-features-and-positioning/"><u>2024 Approved A Close Look at Triller Its Distinctive Features and Positioning</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-complete-obs-guide-to-skype-call-recording/"><u>2024 Approved The Complete OBS Guide to Skype Call Recording</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-ce-3-lite-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord CE 3 Lite 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-stabilize-interrupted-sounds-on-windows-11-quick-and-effective-tips/"><u>How to Stabilize Interrupted Sounds on Windows 11: Quick and Effective Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-your-logitech-g933-mic/"><u>How to Troubleshoot and Repair Your Logitech G933 Mic</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unleash-your-creativity-the-best-10-igtv-techniques-to-skyrocket-your-brand/"><u>In 2024, Unleash Your Creativity The Best 10 IGTV Techniques to Skyrocket Your Brand</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-stability-on-windows-11-fixes-for-the-cutting-out-glitch/"><u>Mastering Audio Stability on Windows 11: Fixes for the Cutting Out Glitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-discords-feature-broadcasting-gameplay-sound-seamlessly/"><u>Mastering Discord's Feature: Broadcasting Gameplay Sound Seamlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-while-playing-hearthstone-heres-your-solution/"><u>No Sound While Playing Hearthstone? Here's Your Solution!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-sound-distortion-and-clipping-issues-on-windows-pcs-with-proven-techniques-for-win7win10-users/"><u>Overcome Sound Distortion and Clipping Issues on Windows PCs with Proven Techniques for Win7/Win10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-barriers-repairing-the-mic-feature-for-airpods-in-windows-11-environments/"><u>Overcoming Audio Barriers: Repairing the Mic Feature for AirPods in Windows 11 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silent-macs-troubleshooting-techniques-and-tips/"><u>Overcoming Silent Macs: Troubleshooting Techniques and Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/professional-gamers-showcase-live-recording-in-obs-for-2024/"><u>Professional Gamers Showcase - Live Recording in OBS for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolving-sound-malfunctions-on-your-windows-10-computer/"><u>Quick Fixes: Resolving Sound Malfunctions On Your Windows 10 Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamping-your-iphones-control-center-with-ios-18-ultimate-tips-and-tricks-for-personalized-accessibility/"><u>Revamping Your iPhone's Control Center with iOS 18: Ultimate Tips & Tricks for Personalized Accessibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-tech-troubles-stopping-abrupt-program-quits-in-windows/"><u>Tackling Tech Troubles: Stopping Abrupt Program Quits in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/transparency-achieved-demystifying-hidden-errors-affecting-direct-x-in-league/"><u>Transparency Achieved: Demystifying Hidden Errors Affecting Direct X in League</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-infinix-smart-8-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Smart 8 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Mobile Silence Solved: Top Tips and Tricks to Bring Back Warzone Sound for PC Users"
-date: 2024-11-03T08:49:15.159Z
-updated: 2024-11-04T23:29:51.934Z
+date: 2024-11-11T17:23:43.428Z
+updated: 2024-11-15T17:30:44.374Z
 tags:
   - win11
   - win10
@@ -35,18 +35,18 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 5. **[Change the in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the connection of your audio device
 
  When your voice chat stops working, the first thing you want to do is check your connection. You need to **make sure the device cable is not broken or worn out, and is securely plugged into the correct headphone jack of your PC** . Or you can simply do a replug and see how it goes. If you’re using a headset with a switch, make sure you’ve turned on the mic.
 
 If the connection is fine, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable your peripherals
 
@@ -55,10 +55,10 @@ If the connection is fine, check out the next fix below.
  If you’re not using any peripherals, simply move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change your default recording device
@@ -75,8 +75,22 @@ First you need to check the default audio device on your system:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to 100.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click **Start test** and tap or speak to your microphone. Then click **Stop test** . If you’re prompted **The highest value we saw was xx (xx > 0) percent** , it means your microphone has been set up correctly.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sound-test-percent.jpg)
 
@@ -91,15 +105,22 @@ Next, you need to check the voice chat settings in the Battle.net client:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now launch Black Ops Cold War and see if you can talk to others.
 
  If your mic still doesn’t work in the game, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -123,13 +144,6 @@ Now launch Black Ops Cold War and see if you can talk to others.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
@@ -138,13 +152,6 @@ Now launch Black Ops Cold War and see if you can talk to others.
  Once you’ve updated your audio driver, restart your PC and test the gameplay in Black Ops Cold War.
 
  If updating the audio driver doesn’t work for you, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the in-game audio settings
 
@@ -155,13 +162,6 @@ Now launch Black Ops Cold War and see if you can talk to others.
 2. Be sure to set both**Speakers/Headphones Voice Chat Device** and**Microphone Device** to**Default Communication Device** . Set**Microphone Activation Mode** to**Open Mic** . Then increase the value of**Open Microphone Sensitivity** to over 50.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-ingame-voice-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can restart Black Ops Cold War and check if the voice chat is working.
 
@@ -202,18 +202,18 @@ Here’s a quick guide for that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ips-for-youtube-thumbnail-size-aspect-ratio-included/"><u>[New] Tips for YouTube Thumbnail Size [Aspect Ratio Included]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/converti-online-i-tuoi-video-mp4-senza-costi-ottieni-la-versatilita-dei-file-mkv-tramite-lefficiente-piattaforma-movavi/"><u>Converti Online I Tuoi Video MP4 Senza Costi - Ottieni La Versatilità Dei File MKV Tramite L'efficiente Piattaforma Movavi!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-corsair-hs60-mic-issue-step-by-step-solution-for-unresponsive-microphone/"><u>Fix Your Corsair HS60 Mic Issue - Step by Step Solution for Unresponsive Microphone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/full-guide-navigating-the-world-of-final-cut-pro/"><u>Full Guide Navigating the World of Final Cut Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/future-proofing-your-mp4s-srt-integration-hacks-for-2024/"><u>Future-Proofing Your MP4s SRT Integration Hacks for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-e13-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Motorola Moto E13</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-f15-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy F15 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/out-of-room-on-your-computer-here-are-3-effective-ways-to-increase-storage-zdnet/"><u>Out of Room on Your Computer? Here Are 3 Effective Ways to Increase Storage | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-sony-wh-1000xm34-microphone-compatibility-with-windows-pcs/"><u>Step-by-Step Solution: Sony WH-1000XM3/4 Microphone Compatibility with Windows PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-solving-persistent-sound-issues/"><u>Troubleshooting Windows 10: Solving Persistent Sound Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-steps-stop-discords-audio-from-dropping/"><u>Ultimate Troubleshooting Steps: Stop Discord's Audio From Dropping</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-fb-success-with-professional-360-video-tips-for-2024/"><u>Unlock FB Success with Professional 360 Video Tips for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/valheims-muted-mystery-top-tips-to-restore-sound-on-your-computer/"><u>Valheim's Muted Mystery: Top Tips to Restore Sound on Your Computer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-numeric-precision-the-art-of-editing-tiktok-counts/"><u>[New] 2024 Approved Numeric Precision The Art of Editing TikTok Counts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-connoisseurs-compendium-budget-friendly-photography-havens/"><u>[New] Connoisseur's Compendium Budget-Friendly Photography Havens</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-winning-game-recording-guide-for-w11-users/"><u>[New] Winning Game Recording Guide for W11 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-lost-opportunities-instant-creative-ban-for-2024/"><u>[Updated] Lost Opportunities Instant Creative Ban for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/capturing-and-streaming-game-sound-effects-through-discord/"><u>Capturing and Streaming Game Sound Effects Through Discord</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-repair-guide-troubleshooting-a-non-functioning-wired-microphone/"><u>Complete Repair Guide: Troubleshooting a Non-Functioning Wired Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-a-malfunctioning-sennheiser-microphone-for-gamers/"><u>Dealing with a Malfunctioning Sennheiser Microphone for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-solutions-restoring-microphone-functionality-in-the-steelseries-arctis-7/"><u>Easy Solutions: Restoring Microphone Functionality in the SteelSeries Arctis 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-discontinued-shockwave-flash-problem-on-google-chrome/"><u>How to Fix the Discontinued Shockwave Flash Problem on Google Chrome</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/macos-sierra-enhancement-guide-step-by-step-upgrades-for-2024/"><u>MacOS Sierra Enhancement Guide Step-by-Step Upgrades for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
 </ul></div>
 

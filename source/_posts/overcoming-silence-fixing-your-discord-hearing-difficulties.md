@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Silence: Fixing Your Discord Hearing Difficulties"
-date: 2024-10-29T08:37:49.252Z
-updated: 2024-11-05T05:46:48.920Z
+date: 2024-11-14T18:02:34.497Z
+updated: 2024-11-15T16:43:51.173Z
 tags:
   - win11
   - win10
@@ -57,16 +57,10 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -76,6 +70,13 @@ There’re mainly two ways for you to update an audio driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Change sound settings
 
  This issue happens when Stereo Mix (instead of your headset microphone) is set to the default device. To fix it, you should disable Stereo Mix, and set your microphone as the default device:
@@ -83,6 +84,13 @@ There’re mainly two ways for you to update an audio driver:
  1) Right-click the volume icon and select**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Go to the**Recording** tab.
 
@@ -96,26 +104,13 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -131,13 +126,6 @@ There’re mainly two ways for you to update an audio driver:
  3) Right-click Discord, and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once complete, you can download[**the latest Discord client**](https://discord.com/brand-new) and check if the issues persist in the new version.
 
@@ -162,22 +150,22 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-corsair-hs60-mic-not-working/"><u>[Fixed] Corsair HS60 Mic Not Working</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-digital-dollars-earn-from-youtubers-in-8-ways/"><u>[New] 2024 Approved Digital Dollars Earn From YouTubers in 8 Ways</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-quick-method-stop-spotify-from-suggesting-podcasts/"><u>[New] 2024 Approved Quick Method Stop Spotify From Suggesting Podcasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/airpods-not-recognizing-mic-in-windows-11-heres-what-to-do/"><u>AirPods Not Recognizing Mic in Windows 11? Here’s What to Do!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-audio-repair-techniques-for-gamers-experiencing-problems-in-new-world/"><u>DIY Audio Repair Techniques for Gamers Experiencing Problems in New World</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-issues-with-realtek-hd-audio-player-not-starting-up/"><u>Expert Tips for Resolving Issues with RealTek HD Audio Player Not Starting Up</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/"><u>Free Audio Treasures to Amplify YouTube, In 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/harmonizing-your-hits-the-definitive-guide-to-merging-spotify-playlists-with-precision/"><u>Harmonizing Your Hits: The Definitive Guide to Merging Spotify Playlists with Precision</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ideal-modeling-software-for-animation-professionals/"><u>In 2024, Ideal Modeling Software for Animation Professionals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-silence-in-battle-fixing-the-voice-chat-glitch-in-modern-warfare/"><u>No More Silence in Battle: Fixing the Voice Chat Glitch in Modern Warfare</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-tecno-pop-8-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Pop 8? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-no-audio-issue-when-a-speaker-is-connected-on-pc/"><u>Resolved: Fixing No Audio Issue When a Speaker Is Connected on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-game-audio-fixes-for-anthems-sound-problems-on-windows-11-systems/"><u>Restoring Game Audio: Fixes for Anthem's Sound Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/savvy-photographers-guide-to-pristine-cloud-space-cost-free-and-paid-choices/"><u>Savvy Photographers' Guide to Pristine Cloud Space Cost-Free & Paid Choices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/stars-quick-visibility-check/"><u>Star's Quick Visibility Check</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-ebootment-solutions-reviving-sounds-in-windows-7-systems/"><u>Windows Ebootment Solutions - Reviving Sounds in Windows 7 Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hree-easy-ways-to-harvest-youtubes-default-iconography-for-2024/"><u>[New] Three Easy Ways to Harvest Youtube's Default Iconography for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-shorts-are-here-no-more-waiting-game-for-2024/"><u>[New] Your Shorts Are Here – No More Waiting Game for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/202n10-windows-mac-android-ios/"><u>全新202n年10月免費語音改編器 - Windows, Mac, Android, iOS 支持選項</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-mutism-problems-on-your-discord-conversations/"><u>Addressing Mutism Problems on Your Discord Conversations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/agricultural-bliss-the-10-perfect-gaming-friends-for-farmers-for-2024/"><u>Agricultural Bliss The 10 Perfect Gaming Friends for Farmers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016641166-beyond-the-wire-microphone-troubleshooting-a-complete-fix-guide-to-restore-sound-output/"><u>Beyond The Wire Microphone Troubleshooting: A Complete Fix Guide to Restore Sound Output!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-troubleshooting-how-to-restore-lost-sound-capabilities/"><u>Chrome Troubleshooting: How To Restore Lost Sound Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-personal-training-with-ai-how-chatgpt-can-shape-individual-fitness-plans/"><u>Enhancing Personal Training with AI: How ChatGPT Can Shape Individual Fitness Plans</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-back-on-track-resolving-pubg-voice-chat-malfunctions/"><u>Getting Back on Track: Resolving PUBG Voice Chat Malfunctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-recurrer-breakdowns-of-praey-for-the-gods-during-gameplay-on-personal-computers/"><u>How to Address Recurrer Breakdowns of 'Praey for the Gods' During Gameplay on Personal Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-silence-the-expiring-windows-license-message/"><u>How To Silence the Expiring Window's License Message</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-when-your-logitech-webcammicrophone-fails/"><u>How to Troubleshoot When Your Logitech Webcam/Microphone Fails</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-tier-free-video-editing-software-guide-for-iphoneipad-users/"><u>In 2024, Top-Tier Free Video Editing Software Guide for iPhone/iPad Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-mouses-volume-a-user-friendly-guide-to-restoring-sound-on-a-logitech-g933/"><u>Revive Your Mouse's Volume: A User-Friendly Guide to Restoring Sound on a Logitech G933</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-sound-experience-with-easy-fixes-for-windows-11-devices/"><u>Revive Your Sound Experience with Easy Fixes for Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-voicemod-malfunction-as-of-2024/"><u>Ultimate Fixes for Voicemod Malfunction as of 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-avi-video-rotation-tools-compare-the-best-options-for-windows-mac-mobile-and-online/"><u>Updated In 2024, Free AVI Video Rotation Tools Compare the Best Options for Windows, MAC, Mobile & Online</u></a></li>
 </ul></div>
 

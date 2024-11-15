@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Discord Push-To-Talk Not Working"
-date: 2024-08-27T21:17:44.367Z
-updated: 2024-08-28T21:17:44.367Z
+date: 2024-11-11T17:31:48.615Z
+updated: 2024-11-15T16:24:46.689Z
 tags:
   - win11
   - win10
@@ -45,26 +45,24 @@ If you’re not sure how to do it, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Right-click Discord then select **End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click the Discord icon on your desktop, then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  4) Under the **Compatibility**  tab, check the box next to **Run this program as an administrator** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Relaunch Discord.
 
@@ -97,22 +95,27 @@ If your issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Install the latest Overwatch patch
 
  The developers of Overwatch release regular game patches to fix bugs. It’s possible that a recent patch has stopped your chat from working, and that a new patch is required to fix it.
@@ -125,7 +128,21 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-712.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Check your in-game settings
 
@@ -137,13 +154,17 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-407.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Sound tab** , and verify that**TEAM VOICE CHAT** , and**GROUP VOICE CHAT** are set to**AUTO JOIN.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-400-1024x559.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Make sure the VOICE CHAT MODE is set to**PUSH TO TALK** , then select the correct VOCIE CHAT DEVICES.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-401-1024x569.png)
@@ -169,8 +190,6 @@ To check if there is any update, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +197,21 @@ To check if there is any update, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-decoding-youtubes-operations-following-uploads/"><u>[New] Decoding YouTube’s Operations Following Uploads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-adjusting-google-meet-display-mobile-and-laptop-focus/"><u>[New] In 2024, Adjusting Google Meet Display Mobile and Laptop Focus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-beginners-ultimate-list-of-must-have-video-tech-for-2024/"><u>[Updated] Beginner's Ultimate List of Must-Have Video Tech for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-simplify-cross-platform-sharing-convert-spotify-lists-to-youtube-seamlessly-for-2024/"><u>[Updated] Simplify Cross-Platform Sharing Convert Spotify Lists to YouTube Seamlessly for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driverless-woes-in-windows-1187-heres-how-you-can-resolve-it-easily/"><u>Driverless Woes in Windows 11/8/7? Here's How You Can Resolve It Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-ways-to-erase-defenders-security-chronicles-in-windows/"><u>Efficient Ways to Erase Defender's Security Chronicles in Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-a-print-device-that-wont-blink-back/"><u>Fixing a Print Device That Won't Blink Back</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g230-microphone-malfunction-discover-proven-repair-methods/"><u>Logitech G230 Microphone Malfunction? Discover Proven Repair Methods!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-troubleshooting-for-undetected-speakers-in-windows-10-environments/"><u>Mastering Audio Troubleshooting for Undetected Speakers in Windows 10 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-hiccups-with-your-bluetooth-devices-in-windows-11/"><u>Overcome Audio Hiccups with Your Bluetooth Devices in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-intermittent-audio-with-these-tips-for-bluetooth-on-windows-1110/"><u>Overcome Intermittent Audio with These Tips for Bluetooth on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-sound-problems-with-your-arctis-headset-fix-for-non-functional-mic/"><u>Overcome Sound Problems with Your Arctis Headset: Fix for Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connection-woes-a-guide-to-making-your-blue-yeti-work-again/"><u>Overcoming Connection Woes: A Guide to Making Your Blue Yeti Work Again</u></a></li>
+</ul></div>
 

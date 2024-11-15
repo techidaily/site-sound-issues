@@ -1,7 +1,7 @@
 ---
 title: "Razer Man O' War Mic Troubleshooting: Tips to Get It Working Again"
-date: 2024-08-31T23:54:28.178Z
-updated: 2024-09-01T23:54:28.178Z
+date: 2024-11-14T16:34:44.610Z
+updated: 2024-11-15T17:14:33.433Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -47,21 +54,26 @@ Follow these:
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your sound card driver
 
  Skype Microphone not working problem can be also cause by the incorrect or outdated sound card driver. The solutions above may solve the problem, but if they don’t, please update your sound card driver.
@@ -71,26 +83,23 @@ Follow these:
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Log in Skype and check to see if your Microphone works.
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
@@ -101,8 +110,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +117,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-echoes-of-amusement-comical-tune-transformations/"><u>[New] Echoes of Amusement Comical Tune Transformations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-leading-15-no-cost-image-editing-apps-top-picks-of-2023/"><u>2024 Approved Leading 15 No-Cost Image Editing Apps - Top Picks of 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-chorus-conductor-android-edition/"><u>2024 Approved Ultimate Chorus Conductor, Android Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-the-static-simple-steps-for-a-clearer-sound-experience/"><u>End the Static: Simple Steps for a Clearer Sound Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-window-11-eliminating-bluetooth-sound-interruptions/"><u>Fixes for Window 11: Eliminating Bluetooth Sound Interruptions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hdmi-issues-managing-devices-already-running-programs/"><u>Fixing HDMI Issues: Managing Devices Already Running Programs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-hd-audio-codec-on-your-windows-11-machine-a-step-by-step-solution/"><u>How to Install IDT HD Audio Codec on Your Windows 11 Machine - A Step-by-Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overwatch-communication-breakdown-successfully-restoring-the-push-to-talk-capability/"><u>Overwatch Communication Breakdown: Successfully Restoring the Push-to-Talk Capability</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-setup-the-top-quality-4k-dslr-mounts-guide-for-2024/"><u>Premium Setup The Top-Quality 4K DSLR Mounts Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-your-switch-5-crucial-care-methods/"><u>Preserve Your Switch: 5 Crucial Care Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-mobile-voice-chatting-issues-heres-how-you-can-get-it-working-again/"><u>PUBG Mobile Voice Chatting Issues? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-quicker-machine-a-step-by-step-guide-to-supercharge-your-sluggish-pc/"><u>Quick Fixes for a Quicker Machine: A Step-by-Step Guide to Supercharge Your Sluggish PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-silence-crackling-sounds-in-your-headphones-now/"><u>Quick FIXES to Silence Crackling Sounds in Your Headphones Now</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1728504996021-sdsd/"><u>SD卡數據轉移技巧：簡單步驟教你如何從一張SD卡備份到另一張</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-swapping-screen-orientation-by-90-degrees/"><u>The Ultimate Guide to Swapping Screen Orientation by 90 Degrees</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/time-to-choose-in-depth-review-of-google-pixel-watch-2-against-apples-series-9-zdnet-insights/"><u>Time to Choose: In-Depth Review of Google Pixel Watch 2 Against Apple's Series 9 | ZDNET Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-is-the-issue-with-battlenet-or-your-connection/"><u>Troubleshooting: Is the Issue with Battle.net or Your Connection?</u></a></li>
+</ul></div>
 

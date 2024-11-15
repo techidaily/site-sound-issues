@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Compatibility with IDT High Definition Sound Card - Solved
-date: 2024-10-30T07:47:13.900Z
-updated: 2024-11-05T01:50:36.369Z
+date: 2024-11-08T16:10:11.432Z
+updated: 2024-11-15T16:54:05.275Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Faulty audio driver can be the lead cause of this problem. You can reinstall its
 2) Expand**Sound, video and game controllers** and locate**IDT High Definition Audio CODEC**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784665dcbc35.png)3) Right-click **IDT High Definition Audio CODEC** and select**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5784923683fba.png)Select**OK**when the confirmation window pops up. 4) Restart your computer after this change to make sure that Windows Update help you with the update of the driver for your audio device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 2: Update driver automatically (Recommended)**
@@ -46,16 +46,10 @@ If reinstalling driver doesn’t help you with it, you should try update your au
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e04542e1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged sound card driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**_Update All_**).
@@ -63,10 +57,10 @@ If reinstalling driver doesn’t help you with it, you should try update your au
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b091e18a76b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve encountered any questions while using Driver Easy, please feel free to contact our support team at <support@drivereasy.com> for further assistance. Our support team would be happy to help you resolve this issue.**Please attach the URL of this article** so we could assist you better.
@@ -88,18 +82,24 @@ If you have any ideas or questions, please feel free to leave your comments belo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-joshis-playbook-the-path-to-earnings-on-youtube/"><u>[New] 2024 Approved Joshi's Playbook The Path to Earnings on Youtube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-earnings-per-thousand-views-explained/"><u>[New] 2024 Approved YouTube Earnings Per Thousand Views Explained</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spotify-how-to-halt-default-podcast-additions/"><u>[New] Spotify How to Halt Default Podcast Additions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-y02t-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y02T? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-creatives-microphone-fails/"><u>Effective Solutions When Your Creative's Microphone Fails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-premier-top-5-minimalist-action-cameras-review/"><u>In 2024, Premier Top 5 Minimalist Action Cameras Review</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/quick-guide-how-to-seamlessly-transfer-and-clone-windows-server-2012-onto-a-new-ssd/"><u>Quick Guide: How to Seamlessly Transfer and Clone Windows Server 2012 Onto a New SSD</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-intermittent-audio-problems-in-your-windows-11-system/"><u>Resolve Intermittent Audio Problems in Your Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-phasmophobia-voice-chat-problems/"><u>Step-by-Step Solution for Phasmophobia Voice Chat Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-voice-chat-issue-in-phasmophobia/"><u>Troubleshooting Guide: Fixing the Non-Responsive Voice Chat Issue in Phasmophobia</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016914107-troubleshooting-iphones-noisy-and-muffled-sounds-solutions-inside/"><u>Troubleshooting iPhone's Noisy and Muffled Sounds – Solutions Inside</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-pc-making-noise-troubleshooting-audio-in-windows-7/"><u>Why Isn't My PC Making Noise? Troubleshooting Audio in Windows 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>[New] Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-chosen-speeds-modifying-tools-pc-phone/"><u>[New] Expert-Chosen Speeds Modifying Tools (PC, Phone)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-initial-stages-of-joining-youtube-as-a-chanel-owner/"><u>2024 Approved The Initial Stages of Joining YouTube as a Chanel Owner</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ai-desktops-demystified-a-must-have-technology-or-merely-trendy-gadgetry/"><u>AI Desktops Demystified: A Must-Have Technology or Merely Trendy Gadgetry?</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-a-constant-windows-printer/"><u>Guidelines for a Constant Windows Printer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-share-screen-on-facebook-live/"><u>How to Share Screen on Facebook Live?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/market-mastery-blueprint-strategic-openings-for-2024/"><u>Market Mastery Blueprint Strategic Openings for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-technique-of-reactivating-audio-addressing-silent-troubles-in-windows-10s-conexant-smartaudio-hd/"><u>Master the Technique of Reactivating Audio: Addressing Silent Troubles in Windows 10'S Conexant SmartAudio HD</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-repairs-on-iphones-eliminate-distortion-instantly/"><u>Mastering Audio Repairs on iPhones – Eliminate Distortion Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-troubleshooting-get-your-sony-wireless-headphones-mic-to-work-again-on-pc-and-laptop-platforms/"><u>Mastering Troubleshooting: Get Your Sony Wireless Headphones' Mic to Work Again on PC and Laptop Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-computers-fix-the-audio-problems-with-ease-on-your-pc/"><u>No More Quiet Computers - Fix the Audio Problems with Ease on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-windows-amobluetooth-struggles-with-this-simple-step-by-step-guide-for-windows-11-users/"><u>Overcome Windows amoBluetooth Struggles with This Simple Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-solutions-for-mics-not-detecting-voice-output/"><u>Overcoming Silence: Solutions for Mics Not Detecting Voice Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-problem-of-your-runmdt-gaming-headsets-unresponsive-mic/"><u>Resolving the Problem of Your RUNMDT Gaming Headset's Unresponsive Mic</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a15-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/skype-audio-problems-on-windows-10-heres-how-you-can-fix-them/"><u>Skype Audio Problems on Windows 10? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-fixing-silent-screens-in-valheim-pc-troubleshooting/"><u>Solution: Fixing Silent Screens in Valheim – PC Troubleshooting</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
 </ul></div>
 

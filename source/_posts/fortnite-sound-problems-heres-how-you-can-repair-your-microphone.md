@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Problems? Here's How You Can Repair Your Microphone
-date: 2024-10-29T07:05:01.695Z
-updated: 2024-11-04T17:07:29.729Z
+date: 2024-11-14T17:35:07.337Z
+updated: 2024-11-15T17:21:59.433Z
 tags:
   - win11
   - win10
@@ -46,32 +46,26 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check your **Corsair Void headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, please try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -87,16 +81,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -105,13 +99,6 @@ Here’s how to do it:
 5) Check to see if the mic works properly. If yes, then great! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -134,15 +121,22 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click **OK** to apply the changes in the windows.
 
@@ -179,18 +173,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-screen-recording-in-adobe-captivate-a-step-by-step-guide/"><u>[New] Mastering Screen Recording in Adobe Captivate A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/roubleshooting-techniques-for-optimized-video-shorts-for-2024/"><u>[New] Troubleshooting Techniques for Optimized Video Shorts for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unleash-your-inner-editor-with-these-premium-androidpc-apps/"><u>[Updated] 2024 Approved Unleash Your Inner Editor with These Premium Android/PC Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discover-how-to-maintain-clear-audio-on-discord-the-complete-guide/"><u>Discover How to Maintain Clear Audio on Discord - The Complete Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-software-suite-for-pc-and-mac-enthusiasts-discover-my-top-picks-zdnet-reviews/"><u>Essential Software Suite for PC & Mac Enthusiasts: Discover My Top Picks | ZDNet Reviews</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-get-your-redragon-laptop-mic-working-perfectly-again/"><u>Expert Solutions to Get Your Redragon Laptop Mic Working Perfectly Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-logitech-g430-mic-handy-solutions-for-sound-problems/"><u>Fix Your Logitech G430 Mic: Handy Solutions For Sound Problems</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/guia-gratuita-para-restablecer-archivos-perdidos-en-sistemas-operativos-windows-1011/"><u>Guía Gratuita Para Restablecer Archivos Perdidos en Sistemas Operativos Windows 10/11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gunstige-methode-zum-freikaufen-geschutzter-dvds-mit-vlc-und-handbrake/"><u>Günstige Methode Zum Freikaufen Geschützter DVDs Mit VLC Und Handbrake</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-not-detecting-mic-heres-how-to-fix-it/"><u>HyperX Cloud Alpha S Not Detecting Mic? Here's How to Fix It</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-c33-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme C33 2023 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/superior-steadicams-for-drone-shooting-precision/"><u>Superior Steadicams for Drone Shooting Precision</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-runmus-headset-mic-heres-your-guide-to-making-it-work-again/"><u>Trouble with RUNMUS Headset Mic? Here's Your Guide to Making It Work Again!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-the-funny-10-best-meme-blueprints-unveiled/"><u>[New] Finding the Funny #10 Best Meme Blueprints Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-stay-ahead-of-the-game-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[New] In 2024, Stay Ahead of the Game Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concepts-to-recordings-a-step-by-step-guide-for-podcast-writers/"><u>2024 Approved From Concepts to Recordings A Step-by-Step Guide for Podcast Writers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dive-into-the-dos-and-donts-of-youtube-beauty-channels/"><u>Dive Into the Do's and Don'ts of YouTube Beauty Channels</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/easy-file-sharing-methods-how-to-relocate-documents-to-your-samsung-galaxy-smartphonetablet/"><u>Easy File Sharing Methods: How to Relocate Documents to Your Samsung Galaxy Smartphone/Tablet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-resolve-persona-5-strikers-crash-issues-on-your-pc/"><u>Fixes & Solutions: How to Resolve Persona 5 Strikers Crash Issues on Your PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y78plus-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-how-to-resolve-missing-sound-devices-on-windows-10-8-and-7/"><u>Troubleshooting Audio Problems: How to Resolve Missing Sound Devices on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-audio-glitches-in-re8/"><u>Troubleshooting Common Audio Glitches in RE8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-successful-restoring-sound-functionality-in-firefox/"><u>Troubleshooting Successful: Restoring Sound Functionality in Firefox</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-dota-2-mic-solutions-for-pc-users/"><u>Troubleshooting Your Dota 2 Mic: Solutions for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-non-functional-mic-setups-on-windows-11-devices/"><u>Ultimate Fixes for Non-Functional Mic Setups on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-speedy-microphone-sound-checks/"><u>Ultimate Tricks for Speedy Microphone Sound Checks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-secret-of-affordable-video-ad-creation-on-youtube-for-2024/"><u>Unveiling the Secret of Affordable Video Ad Creation on YouTube for 2024</u></a></li>
 </ul></div>
 

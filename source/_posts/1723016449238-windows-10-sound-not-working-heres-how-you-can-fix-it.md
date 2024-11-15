@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Sound Not Working? Here's How You Can Fix It!
-date: 2024-08-31T23:55:58.022Z
-updated: 2024-09-01T23:55:58.022Z
+date: 2024-11-14T16:13:26.207Z
+updated: 2024-11-15T17:12:01.843Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
  Note: The screens shown below are from Windows 10, but all the fixes apply to Windows 11 as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **1\. Set Minimum Processor State to 100%**
 
  Popping sound from your speakers or headphones could relate to your driver’s problem. To fix it:
@@ -34,6 +41,13 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
  1) On your keyboard, press the **Windows logo key**  and **S** at the same time and then type in **control** . Select **Control Panel** from the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52a57919f5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) View by **Large icons** and select **Power Options** .
 
@@ -61,21 +75,19 @@ If you’re on Windows 10 or Windows 7, and you’re hearing a popping sound com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52d1713a49.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  2) Click to expand **Sound, video and game controllers** category. Right-click ATI HDMI Audio device driver if you can see it here and select **Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a52db77fe74.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you don’t see this option here, move on to the next steps.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **3\. DPC Latency**
 
  In some cases, high latency could be the cause of your static audio among many other audio problems. Luckily, there’s a handy tool called **DPC Latency Checker** . It helps monitor your PC performance and tells you what’s causing the latency.
@@ -86,17 +98,10 @@ If you don’t see this option here, move on to the next steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a5313c8fd13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  3) If this screenshot is different from what you’re seeing, you’ll also see which device is causing the latency like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a533a0c245d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Try disabling your device drivers from Device Manager as shown in **[Step 2](https://tools.techidaily.com/drivereasy/download/)**  one by one.
 
  If you find disabling certain drivers reduce the latency a lot, then you have to reinstall the device drivers to the latest version. You can update all the needed device drivers one by one by yourself. If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -112,11 +117,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/DE-scan-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/de-update-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -129,8 +145,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +152,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-top-vimeo-downloader-tools/"><u>[New] 2024 Approved Top Vimeo Downloader Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-selection-top-video-editors-for-webcams-for-2024/"><u>[New] Ultimate Selection Top Video Editors for Webcams for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[Updated] 2024 Approved Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-movie-buffs-secret-2023-recommendations/"><u>2024 Approved Movie Buffs' Secret 2023 Recommendations</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-tips-for-retrieving-lost-data-file-recovery-on-windows-server-2012-r2-explained/"><u>Easy Tips for Retrieving Lost Data: File Recovery on Windows Server 2012 R2 Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-sound-output-a-guide-to-fixing-quiet-computers-on-windows-1/"><u>Enhancing Sound Output: A Guide to Fixing Quiet Computers on Windows 1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/geforce-gtx-1060-performance-update/"><u>GeForce GTX 1060 Performance Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-logitech-g27-steering-wheel-drivers-for-multiple-windows-os/"><u>Get the Newest Logitech G27 Steering Wheel Drivers for Multiple Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016254034-get-your-sound-back-fix-voice-chat-and-microphone-malfunctions-on-pc-and-consoles-for-call-of-dutys-battle-royale-game/"><u>Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/how-to-add-youtube-end-screen-and-cards-effectively-for-2024/"><u>How to Add YouTube End Screen and Cards Effectively for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-fixes-for-your-astro-a5ns-sound-problem/"><u>Immediate Fixes for Your Astro A5n's Sound Problem</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-from-hp-laptop-quick-fixes-for-audio-issues-in-windows-10/"><u>No Sound From HP Laptop? Quick Fixes for Audio Issues in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-when-your-webex-mic-wont-work/"><u>The Ultimate Fix: When Your WebEx Mic Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-your-counter-strike-2-audio-problems-today/"><u>Troubleshoot and Resolve Your Counter-Strike 2 Audio Problems Today!</u></a></li>
+</ul></div>
 

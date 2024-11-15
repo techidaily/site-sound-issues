@@ -1,7 +1,7 @@
 ---
 title: Simple Fix for Astro Keyboard A20 Microphone Failures
-date: 2024-08-27T21:17:36.781Z
-updated: 2024-08-28T21:17:36.781Z
+date: 2024-11-09T17:25:01.109Z
+updated: 2024-11-15T17:02:41.848Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ You care about stunning sound quality but find that you can’t use the micropho
 5. **[Update audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Sound Blaster Command](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Make sure your mic is not muted
 
  To begin with, you should make sure your microphone’s volume has turned up to a proper level so that it can record your voice. You can skip this step if you have already done this.
@@ -41,6 +48,13 @@ You care about stunning sound quality but find that you can’t use the micropho
  3) If you’re using a 6.3mm microphone, make sure that there’s no microphone connected to the 3.5mm microphone port and vice versa.
 
  4) Now you can test your microphone again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Allow your device and apps to access the microphone
 
@@ -58,9 +72,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 
  5) Test your microphone again.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Disable Direct Mode
 
  Enabling Direct Mode allows audio to output in its original form, directly from its original source, but your Mic doesn’t work in this mode. When direct mode is enabled it bypasses the SoundCore 3D chipset and therefore the mic path is not operational.
@@ -76,11 +87,12 @@ You care about stunning sound quality but find that you can’t use the micropho
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### 4\. Adjust Windows sound settings
 
  Many Sound Blaster users have fixed this issue by changing the default frequency for the microphone. Here’s how:
@@ -93,9 +105,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![set as the default](https://images.drivereasy.com/wp-content/uploads/2021/04/save.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click and select**Properties** .
 
  4) First go to the**Levels** tab, and make sure it’s set to a proper volume.
@@ -104,14 +113,18 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/check-all-boxes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 6) Check all the boxes below.
 
 7) Click**OK** to save the changes. Now you can test you microphone again.
 
  If this method doesn’t do the trick, you can disable all enhancements by right-clicking your microphone, and then click**Properties** \>**Enhancements** . After disabling all enhancements, you can’t apply any processing to the mic via Sound Blaster Command.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Update audio drivers
 
@@ -127,9 +140,23 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -138,9 +165,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### 6\. Reinstall Sound Blaster Command
 
  If the Sound Blaster mic not working persists, there might be some issues with your software.
@@ -155,9 +179,6 @@ You care about stunning sound quality but find that you can’t use the micropho
 
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Right-click Sound Blaster Command and select**Uninstall** .
 
  5) Download the latest software from the Creative[official website](https://support.creative.com/Products/ProductDetails.aspx) .
@@ -175,8 +196,6 @@ You care about stunning sound quality but find that you can’t use the micropho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +203,20 @@ You care about stunning sound quality but find that you can’t use the micropho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-lessons-on-screen-essential-classroom-videography-tips/"><u>[New] In 2024, Lessons on Screen Essential Classroom Videography Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/compact-play-enjoy-spotify-in-facebooks-miniplayer/"><u>Compact Play: Enjoy Spotify in Facebook's Miniplayer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-13-mini-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 13 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-resolving-cortana-not-responding-errors/"><u>Expert Tips for Resolving 'Cortana Not Responding' Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-device-used-by-another-application-for-seamless-hdmi-connection/"><u>Fixing 'Device Used by Another Application' For Seamless HDMI Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-nonfunctioning-mic-on-your-oculus-quest-2-headset/"><u>How to Fix a Nonfunctioning Mic on Your Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-devices-inactive-front-audio-port-easy-diy-methods/"><u>How To Fix Your Device's Inactive Front Audio Port - Easy DIY Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reconnect-your-realtek-high-definition-sound-device-when-it-shows-as-unplugged/"><u>How to Reconnect Your Realtek High Definition Sound Device When It Shows as Unplugged</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-league-of-legends-voip-problems-quickly-and-easily/"><u>How to Resolve League of Legends VOIP Problems Quickly and Easily</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-seamless-video-tweaks-integrating-story-remix-into-windows-10-photos/"><u>In 2024, Seamless Video Tweaks Integrating Story Remix Into Windows 10 Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/skip-unwanted-podcast-advice-on-the-spotify-app/"><u>Skip Unwanted Podcast Advice on the Spotify App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-shadowed-observers-playbook-engaging-with-instagram-stories-anonymously-free/"><u>The Shadowed Observer's Playbook Engaging with Instagram Stories Anonymously [Free]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-s17e-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo S17e</u></a></li>
+</ul></div>
 

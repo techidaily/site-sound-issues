@@ -1,7 +1,7 @@
 ---
 title: Effortless Steps to Get Your Fortnite Voice Chat Up & Running Again!
-date: 2024-11-02T02:06:54.836Z
-updated: 2024-11-05T06:48:44.094Z
+date: 2024-11-09T17:34:35.118Z
+updated: 2024-11-15T16:13:50.003Z
 tags:
   - win11
   - win10
@@ -56,23 +56,30 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Click **Update** next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Update-all-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Fortnite patch
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap911.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3.**Turn on** the toggle next to **Auto update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
@@ -97,14 +111,20 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Fortnite again to check whether your chat problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Make sure your microphone is on for Fortnite
 
@@ -113,19 +133,6 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  1\. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap427.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2\. Click **Microphone**  on the left pane, and make sure**Microphone access for this device** is**on** , and the status is **On** for **Fortnite** .
 
@@ -161,28 +168,21 @@ iii. Exit Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5\. While still in the**Recording** tab, try**speaking into your microphone** to test if it works properly. If it is, you should see some green in the bar on the right:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6\. Click **OK** .
@@ -191,13 +191,6 @@ iii. Exit Fortnite.
 
  Join a squad to check ifchat is now working . If not, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Fortnite
 
  If none of the above fixes resolves your chat problem, try reinstalling Fortnite. Here is how to do it:
@@ -205,6 +198,13 @@ iii. Exit Fortnite.
  1\. Open the **Epic Games Launcher** . On the left panel, click**Library** . On the right, click**the gear button** on the lower-right corner of Fortnite.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap940.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2\. Click**Uninstall** to uninstall Fortnite.
 
@@ -239,15 +239,22 @@ iii. Exit Fortnite.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-share-the-moment-how-to-post-on-twitter/"><u>[New] Share the Moment How To Post on Twitter</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-poco-c51-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Poco C51 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-mic-not-working-discover-effective-fixes-and-tips/"><u>Astro A50 Mic Not Working? Discover Effective Fixes & Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-when-discords-speaking-channel-malfunctions-expert-tips-and-tricks/"><u>Fixes for When Discord's Speaking Channel Malfunctions – Expert Tips and Tricks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-chromatic-shift-strategies-for-skilled-alteration/"><u>In 2024, Chromatic Shift Strategies for Skilled Alteration</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y100t-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y100t Phones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-creative-pebble-speaker-issues-no-more-silence/"><u>Solution Steps for Creative Pebble Speaker Issues – No More Silence!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-sound-issues-solved/"><u>Troubleshooting Windows 11 Sound Issues: Solved!</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/world-of-warcraft-rises-mastering-full-3d-graphics/"><u>World of Warcraft Rises: Mastering Full 3D Graphics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[New] Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts/"><u>2024 Approved Avoiding the Overflow How to Edit Your Pile-Up of TikTok Drafts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-unresponsive-microphone-and-headphone-setup-troubles-in-microsofts-latest-and-previous-os-versions/"><u>Addressing Unresponsive Microphone and Headphone Setup Troubles in Microsoft's Latest & Previous OS Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-headset-woes-no-more-expert-strategies-to-restore-your-mics-functionality/"><u>Arctis Headset Woes No More – Expert Strategies to Restore Your Mic's Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-silent-problems-resolved-restoring-audio-backup/"><u>Chrome Silent Problems Resolved: Restoring Audio Backup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-voice-communication-errors-how-to-solve-them-effectively/"><u>Cod: Vanguard Voice Communication Errors – How to Solve Them Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-issues-and-resolutions-for-the-logitech-g230-microphone-not-working/"><u>Common Issues & Resolutions for the Logitech G230 Microphone Not Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-steps-to-fix-broken-laptop-audio-systems/"><u>Comprehensive Steps to Fix Broken Laptop Audio Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/configure-mystery-speaker-model-for-perfect-sound-quality-on-windows-11/"><u>Configure Mystery Speaker Model for Perfect Sound Quality on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016504310-destiny-2-voice-chat-problems-heres-how-you-can-solve-them/"><u>Destiny 2 Voice Chat Problems? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/faciles-astuces-pour-extraire-et-sauvegardez-des-donnees-de-dvd-sur-pcs-windows-et-mac/"><u>Faciles Astuces Pour Extraire Et Sauvegardez Des Données De DVD Sur PCs Windows Et MAC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-is-generative-ai-emerging-as-the-next-frontier-in-spreading-misinformation/"><u>How Is Generative AI Emerging as the Next Frontier in Spreading Misinformation?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-13c-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>In 2024, Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-pixelpartition-review/"><u>In 2024, PixelPartition Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-solutions-for-reducing-load-times-of-battlefront-2-on-windows-based-pcs/"><u>Tips and Solutions for Reducing Load Times of Battlefront 2 on Windows-Based PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/topo-das-aplicativos-mais-inovadores-para-melhorar-imagens-no-android-11-ferramentas-gratuitas-e-eficientes/"><u>Topo Das Aplicativos Mais Inovadores Para Melhorar Imagens No Android: 11 Ferramentas Gratuitas E Eficientes</u></a></li>
 </ul></div>
 

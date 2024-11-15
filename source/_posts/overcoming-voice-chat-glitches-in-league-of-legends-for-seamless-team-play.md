@@ -1,7 +1,7 @@
 ---
 title: Overcoming Voice Chat Glitches in League of Legends for Seamless Team Play
-date: 2024-08-31T23:52:51.326Z
-updated: 2024-09-01T23:52:51.326Z
+date: 2024-11-08T16:04:10.108Z
+updated: 2024-11-15T16:55:56.194Z
 tags:
   - win11
   - win10
@@ -47,8 +47,12 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
@@ -60,27 +64,37 @@ You can follow the steps below to check:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Then type or paste **mmsys.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/r.png)
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio drivers
 
  Your voice chat not working in LoL problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -93,11 +107,16 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
 
@@ -112,8 +131,6 @@ You can follow the steps below to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +138,21 @@ You can follow the steps below to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unboxing-the-next-big-thing-in-action-cameras-with-camplus-cubeplus/"><u>[New] 2024 Approved Unboxing the Next Big Thing in Action Cameras with Cam+ Cube+</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-techniques-for-navigating-popular-and-trending-youtube-reactions-for-2024/"><u>[New] Expert Techniques for Navigating Popular and Trending YouTube Reactions for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860307682-updated-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-tiktok-video-locker-free-and-clear/"><u>In 2024, The Ultimate TikTok Video Locker - FREE & Clear</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-where-to-find-top-notch-instagram-ringtones-and-how-to-make-a-keen-ringt/"><u>In 2024, Where to Find Top-Notch Instagram Ringtones & How to Make a Keen Ringt</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-problems-with-the-blue-yeti-microphone-a-step-by-step-guide/"><u>Overcoming Connectivity Problems With The Blue Yeti Microphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regain-control-of-your-sound-fixing-the-noise-problem-with-conexant-smartaudio-in-windows-aekwaeriz/"><u>Regain Control of Your Sound: Fixing the Noise Problem with Conexant SmartAudio in Windows ˈækwaɪəriːz</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-soundscape-a-simple-solution-to-your-logitech-g933-audio-problems/"><u>Reviving Soundscape: A Simple Solution to Your Logitech G933 Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-solutions-for-resolving-google-hangouts-microphone-issues/"><u>Simple Solutions for Resolving Google Hangouts Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-steps-for-solving-google-hangouts-microphone-issues/"><u>Simple Troubleshooting Steps for Solving Google Hangouts Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-dells-speaker-problems-a-guide-for-windows-7-users/"><u>Solve Your Dell's Speaker Problems: A Guide for Windows 7 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nubia-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nubia</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-file-wav-in-audiobook-mp4-gratuito-guida-completa-con-movavi/"><u>Trasforma I Tuoi File WAV in Audiobook MP4 Gratuito: Guida Completa Con Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-copyright-rules-simplified-a-non-legal-guide-for-2024/"><u>YouTube's Copyright Rules Simplified A Non-Legal Guide for 2024</u></a></li>
+</ul></div>
 

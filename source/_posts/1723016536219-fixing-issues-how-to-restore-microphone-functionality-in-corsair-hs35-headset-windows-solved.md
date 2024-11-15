@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Restore Microphone Functionality in Corsair HS35 Headset (Windows) | Solved!"
-date: 2024-11-01T23:33:30.697Z
-updated: 2024-11-05T11:09:48.491Z
+date: 2024-11-11T17:17:35.086Z
+updated: 2024-11-15T17:42:13.081Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 3. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Allow access to your headset microphone (for Windows 10 users)
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
@@ -42,26 +49,13 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 1. Press the **Windows logo key** + **I** together. Then click **Privacy** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-7-1.jpg)
 2. Click **Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click the **Change** button, then make sure the**Microphone for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
@@ -80,39 +74,32 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 3. Select **Sound** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-10.jpg)
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Right-click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Right-click it again and select Set as Default Device.![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 7. Right-click **Headset Microphone** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Click the **Levels** tab, then drag the volume slider towards the _largest value_ .![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4db71801655.jpg)
@@ -134,6 +121,20 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install **Driver Easy** .
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/a5.jpg)
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)![](https://images.drivereasy.com/wp-content/uploads/2019/07/a6-1.jpg)
 
  Once you’ve updated the driver for your Corsair HS60 headset, restart your computer. Then log in again and see if the microphone is working.
@@ -171,14 +172,19 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-primeworld-views-worldwide-channel-accessibility-now/"><u>[New] PrimeWorld Views Worldwide Channel Accessibility Now</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-spotlight-on-todays-viral-tiktok-experiments-for-2024/"><u>[New] Spotlight on Today’s Viral TikTok Experiments for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-12-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 12 How to Bypass?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-overwatch-competitive-edge-meets-team-tactics-in-shooter-gaming/"><u>Expert Review of Overwatch: Competitive Edge Meets Team Tactics in Shooter Gaming.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-audio-on-your-airpods-with-windows-11-or-10/"><u>Fixing the Issue: How to Restore Audio on Your AirPods with Windows 11 or 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-manager-when-it-wont-launch/"><u>How to Fix Realtek HD Audio Manager When It Won't Launch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-when-nvidia-gpu-isnt-detected-top-solutions/"><u>How to Resolve When Nvidia GPU Isn't Detected: Top Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-muzik-pathway-tamil-music-to-your-phones-chime/"><u>In 2024, Muzik Pathway Tamil Music to Your Phone's Chime</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-realtek-mic-doesnt-work/"><u>Troubleshooting Steps When Your Realtek Mic Doesn't Work</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-offline-adventures-top-10-android-journeys-without-connectivity/"><u>[New] 2024 Approved Offline Adventures Top 10 Android Journeys Without Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-7-user-manual-correcting-unwanted-sounds-in-your-headset-while-using-windows-os/"><u>Arctis 7 User Manual: Correcting Unwanted Sounds in Your Headset While Using Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-microphone-issues-on-your-razer-barracuda-x-solutions-for-windows-11-and-10-users/"><u>Fixing Microphone Issues on Your Razer Barracuda X - Solutions for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-lack-of-sound-in-windows-media-player-a-step-by-step-guide/"><u>How to Fix Lack of Sound in Windows Media Player - A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-tecno-spark-10-4g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Tecno Spark 10 4G Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-top-jokesters/"><u>In 2024, Twitter's Top Jokesters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726222384127-qt-movavi/"><u>QTファイルを簡単に無料でオンライン変換 - Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-overcoming-common-problems-when-your-csgo-headset-mic-fails-to-work/"><u>Solution Found! Overcoming Common Problems When Your CS:GO Headset Mic Fails to Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012970455-solved-league-of-legends-fastest-per-second-drop-rates-unveiled/"><u>Solved: League of Legends Fastest Per Second Drop Rates Unveiled!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-speakers-solutions-to-conexant-smartaudio-hds-lack-of-sound-on-windows-10-systems/"><u>Troubleshooting Silent Speakers: Solutions to Conexant SmartAudio HD's Lack of Sound on Windows 10 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-video-potential-with-free-enhancers-for-2024/"><u>Unleash Your Video Potential with Free Enhancers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unsticking-your-game-sound-a-step-by-step-fix-for-runmusr-mic-problems/"><u>Unsticking Your Game Sound: A Step-by-Step Fix for RUNMUSR Mic Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-epson-all-in-one-printer-free-wf-3620-drivers-for-windows-users-on-oses-10-8-and-7/"><u>Update Your Epson All-in-One Printer: Free WF-3620 Drivers for Windows Users on OSes 10, 8 & 7</u></a></li>
 </ul></div>
 

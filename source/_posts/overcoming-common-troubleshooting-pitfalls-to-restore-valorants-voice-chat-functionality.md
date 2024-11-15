@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Troubleshooting Pitfalls to Restore Valorant’s Voice Chat Functionality
-date: 2024-10-24T17:30:51.705Z
-updated: 2024-10-30T16:13:17.609Z
+date: 2024-11-09T17:27:34.249Z
+updated: 2024-11-15T16:13:18.828Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db
 4. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Turn on app permissions for your microphone
 
  To use your microphone with apps on Windows, you’ll need to turn on some permissions in Microphone settings. Here’s how:
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db
  4) Under the**Allow apps to access your microphone** section, make sure it’s turned**On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the**Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that**Allow desktop apps to access your microphone** is turned**On** .
 
@@ -78,26 +78,26 @@ thumbnail: https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db
 ![sound settings input section](https://images.drivereasy.com/wp-content/uploads/2021/02/Input-section-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Make sure that your headset is not disabled.  
   
 ![make sure your headset isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/02/make-sure-your-headset-isnt-disabled.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve confirmed that your microphone is enabled, do a test to check if it’s now back to normal. If the microphone is still not working properly, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Set your microphone device as default
 
@@ -107,16 +107,16 @@ thumbnail: https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select the**Recording** tab. Select your microphone and then click**Set Default > OK** .  
   
@@ -125,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db
  When it’s all done, use your microphone to check if it’s working now. If you’re still having the same problem, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your audio driver
 
@@ -141,10 +148,10 @@ Here’s how to update drivers with Driver Easy:
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -157,13 +164,6 @@ Here’s how to update drivers with Driver Easy:
  After updating your drivers, restart your computer and do a mic test to check if it’s back to a normal state. If the microphone is still not working properly, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Troubleshoot hardware issues
 
@@ -192,18 +192,19 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-5-best-sites-for-quick-templates-on-youtube/"><u>[New] 2024 Approved 5 Best Sites for Quick Templates on YouTube</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-clearance-checking-guidelines-for-pre-upload-to-tiktok-for-2024/"><u>[New] Clearance-Checking Guidelines for Pre-Upload to TikTok for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-evaluating-djis-phantom-3-features/"><u>[Updated] Evaluating DJI's Phantom 3 Features</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-8-text-message-retrieval-apps-top-picks-with-stellar-features/"><u>Best 8 Text Message Retrieval Apps: Top Picks with Stellar Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/configuring-windows-n-10-to-recognize-and-setup-incompatible-speakers/"><u>Configuring Windows N 10 to Recognize and Setup Incompatible Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dota-2-microphone-not-working-heres-how-to-fix-it-easily/"><u>Dota 2 Microphone Not Working? Here's How to Fix It Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-interruptions-and-distortions-on-your-pc-windows-107-solutions/"><u>How to Fix Audio Interruptions and Distortions on Your PC - Windows 10/7 Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-go-2024-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark Go (2024) Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-fast-fix-techniques-for-the-test-tone-not-working-glitch/"><u>Master Fast-Fix Techniques for the 'Test Tone Not Working' Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-black-screen-glitches-on-your-halo-infinite-gameplay/"><u>Overcoming Black Screen Glitches on Your Halo Infinite Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-squad-microphones-the-ultimate-2024-handbook/"><u>Troubleshooting and Repairing Squad Microphones - The Ultimate 2024 Handbook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-voice-chat-on-modern-warfare-gameplay/"><u>Troubleshooting Non-Functional Voice Chat on Modern Warfare Gameplay</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-editing-suites-recommendations-for-windows-videographers/"><u>[New] Top Editing Suites Recommendations for Windows Videographers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4-for-2024/"><u>[Updated] Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-artisans-crafting-a-personal-library-with-6-best-free-youtube-apps-for-2024/"><u>Audio Artisans Crafting a Personal Library with 6 Best Free YouTube Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://facebook.techidaily.com/dividing-lines-in-digital-districts-with-facebook-update/"><u>Dividing Lines in Digital Districts with Facebook Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-troubleshooting-guide-solving-windows-1nt-playing-sounds-issue/"><u>Easy Troubleshooting Guide: Solving Windows 1N't Playing Sounds Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-ways-to-fix-fluctuating-sound-quality-on-your-windows-11-pc/"><u>Effortless Ways to Fix Fluctuating Sound Quality on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-opportunity-secure-the-cheapest-ever-price-on-the-apple-watch-series-nine-available-post-prime-day/"><u>Exclusive Opportunity: Secure the Cheapest Ever Price on the Apple Watch Series Nine - Available Post-Prime Day</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instant-collage-creation-tips-for-social-media-posts-for-2024/"><u>Instant Collage Creation Tips for Social Media Posts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-audio-problems-steps-to-reactivate-your-driver-on-windows-11/"><u>Overcoming Dolby Audio Problems: Steps to Reactivate Your Driver on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-dead-logitech-g633-mic-techniques-and-advice/"><u>Reviving a Dead Logitech G633 Mic: Techniques and Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-razer-barracuda-x-mic-problems-for-w10w11-users/"><u>Step-by-Step Guide: Resolving Razer Barracuda X Mic Problems for W10/W11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-lack-of-audio-on-your-laptop-effective-solutions/"><u>Troubleshooting Complete Lack of Audio on Your Laptop – Effective Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/win-like-a-pro-with-this-no-cost-high-impact-voice-changer-for-valorant/"><u>Win Like a Pro with This No-Cost, High-Impact Voice Changer for Valorant</u></a></li>
 </ul></div>
 

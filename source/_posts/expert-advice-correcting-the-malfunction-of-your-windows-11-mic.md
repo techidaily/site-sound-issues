@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Correcting the Malfunction of Your Windows 11 Mic"
-date: 2024-10-28T16:54:02.820Z
-updated: 2024-10-30T17:00:15.945Z
+date: 2024-11-12T16:42:58.640Z
+updated: 2024-11-15T17:41:47.464Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  When the above check is done, and you find the problem on your computer, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2, make sure the connection between your speakers and computer is good
@@ -47,6 +47,19 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -56,29 +69,36 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set Speakers as Default
@@ -98,20 +118,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
@@ -122,25 +135,19 @@ Follow these steps:
 2. Type **devmgmt.msc** in the run box and click**OK** button. This is to open Device Manager Window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -175,22 +182,24 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-explore-oceans-anew-top-camcorders-for-divers-and-snorkelers/"><u>[New] Explore Oceans Anew - Top Camcorders for Divers & Snorkelers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-guide-to-effective-screen-recording-macos/"><u>[New] In 2024, Quick Guide to Effective Screen Recording macOS</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728503117238-windows-11usb/"><u>如何制作Windows 11修复USB闪存驱动器：多种方法介绍</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-15-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 15 Pro Max Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-dolby-troubleshooting-for-windows-10-users-get-high-quality-sound-back-today/"><u>DIY Dolby Troubleshooting for Windows 10 Users – Get High-Quality Sound Back Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eradicate-your-bluetooth-audio-buffering-issues-instantly-and-effortlessly/"><u>Eradicate Your Bluetooth Audio Buffering Issues Instantly & Effortlessly.</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-proplus-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 Pro+ 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-hdmi-audio-issues-on-windows-7-computers/"><u>How to Fix HDMI Audio Issues on Windows 7 Computers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-gaming-snaps-top-5-windows-11-tactics/"><u>In 2024, Mastering Gaming Snaps Top 5 Windows 11 Tactics</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1728497349631-iphone/"><u>IPhone ˈ删除照片復原方法详解：三种有效策略回复图像</u></a></li>
-<li><a href="https://common-error.techidaily.com/is-my-netflix-malfunctioning-solutions-for-streaming-hiccups/"><u>Is My Netflix Malfunctioning? Solutions for Streaming Hiccups</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-skips-or-pauses-optimizing-bluetooth-sound-on-windows-11-platform/"><u>No More Skips or Pauses: Optimizing Bluetooth Sound on Windows 11 Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016083279-obs-microphone-not-working-heres-how-to-record-sound-again/"><u>OBS Microphone Not Working? Here's How to Record Sound Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-challenges-with-a-malfunctioning-lucidsound-ls30-microphone/"><u>Overcoming Challenges with a Malfunctioning LucidSound LS30 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-how-to-restore-sounds-in-cyberpunk-2077-on-windows-11-computers/"><u>Resolved! How to Restore Sounds in Cyberpunk 2077 on Windows 11 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silence-in-windows-media-player-effective-troubleshooting-steps/"><u>Solving the Silence in Windows Media Player: Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-ultimate-exploration-inside-xcreative-media-suite/"><u>The Ultimate Exploration Inside XCreative Media Suite</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-leveraging-communication-to-enhance-interview-success/"><u>[New] In 2024, Leveraging Communication to Enhance Interview Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-reviewing-ion-air-pro-3-capturing-life-in-high-definition/"><u>[Updated] 2024 Approved Reviewing ION Air Pro 3 - Capturing Life in High Definition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-leveraging-hashtags-in-twitter-advertising/"><u>[Updated] In 2024, Leveraging Hashtags in Twitter Advertising</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streamlined-mov-recording-tactics-on-windows-11-platforms/"><u>[Updated] In 2024, Streamlined .MOV Recording Tactics on Windows 11 Platforms</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/3-effective-methods-for-retrieving-iphone-note-data-from-backups-step-by-step-guide/"><u>3 Effective Methods for Retrieving iPhone Note Data From Backups: Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-unresponsive-creative-pebble-audio-devices/"><u>Diagnosing and Repairing Unresponsive Creative Pebble Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dota-2-pc-microphone-not-working-heres-how-you-can-fix-it-now/"><u>Dota 2 PC Microphone Not Working? Here's How You Can Fix It Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-for-dealing-with-non-operational-sound-services/"><u>Effective Techniques for Dealing with Non-Operational Sound Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-discord-not-acknowledging-video-game-audio-issues-resolved/"><u>How To Fix Discord Not Acknowledging Video Game Audio Issues Resolved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g533-mic-working-again-a-comprehensive-guide/"><u>How to Get Your Logitech G533 Mic Working Again: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-10c-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-analysis-the-top-7-android-apps-to-combat-ads-effectively/"><u>In 2024, In-Depth Analysis The Top 7 Android Apps to Combat Ads Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-guide-resolving-connectivity-issues-with-your-logitech-g633-mic/"><u>Quick Guide: Resolving Connectivity Issues with Your Logitech G633 Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reconnect-the-ears-of-fortnite-a-guide-to-reviving-in-game-sounds/"><u>Reconnect the Ears of Fortnite: A Guide to Reviving In-Game Sounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-mic-quickly-a-step-by-step-guide-to-easy-repairs/"><u>Revive Your Razer Mic Quickly: A Step-by-Step Guide to Easy Repairs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-elite-club-of-youtubes-favorite-shorter-videos-for-2024/"><u>The Elite Club of YouTube's Favorite Shorter Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-issues-with-active-audio-services/"><u>Troubleshooting: Fixing Issues with Active Audio Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-of-ai-exploring-features-and-uses-of-claude-2/"><u>Unveiling the Potential of AI: Exploring Features & Uses of Claude 2</u></a></li>
 </ul></div>
 

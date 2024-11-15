@@ -1,7 +1,7 @@
 ---
 title: No More Muted Facebook - Top Strategies to Restore Sound on Your Desktop This Year
-date: 2024-10-25T16:06:05.111Z
-updated: 2024-10-30T16:24:15.375Z
+date: 2024-11-10T17:00:36.287Z
+updated: 2024-11-15T17:56:48.068Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 
  If this method doesn’t fix your problem, please take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: **Change to another browser**
 
  If you’ve installed plugins on your current web browser, try playing the same video on another browser. Some**browser extensions** can mute tabs and some might cause your browser to function incorrectly. If the problem doesn’t occur on another browser, try disabling all the plugins on the previous browser and test again.
@@ -73,18 +66,18 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 
  If the problem persists after changing your browser, please move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4:**Restart your computer**
 
  It may sound silly, but rebooting your computer actually solves many problems. Especially when you’ve kept your PC running for a long period, and some programs start to function improperly. In all cases, a restart resets the current state of a software, and it might just fix your no sound issue at the same time.
 
  If restarting your computer doesn’t help either, please continue to the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5:**Update your audio driver**
 
@@ -108,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, restart your computer for it to take full effect. Then you can play some videos and see if your problem has gone away.
@@ -123,6 +123,13 @@ This method also applies to Windows 10, 8 or 7
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**mmsys.cpl** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Make sure you’re in the**Playback** tab. Select your desired output device (in my case it’s**Speakers** ) then click**Set default** . Finally, click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/set-default-output-device.jpg)
 3. Play some videos and see if it fixed your no sound issue.
@@ -142,40 +149,33 @@ Here’s how to do it:
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -199,17 +199,16 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-comparative-study-samsung-vs-traditional-photo-tools/"><u>[New] Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-tips-to-master-camera-snap-in-zoom-calls/"><u>[New] Expert Tips to Master Camera Snap in Zoom Calls</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-techniques-to-reformat-macscreenshot-extensions/"><u>[New] Techniques to Reformat MacScreenshot Extensions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-15-top-mobiles-elevating-dji-video-production-value/"><u>[Updated] 2024 Approved 15 Top Mobiles Elevating DJi Video Production Value</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-silence-proven-techniques-to-solve-webex-microphone-problems/"><u>Beat the Silence: Proven Techniques to Solve Webex Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-functionality-to-your-primary-aux-jack-no-sweat/"><u>Expert Tips for Restoring Functionality to Your Primary AUX Jack – No Sweat!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-with-headphones-on-a-windows-7-pc-expert-tips-and-tricks/"><u>How to Restore Audio with Headphones on a Windows 7 PC - Expert Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-voice-chat-feature-in-call-of-dutys-latest-installment/"><u>How to Restore Functionality of Voice Chat Feature in Call of Duty's Latest Installment</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-simple-procedure-modify-clownfish-tones-on-pc/"><u>In 2024, Simple Procedure Modify Clownfish Tones on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-ultimate-guide-to-eliminating-speaker-hum/"><u>Quick Fix: Ultimate Guide to Eliminating Speaker Hum</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-multitasking-with-quick-access-on-win-11/"><u>Streamline Multitasking with Quick Access on Win 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tiny-tinas-wonderlands-seamless-installation-guide-for-windows-pc/"><u>Tiny Tina's Wonderlands Seamless Installation Guide for Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-google-meet-microphone-not-working-on-window-1110/"><u>[FIXED] Google Meet Microphone Not Working on Window 11/10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exclusive-webcast-winners/"><u>[New] In 2024, Exclusive Webcast Winners</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-ways-to-stop-that-annoying-sound-from-your-headphones-today/"><u>Easy Ways to Stop That Annoying Sound From Your Headphones Today</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-paper-to-cloud-preserving-old-family-photographs/"><u>From Paper to Cloud Preserving Old Family Photographs</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/guia-libre-para-transferir-datos-de-hd-a-menor-ssd-en-sistemas-windows-versiones-1087/"><u>Guía Libre Para Transferir Datos De HD a Menor SSD en Sistemas Windows (Versiones 10/8/7)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-audio-working-again-with-your-usb-headset-on-windows-7-machines/"><u>How to Get Audio Working Again with Your USB Headset on Windows 7 Machines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-tecno-camon-30-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Tecno Camon 30 Pro 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-even-on-youtube-key-view-figures-explored/"><u>In 2024, Breaking Even on YouTube Key View Figures Explored</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/patched-problem-noise-not-working-correctly-on-firebox-browser/"><u>Patched Problem: Noise Not Working Correctly on Firebox Browser</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-virtuoso-microphone-quick-fix-solutions/"><u>Revive Your Corsair Virtuoso Microphone - Quick Fix Solutions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/windows-10-sicherung-wieder-aktivieren-losungsansatz-gefunden/"><u>Windows 10 Sicherung Wieder Aktivieren – Lösungsansatz Gefunden</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Razer Blackshark V2 Mic Problems? Here's How to Fix Them!
-date: 2024-08-31T23:52:54.107Z
-updated: 2024-09-01T23:52:54.107Z
+date: 2024-11-14T17:52:12.739Z
+updated: 2024-11-15T16:57:19.698Z
 tags:
   - win11
   - win10
@@ -54,23 +54,14 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try your Realtek microphone again to see if it works properly now. If the problem remains, please move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 3\. Update the sound card driver
 
  An outdated or incorrect sound card driver could also be the culprit to your Realtek microphone not working problem, so if the above two methods don’t help to restore your microphone, it’s likely that you have a corrupted or outdated audio driver. So you should update your drivers to see if it helps.
@@ -83,10 +74,15 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-**Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -96,8 +92,12 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Use the sound card driver from your computer manufacturer
 
  If the latest driver for the Realtek sound card doesn’t help to fix its microphone not working problem, it’s time to consider a different driver, and the one from your computer manufacturer is the go-to option.
@@ -118,6 +118,13 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Repair corrupted or damaged system files
 
 **Repairing corrupted or damaged system files** could also help fix issues like the Realtek microphone not working on PC. This is because the integrity of Windows system files is essential for proper operation and stability, while errors in critical system files can cause all sorts of problems that affect the overall system performance.
@@ -128,10 +135,6 @@ Only saints can remain calm and relax when you’re about to present in a Zoom m
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -141,8 +144,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Update BIOS
 
  If the above still doesn’t help to fix the Realtek microphone not working issue on your computer, you may need to consider a BIOS update, as it could be a problem between the Realtek sound card on the motherboard and your system. But you should always check your motherboard’s BIOS update release note to see if the microphone issue is mentioned.
@@ -154,8 +161,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Reset your computer
 
  If none of the above helps to restore your Realtek microphone, not even the BIOS update, you may need to consider a Windows reset: it wipes out all software incompatibilities and problems, it’s also the rule of thumb in telling a software problem from a hardware one: if the problem remains even after a system reset, then it’s definitely a hardware problem.
@@ -165,6 +176,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If the Realtek microphone remains not working even after a reset, then the next thing you should do is seek help from a hardware technician to see if your hardware components (the motherboard or the Realtek sound card) are at fault.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Final thought
 
@@ -184,8 +202,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +209,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-detailed-insight-hero4-black-operations/"><u>[New] 2024 Approved Detailed Insight Hero4 Black Operations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-efficiently-convert-youtube-to-desktop-format/"><u>[New] In 2024, Efficiently Convert YouTube to Desktop Format</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-smart-strategies-for-securely-saving-movie-moments-across-gadgets/"><u>[Updated] Smart Strategies for Securely Saving Movie Moments Across Gadgets</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-selection-8-preferred-mp3-grabbers-android/"><u>2024 Approved Ultimate Selection 8 Preferred MP3 Grabbers (Android)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-guide-solving-2024s-discord-sound-issues-no-more-audio-interruptions/"><u>Complete Guide: Solving 2024'S Discord Sound Issues - No More Audio Interruptions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-sennheiser-game-one-mic-issue/"><u>Diagnosing and Repairing the Sennheiser Game One Mic Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/disabling-the-enhanced-audio-settings-in-microsofts-latest-operating-system/"><u>Disabling the Enhanced Audio Settings in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-google-meet-microphone-not-working-on-windows-operating-systems-11-and-10/"><u>DIY Fixes for Google Meet Microphone Not Working on Windows Operating Systems - 11 and 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-voice-chat-problems-within-destiny-2-gameplay/"><u>Expert Advice: Resolving Voice Chat Problems Within Destiny 2 Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/faster-fingers-swift-results-the-definitive-approach-for-turbocharging-lagging-systems/"><u>Faster Fingers, Swift Results: The Definitive Approach for Turbocharging Lagging Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-inkjet-and-laser-issues-win10-style/"><u>Fix Inkjet & Laser Issues, Win10 Style</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-silent-system-restore-audio-on-your-windows-10-pc-instantly/"><u>Fix Silent System: Restore Audio on Your Windows 10 PC Instantly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23plus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>In 2024, Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-se-2022-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone SE (2022) Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-the-dark-setting-on-facebook-easy-solutions-explored/"><u>Reviving the Dark Setting on Facebook: Easy Solutions Explored</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Redragon Microphone Malfunction? Here's How You Can Fix It
-date: 2024-08-31T23:55:41.423Z
-updated: 2024-09-01T23:55:41.423Z
+date: 2024-11-13T17:00:48.270Z
+updated: 2024-11-15T16:59:18.688Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Having an issue of your microphone not working could be quite frustrating especi
 
 If that didn’t help, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn on app permissions for your microphone
 
  Normally, when your headset is plugged in, your system will detect it and your apps can access the microphone. But for some reasons, it may fail to do that. To check if your apps have access to your microphone, follow these steps:
@@ -64,13 +71,23 @@ If that didn’t help, proceed to the next fix.
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve done these, do a mic test. If it’s not functioning, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 3\. Update your audio driver
 
  Your audio driver is an essential piece of software that lets your system communicate with the sound card. If it is outdated or misconfigured, it would cause noticeable performance problems. To solve your problems, you need to update your audio driver.
@@ -85,30 +102,22 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-audio-driver-automatically-with-Driver-Easy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your PC and do a mic test. If it isn’t functioning properly, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Run the audio troubleshooter
 
  When you run into audio or sound issues, using the troubleshooting tool can help you identify what’s going on. To run the audio troubleshooter, follow the instructions below.
@@ -117,16 +126,17 @@ Here’s how to update drivers with Driver Easy:
   
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/audion-troubleshooter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Select your device and click **Next**  to start the troubleshooting process. Then wait for it to complete and you may be required to restart your computer.  
   
 ![run the audio troubleshooter](https://images.drivereasy.com/wp-content/uploads/2021/05/audio-troubleshooter.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 After the reboot, use your microphone and it should be working properly.
 
 ---
@@ -139,8 +149,6 @@ After the reboot, use your microphone and it should be working properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +156,20 @@ After the reboot, use your microphone and it should be working properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-rewind-on-request-swift-iphone-video-flip/"><u>[New] Rewind on Request Swift iPhone Video Flip</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unveiling-the-mysteries-high-quality-minecraft-capture-on-macos-for-2024/"><u>[Updated] Unveiling the Mysteries High-Quality Minecraft Capture on MacOS for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-troubleshooting-tips-for-webex-microphones/"><u>Essential Troubleshooting Tips for WebEx Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-airpods-microphone-issues-with-windows-11-a-step-by-step-guide/"><u>How to Fix Your AirPods' Microphone Issues with Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-samsung-galaxy-s24plus-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Samsung Galaxy S24+</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-mov-videos-in-windows-11/"><u>In 2024, Capturing MOV Videos in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/one-or-more-audio-service-isnt-running-solved/"><u>One or More Audio Service Isn't Running [Solved]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211140596-9781961064102-play/"><u>Play | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-a-step-by-step-fix-for-your-broken-headphones-on-windows-10/"><u>Restoring Audio: A Step-By-Step Fix For Your Broken Headphones On Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/silent-socializing-the-technique-to-conceal-fb-pages/"><u>Silent Socializing: The Technique to Conceal FB Pages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-skype-microphone-issues-in-windows-11-step-by-step-tutorial/"><u>Solve Your Skype Microphone Issues in Windows 11 - Step by Step Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unveiling-the-visual-magic-lg-27uhd68-4k-sync-tv/"><u>Unveiling the Visual Magic LG 27UHD68 4K Sync TV</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/zoom-panel-essentials-for-novices/"><u>Zoom Panel Essentials for Novices</u></a></li>
+</ul></div>
 

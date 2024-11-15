@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Rectify Google Meet's Microphone Problems on Your PC with Windows 11/10
-date: 2024-10-30T08:35:09.807Z
-updated: 2024-11-04T16:00:54.734Z
+date: 2024-11-08T16:00:46.489Z
+updated: 2024-11-15T16:36:38.887Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
  Before you proceed to the more complicated fixes, try**restarting your browser and computer** . A simple restart can sometimes perfectly resolve the microphone glitch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your audio driver
 
  If you’re using a faulty, corrupted or outdated audio driver, various audio issues will occur. You may find the microphone is malfunctioning or there’s no sound when using Google Meet. To fix the issue, make sure you install the latest correct audio driver.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/audio-driver-update-de.jpg)
 
@@ -72,6 +72,14 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 3. Scroll down and make sure the button under**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** is set to**On** . This makes it possible for your browser to access the microphone.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  When you complete the steps, check if Google Meet can pick up your voice. If not, move on to the next method below.
@@ -83,33 +91,36 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**mmsys.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-1.jpg)
 2. Navigate to the**Recording** tab. First make sure your microphone is enabled (showing a green checkmark). If it’s not and displays a grey down-arrow icon, right-click it and click**Enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-3.jpg)
 3. Click the**Microphone** you would like to use and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
 4. You also need to set the microphone volume to a proper level: right-click the microphone and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-6-1.jpg)
 5. Click the**Levels** tab and drag the microphone slider to turn the volume to the max. Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/sound-settings-2-1.jpg)
 
@@ -124,31 +135,17 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 2. Make sure your microphone is not turned off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click the**vertical ellipsis icon** at the top left and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-2.jpg)
 4. From the drop-down menu under Microphone, select your primary microphone.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/google-meet-setting-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you still can’t use the microphone in Google Meet, the last resort is to**double-check the physical connection** .
 
@@ -177,22 +174,22 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-culinary-cinema-secrets-the-best-tips-to-make-your-kitchen-films-pop-for-2024/"><u>[New] Culinary Cinema Secrets - The Best Tips to Make Your Kitchen Films Pop for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/"><u>[Updated] In 2024, The Essential Filmmaker's Toolkit A Guide to Audio Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-real-time-screen-replay-on-chrome-pcs-for-2024/"><u>[Updated] Real-Time Screen Replay on Chrome PCs for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capture-studio-high-fidelity-screen-record/"><u>Capture Studio High Fidelity Screen Record</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-tips-to-repair-and-improve-steams-audio-chatting-experience/"><u>Comprehensive Tips to Repair and Improve Steam's Audio Chatting Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-speaker-distortion-on-windows-11-and-7-a-comprehensive-guide/"><u>Fixing Speaker Distortion on Windows 11 and 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-incognito-mode-how-to-stay-anonymous-across-different-browsers-like-chrome-edge-firefox-safari-and-opera/"><u>Master Incognito Mode: How to Stay Anonymous Across Different Browsers Like Chrome, Edge, FireFox, Safari & Opera</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-solutions-to-stop-ark-adventure-essentials-from-crashing-on-your-computer-now/"><u>Master the Solutions to Stop ARK: Adventure Essentials From Crashing on Your Computer Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/redragon-microphone-malfunction-diagnosing-and-repairing-the-connection-issue-with-pcs/"><u>Redragon Microphone Malfunction: Diagnosing and Repairing the Connection Issue with PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/skipped-fingerprint-scan-on-pc/"><u>Skipped Fingerprint Scan on PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/social-media-streamlining-iphoneandroid-tips-for-effective-feeds-for-2024/"><u>Social Media Streamlining IPhone/Android Tips for Effective Feeds for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-unknown-speaker-configuration-issues-in-windows-11/"><u>Solving Unknown Speaker Configuration Issues in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-no-sound-problems-in-laptop-built-in-speakers-easily/"><u>Troubleshooting and Solving No-Sound Problems in Laptop Built-In Speakers Easily</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-microphone-issues-on-skype-with-windows-11/"><u>Troubleshooting Guide: Fixing Microphone Issues on Skype with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-non-functional-mic-on-the-steelseries-arctis-prime-headset/"><u>Troubleshooting: Fixing Non-Functional Mic on the SteelSeries Arctis Prime Headset</u></a></li>
-<li><a href="https://blog-min.techidaily.com/opus-movavi/"><u>오픈소스 광고용 OPUS 파일을 무료로 바이트 단위로 변환: Movavi의 속도적인 해결책</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>[New] In 2024, A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-exporting-snapchat-content-to-your-phones-gallery/"><u>2024 Approved Exporting SnapChat Content to Your Phone's Gallery</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-150-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia 150 (2023) Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-find-x7-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Find X7? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/introducing-effortless-age-correction-in-profiles/"><u>Introducing Effortless Age Correction in Profiles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-into-youtubes-decision-making-for-prominent-remarks/"><u>Probing Into YouTube's Decision-Making for Prominent Remarks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015566278-sensible-heat-causes-a-change-in-temperature-while-latent-heat-results-in-a-phase-change-without-changing-temperature/"><u>Sensible Heat Causes a Change in Temperature, While Latent Heat Results in a Phase Change without Changing Temperature.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-process-on-securing-help-with-your-iphone-via-the-apple-support-application/"><u>Step-by-Step Process on Securing Help with Your iPhone via the Apple Support Application</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fix-dolby-audio-not-starting-issue-on-windows-10-pcs/"><u>Troubleshooting Guide: Fix Dolby Audio Not Starting Issue on Windows 10 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-issues-handling-device-interference-from-active-programs/"><u>Troubleshooting HDMI Issues: Handling Device Interference From Active Programs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-pc-audio-fixing-low-sounds-in-windows-11/"><u>Troubleshooting Quiet PC Audio: Fixing Low Sounds in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-an-unresponsive-astro-a50-audio-system/"><u>Troubleshooting Steps for an Unresponsive Astro A50 Audio System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-nvidia-hd-audio-issues-restoring-your-devices-sound/"><u>Troubleshooting Steps for NVIDIA HD Audio Issues: Restoring Your Device's Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-how-to-get-your-computers-sound-back-on-track/"><u>Ultimate Guide: How To Get Your Computer's Sound Back On Track</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxing-the-apple-imac-a-showcase-of-unmatched-style-power-and-4k-excellence/"><u>Unboxing the Apple iMac: A Showcase of Unmatched Style, Power & 4K Excellence</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/vollstandige-datensauberung-vom-pc-zwei-effektive-strategien-fur-ein-sauberes-system/"><u>Vollständige Datensäuberung Vom PC: Zwei Effektive Strategien Für Ein Sauberes System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-user-facing-problems-launching-dolby-digital-drivers-heres-your-guide-to-a-solution/"><u>Windows 11 User Facing Problems Launching Dolby Digital Drivers? Here's Your Guide to a Solution!</u></a></li>
 </ul></div>
 

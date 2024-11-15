@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies to Restore Google Hangouts Microphone Functionality
-date: 2024-08-31T23:54:25.495Z
-updated: 2024-09-01T23:54:25.495Z
+date: 2024-11-12T17:18:09.016Z
+updated: 2024-11-15T16:43:24.498Z
 tags:
   - win11
   - win10
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -48,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
@@ -65,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
@@ -72,8 +100,12 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Update your audio drivers
 
  The mic on your Turtle Beach headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -88,25 +120,16 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Method 3: Troubleshoot hardware issues
 
  If your headset microphone is still not working, it’s likely there are hardware issues with your computer or your headset. In this case, there are a few things you need to do.
@@ -126,8 +149,6 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +156,26 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-under-200-cameras-with-action-potential-at-your-fingertips/"><u>[New] In 2024, Under $200 Cameras with Action Potential at Your Fingertips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-potential-creating-your-youtube-identity/"><u>[New] Unlocking Potential Creating Your YouTube Identity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-quick-instructions-for-downloading-and-fun-with-ifunny-memes/"><u>2024 Approved Quick Instructions for Downloading and Fun with iFunny Memes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-silent-gamers-nightmare-fix-sounds-not-working-on-windows-11-here/"><u>Anthem Silent Gamer's Nightmare? Fix Sounds Not Working on Windows 11 Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-breakdown-how-to-restore-working-functionality-in-laptop-speakers/"><u>Audio Breakdown? How to Restore Working Functionality in Laptop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/command-the-field-again-comprehensive-guide-to-restoring-psr-player-screen-refresh-on-pc-call-of-duty-warzone-2024/"><u>Command the Field Again: Comprehensive Guide to Restoring PSR (Player Screen Refresh) on PC [Call of Duty: Warzone 2024]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-fixing-your-hp-notebooks-missing-speaker-functionality/"><u>Comprehensive Guide to Fixing Your HP Notebook's Missing Speaker Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs60-not-picking-up-sound-heres-what-you-can-do/"><u>Corsair HS60 Not Picking Up Sound? Here's What You Can Do!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-razer-kraken-microphone-when-it-wont-work-anymore/"><u>Diagnosing and Repairing Your Razer Kraken Microphone When It Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-effective-ways-to-fix-a-malfunctioning-corsair-headset/"><u>DIY Repairs: Effective Ways to Fix a Malfunctioning Corsair Headset</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-drivers-for-nvidia-rtx-2080-on-windows-11-8-and-7/"><u>Download the Newest Drivers for NVIDIA RTX 2080 on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-fix-for-windows-11-audio-problems-a-step-by-step-guide-to-solving-common-troubles/"><u>Easy Fix for Windows 11 Audio Problems: A Step-by-Step Guide to Solving Common Troubles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-oppo-a79-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo A79 5G Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-90-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor 90 Face Lock?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastery-over-managing-device-issues-in-dm/"><u>Mastery over Managing Device Issues in DM</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfect-livestream-match-10-top-tier-platform-recommendations-for-2024/"><u>Perfect Livestream Match 10 Top-Tier Platform Recommendations for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pixelpipe-pro-discovering-freepaid-editors/"><u>PixelPipe Pro Discovering Free/Paid Editors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016882410-troubleshoot-and-resolve-your-counter-strike-2-audio-problems-today/"><u>Troubleshoot and Resolve Your Counter-Strike 2 Audio Problems Today</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-edgeplus-2023-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Edge+ (2023)? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

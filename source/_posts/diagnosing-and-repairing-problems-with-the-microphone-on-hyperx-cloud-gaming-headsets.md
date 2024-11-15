@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Problems with the Microphone on HyperX Cloud Gaming Headsets
-date: 2024-10-25T16:25:04.407Z
-updated: 2024-10-30T17:41:33.688Z
+date: 2024-11-10T17:21:10.140Z
+updated: 2024-11-15T16:23:16.824Z
 tags:
   - win11
   - win10
@@ -53,18 +53,26 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 2. Type or paste**ms-settings:privacy-microphone** , then hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win11-microphone-privacy.jpg)
 3. Ensure microphpne access for this device is**on** . If it is off, then check the**Change** button below to turn it on. You should also**turn on the toggle** under**Allow apps to access your microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
 
- Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
 
 ## Fix 3: Check Windows sound settings
 
@@ -74,41 +82,41 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds.jpg)
 2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 4. Then**right-click** it again and select **Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 5. Right-click **Headset Microphone** and click **Properties** .  
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Headset microphone properties](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 6. Click the **Levels** tab, then drag the volume slider towards the _maximum value_ .  
@@ -116,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 7. Click**OK** to save the changes.
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your audio drivers
 
@@ -167,21 +168,22 @@ thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-best-strategies-for-saving-igtv-videos-mobilely/"><u>[Updated] 2024 Approved The Best Strategies for Saving IGTV Videos Mobilely</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unveiling-the-20-core-strategies-for-effective-facebook-video-ads/"><u>[Updated] 2024 Approved Unveiling the 20 Core Strategies for Effective Facebook Video Ads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-effortlessly-record-macos-content-and-display/"><u>[Updated] In 2024, Effortlessly Record macOS Content & Display</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-issues-on-your-hp-computer-restore-sound-backup-solutions-for-windows-10-owners/"><u>Audio Issues on Your HP Computer? Restore Sound Backup Solutions for Windows 10 Owners</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-mending-malfunctioning-pebble-music-speakers/"><u>Diagnosing and Mending Malfunctioning Pebble Music Speakers</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-of-intelnvidia-conflict-in-switchable-graphic-cards-on-win11/"><u>End of Intel/Nvidia Conflict in Switchable Graphic Cards on Win11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-securely-get-your-free-nvidia-3d-vision-drivers-on-windows-without-hassle/"><u>How to Securely Get Your Free Nvidia 3D Vision Drivers on Windows Without Hassle</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/instantly-fix-silent-pcs-in-windows-11-with-these-easy-steps/"><u>Instantly Fix Silent PCs in Windows 11 with These Easy Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-skype-sound-not-working-issues/"><u>Quick Solutions for Skype Sound Not Working Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-audio-functionality-on-windows-10-systems/"><u>Quick Solutions to Restore Audio Functionality on Windows 10 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/synchronize-effortlessly-utilizing-one-phone-number-on-various-mobile-and-smart-devices/"><u>Synchronize Effortlessly: Utilizing One Phone Number on Various Mobile and Smart Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-essays-with-ai-assistance-gpt-methods/"><u>Tailoring Essays with AI Assistance: GPT Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-for-faulty-beyond-the-wire-mics/"><u>Ultimate Troubleshooting Guide for Faulty Beyond The Wire Mics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-5-compelling-literary-video-tts/"><u>Unveiling 5 Compelling Literary Video TTs</u></a></li>
-<li><a href="https://techidaily.com/update-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Update drivers with Device Manager on Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/winning-back-sounds-after-windows-11-update-troubleshooting-steps-for-beginners/"><u>Winning Back Sounds After Windows 11 Update – Troubleshooting Steps for Beginners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-discover-these-6-must-have-instagram-reel-tools/"><u>[Updated] In 2024, Discover These 6 Must-Have Instagram Reel Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015909653-audio-malfunctions-on-pc-heres-the-fix/"><u>Audio Malfunctions on PC? Here's the Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-logitech-g-pro-x-mic-errors-diagnosis-and-quick-fixes-guide/"><u>Common Logitech G Pro X Mic Errors: Diagnosis & Quick Fixes [Guide]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-oculus-rift-s-headset-microphone-issues-fast-top-solutions/"><u>Fix Your Oculus Rift S Headset Microphone Issues Fast: Top Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-update-and-download-enhanced-hp-deskjet-ink-advantage-3700-printer-drivers/"><u>Free Update & Download: Enhanced HP Deskjet Ink Advantage 3700 Printer Drivers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-15-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 15</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-zoom-no-sound-on-pc/"><u>How to Fix Zoom No Sound on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-non-functional-microphone-during-google-meets-on-windows-1110/"><u>How to Repair Non-Functional Microphone During Google Meets on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-sound-functionality-in-windows-7-systems/"><u>How to Restore HDMI Sound Functionality in Windows 7 Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photobooth-recording-stalls-whats-goin-on-in-2024/"><u>Photobooth Recording Stalls What's Goin' On, In 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-your-printing-experience-download-and-update-officejet-pro-8620-drivers-in-windows/"><u>Revamp Your Printing Experience - Download & Update OfficeJet Pro 8620 Drivers in Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/savory-showlines-top-30-engaging-recipe-broadcast-names-for-2024/"><u>Savory Showlines Top 30 Engaging Recipe Broadcast Names for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sensor-malfunction-no-print-scanning/"><u>Sensor Malfunction: No Print Scanning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-crackling-sound-issue-with-your-logitech-g-pro-x-headset-pc-a-comprehensive-guide/"><u>Solving the Crackling Sound Issue with Your Logitech G Pro X Headset (PC) : A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-fixing-windows-11-8-and-7-drivers-resolved/"><u>StarTech: Fixing Windows 11, 8, & 7 Drivers (Resolved)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-latency-problems-enhancing-your-fortnite-experience-on-pc/"><u>Troubleshooting Latency Problems: Enhancing Your Fortnite Experience on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-strips-emojis-linuss-secrets-exposed-trojan-threats-unveiled-and-chatbot-pitfalls/"><u>Twitter Strips Emojis, Linus's Secrets Exposed, Trojan Threats Unveiled, & ChatBot Pitfalls.</u></a></li>
 </ul></div>
 

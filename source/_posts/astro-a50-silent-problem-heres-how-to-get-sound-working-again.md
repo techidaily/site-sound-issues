@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Silent Problem? Here's How to Get Sound Working Again!
-date: 2024-10-31T03:18:14.563Z
-updated: 2024-11-05T03:46:00.495Z
+date: 2024-11-10T17:11:31.323Z
+updated: 2024-11-15T17:22:36.088Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ If you run into the**Lenovo laptop no sound** issue, don’t panic. It’s often
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Troubleshoot hardware issues
 
  You can start troubleshooting the laptop no sound issue by ruling out the hardware errors.
@@ -53,6 +46,13 @@ Here is how to do it:
  If the sound is still not working on your Lenovo laptop, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
 
@@ -71,10 +71,10 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -95,6 +95,13 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
  4) **Restart** your computer and test if you get sound back on your Lenovo laptop. If yes, then congrats! If the no sound issue persists, please move on to**Fix 3** , below.
@@ -102,10 +109,10 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Set default audio devices
@@ -118,29 +125,22 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **Playback** tab, click on **the audio device you wish to play** , then click **Set Default** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f797e4504.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If **the audio device you’re to play** doesn’t show up in the device list, and right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the device** once it appears and click **Enable** before you do step **2)** .
 
  3) Check to see if your Lenovo no sound problem has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5,** below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
 
@@ -187,18 +187,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-prime-7-cameras-unbeatable-in-underwater-shooting/"><u>[New] Prime 7 Cameras Unbeatable In Underwater Shooting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-the-mechanisms-of-youtubes-cc-license/"><u>[New] Understanding the Mechanisms of YouTube's CC License</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/division-2-optimization-guide-eliminating-low-fps-and-stuttering-issues-in-the-new-year/"><u>Division 2 Optimization Guide: Eliminating Low FPS & Stuttering Issues in the New Year</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-navigate-and-network-during-a-twitter-discussion-event/"><u>How to Navigate and Network During a Twitter Discussion Event</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-s17-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo S17? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/konvertingereen-wtv-en-online-in-wmv-met-gratuiciel-movavi/"><u>Konvertingereen WTV en Online in WMV Met Gratuiciel Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/schritte-zur-reparatur-von-inaktiven-mikrofonen-g2000-serie-bei-der-webseite-ktion/"><u>Schritte Zur Reparatur Von Inaktiven Mikrofonen G2000-Serie Bei Der Webseite Ktion</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-missing-helperdll-errors-on-your-pc-a-step-by-step-guide/"><u>Solving 'Missing Helper.dll' Errors on Your PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolve-non-functioning-voice-chat-feature-in-rainbow-six-siege-update-2e4/"><u>Step-by-Step Tutorial: Resolve Non-Functioning Voice Chat Feature in Rainbow Six Siege [Update 2E4]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-sound-problems-on-windows-7-computers/"><u>Troubleshooting HDMI Sound Problems on Windows 7 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fix-ensuring-your-headphones-recognize-as-output-on-windows-10/"><u>Ultimate Fix: Ensuring Your Headphones Recognize as Output on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-how-to-get-your-beyond-the-wire-microphone-back-on-track/"><u>Ultimate Repair Guide: How To Get Your 'Beyond the Wire' Microphone Back On Track</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-voice-memo-basics-your-complete-guide-to-audio-recording/"><u>[New] In 2024, Voice Memo Basics Your Complete Guide to Audio Recording</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecrets-unveiled-perfect-your-360-youtube-live-experience-for-2024/"><u>[New] Secrets Unveiled Perfect Your 360° YouTube Live Experience for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-lullaby-labyrinths-best-vocalists-for-sleep-aid-for-2024/"><u>[Updated] Lullaby Labyrinths Best Vocalists For Sleep Aid for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-a34-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy A34 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clearer-listening-no-buzzy-interruptions-a-comprehensive-guide-to-repairing-headphone-noise-issues/"><u>Clearer Listening, No Buzzy Interruptions: A Comprehensive Guide to Repairing Headphone Noise Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-logitech-camcorder-mic-a-step-by-step-guide/"><u>Fixing a Non-Functional Logitech Camcorder Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-usb-headphones-on-your-pc-running-windows-wo-firiendly/"><u>Fixing Silent USB Headphones on Your PC Running Windows Wo-Firiendly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-meet-microphone-malfunction-on-windows-1110-heres-how-you-can-get-it-working-again/"><u>Google Meet Microphone Malfunction on Windows 11/10? Here's How You Can Get It Working Again</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-ideal-shade-modifier-software/"><u>In 2024, Ideal Shade Modifier Software</u></a></li>
+<li><a href="https://media-tips.techidaily.com/master-audio-production-like-a-pro-using-reaper-leading-software-for-recording-editing-and-mixing/"><u>Master Audio Production Like a Pro Using Reaper - Leading Software for Recording, Editing, and Mixing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016162732-resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-to-resolve-astro-a2e-20-microphone-issues/"><u>Simple Steps to Resolve Astro A2e 20 Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-laptop-speakers-not-working-problem-a-step-by-step-guide/"><u>Solving the 'Laptop Speakers Not Working' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-premium-outdoor-camping-chairs-expert-reviews-and-comparison-techadvisor/"><u>Top 5 Premium Outdoor Camping Chairs - Expert Reviews & Comparison | TechAdvisor</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transform-lagging-chrome-into-lightning-fast-performance-with-simple-tweaks/"><u>Transform Lagging Chrome Into Lightning Fast Performance with Simple Tweaks</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-cause-of-unregistered-packages-in-windows/"><u>Unraveling the Cause of Unregistered Packages in Windows</u></a></li>
 </ul></div>
 

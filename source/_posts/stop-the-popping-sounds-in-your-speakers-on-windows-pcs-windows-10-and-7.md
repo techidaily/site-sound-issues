@@ -1,7 +1,7 @@
 ---
 title: Stop the Popping Sounds in Your Speakers on Windows PCs (Windows 10 & 7)
-date: 2024-10-31T04:47:06.095Z
-updated: 2024-11-05T06:07:55.638Z
+date: 2024-11-08T16:39:22.462Z
+updated: 2024-11-15T16:48:37.180Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ But first, ensure that your device has been connected and set correctly.
 5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart the game**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Set your device as Default
 
  If you have multiple output devices (more than two), you’d better set the headset as default. It probably the reason for “Anthem no sound” error.
@@ -49,17 +56,10 @@ But first, ensure that your device has been connected and set correctly.
 4. Go back to the Anthem and check it has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run audio troubleshooting
@@ -69,14 +69,21 @@ But first, ensure that your device has been connected and set correctly.
 1. Press the **Windows logo key**  \+ **R** to open the Run box. Type “ms-settings: troubleshoot” and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/troubleshoot.jpg)
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Follow the on-screen instructions to finish the process.
 4. Restart your computer and check whether Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Set the Default Format in the lowest mode
@@ -89,21 +96,14 @@ But first, ensure that your device has been connected and set correctly.
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 5. Reboot your computer and check whether Anthem has sound or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Uncheck “Disable all sound effects”
 
@@ -114,14 +114,14 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Click **Apply > OK** .
 6. Reboot your computer and go back to the game, you should have audio now.
@@ -172,18 +172,15 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-experts-list-of-elite-game-recording-software/"><u>[New] In 2024, Expert's List of Elite Game Recording Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-through-facebook-gif-downloads-across-platforms-for-2024/"><u>[Updated] Navigating Through Facebook GIF Downloads Across Platforms for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-x50-gt-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor X50 GT FRP</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-premium-issue-how-to-restart-the-dolby-digital-audio-driver-on-windows-10/"><u>Fixing Dolby Premium Issue: How To Restart The Dolby Digital Audio Driver On Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Mix Fold 3</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-replay-anywhere-instant-guide-to-youtube-video-loops/"><u>In 2024, Replay Anywhere Instant Guide to YouTube Video Loops</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>In 2024, Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reignite-your-gaming-experience-free-voice-transformation-for-valorant-lovers/"><u>Reignite Your Gaming Experience Free Voice Transformation for Valorant Lovers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sound-on-your-mac-a-comprehensive-guide/"><u>Restoring Sound on Your Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sounds-on-your-device-resolving-windows-11-audio-issues/"><u>Restoring Sounds on Your Device - Resolving Windows 11 Audio Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-repairing-your-unresponsive-headset-mic/"><u>Step-by-Step Solution: Repairing Your Unresponsive Headset Mic</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-8-leading-learning-management-systems-lms-of-2024-a-comprehensive-review/"><u>Top 8 Leading Learning Management Systems (LMS) of 2024: A Comprehensive Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-difference-hardware-versus-software-decoding-for-high-definition-h264h265-video-content/"><u>Unveiling the Difference: Hardware Versus Software Decoding for High-Definition H.264/H.265 Video Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-prime-choices-webcams-on-windows-10/"><u>[New] Prime Choices Webcams on Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-brands-on-video-a-guide-to-partnering-with-popular-youtubers-for-2024/"><u>Building Brands on Video A Guide to Partnering with Popular YouTubers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic-vs-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic Vs 2 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovative-integration-mastering-vids-in-the-facebook-realm/"><u>Innovative Integration Mastering Vids in the Facebook Realm</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-cure-for-laptop-or-desktop-without-sounds-a-step-by-step-guide/"><u>Instant Cure for Laptop or Desktop Without Sounds – A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-audio-woes-a-step-by-step-fix-guide-to-get-it-working/"><u>Jabra Audio Woes? A Step-by-Step Fix Guide to Get It Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-speaker-configuration-in-windows-10-when-facing-an-unknown-status/"><u>Mastering Speaker Configuration in Windows 10 when Facing an Unknown Status</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-razer-barracuda-x-mic-troubleshooting-guide-for-windows-users/"><u>Overcoming Audio Hurdles: Razer Barracuda X Mic Troubleshooting Guide for Windows Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726026754871-pc/"><u>ビデオの音声のみ変換 - PC用一般的な手順ガイド</u></a></li>
 </ul></div>
 

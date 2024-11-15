@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing a Nonfunctional Logitech G230 Mic - A Step-by-Step Guide
-date: 2024-10-26T17:09:24.508Z
-updated: 2024-10-30T16:32:43.027Z
+date: 2024-11-11T16:23:11.149Z
+updated: 2024-11-15T17:55:45.492Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 3. **[Adjust your audio settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on your**LusidSound LS30** won’t work simply because the volume is mute or set too low.
@@ -55,18 +69,18 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-138.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.  
 
  2) Test if your LS30 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -82,13 +96,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-140.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device** once it appears and click **Enable** before you do step **2)** .  
 
  3) Click on **your microphone device** and click **Properties** .  
@@ -99,37 +106,11 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-137.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **OK** to apply the changes in the windows.
 
  6) Now with microphone set as default device and the volume turned up, try playing some audio on your LS30 headset and see if it works. If it does, then the **LucidSound LS30 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -148,6 +129,13 @@ To do so:
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-144.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -180,22 +168,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-crafting-unique-content-to-differentiate-your-channel-for-2024/"><u>[New] Crafting Unique Content to Differentiate Your Channel for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-audience-connection-through-android-and-ios-streams/"><u>[Updated] Enhancing Audience Connection Through Android & iOS Streams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017016972-astro-a50-no-audio-problem-heres-how-to-rectify-it-fast/"><u>Astro A50 No Audio Problem? Here’s How to Rectify It Fast!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475634264-fix-your-facetime-woes-a-comprehensive-list-of-15-tips-to-restore-service/"><u>Fix Your FaceTime Woes: A Comprehensive List of 15 Tips to Restore Service</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-audio-glitches-and-warping-issues-in-windows-10-and-7-systems/"><u>Fixes for Audio Glitches and Warping Issues in Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guia-paso-a-paso-para-transferir-con-excelencia-los-peliculas-de-dvd-al-mac-big-sur-sin-compromiso-en-la-calidad/"><u>Guía Paso a Paso Para Transferir Con Excelencia Los Películas De DVD Al Mac Big Sur: Sin Compromiso en La Calidad</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-unlisted-headphone-devices-during-audio-playback-on-windows-10/"><u>How to Fix Unlisted Headphone Devices During Audio Playback on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-an-unresponsive-astro-a2/"><u>How to Repair an Unresponsive Astro A2</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 13 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/inside-a-virtual-reality-device-a-basic-overview/"><u>Inside a Virtual Reality Device A Basic Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-sham-chatgpt-offers-in-apples-digital-storefront/"><u>Navigating Through Sham ChatGPT Offers in Apple’s Digital Storefront</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-laptops-silent-symphony-easy-fixes-for-internal-speaker-issues/"><u>Revive Your Laptop's Silent Symphony - Easy Fixes for Internal Speaker Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-a-nonfunctional-bose-sound-system/"><u>Step-by-Step Guide: Repairing a Nonfunctional Bose Sound System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-dolby-on-windows-11-start-the-dolby-audio-driver-now-step-by-step-solution/"><u>Trouble with Dolby on Windows 11? Start the Dolby Audio Driver Now - Step by Step Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-persistent-pc-issues-with-thunder-tier-one/"><u>Troubleshooting the Persistent PC Issues with Thunder Tier One</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-for-solving-discords-audio-interruptions/"><u>Ultimate Troubleshooting Guide for Solving Discord's Audio Interruptions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-explore-and-capture-mountains-with-best-cameras/"><u>[New] 2024 Approved Explore and Capture Mountains with Best Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-continuous-display-recorder/"><u>[Updated] 2024 Approved Continuous Display Recorder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-skyrocketing-your-subscriber-count/"><u>[Updated] Secrets to Skyrocketing Your Subscriber Count</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-potential-of-quantum-hdr-imaging/"><u>2024 Approved Harnessing the Potential of Quantum HDR Imaging</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/50plus-text-wonders-in-video-editing-for-2024/"><u>50+ Text Wonders in Video Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp3-tta-movavi/"><u>無料移動端直接mp3: TTA影片轉化技術 - Movavi 音頻格式工具</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-groans-with-crackling-noise-heres-how-to-fix-it/"><u>Cyberpunk Groans with Crackling Noise? Here's How to Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeat-no-sound-glitch-in-battlefield-4-with-these-pro-solutions/"><u>Defeat No-Sound Glitch in Battlefield 4 with These Pro Solutions!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-aeeusnys-compact-solar-power-station-with-high-quality-pure-sine-wave-for-delicate-medical-gear/"><u>Expert Analysis: AEEUSNY's Compact Solar Power Station with High-Quality Pure Sine Wave for Delicate Medical Gear</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-resolve-logitech-g430-microphone-issues-quickly/"><u>Expert Tips to Resolve Logitech G430 Microphone Issues Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015612812-google-meet-not-recognizing-mic-heres-how-to-fix-it-on-windows-11-and-10-devices/"><u>Google Meet Not Recognizing Mic? Here's How to Fix It on Windows 11 & 10 Devices!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guiando-voce-na-criacao-de-imagens-originais-no-iphone-11-usando-o-programa-movavi-melhores-4-tecnicas/"><u>Guiando Você Na Criação De Imagens Originais No iPhone 11 Usando O Programa Movavi [Melhores 4 Técnicas]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016713141-quick-fix-for-loud-popping-in-your-earbuds-expert-advice/"><u>Quick Fix for Loud Popping in Your Earbuds: Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-skype-audio-problems-with-simple-fixes/"><u>Resolve Your Skype Audio Problems with Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-overcoming-the-challenge-of-non-responsive-voice-chat-in-phasmophobia/"><u>Resolved: Overcoming the Challenge of Non-Responsive Voice Chat in Phasmophobia</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-your-hyperx-cloud-alpha-s-headset-microphone-functionality/"><u>Solved: How to Restore Your HyperX Cloud Alpha S Headset Microphone Functionality</u></a></li>
 </ul></div>
 

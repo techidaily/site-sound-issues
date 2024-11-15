@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving OBS Microphone Issues on Your Computer"
-date: 2024-08-27T21:18:37.563Z
-updated: 2024-08-28T21:18:37.563Z
+date: 2024-11-14T17:21:46.202Z
+updated: 2024-11-15T16:55:55.801Z
 tags:
   - win11
   - win10
@@ -37,22 +37,31 @@ Follow these:
 1. On your keyboard, press the**Windows logo key**  and **I** (at the same time).
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
@@ -67,29 +76,39 @@ Follow these:
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
-4. Restart your computer and run Skype to see if your Microphone works.
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Log in Skype and check to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
 
@@ -99,8 +118,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +125,21 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ultimate-guide-to-choosing-a-top-tier-gif-maker/"><u>[New] 2024 Approved Ultimate Guide to Choosing a Top-Tier GIF Maker</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-asmr-can-enhance-your-physical-and-mental-health/"><u>[New] How ASMR Can Enhance Your Physical & Mental Health</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps/"><u>[New] In 2024, NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-efficient-mobile-video-management/"><u>[New] The Ultimate Guide to Efficient Mobile Video Management</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-amplify-your-channel-effortless-tactics-for-more-views/"><u>[Updated] In 2024, Amplify Your Channel Effortless Tactics for More Views</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-discover-the-magic-of-jujutsu-kaisen-with-tiktok-videos/"><u>[Updated] In 2024, Discover the Magic of Jujutsu Kaisen with TikTok Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-mastering-tiktokenas-a-game-changer-top-30-unique-username-suggestions/"><u>[Updated] In 2024, Mastering TikTok'enas a Game Changer Top 30 Unique Username Suggestions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-guide-choosing-the-best-video-grabber-for-windows-10/"><u>[Updated] In 2024, Ultimate Guide Choosing the Best Video Grabber for Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-sound-glitch-how-to-restore-audio-on-your-windows-machine-during-a-zoom-meeting/"><u>Fixing the Sound Glitch: How to Restore Audio on Your Windows Machine During a Zoom Meeting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-enable-audio-in-google-chrome-when-faced-with-no-sound-errors/"><u>How to Enable Audio in Google Chrome When Faced with 'No Sound' Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-astro-a10-microphone-issues-troubleshooting-guide/"><u>How to Fix Astro A10 Microphone Issues: Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-razer-blackshark-v2-microphone-when-it-stops-working/"><u>How to Repair Your Razer BlackShark V2 Microphone When It Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-audio-out-of-sync-situation-a-modern-guide/"><u>How to Resolve Your Audio Out of Sync Situation - A Modern Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-completely-remove-your-instagram-footprint-forever/"><u>In 2024, How to Completely Remove Your Instagram Footprint Forever</u></a></li>
+</ul></div>
 

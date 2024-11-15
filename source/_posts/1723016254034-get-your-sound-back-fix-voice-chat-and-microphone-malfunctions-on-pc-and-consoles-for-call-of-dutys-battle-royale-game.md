@@ -1,7 +1,7 @@
 ---
 title: "Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game."
-date: 2024-10-29T20:20:35.525Z
-updated: 2024-11-05T06:03:21.254Z
+date: 2024-11-13T17:04:08.686Z
+updated: 2024-11-15T17:30:16.648Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -58,15 +51,15 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Configure the audio settings
 
@@ -79,10 +72,10 @@ You can follow the steps below to check:
 2. In**Playback** tab, make sure that your preferred headphone or speaker is set as**Default Device** . Then right-click on the default device ane click**Test** to make sure you can hear sound coming through the headset.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-2.png)
@@ -90,16 +83,16 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
 
@@ -115,6 +108,13 @@ You can follow the steps below to check:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -142,24 +142,19 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-dive-into-instagram-live-without-hesitation/"><u>[New] 2024 Approved Dive Into Instagram Live Without Hesitation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android-for-2024/"><u>[New] Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-essential-tips-for-minecraft-recording-with-macos/"><u>[New] Essential Tips for Minecraft Recording with MacOS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elite-tech-enhancement-with-top-srt-tweaks/"><u>[Updated] 2024 Approved Elite Tech Enhancement with Top SRT Tweaks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-2-ways-to-loop-a-youtube-video-on-tv/"><u>[Updated] In 2024, 2 Ways to Loop a YouTube Video On TV</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-instant-animation-from-youtube-videos-to-compelling-gifs/"><u>[Updated] In 2024, Instant Animation From YouTube Videos to Compelling GIFs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-slow-motion-cameras-ranked-for-2024/"><u>Best Slow-Motion Cameras Ranked for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-windows-11s-broken-bluetooth-feature/"><u>Effective Solutions for Windows 11'S Broken Bluetooth Feature</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-ace-2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Ace 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-hushed-screen-reestablishing-volume-when-joining-pc-with-monitor-and-television-via-hdmi/"><u>Fixing the Hushed Screen: Reestablishing Volume When Joining PC with Monitor & Television Via HDMI</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/renowned-20-free-public-domain-pubg-sets/"><u>Renowned 20 Free, Public Domain PUBG Sets</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-undefined-speaker-setups-on-your-pc-with-windows-11/"><u>Resolving Undefined Speaker Setups on Your PC with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014658975-specific-heat-capacity-can-be-measured-using-a-calorimeter-in-a-laboratory-setting/"><u>Specific Heat Capacity Can Be Measured Using a Calorimeter in a Laboratory Setting.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-fix-your-steelseries-arctis-pro-microphone-problems-a-comprehensive-guide/"><u>Steps to Fix Your SteelSeries Arctis Pro Microphone Problems – A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-step-by-step-process-for-testing-your-microphone/"><u>The Ultimate Step-by-Step Process for Testing Your Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-quirks-fixing-stutters-and-distortions-in-windows-operating-systems-windows-11-and-7/"><u>Troubleshooting Sound Quirks: Fixing Stutters and Distortions in Windows Operating Systems (Windows 11 & 7)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-reconnecting-and-restoring-your-realtek-hd-audio-after-an-unplug-incident/"><u>Troubleshooting Tips: Reconnecting and Restoring Your Realtek HD Audio After an Unplug Incident</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-how-to-fix-intermittent-sound-issues/"><u>Troubleshooting Windows 10: How to Fix Intermittent Sound Issues</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-filters-through-windows-10-photos-extracting-picture-moments/"><u>[New] In 2024, Filters Through Windows 10 Photos Extracting Picture Moments</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-music-a-guide-to-coherence/"><u>[Updated] In 2024, YouTube Music A Guide to Coherence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastery-over-mobile-and-desktop-recording-team-discussions/"><u>2024 Approved Mastery Over Mobile & Desktop Recording Team Discussions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-solution-for-enhancing-chromes-speed-and-responsiveness/"><u>Effortless Solution for Enhancing Chrome's Speed and Responsiveness</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-stuttering-audio-effects-in-your-computers-output-windows-10-and-7/"><u>How to Eliminate Stuttering Audio Effects in Your Computer's Output - Windows 10 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-corsair-void-microphone-quickly-and-effectively/"><u>How to Fix a Non-Functional Corsair Void Microphone Quickly & Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-headphones-to-appear-in-windows-10-media-player-step-by-step-guide/"><u>How to Get Your Headphones to Appear in Windows 10 Media Player: Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-and-repair-push-to-talk-on-your-overwatch-account/"><u>How to Reactivate and Repair 'Push-To-Talk' On Your Overwatch Account</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-hyperx-cloud-stinger-when-the-mic-fails-to-work/"><u>How to Repair Your HyperX Cloud Stinger When the Mic Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-logitech-g9n-gaming-mic-on-windows-pcs/"><u>How to Resolve Non-Functional Logitech G9n Gaming Mic on Windows PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-f25-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo F25 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-your-macbook-air-experience-a-comprehensive-guide-to-split-screen-operations/"><u>Maximizing Your MacBook Air Experience: A Comprehensive Guide to Split-Screen Operations</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/solving-the-puzzle-of-online-video-malfunctions-tips-and-strategies-for-flawless-playback/"><u>Solving the Puzzle of Online Video Malfunctions: Tips & Strategies for Flawless Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-simplicity-chatgpts-top-9-techniques/"><u>The Art of Simplicity: ChatGPT's Top 9 Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Corsair HS70 Mic Woes? Here's How to Get It Working Perfectly Again
-date: 2024-11-02T09:31:50.502Z
-updated: 2024-11-04T18:35:30.783Z
+date: 2024-11-12T17:15:44.933Z
+updated: 2024-11-15T17:23:42.725Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-147.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-146.png)
@@ -61,16 +54,16 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the**Change** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-158.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you see ‘Microphone access for this device’ is**On** , it means microphone is allowed to access on your computer. Leave it and**head to the next step** .
 
@@ -78,11 +71,31 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-159.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Make sure**Allow apps to access your microphone** is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-160.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your microphone device settings
 
@@ -105,10 +118,10 @@ To do this, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-163.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Select the**Recording** tab.
@@ -116,10 +129,10 @@ To do this, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-164.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you see microphone is disabled,**right click the device** and select**Enable** .
@@ -132,16 +145,22 @@ To do this, you can follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-166.png)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b. Right click the microphone and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-167.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Right click the microphone again and select**Set as Default Device** .
 
@@ -160,16 +179,10 @@ To do this, you can follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio drivers
@@ -187,13 +200,6 @@ To do this, you can follow these steps:
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-142.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -238,22 +244,15 @@ To do this, you can follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ce-in-the-halls-boosting-youtube-traffic-for-2024/"><u>[New] Ace in the Halls Boosting YouTube Traffic for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/utting-edge-mp4-utilities-choosing-the-right-one-for-mac-for-2024/"><u>[New] Cutting Edge MP4 Utilities Choosing the Right One for Mac for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-filmmaking-fundamentals-for-engaging-facebook-groups/"><u>[Updated] Filmmaking Fundamentals for Engaging Facebook Groups</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-x5-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco X5 Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call/"><u>2024 Approved How to Use Zoom Video Filters to Make a High-Quality Video Call</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-art-of-easy-story-making/"><u>2024 Approved The Art of Easy Story Making</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-problems-solved-restoring-functionality-to-your-windows-10-sound-system/"><u>Audio Problems Solved: Restoring Functionality to Your Windows 10 Sound System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-for-non-responsive-mic-on-apple-earpods-with-windows-11-setup/"><u>Comprehensive Fixes for Non-Responsive Mic on Apple EarPods with Windows 11 Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-why-is-runmus-gaming-headset-microphone-malfunctioning/"><u>Fixing the Issue: Why Is RunmuS Gaming Headset Microphone Malfunctioning?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-pcs-rec-room-mic-issues-expert-tips/"><u>How to Repair Your PC's Rec Room Mic Issues: Expert Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lensjoy-frameconnect-pro-impressive-but-pricey-features/"><u>LensJoy FrameConnect Pro: Impressive but Pricey Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-sound-issues-in-microsofts-latest-os-windows-11-effective-solutions-revealed/"><u>Overcoming Sound Issues in Microsoft's Latest OS, Windows 11 - Effective Solutions Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-communication-issues-in-modern-warfare/"><u>Troubleshooting Guide: Fixing Voice Communication Issues in Modern Warfare</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-headphone-malfunctions-on-windows-11-computers/"><u>Troubleshooting Guide: Resolving Headphone Malfunctions on Windows 11 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-non-functional-mic-on-astro-a50-audio-gear-step-by-step-tutorial/"><u>Ultimate Fix for Non-Functional Mic on Astro A50 Audio Gear - Step by Step Tutorial</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-90-gt-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor 90 GT Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-download-facebook-audio-mp3s-for-2024/"><u>[New] Download Facebook Audio MP3s for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nstantly-accessible-downloading-youtube-playlists-effortlessly-for-2024/"><u>[New] Instantly Accessible Downloading YouTube Playlists Effortlessly for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exploring-sky-vistas-yuneec-breezes-high-def-adventure/"><u>2024 Approved Exploring Sky Vistas Yuneec Breeze's High-Def Adventure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conceptualize-entertaining-posts-in-adobe-for-2024/"><u>Conceptualize Entertaining Posts in Adobe for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-12-mini-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 12 mini to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/premier-alternatives-exceeding-the-limits-of-twitter/"><u>Premier Alternatives Exceeding the Limits of Twitter</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-unidentified-speaker-issues-in-windows-11-a-comprehensive-guide/"><u>Solving Unidentified Speaker Issues in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-users-say-goodbye-to-mic-woes-with-our-easy-to-follow-solutions/"><u>SteelSeries Arctis Users, Say Goodbye to Mic Woes with Our Easy-to-Follow Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-no-output-device-message-in-windows-1187/"><u>Step-by-Step Fix for 'No Output Device' Message in Windows 11/8/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-steelseries-arctis-7-mic-problems-a-users-handbook/"><u>Step-by-Step Fix for SteelSeries Arctis 7 Mic Problems - A User's Handbook</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Guide: Deactivating Advanced Audio Features for a Cleaner Sound Experience"
-date: 2024-08-27T21:17:51.631Z
-updated: 2024-08-28T21:17:51.631Z
+date: 2024-11-13T16:09:53.912Z
+updated: 2024-11-15T17:06:35.756Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ While being one of the most popular shooters in 2020, Black Ops Cold War is not 
 4. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Check your in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  The no audio issue could mean that there’re files missing or corrupted in the game folder. You can do an integrity check to eliminate the possible obstacles.
@@ -43,8 +50,12 @@ You can now launch Black Ops Cold War and check if the audio is back.
 If the no sound issue persists, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Configure your device properly
 
  Next you need to make sure your output device is set to the desired one, and all the related settings should be configured correctly. If you don’t know how, you can follow these steps:
@@ -52,19 +63,28 @@ If the no sound issue persists, you can take a look at the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo button and the r button) at the same time to invoke the Run box. Type or paste **ms-settings:sound** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to the one you’re using. Then click**Device properties and test microphone** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to**100** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Now you can check the in-game audio.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s nothing wrong with your settings, or you can hear the computer sound everywhere except in Black Ops Cold War, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  One of the most common causes of sound issues is that you’re using**a faulty or outdated audio driver** . New drivers tend to have better compatibility that the legacy ones provided by Windows. So if you haven’t updated your audio driver, definitely do it now.
@@ -88,14 +108,18 @@ If the no sound issue persists, you can take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your audio driver, join a game in Black Ops Cold War and see if you can hear anything.
 
  If the latest driver doesn’t give you luck, simply try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -106,18 +130,26 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
 After rebooting your PC, return to Black Ops Cold War and test the audio.
@@ -134,9 +166,6 @@ Here’s what you should check:
 2. Navigate to the**AUDIO** tab. Under the**GAME SOUND** section, make sure you didn’t mute the game and all the**Volume settings** are toggled to the highest**100** . Then you can try changing**Audio Presets** and see which option gives you luck. (You can start with High Boost.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/bocw-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ---
 
  Hopefully this tutorial helps you solve the no sound issue in Black Ops Cold War. If you have any doubts or questions, feel free to jot them down in the comment section down below.
@@ -147,8 +176,6 @@ Here’s what you should check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +183,22 @@ Here’s what you should check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-complete-manual-for-expert-use-of-screen-recorder-by-zd-soft/"><u>[New] 2024 Approved Complete Manual for Expert Use of Screen Recorder by ZD Soft</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-step-by-step-strategies-to-thrive-on-reddit/"><u>[New] Step-by-Step Strategies to Thrive on Reddit</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-advice-on-embedding-vimeo-content-in-ms-powerpoint/"><u>[Updated] Expert Advice on Embedding Vimeo Content in MS PowerPoint</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-kings-arena/"><u>[Updated] In 2024, Capture King's Arena</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/behind-the-scenes-10-successful-movies-that-owe-their-success-to-final-cut-pro/"><u>Behind the Scenes 10 Successful Movies That Owe Their Success to Final Cut Pro</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disconnected-display-laptop-to-tv-unresponsive-via-hdmi/"><u>Disconnected Display: Laptop to TV Unresponsive via HDMI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-editing-tools-best-phones-options-for-gopro-videos/"><u>In 2024, Ideal Editing Tools Best Phones' Options for GoPro Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenge-of-a-silent-microphone-on-your-hyperx-cloud-alpha-setup/"><u>Overcoming the Challenge of a Silent Microphone on Your HyperX Cloud Alpha Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-headset-malfunction-fixing-mic-issues-on-pc/"><u>Rec Room Headset Malfunction: Fixing Mic Issues on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-missing-headphones-in-device-list-during-media-playback-on-windows-11/"><u>Resolved: Missing Headphones in Device List During Media Playback on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-steps-for-a-non-functioning-hangouts-microphone/"><u>Simple Troubleshooting Steps for a Non-Functioning Hangouts Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-mystery-of-a-quiet-logitech-g933-quick-fixes-revealed/"><u>Solve the Mystery of a Quiet Logitech G933 - Quick Fixes Revealed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-functionality-of-non-working-stereo-mixes/"><u>Solved! How to Restore Functionality of Non-Working Stereo Mixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-viral-marketing-mastering-instagram-fame-through-9-key-tips-for-2024/"><u>The Art of Viral Marketing Mastering Instagram Fame Through 9 Key Tips for 2024</u></a></li>
+</ul></div>
 

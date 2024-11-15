@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for a Nonfunctional Razer Mic in Just Five Steps
-date: 2024-10-31T17:46:53.529Z
-updated: 2024-11-04T16:16:59.616Z
+date: 2024-11-09T16:13:28.066Z
+updated: 2024-11-15T17:00:44.026Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 7. **[Check the Party Chat settings](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Perform basic troubleshooting
 
  When Sea of Thieves voice chat/mic stops working, the first thing is to do a basic check to rule out the connection and hardware issue.
@@ -66,19 +59,6 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-3.jpg)
 4. Right-click other headsets you’re not using and click**Disable** .  
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-5.jpg)
 5. Navigate to the**Recording** tab and**disable other microphones** that are not in use.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-6-1.jpg)
@@ -87,7 +67,21 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-4-1.jpg)
 7. Click**OK** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After everything is set up correctly, restart Sea of Thieves to see if the audio works. If not, check out the third fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Allow access to your microphone
 
@@ -98,32 +92,18 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 2. Click the**Change** button and**turn on** Microphone access for this device. Then,**toggle on** Allow apps to access your microphone below.  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy-settings-4-1.jpg)
 3. Scroll down to**toggle on the button next to Sea of Thieves and Xbox** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy-settings-1-2.jpg)
 
  Open the game to test the voice chat in Sea of Thieves. If it still fails to work, check your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -149,10 +129,10 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-driver-update-de.jpg)
@@ -161,6 +141,19 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Normally the driver update could fix most device glitches. But if the problem persists, try the next method below.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Restart Windows audio service
 
@@ -174,13 +167,6 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 
  Check if the Sea of Thieves voice chat goes back to normal. If not, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6 – Check the in-game audio settings
 
  If everything in the PC sound settings is good to go, make sure to turn on your voice chat in the in-game settings. You can take these steps to check:
@@ -188,6 +174,20 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 1. While in-game, press the**Esc key** on your keyboard and select**My Crew** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-1.jpg)
 2. On the right pane, make sure**you don’t mute all other crews voice chat** .  
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-2.jpg)
 3. Exit the Window and open the**Settings** menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-3.jpg)
@@ -207,14 +207,21 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 3. Select the**Privacy & online safety** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/xbox-settings-2.jpg)
 4. Under the**You Can** section, tick**Allow** next to **You can communicate outside of Xbox Live with voice & text** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/xbox-settings-3.jpg)
 5. Scroll to the**Others can** section. For**Others can communicate with voice, text, or invites** , select**Everyone** .  
@@ -259,24 +266,18 @@ If you’re playing Sea of Thieves and the voice chat or mic isn’t working, fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-3-ways-to-use-zoom-video-converter/"><u>[New] Top 3 Ways to Use Zoom Video Converter</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-office-work-with-voice-to-text-in-ms-word/"><u>[Updated] Streamline Your Office Work with Voice-to-Text in MS Word</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/design-thinking-for-content-creators-crafting-impactful-facebook-reels-for-2024/"><u>Design Thinking for Content Creators Crafting Impactful Facebook Reels for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitech-t630-drivers-and-software-compatible-with-windows-7-8-and-10/"><u>Download Logitech T630 Drivers & Software - Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-groups-vs-linkedin-groups-which-is-better/"><u>Facebook Groups Vs. LinkedIn Groups: Which Is Better?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-software-for-your-epson-xp-440-with-simple-steps/"><u>Get the Newest Software for Your Epson XP-440 with Simple Steps</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-dilemma-resolved-solutions-to-a-malfunctioning-mic/"><u>LucidSound LS30 Dilemma Resolved - Solutions to a Malfunctioning Mic</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-videos-for-free-top-software-for-32-bit-windows-systems/"><u>New 2024 Approved Edit Videos for Free Top Software for 32-Bit Windows Systems</u></a></li>
-<li><a href="https://win-premium.techidaily.com/practical-techniques-for-efficient-video-downscaling/"><u>Practical Techniques for Efficient Video Downscaling</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-laptop-speakers-diagnosing-and-repairing-sound-malfunctions/"><u>Revive Your Laptop Speakers: Diagnosing and Repairing Sound Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-battlefield-4-audio-issues-expert-guide-to-restoring-game-sounds/"><u>Solving Battlefield 4 Audio Issues: Expert Guide to Restoring Game Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speaker-connects-but-no-sound-a-guide-for-diagnosing-audio-issues-in-windows/"><u>Speaker Connects but No Sound? A Guide for Diagnosing Audio Issues in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speculations-surrounding-the-new-pixel-fold-2-price-estimates-expected-arrival-date-and-comprehensive-tech-details/"><u>Speculations Surrounding the New Pixel Fold 2: Price Estimates, Expected Arrival Date & Comprehensive Tech Details</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-your-non-functional-realtek-mic-setup/"><u>Step-by-Step Fixes for Your Non-Functional Realtek Mic Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-fixing-tozo-t6-non-functionality-on-windows-11/"><u>Step-by-Step Solutions for Fixing Tozo T6 Non-Functionality on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-push-to-talk-issues-in-overwatch/"><u>Troubleshooting Guide: Fixing 'Push-to-Talk' Issues in Overwatch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-solving-obs-microphone-issues/"><u>Troubleshooting Steps for Solving OBS Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-step-by-step-guide-for-troubleshooting-facebook-video-sounds-on-pc-updated/"><u>Turn Up the Volume: Step-by-Step Guide for Troubleshooting Facebook Video Sounds on PC (Updated )</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pick-the-perfect-video-youtube-vs-tiktok/"><u>[New] Pick the Perfect Video YouTube Vs. TikTok</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oneplus-nord-ce-3-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from OnePlus Nord CE 3 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-making-your-microsoft-teams-microphone-work-properly-on-latest-windows-versions/"><u>Expert Advice: Making Your Microsoft Teams Microphone Work Properly on Latest Windows Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-functionality-of-your-hyperx-cloud-alpha-mic-troubleshooting-steps/"><u>Expert Tips to Restore Functionality of Your HyperX Cloud Alpha Mic - Troubleshooting Steps</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/free-3gp-conversion-tool-transform-files-into-mov-format-with-ease/"><u>Free 3GP Conversion Tool: Transform Files Into MOV Format with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-bluetooth-connectivity-problems/"><u>How to Repair Windows 11 Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-video-best-practices-in-game-recording-and-streaming-for-2024/"><u>Mastering Video Best Practices in Game Recording & Streaming for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ranking-unmissable-athletic-dramas-for-your-next-cinema-experience/"><u>Ranking: Unmissable Athletic Dramas for Your Next Cinema Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-infinix-hot-40-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 40 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-pc-gaming-overcoming-silent-mode-on-black-ops-cold-war/"><u>Restoring Sounds in PC Gaming - Overcoming Silent Mode on Black Ops: Cold War</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-restoring-audio-in-your-pcs-zoom-calls/"><u>Solving the Dilemma: Restoring Audio in Your PC's Zoom Calls</u></a></li>
 </ul></div>
 

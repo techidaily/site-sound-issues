@@ -1,7 +1,7 @@
 ---
 title: "AirPods Connected Yet Mute: Resolving the Issue on PC"
-date: 2024-08-31T23:53:40.249Z
-updated: 2024-09-01T23:53:40.249Z
+date: 2024-11-14T17:36:34.059Z
+updated: 2024-11-15T16:38:24.997Z
 tags:
   - win11
   - win10
@@ -41,11 +41,22 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d212718ff2.jpg)
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure the audio level is high enough
 
  In**Fix 2** , we make sure our Bluetooth speaker/headphone’s is at least audible. Here’s how:
@@ -53,20 +64,29 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and type**sound** . Then click on**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1c8bbf643.jpg)
 2. In the**Playback** tab, click on**your** **Bluetooth device** \>**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d223cd2694.jpg)
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Make sure the Bluetooth Support Service is enabled
 
  Another reason for this **Bluetooth Connected But No Sound**  problem is the service simply disabled. To turn it back on:
@@ -74,19 +94,16 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Double-click on**Bluetooth Support Service** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1e0590947.jpg)
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
@@ -115,8 +132,12 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair corrupted system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it is possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -144,8 +165,6 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +172,26 @@ Once finished with the repair, check if the error has been resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-multiplatform-iptv-encoding/"><u>[New] 2024 Approved Multiplatform IPTV Encoding</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-prime-collection-of-effortless-phone-apps/"><u>[New] 2024 Approved Prime Collection of Effortless Phone Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-key-techniques-for-a-thorough-review-of-youtube-stats/"><u>[New] Key Techniques for a Thorough Review of YouTube Stats</u></a></li>
+<li><a href="https://discover-help.techidaily.com/easy-online-conversion-techniques-for-avi-videos-to-quicktime-mov-on-windows-and-macos/"><u>Easy Online Conversion Techniques for AVI Videos to QuickTime MOV on Windows and MacOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-steelseries-arctis-pro-microphone-issue-step-by-step-solutions/"><u>Fixing Your SteelSeries Arctis Pro Microphone Issue: Step-by-Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-sound-card-not-detected-by-system/"><u>How to Fix Realtek HD Sound Card Not Detected by System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-razer-barracuda-x-mic-working-in-windows-11-and-10/"><u>How to Get Your Razer Barracuda X Mic Working in Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-chrome-browser-issue-resolved/"><u>How to Restore Sounds on Your Chrome Browser - Issue Resolved</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-xs-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone XS SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-visual-storytelling-on-macbook-webcam-setup/"><u>In 2024, Visual Storytelling on MacBook Webcam Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/microphone-performance-swift-and-simple-steps-to-ensure-quality-sound/"><u>Microphone Performance: Swift & Simple Steps to Ensure Quality Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-loss-on-astro-a50-here-are-quick-remedies/"><u>Noise Loss on Astro A50? Here Are Quick Remedies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/openscreens-the-unchained-gamers-screen-record/"><u>OpenScreens The Unchained Gamer's Screen Record</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimize-your-pcs-sound-quality-the-ultimate-guide-to-eliminating-echoes-on-discord/"><u>Optimize Your PC's Sound Quality: The Ultimate Guide to Eliminating Echoes on Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-metric-tracking-functionality/"><u>Optimizing Windows Metric Tracking Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-your-pcs-sound-settings-by-removing-enhancements-in-windows-11/"><u>Optimizing Your PC's Sound Settings by Removing Enhancements in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-irregularities-and-warping-problems-in-windows-os-117-step-by-step-remedies-available-now/"><u>Overcome Audio Irregularities and Warping Problems in Windows OS (11/7): Step-by-Step Remedies Available Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-deleted-texts-on-your-apple-device-a-step-by-step-guide-for-macos-users/"><u>Retrieve Accidentally Deleted Texts on Your Apple Device: A Step-by-Step Guide for macOS Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/sunbeam-effect-android-screen-brightening-for-2024/"><u>Sunbeam Effect Android Screen Brightening for 2024</u></a></li>
+</ul></div>
 

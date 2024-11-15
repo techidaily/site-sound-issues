@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Rectifying Issues with the Corsair HS70 Headset Mic
-date: 2024-08-31T23:53:06.910Z
-updated: 2024-09-01T23:53:06.910Z
+date: 2024-11-08T16:54:49.851Z
+updated: 2024-11-15T16:09:56.295Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
 **[5: Re-enable your headset via Device Manager](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1:**Enable your headset mic for recording**
 
  The first thing you want to check on your PC is if you’ve enabled your headset mic for recording. Follow these steps:
@@ -59,28 +56,16 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 3. Right-click the headset then select**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-05-17.jpg)
 4. Click**Apply** then**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-06-58-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 Check if your mic works. If not, try the next solution.
 
 ### Fix 2:**Set your headset as the input device**
@@ -90,17 +75,39 @@ Check if your mic works. If not, try the next solution.
 1. On your taskbar, right-click**the Speaker icon** then click**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-29-54.jpg)
 2. **Set your headset as the input device** . You can also click**App volume and device preferences** for advanced options.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-35-44.jpg)
 3. You’ll be able to adjust the volume and output/input device for different apps as you need.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-38-57.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Check if your headset microphone can record your voice. If this doesn’t help, proceed to the next solution.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Update your audio driver**
 
@@ -120,18 +127,11 @@ Check if your mic works. If not, try the next solution.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_17-54-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Check if your headset microphone works now. If it still won’t pick up your voice, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4:**Turn on microphone access on your PC**
 
  Although less likely, it’s possible that the microphone access on your PC has been disabled so your headset mic can’t record any voice. To turn on the microphone access on your computer:
@@ -141,11 +141,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click**Change** , then**turn on the microphone access** **for this device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-10-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check if your headset mic is working. If this doesn’t give you luck, try the last solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5:**Re-enable your headset mic via Device Manager**
 
  Even if you connect the headset to your PC correctly, sometimes your system just won’t recognize the device. You can manually disable then re-enable your headset in Device Manager to see if it helps:
@@ -156,11 +160,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Under**Audio inputs and outputs** , right-click your headset then select**Disable Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-05-22.jpg)
 4. Again right-click your headset, then select**Enable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-08_10-10-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Check if your headset mic works.
 
  If none of the above solutions seem to help in your case, you could take a look at the audio settings of the program or game in which you need the mic. Sometimes you need to manually enable your mic to record within the program.  
@@ -181,8 +197,6 @@ Check if your headset mic works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +204,26 @@ Check if your headset mic works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-winning-insta-followers-with-irresistible-unboxing-clips/"><u>[New] 2024 Approved Winning Insta Followers with Irresistible Unboxing Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-pixels-to-popularity-crafting-engaging-youtube-thumbnails-for-2024/"><u>[New] From Pixels to Popularity Crafting Engaging YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-audio-clarity-resolving-low-playback-levels-in-windows-10-machines/"><u>Boosting Audio Clarity: Resolving Low Playback Levels in Windows 10 Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-steelseries-arctis-1-mic-a-users-manual/"><u>Diagnosing and Repairing Your SteelSeries Arctis 1 Mic - A User's Manual</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-go-2023-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark Go (2023) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-ways-to-address-and-resolve-logitech-g933-mic-problems/"><u>Effective Ways to Address and Resolve Logitech G933 Mic Problems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-knowledge-for-recording-movies-anywhere/"><u>Essential Knowledge for Recording Movies Anywhere</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-fixing-a-broken-logitech-g935-microphone-on-your-laptop-or-desktop/"><u>Expert Guide to Fixing a Broken Logitech G935 Microphone on Your Laptop or Desktop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-restoring-functionality-of-the-turtle-beach-audiopod-70-microphone/"><u>Expert Guide to Restoring Functionality of the Turtle Beach AudioPod 70 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-silent-astro-a50-bluetooth-headset-fast-and-easy-guide/"><u>Fix Silent Astro A50 Bluetooth Headset Fast & Easy Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-realtek-hd-sound-driver-error-why-it-wont-launch/"><u>Fixes & Solutions: RealTek HD Sound Driver Error - Why It Won't Launch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-audio-glitches-and-warping-issues-in-windows-11-and-7-a-comprehensive-guide/"><u>Fixes for Audio Glitches & Warping Issues in Windows 11 and 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-non-functional-microphone-in-zoom-on-windows-11-and-10/"><u>Fixing the Issue: Non-Functional Microphone in Zoom on Windows 11 and 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-master-vlc-tips-revealing-unknown-features/"><u>In 2024, Master VLC Tips Revealing Unknown Features</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-next-gen-mac-data-rescue-stellar-unleashed/"><u>The Next-Gen Mac Data Rescue - Stellar Unleashed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-opportunities-leveraging-chatgpt-and-whisper-apis-for-business-growth/"><u>Unlocking New Opportunities: Leveraging ChatGPT and Whisper APIs for Business Growth</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-download-now-top-10-free-pc-and-android-games-sites-updated-2024/"><u>Updated Download Now Top 10 Free PC and Android Games Sites (Updated 2024)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/virtual-fixes-overcoming-common-challenges-in-getting-vrchat-up-and-running-smoothly/"><u>Virtual Fixes: Overcoming Common Challenges in Getting VRChat Up and Running Smoothly</u></a></li>
+</ul></div>
 

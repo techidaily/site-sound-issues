@@ -1,7 +1,7 @@
 ---
 title: Fixing Sound Issues on an HP Laptop Running Windows 11
-date: 2024-11-04T07:52:32.837Z
-updated: 2024-11-05T09:52:01.294Z
+date: 2024-11-13T17:15:16.940Z
+updated: 2024-11-15T17:42:08.585Z
 tags:
   - win11
   - win10
@@ -78,32 +78,25 @@ Read on and follow the easy-doing images below!
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -117,14 +110,22 @@ Read on and follow the easy-doing images below!
 3. Click**Next** to move forward from the sound test.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
@@ -152,22 +153,21 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-essential-guidelines-for-creating-compelling-youtube-shorts-templates/"><u>[New] 2024 Approved Essential Guidelines for Creating Compelling YouTube Shorts Templates</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-anglers-companion-best-action-cams-for-fishing-for-2024/"><u>[New] The Angler’s Companion Best Action Cams for Fishing for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-bluetooth-audio-stuttering-issues-on-windows-1011/"><u>[SOLVED] Bluetooth Audio Stuttering Issues on Windows 10/11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-elevate-your-web-experience-post-slowdowns/"><u>[WINDOWS] Elevate Your Web Experience Post Slowdowns</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-ultimate-guide-eliminating-clicks-and-pops-in-your-logitech-g-pro-x-headset/"><u>2024 Ultimate Guide: Eliminating Clicks & Pops in Your Logitech G Pro X Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-your-pcs-audio-troubles-on-windows-11-with-our-proven-5-step-method/"><u>Conquer Your PC's Audio Troubles on Windows 11 with Our Proven 5-Step Method</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-crackling-sounds-a-comprehensive-fixer-upper-guide-for-windows-117-pcs/"><u>Eliminating Crackling Sounds: A Comprehensive Fixer Upper Guide for Windows 11/7 PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-photoscape-ultimate-guide-on-the-best-free-image-editor/"><u>Expert Analysis: PhotoScape Ultimate Guide on the Best Free Image Editor</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-capabilities-in-your-pc-during-a-zoom-call/"><u>How to Restore Sound Capabilities in Your PC During a Zoom Call</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-new-frontiers-in-mobile-videography-alternatives-to-periscope/"><u>In 2024, New Frontiers in Mobile Videography - Alternatives to Periscope</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-simplify-storytelling-transform-vimeo-into-captivating-gifs/"><u>In 2024, Simplify Storytelling Transform Vimeo Into Captivating GIFs</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximize-audio-output-a-guide-to-amplifying-sound-in-windows-11/"><u>Maximize Audio Output: A Guide to Amplifying Sound in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/picture-perfect-adding-imagery-to-ig/"><u>Picture Perfect Adding Imagery to IG</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-spark-10c-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno Spark 10C without backup.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-laptop-headphone-jack-issues-a-comprehensive-guide/"><u>Troubleshooting Laptop Headphone Jack Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-gamers-rejoice-fixing-the-no-sound-glitch-in-cyberpunk-2077/"><u>Windows 11 Gamers Rejoice! Fixing the No-Sound Glitch in Cyberpunk 2077</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings-for-2024/"><u>[New] A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-choosing-between-obs-studio-and-bandicam-for-screen-capture/"><u>[Updated] 2024 Approved Choosing Between OBS Studio and Bandicam for Screen Capture</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-your-systems-audio-performance-on-windows-11-a-step-by-step-guide/"><u>Enhancing Your System's Audio Performance on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-nvidia-output-not-plugged-in-mishaps/"><u>Expert Tips for Resolving 'Nvidia Output Not Plugged In' Mishaps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-the-quiet-in-your-g435-headset-expert-no-sound-troubleshooting-tips/"><u>Fix the Quiet in Your G435 Headset - Expert No-Sound Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-astro-a50-microphone-issues-step-by-step-guide/"><u>Fixing Astro A50 Microphone Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-laptops-speakers-up-and-running/"><u>Fixing the Issue: How to Get Your Laptop's Speakers Up and Running</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-on-voice-chatting-in-dota-2-tips-for-fixing-microphone-problems/"><u>Get Back on Voice-Chatting in Dota 2: Tips for Fixing Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-steelseries-arctis-mic-back-in-action-a-comprehensive-guide-to-repairing-non-functionality/"><u>Getting Your SteelSeries Arctis Mic Back in Action: A Comprehensive Guide to Repairing Non-Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-imessage-not-delivered-on-your-iphone/"><u>How to Fix iMessage Not Delivered on Your iPhone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-s24-ultra-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy S24 Ultra Device SIM</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-k11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo K11 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-video-translation-playbook-with-13-expert-recommended-apps/"><u>In 2024, The Ultimate Video Translation Playbook with 13 Expert-Recommended Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-power-of-a-lazy-logitech-mouse/"><u>Reviving the Power of a Lazy Logitech Mouse</u></a></li>
 </ul></div>
 

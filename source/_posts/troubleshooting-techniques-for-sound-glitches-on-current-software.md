@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques for Sound Glitches on Current Software
-date: 2024-11-04T10:31:47.029Z
-updated: 2024-11-05T05:56:05.464Z
+date: 2024-11-11T17:39:12.466Z
+updated: 2024-11-15T17:24:59.063Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Unplug and replug your headset](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Allow access to your microphone
 
  To use Oculus Quest 2 normally on your PC, you should allow the apps to access its microphone in the privacy settings. Here are the steps:
@@ -45,6 +38,13 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 1. Press the**Windows logo key** on your keyboard. Then, type**microphone privacy** in the search box and click**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-1-2.jpg)
 2. Click the**Change** button and**toggle on** Microphone access for this device.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-2-2.jpg)
 3. Scroll to Allow apps to access your microphone and**turn on** the button.  
@@ -56,10 +56,10 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
  If you’ve enabled all the accesses but the microphone still refuses to work, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Adjust the sound settings
@@ -69,6 +69,14 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 1. Right-click**the speaker icon** at the bottom right corner of the taskbar, and click**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-4.jpg)
 2. Under the Input section, choose**Headset Microphone (Oculus Virtual Audio Device)** from the menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-4-1.jpg)
 3. Scroll down to select**Sound Control Panel** .  
 
@@ -85,10 +93,10 @@ If you’re using Oculus Quest 2 with a Link cable on PC but the mic isn’t wor
 8. Click**OK** to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that everything on the PC sound settings is good to go, test how your mic works. If the mic-not-working issue only occurs in specific programs like SteamVR, make sure **Oculus Quest 2 is also chosen as the input device in the app settings** .
@@ -109,26 +117,26 @@ If this trick doesn’t help, take a look at more fixes below.
 3. Click**Update** next to the flagged_Oculus VR Headset driver_ or any devices to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the driver doesn’t work, continue to Fix 4 below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Unplug and replug your headset
 
@@ -138,13 +146,6 @@ If updating the driver doesn’t work, continue to Fix 4 below.
 2. Type**Voice** in the Windows search box and click**Voice Recorder** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/voice-recorder.jpg)
 3. If Oculus Quest 2 is picked up in Voice Recorder, start SteamVR or your game and the mic should work as intended.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If not,**keep the Voice Recorder running** . Then,**unplug the cable** from your headset,**replug it back in** ,**enable Oculus Link** on Quest 2 and start your game.
 
@@ -175,19 +176,24 @@ If updating the driver doesn’t work, continue to Fix 4 below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-100-instagram-captions-to-show-yourself-to-the-world-filmora-for-2024/"><u>[New] 100 Instagram Captions to Show Yourself to the World - Filmora for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-into-photo-magic-innovative-edits-on-snapchat/"><u>[New] 2024 Approved Step Into Photo Magic Innovative Edits on Snapchat</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-photographicperfection-how-to-fine-tune-insta-images-and-videos/"><u>[New] PhotographicPerfection How to Fine-Tune Insta Images & Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-reels-harnessing-tiktok-secrets-for-popularity-surge/"><u>[Updated] In 2024, Instagram Reels Harnessing TikTok Secrets for Popularity Surge</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unleashing-creativity-a-guide-to-music-infused-videos-for-tiktok/"><u>[Updated] In 2024, Unleashing Creativity A Guide to Music-Infused Videos for TikTok</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-from-srt-to-sub-transforming-playback-sequences/"><u>2024 Approved From SRT to SUB Transforming Playback Sequences</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/810/"><u>8つの異なるウィンドウズ10スライドショー生成ソフトウェア選び方：無料版をご紹介</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-voice-communication-issues-in-back-4-blood-guide-and-troubleshooting/"><u>Fixing Voice Communication Issues in 'Back 4 Blood' - Guide & Troubleshooting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-onikumas-non-functional-headset-mic-a-comprehensive-guide/"><u>How to Fix Onikuma's Non-Functional Headset Mic: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/rec-room-pc-microphone-troubleshooting-guide-2024-edition/"><u>Rec Room PC Microphone Troubleshooting Guide 2024 Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-dolby-sound-problems-in-windows-10-operating-system/"><u>Troubleshooting Dolby Sound Problems in Windows 10 Operating System</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/unraveling-the-mystery-behind-device-descriptor-request-errors/"><u>Unraveling the Mystery Behind Device Descriptor Request Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-at-last-fix-windows-11s-malfunctioning-microphone-today/"><u>Unstuck at Last: Fix Windows 11'S Malfunctioning Microphone Today</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-the-job-done-fast-qui/"><u>Updated In 2024, Get the Job Done Fast Qui</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-crafting-a-plan-to-locate-breathtaking-photos-in-minutes-on-pexels/"><u>[New] In 2024, Crafting a Plan to Locate Breathtaking Photos in Minutes on Pexels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-streamline-your-online-experience-insights-into-ffxp/"><u>[Updated] In 2024, Streamline Your Online Experience Insights Into FFXP</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-thorough-examination-of-dji-inspire-1/"><u>[Updated] Thorough Examination of DJI Inspire 1</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-efficient-translation-the-top-8-best-apps-reviewed/"><u>2024 Approved Free, Efficient Translation The Top 8 Best Apps Reviewed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-showcase-spaces-perfect-live-stream-flair/"><u>2024 Approved Showcase Spaces Perfect Live Stream Flair</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-simple-way-to-disengage-sound-effects-in-your-pc-running-windows-10/"><u>A Simple Way to Disengage Sound Effects in Your PC Running Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-microphone-not-working-discover-easy-fixes-here/"><u>Astro A10 Microphone Not Working? Discover Easy Fixes Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016210604-battlefield-4-sound-problem-heres-the-ultimate-guide-to-fixing-it/"><u>Battlefield 4 Sound Problem? Here's the Ultimate Guide to Fixing It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-logitech-g9-33-mic-no-sound-solutions/"><u>Diagnosing and Repairing Your Logitech G9 33 Mic – No Sound Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dolby-digital-woes-on-windows-11-heres-how-to-successfully-restart-and-fix-the-audio-driver-glitch/"><u>Dolby Digital Woes on Windows 11? Here's How to Successfully Restart and Fix the Audio Driver Glitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-repairing-nonfunctional-pc-mic-on-sony-wh-1000xm-headphones-wh-1000xm34/"><u>Expert Guide: Repairing Nonfunctional PC Mic on Sony WH-1000XM Headphones (WH-1000XM3/4)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fingerprint-not-scanning-in-windows-environment/"><u>Fingerprint Not Scanning in Windows Environment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-simple-solutions-resolving-your-razer-microphone-issues-quickly/"><u>Five Simple Solutions: Resolving Your Razer Microphone Issues Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-when-your-cs-go-microphone-fails-to-function/"><u>Fixing Issues When Your CS GO Microphone Fails to Function</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-and-rotate-3gp-videos-for-free-best-options-reviewed-for-2024/"><u>Flip and Rotate 3GP Videos for Free Best Options Reviewed for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-complet-pour-resoudre-les-problemes-de-clonage-ssd-non-supportes-par-windows-11-10-8-et-7/"><u>Guide Complet Pour Resoudre Les Problèmes De Clonage SSD Non Supportés Par Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-software-showdown-winning-windows-10-video-grabbers/"><u>Ultimate Software Showdown Winning Windows 10 Video Grabbers</u></a></li>
 </ul></div>
 

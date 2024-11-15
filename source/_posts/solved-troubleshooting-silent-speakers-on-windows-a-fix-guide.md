@@ -1,7 +1,7 @@
 ---
 title: "Solved: Troubleshooting Silent Speakers on Windows - A Fix Guide"
-date: 2024-08-31T23:55:24.008Z
-updated: 2024-09-01T23:55:24.008Z
+date: 2024-11-13T17:26:03.428Z
+updated: 2024-11-15T16:04:12.762Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -74,11 +81,15 @@ Read on and follow the easy-doing images below!
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 3: Change Speaker Settings
 
  Incorrect speaker settings could also relate to the sound keeping cutting out on Windows 10 issue. To see if this is your case:
@@ -86,29 +97,35 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Try to play audio with your computer again to see if the sound still cuts out.
 
  Hope one of the fixes above helps to fix the sound keeps cutting out on Windows 10 problem for you. If you have any other suggestions, please feel free to leave a comment below.
@@ -123,8 +140,6 @@ Read on and follow the easy-doing images below!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +147,20 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-make-a-3d-text-effect-in-photoshop/"><u>[New] In 2024, How to Make a 3D Text Effect in Photoshop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-fundamentals-of-archiving-webcam-conversations/"><u>[Updated] Fundamentals of Archiving Webcam Conversations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-high-definition-hardware-unveiled-by-gamers/"><u>[Updated] High-Definition Hardware Unveiled by Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-guide-installing-idt-hd-audio-codec-driver-on-windows-11-fix-and-solutions/"><u>Complete Guide: Installing IDT HD Audio Codec Driver on Windows 11 – Fix & Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-runmus-gaming-headsets-defective-mic-feature/"><u>Diagnosing & Repairing the RUNMUS Gaming Headset's Defective Mic Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-non-functional-wireless-earbud-microphones/"><u>Expert Fixes for Non-Functional Wireless Earbud Microphones</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-issues-with-winservicesexe-on-windows/"><u>Fixing Common Issues with Winservices.exe on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-patches-understanding-the-shutdown-of-windows-7-and-81-support/"><u>No More Patches: Understanding the Shutdown of Windows 7 & 8.1 Support</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/streamline-watching-facebook-videos-on-your-apple-tv-device-for-2024/"><u>Streamline Watching Facebook Videos on Your Apple TV Device for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-protective-gear-for-google-pixel-8a-a-comprehensive-buyers-guide/"><u>Top-Rated Protective Gear for Google Pixel 8A : A Comprehensive Buyer's Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-the-issue-of-absence-of-audio-in-windows-pcs-zoom-meetings/"><u>Troubleshooting Steps: Resolving the Issue of Absence of Audio in Windows PC's Zoom Meetings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solve-no-audio-output-issue-when-speaker-is-connected-to-windows/"><u>Troubleshooting: Solve 'No Audio Output' Issue When Speaker Is Connected to Windows</u></a></li>
+</ul></div>
 

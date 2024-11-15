@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Repairing the Unresponsive Mic Feature in Your Turtle Beach Elite Atlas Headset"
-date: 2024-10-30T05:32:15.650Z
-updated: 2024-11-04T21:00:32.104Z
+date: 2024-11-13T16:14:19.841Z
+updated: 2024-11-15T16:35:46.977Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Double-check your device and connection
 
  Before trying anything more complicated, you should do some basic checks to make sure your device and connection work fine.
@@ -42,19 +49,6 @@ Find your mic not working in Squad? That’s definitely annoying when you have t
 4. **Always plug in your headset before you launch Squad** . If it disconnects during the gameplay, try restarting Squad to get it to work.
 
  If your hardware and connection are both good to go, check out more fixes.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Configure the sound settings
 
@@ -70,29 +64,22 @@ Follow the steps here:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-3-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 2 – Set your main microphone as the default device
 
 1. On the**Recording** tab, select your primary microphone and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-4-2.jpg)
 2. Right-click your microphone and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-5-1.jpg)
 3. Go to the**Levels** tab. Then,**drag the microphone volume slider to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-6-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3 – Change the sample rate
 
@@ -100,20 +87,14 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-1.jpg)
 2. Select**2 channel, 16 bit, 48000 Hz (DVD Quality)** from the drop-down menu under Default Format. Then, click**OK** to apply the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/change-sample-rate-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve configured the microphone properly in Windows and still encounter the same problem, the next thing is to look at the in-game mic settings.
 
@@ -125,18 +106,26 @@ Follow the steps here:
 2. Click**Friends** at the upper left corner and choose**View Friends List** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-0.jpg)
 3. Click the**cogwheel icon** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-1-1.jpg)
 4. Select**Voice** from the left pane. Then, make sure the microphone you’re actually using is set as the Voice Input Device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/in-game-settings-2-2.jpg)
 
- Restart Squad to see if your microphone transmits your voice as normal. If not, try the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart Squad to see if your microphone transmits your voice as normal. If not, try the next fix below.
 
 ### Fix 4 – Update your audio driver
 
@@ -159,15 +148,15 @@ Follow the steps here:
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-driver-update-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -182,15 +171,15 @@ Follow the steps here:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-4.jpg)
 2. Right-click**Squad** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**Local Files** and then click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-2.jpg)
 
@@ -218,20 +207,20 @@ Follow the steps here:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-diving-deep-into-your-twitter-archive/"><u>[Updated] In 2024, Diving Deep Into Your Twitter Archive</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-blueprint-to-mastering-slow-motion-in-snapchat/"><u>[Updated] The Complete Blueprint to Mastering Slow Motion in Snapchat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/crack-the-code-to-crystal-clear-sounds-in-cod-warzone-pc-solutions/"><u>Crack the Code to Crystal Clear Sounds in COD: Warzone - PC Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-how-to-resolve-discord-voice-communication-issues/"><u>Fixes & Solutions: How to Resolve Discord Voice Communication Issues</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/gameplay-chronicles-top-four-ways-to-record-on-xbox-one-for-2024/"><u>Gameplay Chronicles Top Four Ways to Record on Xbox One for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-mic-in-your-sony-wh-1000xm34-headphones-when-connected-to-pc/"><u>How to Fix a Non-Functional Mic in Your Sony WH-1000XM3/4 Headphones When Connected to PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11x-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme 11X 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016472767-immediate-solutions-for-fixing-voice-chat-problems-in-fortnite-get-started-today/"><u>Immediate Solutions for Fixing Voice Chat Problems in Fortnite - Get Started Today</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-style-meets-function-essential-sj4000-gear-selection/"><u>In 2024, Style Meets Function Essential SJ4000 Gear Selection</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fix-laser-print-nozzle-blockage/"><u>Quick Fix: Laser Print Nozzle Blockage</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-trending-hashtags-on-instagram-for-2024/"><u>The Ultimate Guide to Trending Hashtags on Instagram for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-value-in-pet-surveillance-tech/"><u>The Ultimate Guide to Value in Pet Surveillance Tech</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016989128-troubleshooting-g435-bluetooth-earbuds-with-no-audio-output-solutions-inside/"><u>Troubleshooting G435 Bluetooth Earbuds with No Audio Output - Solutions Inside!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-mute-settings-enabling-audio-in-cyberpunk-2077-on-window-11/"><u>Troubleshooting Mute Settings: Enabling Audio in Cyberpunk 2077 on Window 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-claude-the-ultimate-ai-for-professionals/"><u>Unveiling the Power of Claude: The Ultimate AI for Professionals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-save-the-day-guide-to-downloading-and-converting-vimeo-videos-mp4/"><u>[New] 2024 Approved Save the Day Guide to Downloading and Converting Vimeo Videos (MP4)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-high-impact-yt-cover-images/"><u>Creating High-Impact YT Cover Images</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-canvas-the-art-of-desktop-drawing-in-windows-11/"><u>Digital Canvas: The Art of Desktop Drawing in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-silent-hurdles-in-cs-go-expert-tips-on-microphone-repair/"><u>Overcome Silent Hurdles in CS: GO - Expert Tips on Microphone Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/playstyles/"><u>Playstyles:</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-resolving-common-speaker-hum-and-buzz-issues/"><u>Quick Fixes: Resolving Common Speaker Hum and Buzz Issues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/radiant-renderings-perfecting-video-light-quality-for-2024/"><u>Radiant Renderings Perfecting Video Light Quality for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-audio-issues-in-google-chrome/"><u>Resolved: Fixing Audio Issues in Google Chrome</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-skypes-sound-problems-in-windows-11-a-step-by-step-mic-fix-guide/"><u>Resolving Skype's Sound Problems in Windows 11: A Step-by-Step Mic Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-to-facebook-streams-on-windowsmac-updated-fixes-for-playback-problems/"><u>Restore Audio to Facebook Streams on Windows/Mac: Updated Fixes for Playback Problems .</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-laptops-silent-speakers-comprehensive-fixes-for-malfunctioning-headphone-jaxports/"><u>Reviving Your Laptop's Silent Speakers: Comprehensive Fixes for Malfunctioning Headphone JAXPORTS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-ken-burns-effect-tutorial-for-final-cut-pro-tips-tricks-and-best-practices/"><u>Updated 2024 Approved The Ultimate Ken Burns Effect Tutorial for Final Cut Pro Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-15-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 15 i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve Your OBS Desktop Microphone Problem - A Step-by-Step Guide
-date: 2024-10-25T17:21:28.932Z
-updated: 2024-10-30T17:29:53.371Z
+date: 2024-11-10T17:03:43.805Z
+updated: 2024-11-15T17:34:50.460Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ You may not have to try them all. Just work your way down the list until you fin
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Allow access to your headset microphone (for Windows 10 users)
@@ -60,19 +60,33 @@ You should allow your Windows 10 system and your application to access your head
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9221f920.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Make sure**Allow apps to access your microphone**is turned**on**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e9a89f2b6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Check your microphone device settings
@@ -81,16 +95,16 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** In Control Panel, select**Large icons**from the**View by**drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**Select **Sound**.
 
@@ -100,16 +114,16 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Right click the**Headset Microphone**and click **Enable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**Right click it again and select **Set as Default Device**.
 
@@ -118,13 +132,6 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 **7)** Right click**Headset Microphone**and click**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)** Click the**Levels**tab, then drag the volume slider towards the_largest value_.
 
@@ -145,22 +152,15 @@ The mic on your Logitech G933 headset won’t work if you’re using an incorrec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can also click the **Update All**button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All**.) Once you’ve updated the driver for your Logitech G933 headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Troubleshoot hardware issues
 
@@ -184,17 +184,16 @@ If your headset microphone is still not working, it’s likely there are hardwar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-video-editor-for-seamless-vimeo-videos/"><u>[Updated] In 2024, Expert Video Editor for Seamless Vimeo Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-introduction-to-av1-encoding-techniques/"><u>[Updated] In 2024, Introduction to AV1 Encoding Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-silentizing-beats-the-low-volume-approach/"><u>[Updated] Silentizing Beats The Low-Volume Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-getting-jdk-rolled-out-in-windows-11-dev-environment/"><u>A Guide to Getting JDK Rolled Out in Windows 11 Dev Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-repair-guide-how-to-get-your-beyond-the-wire-mic-working-again/"><u>Comprehensive Repair Guide: How To Get Your 'Beyond The Wire' Mic Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-get-your-tozo-t6-software-running-smoothly-on-windows-11/"><u>Effective Solutions to Get Your Tozo T6 Software Running Smoothly on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-8-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-nvidia-high-definition-audio-challenges-expert-tips-for-bringing-back-system-sounds/"><u>Overcoming NVIDIA High Definition Audio Challenges: Expert Tips for Bringing Back System Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revitalizing-a-malfunctioning-windows-printerscanner/"><u>Revitalizing a Malfunctioning Windows Printer/Scanner</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repair-kotion-each-model-g2000-mic-problems/"><u>Step-by-Step Guide to Repair Kotion Each Model G2000 Mic Problems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tricks-for-transferring-twitter-video-to-your-phone/"><u>Tricks for Transferring Twitter Video to Your Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-lack-of-pen-and-touch-input-on-your-screen/"><u>Troubleshooting: Fixing the Lack of Pen and Touch Input on Your Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-vivid-skies-highlighted-hdr-web-platforms/"><u>[New] Explore Vivid Skies Highlighted HDR Web Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-efficiently-incorporate-media-in-your-tweets/"><u>[New] In 2024, Efficiently Incorporate Media in Your Tweets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-control-speed-of-instagram-videos-effortlessly/"><u>[Updated] How To Control Speed of Instagram Videos Effortlessly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>[Updated] In 2024, Frames to Fabulous The Ultimate List of Photo Plugins</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-optimization-success-story/"><u>Display Optimization: Success Story</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-listening-experience-increase-sound-volume-on-windows-11/"><u>Enhance Listening Experience: Increase Sound Volume on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-mic-working-again-for-microsoft-teams-on-windows-operating-systems-1110/"><u>How to Get Your Mic Working Again for Microsoft Teams on Windows Operating Systems (11/10)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-realme-11-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Realme 11 Pro? </u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reconnect-your-ears-essential-fixes-for-discord-users-experiencing-hearing-issues/"><u>Reconnect Your Ears: Essential Fixes for Discord Users Experiencing Hearing Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-logitechs-pro-x-mic-failures-with-these-easy-fixes/"><u>Resolve Logitech's Pro X Mic Failures with These Easy Fixes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-showdown-twitters-top-tiktok-trends/"><u>Social Media Showdown Twitters' Top TikTok Trends</u></a></li>
 </ul></div>
 

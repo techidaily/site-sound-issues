@@ -1,7 +1,7 @@
 ---
 title: Diagnosing & Repairing the RUNMUS Gaming Headset's Defective Mic Feature
-date: 2024-10-31T05:26:16.137Z
-updated: 2024-11-05T01:19:55.348Z
+date: 2024-11-14T17:26:04.924Z
+updated: 2024-11-15T17:35:59.253Z
 tags:
   - win11
   - win10
@@ -54,16 +54,16 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -73,40 +73,20 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3 – Update your audio driver
@@ -124,13 +104,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
@@ -147,11 +120,34 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
 7. Restart your PC and replug your Corsair headset into your computer.
@@ -162,10 +158,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
@@ -223,19 +219,19 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-analyzing-bandicam-as-a-key-tool-in-digital-content-creation-for-2024/"><u>[New] Analyzing Bandicam as a Key Tool in Digital Content Creation for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>[New] In 2024, Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-hot-40i-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Hot 40i to Roku | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/fy-engagement-increase-youtube-viewers-for-2024/"><u>Amplify Engagement Increase YouTube Viewers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-noise-expert-fixes-to-restore-sound-in-your-2024-call-of-duty-warzone-gameplay/"><u>Beat the Noise: Expert Fixes to Restore Sound in Your 2024 Call of Duty Warzone Gameplay</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-your-snipsnap-glitches-with-these-9-simple-fixes/"><u>Fix Your SnipSnap Glitches with These 9 Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-clear-communication-on-discord-tips-for-rectifying-audio-glitches/"><u>Mastering Clear Communication on Discord - Tips for Rectifying Audio Glitches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/microphone-mastery-a-quick-and-easy-way-to-ensure-crystal-clear-audio/"><u>Microphone Mastery: A Quick and Easy Way to Ensure Crystal Clear Audio</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-a58-4g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo A58 4G and Browser | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roblox-status-check-server-issues-or-personal-connectivity/"><u>Roblox Status Check: Server Issues or Personal Connectivity?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-noise-trouble-on-your-desktop-swift-solutions-inside/"><u>Solve Noise Trouble on Your Desktop | Swift Solutions Inside</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-apples-podcast-library-a-download-guide/"><u>Unlocking Apple's Podcast Library A Download Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-and-airpods-microphone-glitches-comprehensive-solutions-to-get-it-working-again/"><u>Windows 10 and AirPods Microphone Glitches: Comprehensive Solutions to Get It Working Again</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-pinnacle-of-zooid-creations-guide/"><u>[New] In 2024, The Pinnacle of Zooid Creations Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unveiling-intova-xs-action-potential-for-2024/"><u>[Updated] Unveiling Intova X's Action Potential for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/an-overview-of-gpt-plugins-and-uses/"><u>An Overview of GPT Plugins & Uses</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chat-not-working-solved/"><u>Apex Legends Voice Chat Not Working [SOLVED]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hashtags-for-youtube-to-get-your-views-to-6-figures-for-2024/"><u>Best Hashtags for YouTube To Get Your Views to 6 Figures for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-the-challenge-of-echo-during-voice-chats-on-discord-a-detailed-2024-troubleshooting-tutorial-for-pc-users/"><u>Conquer the Challenge of Echo During Voice Chats on Discord - A Detailed 2024 Troubleshooting Tutorial for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-muted-troubleshoot-game-sounds-for-a-perfect-gaming-experience-on-windows-11/"><u>Cyberpunk 2077 Muted? Troubleshoot Game Sounds for a Perfect Gaming Experience on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-problems-with-the-razer-kraken-microphone/"><u>Diagnosing and Correcting Problems with the Razer Kraken Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-solving-steelseries-arctis-prime-mic-connectivity-issues/"><u>Diagnosing and Solving SteelSeries Arctis Prime Mic Connectivity Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhancing-video-quality-callout-techniques-for-engaging-edits/"><u>Enhancing Video Quality Callout Techniques for Engaging Edits</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6s-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-broadcast-face-off-facebook-vs-youtube-and-tweetstreams/"><u>In 2024, Digital Broadcast Face-Off FACEbook Vs. YOUTube & TweetStreams</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-se-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone SE</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-hotkeys-for-volume-control-in-the-newest-windows-version/"><u>Tailored Hotkeys for Volume Control in the Newest Windows Version</u></a></li>
 </ul></div>
 

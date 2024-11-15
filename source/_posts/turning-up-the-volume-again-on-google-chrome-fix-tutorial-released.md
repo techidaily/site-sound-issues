@@ -1,7 +1,7 @@
 ---
 title: Turning Up the Volume Again on Google Chrome - Fix Tutorial Released
-date: 2024-10-29T07:31:55.668Z
-updated: 2024-11-05T09:52:50.576Z
+date: 2024-11-12T17:19:03.553Z
+updated: 2024-11-15T17:49:37.287Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Rule out the obvious
@@ -72,19 +72,33 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd6217aadf1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e9cb799c4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer and check if sound works properly on Chrome. If the problem still exists, then move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check volume mixer
 
@@ -94,8 +108,23 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df14ca9334.jpg)
 2. Make sure you’ve moved the**volume slider** for**Chrome** to at least halfway up.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df24a53f15.jpg)  
  If the volume controller for Chrome isn’t listed here, you can play audio/video on Chrome and then it should pop up.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Re-launch Chrome and play some audio/video and see if you can hear the sound. If the Chrome no sound problem persists, move on to**Fix 4** , below.
 
 ---
@@ -116,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Clear cache and cookies
 
  Cache and cookies are some temporary data that help speed up webpage loading. But too much of them may overload Chrome and cause no sound problem. So in order to**clear cache and cookies** :
@@ -131,6 +153,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 2. On the top right, click on**the three vertical dots** button >**More tools** \>**clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select**the time range** for the data cache clearing (Last 7 days in my example). Then click**CLEAR DATA** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 
@@ -149,13 +178,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Update Adobe Flash Player
 
  This problem may also occur if the Adobe Flash Player plug in on Chrome is outdated or faulty. So you can update**Adobe Flash Player** to see if this is the case.
@@ -167,25 +189,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1dfb5ac965f.jpg)
 3. Check the status:
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * If it says **Status – Component not updated**  , then go to **[Adobe Flash Player](https://flash.2144.com/)** [](https://flash.2144.com/)  to  download & install the latest version of your   **Adobe flash player**  .
 * If it says otherwise, then move on to**Fix 8** .
 * Re-open Chrome and check if sound comes through. If the problem still lingers on, proceed with**Fix 8** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Chrome
 
@@ -196,13 +204,6 @@ Here’s how to do it:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **appwiz.cpl**  into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d37f8cbb5d.png)
 2. Locate and right-click on Chrome, then click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e14cb32cd8.jpg)
 3. Download and install Chrome from another web browser or Windows store.
@@ -231,21 +232,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-vibrant-user-account-creation-pathway/"><u>[New] 2024 Approved Vibrant User Account Creation Pathway</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-djis-mavic-pro-visual-goggles-performance-review/"><u>[New] DJi's Mavic Pro Visual Goggles Performance Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-master-the-art-of-instagram-friendly-video-editing-for-2024/"><u>[New] Master the Art of Instagram-Friendly Video Editing for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-picks-ultimate-gifs-and-images-as-zoomgoogle-meet-backdrops/"><u>[Updated] Top Picks Ultimate GIFs & Images as Zoom/Google Meet Backdrops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016531433-chrome-sound-troubleshooting-guide-now-fixed/"><u>Chrome Sound Troubleshooting Guide – Now Fixed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cutting-through-the-crackle-effective-solutions-for-a-perfect-sound-from-logitech-g-pro-x-microphone-pc-version-guide/"><u>Cutting Through the Crackle: Effective Solutions for a Perfect Sound From Logitech G Pro X Microphone, PC Version ( Guide)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-corsair-headset-expert-tips-and-tricks/"><u>How to Fix a Broken Corsair Headset – Expert Tips & Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015952228-how-to-fix-realtek-hd-audio-controller-wont-launch-complete-solution/"><u>How to Fix Realtek HD Audio Controller Won't Launch – Complete Solution!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-laptops-built-in-speakers-working-again/"><u>How to Get Your Laptop's Built-In Speakers Working Again</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-bring-back-the-light-solutions-for-gaming-screens-turned-black-with-obs/"><u>In 2024, Bring Back the Light Solutions for Gaming Screens Turned Black with OBS</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-6s-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 6s for Free? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-g2e-steering-wheel-drivers-for-win11-win10-and-win7-free-download/"><u>Latest Logitech G2e Steering Wheel Drivers for Win11, Win10 & Win7 – Free Download</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-inputoutput-missing-errors-across-windows-11-8-and-7-environments/"><u>Overcoming 'Audio Input/Output Missing' Errors Across Windows 11, 8 & 7 Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-reactivating-your-mic-for-seamless-video-conferencing-with-zoom-on-windows-1110/"><u>Quick Fixes: Reactivating Your Mic for Seamless Video Conferencing with Zoom on Windows 11/10</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/the-ins-and-outs-of-audible-content-a-comprehensive-overview/"><u>The Ins and Outs of Audible Content: A Comprehensive Overview</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-sites-for-enjoying-your-favorite-music-videos-anytime/"><u>Top 6 Sites for Enjoying Your Favorite Music Videos Anytime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-templates-for-sustainable-storytelling/"><u>[Updated] Free Templates for Sustainable Storytelling</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pro-video-recording-on-iphone-meets-instant-photos-for-2024/"><u>[Updated] Pro Video Recording on iPhone Meets Instant Photos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210209964-fixing-windows-installation-failed-fast-solutions/"><u>Fixing 'Windows Installation Failed' – Fast Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-correcting-your-hp-computers-video-card-drivers-on-various-versions-of-microsoft-windows/"><u>Guide: Correcting Your HP Computer's Video Card Drivers on Various Versions of Microsoft Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x9b-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X9b Phones with/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-curate-christian-chimes-for-devotion-for-2024/"><u>How to Curate Christian Chimes for Devotion for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/perfect-your-pictures-the-ultimate-guide-to-photo-text-editing/"><u>Perfect Your Pictures The Ultimate Guide to Photo Text Editing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-turtle-beach-recon-eby-fixing-a-non-functional-mic/"><u>Reviving Your Turtle Beach Recon Eby Fixing a Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silenced-airpods-get-them-working-with-sound-again-on-your-windows-computer-version-111n/"><u>Silenced AirPods? Get Them Working with Sound Again on Your Windows Computer (Version 11/1N)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-repair-non-functional-mic-on-steelseries-arctis-pro/"><u>Solution Guide: How to Repair Non-Functional Mic on SteelSeries Arctis Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-silent-realtek-audio-dac-complete-guide/"><u>Solved: Fixing Silent Realtek Audio DAC - Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-your-hyperx-cloud-alpha-mic-for-optimal-gaming-performance/"><u>Solved: How to Restore Sound on Your HyperX Cloud Alpha Mic for Optimal Gaming Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-productivity-with-nuphy-gem80-a-seamless-custom-keyboard-journey/"><u>Unlocking Productivity with Nuphy Gem80: A Seamless Custom Keyboard Journey</u></a></li>
 </ul></div>
 

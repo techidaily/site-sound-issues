@@ -1,7 +1,7 @@
 ---
 title: Resolving No Audio on Your HP Laptop – Expert Tips and Techniques
-date: 2024-11-02T18:01:40.997Z
-updated: 2024-11-05T09:06:32.912Z
+date: 2024-11-08T17:32:20.215Z
+updated: 2024-11-15T16:19:48.034Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
  4) headphones are plugged in: your speakers might not work if you have the headphones in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Turn off Audio Enhancements
 
  Audio enhancement feature is supposed to make your sound card work at its peak, but unfortunately, not all sound card hardware work well when it’s on. You can turn it off by:
@@ -59,13 +52,34 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881b98693b49.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the **Playback** tab, right-click **Default Device**  you have and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881badde83bd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to **the Enhancement** tab, tick the box for**Disable all sound effects** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bcabb193b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) See if your sound is back. If you still cannot get your sound back, choose Cancel here, and then repeat 2) and 3) with your other default device and have a try again.
 
@@ -94,10 +108,10 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964407a532ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Uninstall driver from Device Manager
@@ -109,26 +123,26 @@ If you’re on Windows 10 and you find that your audio or sound is not working p
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881bdc6126ad.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click your sound card driver, then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c04799622.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**OK** at the prompted notification to continue.
 
@@ -141,16 +155,10 @@ Windows will then help you reinstall the driver.
  And if this still don’t work, please try the next step where we try using the generic audio driver that comes with Windows.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5: Try generic audio driver provided by Windows 10
@@ -171,13 +179,6 @@ Windows will then help you reinstall the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c1cb5f81b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c2564577d.png)
@@ -185,13 +186,6 @@ Windows will then help you reinstall the driver.
  6) Click**High Definition Audio Device** , and**Next.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5881c28f9c29e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Yes** at this prompt and continue.
 
@@ -222,24 +216,22 @@ Check if your sound is back.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-terria-customization-collection/"><u>[New] 2024 Approved Ultimate Terria Customization Collection</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-live-video-showdown-which-is-superior-obs-or-twitch-studio-in-2024/"><u>[Updated] Live Video Showdown Which Is Superior, OBS or Twitch Studio, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-vita-video-editor-app-review/"><u>[Updated] Vita Video Editor App Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bring-back-the-audio-to-your-windows-media-player-a-comprehensive-guide/"><u>Bring Back the Audio to Your Windows Media Player - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/counter-strike-2-communication-breakdown-heres-how-to-restore-mic-functionality/"><u>Counter Strike 2 Communication Breakdown? Here's How to Restore Mic Functionality</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ce-youtube-views-leveraging-outro-content-partnerships/"><u>Enhance YouTube Views Leveraging Outro Content Partnerships</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-redragon-mic-issues-effective-solutions-for-windows-users/"><u>Fix Your Redragon Mic Issues - Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/google-meet-microphone-malfunction-heres-how-to-fix-it-on-windows-10-and-11/"><u>Google Meet Microphone Malfunction? Here's How to Fix It on Windows 10 and 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-x-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone X</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-xs-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone XS Max GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>In 2024, Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/obtain-the-essential-software-for-your-epson-xp-330-printer-beginners-guide/"><u>Obtain the Essential Software for Your Epson XP-330 Printer - Beginner's Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-silent-calls-a-guide-to-restoring-microphone-volume-during-zoom-meetings/"><u>Resolving Silent Calls: A Guide to Restoring Microphone Volume During Zoom Meetings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-anthem-game-silent-on-windows-11-troubleshooting-guide/"><u>Solve 'Anthem Game Silent' On Windows 11: Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-is-my-csgo-mic-not-responding-and-how-to-restore-it/"><u>Solved: Why Is My CS:GO Mic Not Responding and How to Restore It?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-audio-recovery-eliminate-sound-issues-on-your-windows-device/"><u>Step by Step Audio Recovery: Eliminate Sound Issues on Your Windows Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-a-dead-logitech-g733-microphone-easily/"><u>Troubleshoot a Dead Logitech G733 Microphone Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-recurring-overwatch-ncrashes-in-pc-gaming-sessions/"><u>Troubleshooting Tips: How to Fix Recurring Overwatch nCrashes in PC Gaming Sessions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-leading-edge-vr-developers/"><u>Unveiling Leading-Edge VR Developers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-preserving-your-nintendo-switch-experiences-a-guide/"><u>[New] 2024 Approved Preserving Your Nintendo Switch Experiences A Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-enriching-vlog-topics-to-share/"><u>[Updated] 2024 Approved Enriching Vlog Topics to Share</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/breaking-the-mute-button-simple-audio-troubleshooting-steps-for-windows-11-users/"><u>Breaking the Mute Button: Simple Audio Troubleshooting Steps for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-a-broken-turtle-beach-recon-70-mic-a-step-by-step-guide/"><u>Effective Solutions for a Broken Turtle Beach Recon 70 Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-why-your-razer-barracuda-x-microphone-might-fail-in-windows-1110/"><u>Fixing Issues: Why Your Razer Barracuda X Microphone Might Fail in Windows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-madden-22s-load-screen-hang-up-for-smooth-gameplay-experience/"><u>Fixing Madden 22'S Load Screen Hang-Up for Smooth Gameplay Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-speakers-working-again-on-a-toshiba-laptop-best-hacks/"><u>Getting the Speakers Working Again on a Toshiba Laptop - Best Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-mic-working-again-in-zoom-meetings-on-windows-operating-systems/"><u>Getting Your Mic Working Again in Zoom Meetings on Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-address-the-lack-of-speaker-output-on-a-windows-11-computer/"><u>How to Address the Lack of Speaker Output on a Windows 11 Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-honor-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Honor .</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-a-deep-dive-into-effective-youtube-banner-techniques/"><u>In 2024, A Deep Dive Into Effective YouTube Banner Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lightning-lanes-moving-iphone-photos-to-pc/"><u>In 2024, Lightning Lanes Moving iPhone Photos to PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-maximizing-content-impact-bypassing-virtual-onlookers/"><u>In 2024, Maximizing Content Impact Bypassing Virtual Onlookers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-mic-issue-how-to-fix-non-functional-airpods-microphone-in-windows-11/"><u>Troubleshooting the Mic Issue: How to Fix Non-Functional AirPods Microphone in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/warriors-aid-for-silent-battlegrounds-reviving-audio-in-call-of-duty-warzone-2024-edition/"><u>Warrior's Aid for Silent Battlegrounds: Reviving Audio in Call of Duty Warzone - 2024 Edition</u></a></li>
 </ul></div>
 

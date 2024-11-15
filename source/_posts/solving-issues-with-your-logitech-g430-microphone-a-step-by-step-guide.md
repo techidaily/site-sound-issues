@@ -1,7 +1,7 @@
 ---
 title: "Solving Issues with Your Logitech G430 Microphone: A Step-by-Step Guide"
-date: 2024-10-30T07:53:10.232Z
-updated: 2024-11-04T18:29:07.908Z
+date: 2024-11-10T16:35:15.418Z
+updated: 2024-11-15T16:47:15.877Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Troubleshoot the hardware issue
 
  Before moving on to some more advanced methods, you need to make sure your microphone is not physically broken and the connection works fine. You can take these steps to do a basic check:
@@ -57,26 +64,13 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-6.jpg)
 4. Also, **toggle on Allow desktop apps’ access to your microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After applying the settings, you can restart Rec Room to test the issue. If it’s not resolved, try the next fix.
@@ -91,39 +85,26 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Select**Small icons** from the menu next to View by and click**Sound** .  
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-4.jpg)
 3. Go to the**Recording** tab. Then right-click other recording devices you’re not using and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-settings-2.jpg)
 4. Make sure your preferred headset mic is**enabled** , which should be covered with a green check mark, and**set as default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Oculus or SteamVR
 
@@ -156,20 +137,21 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-oculus-headset-driver.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -183,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 1. Right-click any empty space on your taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-10.jpg)
 2. Right-click each application you want to close and click**End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
 
@@ -212,18 +201,15 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-quick-guide-to-chroma-key-background/"><u>[New] A Quick Guide to Chroma Key Background</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-secrets-to-keeping-online-interactions-safe/"><u>[New] In 2024, Secrets to Keeping Online Interactions Safe</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-best-in-class-top-8-software-turning-subtitles-into-simplified-srt-format/"><u>[Updated] Best in Class Top 8 Software Turning Subtitles Into Simplified SRT Format</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-peak-popularity-on-reddit-10-most-upvoted-stories/"><u>[Updated] Peak Popularity on Reddit 10 Most Upvoted Stories</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-voice-customization-leaders-beyond-echo-magic/"><u>[Updated] Voice Customization Leaders Beyond Echo Magic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-bug-effective-fixes-for-cs-go-when-your-mic-doesnt-co-operate/"><u>Beat the Bug: Effective Fixes for CS: GO when Your Mic Doesn't Co-Operate</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-sounds-on-demand-a-guide-to-fixing-windows-1011-audio-stutters-and-distortions/"><u>Clear Sounds on Demand: A Guide to Fixing Windows 10/11 Audio Stutters & Distortions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/complete-solution-stop-bluetooth-sound-hiccups-and-cracks-in-windows-10-and-11-systems/"><u>Complete Solution: Stop Bluetooth Sound Hiccups and Cracks in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/linkedin-luminaries-chatting-with-snapchat-for-2024/"><u>LinkedIn Luminaries Chatting with Snapchat for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimizing-your-logitech-g230-mic-top-fixes-for-audio-malfunctions-resolved/"><u>Optimizing Your Logitech G230 Mic: Top Fixes for Audio Malfunctions Resolved</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pro-level-insights-into-win11-enhancements/"><u>Pro-Level Insights Into Win11 Enhancements</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tp-link-av2000-powerline-surge-reviews-brilliant-performance-yet-lacks-aesthetic-design/"><u>TP-Link AV2000 Powerline Surge Reviews: Brilliant Performance, Yet Lacks Aesthetic Design</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-unplugged-nvidia-setup-essential-fix-ideas-revealed/"><u>Troubleshoot Unplugged Nvidia Setup: Essential Fix Ideas Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-visual-marketing-on-youtube-with-banners-and-thumbnails-for-2024/"><u>[New] Mastering Visual Marketing on YouTube with Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-captivating-youtube-closures-expert-guides-included/"><u>[Updated] In 2024, Crafting Captivating YouTube Closures - Expert Guides Included</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-android-time-lapse-perfection-secrets-revealed/"><u>2024 Approved Android Time-Lapse Perfection Secrets Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-swift-fixes-to-get-your-oculus-rift-ss-microphone-up-and-running/"><u>5 Swift Fixes to Get Your Oculus Rift S's Microphone Up and Running</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/easy-tutorial-on-copying-content-from-your-huawei-p20-phone-to-a-windows-or-mac-pc/"><u>Easy Tutorial on Copying Content From Your Huawei P20 Phone to a Windows or Mac PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-to-gaming-with-friends-resolving-voice-chat-problems-in-valorant/"><u>Get Back to Gaming with Friends: Resolving Voice Chat Problems in Valorant</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-youtube-elite-earnings-leader/"><u>Global YouTube Elite Earnings Leader</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-guide-to-screen-capture-on-laptops-and-chromeos-for-2024/"><u>Quick Guide to Screen Capture on Laptops and ChromeOS for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-implemented-eliminating-audio-issues-within-firefox-web-browser/"><u>Solution Implemented: Eliminating Audio Issues Within Firefox Web Browser</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-a-non-functional-mic-on-your-steelseries-arctis-7-headset/"><u>Solving the Problem of a Non-Functional Mic on Your SteelSeries Arctis 7 Headset</u></a></li>
 </ul></div>
 

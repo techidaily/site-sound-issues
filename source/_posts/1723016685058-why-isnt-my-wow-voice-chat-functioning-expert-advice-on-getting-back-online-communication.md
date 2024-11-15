@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My WoW Voice Chat Functioning? Expert Advice on Getting Back Online Communication
-date: 2024-08-31T23:53:04.721Z
-updated: 2024-09-01T23:53:04.721Z
+date: 2024-11-09T17:18:05.719Z
+updated: 2024-11-15T16:12:30.462Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Having problems with the**voice chat** in**World of Warcraft** ? You’re surely
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Scan and repair WoW](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Check your audio input device**
 
  There’re many reasons for microphone problems, but the first thing you should do when troubleshooting is to**check the physical connections** . Make sure the cables of your microphone are securely plugged into the**correct audio jack** .
@@ -38,6 +45,13 @@ Having problems with the**voice chat** in**World of Warcraft** ? You’re surely
 
  If there’s nothing wrong with your input device, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Configure your system microphone settings
 
  Normally when you plugged in your microphone, Windows will set it as the default recording device. But that’s not always the case. Sometimes you’ll need to configure this setting manually.
@@ -47,20 +61,21 @@ You can use these steps to check:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Type or paste**ms-settings:sound** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-ms-settings-sound.jpg)
 2. Under the**Input** section, make sure your input device is set to the desired one. Then click**Device properties and test microphone** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/input-device.jpg)
 3. Make sure you’ve**unchecked the box** next to**Disable** , and the slider under the**Volume** section is set to**100** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Click**Start test** and tap or speak to your microphone. Then click**Stop test** . If you’re prompted**The highest value we saw was xx percent** , it means your microphone is working correctly.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/test-mic-new.jpg)
 5. Launch World of Warcraft and test your in-game voice chat.
 
  If this method doesn’t tackle your problem, please continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Check your in-game settings**
 
@@ -71,22 +86,28 @@ Here’re the steps:
 1. Open the**Blizzard client** . On the top left corner, click the**Blizzard icon** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-client.jpg)
 2. On the menu to your left, select**Voice Chat** . Set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Then click**Done** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 3. Launch WoW. Open game settings and select**Voice Chat** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Configure**Output Device** and**Microphone Device** to**System Default** . Then test your microphone. If your mic is working now, click**Okay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/wow-in-game-voice-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If configuring in-game settings doesn’t give you any luck, take a look at the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4:**Update your audio driver**
 
  The voice chat issue could occur when you’re using a**faulty or outdated audio driver** . You should be sure that you’re using the latest audio driver, especially when you’ve spend top dollar for your peripherals, which often ship with edgy features that need to be unlocked by additional drivers.
@@ -97,15 +118,9 @@ Here’re the steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your audio driver, restart your computer and check the voice chat in WoW.
@@ -121,15 +136,18 @@ By the way, it’s surprisingly easy to update too:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Type or paste**control /name Microsoft.WindowsUpdate** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-windows-update.jpg)
 2. Click**Check for updates** . Windows will then search and install the system updates automatically. Once it’s done, restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed**all** the system updates, repeat these steps until it prompts “You’re up to date” when you click**Check for updates** .
 
  If your issue persists after installing system updates, please continue to the final fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Scan and repair WoW
 
@@ -138,6 +156,13 @@ By the way, it’s surprisingly easy to update too:
 1. Open your Blizzard client and select**World of Warcraft** . Then click**Options** and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-wow-scan-and-repair-1.jpg)
 2. It will take**5-30 minutes** to verify the integrity of your game files. Once completed, launch WoW and check your in-game voice chat.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -151,8 +176,6 @@ By the way, it’s surprisingly easy to update too:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +183,21 @@ By the way, it’s surprisingly easy to update too:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-effective-screen-recorders/"><u>[New] 2024 Approved The Ultimate Guide to Effective Screen Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-scorching-speedways-ranking-the-top-5-virtual-race-titles/"><u>[Updated] Scorching Speedways Ranking the Top 5 Virtual Race Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-hook-it-game-winning-podcast-beginnings/"><u>[Updated] The Hook-It Game Winning Podcast Beginnings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/foremost-next-gen-video-game-devices-unveiled/"><u>Foremost Next-Gen Video Game Devices Unveiled</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a60s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Itel A60s Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p40plusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P40+FRP Lock</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/my-journey-with-windows-11-nostalgia-for-beloved-windows-10-features/"><u>My Journey with Windows 11: Nostalgia for Beloved Windows 10 Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-with-anthem-windows-10-heres-how-to-fix-it-quickly/"><u>No Audio with Anthem Windows 10? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-sound-quirks-on-your-computer-fixing-stutter-and-distortion-issues-in-windows-117/"><u>Overcome Sound Quirks on Your Computer: Fixing Stutter and Distortion Issues in Windows 11/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-nvidias-silent-challenge-expert-tips-to-fix-your-hd-audio-no-sound-woes/"><u>Overcoming Nvidia's Silent Challenge: Expert Tips to Fix Your HD Audio No Sound Woes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-gaming-troubleshoot-fixing-black-ops-cold-war-sound-problem-complete-guide/"><u>PC Gaming Troubleshoot: Fixing Black Ops: Cold War Sound Problem – Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-quiet-crisis-effective-methods-for-restoring-sound-on-an-hp-notebook/"><u>Resolving the Quiet Crisis: Effective Methods for Restoring Sound on an HP Notebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-in-apex-legends-how-to-guide-for-players-facing-mute-issues/"><u>Restoring Audio in Apex Legends - How To Guide for Players Facing Mute Issues</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1726030078329-wmv/"><u>WMVファイルからオーディオコンテンツの抜き出し手順三つ</u></a></li>
+</ul></div>
 

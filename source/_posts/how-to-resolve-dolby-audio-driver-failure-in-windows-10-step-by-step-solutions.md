@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Dolby Audio Driver Failure' In Windows 10 – Step-By-Step Solutions
-date: 2024-08-31T23:55:14.866Z
-updated: 2024-09-01T23:55:14.866Z
+date: 2024-11-08T16:00:32.111Z
+updated: 2024-11-15T17:24:36.489Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ If the issue still exists, move to the below fixes.
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 4. [Use a Bluetooth adapter](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Set as default communications device
 
  To make your AirPods mic work, you have to set it as default communications device.
@@ -50,24 +46,28 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Right-click on the**sound** icon then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-41-45.jpg)
 2. In the**Playback** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
-3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
-4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
+3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
+4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
+
 ### Fix 2: Update your Bluetooth Drivers
 
  Normally, if your AirPods microphone isn’t working properly, it’s probably using a broken or outdated Bluetooth driver. Then, updating your Bluetooth driver would fix this problem.
@@ -80,13 +80,26 @@ There’re 2 ways to update drivers, manually and automatically.
  Then, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Click **Bluetooth** to expand the category. Right-click your Bluetooth adapter and select **Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
 4. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Restart your PC and check your AirPods mic.
 
 #### Option 2 – Install the latest Bluetooth driver automatically (Recommended)
@@ -116,15 +129,26 @@ So follow the steps below to install the latest Windows updates.
 1. Press the **Windows logo key** and**I** at the same time on your keyboard to open Windows Settings. Then, click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. In the Windows Update panel, click **Check for updates** . Windows will check and download the latest available patches automatically.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  
  If you see “You’re up to date” after clicking the button, your PC confirms that it has all Windows updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your PC and check the AirPods microphone after the whole process is finished.
 
 If this fix doesn’t work for you, the next one might suit you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a Bluetooth adapter
 
@@ -144,8 +168,6 @@ If this fix doesn’t work for you, the next one might suit you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +175,18 @@ If this fix doesn’t work for you, the next one might suit you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-professional-filmmakers-plug-in-picks-for-final-cut/"><u>[New] In 2024, Professional Filmmaker's Plug-In Picks for Final Cut</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-picsart-guide-discreetly-mask-faces/"><u>[Updated] 2024 Approved Picsart Guide Discreetly Mask Faces</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015022099-battlefield-4-sound-issues-try-these-fixes/"><u>Battlefield 4 Sound Issues? Try These Fixes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-redragon-headset-microphone-malfunctions-on-desktops/"><u>Diagnosing and Repairing Redragon Headset Microphone Malfunctions on Desktops</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/direct-slideshow-content-into-video-realm/"><u>Direct Slideshow Content Into Video Realm</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-bcm20702a0-driver-for-windows-devices-downloaded-here/"><u>Effortless Setup: BCM20702A0 Driver for Windows Devices Downloaded Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-incompatibility-between-premiere-pro-and-amdintel-drivers/"><u>Fixed Incompatibility Between Premiere Pro and AMD/Intel Drivers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-collecting-classics-copyrights-released/"><u>In 2024, Collecting Classics Copyrights Released</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/perfecting-live-display-images-with-ease/"><u>Perfecting Live Display Images with Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-resolution-for-nonfunctioning-headphones-on-your-windows-11-pc-or-laptop/"><u>Step-by-Step Resolution for Nonfunctioning Headphones on Your Windows 11 PC or Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-anthem-not-producing-sound-troubleshooting-steps-for-windows-10-users/"><u>Why Is Anthem Not Producing Sound? Troubleshooting Steps for Windows 10 Users</u></a></li>
+</ul></div>
 

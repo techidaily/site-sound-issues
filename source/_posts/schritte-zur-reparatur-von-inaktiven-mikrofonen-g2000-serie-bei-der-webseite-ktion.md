@@ -1,7 +1,7 @@
 ---
 title: Schritte Zur Reparatur Von Inaktiven Mikrofonen G2000-Serie Bei Der Webseite Ktion
-date: 2024-10-28T16:03:54.442Z
-updated: 2024-10-30T16:03:44.036Z
+date: 2024-11-13T18:01:31.569Z
+updated: 2024-11-15T16:30:38.693Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set your speakers as the default
 
  When you connect the external speakers to your computer, your system would recognize it. But there are some situations where the sound may not come from your external speakers. That’s because your device isn’t set as the default audio playback device that Windows uses to output sound. In this case, you need to manually set your speakers as the default:
@@ -68,6 +61,13 @@ Here’s how you can do this:
 1. From the bottom-right corner of your screen, right-click on the Speaker icon and select**Open Sound settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 2. Click**Sound Control Panel** .![open sound control panel](https://images.drivereasy.com/wp-content/uploads/2021/03/sound-control-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Under the**Playback** tab, click on your Creative Pebble speakers and click**Set Default** .
 
@@ -91,10 +91,10 @@ Here’s how to update drivers with Driver Easy:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -103,10 +103,10 @@ Here’s how to update drivers with Driver Easy:
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -126,16 +126,16 @@ Here’s how to update drivers with Driver Easy:
 
 ![run the audio troubleshooter Windows](https://images.drivereasy.com/wp-content/uploads/2021/03/next.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After it’s all done, try to use your speakers to check if they can be functioning well. If you’re still encountering sound failures, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Contact the customer service
 
@@ -162,24 +162,21 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-rotating-the-ripple-effect-mastering-instagrams-video-manipulation-art/"><u>[Updated] 2024 Approved Rotating the Ripple Effect Mastering Instagram's Video Manipulation Art</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-fine-tuning-focus-the-ultimate-guide-to-zooming-in-on-videoleap-for-2024/"><u>[Updated] Fine-Tuning Focus The Ultimate Guide to Zooming in on Videoleap for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-streamlining-content-creation-using-siri-in-tiktok/"><u>[Updated] Streamlining Content Creation Using Siri in TikTok</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/8-practical-ways-you-can-put-auto-gpt-to-use/"><u>8 Practical Ways You Can Put Auto-GPT to Use</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/eradicating-printers-from-windows-system/"><u>Eradicating Printers From Windows System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-resolving-windows-11-speakers-not-working-issues/"><u>Expert Advice for Resolving 'Windows 11 Speakers Not Working' Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-sound-back-fixing-common-problems-with-the-logitech-g633-microphone/"><u>Get Sound Back: Fixing Common Problems with the Logitech G633 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-corsair-headset-up-and-running-again-a-step-by-nstep-guide/"><u>Getting Your Corsair Headset Up and Running Again: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016754005-how-to-fix-voicemod-not-workingnot-opening-2024-tips/"><u>How to Fix Voicemod Not Working/Not Opening - 2024 Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-logic-pro-xs-audio-smoothing-methods/"><u>In 2024, Logic Pro X's Audio Smoothing Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-racing-hearts-22-short-track-triumph/"><u>In 2024, Racing Hearts '22 Short-Track Triumph</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unlocking-potential-mastering-facebooks-best-practices-for-video-advertising/"><u>In 2024, Unlocking Potential Mastering Facebook's Best Practices for Video Advertising</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-bose-sound-system-wont-power-on/"><u>Quick Fixes for When Your Bose Sound System Won't Power On</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-repairing-voice-chat-connectivity-in-black-ops-cold-war-campaign/"><u>Solution Guide: Repairing Voice Chat Connectivity in Black Ops Cold War Campaign</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-steelseries-arctis-99x-mic-functionality/"><u>Step-by-Step Guide to Restoring SteelSeries Arctis 9/9X Mic Functionality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-v27-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo V27 Pro Phone Hassle-Free</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-specs-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Specs: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-nonfunctional-logitech-g533-mic-solutions-revealed/"><u>Troubleshooting a Nonfunctional Logitech G533 Mic - Solutions Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-a-non-functional-steelseries-arctis-headset-mic/"><u>Troubleshooting Tips for a Non-Functional SteelSeries Arctis Headset Mic</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-roi-setting-up-and-assessing-fb-instream-ads/"><u>[New] Maximizing ROI Setting Up & Assessing FB Instream Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>[New] The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-best-for-android-pics/"><u>[Updated] The Ultimate List Best for Android Pics</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-audio-restoration-overcoming-the-mute-dilemma-effectively/"><u>Apex Legends Audio Restoration: Overcoming the Mute Dilemma Effectively</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/chinas-economical-virtual-reality-options/"><u>China's Economical Virtual Reality Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-when-your-instagram-stories-fail-to-upload/"><u>Effective Solutions for When Your Instagram Stories Fail to Upload</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-prime-day-bargain-with-the-99-fire-tv-stick-on-amazon-your-guide-to-the-best-deal-available-today/"><u>Get Prime Day Bargain with the $99 Fire TV Stick on Amazon - Your Guide to the Best Deal Available Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-in-windows-7-expert-fix-strategies/"><u>Overcoming Microphone Challenges in Windows 7: Expert Fix Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-realtek-speakers-a-step-by-step-solution-for-loss-of-audio-feedback/"><u>Revive Your Realtek Speakers: A Step-by-Step Solution for Loss of Audio Feedback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-chatgpt-for-personal-data-exposure/"><u>Scrutinizing ChatGPT for Personal Data Exposure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016117161-solution-recording-and-playing-games-audio-on-discord-now-possible/"><u>Solution: Recording and Playing Games Audio on Discord, Now Possible!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-discords-problem-with-recording-gaming-sounds-effectively/"><u>Solving Discord's Problem with Recording Gaming Sounds Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-restoring-audio-on-laptops-with-silent-onboard-speakers/"><u>Step-by-Step Tutorial: Restoring Audio on Laptops with Silent Onboard Speakers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-voice-expert-tips-for-resolving-mic-not-working-problems-with-beyond-the-wire-devices/"><u>Unstuck Your Voice: Expert Tips for Resolving 'Mic Not Working' Problems with Beyond The Wire Devices</u></a></li>
 </ul></div>
 

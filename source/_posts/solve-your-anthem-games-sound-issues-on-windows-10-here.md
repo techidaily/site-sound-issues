@@ -1,7 +1,7 @@
 ---
 title: Solve Your Anthem Game's Sound Issues on Windows 10 Here!
-date: 2024-10-30T20:15:59.068Z
-updated: 2024-11-05T02:32:11.519Z
+date: 2024-11-11T16:23:06.874Z
+updated: 2024-11-15T17:37:12.162Z
 tags:
   - win11
   - win10
@@ -48,6 +48,14 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72204e5e8f.jpg)
 3. Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version of Driver Easy).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
@@ -55,13 +63,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check audio settings
 
@@ -73,13 +74,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
@@ -87,14 +81,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
-Still no luck? Okay, there’s one more thing to try.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Still no luck? Okay, there’s one more thing to try.
 
 ### Fix 3: Roll back your audio driver
 
@@ -107,18 +101,26 @@ Still no luck? Okay, there’s one more thing to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Restart your computer.
 
@@ -146,18 +148,18 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-learning-ranks-top-10-education-centric-channels/"><u>[New] Learning Ranks Top 10 Education-Centric Channels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-scribblers-ios-and-androids-leading-image-editors/"><u>2024 Approved Best Scribblers IOS & Android's Leading Image Editors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-vs-sony-vegas-pro-a-side-by-side-comparison-for-2024/"><u>Adobe Premiere Pro vs Sony Vegas Pro A Side-by-Side Comparison for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/explaining-the-hidden-meaning-behind-fb-messenger-symbols/"><u>Explaining the Hidden Meaning Behind FB Messenger Symbols</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-laptop-headset-port-issues-a-comprehensive-guide/"><u>Fixing Laptop Headset Port Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-fix-lack-of-audio-in-monitors-and-televisions-after-computer-connection-via-hdmi/"><u>Guide: Fix Lack of Audio in Monitors and Televisions After Computer Connection via HDMI</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-a58-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo A58 4G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/improve-speaker-loudness-advanced-methods-for-windows-11-users/"><u>Improve Speaker Loudness: Advanced Methods for Windows 11 Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-vsdc-capture-expert-analysis-and-top-replacements/"><u>In 2024, VSDC Capture Expert Analysis & Top Replacements</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-skype-microphone-issues-solutions-for-windows-10-users/"><u>Resolving Skype Microphone Issues - Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snag-the-deal-before-it-ends-amazons-temporary-200-discount-on-apple-vision-pro/"><u>Snag the Deal Before It Ends! Amazon's Temporary $200 Discount on Apple Vision Pro.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-your-discord-voice-communication/"><u>Troubleshooting Guide: Fixing Issues with Your Discord Voice Communication</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-2024-troubleshooting-tips-reviving-your-rust-microphone/"><u>Ultimate 2024 Troubleshooting Tips: Reviving Your Rust Microphone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-essential-youtube-seo-techniques-for-enhanced-video-rankings/"><u>[Updated] Essential YouTube SEO Techniques for Enhanced Video Rankings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ideal-app-selection-top-10-tools-for-instagram-reel-excellence/"><u>[Updated] Ideal App Selection Top 10 Tools for Instagram Reel Excellence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/beginners-glossary-for-instagram-chat-rooms-for-2024/"><u>Beginner's Glossary for Instagram Chat Rooms for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015272533-corsair-hs35-not-working-heres-how-you-can-restore-audio-functionality-on-your-pc/"><u>Corsair HS35 Not Working? Here's How You Can Restore Audio Functionality on Your PC!</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/die-ultimative-showdown-winx-dvd-ripper-gegen-handbrake-der-beste-kostenlose-dvd-extraktor-verglichen/"><u>Die Ultimative Showdown: WinX DVD-Ripper Gegen Handbrake – Der Beste Kostenlose DVD-Extraktor Verglichen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015019386-how-to-fix-non-functional-speakers-on-your-windows-11-pc-solved/"><u>How to Fix Non-Functional Speakers on Your Windows 11 PC - Solved!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>In 2024, Embedded Recorder Usage in Huawei's Mate Series and the P Lineup</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/le-piu-efficienti-modi-per-creare-il-backup-delle-email-imap-con-outlook-2010/"><u>Le Più Efficienti Modi per Creare Il Backup Delle Email IMAP Con Outlook 2010</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-resolving-airpod-mic-malfunctions-in-windows-11/"><u>Step-by-Step Solution: Resolving AirPod Mic Malfunctions in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-non-functional-zoom-mics-on-windows-11-and-10/"><u>Troubleshoot and Repair Non-Functional Zoom Mics on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-skypes-audio-functionality-quickly/"><u>Troubleshoot and Restore Skype's Audio Functionality Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-corsair-sound-devices-steps-to-resolve-connection-failures/"><u>Troubleshooting Corsair Sound Devices - Steps to Resolve Connection Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-stopping-pc-video-game-crashes/"><u>Ultimate Troubleshooting Tips for Stopping PC Video Game Crashes</u></a></li>
 </ul></div>
 

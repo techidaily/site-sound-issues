@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Techniques: Fixing Low Audio Output in Windows 10"
-date: 2024-11-03T23:09:22.836Z
-updated: 2024-11-05T09:58:15.931Z
+date: 2024-11-08T17:27:07.080Z
+updated: 2024-11-15T17:16:12.450Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/audio-headphone-ports.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  First you need to make sure the device is**connected to the right port** of your PC. You can also check by testing it on another computer or device (e.g. your phone). Note that some headphones come with**switches** that need to be turned on manually.
 
 If the output device works as expected, simply continue to the next step.
@@ -61,32 +54,24 @@ If the output device works as expected, simply continue to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-1.jpg)
 2. Select**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-2.jpg)
 3. Select**Playing Audio** . Then follow the on-screen instructions to proceed.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-troubleshooter-3.jpg)
 
  If the troubleshooter doesn’t get the audio back, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Configure output device properly
@@ -98,12 +83,27 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows key and the i key) to open Windows Settings. Click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-1.jpg)
 2. Under**Output** , make sure to select your desired output device. Then click the device to view its property.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-2.jpg)
 3. Under**Output settings** , you can test different**output formats** . Make sure**Volume** is set to**above 50** . You can also**turn Enhance audio on and off** to see if that helps.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-11-audio-sound-set-up-3.jpg)
 
 If the issue lingers on, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -125,13 +125,6 @@ If the issue lingers on, check out the next fix below.
 
  If the latest drivers can’t fix the problem, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Check for the latest system updates
 
  Windows 11 is new and is under active development. So it’s possible the cure to your problem lies in the latest patch. To get it, you can scan for updates manually and Windows will install them automatically.
@@ -142,10 +135,23 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Scan and pair Windows
@@ -159,16 +165,16 @@ If the issue lingers on, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reset Windows
 
@@ -184,14 +190,22 @@ If the issue lingers on, check out the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-2.jpg)
 3. In the pop-up window, select**Remove everything** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-3.jpg)
 4. Click**Cloud download** . This will get you the latest system files.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/reset-windows-11-4.jpg)
@@ -218,16 +232,22 @@ If the issue lingers on, check out the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>2024 Approved Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-setting-up-a-stream-discord-edition-101/"><u>2024 Approved Setting Up a Stream Discord Edition 101</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-top-android-video-editing-apps-for-free-and-paid-users-for-2024/"><u>Best Top Android Video Editing Apps for Free and Paid Users for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comment-fonctionne-la-resolution-dun-dvd-explication-detaillee-pour-comprendre-les-formats-video/"><u>Comment Fonctionne La Résolution D'un DVD - Explication Détaillée Pour Comprendre Les Formats Vidéo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-fixes-for-dell-computer-speakers-not-playing-sound/"><u>Easy Fixes for Dell Computer Speakers Not Playing Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-audio-hurdles-in-resident-evil-village-gaming-experience/"><u>Expert Tips to Overcome Audio Hurdles in Resident Evil Village Gaming Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-chat-glitches-in-sea-of-thieves-on-desktop-computers/"><u>How to Fix Voice Chat Glitches in Sea of Thieves on Desktop Computers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 Phone without Google Account?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-getting-tozo-t6-running-again-in-windows-11/"><u>Step-by-Step Solutions: Getting Tozo T6 Running Again in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-disabling-enhanced-audio-effects-in-windows-11/"><u>Step-by-Step Tutorial: Disabling Enhanced Audio Effects in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-overcoming-black-screen-issues-in-facetime-video-chats/"><u>Troubleshooting Tips: Overcoming Black Screen Issues in FaceTime Video Chats</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-4-ways-to-record-ps3-gameplay/"><u>[New] 4 Ways to Record PS3 Gameplay</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-optimal-orientation-top-tripods-for-iphones-and-androids-for-2024/"><u>[New] Optimal Orientation Top Tripods for iPhones & Androids for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>[New] Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-make-your-device-sing-a-step-by-step-guide-to-personalized-ringtone-setup-on-android/"><u>[Updated] 2024 Approved Make Your Device Sing A Step-by-Step Guide to Personalized Ringtone Setup on Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-conversions-selecting-the-10-prime-flv-to-youtubes-options/"><u>[Updated] In 2024, Effortless Conversions Selecting the 10 Prime Flv to YouTubes Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-11-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus 11 5G?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-propeller-market-for-top-tier-fpv-drones-for-2024/"><u>Navigating the Propeller Market for Top-Tier FPV Drones for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-corsair-headset-steps-to-restore-functionality/"><u>Reviving Your Corsair Headset: Steps to Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-the-clicks-effective-solutions-to-stop-your-arctis-7-headset-from-making-crackling-sounds-on-pc/"><u>Silence the Clicks: Effective Solutions to Stop Your Arctis 7 Headset From Making Crackling Sounds on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-resolving-no-sound-problems-in-windows-11-on-hp-computers/"><u>Solution Steps for Resolving No-Sound Problems in Windows 11 on HP Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-airpods-silence-audio-restoration-tips-for-windows-users/"><u>Solve Your AirPods Silence: Audio Restoration Tips for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-unresponsive-headset-mics-step-by-step-repair/"><u>Solving Common Issues with Unresponsive Headset Mics – Step by Step Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-windows-n-11-sound-issues-a-comprehensive-5-point-plan/"><u>Step-by-Step Fix for Windows N 11 Sound Issues: A Comprehensive 5-Point Plan</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-eliminating-crackly-noises-from-speakers-in-windows-operating-systems/"><u>Troubleshooting Guide: Eliminating Crackly Noises From Speakers in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-g-pro-x-mic-issues-quick-fixes-and-solutions/"><u>Troubleshooting Logitech G Pro X Mic Issues - Quick Fixes & Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-and-exploiting-youtubes-featured-slot-for-maximum-reach-for-2024/"><u>Understanding and Exploiting YouTube's Featured Slot for Maximum Reach for 2024</u></a></li>
 </ul></div>
 

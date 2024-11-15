@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Razer Kraken Headset Microphone
-date: 2024-10-28T22:44:52.606Z
-updated: 2024-11-04T21:17:21.221Z
+date: 2024-11-14T17:05:44.268Z
+updated: 2024-11-15T16:40:11.527Z
 tags:
   - win11
   - win10
@@ -31,16 +31,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 5. [**Let Windows find the problem for you**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Make sure you use the right ports
@@ -50,10 +44,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
@@ -66,20 +60,27 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
 
  Now you can test your microphone by recording your own voice using some voice apps such as Voice Recorder. If the Virtuoso mic works now, you can just join a league and enjoy talking with your teammates. But if the Corsaire mic is still not working, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Re-installing drivers
 
@@ -101,13 +102,6 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/gaming-headset.jpg)
 4. Reboot your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -118,30 +112,25 @@ There are mainly two ways for you to do this:
 1. Right-click the Volume icon in the notification area, and select**Open Sound settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
-3. Click**Additional device properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
+3. Click**Additional device properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**OK** .
@@ -178,22 +167,19 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-demystify-video-editing-with-free-vimeo-resources/"><u>[New] In 2024, Demystify Video Editing with Free Vimeo Resources</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes/"><u>[New] In 2024, Prime Sites Where Your Presents Stand Out in a Sea of Boxes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6 Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016208450-astro-a50-mic-issues-heres-how-you-can-get-it-working-again/"><u>Astro A50 Mic Issues? Here's How You Can Get It Working Again!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/beat-your-song-into-success-with-fb-top-vids-guide/"><u>Beat Your Song Into Success with FB Top Vids Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/decoding-best-practices-to-hire-a-level-film-directors/"><u>Decoding Best Practices to Hire A-Level Film Directors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/digiarty-winxdvd-end-user-license-agreement-complete-guide/"><u>Digiarty WinXDVD End User License Agreement: Complete Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-intermittent-audio-problems-on-your-pc-running-windows-groverbase/"><u>Fixing Intermittent Audio Problems on Your PC Running Windows Grover_base</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-how-to-fix-and-enable-idt-hd-audio-codec-on-windows-10-systems/"><u>Guide: How to Fix and Enable IDT HD Audio Codec on Windows 10 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hearthstone-troubleshooting-eliminating-the-games-noise-problem-once-and-for-all/"><u>Hearthstone Troubleshooting: Eliminating the Game's Noise Problem Once and For All</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-problems-with-headphones-in-windows-7-systems/"><u>How To Fix Audio Problems with Headphones in Windows 7 Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Pro Max Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-voice-chat-in-call-of-dutys-black-ops-cold-war-solutions-at-hand/"><u>Revive Your Voice Chat in Call of Duty's Black Ops Cold War: Solutions at Hand</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-connectivity-problems-with-your-blue-yeti-mic/"><u>Solutions for Connectivity Problems with Your Blue Yeti Mic</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-iphone-14-pro-and-pro-max-protective-cases-reviews-by-zdnet/"><u>Top Rated iPhone 14 Pro & Pro Max Protective Cases - Reviews by ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-repair-non-functional-microphone-on-the-turtle-beach-elite-atlas/"><u>Troubleshooting Steps to Repair Non-Functional Microphone on the Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-time-travel-through-free-visual-storerooms/"><u>[New] In 2024, Time Travel Through Free Visual Storerooms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-unplugged-step-by-step-for-a-lasting-goodbye/"><u>[New] Instagram Unplugged Step-by-Step for a Lasting Goodbye</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-opposite-view-creative-ways-to-watch-youtube-backwards-for-2024/"><u>[New] The Opposite View Creative Ways to Watch YouTube Backwards for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-beyond-vimeo-a-compilation-of-premier-video-editors/"><u>[Updated] In 2024, Beyond Vimeo A Compilation of Premier Video Editors</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-the-richness-of-german-language-top-25-idioms/"><u>Discover the Richness of German Language - Top 25 Idioms</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210330292-9781647225810-river-of-offerings/"><u>River of Offerings | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solution/"><u>Solution:</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-sound-from-laptop-headset-jack-issues-solved/"><u>Step-by-Step Guide to Restoring Sound From Laptop Headset Jack [ISSUES SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-a-nonfunctional-sennheiser-gameone-mic/"><u>Step-by-Step Guide: Repairing a Nonfunctional Sennheiser GameOne Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-restoration-repair-techniques-for-unresponsive-btws-mic-systems/"><u>Step-by-Step Restoration: Repair Techniques for Unresponsive BTWS Mic Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-clearing-up-sound-disruption-problems-on-windows-pcs/"><u>Step-by-Step Solutions for Clearing Up Sound Disruption Problems on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-razer-kraken-solutions-for-when-your-mic-wont-work-anymore/"><u>Trouble with Razer Kraken? Solutions for When Your Mic Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubled-by-an-inactive-nvidia-gpu-here-are-some-quick-fixes-to-try/"><u>Troubled by an Inactive Nvidia GPU? Here Are Some Quick Fixes to Try</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unsealing-ipad-protection-a-step-by-step-method/"><u>Unsealing iPad Protection: A Step-by-Step Method</u></a></li>
 </ul></div>
 

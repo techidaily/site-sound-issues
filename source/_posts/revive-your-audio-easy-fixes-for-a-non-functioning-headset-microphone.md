@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Audio: Easy Fixes for a Non-Functioning Headset Microphone"
-date: 2024-11-02T23:28:21.014Z
-updated: 2024-11-04T22:45:28.403Z
+date: 2024-11-08T16:25:41.851Z
+updated: 2024-11-15T17:39:18.892Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Allow Webex to access your microphone
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
@@ -96,10 +96,10 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -122,10 +122,16 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
@@ -151,16 +157,20 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>[New] Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/achieving-perfect-sound-recording-in-discord-while-playing-games-now-solved/"><u>Achieving Perfect Sound Recording in Discord While Playing Games - Now Solved!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/como-migrar-tu-disco-duro-hdd-a-una-ssd-en-computadoras-msi-para-mejorar-el-rendimiento-del-juego/"><u>Cómo Migrar Tu Disco Duro HDD a Una SSD en Computadoras MSI Para Mejorar El Rendimiento Del Juego</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/connect-with-creators-unravel-your-youtube-subscriber-type-with-6-exciting-questionnaires/"><u>Connect With Creators Unravel Your YouTube Subscriber Type with 6 Exciting Questionnaires</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-audio-problem-solved-ensuring-perfect-game-playback-quality/"><u>Discord Audio Problem Solved - Ensuring Perfect Game Playback Quality</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/engaging-kids-mastering-the-art-of-effective-child-conversations/"><u>Engaging Kids: Mastering the Art of Effective Child Conversations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-malfunctioning-dota-2-microphone-in-pc-settings/"><u>How to Fix a Malfunctioning Dota 2 Microphone in PC Settings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-g54-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola G54 5G</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-free-dj-beats-downloads-site/"><u>New In 2024, Top Free DJ Beats Downloads Site</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-no-sound-in-fortnite-a-comprehensive-tutorial/"><u>Resolve No Sound in Fortnite: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-12-pro-max-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 12 Pro Max</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-deciding-the-best-skype-audio-capture-of-2023/"><u>2024 Approved Deciding the Best Skype Audio Capture of 2023</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here's The Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chronicles-of-progress-top-11-tech-milestones-since-1844/"><u>Chronicles of Progress: Top 11 Tech Milestones Since 1844</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-solve-mpow-microphone-problems-on-windows-systems/"><u>Diagnose and Solve MPOW Microphone Problems on Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-manager-wont-launch-solutions-revealed/"><u>How to Fix Realtek HD Audio Manager Won't Launch – Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functioning-microphone-during-skype-calls-on-windows-11/"><u>How to Resolve Non-Functioning Microphone During Skype Calls on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-captivate-audiences-gain-views-boosting-engagement-in-tiktok-unboxing-videos/"><u>In 2024, Captivate Audiences, Gain Views Boosting Engagement in TikTok Unboxing Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-13t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi 13T FRP</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/low-price-high-performance-the-ultimate-guide-to-using-the-asus-chromebook-flip-c302ca/"><u>Low Price, High Performance: The Ultimate Guide to Using the Asus Chromebook Flip C302CA</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-dual-boot-like-a-pro-linux-and-chrome-os-on-one-device/"><u>New In 2024, Dual-Boot Like a Pro Linux and Chrome OS on One Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silence-restore-fortnite-microphone-functionality-easy-fixes-inside/"><u>No More Silence: Restore Fortnite Microphone Functionality – Easy Fixes Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-silent-videos-expert-guide-to-restoring-audio-in-your-fb-movies-pc-2024/"><u>Solving Silent Videos: Expert Guide to Restoring Audio in Your FB Movies (PC) – 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-task-execution-top-6-windows-performance-monitors/"><u>Streamline Task Execution: Top 6 Windows Performance Monitors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quick-guide-to-windowed-data-discovery/"><u>The Quick Guide to Windowed Data Discovery</u></a></li>
 </ul></div>
 

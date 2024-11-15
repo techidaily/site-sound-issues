@@ -1,7 +1,7 @@
 ---
 title: Audio System Malfunction? Here’s How to Get Your Sounds Running Again
-date: 2024-11-03T06:51:56.815Z
-updated: 2024-11-04T18:35:56.999Z
+date: 2024-11-13T16:45:06.277Z
+updated: 2024-11-15T16:25:33.196Z
 tags:
   - win11
   - win10
@@ -38,26 +38,41 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) **key** and **R** at the same time to invoke the Run box.
 2. Type**services.msc** and press**Enter** to open the**Services** window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
-3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
-4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f60971b1b9.png)
+3. Scroll down to and right-click**Windows Audio** , then select**Restart** .  
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f04b48d3d.jpg)
+4. Double-click**Windows Audio** , make sure the **Service status** is**running** and the**Startup type** is set to**Automatic** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f0d59e995.jpg)
 5. Repeat step 3) and step 4) for**Windows Audio Endpoint Builder** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f2e4d5191.jpg)  
@@ -90,14 +105,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc075f35e6b9.jpg)
 4. Check if your computer now plays music properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Reinstall your audio drivers
 
@@ -108,13 +123,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f6f812df0.png)
 3. Expand the **Sound, video and game controllers** category.  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1f7aec80f7.jpg)
 4. For each audio device under that category, right-click on it and select**Uninstall device** . Note: Click**Uninstall** if prompted for confirmation.  
 
@@ -122,10 +130,16 @@ OR
 5. Restart your computer, then check if your problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -151,22 +165,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-unveiling-exciting-photography-aspects-of-ios-11/"><u>[New] 2024 Approved Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/assessing-the-great-outdoors-rc-experience-the-blh4100-blade-120-s-ready-to-fly-helicopter/"><u>Assessing the Great Outdoors RC Experience: The BLH4100 Blade 120 S Ready To Fly Helicopter</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210579859-9798985445718-camino-lessons/"><u>Camino Lessons | Free Book</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-garmin-venu-assessment-your-all-in-one-daily-wellness-monitor/"><u>Comprehensive Garmin Venu Assessment: Your All-in-One Daily Wellness Monitor</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhanced-firefox-playback-sound-now-working-perfectly/"><u>Enhanced Firefox Playback: Sound Now Working Perfectly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/expert-tips-for-solving-critical-bugs-affecting-playability-in-call-of-dutys-mw-and-black-ops-cold-war/"><u>Expert Tips for Solving Critical Bugs Affecting Playability in Call of Duty's MW and Black Ops Cold War</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-airpods-mic-not-working-on-windows-11/"><u>Fix Airpods Mic Not Working on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-enable-and-repair-microsoft-teams-microphone-in-windows-1011/"><u>How to Enable and Repair Microsoft Teams Microphone in Windows 10/11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-built-in-iphone-apps-a-comprehensive-guide/"><u>How to Uninstall Built-In iPhone Apps: A Comprehensive Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oneplus-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on OnePlus Phones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-3d-text-a-photoshop-technique/"><u>In 2024, Unleashing 3D Text A Photoshop Technique</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-logitech-g733-ultimate-guide-to-mic-repair/"><u>Revive Your Logitech G733 - Ultimate Guide to Mic Repair</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-audio-troubles-in-audacity-5-steps-for-fixing-sound-device-problems/"><u>Solve Your Audio Troubles in Audacity – 5 Steps for Fixing Sound Device Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/touch-id-disconnectivity-in-os/"><u>Touch ID Disconnectivity in OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-the-mysterious-vibration-of-loudspeakers/"><u>Troubleshooting Tips: Resolving the Mysterious Vibration of Loudspeakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/update-overcoming-muted-web-browsing-experience-with-firefox/"><u>Update: Overcoming Muted Web Browsing Experience with Firefox</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-building-impressive-facebook-slideshows-a-practical-guide/"><u>[New] 2024 Approved Building Impressive Facebook SlideShows A Practical Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-restore-normalcy-to-your-epson-scanner-on-windows-11/"><u>[SOLVED] Restore Normalcy to Your Epson Scanner on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-premium-tools-for-capturing-your-pcmac-screen/"><u>[Updated] 2024 Approved Premium Tools for Capturing Your PC/Mac Screen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-beyond-the-headsets-the-essence-of-virtual-reality/"><u>[Updated] Beyond the Headsets The Essence of Virtual Reality</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-11-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-onikuma-mic-no-sound-solved-today/"><u>How to Repair Your Onikuma Mic – No Sound Solved Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-on-volume-for-anthem-while-playing-on-a-windows-10-device/"><u>How to Turn On Volume for Anthem While Playing on a Windows 10 Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oppo-reno-8t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Oppo Reno 8T to iPad | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/innovative-strategies-for-resolving-windows-11-bluetooth-malfunctions/"><u>Innovative Strategies for Resolving Windows 11 Bluetooth Malfunctions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-your-chatgpt-chat-history-vanishing-learn-these-simple-tricks-for-persistent-conversation-storage/"><u>Is Your ChatGPT Chat History Vanishing? Learn These Simple Tricks for Persistent Conversation Storage!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-in-battlefield-4-discover-the-ultimate-solutions/"><u>No Audio in Battlefield 4? Discover the Ultimate Solutions!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-volume-in-windows-10-easy-remedies-to-turn-up-the-sound/"><u>No Volume in Windows 10? Easy Remedies to Turn Up the Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-common-sounds-problems-in-resident-evil-village/"><u>Resolving Common Sounds Problems in Resident Evil Village</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-tools-to-enhance-your-desktop-writing-skills-windows/"><u>Top Tools to Enhance Your Desktop Writing Skills (Windows)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/understanding-and-leveraging-snapchat-spotlight-for-2024/"><u>Understanding and Leveraging Snapchat Spotlight for 2024</u></a></li>
 </ul></div>
 

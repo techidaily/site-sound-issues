@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Mac Computers – Expert Guidance
-date: 2024-11-03T17:30:20.108Z
-updated: 2024-11-04T20:56:25.988Z
+date: 2024-11-09T16:57:29.333Z
+updated: 2024-11-15T17:37:40.612Z
 tags:
   - win11
   - win10
@@ -74,15 +74,16 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
@@ -99,35 +100,42 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -152,19 +160,18 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-jumpstart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas/"><u>[Updated] Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-fundamentals-of-color-grading-using-luts-in-ae/"><u>2024 Approved The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/amplify-earnings-monetize-youtube-on-the-go-with-effective-techniques/"><u>Amplify Earnings Monetize YouTube on the Go with Effective Techniques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/correct-steps-for-updating-your-dell-cameras-driver/"><u>Correct Steps for Updating Your Dell Camera's Driver</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/csgo-audio-trouble-heres-how-to-resolve-mic-problems/"><u>CS:GO Audio Trouble? Here's How to Resolve Mic Problems!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-disturbing-acoustic-issues-how-to-fix-buzz-in-audio-devices/"><u>Dealing with Disturbing Acoustic Issues: How to Fix Buzz in Audio Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-nvidia-graphics-cards-with-missing-signal-inputs/"><u>DIY Solutions for Nvidia Graphics Cards with Missing Signal Inputs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/elevating-your-instagram-presence-with-optimized-video-sizes-for-2024/"><u>Elevating Your Instagram Presence with Optimized Video Sizes for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-6s-plus-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 6s Plus</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-communication-in-rainbow-six-siege-following-the-2024-patch/"><u>How to Restore Voice Communication in Rainbow Six Siege Following the 2024 Patch</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-the-puzzle-of-inaccessible-secure-boot-in-windows-bios/"><u>Solving the Puzzle of Inaccessible Secure Boot in Windows BIOS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-your-webex-microphone/"><u>The Ultimate Guide to Fixing Your WebEx Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016274627-trouble-with-audacity-here-are-five-reliable-ways-to-correct-the-sound-output-error/"><u>Trouble with Audacity? Here Are Five Reliable Ways to Correct the Sound Output Error</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-guide-to-mass-extraction-of-tiktok-content/"><u>[New] 2024 Approved Guide to Mass Extraction of TikTok Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-identifying-lack-of-engagement-in-snapsphere/"><u>[New] 2024 Approved Identifying Lack of Engagement in Snapsphere</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-airpods-connected-but-no-sound-on-windows-1110/"><u>[SOLVED] AirPods Connected But No Sound on Windows 11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-my-headphone-not-working-on-windows-11/"><u>[SOLVED] My Headphone Not Working on Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[Updated] In 2024, How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-inexpensive-gear-mics-for-content-creators-on-a-dime-for-2024/"><u>[Updated] Inexpensive Gear Mics for Content Creators on a Dime for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-church-live-streaming-services-uncovered/"><u>2024 Approved Best Church Live Streaming Services Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-tech-your-familys-comprehensive-overview/"><u>AI Tech: Your Family's Comprehensive Overview</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v30-lite-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V30 Lite 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-audio-malfunction-for-it-takes-two-a-guide-to-restoring-sound-on-pc/"><u>Solving the Audio Malfunction for 'It Takes Two': A Guide to Restoring Sound on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-how-to-restore-audio-functionality-on-your-laptop/"><u>Solving the Dilemma: How to Restore Audio Functionality on Your Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-audio-issues-when-new-speakers-are-installed-but-not-producing-sound/"><u>Solving Windows Audio Issues When New Speakers Are Installed but Not Producing Sound</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-facetunes-new-features-review-and-walkthrough/"><u>Unveiling Facetune's New Features Review and Walkthrough</u></a></li>
 </ul></div>
 

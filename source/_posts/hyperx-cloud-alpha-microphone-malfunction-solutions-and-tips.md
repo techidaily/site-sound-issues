@@ -1,7 +1,7 @@
 ---
 title: "HyperX Cloud Alpha Microphone Malfunction: Solutions & Tips"
-date: 2024-11-02T16:31:17.756Z
-updated: 2024-11-04T23:48:53.343Z
+date: 2024-11-10T17:42:04.129Z
+updated: 2024-11-15T16:06:40.614Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
  Then, ensure the detachable microphone is firmly plugged in and check if the RGB LED ring indicates the live status (green).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Set Virtuoso as the default recording device
@@ -51,11 +51,39 @@ Corsair Virtuoso gaming headset is not working properly? If you can’t be heard
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 2. Go to the**Recording** tab and set your headset as the default device. Your device should be displayed as**Corsair Virtuoso** and shows strong signals when you speak.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 3. Right-click your**Corsair Virtuoso** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 4. Go to the**Levels** tab and drag the slider to a proper volume.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 5. Click**OK** .
 
@@ -84,6 +112,13 @@ There are mainly two ways for you to do this:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the issue persists after updating all the drivers, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Change to DVD quality
 
  The Virtuoso microphone not working can also be caused by an unsupported audio format. Therefore, you can follow the method below to change the sound settings to DVD quality.
@@ -92,45 +127,18 @@ There are mainly two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings.jpg)
 2. In the**Input** section, click**Device properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/device.jpg)
 3. Click**Additional device properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/additional.jpg)
 4. Go to the**Advanced** tab, and select**DVD Quality** in the**Default Format** section. ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-format.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Let Windows find the problem for you
@@ -140,13 +148,6 @@ There are mainly two ways for you to do this:
 1. Right-click the volume button in the notification area, and select**Troubleshoot sound problems** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/troubleshoot.jpg)
 2. Follow the instructions given in the popped-up Help window.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. You may need to restart your computer for the changes to take effect.
 
@@ -173,21 +174,22 @@ There are mainly two ways for you to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-discovering-the-worlds-most-popular-shorter-videos-free-for-2024/"><u>[New] Discovering the World's Most Popular Shorter Videos (FREE) for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-dive-deep-into-duality-mastering-multi-video-watching-on-youtube/"><u>[New] In 2024, Dive Deep Into Duality Mastering Multi-Video Watching on YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-spherical-shot-setup-systems/"><u>[Updated] In 2024, Spherical Shot Setup Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-efficient-cloud-users-price-guide/"><u>[Updated] The Efficient Cloud User's Price Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/apex-legends-no-sound-problem-resolved-steps-to-get-your-game-cacophonous-again/"><u>Apex Legends No Sound Problem Resolved: Steps to Get Your Game Cacophonous Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-not-working-on-pc-heres-how-you-can-fix-it/"><u>Audio Not Working on PC? Here's How You Can Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-fixing-popping-and-crackling-in-your-arctis-7-headphones-under-windows-environment/"><u>Comprehensive Guide to Fixing Popping and Crackling in Your Arctis 7 Headphones Under Windows Environment</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-gif-to-avi-video-conversion-easy-with-movavi/"><u>Free Online GIF to AVI Video Conversion - Easy with Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s18-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-8t-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-clear-audio-conversations-fixing-echo-problems-on-discord-latest-techniques-for-2e4/"><u>Mastering Clear Audio Conversations: Fixing Echo Problems on Discord (Latest Techniques for 2E4)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-loudspeaker-troubles-on-iphones-fixes-for-muted-or-warped-sounds/"><u>Overcoming Loudspeaker Troubles on iPhones: Fixes for Muted or Warped Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-voicemod-issues-a-comprehensive-guide/"><u>Solving Voicemod Issues : A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1728465763468-ssd/"><u>SSDのクローニング準備:新規フォーマットは必須ですか?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unstuck-your-wow-communication-expert-tips-on-getting-the-voice-chat-running-smoothly-again/"><u>Unstuck Your WoW Communication: Expert Tips on Getting the Voice Chat Running Smoothly Again</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/your-guide-to-understanding-why-microsoft-silently-discontinued-further-windows-11-support/"><u>Your Guide to Understanding Why Microsoft Silently Discontinued Further Windows 11 Support</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed/"><u>[New] 2024 Approved Adobe Cloud Storage Demystified Features, Functionality, and Alternatives Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-video-gurus-playbook-smooth-transition-to-easy-youtube-cc-and-subtitles/"><u>[New] The Video Guru's Playbook Smooth Transition to Easy YouTube CC & Subtitles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-great-debate-continues-is-bandicam-or-camtasia-better-in-2024/"><u>[Updated] The Great Debate Continues Is Bandicam or Camtasia Better, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-for-rectifying-non-functioning-mics-in-the-kotion-g2000-series/"><u>A Comprehensive Guide for Rectifying Non-Functioning Mics in the Kotion G2000 Series</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/december-3rd-jonny-kim-an-american-physician-specializing-in-neurosurgery-at-harvard-medical-school-and-a-nasa-astronaut-candidate-his-diverse-background-ad668/"><u>December 3Rd - Jonny Kim, an American Physician Specializing in Neurosurgery at Harvard Medical School and a NASA Astronaut Candidate. His Diverse Background Adds Depth to the Field of Space Exploration.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-silent-microphone-in-your-steelseries-arctis-9-9x-step-by-step-solutions/"><u>Diagnosing & Repairing the Silent Microphone in Your SteelSeries Arctis 9, 9X - Step-by-Step Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-restoring-functionality-of-a-malfunctioning-hyperx-cloud-stinger-mic/"><u>Diagnosing and Restoring Functionality of a Malfunctioning HyperX Cloud Stinger Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-a-malfunctioning-fortnite-microphone-instantly/"><u>Expert Advice on Fixing a Malfunctioning Fortnite Microphone Instantly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolve-xbox-one-audio-problems-for-a-seamless-gaming-experience/"><u>Expert Advice: Resolve Xbox One Audio Problems for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-functionality-of-a-malfunctioning-redragon-pc-connected-microphone/"><u>Expert Advice: Restoring Functionality of a Malfunctioning Redragon PC-Connected Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-lenovo-laptops-audio-problem-easy-troubleshooting-steps/"><u>Fix Your Lenovo Laptop's Audio Problem - Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-solution-enabling-and-repairing-failed-vcenter-server-domain-authentications/"><u>Step-by-Step Solution: Enabling and Repairing Failed vCenter Server Domain Authentications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-instagram-downloaders/"><u>The Ultimate List of Instagram Downloaders</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/troubleshooting-guide-fixing-corrupted-icloud-windows-installer-packages/"><u>Troubleshooting Guide: Fixing Corrupted iCloud Windows Installer Packages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/your-initial-vlog-setup-hardware-and-software/"><u>Your Initial Vlog Setup Hardware & Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Mute Problems - Success with Chrome Sounds Back On
-date: 2024-08-27T21:18:41.130Z
-updated: 2024-08-28T21:18:41.130Z
+date: 2024-11-09T16:39:13.281Z
+updated: 2024-11-15T16:39:46.582Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if your Logitech G633 mic works. If not, try the next fix, below.
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
@@ -51,20 +58,25 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 1. On your keyboard, press the**Windows logo key + I** at the same time to open Windows Settings. Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 3: Update your audio driver**
 
  An outdated or corrupted audio driver can also be the root of this issue. To fix it, you just need to update your audio driver to the latest version.
@@ -85,22 +97,20 @@ There are two ways to update your sound card driver: **manually**  and **automat
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee  ).
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 4: Troubleshoot hardware issues**
 
  If none of the fixes works for you, it’s time to troubleshoot hardware issues. You can follow the steps below to troubleshoot hardware issues:
@@ -119,8 +129,6 @@ There are two ways to update your sound card driver: **manually**  and **automat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +136,24 @@ There are two ways to update your sound card driver: **manually**  and **automat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-correcting-unsteady-flight-footage-artifacts-for-2024/"><u>[New] Correcting Unsteady Flight Footage Artifacts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-turning-viewers-into-cash-a-youtube-advertising-primer/"><u>[New] Turning Viewers Into Cash A YouTube Advertising Primer</u></a></li>
+<li><a href="https://win-guides.techidaily.com/6yg45poh5pya5l2z5ykz5lu95pyn5yuz77ya566h55cg6zuy5z6l6jmb5pos5qmf55qe6zec6y215oyh5byv/"><u>選擇最佳備份服務：管理雲型虛擬機的關鍵指引</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/breaking-down-the-differences-between-advanced-neo-qled-and-oled-displays/"><u>Breaking Down the Differences Between Advanced Neo QLED & OLED Displays</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015464592-facebook-video-sound-issues-heres-how-to-fix-them-on-your-computer/"><u>Facebook Video Sound Issues? Here's How to Fix Them on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-honor-90-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Honor 90? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-content-protection-can-you-record-playbacks/"><u>In 2024, YouTube Content Protection Can You Record Playbacks?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lifting-the-curse-of-monochrome-screens-in-winx/"><u>Lifting the Curse of Monochrome Screens in WinX</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015491818-pubg-chat-woes-discover-effective-solutions-for-audio-issues-now/"><u>PUBG Chat Woes? Discover Effective Solutions for Audio Issues Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722869682212-slash-costs-on-your-school-tech-the-ultimate-trick-for-scooping-up-dells-student-savings/"><u>Slash Costs on Your School Tech: The Ultimate Trick for Scooping Up Dell's Student Savings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-how-to-for-resolving-discords-persistent-sound-interruptions-updated/"><u>The Definitive How-To for Resolving Discord's Persistent Sound Interruptions, Updated</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-razer-barracuda-x-mic-problems-in-windows-operating-systems/"><u>Troubleshooting Guide: Resolving Razer Barracuda X Mic Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solutions-when-your-headset-mic-wont-work/"><u>Troubleshooting Guide: Solutions When Your Headset Mic Won't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-mute-mysteries-getting-sound-back-into-valheim-on-pc/"><u>Troubleshooting Mute Mysteries: Getting Sound Back Into Valheim on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-no-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting: Fixing No Audio on Your HP Laptop Running Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/understanding-group-dynamics-in-zoom-sessions-for-2024/"><u>Understanding Group Dynamics in Zoom Sessions for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/valheim-quiet-crisis-how-to-reignite-sound-on-pc/"><u>Valheim Quiet Crisis? How to Reignite Sound on PC</u></a></li>
+</ul></div>
 

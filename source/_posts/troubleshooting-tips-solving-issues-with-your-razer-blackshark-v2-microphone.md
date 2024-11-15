@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Solving Issues with Your Razer Blackshark V2 Microphone"
-date: 2024-10-27T16:56:45.097Z
-updated: 2024-10-30T16:41:24.199Z
+date: 2024-11-14T17:24:05.627Z
+updated: 2024-11-15T16:10:24.819Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 * The sound card driver is outdated/corrupted
 * Your microphone cannot access your device
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix your mic issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,13 +51,6 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Set up the microphone correctly
 
  Before you try the following fixes, please make sure the mute button is not activated.
@@ -58,10 +58,10 @@ Arctis Pro sounds as amazing as it feels. But if you find your SteelSeries Arcti
  Also, the microphone is highly directional, so it must be placed properly to achieve the best sound quality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Allow access to your microphone
@@ -75,28 +75,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/privacy.png)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Please be sure to turn on “**Allow access to the microphone on this device** ” and “**Allow apps to access your microphone** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to allow microphone access for the Microsoft apps and desktop apps.
 
@@ -116,18 +103,18 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the Sound windows, select the **Recording**  tab.
 
  4) Make sure your Actis Pro is**Enabled** (shows a green checkmark) and set it as the**Default Device** . If not, you can right-click it and select**Set as Default Device** and**Set as Default Communication Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In your VoIP application, select Actis Pro Chat Audio as the default audio device.
 
@@ -142,6 +129,13 @@ Here’s how to do it:
  8) Click**Apply** \>**OK** .
 
  Now your SteelSeries Actis Pro should be working, and if you still have problems with the microphone, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the headset driver
 
@@ -174,16 +168,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-Control-Panel.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the Control Panel window, view by**Large icons** , and then select**Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Sound windows, select the **Recording**  tab.
 
@@ -218,20 +212,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-news-the-latest-updates-unveiled/"><u>[New] 2024 Approved Facebook News The Latest Updates Unveiled</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-disjointed-edits-to-fluid-inshot-moves/"><u>[New] From Disjointed Edits to Fluid Inshot Moves</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-strategies-for-recording-app-activity-for-2024/"><u>[New] Ideal Strategies for Recording App Activity for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-24-hour-heavyweights-top-10-most-watched-on-yt/"><u>[Updated] 2024 Approved 24 Hour Heavyweights Top 10 Most Watched on YT</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-extend-your-snapstreak-success-with-these-ideas/"><u>2024 Approved Extend Your Snapstreak Success with These Ideas</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/deal-with-an-unplugged-nvidia-unit-these-repair-strategies-can-help/"><u>Deal With an Unplugged Nvidia Unit? These Repair Strategies Can Help</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-eliminating-ue4-gobi-issues-in-back-4-blood-strategies-and-solutions/"><u>Expert Guide: Eliminating UE4-Gobi Issues in 'Back 4 Blood - Strategies and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-increase-volume-windows-10/"><u>How to Increase Volume Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-no-audio-problem-here-are-the-best-solutions/"><u>HP Laptop No Audio Problem? Here Are the Best Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-search-for-master-video-artists-for-2024/"><u>Navigating the Search for Master Video Artists for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/playlist-on-a-page-embedding-yt-videos-online-for-2024/"><u>Playlist on a Page Embedding YT Videos Online for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016190307-resolved-silent-system-boost-your-audio-on-windows-11-in-a-flash/"><u>Resolved: Silent System? Boost Your Audio on Windows 11 in a Flash</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-when-your-steelseries-arctis-9x-mic-stops-working/"><u>The Ultimate Fix for When Your SteelSeries Arctis 9X Mic Stops Working</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-evaluated-by-tech-pros/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Evaluated by Tech Pros</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-mic-on-skype-for-windows-10/"><u>Troubleshooting Guide: How to Fix a Non-Functional Mic on Skype for Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-smart-choices-the-ultimate-list-of-educator-friendly-recording-tools/"><u>[Updated] 2024 Approved Smart Choices The Ultimate List of Educator-Friendly Recording Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-xbox-vr-experience-rumors-confirmed-check-out-expected-price-points-and-launch-date-too/"><u>All You Need to Know About the Xbox VR Experience - Rumors Confirmed! Check Out Expected Price Points and Launch Date Too.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/first-step-guide-to-professional-vlogging/"><u>First-Step Guide to Professional Vlogging</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/insider-tips-for-fixing-audio-problems-in-resident-evil-village-title/"><u>Insider Tips for Fixing Audio Problems in Resident Evil Village Title</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016027727-insiders-trick-for-fixing-nonfunctional-speakers-in-the-latest-windows-os/"><u>Insider's Trick for Fixing Nonfunctional Speakers in the Latest Windows OS!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture-for-2024/"><u>Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-create-split-screen-videos-for-free-online-and-offline-editor-reviews/"><u>New 2024 Approved Create Split Screen Videos for Free Online and Offline Editor Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-windows-10-low-memory-issues-a-step-by-step-guide/"><u>Resolve Windows 10 Low Memory Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-the-roar-of-battle-how-to-get-sounds-back-in-valheim-for-pc-players/"><u>Restoring the Roar of Battle: How to Get Sounds Back in Valheim for PC Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-file-management-for-seamless-audible-experience/"><u>SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-2024-solution-resolving-rec-room-microphone-problems-on-personal-computers/"><u>The Definitive 2024 Solution: Resolving Rec Room Microphone Problems on Personal Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-silent-usb-headphones-on-windows-7-pcs/"><u>Troubleshooting and Solutions for Silent USB Headphones on Windows 7 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-issues-when-your-discord-voice-call-wont-connect/"><u>Troubleshooting: Fixing Issues When Your Discord Voice Call Won't Connect</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reviving Sounds: A Guide for Malfunctioning Microphones and Headsets in Widows 7"
-date: 2024-10-29T04:45:39.003Z
-updated: 2024-11-04T22:07:51.029Z
+date: 2024-11-10T17:48:37.151Z
+updated: 2024-11-15T17:05:15.291Z
 tags:
   - win11
   - win10
@@ -67,17 +67,17 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver-1200x901.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -97,6 +97,13 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) When the Sound window opens, select the**Recording** tab. Click on your microphone and then click**Set Default > OK** .  
   
 ![set MPOW microphone as the default device](https://images.drivereasy.com/wp-content/uploads/2021/04/image.png)
@@ -104,6 +111,13 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  After you’ve saved the changes, use your microphone to check if your problems have been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Make sure apps have access to your microphone
 
@@ -124,10 +138,10 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Once you’ve allowed microphone access to your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
@@ -135,13 +149,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  After you’ve confirmed the changes, try to make a recording or call to check if it’s picking up your voice.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Make sure your microphone is enabled
 
@@ -155,13 +162,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
   
 ![choose the audio input device](https://images.drivereasy.com/wp-content/uploads/2021/04/input-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Make sure that your headset is not disabled.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/04/enable-it.png)
@@ -169,13 +169,6 @@ When you’re using a microphone such as MPOW attached to your computer, you may
  Once you’ve confirmed that your microphone has been enabled but it’s still not working, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Download and install Windows updates
 
@@ -186,15 +179,28 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After installing the latest Windows updates, use your headset mic and it should be functioning now.
 
@@ -217,18 +223,24 @@ When you’re using a microphone such as MPOW attached to your computer, you may
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>[Updated] From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-void-microphone-problems-a-step-by-step-guide-to-repair/"><u>Corsair Void Microphone Problems - A Step-by-Step Guide to Repair</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/download-daplayer-premium-quality-hd-blu-ray-media-player-app-free-and-user-friendly/"><u>Download DAPlayer: Premium Quality HD Blu-Ray Media Player App, Free & User-Friendly</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-easily-change-iso-to-mp4-the-best-guide-and-free-apps/"><u>How To Easily Change ISO to MP4 : The Best Guide & Free Apps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y200e-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y200e 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-visionary-backdrop-transformers-photorealm-innovation/"><u>In 2024, Visionary Backdrop Transformers PhotoRealm Innovation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-technical-challenges-with-your-jabra-earphones-2024-user-manual/"><u>Overcoming Technical Challenges with Your Jabra Earphones - 2024 User Manual</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016873525-pc-no-sound-problem-heres-how-you-can-fix-it-fast/"><u>PC No Sound Problem? Here's How You Can Fix It Fast</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/pfad-der-rehabilitierten-dokumente-was-geschieht-mit-geholzten-inhalten-aus-dem-recycling-ordner/"><u>Pfad Der Rehabilitierten Dokumente: Was Geschieht Mit Geholzten Inhalten Aus Dem Recycling-Ordner?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-clarity-fixes-for-hyperx-cloud-alpha-ss-unresponsive-mic/"><u>Restoring Audio Clarity: Fixes for HyperX Cloud Alpha S's Unresponsive Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-solutions-for-nonfunctional-microphone-on-windows-with-sony-wh-1000xm-headphones/"><u>Solved: Troubleshooting Solutions for Nonfunctional Microphone on Windows with Sony WH-1000XM Headphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/total-revamp-for-malfunctioning-beyond-the-wire-headset-mics/"><u>Total Revamp for Malfunctioning Beyond The Wire Headset Mics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-capture-the-spectacular-our-selection-of-prime-cameras/"><u>[New] 2024 Approved Capture the Spectacular - Our Selection of Prime Cameras</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-high-fidelity-playback-of-games-using-obs/"><u>[New] In 2024, High Fidelity Playback of Games Using OBS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebook-today-the-updated-guide/"><u>[Updated] 2024 Approved Facebook Today The Updated Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators/"><u>[Updated] From Idea to Impact Advanced Editing Techniques for YouTube Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-no-hassle-no-money-10-official-passport-pictures-from-our-generator/"><u>2024 Approved No Hassle, No Money 10 Official Passport Pictures From Our Generator</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-xperia-5-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Xperia 5 V?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961545297-download-and-update-amd-smbus-drivers-simple-steps-for-a-swift-upgrade/"><u>Download and Update AMD SMBus Drivers: Simple Steps for a Swift Upgrade!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-persistent-sound-cutouts-in-discord-comprehensive-2-steps-to-stability/"><u>Fixing Persistent Sound Cutouts in Discord - Comprehensive 2# Steps to Stability</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-when-your-league-of-legends-voice-chat-fails/"><u>Fixing the Issue: Troubleshooting When Your League of Legends Voice Chat Fails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-creative-pebble-speakers-troubleshooting-tips/"><u>Fixing Your Creative Pebble Speakers: Troubleshooting Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-mpow-microphone-working-on-a-pc-windows/"><u>How to Get Your MPOW Microphone Working on a PC (Windows)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-when-discords-push-to-talk-isnt-functioning-properly/"><u>How To Resolve When Discord's Push-to-Talk Isn't Functioning Properly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-realteks-digital-output-unit-a-step-by-step-solution/"><u>How To Restore Sounds on Realtek's Digital Output Unit: A Step-By-Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-computer-a-step-by-step-guide/"><u>How to Restore Sounds on Your Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-remedies-for-lack-of-sound-on-astro-a50-headphones-get-the-fix-now/"><u>Immediate Remedies for Lack of Sound on Astro A50 Headphones - Get the Fix Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-headset-wont-connect-master-the-fix-with-our-expert-tips/"><u>Jabra Headset Won't Connect? Master the Fix with Our Expert Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/revolutionary-design-update-logitechs-g-line-products-compatible-with-windows-11-dynamic-lighting-technology/"><u>Revolutionary Design Update: Logitech's G-Line Products Compatible with Windows 11 Dynamic Lighting Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-virtual-vanguard-of-humor-your-blueprint-for-metaspace-meme-creation/"><u>The Virtual Vanguard of Humor – Your Blueprint for Metaspace Meme Creation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/webcasts-on-demand-a-straightforward-recording-technique-for-2024/"><u>Webcasts On Demand A Straightforward Recording Technique for 2024</u></a></li>
 </ul></div>
 

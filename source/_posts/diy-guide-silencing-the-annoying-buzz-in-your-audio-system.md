@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Silencing the Annoying Buzz in Your Audio System"
-date: 2024-11-01T23:16:12.671Z
-updated: 2024-11-05T01:02:25.194Z
+date: 2024-11-12T17:27:01.236Z
+updated: 2024-11-15T16:31:24.101Z
 tags:
   - win11
   - win10
@@ -62,16 +62,16 @@ If your cables and volume are okay, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-678.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-677.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the sound is still not working on_WoW_ , or your audio device is already set as Default Device, check the fix below.
 
@@ -89,40 +89,13 @@ To disable the Audio Enhancements, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-668.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click the audio device you want to use, then select Properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-674.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the**Enhancements tab** , then check the box next to**Disable all enhancements** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-683.png)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  \*If you don’t have the Enhancements tab, click the**Advanced tab** instead, then uncheck**Enable audio enhancements** .
 
@@ -133,13 +106,6 @@ To disable the Audio Enhancements, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-684.png)
 
  If turning off Audio Enhancements didn’t fix your issue, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -195,6 +161,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-646.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-647.png)
@@ -204,10 +177,10 @@ OR
  If the audio is still missing in _WoW_ , then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Close unnecessary background programs
@@ -233,6 +206,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try relaunching_WoW_ to see if it runs properly now. If this didn’t resolve your issue, try **[Fix 7](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -243,35 +223,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching _WoW_ again to see if the sound works properly now. If not, move on to the next fix.
 
@@ -293,6 +260,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-652.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Open the_**retail**_ **or** _**classic**_ **folder** (depending on which game version you’re running).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-656.png)
@@ -313,6 +287,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-361-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-443-2.png)
@@ -320,6 +301,13 @@ OR
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-444-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click **Battle.net** , then click **Uninstall/Change** .
 
@@ -354,22 +342,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-goovision-xtreme-cam-high-res-screen-capturer/"><u>[New] In 2024, GooVision Xtreme Cam High-Res Screen Capturer</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-decoding-instagrams-legal-framework-for-musicians/"><u>[Updated] 2024 Approved Decoding Instagram's Legal Framework for Musicians</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pinnacle-fix-in-digital-dimensions-for-2024/"><u>[Updated] Pinnacle Fix in Digital Dimensions for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-details-of-atandt-mobile-phone-roaming-terms/"><u>Decoding the Details of AT&T Mobile Phone Roaming Terms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-fixing-continuous-audio-disruptions-on-your-windows-11-pc/"><u>Expert Advice for Fixing Continuous Audio Disruptions on Your Windows 11 PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-solving-no-audio-when-connecting-your-pc-to-a-television-using-an-hdmi-cable/"><u>Expert Tips for Solving No Audio When Connecting Your PC to a Television Using an HDMI Cable</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-game-audio-issues-a-2024-roadmap-for-pc-gamers/"><u>Fixing Game Audio Issues: A 2024 Roadmap for PC Gamers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gemini-15-and-its-innovative-leap-a-closer-look-at-handling-one-million-token-contexts-for-enhanced-understanding/"><u>Gemini 1.5 and Its Innovative Leap: A Closer Look at Handling One Million Token Contexts for Enhanced Understanding</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-professional-advice-resolving-mic-problems-on-airpods-for-windows-users/"><u>Get Professional Advice: Resolving Mic Problems on AirPods for Windows Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-depth-review-complete-camstudio-screencap-suite/"><u>In-Depth Review Complete CamStudio Screencap Suite</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015125161-pc-not-playing-properly-instantly-repair-your-computers-sound-problems-here/"><u>PC Not Playing Properly? Instantly Repair Your Computer's Sound Problems Here!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-resolutions-how-to-reactivate-and-fix-your-airpods-microphone-on-windows-11-devices/"><u>Quick Resolutions: How to Reactivate and Fix Your AirPods Microphone on Windows 11 Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-the-updated-elan-smbus-driver-for-windows-users/"><u>Step-by-Step Installation of the Updated ELAN SMBus Driver for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-silent-battles-repairing-no-audio-in-fortnite/"><u>Troubleshoot Silent Battles: Repairing No Audio in Fortnite</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-distorted-audio-for-windows-10-and-7-users-step-by-step-guide/"><u>Troubleshooting Distorted Audio for Windows 10 and 7 Users: Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unpacking-features-a-deep-dive-into-free2xs-tools-for-2024/"><u>Unpacking Features A Deep Dive Into Free2X's Tools for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ling-youtube-pros-tubebuddys-edge/"><u>Unveiling YouTube Pros TubeBuddy's Edge</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-virtuosos-journey-transforming-zoom-live-streams-on-youtube-for-2024/"><u>[New] The Virtuoso's Journey Transforming Zoom Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx-for-2024/"><u>[Updated] Evolutionary Tools Redefining the Art of Game Capture Beyond FBX for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-budget-friendly-filmmakers-dream/"><u>[Updated] The Budget-Friendly Filmmaker's Dream</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-no-audio-issue-with-usb-headphones-on-windows-7/"><u>Fixing the No Audio Issue with USB Headphones on Windows 7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/free-youtube-channel-art-templates-find-them-here-in-2024/"><u>Free YouTube Channel Art Templates - Find Them Here, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-your-sound-troubleshooting-zoom-microphone-problems-for-pc-users/"><u>Get Back Your Sound: Troubleshooting Zoom Microphone Problems for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-activate-your-dolby-digital-live-sound-drivers-on-a-windows-11-pc/"><u>How To Activate Your Dolby Digital Live Sound Drivers on a Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-dota-2-pcs-non-functional-mic-problem/"><u>How to Resolve Your Dota 2 PC's Non-Functional Mic Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-canon-printer-driver-setup-on-windows-os/"><u>Quick Canon Printer Driver Setup on Windows OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-best-parental-control-routers-of-2024/"><u>The Best Parental Control Routers of 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-cable-modem-and-router-bundles-2024-edition/"><u>Top Rated Cable Modem and Router Bundles - 2024 Edition</u></a></li>
 </ul></div>
 

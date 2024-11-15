@@ -1,7 +1,7 @@
 ---
 title: HP Computer Sound Issues? Top Fixes for Windows 10 Audio Problems
-date: 2024-10-29T06:24:28.957Z
-updated: 2024-11-04T22:10:25.961Z
+date: 2024-11-10T16:19:03.445Z
+updated: 2024-11-15T16:03:05.403Z
 tags:
   - win11
   - win10
@@ -50,9 +50,23 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  There are two ways to update your audio driver: **[manually](https://tools.techidaily.com/drivereasy/download/)**  and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Download and install the audio driver manually
 
  You should go to the manufacturer’s website of your sound card, find the latest version of the driver and install it in your computer. Ensure to download the latest correct driver that is compatible with your computer operating system. This requires time and computer skills.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update the audio driver
 
@@ -68,6 +82,19 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update audio driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/3-2-1.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -86,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 3. Wait for it to detect problems. This usually takes only a few seconds.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run Windows audio troubleshooter 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-2.jpg)
@@ -99,21 +126,7 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![Run Windows audio troubleshooter 4](https://images.drivereasy.com/wp-content/uploads/2021/04/Run-Windows-audio-troubleshooter-4.jpg)
 6. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch It Takes Two to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify Windows sound settings
 
@@ -126,46 +139,33 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![Windows sound settings playback](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-sound-settings-playback.jpg)
 3. If your audio device is disabled, **right-click** on it and select **Enable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/Enable-audio-device.jpg)
 4. Select the speaker / headset you’re using and click **Set Default** .  
-![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
-5. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![set default audio device](https://images.drivereasy.com/wp-content/uploads/2021/04/set-default-audio-device.jpg)
+5. Click **OK** to save the changes.
 
 6. Launch It Takes Two.
 7. On your desktop, **right-click** **the speaker icon** on the lower-right corner, and then select **Open Volume Mixer** .  
 ![Open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/04/Open-volume-mixer.jpg)
 8. If It Takes Two is muted, click **the speaker icon** under it to unmute it.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Unmute It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Unmute-It-Takes-Two.jpg)
 
  Now see if the in-game audio works as expected. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Verify the integrity of game files
@@ -177,13 +177,20 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![Steam It Takes Two game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-It-Takes-Two-game-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![It Takes Two Verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/It-Takes-Two-Verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch It Takes Two after the verifying process is completed to see if this fix works.
@@ -211,22 +218,21 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-ignite-conversations-tactics-for-facebook-impact/"><u>[New] 2024 Approved Ignite Conversations Tactics for Facebook Impact</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-aural-artistry-the-magic-of-sound-fading/"><u>[New] In 2024, Aural Artistry The Magic of Sound Fading</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ix-offbeat-sources-for-customized-video-theme-elements-for-2024/"><u>[New] Six Offbeat Sources for Customized Video Theme Elements for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016589334-anthem-missing-sounds-on-windows-10-heres-how-you-can-restore-your-games-audio/"><u>Anthem Missing Sounds on Windows 10? Here's How You Can Restore Your Game's Audio</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/barnes-and-noble-nook-glowlight-plus-assessment-the-most-spacious-e-reader-screen-available/"><u>Barnes & Noble Nook GlowLight Plus Assessment: The Most Spacious E-Reader Screen Available</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyerdynamics-audio-excellence-mmx-200/"><u>Beyerdynamic's Audio Excellence: MMX 200</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-for-bose-audio-systems-that-wont-turn-on/"><u>Common Problems & Fixes for Bose Audio Systems That Won't Turn On</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-for-non-functional-hyperx-cloud-mic/"><u>Common Problems and Solutions for Non-Functional HyperX Cloud Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-non-responsive-steam-audio-calls/"><u>Expert Tips for Fixing Non-Responsive Steam Audio Calls</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-volume-back-tackling-sound-issues-following-windows-10-upgrade/"><u>Getting Volume Back: Tackling Sound Issues Following Windows 10 Upgrade</u></a></li>
-<li><a href="https://win-data.techidaily.com/meilleur-programme-de-synchro-buffalo-nas-pour-un-backup-optimal-manuel-inclus/"><u>Meilleur Programme De Synchro Buffalo NAS Pour Un Backup Optimal ![Manuel Inclus]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/picarts-quick-shield-for-facial-features/"><u>PicArt's Quick Shield for Facial Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-playback-issues-with-the-corsair-virtuosity-gaming-headset-mic/"><u>Resolving Playback Issues with the Corsair Virtuosity Gaming Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-fast-effective-remedies-for-oculus-rift-s-microphone-issues/"><u>Troubleshoot Fast: Effective Remedies for Oculus Rift S Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015461878-troubleshooting-speaker-distortion-on-windows-11-and-7-resolved/"><u>Troubleshooting Speaker Distortion on Windows 11 & 7 - Resolved!</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nubia-red-magic-9-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nubia Red Magic 9 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tranquility-trove-pcs-best-bets/"><u>[New] 2024 Approved Tranquility Trove PC's Best Bets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-jestjunction-tap-into-the-world-of-meme-magic/"><u>[New] JestJunction Tap Into the World of Meme Magic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategic-marketing-insights-for-maximizing-youtube-shorts-popularity-for-2024/"><u>[Updated] Strategic Marketing Insights for Maximizing YouTube Shorts Popularity for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>2024 Approved Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aesthetic-excellence-vs-underwhelming-ai-a-review-of-the-microsoft-surface-pro-with-copilotplus/"><u>Aesthetic Excellence Vs. Underwhelming AI: A Review of the Microsoft Surface Pro with Copilot+</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-fix-for-stop-0x0000005c-boot-issues-in-windows/"><u>Mastering the Fix for STOP 0X0000005C Boot Issues in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-game-audio-expert-tips-for-resolving-fortnites-sound-issues/"><u>Restore Your Game Audio: Expert Tips for Resolving Fortnite's Sound Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-a-guide-for-no-audio-anthem-players-in-windows-10/"><u>Restoring Sounds: A Guide for No-Audio Anthem Players in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-pcs-sound-system-speedily-correct-audio-glitches/"><u>Revive Your PC's Sound System: Speedily Correct Audio Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-rust-mic-a-comprehensive-2024-fix-it-manual/"><u>Reviving Your Rust Mic: A Comprehensive 2024 Fix-It Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-skirmishes-no-more-how-to-get-volume-back-in-apex-legends/"><u>Silent Skirmishes No More: How to Get Volume Back in Apex Legends</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-restoring-sounds-in-borderlands-3-for-pc-users/"><u>Solution Guide: Restoring Sounds in Borderlands 3 for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-why-is-my-razer-kraken-mic-not-working-find-out-here/"><u>Solution Steps: Why Is My Razer Kraken Mic Not Working? Find Out Here!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/stream-or-save-top-anime-and-cartoons-effortlessly-using-animehavens-reliable-download-tool/"><u>Stream or Save Top Anime and Cartoons Effortlessly Using AnimeHaven's Reliable Download Tool!</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-mix-fold-3-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Mix Fold 3 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-shut-down-woes-discover-the-ultimate-guide-to-overcoming-power-off-problems/"><u>Windows 11 Shut Down Woes? Discover the Ultimate Guide to Overcoming Power Off Problems</u></a></li>
 </ul></div>
 

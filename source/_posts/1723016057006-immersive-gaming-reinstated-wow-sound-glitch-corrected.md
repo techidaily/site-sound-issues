@@ -1,7 +1,7 @@
 ---
 title: "Immersive Gaming Reinstated: WoW Sound Glitch Corrected!"
-date: 2024-10-24T17:14:22.986Z
-updated: 2024-10-30T16:58:33.993Z
+date: 2024-11-14T17:30:03.429Z
+updated: 2024-11-15T16:15:07.958Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Communication is key in Counter-Strike 2, allowing you to provide valuable callo
 * **Conflicts with other apps** : Too many apps running in the background can interfere with your mic input in CS2.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/how-to-fix-Counter-Strik-2-mic-not-working-problem-1200x675.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to fix CS2 mic not working
 
@@ -83,6 +76,13 @@ Follow the steps below to check it.
 
 ![Windows 11 - Open sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Open-sound-settings.jpg)
 2. In the section of**Choose a device for speaking or recording** , select the correct microphone device.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows 11 - Choose a device for speaking or recording](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Sound-settings-Choose-a-device-for-speaking-or-recording.jpg)
 3. Scroll to the bottom, and click**More sound settings** .  
@@ -151,13 +151,6 @@ Follow the steps below to check it.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Start-menu-Check-for-udpates.jpg)
 2. When the updates are available, simply click on the button**Download & install** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
 
  Or click on the**Check for updates** button and follow the on-screen instructions to download the latest updates for your system. You’ll be asked to restart your PC.  
@@ -167,10 +160,10 @@ Follow the steps below to check it.
  After the reboot, test your microphone and see if your teammates can hear you. If your problem persists, go to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Update audio drivers
@@ -198,16 +191,10 @@ After downloading and installing driver updates, reboot your device.
  If you’re still having the mic not working problem, try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Restore the system from restore point
@@ -219,6 +206,19 @@ After downloading and installing driver updates, reboot your device.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-create-a-restore-point.jpg)
 2. Click**System Restore** .  
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-System-Restore.jpg)
 3. Click**Next** .  
 
@@ -228,14 +228,14 @@ After downloading and installing driver updates, reboot your device.
 ![restore the system from restore point](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Scan-for-affected-programs.jpg)
 5. You will see a list of items that will be deleted if you restore to this restore point. If you’re OK with the deletions, select**Close** to proceed.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-Programs-and-drivers-that-will-be-deleted.jpg)  
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-Programs-and-drivers-that-will-be-deleted.jpg)  
 
  If this is not what you’re going to restore, go back to the previous step to select another restore point.
 6. Click**Next** .  
@@ -243,15 +243,22 @@ After downloading and installing driver updates, reboot your device.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Restore-your-computer-to-the-state-it-was-in-before-the-selected-event.jpg)
 7. Confirm your restore point and click**Finish** . Then click**Yes** to start restoring the system from the restore point.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Confirm-your-restore-point.jpg)  
 
  Wait for the process to complete and your computer will be restarted.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Verify integrity of game files
@@ -264,13 +271,6 @@ To do this, all you have to do is:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Counter-Strike-2-properties.jpg)
 2. Select the **Installed Files**  tab and click on the **Verify integrity of game files**  button.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Counter-Strike-2-verify-integrity-of-game-files.jpg)
 3. Steam will verify the game’s files – this process may take several minutes.
@@ -287,6 +287,14 @@ To fix it, run the System File Checker scan:
 
 ![how to open the Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-command-prompt-open-as-administrator.jpg)
 2. Click**Yes** when you receive the UAC prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type**sfc /scannow** and hit Enter.  
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
@@ -307,19 +315,6 @@ To fix it, run the System File Checker scan:
 3. You’ll get a scan summary listing all the issues it detects. Click **Start Repair** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back guarantee** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Should you require any assistance, feel free to email them at[support@fortect.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -344,16 +339,20 @@ After the repair, restart your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nveiling-subscriber-lists-a-youtube-guide-for-2024/"><u>[New] Unveiling Subscriber Lists A YouTube Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guide-to-secretive-instagram-viewing/"><u>[Updated] The Ultimate Guide to Secretive Instagram Viewing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>2024 Approved From Bland to Brilliant Elevate Your Images in Canva</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/abbyy-zeigt-ki-gestutzte-echtzeitlosungen-auf-mobile-world-congress-2019/"><u>ABBYY Zeigt KI-Gestützte Echtzeitlösungen Auf Mobile World Congress 2019</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-sound-driver-problems-on-a-windows-7-pc/"><u>Diagnosing and Repairing Sound Driver Problems on a Windows 7 PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/explore-top-rated-sandbox-game-compilations-for-2024/"><u>Explore Top-Rated Sandbox Game Compilations for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastery-of-windows-solving-ndis-fast-and-easy/"><u>Mastery of Windows: Solving NDIS Fast & Easy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-headphone-hurdles-fixing-airpods-silence-troubleshooting-for-microsoft-operating-systems/"><u>Overcome Headphone Hurdles: Fixing AirPods Silence Troubleshooting for Microsoft Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-no-sound-dilemma-how-to-recognize-plugged-in-headphones-or-speakers-in-windows-1187/"><u>Solve No Sound Dilemma: How to Recognize Plugged-In Headphones or Speakers in Windows 11/8/7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/success-troubleshooting-tips-for-enabling-audio-capturing-in-game-chats-on-discord/"><u>Success! Troubleshooting Tips for Enabling Audio Capturing in Game-Chats on Discord</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-compreenasive-breakdown-how-to-use-microsofts-movie-maker-on-w11-for-2024/"><u>The Compreenasive Breakdown How to Use Microsoft's Movie Maker on W11 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-transferring-twitter-videos-to-whatsapp-effortlessly/"><u>[New] In 2024, Transferring Twitter Videos to WhatsApp Effortlessly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-iphone-ready-syncing-photos-and-videos-from-pc/"><u>[Updated] 2024 Approved IPhone-Ready Syncing Photos & Videos From PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-optimizing-podcasts-on-googles-platform/"><u>[Updated] 2024 Approved Optimizing Podcasts on Google's Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-boosting-stability-and-speed-more-ram-for-minecraft/"><u>2024 Approved Boosting Stability & Speed More RAM for Minecraft</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-revenue-a-youtube-channelers-guide/"><u>2024 Approved Maximizing Revenue A YouTube Channeler’s Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/conquer-your-quiet-connection-expert-tips-on-restoring-sound-to-bluetooth-devices/"><u>Conquer Your Quiet Connection: Expert Tips on Restoring Sound to Bluetooth Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-update-u-are-u-readfinger-v45-download/"><u>Direct Update: U-Are-U ReadFinger v4.5 Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-experience-with-counter-strike-2-on-a-mac/"><u>Elevating Your Gaming Experience with Counter-Strike 2 on a Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-to-overcome-common-television-malfunctions-effortlessly/"><u>Expert Strategies to Overcome Common Television Malfunctions Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-headphone-connectivity-problems-on-windows-11-systems/"><u>Fixing Headphone Connectivity Problems on Windows 11 Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-when-your-discord-voice-chat-stays-silent-ptt-problems-solved/"><u>Quick Fix for When Your Discord Voice Chat Stays Silent: PTT Problems Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-of-legends-how-to-address-and-resolve-valheim-no-sound-on-pc-issue/"><u>Reviving the Sound of Legends: How to Address and Resolve Valheim No Sound on PC Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-hack-for-resolving-no-sound-in-fortnite/"><u>The Ultimate Hack for Resolving No Sound in Fortnite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-hdmi-sound-not-working-solved/"><u>Windows 7 HDMI Sound Not Working [Solved]</u></a></li>
 </ul></div>
 

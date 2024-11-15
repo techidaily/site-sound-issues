@@ -1,7 +1,7 @@
 ---
 title: Trouble with Your Razer Man O' War Mic? Here’s How to Fix It!
-date: 2024-08-31T23:56:17.783Z
-updated: 2024-09-01T23:56:17.783Z
+date: 2024-11-13T17:05:20.726Z
+updated: 2024-11-15T16:46:57.654Z
 tags:
   - win11
   - win10
@@ -36,9 +36,29 @@ You should allow your Windows 10 system and your application to access your head
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e7c0cc25a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Privacy**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b62e85bc8fdf.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Microphone**.
 
@@ -62,9 +82,23 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** In Control Panel, select**Large icons**from the**View by**drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**Select **Sound**.
 
@@ -74,24 +108,21 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Right click the**Headset Microphone**and click **Enable**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 **6)**Right click it again and select **Set as Default Device**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **7)** Right click**Headset Microphone**and click**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
@@ -100,9 +131,23 @@ Your Logitech G933 mic may be disabled or not set as the default device on your 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Click**OK**, then click**OK**. Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Update your audio drivers
 
@@ -110,23 +155,14 @@ The mic on your Logitech G933 headset won’t work if you’re using an incorrec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 **3)** Click the**Update**button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 You can also click the **Update All**button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All**.) Once you’ve updated the driver for your Logitech G933 headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Method 4: Troubleshoot hardware issues
 
 If your headset microphone is still not working, it’s likely there are hardware issues with your computer or your headset. In this case, there are a few things you need to do. First, try connecting your headset to**another port**on your computer. This will resolve any problems you might be experiencing due to the port you’re using. If changing the port doesn’t work for you, connect your headset to**another computer**and see if this fixes your microphone. If it does, then you should contact the vendor of your computer for advice. If nothing above helps you, the issues may be on your headset. Then you should contact Logitech for support or have your headset serviced.
@@ -140,8 +176,6 @@ If your headset microphone is still not working, it’s likely there are hardwar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +183,21 @@ If your headset microphone is still not working, it’s likely there are hardwar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-exploring-the-most-reliable-free-srt-translation-services/"><u>[Updated] 2024 Approved Exploring the Most Reliable Free SRT Translation Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-recording-your-mac-experience-for-free/"><u>[Updated] In 2024, Recording Your Mac Experience for FREE</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-storyboard-designers-den-for-2024/"><u>[Updated] Ultimate Storyboard Designer's Den for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-a-critical-look-at-zd-soft-recorder-capabilities/"><u>2024 Approved A Critical Look at ZD Soft Recorder Capabilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/boosting-social-reach-share-tiktoks-with-a-twist-of-twitter-for-2024/"><u>Boosting Social Reach Share TikToks with a Twist of Twitter for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-your-speakers-power-a-guide-to-enhancing-audio-in-windows-10-and-11/"><u>Boosting Your Speakers' Power: A Guide to Enhancing Audio in Windows 10 and 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/exhaustive-troubleshooting-steps-making-your-jabra-headphones-functional/"><u>Exhaustive Troubleshooting Steps: Making Your Jabra Headphones Functional</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>Gazing Into Clarity In-Depth on the HP Z32X Monitor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>In 2024, Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016187147-no-more-muted-facebook-top-strategies-to-restore-sound-on-your-desktop-this-year/"><u>No More Muted Facebook - Top Strategies to Restore Sound on Your Desktop This Year</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-obs-desktop-microphone-problem-a-step-by-step-guide/"><u>Solve Your OBS Desktop Microphone Problem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-playthroughs-a-sound-fix-for-borderlands-laendz-3pc-edition/"><u>Troubleshooting Quiet Playthroughs - A Sound Fix for Borderlands ˈlændz 3PC Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/understanding-and-solving-the-mystery-of-windows-sound-disruptions/"><u>Understanding & Solving the Mystery of Windows Sound Disruptions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-hottest-adobe-premiere-title-templates-free-download/"><u>Updated S Hottest Adobe Premiere Title Templates - Free Download</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Audio Issues on Mozilla Firefox Corrected"
-date: 2024-08-27T21:19:22.101Z
-updated: 2024-08-28T21:19:22.101Z
+date: 2024-11-13T16:12:11.205Z
+updated: 2024-11-15T16:23:52.225Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 * **Use the microphone on another computer** to confirm it’s not physically damaged.
 * **Check the mute switches** on your microphone and make sure it’s disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run the audio troubleshooter
 
  Windows offers a set of troubleshooters to help you with the device glitches. So if something goes wrong with your Onikuma headset mic, you can start with this easy tool to detect the potential causes.
@@ -41,11 +48,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Check the privacy settings
 
  To ensure your Onikuma headset mic functions as intended, you should allow the system and applications to access it. You can adjust the setup in your privacy settings.
@@ -54,27 +65,35 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Set your Onikuma mic as the default device
 
  If there are multiple microphone inputs on your computer, the Onikuma headset mic might not be used properly until you set it as the default device. Here’s how:
@@ -92,8 +111,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
@@ -122,11 +145,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -145,8 +173,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +180,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-overcoming-non-detectable-obs-camera-link/"><u>[New] In 2024, Overcoming Non-Detectable OBS Camera Link</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-online-method-for-altering-video-proportions/"><u>2024 Approved Online Method for Altering Video Proportions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplifying-viewership-strategies-for-unboxing-tiktoks-for-2024/"><u>Amplifying Viewership Strategies for Unboxing TikToks for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/auto-gpt-for-ubuntu-users-easy-install-guide/"><u>Auto-GPT for Ubuntu Users: Easy Install Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs60-mic-malfunction-heres-what-you-need-to-know/"><u>Corsair HS60 Mic Malfunction? Here's What You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-steelseries-arctis-1-mic-stops-working/"><u>DIY Fixes for When Your SteelSeries Arctis 1 Mic Stops Working</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternal-installation-woes-expert-tips-and-tricks-to-start-gaming-smoothly/"><u>DOOM Eternal Installation Woes: Expert Tips and Tricks to Start Gaming Smoothly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/educational-purposes/"><u>Educational Purposes:</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-when-your-headphones-arent-recognized-by-windows-11/"><u>Effective Fixes for When Your Headphones Aren't Recognized by Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-microphone-problems-in-the-steelseries-arctis-5-restoring-sound-what-to-do-when-your-steelseries-arctis-7-mic-fails-to-work/"><u>Expert Advice: Fixing Microphone Problems in the SteelSeries Arctis 5. Restoring Sound: What To Do When Your SteelSeries Arctis 7 Mic Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-oculus-rift-s-microphone-issues-in-minutes-top-solutions/"><u>Fix Your Oculus Rift S Microphone Issues in Minutes: Top Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g35-headset-drivers-updated-version-supporting-windows-7810/"><u>Free Logitech G35 Headset Drivers - Updated Version Supporting Windows 7/8/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/front-audio-jack-not-working-fixed/"><u>Front Audio Jack Not Working [FIXED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-sound-back-overcoming-headphone-malfunctions-on-a-windows-10-pc/"><u>Getting Sound Back: Overcoming Headphone Malfunctions on a Windows 10 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-idt-hd-audio-codec-driver-issues-under-windows-11/"><u>How To Fix IDT HD Audio Codec Driver Issues Under Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-edit-on-the-go-the-top-10-vlog-editor-apps-for-mobile-for-2024/"><u>New Edit on the Go The Top 10 Vlog Editor Apps for Mobile for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-expert-recommended-avi-cutters-top-16-for-precise-video-editing-multi-device-for-2024/"><u>New Expert-Recommended AVI Cutters Top 16 for Precise Video Editing Multi-Device for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-face-recognition-errors-enhancing-your-apple-photos-experience/"><u>Solve Face Recognition Errors: Enhancing Your Apple Photos Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-black-ops-4-critical-glitches/"><u>Ultimate Guide: Resolving Black Ops 4 Critical Glitches</u></a></li>
+</ul></div>
 

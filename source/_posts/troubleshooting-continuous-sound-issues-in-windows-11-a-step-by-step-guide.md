@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Continuous Sound Issues in Windows 11: A Step-by-Step Guide"
-date: 2024-08-31T23:55:51.575Z
-updated: 2024-09-01T23:55:51.575Z
+date: 2024-11-09T17:38:59.145Z
+updated: 2024-11-15T16:09:53.646Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
@@ -50,8 +57,12 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-323.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
@@ -94,13 +105,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -109,23 +124,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Apex Legends
 
  If none of the fixes above helped, reinstalling Apex Legends is very likely the solution to your issue. Here is how to do it:
@@ -136,9 +149,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** After your game is uninstalled, restart your computer.
 
 **4)** Run Origin again to download and install Apex Legends.
@@ -158,8 +168,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +175,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/1-best-live-streaming-with-manycam-ultimate-virtual-camera-experience/"><u>1. Best Live Streaming with ManyCam: Ultimate Virtual Camera Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-non-tripod-techniques-for-still-cameras/"><u>2024 Approved Non-Tripod Techniques for Still Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-essential-2023-techniques-for-ios-screen-recording/"><u>2024 Approved The Essential 2023 Techniques for iOS Screen Recording</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/call-of-duty-mobile-silence-solved-top-tips-and-tricks-to-bring-back-warzone-sound-for-pc-users/"><u>Call of Duty Mobile Silence Solved: Top Tips and Tricks to Bring Back Warzone Sound for PC Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drones-decoded-functionality-and-operational-overview/"><u>Drones Decoded Functionality & Operational Overview</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-audio-functionality-on-your-toshiba-notebook/"><u>Guide to Restoring Audio Functionality on Your Toshiba Notebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-hot-30-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-computer-sound-issues-top-fixes-for-windows-10-audio-problems/"><u>HP Computer Sound Issues? Top Fixes for Windows 10 Audio Problems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-a-language-with-music-scientifically-proven-methods-tips-and-songs/"><u>Learn A Language With Music: Scientifically Proven Methods, Tips & Songs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/secrets-to-uncovering-missed-confidential-images/"><u>Secrets to Uncovering Missed Confidential Images</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-issues-repair-procedures-for-the-inactive-audio-input-in-turtle-beach-ear-force-x7/"><u>Solving Sound Issues: Repair Procedures for the Inactive Audio Input in Turtle Beach Ear Force X7</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-dsc-w800-review-solid-performance-price-point/"><u>Sony DSC-W800 Review: Solid Performance, Price Point</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-rectify-google-meets-microphone-problems-on-your-pc-with-windows-1110/"><u>Step-by-Step Solutions to Rectify Google Meet's Microphone Problems on Your PC with Windows 11/10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-2024s-elite-technology-titans-top-pc-makers-reviewed/"><u>Unveiling 2024'S Elite Technology Titans: Top PC Makers Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-solved-my-headphones-wont-connect-or-work/"><u>Windows 11 - Solved! My Headphones Won't Connect or Work</u></a></li>
+</ul></div>
 

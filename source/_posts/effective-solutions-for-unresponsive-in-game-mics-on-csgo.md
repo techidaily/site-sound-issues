@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for Unresponsive In-Game Mics on CS:GO"
-date: 2024-10-31T06:07:20.179Z
-updated: 2024-11-05T01:27:45.790Z
+date: 2024-11-11T17:19:21.918Z
+updated: 2024-11-15T17:43:23.689Z
 tags:
   - win11
   - win10
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any falgged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -71,20 +71,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Play a music or video on your laptop to see if the sound comes from the speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3\. Reset your sound controller
@@ -101,22 +94,29 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c40611eb6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3e821f53.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then you may find its icon ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c3c1585ef.png) change into ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4aebac0d.png) .
 
  5) Wait for a while. Right-click on your sound card again and this time click**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c4fd4b764.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Play a music or video on your laptop to see if the sound comes from the speakers.
 
@@ -137,17 +137,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dancefloor-dynamics-top-rated-dj-video-selections/"><u>[Updated] In 2024, Dancefloor Dynamics Top-Rated DJ Video Selections</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pinnacle-fix-in-digital-dimensions-for-2024/"><u>[Updated] Pinnacle Fix in Digital Dimensions for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y36i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y36i without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-audio-inspection-the-definitive-method-to-test-microphones-on-the-go/"><u>Effortless Audio Inspection: The Definitive Method to Test Microphones on the Go!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/enjoy-top-notch-viewing-experience-with-lgs-economical-24lh4830-smart-tv-model/"><u>Enjoy Top-Notch Viewing Experience with LG's Economical 24LH4830 Smart TV Model</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-fixing-inoperative-mics-on-windows-1110-for-seamless-google-meetings/"><u>Get Your Sound Back: Fixing Inoperative Mics on Windows 11/10 for Seamless Google Meetings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/harvesting-high-returns-ginger-valley-farming-tips-for-2024/"><u>Harvesting High Returns Ginger Valley Farming Tips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/identify-and-secure-against-imitation-ai-the-top-9-false-chatgpt-apps-endangering-your-privacy/"><u>Identify and Secure Against Imitation AI: The Top 9 False ChatGPT Apps Endangering Your Privacy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/logitech-g403-keyboard-and-gamepad-driver-setup-guide-windows/"><u>Logitech G403 Keyboard & Gamepad Driver Setup Guide (Windows)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revamped-audio-functionality-in-mozillas-latest-firebox-version/"><u>Revamped Audio Functionality in Mozilla's Latest Firebox Version</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-guide-effortless-font-installation-on-windows-10-unveiled/"><u>Simple Guide: Effortless Font Installation on Windows 10 Unveiled</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-stalled-auditory-outputs-in-multi-service-configurations/"><u>Troubleshooting Stalled Auditory Outputs in Multi-Service Configurations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[Updated] In 2024, Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>2024 Approved The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c12-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C12</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/directing-artificial-intelligence-toward-goodwill/"><u>Directing Artificial Intelligence Toward Goodwill</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-guide-getting-audio-devices-recognized-in-windows-11-media-player/"><u>Fix Guide: Getting Audio Devices Recognized in Windows 11 Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-intermittent-bluetooth-sound-disruptions-in-windows-10-and-11/"><u>Fixes for Intermittent Bluetooth Sound Disruptions in Windows 10 & 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-the-oculus-quest-2-headsets-microphone/"><u>Fixing Issues with the Oculus Quest 2 Headset's Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-dilemma-solving-airpods-not-playing-audio-in-windows-11-and-10/"><u>Fixing the Silent Dilemma: Solving 'AirPods Not Playing Audio' In Windows 11 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-fortnite-audio-back-on-track-expert-tips-for-repairing-the-in-game-mic/"><u>Get Your Fortnite Audio Back On Track: Expert Tips for Repairing the In-Game Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-repairing-microphone-malfunctions-in-your-turtle-beach-elite-atlas-gaming-headset/"><u>Guide to Repairing Microphone Malfunctions in Your Turtle Beach Elite Atlas Gaming Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-disabling-windows-11s-acoustic-enhancement-settings/"><u>Guide: Disabling Windows 11'S Acoustic Enhancement Settings</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/il-tuo-tutorial-definitivo-caricamento-di-dvd-su-google-drive-senza-problemi/"><u>Il Tuo Tutorial Definitivo: Caricamento Di DVD Su Google Drive Senza Problemi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-for-compelling-audio-intros/"><u>In 2024, The Ultimate Checklist for Compelling Audio Intros</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-resolution-and-performance-tweaks-for-windows-11/"><u>Revamped: Resolution & Performance Tweaks for Windows 11</u></a></li>
 </ul></div>
 

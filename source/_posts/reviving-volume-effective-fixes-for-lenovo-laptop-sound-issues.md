@@ -1,7 +1,7 @@
 ---
 title: "Reviving Volume: Effective Fixes for Lenovo Laptop Sound Issues"
-date: 2024-10-29T23:59:16.006Z
-updated: 2024-11-04T16:31:58.921Z
+date: 2024-11-14T17:14:35.251Z
+updated: 2024-11-15T17:59:40.095Z
 tags:
   - win11
   - win10
@@ -46,20 +46,13 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000232.png)
 3. Follow the on-screen instructions to troubleshoot the audio playback issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When it is completed, play a song on your HP laptop to see if you resolved the no sound issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Update your audio driver**
@@ -88,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
  You can do it for free if you like, but it’s partly manual.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 3: Check your audio settings**
 
  The incorrect audio settings on your laptop can also trigger the no sound issues. You can follow the instructions below to check your audio settings:
@@ -104,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 2. Navigate to**the Playback tab** .**Right-click** anywhere on the Playback tab of the Sound window, and make sure you select**Show Disabled Devices** and**Show Disconnected Devices** options.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000237-2.png)
@@ -115,6 +101,14 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000236.png)
 4. Select the speaker / headphone you’re using and  click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap442-1.jpg)
 5. Click**OK** to save the changes.
 
@@ -122,15 +116,15 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000233.png)
 7. If you see some application is muted, click**the speaker icon** under that application to unmute it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000235-2.png)
 8. Play a song on your laptop to see if you fixed the no sound issue. If not, move on to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9. On your keyboard, press**the Windows logo key** and**X** at the same time. Then select**Device Manager** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000238.png)
@@ -149,27 +143,35 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 3. Under the **General**   tab, if the service is disabled, click **Star**   to enable it. For **Startup type** , select **Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap194-5.png)
 4. Navigate to the **Recovery**   tab. For **First failure** , select **Restart the Service** . Then click **OK**   to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap195-5.png)
 5. Locate the service **Windows Audio Endpoint Builder** . Follow step 3 and step 4 above to do the same thing for Windows Audio Endpoint Builder.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart your PC.
 
  See if you fix this issue after restarting Windows audio service. If it works, congratulations! This issue is fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 5: Troubleshoot hardware issues**
 
@@ -201,22 +203,22 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-step-by-step-guide-to-soundtracks-on-social-feeds/"><u>[New] In 2024, A Step-by-Step Guide to Soundtracks on Social Feeds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-troubleshooting-solving-microphone-failures-in-your-turtle-beach-elite-gaming-headset/"><u>Comprehensive Troubleshooting: Solving Microphone Failures in Your Turtle Beach Elite Gaming Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-audio-fixes-resolving-issues-with-your-headsets-microphone/"><u>DIY Audio Fixes: Resolving Issues with Your Headset's Microphone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-edge-40-neo-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Edge 40 Neo has native HEVC support?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-troubleshooting-tips-for-a-malfunctioning-corsair-void-microphone/"><u>Easy Troubleshooting Tips for a Malfunctioning Corsair Void Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-troubleshooting-repair-your-razer-microphone-with-simple-solutions/"><u>Effortless Troubleshooting: Repair Your Razer Microphone with Simple Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-oppo-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Oppo ?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-zte-nubia-flip-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from ZTE Nubia Flip 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unlocking-potential-with-nikon-written-by-emily-roberts-on-june-4-2023/"><u>In 2024, Unlocking Potential with Nikon' Written by Emily Roberts on June 4, 2023</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigate-and-fix-windows-ndis-with-ease/"><u>Navigate & Fix: Windows NDIS with Ease</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-ftdi-signal-misalignment/"><u>Rectify FTDI Signal Misalignment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-redragon-microphone-malfunction-a-comprehensive-fix-for-your-pc/"><u>Resolving Redragon Microphone Malfunction: A Comprehensive Fix for Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-soundscape-a-guide-for-resolving-audio-problems-in-windows/"><u>Restoring Soundscape: A Guide for Resolving Audio Problems in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-solutions-repairing-your-astro-a20-microphone-issues/"><u>Simple Solutions: Repairing Your Astro A20 Microphone Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-poco-m6-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Poco M6 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-corsair-hs35-headset-issues-in-windows-environments/"><u>Troubleshooting Tips for Corsair HS35 Headset Issues in Windows Environments</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-mastery-comprehensive-editing-for-lifelong-learners/"><u>YouTube Mastery Comprehensive Editing for Lifelong Learners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-achieve-flawless-video-for-instagram-perfection/"><u>[New] Achieve Flawless Video for Instagram Perfection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-definitive-list-of-premium-vector-sites/"><u>[New] The Definitive List of Premium Vector Sites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-graphics-tech-for-uhd-videography/"><u>[Updated] Leading Graphics Tech for UHD Videography</u></a></li>
+<li><a href="https://facebook.techidaily.com/artists-gear-up-instagram-rolls-out-more-money-making-methods/"><u>Artists, Gear Up! Instagram Rolls Out More Money-Making Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-outlooks-error-0x80040610-your-step-by-step-guide/"><u>Bypassing Outlook's Error 0X80040610: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-csgo-microphone-is-malfunctioning-problem/"><u>How To Resolve Your CS:GO Microphone Is Malfunctioning Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-in-windows-7-systems/"><u>How To Restore Audio Functionality in Windows 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-addressing-razer-blackshark-v2-mic-issues/"><u>How to Restore Functionality: Addressing Razer BlackShark V2 Mic Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-corsair-hs35-microphone-non-functionality-on-pcs/"><u>How to Troubleshoot and Resolve Corsair HS35 Microphone Non-Functionality on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/idt-high-definition-audio-device-driver-installation-guide-for-windows-11/"><u>IDT High-Definition Audio Device Driver Installation Guide for Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-x-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone X Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-audio-malfunction-heres-how-you-can-fix-the-no-sound-issue/"><u>Laptop Audio Malfunction? Here's How You Can Fix the No Sound Issue!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-sound-disruptions-in-windows-11-tips-and-fixes-that-worked/"><u>Overcoming Sound Disruptions in Windows 11: Tips and Fixes That Worked</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/redragon-mic-malfunction-on-pc-heres-how-to-repair-and-resolve-for-optimal-audio-performance/"><u>Redragon Mic Malfunction on PC? Here's How to Repair and Resolve for Optimal Audio Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/"><u>Ultimate Console Content: PS+ or Xbox Game Pass?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-income-guide-whats-new-for-2024/"><u>YouTube Income Guide - What's New for 2024</u></a></li>
 </ul></div>
 

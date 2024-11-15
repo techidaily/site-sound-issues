@@ -1,7 +1,7 @@
 ---
 title: Get Your Zoom Calls Heard on Windows 11/10 by Fixing Mic Difficulties
-date: 2024-08-31T23:53:54.123Z
-updated: 2024-09-01T23:53:54.123Z
+date: 2024-11-12T16:09:39.692Z
+updated: 2024-11-15T17:53:26.212Z
 tags:
   - win11
   - win10
@@ -70,15 +70,27 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 3: Change Speaker Settings
 
  Incorrect speaker settings could also relate to the sound keeping cutting out on Windows 10 issue. To see if this is your case:
@@ -86,29 +98,29 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Try to play audio with your computer again to see if the sound still cuts out.
 
  Hope one of the fixes above helps to fix the sound keeps cutting out on Windows 10 problem for you. If you have any other suggestions, please feel free to leave a comment below.
@@ -123,8 +135,6 @@ Read on and follow the easy-doing images below!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +142,20 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-beyond-the-screen-arvr-infused-inspirational-sayings/"><u>[Updated] 2024 Approved Beyond the Screen AR/VR-Infused Inspirational Sayings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tunefab-screen-recorder-download-and-review/"><u>[Updated] Tunefab Screen Recorder Download and Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>2024 Approved The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advancing-zoom-clarity-in-online-gatherings-google-meet-for-2024/"><u>Advancing Zoom Clarity in Online Gatherings (Google Meet) for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/zing-the-income-generated-by-every-youtube-viewer/"><u>Analyzing the Income Generated by Every YouTube Viewer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-off-gpt-communication-now/"><u>Cut Off GPT Communication Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-pc-audio-experience-with-the-latest-downloads-and-driver-upgrades-from-dolby-for-windows/"><u>Improve Your PC Audio Experience with the Latest Downloads & Driver Upgrades From Dolby for Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/optimizing-performance-with-an-additional-memory-card-in-your-device/"><u>Optimizing Performance with an Additional Memory Card in Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-issues-a-comprehensive-fix-guide-for-noise-problems-on-lenovo-machines/"><u>Overcoming Audio Issues: A Comprehensive Fix Guide for Noise Problems on Lenovo Machines</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-solutions-for-weak-audio-on-windows-11-computers/"><u>Overcoming Silence: Solutions for Weak Audio on Windows 11 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-microphone-troubleshooting-fixing-pc-issues/"><u>Rec Room Microphone Troubleshooting: Fixing PC Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-a-defective-windows-scan-software/"><u>Restoring a Defective Windows Scan Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sjcam-sj6-legend-action-camera-complete-review/"><u>SJCam SJ6 Legend Action Camera Complete Review</u></a></li>
+</ul></div>
 

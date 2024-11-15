@@ -1,7 +1,7 @@
 ---
 title: Resolving HDMI Speaker Malfunctions on a Windows 7 PC – Step-by-Step Instructions
-date: 2024-11-04T08:52:26.781Z
-updated: 2024-11-05T02:31:15.613Z
+date: 2024-11-14T17:39:40.374Z
+updated: 2024-11-15T16:32:07.247Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
  If the sound is still not working, here’s the next thing to try…
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 2: Check the audio settings in your Windows**
 
  If the hardware is working properly, the sound issue can be caused by the**incorrect settings** in your laptop. Follow the steps below to check the settings for your sound.
@@ -69,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb12196f37.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Make sure your audio device is set as default
 
  1) Right click the**volume icon** at the bottom right corner, and click**Playback devices** .
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b59d5056.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) If your audio device is not the default device, click**Set Default** . Then click**OK** to save.
@@ -104,22 +104,16 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962c8cd39cb.png)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Advanced** . In Default Format, choose another different audio rate, then click the**Test** button. Then play a music or audio to test.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962d0ec718d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) You will need to repeat this until you find a proper audio format. Once you find the proper audio format to work, click**OK** to save the settings.
 
@@ -133,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb470694a1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Make sure there’s**NOT** a down arrow displayed next to the volume icon in your sound device, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb4e9bbee3.png)
@@ -148,14 +135,14 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aacb53fb8555.png)
 
-4) Try the sound to see if it works.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4) Try the sound to see if it works.
 
 ### **Fix 3: Update your sound driver**
 
@@ -175,6 +162,19 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install all the latest correct drivers that is missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
@@ -182,13 +182,6 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 4) Restart your computer and check whether your problem is solved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Reinstall your audio driver**
 
@@ -200,29 +193,29 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962e2ade37c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click your sound device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ec385bd3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4)**Confirm** the uninstallation. Check the box next to**Delete the driver software for this device** if there’s an option like this, then confirm the uninstall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962ef431c66.png)
 
- 5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 5) Restart your computer and Windows will automatically download and install the sound driver for your device. After that, check the sound to see if it works.
 
 ### Fix 5: Check for corrupted system files
 
@@ -243,6 +236,13 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
  2) Open Fortect. It will run a free scan of your PC and give you **a detailed report of your PC status** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
@@ -270,21 +270,24 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-4-techniques-for-effective-hp-laptop-screen-capture/"><u>[New] In 2024, Top 4 Techniques for Effective HP Laptop Screen Capture</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-transformation-tutorial-sdr-to-high-dynamic-range-video-upgrading/"><u>[New] The Ultimate Transformation Tutorial SDR to High-Dynamic Range Video Upgrading</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-step-by-step-embarking-on-your-ifunny-meme-adventure/"><u>[Updated] In 2024, Step-By-Step Embarking on Your iFunny Meme Adventure</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-screen-recorder-unmatched-pcmacos-quality-for-2024/"><u>[Updated] Ultimate Screen Recorder - Unmatched PC/macOS Quality for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cracking-the-silence-step-by-step-solutions-to-your-lenovos-muted-microphone-and-speakers/"><u>Cracking the Silence: Step-by-Step Solutions to Your Lenovo's Muted Microphone & Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/csgo-voice-issues-demystified-quick-guide-for-mic-troubleshooting/"><u>CS:GO Voice Issues Demystified - Quick Guide for Mic Troubleshooting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-speaker-distortion-issues-on-windows-11-and-7-a-step-by-step-guide/"><u>Fixing Speaker Distortion Issues on Windows 11 & 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-zoom-integrates-with-vision-pro-headsets-bringing-a-new-dimension-to-virtual-meetings-insights/"><u>Get Ready: Zoom Integrates with Vision Pro Headsets, Bringing a New Dimension to Virtual Meetings – Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-fixes-for-counter-strikes-non-functional-voice-chat/"><u>Master the Fixes for Counter-Strike's Non-Functional Voice Chat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/qualitatsbewahrend-von-hevc-zu-mp4-einfache-schritte-zur-fehlerfreien-formatubersetzung/"><u>Qualitätsbewahrend Von HEVC Zu MP4: Einfache Schritte Zur Fehlerfreien Formatübersetzung</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-audio-on-your-laptop-expert-tips-for-fixing-non-responsive-internal-speakers/"><u>Reviving the Audio on Your Laptop: Expert Tips for Fixing Non-Responsive Internal Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-computers-audio-resolve-audio-device-unavailable-on-various-windows-versions/"><u>Reviving Your Computer's Audio: Resolve 'Audio Device Unavailable' On Various Windows Versions</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/seamless-migration-transferring-systems-to-compatible-hardware-using-unified-recovery-methods/"><u>Seamless Migration: Transferring Systems to Compatible Hardware Using Unified Recovery Methods</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-mic-troubles-quickly-expert-tips-for-the-oculus-quest-2-headset/"><u>Solve Mic Troubles Quickly: Expert Tips for the Oculus Quest 2 Headset</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-titans-top-culinary-bloggers-and-youtubers-for-2024/"><u>Taste Titans Top Culinary Bloggers & YouTubers for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-top-10-free-ai-voice-generators-to-use-in-daily-life-for-2024/"><u>Updated Top 10 Free AI Voice Generators to Use in Daily Life for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-harnessing-the-power-camera-techniques-in-ios-11/"><u>[New] 2024 Approved Harnessing the Power Camera Techniques in iOS 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-clear-screen-techniques-focus-on-your-message-not-the-ambiance/"><u>[New] Clear Screen Techniques Focus on Your Message, Not the Ambiance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhance-social-media-reach-on-facebook-using-proven-seo-methods-for-2024/"><u>[Updated] Enhance Social Media Reach on Facebook Using Proven SEO Methods for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nubia-red-magic-8s-proplus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nubia Red Magic 8S Pro+ without App | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/a-comprehensive-guide-to-disabling-sound-optimization-in-windows-10-systems/"><u>A Comprehensive Guide to Disabling Sound Optimization in Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-repair-tutorial-beyond-the-wire-mic-not-functioning-properly/"><u>Comprehensive Repair Tutorial: Beyond the Wire Mic Not Functioning Properly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-premier-computing-compannies-of-2024-rankings-and-reviews/"><u>Discover the Premier Computing Compannies of 2024: Rankings and Reviews</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solution-for-corsair-hs60-microphone-failure-and-restoration-steps/"><u>DIY Solution for Corsair HS60 Microphone Failure and Restoration Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung support MOV videos ?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-tozo-t6-malfunctions-in-windows-11-environments/"><u>Effective Solutions for Fixing Tozo T6 Malfunctions in Windows 11 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ensuring-clear-communication-overcoming-squad-microphone-glitches/"><u>Ensuring Clear Communication: Overcoming Squad Microphone Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-identifying-and-fixing-common-problems-in-pebble-bluetooth-speakers/"><u>Expert Advice: Identifying & Fixing Common Problems in Pebble Bluetooth Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-your-sound-blaster-mic-when-it-fails-to-work/"><u>Expert Tips for Repairing Your Sound Blaster Mic When It Fails to Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restoring-sound-on-your-pcs-speakers-after-ensuring-they-are-properly-connected/"><u>Expert Tips for Restoring Sound on Your PC's Speakers After Ensuring They Are Properly Connected</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-astro-a10-microphone-issues-troubleshooting-guide/"><u>Fix Astro A10 Microphone Issues - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973481403-get-the-newest-updates-for-your-dell-thunderbolt-usb-c-tb16-accessory-hub-drivers-here/"><u>Get the Newest Updates for Your Dell Thunderbolt USB-C (TB16) Accessory Hub Drivers Here!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2007-run-time-error-1004-by-stellar-guide/"><u>How to Fix Excel 2007 Run Time Error 1004</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-magic-6-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor Magic 6 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-potential-of-windows-updates-with-these-solutions/"><u>Unlock the Potential of Windows Updates with These Solutions</u></a></li>
 </ul></div>
 

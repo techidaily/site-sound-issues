@@ -1,7 +1,7 @@
 ---
 title: Guide on How to Repair Voice Communication in Counter-Strike 2
-date: 2024-11-03T00:07:10.757Z
-updated: 2024-11-04T23:41:23.723Z
+date: 2024-11-13T18:01:42.028Z
+updated: 2024-11-15T16:50:26.324Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 
  Once you have double-checked these items, test the voice chat feature in LoL to see if it works. If yes, then great! If the problem persists, please move on to**Fix 2** below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Join voice channel automatically
 
  You may experience the sound not working in LoL if you disable the in-game sounds during some game session without you noticing it. So make sure to enable Join voice channel automatically to turn on the in-game sound.  
@@ -50,13 +57,6 @@ Voice chat feature is a much-anticipated feature that Riot Games has introduced 
 2. In the upper right corner, click**Settings** (the cog icon).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.png)
 3. Under the**Voice** tab, make sure the Join voice channel automatically option is checked.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-1.png)
 4. Check to see if you can use the voice chat feature properly in game. If yes, then great! If it’s no joy, please move on to**Fix 3** , below.
@@ -74,27 +74,27 @@ You can follow the steps below to check:
 3. Click the**Recording** tab. Then make sure that your preferred mic is set as**Default Device** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio-2.png)
 4. Speak into yout mic to test if the indicator bar on the right moves. If yes, your mic should be working properly. If it doesn’t, check your headphone device to make sure it’s not muted.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click the**Advanced**  tab. Under the **Default Format** section, choose a different sample rate and bit depth and click**Test** . Repeat this process until you find a format that works for you. After that, make sure the box for**Allow application to take exclusive control of this deviice** is**unticked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/111-1.png)
 6. Once finished, click**Apply** \>**OK** .
 
 7. Test in WoW to see if you can communicate with your friends. If it still gives you no luck, you should try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio drivers
 
@@ -109,15 +109,22 @@ You can follow the steps below to check:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/audio.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Re-launch LoL, then test voice chatting with your friends to see if it solves the error.
 
@@ -141,24 +148,24 @@ You can follow the steps below to check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-leveraging-instagrams-newest-filters-techniques-and-trends/"><u>[Updated] 2024 Approved Leveraging Instagram's Newest Filters - Techniques and Trends</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-extract-focus-from-logitech-cam-feed-for-2024/"><u>[Updated] Extract Focus From Logitech Cam Feed for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-transformative-techniques-to-enhance-your-powerpoint-recordings/"><u>[Updated] Transformative Techniques to Enhance Your PowerPoint Recordings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-scrutinizing-vlc-for-video-capturing/"><u>2024 Approved Scrutinizing VLC for Video Capturing</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-glimpse-into-great-weather-graphics-for-windows-11/"><u>A Glimpse Into Great Weather Graphics for Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-reviving-your-malfunctioning-bose-sound-system/"><u>DIY Guide: Reviving Your Malfunctioning Bose Sound System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-mute-system-errors-restore-speakers-immediately/"><u>Fix Mute System Errors: Restore Speakers Immediately</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-8-hd-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 8 HD by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-speakers-silent-solve-the-problem-with-these-steps-for-windows-10-users/"><u>HP Laptop Speakers Silent? Solve the Problem with These Steps for Windows 10 Users</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-internet-based-live-audio-capture-5-key-strategies-for-2024/"><u>Mastering Internet-Based Live Audio Capture 5 Key Strategies for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-sharp-4k-top-10-mirrorless-cameras-for-2024/"><u>Mastering Sharp 4K Top 10 Mirrorless Cameras for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quieting-down-crackles-effective-fixes-for-arctis-7-sound-glitches-on-windows-machines/"><u>Quieting Down Crackles: Effective Fixes for Arctis 7 Sound Glitches on Windows Machines</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-a-step-by-step-guide-to-get-your-airpods-microphone-working-on-windows-11/"><u>Solving Sound Problems: A Step-by-Step Guide to Get Your AirPods Microphone Working on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-sound-problems-in-windows-7-expert-advice-and-solutions/"><u>Troubleshooting HDMI Sound Problems in Windows 7 - Expert Advice & Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaking-up-in-fortnite-when-your-mic-fails/"><u>Troubleshooting: Speaking Up in Fortnite When Your Mic Fails!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/upgrade-audio-quality-on-windows-11-tips-to-amplify-your-computers-sound-output/"><u>Upgrade Audio Quality on Windows 11: Tips to Amplify Your Computer's Sound Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-update-causes-audio-issues-heres-how-to-get-your-sounds-back/"><u>Windows 11 Update Causes Audio Issues? Here's How To Get Your Sounds Back</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029884956-flacmp3wav/"><u>フリー音源としての洋楽ダウンロード - FLAC、MP3、WAV形式</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-skillful-tactics-for-procuring-image-archives/"><u>[New] Skillful Tactics for Procuring Image Archives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enlightening-your-youtube-footage-with-proper-lighting/"><u>[Updated] 2024 Approved Enlightening Your YouTube Footage with Proper Lighting</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtube-seo-masterclass-the-ultimate-toolkit-for-higher-traffic/"><u>[Updated] 2024 Approved YouTube SEO Masterclass The Ultimate Toolkit for Higher Traffic</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-quick-response-guide-adding-youtubes-closed-captions-and-subtitles/"><u>2024 Approved Quick-Response Guide Adding YouTube's Closed Captions and Subtitles</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-for-robust-customer-assistance/"><u>Effective Strategies for Robust Customer Assistance</u></a></li>
+<li><a href="https://facebook.techidaily.com/highlighting-googles-most-influential-press-moments/"><u>Highlighting Google's Most Influential Press Moments</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hilarity-in-harmony-great-ringtone-websites/"><u>Hilarity in Harmony Great Ringtone Websites</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-discord-gaming-sound-a-guide-to-capturing-and-playing-game-audio-correctly/"><u>Mastering Discord Gaming Sound: A Guide to Capturing and Playing Game Audio Correctly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-squad-voice-chat-a-complete-solution-for-non-responsive-mics/"><u>Mastering Squad Voice Chat: A Complete Solution for Non-Responsive Mics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-microphone-malfunctions-on-windows-7-with-our-proven-fixes-resolved/"><u>Overcome Microphone Malfunctions on Windows 7 with Our Proven Fixes [Resolved]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-audio-trouble-heres-how-to-resolve-the-hd-not-plugged-in-problem/"><u>Realtek Audio Trouble? Here’s How to Resolve the HD Not Plugged-In Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-your-corsair-virtuoso-microphone/"><u>Resolving Issues with Your Corsair Virtuoso Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-error-audio-device-malfunction-headphones-connected-but-receiving-output-from-speakers/"><u>Resolving the Error: Audio Device Malfunction - Headphones Connected but Receiving Output From Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-google-hangouts-audio-issue-mic-troubleshooting-guide/"><u>Resolving Your Google Hangouts Audio Issue - Mic Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-volume-quick-remedies-to-restore-noise-on-windows-10-systems/"><u>Revive Your Volume: Quick Remedies to Restore Noise on Windows 10 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-reviving-your-onikuma-microphone-for-optimal-performance/"><u>Solved! Reviving Your Onikuma Microphone for Optimal Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/utilizing-no-cost-countdown-efficient-time-management-for-2024/"><u>Utilizing No-Cost Countdown Efficient Time Management for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Get Your Windows 11 Bluetooth Devices Up and Running Again
-date: 2024-10-29T10:34:09.922Z
-updated: 2024-11-04T23:08:43.864Z
+date: 2024-11-10T16:23:35.076Z
+updated: 2024-11-15T16:50:21.766Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ If you’re trying to make your Airpods pro mic working on Windows PC, you’ve 
 
 If the issue still exists, move to the below fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -61,30 +54,30 @@ If the issue still exists, move to the below fixes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-39.jpg)
 3. In the**Recording** tab, right-click on the AirPods headset and click**Set as Default Communication Device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
-4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-47-54.jpg)
+4. Select the**AirPods Hands-Free** option as a playback device when using Windows apps.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_14-50-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your Bluetooth Drivers
@@ -102,15 +95,15 @@ There’re 2 ways to update drivers, manually and automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-16-38.jpg)
 3. In the pop-up window, click**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-21_15-18-45.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Restart your PC and check your AirPods mic.
 
@@ -126,11 +119,25 @@ There’re 2 ways to update drivers, manually and automatically.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your Bluetooth driver, reboot your PC to check if you can use AirPods microphone on Windows.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install Windows updates
 
@@ -144,16 +151,16 @@ So follow the steps below to install the latest Windows updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)  
  If you see “You’re up to date” after clicking the button, your PC confirms that it has all Windows updates.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your PC and check the AirPods microphone after the whole process is finished.
 
 If this fix doesn’t work for you, the next one might suit you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Use a Bluetooth adapter
 
@@ -182,17 +189,15 @@ If this fix doesn’t work for you, the next one might suit you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>[New] Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-voice-personalization-tips-for-instagram-users/"><u>[Updated] 2024 Approved Voice Personalization Tips for Instagram Users</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-amplify-viewership-with-these-top-10-youtube-reaction-strategies-for-2024/"><u>[Updated] Amplify Viewership with These Top 10 YouTube Reaction Strategies for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-narzo-60x-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme Narzo 60x 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/effective-strategies-for-using-chatgpt-to-generate-professional-resumes-tailored-for-various-positions/"><u>Effective Strategies for Using ChatGPT to Generate Professional Resumes Tailored for Various Positions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-insearchofimprovedcameratech-beyond-mycam/"><u>In 2024, InSearchOfImprovedCameraTech Beyond MyCam</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/in-depth-repair-techniques-restoring-functionality-to-your-beyond-the-wire-mic/"><u>In-Depth Repair Techniques: Restoring Functionality to Your 'Beyond the Wire' Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/phasmophobia-voice-communication-woes-tips-and-solutions-to-get-it-working-again/"><u>Phasmophobia Voice Communication Woes: Tips and Solutions to Get It Working Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-dell-sound-card-errors-in-windows-7-with-easy-fixes/"><u>Resolve Your Dell Sound Card Errors in Windows 7 with Easy Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-windows-11s-speakers-a-step-by-step-guide-to-solving-noise-problems-fast/"><u>Revive Your Windows 11'S Speakers: A Step-by-Step Guide to Solving Noise Problems Fast</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-troubleshooting-a-non-functional-corsair-hs70-microphone/"><u>Solving the Dilemma: Troubleshooting a Non-Functional Corsair HS70 Microphone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-infinix-smart-7-hd-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Smart 7 HD Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-reno-10-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Reno 10 Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-s23plus-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Samsung Galaxy S23+</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-magic-vs-2-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor Magic Vs 2 Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-soundscape-fixing-noise-problems-in-windows-10-update/"><u>Reviving Soundscape: Fixing Noise Problems in Windows 10 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-non-functional-turtle-beach-elite-atlas-mic-problems/"><u>Solution Steps for Non-Functional Turtle Beach Elite Atlas Mic Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-windows-11-speaker-malfunctions-with-these-proven-techniques/"><u>Solve Windows 11 Speaker Malfunctions With These Proven Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-silence-fixing-audio-issues-in-windows-11-instantly/"><u>Solve Your PC's Silence: Fixing Audio Issues in Windows 11 Instantly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-inside-finding-and-understanding-your-macbooks-specific-model-information/"><u>Step Inside: Finding and Understanding Your MacBook's Specific Model Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-math-skills-with-the-best-7-artificial-intelligence-resources-available-today/"><u>Transform Your Math Skills with the Best 7 Artificial Intelligence Resources Available Today</u></a></li>
 </ul></div>
 

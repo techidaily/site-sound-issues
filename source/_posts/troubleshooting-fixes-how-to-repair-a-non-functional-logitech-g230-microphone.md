@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How to Repair a Non-Functional Logitech G230 Microphone"
-date: 2024-08-27T21:18:16.665Z
-updated: 2024-08-28T21:18:16.665Z
+date: 2024-11-11T16:43:15.203Z
+updated: 2024-11-15T16:52:48.878Z
 tags:
   - win11
   - win10
@@ -38,34 +38,44 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 8. Click **OK** .
-See if your Logitech G230 mic works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+See if your Logitech G230 mic works. If not, try the next fix, below.
+
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
 If you don’t allow Windows 10 and applications to access your microphone, you may also encounter this issue. You can follow the steps below to check:
 
 1. On your keyboard, press the Windows logo key and I at the same time to open Windows Settings. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
-Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
+
 ### **Fix 3: Update your audio driver**
 
 An outdated or corrupted audio driver can also be the root of this issue. To fix it, you just need to update your audio driver to the latest version.There are two ways to update your sound card driver: **manually**  and **automatically** . **Update your sound card driver manually**  – You can update your sound card driver manually by going to the manufacturer’s website, and searching for the latest driver for your sound card.
@@ -81,19 +91,25 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee ).  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)  
  You can do it for free if you like, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 4: Troubleshoot hardware issues**
 
 If none of the fixes works for you, it’s time to troubleshoot hardware issues. You can follow the steps below to troubleshoot hardware issues:
@@ -112,8 +128,6 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +135,24 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-restore-windows-photo-viewer-in-windows-10-2-methods/"><u>[New] How to Restore Windows Photo Viewer in Windows 10 (2 Methods)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-swift-transformation-androids-best-vid-upgrades/"><u>[New] Swift Transformation Android's Best Vid Upgrades</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mirthful-browsings-your-ultimate-list-of-top-comedy-vids/"><u>[Updated] In 2024, Mirthful Browsings Your Ultimate List of Top Comedy Vids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-ig-video-trends-building-your-next-marketing-plan/"><u>[Updated] In 2024, Navigating IG Video Trends Building Your Next Marketing Plan</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-100-earnest-creators-online/"><u>[Updated] Top 100 Earnest Creators Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-step-by-step-strategy-for-profiting-from-every-youtube-short-video/"><u>2024 Approved Step-by-Step Strategy for Profiting From Every YouTube Short Video</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-logitech-unifying-receiver-software-compatible-with-windows/"><u>Download the Logitech Unifying Receiver Software Compatible with Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-sound-crackling-errors-in-cyberpunk-2077-easy-solutions-revealed/"><u>Eliminating Sound Crackling Errors in Cyberpunk 2077 – Easy Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-restoring-functionality-of-the-mic-on-razer-blackshark-v2/"><u>Expert Guide: Restoring Functionality of the Mic on Razer BlackShark V2</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-tips-for-conducting-obs-meetings-via-zoom-for-2024/"><u>Expert Tips for Conducting OBS Meetings via Zoom for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-razer-barracuda-x-microphone-step-by-step-guide-on-win10-and-win11/"><u>Fix Your Razer Barracuda X Microphone - Step-by-Step Guide on Win10 & Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-connectivity-glitches-when-windows-11-doesnt-recognize-your-headphones/"><u>Fixing Audio Connectivity Glitches: When Windows 11 Doesn't Recognize Your Headphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-by-disabling-enhancement-options-in-windows-10-system/"><u>Fixing Audio Issues by Disabling Enhancement Options in Windows 10 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-one-or-several-stalled-audio-services-a-complete-walkthrough/"><u>Fixing One or Several Stalled Audio Services – A Complete Walkthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-117-audio-issues-the-speaker-crackling-solution/"><u>Fixing Windows 11/7 Audio Issues: The Speaker Crackling Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-on-track-solutions-inside/"><u>How To Get Your Windows 11 Audio Back On Track - Solutions Inside!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/zero-price-windows-desktop-snapping-tutorials/"><u>Zero Price Windows Desktop Snapping Tutorials</u></a></li>
+</ul></div>
 
