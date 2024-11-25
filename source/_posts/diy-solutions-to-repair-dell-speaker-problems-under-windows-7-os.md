@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions to Repair Dell Speaker Problems Under Windows 7 OS
-date: 2024-11-14T16:04:03.080Z
-updated: 2024-11-15T16:50:05.605Z
+date: 2024-11-19T19:03:34.626Z
+updated: 2024-11-24T16:59:29.652Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -39,13 +43,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
  And your speakers should be plugged into the line-out jack. If you’re not sure which jack this is, try plugging your speakers or headphones into each of the jacks to see if any of them produce sound.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 3, check the volume settings
 
@@ -66,13 +63,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
@@ -81,37 +71,24 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
@@ -124,23 +101,22 @@ Follow these steps:
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -153,17 +129,14 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
 
@@ -182,18 +155,16 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-offline-iphone-and-ipad-games-fun-without-wi-fi/"><u>[New] In 2024, Top Offline iPhone & iPad Games – Fun Without Wi-Fi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-windows-fingerprint-reader-not-working/"><u>[SOLVED] Windows Fingerprint Reader Not Working</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-showmores-efficient-recording-tools/"><u>[Updated] 2024 Approved Comprehensive Guide to ShowMore's Efficient Recording Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-photo-edits-clearing-out-backgrounds/"><u>2024 Approved The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210131389-9781761035685-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-8s-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 8S Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c12-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C12 Pro FRP Bypass</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-video-editing-essentials-freezing-frames-like-a-pro/"><u>New Video Editing Essentials Freezing Frames Like a Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-simple-guide-asus-touchpad-driver-installation-on-windows-10/"><u>Quick and Simple Guide: ASUS Touchpad Driver Installation on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-common-problems-and-solutions-for-the-logitech-g230-headset-mic/"><u>Solved! Common Problems and Solutions for the Logitech G230 Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-stereo-sound-issues-fixes-when-your-mix-isnt-functioning/"><u>Solving Stereo Sound Issues: Fixes When Your Mix Isn't Functioning</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-no-audio-problem-in-your-sony-wh-ch700n-wf-headset/"><u>Solving the 'No Audio' Problem in Your Sony WH-CH700N WF Headset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-correcting-sound-driver-glitches-on-a-dell-pc-with-windows-e/"><u>Step-by-Step Guide to Correcting Sound Driver Glitches on a Dell PC with Windows E</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-virtual-extension-instant-fb-stories-archive/"><u>[New] 2024 Approved Virtual Extension Instant FB Stories Archive</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-insight-into-once-lost-reddit-topics/"><u>2024 Approved Instant Insight Into Once Lost Reddit Topics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-headset-woes-overcome-common-issues-with-easy-repairs-and-adjustments/"><u>Corsair Headset Woes? Overcome Common Issues with Easy Repairs and Adjustments</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/f5-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>F5 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-mic-not-working-heres-how-to-restore-functionality/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Restore Functionality!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014761595-immediate-remedies-for-lack-of-sound-on-astro-a50-headphones-get-the-fix-now/"><u>Immediate Remedies for Lack of Sound on Astro A50 Headphones - Get the Fix Now</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-harmonizing-technology-with-taste-your-guide-to-mastering-audio-format-selection/"><u>New In 2024, Harmonizing Technology with Taste Your Guide to Mastering Audio Format Selection</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/quick-and-simple-mpeg-splitter-no-hassle-editing-for-mpeg-files/"><u>Quick & Simple MPEG Splitter - No Hassle Editing for MPEG Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-troubleshoot-your-astro-a50-when-theres-no-audio/"><u>Quick Solutions: Troubleshoot Your Astro A50 When There's No Audio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-the-main-earphone-socket-issues/"><u>Troubleshooting and Repairing the Main Earphone Socket Issues</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-looking-for-a-sony-vegas-replacement-on-windows-try-these-options/"><u>Updated 2024 Approved Looking for a Sony Vegas Replacement on Windows? Try These Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Laptop Audio Malfunction? Here Are Effective Solutions
-date: 2024-11-11T17:35:25.670Z
-updated: 2024-11-15T16:17:56.426Z
+date: 2024-11-17T23:19:20.469Z
+updated: 2024-11-25T02:39:40.166Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4d734d2c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) See the Speakers is disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4dfc1fa7.jpg)
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd4f2b0a08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Secondly: Ensure the sound is not muted**
 
  It could happen that the sound is muted by accident. Check the speaker icon at the bottom left corner of desktop, and make sure there is no red circle with a cross going through it.
@@ -59,19 +67,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
  If you ensure above sound settings have no problems, move on and try the below methods.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 1: Disable the audio device in Device Manager and restart your PC**
 
@@ -81,32 +76,20 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9642d9827b4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the category “**Sound, video and game controllers** “. Under this category, right-click on the audio device name. A context menu will pop up, then select **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589bd515db2c0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your PC. Then a Window will pop up to ask you to solve the sound problem. Just follow the on-screen instructions. Then the sound issue should resolve.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Update the audio driver**
@@ -130,10 +113,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-406.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully you can fix your laptop no sound issues with the steps above. If you have any questions, please feel free to leave your comment below.
@@ -155,22 +135,21 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-a-thorough-evaluation-of-the-high-resolution-dell-p2715q-monitor/"><u>[New] A Thorough Evaluation of the High-Resolution Dell P2715Q Monitor</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-mov-file-capture-in-win10/"><u>[New] In 2024, Mastering MOV File Capture in Win10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-50-free-youtube-banners-come-see-them-all/"><u>[Updated] In 2024, 50 FREE YouTube Banners - Come See Them All!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-runners-best-allies-discover-the-top-performance-watches-available/"><u>A Runner's Best Allies: Discover the Top Performance Watches Available</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/infantile-instinct-for-multilingual-excellence/"><u>Infantile Instinct for Multilingual Excellence</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-squad-mic-repair-techniques-advanced-guide-for-perfect-audio/"><u>Mastering Squad Mic Repair Techniques - Advanced Guide for Perfect Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-voice-communication-in-fortnite-a-step-by-step-fix-for-non-working-microphones/"><u>Mastering Voice Communication in Fortnite: A Step-by-Step Fix for Non-Working Microphones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-on-site-gratis-conversion-von-m4v-mpg-videodateien-bewahrte-online-losung/"><u>Movavi: On-Site Gratis Conversion Von M4V MPG Videodateien - Bewährte Online-Lösung</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-detected-from-your-microphone-heres-what-to-do/"><u>No Audio Detected From Your Microphone - Here’s What To Do</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-pc-troubles-how-to-fix-no-sound-or-audio-problems/"><u>Resolving PC Troubles: How to Fix 'No Sound' Or Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-high-volume-sounds-a-guide-for-windows-11-users-with-low-audio-output/"><u>Restoring High-Volume Sounds: A Guide for Windows 11 Users with Low Audio Output</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-astro-headset-mic-repair-techniques-covered/"><u>Revive Your Astro Headset: Mic Repair Techniques Covered</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-team-talk-expert-fixes-for-when-league-of-legends-voice-chat-wont-turn-on/"><u>Reviving the Team Talk: Expert Fixes for When League of Legends Voice Chat Won't Turn On</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silencing-stutters-and-distortions-in-audio-playback-expert-solutions-for-windows-11-and-7-users/"><u>Silencing Stutters & Distortions in Audio Playback: Expert Solutions for Windows 11 and 7 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-storahcisys-errors-a-step-by-step-guide/"><u>Solving 'storahci.sys' Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728505735520-windows-11/"><u>Windows 11 开机修复指令提示符使用手册 - 步骤指南</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10-expert-suggestions-to-make-your-yt-shorts-stand-out/"><u>[Updated] 2024 Approved 10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-optimal-mp4-to-fb-video-solution/"><u>[Updated] 2024 Approved Optimal MP4-to-FB Video Solution</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-smoothing-out-aerial-footage-pulsation/"><u>[Updated] 2024 Approved Smoothing Out Aerial Footage Pulsation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-quick-fixes-the-hands-on-guide-to-generating-timely-captions-on-fb-media/"><u>2024 Approved Quick Fixes The Hands-On Guide to Generating Timely Captions on FB Media</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-your-brand-accrue-1k-ig-friendsmonthly-for-2024/"><u>Boost Your Brand Accrue 1K IG Friends/Monthly for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016454575-corsair-earphones-malfunction-heres-how-you-can-resolve-the-issue/"><u>Corsair Earphones Malfunction? Here's How You Can Resolve the Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dota-amo-speaker-not-working-heres-the-ultimate-fix/"><u>Dota Amo Speaker Not Working? Here's the Ultimate Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-cyberpunk-2077-audio-solutions-for-windows-11-users/"><u>Fixing Silent Cyberpunk 2077: Audio Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-realtek-mic-up-and-running/"><u>Fixing the Issue: How to Get Your Realtek Mic Up and Running</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-free-video-editing-top-tools-for-32-bit-windows/"><u>Get Started with Free Video Editing Top Tools for 32-Bit Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-note-30-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Note 30 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-107-audio-issues-no-more-crackling-from-your-speakers/"><u>Resolving Windows 10/7 Audio Issues: No More Crackling From Your Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-epson-scanner-error-on-windows-11/"><u>Resolving: Epson Scanner Error on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-dji-mavic-3-revolutionizing-drone-photography-reviewed/"><u>The Ultimate Guide to the DJI Mavic 3 – Revolutionizing Drone Photography Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-the-non-working-voice-chat-feature-in-apex-legends/"><u>Ultimate Fixes for the Non-Working Voice Chat Feature in Apex Legends</u></a></li>
+<li><a href="https://win-webster.techidaily.com/urutan-rasa-pilihan-ubah-gaya-memutakhirkan-file-lama-di-google-drive-selamat-tahun-baru/"><u>Urutan Rasa Pilihan: Ubah Gaya Memutakhirkan File Lama Di Google Drive Selamat Tahun Baru!</u></a></li>
 </ul></div>
 

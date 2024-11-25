@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving When Another Software Controls Your Device on HDMI
-date: 2024-11-14T17:14:42.252Z
-updated: 2024-11-15T16:11:26.239Z
+date: 2024-11-20T03:27:04.619Z
+updated: 2024-11-24T21:09:32.172Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ To verify the integrity of game files, simply do the following:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 You can now launch Black Ops Cold War and check if the audio is back.
@@ -56,10 +49,7 @@ You can now launch Black Ops Cold War and check if the audio is back.
 If the no sound issue persists, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Configure your device properly
@@ -72,8 +62,17 @@ If the no sound issue persists, you can take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/input-device-testing.jpg)
 3. Make sure the box next to**Disable** is unchecked, and the slider under**Volume** is set to**100** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/device-properties-and-test-microphone.jpg)
 4. Now you can check the in-game audio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there’s nothing wrong with your settings, or you can hear the computer sound everywhere except in Black Ops Cold War, check out the next fix below.
 
@@ -106,13 +105,6 @@ If the no sound issue persists, you can take a look at the next fix.
 
  If the latest driver doesn’t give you luck, simply try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Install all Windows updates
 
  Besides drivers, you should also make sure that your system is up to date. Windows updates provide bugs fixes and performance boosts that might cure some strange issues.
@@ -123,40 +115,31 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
 After rebooting your PC, return to Black Ops Cold War and test the audio.
 
 If this trick doesn’t help you, try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check your in-game audio settings
 
@@ -187,17 +170,21 @@ Here’s what you should check:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-how-to-enable-or-disable-pip-in-youtube-for-mobile-phones/"><u>[Updated] In 2024, How to Enable or Disable PIP in YouTube for Mobile Phones</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-honor-x9b-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Honor X9b</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/"><u>Guide: Ensuring Your Email Address Securely Listed Online</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-ajay-the-creative-content-creators-profitable-venture-on-youtube/"><u>In 2024, AJay The Creative Content Creator's Profitable Venture on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y200-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y200 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987161159-smooth-sailing-through-the-ocean-eleven-sea-nier-worlds-crash-fixes-revealed/"><u>Smooth Sailing Through the Ocean Eleven Sea - NieR: World's Crash Fixes Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-10-users/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-turtle-beach-elite-atlas-headset-microphone-issues/"><u>Troubleshooting Guide: How to Repair Turtle Beach Elite Atlas Headset Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-razer-blackshark-v2-mic-failure-resolution/"><u>Troubleshooting Guide: Razer Blackshark V2 Mic Failure Resolution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-idt-hd-audio-codec-setup-for-windows-11-users/"><u>Troubleshooting IDT HD Audio Codec Setup for Windows 11 Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/ultimate-instagram-live-mastering-video-chats/"><u>Ultimate Instagram Live Mastering Video Chats</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-captivating-content-the-basics-of-removing-background-from-videos/"><u>[Updated] 2024 Approved Captivating Content The Basics of Removing Background From Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-views-strategic-partnerships-on-youtube-for-rapid-growth-for-2024/"><u>[Updated] Boost Views Strategic Partnerships on YouTube for Rapid Growth for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-shooters-guide-to-stability/"><u>[Updated] Professional Shooters' Guide to Stability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-starting-from-scratch-motion-graphics-essentials/"><u>[Updated] Starting From Scratch Motion Graphics Essentials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-television-archive-advanced-techniques-for-online-streams-for-2024/"><u>[Updated] Television Archive Advanced Techniques for Online Streams for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-visual-storytelling-support-center/"><u>2024 Approved Visual Storytelling Support Center</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-your-computer-audio-a-guide-to-setting-up-unknown-speaker-systems-on-windows-10/"><u>Enhance Your Computer Audio: A Guide to Setting Up Unknown Speaker Systems on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-starting-dolby-pro-logic-iix-audio-on-windows-11-systems-without-errors/"><u>Expert Advice on Starting Dolby Pro Logic IIx Audio on Windows 11 Systems without Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guide-to-fixing-steelseries-arctis-amicrophone-problems/"><u>Expert Guide to Fixing SteelSeries Arctis Amicrophone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-muted-mystery-resolving-sound-problems-on-iphones/"><u>Fixing the Muted Mystery: Resolving Sound Problems on iPhones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acquiring-high-quality-copyright-free-images/"><u>In 2024, Acquiring High-Quality Copyright-Free Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-review-of-the-toughest-iphone-case-by-apple-with-a-special-emphasis-on-its-unique-security-feature/"><u>In-Depth Review of the Toughest iPhone Case by Apple with a Special Emphasis on Its Unique Security Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-razer-blackshark-v2-mic-functionality/"><u>Quick Solutions to Restore Razer BlackShark V2 Mic Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-audio-issues-in-windows-11/"><u>Resolved: Fixing Audio Issues in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-redragn-headset-mic-step-by-step-guide-to-fixing-connection-issues-on-desktop-computers/"><u>Trouble With Your Redragn Headset Mic? Step-by-Step Guide to Fixing Connection Issues on Desktop Computers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-free-filter-treasures-through-instagrams-advanced-searches/"><u>Unraveling Free Filter Treasures Through Instagram’s Advanced Searches</u></a></li>
 </ul></div>
 

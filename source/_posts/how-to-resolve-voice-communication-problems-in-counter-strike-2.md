@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Voice Communication Problems in Counter-Strike 2
-date: 2024-11-09T17:26:16.801Z
-updated: 2024-11-15T17:50:24.949Z
+date: 2024-11-18T21:11:59.141Z
+updated: 2024-11-24T20:52:46.353Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 5. **[Check in-game audio settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Perform basic troubleshooting
 
  When your voice chat isn’t working, you can first do a basic troubleshooting step to see if it will fix the issue. You can follow the steps:
@@ -60,18 +53,16 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 2. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/privacy.jpg)
 3. In the left panel, select**Microphone** . Under**Allow desktop apps to access your microphone** , make sure the toggle is set to**ON** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/microphone-allow-desktop-apps.jpg)
 
  After you’ve done these, relaunch Vanguard to see if your voice chat works properly.
 
 If this fix doesn’t do the trick, check out the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -92,6 +83,10 @@ If this fix doesn’t do the trick, check out the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-scan-audio.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -99,6 +94,10 @@ If this fix doesn’t do the trick, check out the next one.
  Once you’ve updated your audio driver, restart your PC and check if your voice chat functions properly.
 
  If updating the audio driver doesn’t work for you, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check sound settings
 
@@ -114,35 +113,19 @@ If this fix doesn’t do the trick, check out the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 4. Open your**Battle.net** client.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. At the top left corner, click the**BLIZZARD** icon and select**Settings** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/battle-net-settings-1.jpg)
 6. Select**Voice Chat** , then set**OUTPUT DEVICE** and**INPUT DEVICE** to**System Default Device** . Click**Done** .  
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/blizzard-voice-chat.jpg)
 
 Now launch Vanguard and see if you can talk to your teammates.
 
 If the voice chat still doesn’t work, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check in-game audio settings
 
@@ -157,27 +140,25 @@ If the voice chat still doesn’t work, move on to the next fix.
 4. According to your personal preference, set**MICROPHONE ACTIVATION MODE** to**Open Mic** or**Push to Talk** . If you set it to**Open Mic** , make sure**OPEN MIC ACTIVATION THRESHOLD** is set to**3** . But if you set it to**Push to Talk** , please be sure you’re aware of exactly what button you’d need to press to activate your microphone.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-microphone-activation-mode.jpg)
 5. Set**VOICE CHAT VOLUME** and**MICROPHONE VOLUME** to a moderate value. Then set**VOICE CHAT EFFECT** to**No Effect** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-voice-chat-volume.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can restart Vanguard and check if the voice chat is working.
 
 If your problem remains, try the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
 
@@ -189,16 +170,7 @@ If your problem remains, try the last fix.
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your PC and check if the voice chat feature works properly in Vanguard.
@@ -225,24 +197,22 @@ If your problem remains, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/1718569497187-new-how-to-listen-to-podcasts-on-your-iphone-for-2024/"><u>[New] How to Listen to Podcasts on Your iPhone for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-achieving-virality-on-youtube-essential-steps-demystified/"><u>2024 Approved Achieving Virality on YouTube Essential Steps Demystified</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-15-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 15 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015528428-audio-service-outage-heres-how-you-can-get-it-running-again/"><u>Audio Service Outage? Here's How You Can Get It Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-woes-heres-how-to-restore-functionality-in-windows-11-effortlessly/"><u>Bluetooth Woes? Here's How to Restore Functionality in Windows 11 Effortlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/end-headphone-crackling-sounds-for-good-expert-troubleshooting-tips/"><u>End Headphone Crackling Sounds for Good: Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/cting-image-files-from-youtube-browser-based-os-techniques-for-2024/"><u>Extracting Image Files From Youtube Browser-Based, OS Techniques for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-network-issues-with-this-simple-guide-flushing-dns-cache-on-mac-computers/"><u>Fix Network Issues with This Simple Guide: Flushing DNS Cache on Mac Computers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-zero-30-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Zero 30 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-15-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 15 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/leveraging-high-roi-crafting-dynamic-animated-ads-for-fb/"><u>Leveraging High ROI Crafting Dynamic Animated Ads for FB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-sounds-in-call-of-duty-black-ops-cold-war-pc-version-step-by-step-guide/"><u>Restoring Sounds in Call of Duty: Black Ops Cold War PC Version - Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-sound-solutions-for-skype-microphone-issues-on-windows-10-devices/"><u>Revive Your Sound: Solutions for Skype Microphone Issues on Windows 10 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-sound-effective-methods-to-fix-a-broken-corsair-hs60-mic/"><u>Reviving the Sound: Effective Methods to Fix a Broken Corsair HS60 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-unstuck-your-voice-chat-in-destiny-2-today/"><u>Solving the Problem: Unstuck Your Voice Chat in Destiny 2 Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-boosting-your-pcs-audio-output-in-windows-10/"><u>Troubleshooting Tips: Boosting Your PC's Audio Output in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/zoom-microphone-failures-in-windows-1011-heres-how-to-resolve-them/"><u>Zoom Microphone Failures in Windows 10/11? Here's How to Resolve Them</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-transcoding-vimeo-to-mp3-audio-file/"><u>[New] In 2024, Transcoding Vimeo to MP3 Audio File</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/curing-mute-mode-effective-solutions-for-cyberpunk-2077-audio-issues-in-windows-10/"><u>Curing Mute Mode: Effective Solutions for Cyberpunk 2077 Audio Issues in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-leveraging-usb-selective-suspend-for-enhanced-efficiency/"><u>Expert Tips on Leveraging USB Selective Suspend for Enhanced Efficiency</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-pop-8-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Pop 8 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-quiet-speakers-a-comprehensive-guide-to-restarting-audio-systems/"><u>Fix Your Quiet Speakers: A Comprehensive Guide to Restarting Audio Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-adsl-modem-connection-issues/"><u>How to Fix Realtek ADSL Modem Connection Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-use-zoom-video-filters-to-make-a-high-quality-zoom-call/"><u>In 2024, How to Use Zoom Video Filters to Make a High-Quality Zoom Call</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-playbook-for-parallel-pursuit-of-youtube-videos/"><u>In 2024, The Playbook for Parallel Pursuit of Youtube Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sudden-click-sounds-from-applications-in-windows-a-guide/"><u>Resolving Sudden Click Sounds From Applications in Windows: A Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-issue-of-bluetooth-pairing-without-sound/"><u>Resolving the Issue of Bluetooth Pairing Without Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-airpods-heres-how-to-fix-the-sound-on-your-windows-11-and-10-pc/"><u>Silent AirPods? Here's How to Fix the Sound on Your Windows 11 and 10 PC!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-convertisseur-mp4-en-2023-guide-detaille-pour-optimiser-vos-fichiers-video/"><u>Top Convertisseur MP4 en 2023: Guide Détaillé Pour Optimiser Vos Fichiers Vidéo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016430857-troubleshoot-windows-media-player-silence-problems-effective-fixes-revealed/"><u>Troubleshoot Windows Media Player Silence Problems - Effective Fixes Revealed!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-for-fixedmuted-dota-2-mic-issues-on-pc-setup/"><u>Ultimate Solution for Fixed/Muted Dota 2 Mic Issues on PC Setup</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-setup-for-your-steam-deck-quickly/"><u>Windows Setup for Your Steam Deck Quickly</u></a></li>
 </ul></div>
 

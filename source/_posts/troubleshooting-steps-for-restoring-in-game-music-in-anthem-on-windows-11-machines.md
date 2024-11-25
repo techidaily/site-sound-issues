@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restoring In-Game Music in Anthem on Windows 11 Machines
-date: 2024-11-12T16:32:28.680Z
-updated: 2024-11-15T17:09:01.077Z
+date: 2024-11-21T20:44:55.637Z
+updated: 2024-11-24T20:41:42.059Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Before getting started, be sure**NOT** **to mute** your computer in the Volume icon. And drag the Volume slider to**Maximum** .
@@ -31,13 +35,6 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 1. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Check audio settings](https://tools.techidaily.com/drivereasy/download/)
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
 
@@ -73,28 +70,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a962b29937b9.png)
 2. In the**Sound** pane, click the**Playback** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -106,10 +97,7 @@ Still no luck? Okay, there’s one more thing to try.
 3. Double click**Sound, video and game controllers** to expand it.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
@@ -120,6 +108,11 @@ Still no luck? Okay, there’s one more thing to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc721ba8a50e.jpg)
 6. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your computer.
 
 Test your computer and see if it fixes the sound problem.
@@ -146,22 +139,14 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-portable-gear-for-travel-cinematography/"><u>[Updated] 2024 Approved Portable Gear for Travel Cinematography</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-art-of-aerial-broadcasting-a-dji-drone-guide-for-facebook/"><u>[Updated] In 2024, The Art of Aerial Broadcasting A DJI Drone Guide for Facebook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlock-the-power-of-cutting-for-beginner-editors/"><u>[Updated] In 2024, Unlock the Power of Cutting for Beginner Editors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-the-world-of-fbx-for-gamers-for-2024/"><u>[Updated] Navigating the World of FBX for Gamers for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-perfecting-your-live-stream-our-picks-from-the-top-6-microphones/"><u>2024 Approved Perfecting Your Live Stream Our Picks From the Top 6 Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/airpods-not-working-heres-how-to-get-your-windows-10-mic-up-and-running-again/"><u>AirPods Not Working? Here's How to Get Your Windows 10 Mic Up & Running Again</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cracking-out-the-crackles-top-strategies-for-silencing-your-logitech-g-pro-x-on-pc-this-year/"><u>Cracking Out the Crackles: Top Strategies for Silencing Your Logitech G Pro X on PC This Year</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-corsair-hs70-headphones-when-the-microphone-fails/"><u>DIY Solutions for Corsair HS70 Headphones When the Microphone Fails</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-restoring-your-mics-functionality-in-microsoft-teams-for-winodws-11-users/"><u>Expert Guide: Restoring Your Mic's Functionality in Microsoft Teams for Winodws 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-persistent-buzzing-noise-on-your-windows-pc/"><u>How to Fix the Persistent Buzzing Noise on Your Windows PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unresponsive-voice-chatting-in-black-ops-cold-war-multiplayer-mode/"><u>How to Resolve Unresponsive Voice Chatting in Black Ops Cold War Multiplayer Mode</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-time-lapse-production-using-advanced-gopro-software/"><u>In 2024, Seamless Time Lapse Production Using Advanced GoPro Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-you-ask-we-answer-answers-to-questions-related-to-filmora/"><u>In 2024, You Ask, We Answer- Answers to Questions Related to Filmora</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-privileges-fixes-for-win10-and-win11-errors/"><u>Mastering Privileges Fixes for Win10 & Win11 Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimize-audio-quality-by-disabling-enhancements-in-windows-10/"><u>Optimize Audio Quality by Disabling Enhancements in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-overcome-microsoft-teams-audio-problems-for-users-of-windows-11-and-10/"><u>Solved! Overcome Microsoft Teams Audio Problems for Users of Windows 11 and 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/trategies-for-full-time-workers-who-create-videos-for-2024/"><u>[New] Strategies for Full-Time Workers Who Create Videos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-13c-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi 13C Unlock Without Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-audiovisual-issues-in-new-world-game/"><u>Diagnosing and Repairing Audiovisual Issues in New World Game</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/event-tracing-fatal-error-windows-11-solved/"><u>Event Tracing Fatal Error Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gopropc/"><u>GoProビデオのパーツをPC上で連携してマージするプロセス</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-quickly-fix-a-non-functional-astro-a20-audio-input/"><u>How to Quickly Fix a Non-Functional Astro A20 Audio Input</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-logitech-g-pro-x-headset-effective-fixes-unveiled/"><u>How to Restore Sound on Your Logitech G Pro X Headset: Effective Fixes Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-original-aspect-ratios-in-windows-11/"><u>Restoring Original Aspect Ratios in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-fixes-for-non-functional-voice-communication-in-pubg/"><u>Troubleshooting: Common Fixes for Non-Functional Voice Communication in PUBG</u></a></li>
 </ul></div>
 

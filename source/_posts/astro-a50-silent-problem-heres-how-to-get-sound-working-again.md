@@ -1,7 +1,7 @@
 ---
 title: Astro A50 Silent Problem? Here's How to Get Sound Working Again!
-date: 2024-11-10T17:11:31.323Z
-updated: 2024-11-15T17:22:36.088Z
+date: 2024-11-21T16:54:55.171Z
+updated: 2024-11-24T18:25:01.485Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If you run into the**Lenovo laptop no sound** issue, don’t panic. It’s often
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for**Lenovo laptop no sound**
 
@@ -47,13 +51,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Make sure the volume is audible
 
  Sometimes you can’t hear sound from your speakers simply because the volume is mute or set too low.
@@ -64,18 +61,15 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7da01ab6db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 
  2) Test if you can hear any sound from your Lenovo laptop. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -95,13 +89,6 @@ To make sure the volume is audible:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e8c0387a6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
  4) **Restart** your computer and test if you get sound back on your Lenovo laptop. If yes, then congrats! If the no sound issue persists, please move on to**Fix 3** , below.
@@ -109,10 +96,7 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Set default audio devices
@@ -136,10 +120,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable audio enhancements
@@ -151,6 +132,10 @@ Here’s how:
  1) Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd7f6955a2d7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the **Playback** tab, right-click on **your default audio device** and click **Properties** .
 
@@ -187,21 +172,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-voice-memo-basics-your-complete-guide-to-audio-recording/"><u>[New] In 2024, Voice Memo Basics Your Complete Guide to Audio Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ecrets-unveiled-perfect-your-360-youtube-live-experience-for-2024/"><u>[New] Secrets Unveiled Perfect Your 360° YouTube Live Experience for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-lullaby-labyrinths-best-vocalists-for-sleep-aid-for-2024/"><u>[Updated] Lullaby Labyrinths Best Vocalists For Sleep Aid for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-a34-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy A34 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clearer-listening-no-buzzy-interruptions-a-comprehensive-guide-to-repairing-headphone-noise-issues/"><u>Clearer Listening, No Buzzy Interruptions: A Comprehensive Guide to Repairing Headphone Noise Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-logitech-camcorder-mic-a-step-by-step-guide/"><u>Fixing a Non-Functional Logitech Camcorder Mic: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-usb-headphones-on-your-pc-running-windows-wo-firiendly/"><u>Fixing Silent USB Headphones on Your PC Running Windows Wo-Firiendly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/google-meet-microphone-malfunction-on-windows-1110-heres-how-you-can-get-it-working-again/"><u>Google Meet Microphone Malfunction on Windows 11/10? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-ideal-shade-modifier-software/"><u>In 2024, Ideal Shade Modifier Software</u></a></li>
-<li><a href="https://media-tips.techidaily.com/master-audio-production-like-a-pro-using-reaper-leading-software-for-recording-editing-and-mixing/"><u>Master Audio Production Like a Pro Using Reaper - Leading Software for Recording, Editing, and Mixing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016162732-resolving-sound-distortion-and-stuttering-troubles-on-your-windows-117-system-expert-solutions-revealed/"><u>Resolving Sound Distortion & Stuttering Troubles on Your Windows 11/7 System - Expert Solutions Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-steps-to-resolve-astro-a2e-20-microphone-issues/"><u>Simple Steps to Resolve Astro A2e 20 Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-laptop-speakers-not-working-problem-a-step-by-step-guide/"><u>Solving the 'Laptop Speakers Not Working' Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-premium-outdoor-camping-chairs-expert-reviews-and-comparison-techadvisor/"><u>Top 5 Premium Outdoor Camping Chairs - Expert Reviews & Comparison | TechAdvisor</u></a></li>
-<li><a href="https://win-answers.techidaily.com/transform-lagging-chrome-into-lightning-fast-performance-with-simple-tweaks/"><u>Transform Lagging Chrome Into Lightning Fast Performance with Simple Tweaks</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-cause-of-unregistered-packages-in-windows/"><u>Unraveling the Cause of Unregistered Packages in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-inverted-intrigue-mastering-the-art-of-turning-photos-for-instagram-glory/"><u>[New] 2024 Approved Inverted Intrigue Mastering the Art of Turning Photos for Instagram Glory</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-5-low-cost-solar-panels-powering-your-tech/"><u>[New] 2024 Approved Top 5 Low-Cost Solar Panels Powering Your Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-broadcasting-made-simple-directly-stream-google-meet-to-youtube/"><u>[Updated] In 2024, Broadcasting Made Simple Directly Stream Google Meet to YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-handhinas-and-lenses-for-journey-shots/"><u>2024 Approved Handhinas and Lenses for Journey Shots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-audio-troubles-on-windows-effective-solutions-for-gamers/"><u>Cyberpunk 2077 Audio Troubles on Windows: Effective Solutions for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-logitech-g933-microphone-issues-and-get-it-working-again/"><u>How to Fix Logitech G933 Microphone Issues and Get It Working Again</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-to-make-a-flawless-move-to-ios-15/"><u>How to Make a Flawless Move to iOS 15</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-htc-by-fonelab-android-recover-data/"><u>Recover lost data from HTC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-low-volume-problems-in-computers-running-windows-10-simple-tips/"><u>Solve Low Volume Problems in Computers Running Windows 10 - Simple Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-silence-restoring-logitech-g935-audio-in-windows-environment/"><u>Solve the Silence: Restoring Logitech G935 Audio in Windows Environment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y36-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y36</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015242865-trouble-with-logitechs-video-call-combo-heres-the-fix/"><u>Trouble with Logitech's Video Call Combo? Here's the Fix!</u></a></li>
 </ul></div>
 

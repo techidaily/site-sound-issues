@@ -1,7 +1,7 @@
 ---
 title: How To Repair and Restore Proper Functionality of the 'Stereo Mix' Setting
-date: 2024-08-27T21:13:58.959Z
-updated: 2024-08-28T21:13:58.959Z
+date: 2024-11-23T21:34:38.014Z
+updated: 2024-11-25T00:50:36.055Z
 tags:
   - win11
   - win10
@@ -36,8 +36,9 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/XBox.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Troubleshoot the HyperX headset microphone
 
  If you run into hardware issues, you can always use Windows inbuilt troubleshooter. This will help you fix minor problems.
@@ -45,11 +46,12 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 1. Right-click the Speaker button on the bottom right side, and choose**Open Sound Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-sound-settings.jpg)
 2. Under**Input** , choose the right input device (HyperX Cloud Alpha) and click**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/input.jpg)
 3. Follow the on-screen instructions and wait till this gets finished.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Allow access to the microphone
 
@@ -59,17 +61,15 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 2. Select **Microphone Privacy Settings** from the results list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/microphone-setup.jpg)
 3. Under the **Allow Apps To Access Your Microphone** tab, ensure that the toggle is in the **On**  position so that other apps can use your microphone.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/on.jpg)
 4. Scroll down to choose which app can access your microphone, and make sure that you have it set for all the apps you want.  
 ![choose apps to allow](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-apps-microphone.jpg)
 5. Now check if your mic is working for the app you’re using.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update your audio driver
 
  If the audio driver is faulty or outdated, you’re likely to encounter the HyperX Cloud Alpha microphone not working problem. To keep your gaming headset work to its best performance, you should install the latest audio driver.
@@ -84,13 +84,14 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/audio-drivers.jpg)
 4. Restart your computer for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -102,24 +103,28 @@ As a direct follow-up to Cloud II, HyperX Cloud Alpha adds a whole bunch of new 
 1. Right-click on the sound icon in the lower-right corner of your desktop, and select **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/sounds.jpg)
 2. Go to the **Recording** tab, and make sure your **Headset Microphone** is set as the default device. If not, select your headphone and click **Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![set as default microphone](https://images.drivereasy.com/wp-content/uploads/2020/12/default.png)
 3. Also, make sure it displays your headphone name correctly and shows strong signals. If your headphone is shown as something else, there’s something wrong with your mic settings, so you should re-connect your headset.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![mic not working wrong settings](https://images.drivereasy.com/wp-content/uploads/2020/12/no-connection.png)
 4. If the display name and signal is normal, right-click **Headset Microphone** and click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image.jpg)
 5. Click the **Levels** tab, then drag the volume slider towards the largest value (100).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/levels.jpg)
 6. Click **OK** to apply the changes, and then click **OK** on the last window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check if your HyperX Cloud Alpha is working now. If not, you can check your game settings to make sure that it is not conflicting with your HyperX mic.
 
@@ -138,8 +143,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +150,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-enhancing-twitters-visual-capacity-to-fhd-level-for-2024/"><u>[New] Enhancing Twitter's Visual Capacity to FHD Level for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-bridging-the-gap-in-vr-storytelling-and-innovation/"><u>[Updated] In 2024, Bridging the Gap in VR Storytelling and Innovation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unveiling-the-path-to-tiktok-on-your-macbook-for-2024/"><u>[Updated] Unveiling the Path to TikTok on Your MacBook for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-streamline-your-youtube-shorts-a-guide-to-effortless-thumbnail-integration/"><u>2024 Approved Streamline Your YouTube Shorts A Guide to Effortless Thumbnail Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-personalized-notification-tones-in-gmail-step-by-step/"><u>Creating Personalized Notification Tones in Gmail – Step by Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-a-malfunctioning-webex-mic-this-year/"><u>Essential Fixes for a Malfunctioning Webex Mic This Year</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-effortlessly-record-voices-using-windows-11-techniques-for-2024/"><u>How to Effortlessly Record Voices Using Windows 11 Techniques for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-redrazor-headset-mic-on-your-computer/"><u>How to Fix a Non-Functioning RedRazor Headset Mic on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-sounds-disappearing-or-stuttering-on-your-windows-11-pc-solutions-explored/"><u>How to Fix Sounds Disappearing or Stuttering on Your Windows 11 PC: Solutions Explored</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-mic-in-rec-room-for-windows-users-a-2024-tutorial/"><u>How to Repair a Malfunctioning Mic in Rec Room for Windows Users - A 2024 Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-perfect-sound-quality-in-cyberpunk-2077-clear-audio-solutions/"><u>How to Restore Perfect Sound Quality in Cyberpunk 2077 - Clear Audio Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ipad-troubleshooting-101-how-to-successfully-start-in-recovery-mode/"><u>IPad Troubleshooting 101: How to Successfully Start in Recovery Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-functionality-how-to-troubleshoot-a-non-responsive-logitech-g430-microphone/"><u>Restoring Functionality: How to Troubleshoot a Non-Responsive Logitech G430 Microphone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smiles-to-text-where-to-find-amusing-tones-for-2024/"><u>Smiles to Text Where to Find Amusing Tones for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-ioss-best-psp-gaming-tools/"><u>The Ultimate Guide to iOS's Best PSP Gaming Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-microphones-top-fixes-that-work/"><u>Troubleshooting Quiet Microphones: Top Fixes That Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-unresponsive-csgo-microphone-problems/"><u>Troubleshooting Steps for Unresponsive CS:GO Microphone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-2024-updates-in-rainbow-six-siege-voice-chat-issues/"><u>Troubleshooting Steps to Resolve 2024 Updates in Rainbow Six Siege Voice Chat Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-why-oneplus-9-fails-the-calculus-of-quality/"><u>Unveiling the Truth: Why OnePlus 9 Fails the Calculus of Quality</u></a></li>
+</ul></div>
 

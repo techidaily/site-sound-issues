@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Issues with Your Razer Blackshark V2 Gaming Headset Microphone"
-date: 2024-11-12T17:58:32.933Z
-updated: 2024-11-15T16:40:54.997Z
+date: 2024-11-21T00:22:15.406Z
+updated: 2024-11-24T17:59:44.561Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Before you start, make sure your headset is working properly.
 4. [**Update your Windows system**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
@@ -43,17 +47,14 @@ Before you start, make sure your headset is working properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
 If this trick doesn’t work for you, please move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your audio driver
 
@@ -82,6 +83,11 @@ If this fix doesn’t help, move to the next fix.
 1. Click the**Search** button on the bottom and type**device manager** . Then press the**Enter** key to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
 
@@ -89,49 +95,22 @@ If this fix doesn’t help, move to the next fix.
 4. Click**Let me pick from a list of available drivers on my computer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Check the sound on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your Windows system
@@ -143,13 +122,14 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After the whole process, restart your PC and check the effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
@@ -189,24 +169,20 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-secure-communication-made-easy-the-best-10-free-and-protected-video-conferencing-tools/"><u>[New] 2024 Approved Secure Communication Made Easy The Best 10 Free and Protected Video Conferencing Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-capture-gaming-sessions-in-hd-using-obs-for-2024/"><u>[New] Capture Gaming Sessions in HD - Using OBS for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-dynamic-imagery-illustrator-motion-blur-techniques/"><u>[New] Dynamic Imagery Illustrator Motion Blur Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-5-pro-drone-selections-for-professionals/"><u>[Updated] Top 5 Pro Drone Selections for Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-karma-drone-review/"><u>2024 Approved GoPro Karma Drone Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/advanced-techniques-to-fix-sound-latency-issues-as-of-2024/"><u>Advanced Techniques to Fix Sound Latency Issues as of 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-resolving-realtek-audio-control-panel-access-problems/"><u>Comprehensive Guide: Resolving Realtek Audio Control Panel Access Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/customizing-audio-preferences-a-users-guide-to-removing-sound-effects-from-windows-11-systems/"><u>Customizing Audio Preferences: A User's Guide to Removing Sound Effects From Windows 11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-counter-strike-2-players-dealing-with-mic-failures/"><u>DIY Solutions for Counter-Strike 2 Players Dealing With Mic Failures</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-6-best-iphone-virus-scanners-and-defenders-on-the-market/"><u>Expert Picks: 6 Best iPhone Virus Scanners and Defenders on the Market</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-correcting-sound-problems-in-your-windows-11-system/"><u>Expert Tips for Correcting Sound Problems in Your Windows 11 System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-mic-on-turtle-beach-audio-devices-easily/"><u>How to Fix a Non-Functional Mic on Turtle Beach Audio Devices Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nokia-130-music-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nokia 130 Music to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-functionality-of-your-unresponsive-blue-yeti-microphone/"><u>Quick Fixes To Restore Functionality Of Your Unresponsive Blue Yeti Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-for-restoring-sound-to-usb-headphones-in-windows-7-systems/"><u>Solution for Restoring Sound to USB Headphones in Windows 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-restore-sounds-on-a-realtek-audio-device-after-silence/"><u>Troubleshooting Guide: How to Restore Sounds on a Realtek Audio Device After Silence</u></a></li>
-<li><a href="https://win-premium.techidaily.com/zdnets-ultimate-guide-to-the-leading-surface-laptops-and-tablets-of-2023-expert-reviews-and-rankings/"><u>ZDNet's Ultimate Guide to the Leading Surface Laptops and Tablets of 2023: Expert Reviews & Rankings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-end-game-for-youtube-content-pros-secrets-and-templates-for-2024/"><u>[Updated] End Game for YouTube Content Pros' Secrets & Templates for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/exhaustive-fix-list-for-windows-7-microphone-not-working-issues/"><u>Exhaustive Fix List for Windows 7 Microphone Not Working Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-invisible-vibes-dimming-music-on-computers/"><u>In 2024, Invisible Vibes Dimming Music on Computers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>In 2024, Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-total-spend-on-a-single-youtubers-ads/"><u>In 2024, Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/outstanding-10-screenshot-and-recording-titles-for-gamers-for-2024/"><u>Outstanding 10 Screenshot and Recording Titles for Gamers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-when-minecraft-wont-start-up-correctly/"><u>Quick Solutions: When Minecraft Won't Start Up Correctly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-of-chatgpt-in-your-daily-routine-a-guide-for-android-and-iphone-devices/"><u>Seamless Integration of ChatGPT in Your Daily Routine – A Guide for Android and iPhone Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-logitech-g430-microphone-stops-working-a-comprehensive-guide/"><u>Solutions for When Your Logitech G430 Microphone Stops Working: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-correctly-resetting-and-repairing-video-driver-errors/"><u>Step-by-Step: Correctly Resetting and Repairing Video Driver Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-restoring-sounds-on-pc-defeating-facebooks-silent-videos/"><u>The Ultimate Guide to Restoring Sounds on PC: Defeating Facebook’s Silent Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-audio-loss-in-cyberpunk-2077-on-windows-11-systems/"><u>Troubleshooting Complete Audio Loss in Cyberpunk 2077 on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unplugged-nvidia-graphics-card-issues-expert-tips/"><u>Troubleshooting Unplugged Nvidia Graphics Card Issues – Expert Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fix-unseen-headphones-in-windows-10-device-list/"><u>Troubleshooting: Fix Unseen Headphones in Windows 10 Device List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-astro-a1ve-10-microphone-failure-expert-advice-and-tips/"><u>Ultimate Fix for Astro A1ve 10 Microphone Failure: Expert Advice and Tips</u></a></li>
 </ul></div>
 

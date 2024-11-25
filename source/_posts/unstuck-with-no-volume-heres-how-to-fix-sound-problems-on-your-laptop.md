@@ -1,7 +1,7 @@
 ---
 title: Unstuck with No Volume? Here's How to Fix Sound Problems on Your Laptop
-date: 2024-11-13T16:04:39.887Z
-updated: 2024-11-15T17:41:57.553Z
+date: 2024-11-17T19:14:39.805Z
+updated: 2024-11-24T19:22:21.255Z
 tags:
   - win11
   - win10
@@ -26,12 +26,20 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Razer Kraken Mic Not Working
 
  Here are two fixes for you to try. You may not have to try them all. Just work your way down the list until you find the one that works for you.
 
 1. [](https://tools.techidaily.com/drivereasy/download/) [**Check your microphone device settings**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
 
@@ -42,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
@@ -55,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
@@ -83,16 +81,13 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. But if not, you may need to…
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -108,16 +103,13 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Activate & Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)
 
@@ -140,22 +132,18 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hyper-resolution-hub-top-8k-cameras-decoded/"><u>[New] Hyper-Resolution Hub Top 8K Cameras Decoded</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-discover-the-best-3-platforms-for-video-consumption-post-youtube/"><u>[Updated] Discover the Best 3 Platforms for Video Consumption (Post-YouTube)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-syncing-b-roll-sequences-with-main-scenes-effortlessly/"><u>[Updated] In 2024, Syncing B Roll Sequences with Main Scenes Effortlessly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pros-choice-the-ultimate-list-of-7-live-streaming-apps-for-youtube-iosandroid/"><u>[Updated] Pro's Choice The Ultimate List of 7 Live Streaming Apps for YouTube (iOS/Android)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-key-elements-in-asmr-video-content/"><u>2024 Approved Key Elements in ASMR Video Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-squad-mic-issues-in-no-time-a-comprehensive-guide/"><u>Fix Your Squad Mic Issues in No Time: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-internal-speakers-glitches-for-a-better-gaming-experience-resident-evil-village-edition/"><u>Fixing Internal Speakers Glitches for a Better Gaming Experience - Resident Evil Village Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-sound-on-your-windows-11-device/"><u>Fixing the Issue: How to Restore Sound on Your Windows 11 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-windows-groovy-my-friend-here-are-five-new-best-seo-titles-similar-in-meaning-to-fixed-windows-11-bluetooth-not-working-issue/"><u>How to Get Windows Groovy, My Friend! Here Are Five New Best SEO Titles Similar in Meaning to [FIXED] Windows 11 Bluetooth Not Working Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-steelseries-arctis-pro-headset-mic-back-on-track-issue-solved/"><u>How to Get Your SteelSeries Arctis Pro Headset Mic Back on Track [ISSUE SOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-overcome-audio-issues-playing-games-and-using-discord-simultaneously/"><u>How to Overcome Audio Issues: Playing Games and Using Discord Simultaneously</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microphone-problems-with-the-corsair-hs-series-for-windows-users/"><u>How to Resolve Microphone Problems with the Corsair HS Series for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-chrome-browser-issue-resolved/"><u>How to Restore Audio on Your Chrome Browser (Issue Resolved)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/e-imagination-top-inspiration-driven-youtube-content-for-2024/"><u>Ignite Imagination Top Inspiration-Driven YouTube Content for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/interior-illumination-through-natural-sun-exposure-for-2024/"><u>Interior Illumination Through Natural Sun Exposure for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mov-video-trimming-made-easy-top-6-free-tools/"><u>MOV Video Trimming Made Easy Top 6 Free Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/transform-your-videos-top-free-and-paid-android-video-editing-apps-for-2024/"><u>Transform Your Videos Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieve-video-perfection-youtube-studio-edition-tips-and-tricks/"><u>[New] In 2024, Achieve Video Perfection YouTube Studio Edition Tips & Tricks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-all-in-one-screen-capture-az-insights-and-alternatives/"><u>[Updated] In 2024, All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ultimate-compilation-of-audio-enhancing-software-for-virtual-performers/"><u>2024 Approved Ultimate Compilation of Audio-Enhancing Software for Virtual Performers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-audience-analysis-the-art-of-finding-your-market/"><u>2024 Approved Youtube Audience Analysis The Art of Finding Your Market</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211013581-9781644119181-astrology-of-the-shadow-self/"><u>Astrology of the Shadow Self | Free Book</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/automated-consent-management-how-cookiebot-streamlines-compliance/"><u>Automated Consent Management: How Cookiebot Streamlines Compliance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/comparing-magix-graphics-software-variants/"><u>Comparing MAGIX Graphics Software Variants</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-common-issues-with-the-logitech-g733-mic/"><u>Diagnosing and Repairing Common Issues with the Logitech G733 Mic</u></a></li>
+<li><a href="https://fox-links.techidaily.com/easy-technique-change-fins-sounds-on-pc-systems/"><u>Easy Technique Change Fins' Sounds on PC Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mac-volume-issues-a-complete-guide/"><u>Fixing Mac Volume Issues: A Complete Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-increase-followers-on-instagram-ultimate-guide/"><u>In 2024, How to Increase Followers on Instagram - Ultimate Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-restoring-audio-on-your-astro-a50-speaker/"><u>Quick Solutions: Restoring Audio on Your Astro A50 Speaker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-astro-a50-microphone-compatibility-issues-for-perfect-sound-quality/"><u>Solve Astro A50 Microphone Compatibility Issues for Perfect Sound Quality</u></a></li>
 </ul></div>
 

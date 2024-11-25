@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Silent Playthrough Solved: Sound Issues Addressed"
-date: 2024-11-11T18:03:52.663Z
-updated: 2024-11-15T17:14:10.040Z
+date: 2024-11-23T21:41:54.765Z
+updated: 2024-11-25T00:44:55.712Z
 tags:
   - win11
   - win10
@@ -35,9 +35,17 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 4. **[Restart Windows Audio Services](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Apex Legends](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in the background may conflict with Apex Legends, causing audio issues. In this case, try rebooting your computer to turn off unwanted programs completely. After your computer restarts, relaunch your game to check if you get the sound back. If not, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the Windows audio troubleshooter
 
@@ -57,13 +65,6 @@ No sound while playing Apex Legends**on your PC** ? You’re not alone! Many pla
 **3)** Follow the on-screen instructions to troubleshoot your problem.
 
 If Windows fails to detect your issue, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -107,6 +108,10 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows Audio Services
 
  Some audio issues can also be addressed by restarting Windows Audio Services. To see if that works for you, follow the instructions below:
@@ -115,27 +120,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-324.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**Windows Audio** , then select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
  This should allow you to hear Apex Legends and everything else. If your issue still exists, don’t fret. There is still one more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Apex Legends
 
@@ -146,13 +145,6 @@ OR
 **2)** Click**My Game Library** , right-click**Apex Legends** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-327.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** After your game is uninstalled, restart your computer.
 
@@ -182,21 +174,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-layout-layers-a-guide-to-organizing-online-videos/"><u>[Updated] 2024 Approved Layout Layers A Guide to Organizing Online Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-harmonious-hush-for-restfulness-top-asmr-picks/"><u>[Updated] In 2024, Harmonious Hush for Restfulness Top ASMR Picks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-google-pixel-7a-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Google Pixel 7a</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/cookiebot-driven-personalization-transforming-engagement-through-smart-automation/"><u>Cookiebot-Driven Personalization: Transforming Engagement Through Smart Automation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210772216-9798987313022-elevate/"><u>Elevate | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-camera-and-mic-issues-a-step-by-step-guide/"><u>Fixing Logitech Camera & Mic Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-realtek-audio-up-and-running-fixes-for-when-it-wont-beep-or-show-up/"><u>Get Your Realtek Audio Up and Running: Fixes for When It Won't Beep or Show Up</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-muting-mystery-get-it-working-in-windows-10-and-beyond/"><u>HP Laptop Muting Mystery? Get It Working in Windows 10 and Beyond!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-zoom-has-no-sound-problems-on-pc-devices-effective-fixes/"><u>Resolving 'Zoom Has No Sound' Problems on PC Devices - Effective Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-soundscape-effortless-solutions-to-fixed-pc-audio-glitches/"><u>Revive the Soundscape: Effortless Solutions to Fixed PC Audio Glitches!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-non-working-beyond-the-wire-headset-mic/"><u>Ultimate Fix for Non-Working Beyond The Wire Headset Mic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-selection-top-video-editors-for-webcams/"><u>Ultimate Selection Top Video Editors for Webcams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-update-causes-audio-issues-heres-an-easy-solution/"><u>Windows 11 Update Causes Audio Issues? Here's an Easy Solution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-secrets-to-save-your-favorite-igtv-on-phoneandroid/"><u>[New] In 2024, Secrets to Save Your Favorite IGTV on Phone/Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-vocal-modification-devices-for-digital-creators/"><u>[New] Top Vocal Modification Devices for Digital Creators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-the-power-of-authenticity-in-testimonial-videography/"><u>[Updated] 2024 Approved Unlocking the Power of Authenticity in Testimonial Videography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>2024 Approved Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-g54-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015570878-astro-a50-speaker-mic-not-working-heres-how-to-fix-it/"><u>Astro A50 Speaker-Mic Not Working? Here's How to Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-connectivity-problems-with-the-sennheiser-game-one-mic/"><u>Diagnosing and Resolving Connectivity Problems with the Sennheiser Game One Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-guidance-on-restoring-functionality-to-the-lucidsound-ls30-microphone/"><u>Expert Guidance on Restoring Functionality to the LucidSound LS30 Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-idt-hd-audio-codec-installation-on-windows-11-platforms/"><u>Fixing IDT HD Audio Codec Installation on Windows 11 Platforms</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guide-simple-pivoter-en-douceur-des-videos-mp4-a-90180270-tout-en-preservant-la-nettete-et-les-couleurs/"><u>Guide Simple : Pivoter en Douceur Des Vidéos MP4 À 90/180/270° Tout en Préservant La Netteté Et Les Couleurs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hourly-video-footage-gb-needed-per-day/"><u>Hourly Video Footage GB Needed Per Day</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-on-windows-11-devices/"><u>How to Restore Microphone Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-tell-if-your-ipad-is-stuck-in-yesteryears-technology/"><u>How to Tell if Your iPad Is Stuck in Yesteryear's Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016898666-logitech-g633-not-working-expert-advice-and-fixes-inside/"><u>Logitech G633 Not Working? Expert Advice and Fixes Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/snapchat-support-guide-easy-steps-to-reach-out-for-help/"><u>Snapchat Support Guide: Easy Steps to Reach Out for Help</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016668375-solve-your-hp-laptops-speakers-problem-on-windows-10-quickly/"><u>Solve Your HP Laptop's Speakers Problem on Windows 10 Quickly!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-conexant-smartaudio-hd-lack-of-audio-in-windows-10/"><u>Solving the Conexant SmartAudio HD Lack of Audio in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-10-sound-issues-restoring-headphone-functionality/"><u>Solving Windows 10 Sound Issues: Restoring Headphone Functionality</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/transforming-servers-top-30-bots-for-dynamic-interaction/"><u>Transforming Servers Top 30 Bots for Dynamic Interaction</u></a></li>
 </ul></div>
 

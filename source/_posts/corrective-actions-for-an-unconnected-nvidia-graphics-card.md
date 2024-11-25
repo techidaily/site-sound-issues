@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions for an Unconnected Nvidia Graphics Card
-date: 2024-11-14T17:30:22.931Z
-updated: 2024-11-15T18:00:42.065Z
+date: 2024-11-21T21:46:21.948Z
+updated: 2024-11-24T16:37:16.861Z
 tags:
   - win11
   - win10
@@ -22,12 +22,20 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Check NVIDIA Output Port Settings](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update NVIDIA Graphics Driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Rollback your driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Use the generic high definition audio device driver](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check NVIDIA Output settings
 
@@ -47,10 +55,7 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 [How to Fix HDMI No Sound after Connecting Computer to Monitor and TV.](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update NVIDIA graphics driver
@@ -67,22 +72,12 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-downloads.jpg)
 2. Click the**DOWNLOAD** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Double click the downloaded file and follow the onscreen instructions to extract it to your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/extract.jpg)
 4. After performing the system check, select only**NVIDIA Graphics Driver** . Then click**AGREE AND CONTINUE** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/select.jpg)
@@ -90,13 +85,6 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/installation-options.jpg)
 6. Be sure to tick the box next to**Perform a clean installation** , then click**NEXT** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (You can uncheck the software you don’t need.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-install.jpg)
@@ -119,16 +107,13 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-5.png)
 3. Click the**Update** button next to your sound card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-all-your-drivers-3.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Go to Playback devices and see if the issue has been solved. Your audio output devices should be “ready” instead of “not plugged in” now.
 
@@ -157,17 +142,14 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update-driver.png)
 4. Click**Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Let me pick from a list of available driver on my computer** .
 6. Select**High Definition Audio Device** . Then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/update.png)
 7. Click**No** if you’re prompted for a restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Go back to Device Manager and click Action, then select**Scan for hardware changes** .
 9. Check if the issue still persists.
@@ -191,16 +173,20 @@ Your NVIDIA outputs are grayed out and listed as**Not plugged in** ? Fail to ena
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-secrets-for-obtaining-copyright-free-imagery/"><u>[Updated] In 2024, Secrets for Obtaining Copyright-Free Imagery</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014523205-fix-fortnite-voice-communication-issues-fast-expert-solutions/"><u>Fix Fortnite Voice Communication Issues Fast - Expert Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guia-paso-a-paso-para-disenar-tus-videos-personales-con-herramientas-de-edicion-gratuitas/"><u>Guía Paso a Paso Para Diseñar Tus Videos Personales Con Herramientas De Edición Gratuitas</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-professional-360-cam-gear/"><u>In 2024, Best Professional 360° Cam Gear</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-discover-the-richest-array-of-digital-treasures-the-best-12-stock-photo-sources/"><u>In 2024, Discover the Richest Array of Digital Treasures - The Best 12 Stock Photo Sources</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-step-by-step-tutorial-broadcasting-360-video-on-youtube-live/"><u>In 2024, Step-by-Step Tutorial Broadcasting 360 Video on YouTube Live</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-drivers-for-ricoh-color-mp-c4503-quick-and-trusted-download-options/"><u>Latest Drivers for Ricoh Color MP C4503 - Quick and Trusted Download Options</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015877178-overcoming-sound-challenges-expert-advice-to-get-your-logitee-g733-mic-working-again/"><u>Overcoming Sound Challenges: Expert Advice to Get Your Logitee G733 Mic Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-remedies-for-when-your-dns-server-isnt-answering-back/"><u>Quick Remedies for When Your DNS Server Isn't Answering Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-your-non-functional-bose-speakers/"><u>Troubleshooting Steps: Resolving Issues with Your Non-Functional Bose Speakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/webex-microphone-troubleshooting-fixes-you-need-to-know-for-202n4/"><u>Webex Microphone Troubleshooting: Fixes You Need to Know for 202N4!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ffortless-shuffle-of-your-youtube-playlists-for-2024/"><u>[New] Effortless Shuffle of Your YouTube Playlists for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ssential-strategies-for-profitable-youtube-videos/"><u>[New] Essential Strategies for Profitable YouTube Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-updated-guide-leading-camcorders-for-ocean-exploration/"><u>[New] In 2024, Updated Guide Leading Camcorders for Ocean Exploration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-srt-to-sub-masterful-conversion-methods-explored/"><u>[Updated] 2024 Approved From SRT to SUB Masterful Conversion Methods Explored</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-step-by-step-into-youtube-creation-crafting-your-top-10-simple-projects/"><u>[Updated] In 2024, Step-by-Step Into YouTube Creation Crafting Your Top 10 Simple Projects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-14-visual-effects-with-text-animations/"><u>2024 Approved Ideal 14 Visual Effects with Text Animations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-trouble-shooting-restore-sound-to-your-dell-device-now/"><u>DIY Trouble Shooting: Restore Sound to Your Dell Device Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015305349-hyperx-cloud-stinger-microphone-not-working-heres-how-to-fix-it/"><u>HyperX Cloud Stinger Microphone Not Working? Here's How to Fix It!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-90-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor 90 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-for-windows-11-audio-malfunctions-follow-this-easy-5-step-process/"><u>Quick Fix for Windows 11 Audio Malfunctions: Follow This Easy 5-Step Process</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-steelseries-arctis-pro-headset-microphone-stops-working/"><u>Quick Fixes for When Your SteelSeries Arctis Pro Headset Microphone Stops Working</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-network-shift-unveiling-facebooks-metamorphosis/"><u>Social Network Shift: Unveiling Facebook’s Metamorphosis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-resolving-your-rust-microphone-issues/"><u>Ultimate Troubleshooting Guide: Resolving Your Rust Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-sound-blaster-microphone-working-common-problems-and-solutions/"><u>Why Isn't My Sound Blaster Microphone Working? - Common Problems and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-update-fixing-the-issue-of-wudfhostexe-draining-your-processors-capacity/"><u>Windows 11 Update: Fixing the Issue of wudfhost.exe Draining Your Processor's Capacity</u></a></li>
 </ul></div>
 

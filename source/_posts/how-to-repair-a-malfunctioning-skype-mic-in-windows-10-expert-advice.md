@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Skype Mic in Windows 10 - Expert Advice
-date: 2024-11-09T17:45:49.686Z
-updated: 2024-11-15T17:51:07.537Z
+date: 2024-11-23T20:54:32.392Z
+updated: 2024-11-24T19:54:25.636Z
 tags:
   - win11
   - win10
@@ -34,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
@@ -53,20 +50,11 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-###
-
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###
 
 ### Fix 2: Adjust the audio settings on Skype
 
@@ -90,15 +78,16 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -109,10 +98,7 @@ Follow these:
 4. Log in Skype and check to see if your Microphone works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
@@ -132,22 +118,21 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-journey-ahead-an-in-depth-look-at-panasonics-hx-a1-wearable-camera-for-2024/"><u>[New] Journey Ahead - An In-Depth Look at Panasonic’s HX-A1 Wearable Camera for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-your-youtube-potential-with-content-partnerships/"><u>[New] Maximizing Your YouTube Potential with Content Partnerships</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-individual-humor-masterpieces-online-for-2024/"><u>Craft Individual Humor Masterpieces Online for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/domescope-discussion-piece/"><u>DomeScope Discussion Piece</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-the-latest-samsung-c460-phone-drivers/"><u>Easy Access to the Latest Samsung C460 Phone Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016304197-getting-your-logitech-g-pro-x-microphone-to-work-perfectly-again/"><u>Getting Your Logitech G Pro X Microphone to Work Perfectly Again!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-play-anthem-track-in-windows-10-when-no-sound-is-detected/"><u>How to Play Anthem Track in Windows 10 When No Sound Is Detected</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-a78-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo A78 for Free? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-hd-webcam-c270-driver-download-for-windows-1111/"><u>Logitech HD Webcam C270 Driver Download for Windows 11/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-sound-skipping-and-failing-in-windows-11-a-step-by-step-guide/"><u>Solving the Issue of Sound Skipping and Failing in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/step-by-step-secure-your-data-with-a-no-cost-total-backup-for-windows-11-systems/"><u>Step-by-Step: Secure Your Data with a No-Cost, Total Backup for Windows 11 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-no-sound-on-hp-laptops-a-step-by-step-guide/"><u>Troubleshooting and Repairing No Sound on HP Laptops – A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-razer-blackshark-v2-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Razer Blackshark V2 Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-hyperx-cloud-gaming-headset-microphone-issues/"><u>Troubleshooting: Fixing HyperX Cloud Gaming Headset Microphone Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015865731-ultimate-fix-resolve-the-steelseries-arctis-headset-mic-not-working-issue-today/"><u>Ultimate Fix: Resolve the SteelSeries Arctis Headset Mic Not Working Issue Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-windows-10s-muffled-sounds-steps-to-maximize-volume/"><u>Ultimate Fixes for Windows 10'S Muffled Sounds: Steps to Maximize Volume</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-starting-strong-with-the-best-studio-tech-for-novices/"><u>[New] In 2024, Starting Strong with the Best Studio Tech for Novices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-crafting-engaging-valorant-thumbnails/"><u>[New] Step-by-Step Guide to Crafting Engaging Valorant Thumbnails</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-the-power-of-partnerships-youtube-ads-with-a-famebit-edge-for-2024/"><u>[New] Unlock the Power of Partnerships YouTube Ads with a FameBit Edge for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-snicker-surgeons-top-7-sketches-for-youtube-laughter-aficionados/"><u>[Updated] Snicker Surgeons Top 7 Sketches for YouTube Laughter Aficionados</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1-restoring-your-lost-obs-footage-a-step-by-step-guide/"><u>1. Restoring Your Lost OBS Footage: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-recovery-tips-for-your-computer-connected-via-hdmi-to-a-monitor-or-television-without-sound-output/"><u>Audio Recovery Tips for Your Computer Connected Via HDMI to a Monitor or Television Without Sound Output</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-sound-issues-try-these-fixes/"><u>Battlefield 4 Sound Issues? Try These Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015827095-conexant-hd-audio-not-working-in-windows-11-heres-how-to-restore-sound/"><u>Conexant HD Audio Not Working in Windows 11? Here's How to Restore Sound!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-tecno-phantom-v-fold-device-sim-by-drfone-android/"><u>Easily Unlock Your Tecno Phantom V Fold Device SIM</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-strategies-to-get-your-webex-microphone-functioning/"><u>Effective Strategies to Get Your Webex Microphone Functioning</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-website-security-a-step-by-step-solution-to-the-neterrcertweaksignaturealgorithm-problem/"><u>Enhancing Website Security: A Step-by-Step Solution to the NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-tozo-t6-malfunctions-a-users-handbook-for-windows-11-compatibility/"><u>Fixing Tozo T6 Malfunctions - A User's Handbook for Windows 11 Compatibility</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-functionality-for-your-malfunctioning-corsair-hs60-headset-microphone/"><u>Guide to Restoring Functionality for Your Malfunctioning Corsair HS60 Headset Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016023711-hyperx-cloud-mic-not-working-heres-how-to-solve-it/"><u>HyperX Cloud Mic Not Working? Here's How to Solve It!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-rated-animation-makers-for-all-users/"><u>The Best of the Best Top-Rated Animation Makers for All Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-at-toms-digital-domain/"><u>Unveiling Gadgets and Gizmos at Tom's Digital Domain</u></a></li>
 </ul></div>
 

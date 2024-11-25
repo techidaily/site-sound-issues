@@ -1,7 +1,7 @@
 ---
 title: "Reviving Lost Sounds on Mac: A Comprehensive Guide for Users"
-date: 2024-11-11T17:42:45.987Z
-updated: 2024-11-15T18:02:31.486Z
+date: 2024-11-18T22:40:01.857Z
+updated: 2024-11-25T01:33:20.036Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ Having no sound coming out from your Logitech G435 gaming headset all of a sudde
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Switch between Bluetooth and Lightspeed mode
 
  By switching between the Bluetooth connection mode and the Lightspeed mode, you can reset both connections and see if doing so will fix the G435 headset no sound issue.
@@ -73,24 +66,22 @@ To do so:
 3. Switch to Bluetooth, the LED will light blue for five seconds.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://cx-assets.logi.com/CC%20Graphics/G435%20Headset/Switch4_3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if G435 works fine under both modes. If the headset has no sound in either mode, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove and pair the G435 headset via Bluetooth again
 
@@ -103,17 +94,19 @@ To do so:
 1. On your keyboard, press the**Windows** key and the**I** key at the same time to open**Settings** . Select**Bluetooth & devices** \>**Devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-13.png)
 2. Click the**three-dot** button for your Logitech G435 headset, and select**Remove device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-14.png)
 3. Click**Add device** \>**Bluetooth** , and wait for your computer to find your G435 headset again.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-15.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-15.png)
 
  If your G435 headset still doesn’t have sound after this change, please try the next fix below.
 
@@ -128,6 +121,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
@@ -137,19 +134,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Select G435 as the sound device in Windows Settings
 
  You can also make sure that the Logitech G435 headset is selected as the output device in the sound setting panel. To do so:
@@ -158,16 +142,13 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-16.png)
 2. Under the Output panel, select your Logitech G435 headset, and set it as the default output device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then see if there’s sound coming out from your G435\. If the headset still doesn’t have any sound, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update the Bluetooth and sound card drivers
 
@@ -202,12 +183,20 @@ To do so:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-17.png)
 3. Select**Power Management** , then untick the box for**Allow the computer to turn off this device to save power** . Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/03/image-18.png)
 4. Restart your computer for the change to take effect.
 
  Then try your Logitech G435 headset again to see if it works fine now. If not, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Update the firmware
 
@@ -218,19 +207,6 @@ To do so:
  If there’s no new firmware available for your headset, please move on to the final fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Repair system files
 
@@ -244,13 +220,6 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -279,18 +248,18 @@ To use Fortect to fix the G435 gaming headset no sound issue for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-guide-to-video-editing-leveraging-power-of-movies-maker-on-windows-8/"><u>[New] Expert Guide to Video Editing Leveraging Power of Movies Maker on Windows 8</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-swift-closure-of-a-linkedin-account-the-how-to-guide/"><u>[New] In 2024, Swift Closure of a LinkedIn Account The How-To Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-compreeved-insight-androids-version-of-photoshop-lightroom/"><u>2024 Approved Compreeved Insight Android's Version of Photoshop - Lightroom</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-discovering-the-virtues-of-360-degree-video/"><u>2024 Approved Discovering the Virtues of 360-Degree Video</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-for-dealing-with-a-faulty-mic-in-your-steelseries-arctis-headset-model-identifier/"><u>Comprehensive Solutions for Dealing with a Faulty Mic in Your SteelSeries Arctis Headset ([Model Identifier])</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-tips-for-diagnosing-and-repairing-lack-of-audio-on-toshiba-portables/"><u>Comprehensive Tips for Diagnosing and Repairing Lack of Audio on Toshiba Portables</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvdh265mp4avi/"><u>DVDディスクをH.265/MP4/AVIなど多種類に動画化する究極の方法</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-battlefield-4-silent-mode-a-comprehensive-audio-troubleshooting-guide/"><u>Fixing Battlefield 4 Silent Mode: A Comprehensive Audio Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/from-traditional-to-ergo-friendly-one-week-on-a-split-keyboard-changed-it-all-gadgetflow/"><u>From Traditional to Ergo-Friendly: One Week on a Split Keyboard Changed It All | GadgetFlow</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/imovie-blueprint-the-pathway-to-crafting-impressive-square-videos/"><u>IMovie Blueprint The Pathway to Crafting Impressive Square Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-dolby-advanced-audio-unable-to-start-the-dolby-audio-driver-in-windows-11/"><u>Solved Dolby Advanced Audio: Unable to Start the Dolby Audio Driver in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-unplugging-false-alarms-for-headphones-and-speakers-in-windows-os/"><u>Troubleshooting Audio Issues: Unplugging False Alarms for Headphones and Speakers in Windows OS</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-here-are-10-best-webm-to-mp4-converters-on-the-market-that-you-can-use-to-convert-video-from-webm-to-mp4-format-for-2024/"><u>Updated Here Are 10 Best WebM to MP4 Converters on the Market that You Can Use to Convert Video From WebM to MP4 Format for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-expertise-unlocked-converting-text-formats-to-voice-ready-srt/"><u>[New] In 2024, Expertise Unlocked Converting Text Formats to Voice-Ready SRT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-spectacle-snatcher-hub/"><u>[Updated] Social Spectacle Snatcher Hub</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-htc-u23-pro-frp-by-drfone-android/"><u>How Can We Bypass HTC U23 Pro FRP?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-stuttering-audio-on-your-pc-with-windows-1011-ultimate-guide/"><u>How to Fix Stuttering Audio on Your PC with Windows 10/11 – Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-essential-framework-for-targeted-ad-messaging-on-fb/"><u>In 2024, Essential Framework for Targeted Ad Messaging on FB</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-sony-xperia-10-v-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Sony Xperia 10 V Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/invest-in-ai-excellence-heres-why-you-upgrade-to-chatgptplus/"><u>Invest in AI Excellence – Here's Why You Upgrade to ChatGPT+</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-the-cyber-soundscape-solving-mute-problems-in-cyberpunk-2077-for-windows-11-users/"><u>Restoring the Cyber Soundscape: Solving Mute Problems in Cyberpunk 2077 for Windows 11 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-pro-microphone-issues-expert-advice-for-fixes/"><u>Solved! SteelSeries Arctis Pro Microphone Issues – Expert Advice for Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-no-sound-problem-in-windows-media-player-expert-solutions-revealed/"><u>Troubleshoot No Sound Problem in Windows Media Player – Expert Solutions Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-repair-guide-when-your-btws-mic-fails-to-function/"><u>Ultimate Repair Guide: When Your BTWS Mic Fails to Function</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-cod-vanguards-voice-chat-working-expert-fixes-and-tips/"><u>Why Isn't COD: Vanguard's Voice Chat Working? Expert Fixes & Tips</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1728470997932-windows-11/"><u>Windows 11设备加密开关指南 - 激活/禁用方法</u></a></li>
 </ul></div>
 

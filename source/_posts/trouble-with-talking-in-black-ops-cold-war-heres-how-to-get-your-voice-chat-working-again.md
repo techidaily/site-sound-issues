@@ -1,7 +1,7 @@
 ---
 title: "Trouble with Talking in Black Ops: Cold War? Here's How to Get Your Voice Chat Working Again!"
-date: 2024-11-10T17:27:27.386Z
-updated: 2024-11-15T17:03:41.410Z
+date: 2024-11-17T18:51:02.246Z
+updated: 2024-11-25T01:41:51.298Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ If that didn’t work, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Use Legacy Audio Subsystem
 
  There are instances where there’s an incompatibility between your hardware and Discord’s latest subsystem. Therefore, it’s recommended to revert to Legacy Audio Subsystem to fix the issue. To do this, follow these steps:
@@ -61,6 +54,10 @@ If that didn’t work, proceed to the next fix.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-AUDIO-SUBSYSTEM-Legacy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When a prompt message appears, click**Okay** . Then your Discord app will be relaunched.
 
 ![confirm to change audio subsystem Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm-to-change-audio-subsystem.jpg)
@@ -68,6 +65,10 @@ If that didn’t work, proceed to the next fix.
 Once Discord reboots, check to see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your audio driver
 
@@ -101,6 +102,10 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Set the audio device as the default
 
  The easy steps you can take in fixing your audio output issue is by making sure your audio device is set to your primary output device. Most of the time, your audio device is already set as the default device. However, things may not work as expected. It can be an issue of your constantly changing between headphones and speakers. To make sure your audio device is correctly set, take these steps:
@@ -110,10 +115,7 @@ Here’s how to update drivers with Driver Easy:
 ![open sound setitngs](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Output** and**Input** section, make sure your audio device is set correctly.  
@@ -127,10 +129,7 @@ Here’s how to update drivers with Driver Easy:
 ![set audio device as default Discord can't hear anyone](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Sounds.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the**Playback** tab. Click on your audio device. Then in the lower right, click on the drop-down menu next to the**Set Default** option and select**Default Communication Device** .
@@ -138,6 +137,10 @@ Here’s how to update drivers with Driver Easy:
  3) Click**Apply > OK** to apply the changes. Then open the Discord app to check if you can hear your people now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Use the correct output device
 
@@ -151,13 +154,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![use the correct output device Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/use-the-correct-output-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Exit the Settings and you should be able to hear something from Discord.
 
 ---
@@ -169,19 +165,6 @@ Here’s how to update drivers with Driver Easy:
  2) Type**taskmgr** and press**Enter** .
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Under the**Processes** tab, navigate to your game. Right-click it and select**Go to details** . Then you’ll be directed to the**Details** tab and your game will be highlighted. Till then, right-click it and select**Set priority > Normal/ Realtime** .
 
@@ -202,19 +185,19 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quick-reference-how-to-insert-vimeo-media-into-powerpoint-files/"><u>[New] 2024 Approved Quick Reference How to Insert Vimeo Media Into PowerPoint Files</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-joyful-journeys-in-cinema-summers-top-10-for-families/"><u>[New] In 2024, Joyful Journeys in Cinema Summer's Top 10 for Families</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-viral-visions-top-ig-story-filters/"><u>[Updated] In 2024, Viral Visions Top IG Story Filters</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-joyful-journey-of-sharing-smiles-through-gifs-in-snapchat/"><u>2024 Approved The Joyful Journey of Sharing Smiles Through Gifs in Snapchat</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015879622-end-headphone-static-fast-easy-remedies-awaiting-you/"><u>End Headphone Static Fast! Easy Remedies Awaiting You.</u></a></li>
-<li><a href="https://techidaily.com/fix-taskbar-not-working-issue-in-windows-10-step-by-step/"><u>Fix Taskbar Not Working Issue in Windows 10 (Step by Step)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-huawei-nova-y91-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Huawei Nova Y91 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/instant-remedies-to-restore-iphones-predictive-emoji-feature/"><u>Instant Remedies to Restore iPhone's Predictive Emoji Feature</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-retrieving-files-from-a-toshiba-laptops-hard-drive/"><u>Step-by-Step Guide: Retrieving Files From a Toshiba Laptop's Hard Drive</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-windows-11-sound-problems-in-just-5-simple-steps/"><u>Ultimate Guide: Solving Windows 11 Sound Problems in Just 5 Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015172758-unstuck-with-your-logitech-g533-mic-heres-how-to-fix-it/"><u>Unstuck with Your Logitech G533 Mic? Here's How to Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/win-107-speaker-quality-improvement-guide-issues-resolved/"><u>Win 10/7 Speaker Quality Improvement Guide [ISSUES RESOLVED]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-sound-problems-resolved-a-step-by-step-guide-to-getting-your-volume-working-again/"><u>Windows 11 Sound Problems Resolved: A Step-by-Step Guide to Getting Your Volume Working Again</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-reinstate-disappearing-watch-thumbnail-for-2024/"><u>[New] Reinstate Disappearing Watch Thumbnail for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-best-premiere-plans-free-for-pros/"><u>[New] Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-effortless-multimedia-management-streampro-for-2024/"><u>[Updated] Effortless Multimedia Management StreamPro for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-11-easy-to-use-kids-videography-gear-for-splashy-scenes/"><u>[Updated] In 2024, Top 11 Easy-to-Use Kids' Videography Gear For Splashy Scenes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-text-insertion-in-digital-pictures/"><u>2024 Approved Mastering the Art of Text Insertion in Digital Pictures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3-wmv-movavi/"><u>在線 MP3 改成 WMV - 使用 Movavi 電子郵件免費提高效率</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-poco-m6-pro-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Poco M6 Pro 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-solutions-for-when-your-computer-cant-find-d3dx925dll/"><u>Complete Solutions for When Your Computer Can't Find D3dx9_25.dll</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-the-logitech-g935-microphone-malfunction-on-microsoft-windows/"><u>Effective Fixes for the Logitech G935 Microphone Malfunction on Microsoft Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-to-restore-sound-in-windows-11-computers/"><u>Effective Fixes to Restore Sound in Windows 11 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-fixing-speaker-and-headphone-connectivity-issues-in-windows-os/"><u>Effective Solutions for Fixing Speaker and Headphone Connectivity Issues in Windows OS</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-mid-air-marvels-with-the-blade-blh4100-the-premier-120cc-fuel-powered-rc-helicopter-for-outdoor-adventures/"><u>Mastering Mid-Air Marvels with the Blade BLH4100: The Premier 120Cc Fuel-Powered R/C Helicopter for Outdoor Adventures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-call-of-duty-warzone-voice-issues-on-pc-and-consoles/"><u>Solving Your Call of Duty: Warzone Voice Issues on PC and Consoles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-chat-issue-resolved-restoring-your-games-voice-features/"><u>World of Warcraft Chat Issue Resolved: Restoring Your Game’s Voice Features</u></a></li>
 </ul></div>
 

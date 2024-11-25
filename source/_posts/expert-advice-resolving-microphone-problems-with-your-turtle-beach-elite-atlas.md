@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Resolving Microphone Problems with Your Turtle Beach Elite Atlas"
-date: 2024-11-14T16:04:37.266Z
-updated: 2024-11-15T16:11:34.151Z
+date: 2024-11-18T17:37:51.558Z
+updated: 2024-11-25T03:10:24.042Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -44,6 +48,10 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-06-12.png)
 2. In the input section,**set the microphone you’re using as the input device** . You can also turn the volume up to make sure the microphone can catch your voice clearly.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-05-53.png)
 
  If you experience the microphone issue only while using a certain app, for example, Zoom or Discord, you can adjust the settings in-app. Similar to the steps above, you need to find the audio setting, choose the right input device, and adjust the input volume if needed.
@@ -58,22 +66,12 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-20.png)
 2. **Turn on the Microphone access and Let apps access your microphone** options. You can scroll down and manage the microphone access to a specific app.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-08-01.png)
 
  After allowing apps to use your microphone, you can restart the problem app and test if the issue is solved now. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Enable the microphone for recording
@@ -88,14 +86,11 @@ We’ve seen users reporting the microphone not working after they updated to Wi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2022-03-30_12-14-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this fix doesn’t solve your problem, try the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update the audio drivers
 
@@ -121,16 +116,7 @@ If this fix doesn’t solve your problem, try the next one.
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip: Repair corrupted system files
@@ -145,20 +131,10 @@ If this fix doesn’t solve your problem, try the next one.
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the microphone or other sound issues, you can click **START REPAIR** to fix them.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -184,22 +160,24 @@ If this fix doesn’t solve your problem, try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform/"><u>[New] 2024 Approved An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-picking-between-filmora-and-democracy-creator-for-edits/"><u>[New] 2024 Approved Picking Between Filmora and Democracy Creator for Edits</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-inside-kinemaster-the-ultimate-guide-to-its-android-avatar/"><u>[New] Inside KineMaster The Ultimate Guide to Its Android Avatar</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-self-portraits-top-techniques-for-youtube-presentations/"><u>[Updated] Mastering Self-Portraits Top Techniques for YouTube Presentations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-vs-video-edition-which-editor-wins-for-filmmaking/"><u>2024 Approved Vs. Video Edition Which Editor Wins for Filmmaking?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-resolving-the-no-sound-error-in-windows-media-player-practical-solutions/"><u>Expert Advice for Resolving the No-Sound Error in Windows Media Player - Practical Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-restoring-microphone-capability-during-skype-calls-on-windows-11-systems/"><u>Expert Advice for Restoring Microphone Capability During Skype Calls on Windows 11 Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ffmpeg-conversion-guide-transforming-flac-files-into-mp3-format/"><u>FFmpeg Conversion Guide: Transforming FLAC Files Into MP3 Format</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-silent-system-following-latest-windows-11-patch-simple-tips/"><u>Fix Silent System Following Latest Windows 11 Patch: Simple Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-and-pop-ups-on-windows-a-step-by-step-guide/"><u>Fixing Audio Glitches & Pop-Ups on Windows - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-problematic-sound-drivers-for-your-dell-laptop-running-windows-7/"><u>How to Fix Problematic Sound Drivers for Your Dell Laptop Running Windows 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-motorola-moto-g-5g-2023-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Motorola Moto G 5G (2023) to Protect Your Individual Information</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g230-mic-not-working-solved/"><u>Logitech G230 Mic Not Working [SOLVED]</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-mp2-files-a-complete-overview-and-best-practices-in-music-formats/"><u>Mastering MP2 Files: A Complete Overview and Best Practices in Music Formats</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-with-a-functional-microphone-in-counter-strike-2/"><u>Mastering the Battlefield with a Functional Microphone in Counter-Strike 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/modern-warfare-voice-communication-issues-solved/"><u>Modern Warfare Voice Communication Issues - Solved!</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/simple-fixes-when-windows-11-cannot-access-recovery-options/"><u>Simple Fixes When Windows 11 Cannot Access Recovery Options</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-essential-techniques-for-making-and-tweaking-multi-snap-chats/"><u>[New] 2024 Approved Essential Techniques for Making & Tweaking Multi-Snap Chats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-knowledge-for-recording-movies-anywhere-for-2024/"><u>[New] Essential Knowledge for Recording Movies Anywhere for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-delightful-digests-a-list-of-top-food-channels-for-2024/"><u>[Updated] Delightful Digests A List of Top Food Channels for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-green-screen-shooting-made-simple/"><u>2024 Approved Mastering Green Screen Shooting Made Simple</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-speaker-issues-a-guide-to-restoring-audio/"><u>Fixing Laptop Speaker Issues: A Guide to Restoring Audio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-aac-to-mpeg-converter-easy-use-with-movavi/"><u>Free Online AAC to MPEG Converter - Easy Use with Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-infinix-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Infinix using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-fixing-headphone-problems-on-windows-7/"><u>How to Restore Sound: Fixing Headphone Problems on Windows 지원 7</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y78plus-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y78+ Location by Number | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210834482-9781733235730-phit-for-life/"><u>PHIT for LIFE | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/practical-solutions-for-activating-your-tozo-t6-device-with-windows-11-integration/"><u>Practical Solutions for Activating Your Tozo T6 Device with Windows 11 Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016156971-quick-fixes-to-silence-crackling-sounds-in-your-headphones-now/"><u>Quick FIXES to Silence Crackling Sounds in Your Headphones Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-latest-techniques-for-rectifying-echoes-and-delays-your-guide/"><u>The Latest Techniques for Rectifying Echoes & Delays - Your Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-science-behind-oleds-working-principle-explained/"><u>The Science Behind OLEDs: Working Principle Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-instantly-restoring-audio-in-google-hangouts-with-a-non-functional-mic/"><u>Troubleshoot Instantly: Restoring Audio in Google Hangouts with a Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-audio-issues-in-dell-computers-on-windows-7/"><u>Troubleshooting and Repairing Audio Issues in Dell Computers on Windows 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-repair-a-nonfunctional-airpods-microphone-on-windows-11/"><u>Troubleshooting: How to Repair a Nonfunctional AirPods Microphone on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-not-working-learn-quick-fixes-and-updates/"><u>Voicemod Not Working? Learn Quick Fixes & Updates</u></a></li>
 </ul></div>
 

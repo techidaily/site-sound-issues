@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: How to Repair the Unresponsive Mic on Your Corsair HS60"
-date: 2024-11-10T16:00:15.769Z
-updated: 2024-11-15T17:09:30.980Z
+date: 2024-11-19T19:30:14.649Z
+updated: 2024-11-24T20:31:31.146Z
 tags:
   - win11
   - win10
@@ -48,19 +48,13 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 3. Play some music and see if this**Bluetooth Connected But No Sound** problem gets resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the audio level is high enough
@@ -75,6 +69,10 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 3. Click the Levels tab. Then make sure**the volume bar is dragged to an audible level** and the sound icon**isn’t muted** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d22c378f3f.png)
 4. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Hopefully the **Bluetooth Connected But No Sound problem** has been resolvedthis time. If the problem still persists, move on to **Fix 3** .
 
@@ -92,36 +90,17 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
 3. Select**Automatic** in the**Startup type** drop-down menu and then click**Start** to jumpstart the service. Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7d1ea8ed445.jpg)
 4. Play some music and test if your**Bluetooth Connected But No Sound** has been fixed. If it’s still no joy, please move on to F**ix 4,** below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your Bluetooth driver
 
@@ -146,10 +125,7 @@ If you run into the**Bluetooth** connected but no sound coming out issue on your
  4) Restart your computer, play some music and see if **Bluetooth Connected But No Sound**  problem has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
@@ -188,22 +164,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-deciphering-and-crafting-accurate-slug-line-annotations/"><u>[New] 2024 Approved Deciphering and Crafting Accurate Slug Line Annotations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphone-hacks-filming-and-modifying-lengthy-video-sequences/"><u>[New] IPhone Hacks Filming & Modifying Lengthy Video Sequences</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screen-grab-pros-comprehensive-analysis/"><u>[Updated] In 2024, Screen Grab Pros Comprehensive Analysis</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-switching-from-snippet-to-live-play-in-yt/"><u>[Updated] In 2024, Switching From Snippet to Live Play in YT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-programming-battle-can-gemini-outperform-chatgpt/"><u>AI Programming Battle: Can Gemini Outperform ChatGPT?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722859234573-code-28-hiccups-on-your-pc-heres-how-to-fix-them/"><u>Code 28 Hiccups on Your PC? Here's How to Fix Them!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>In 2024, Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/pixelpuzzle-pro-crafting-videos-for-instagallery/"><u>PixelPuzzle Pro Crafting Videos for InstaGallery</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-the-sound-of-your-astro-a50-in-minutes-noise-issue-solutions/"><u>Revive the Sound of Your Astro A50 in Minutes - Noise Issue Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battlefield-woes-resolving-sound-glitches-in-apex-legends/"><u>Silent Battlefield Woes: Resolving Sound Glitches in Apex Legends</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-headphone-connectivity-issues-on-your-windows-eb-os-device/"><u>Solving Headphone Connectivity Issues on Your Windows Eb OS Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-realtek-digital-audio-issue-restoring-lost-sounds/"><u>Solving Realtek Digital Audio Issue: Restoring Lost Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-voice-communication-glitches-for-sea-of-thieves-players-on-pc/"><u>Solving Voice Communication Glitches for Sea of Thieves Players on PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-windows-10-not-detecting-or-displaying-headphones-in-audio-mixer/"><u>Step-by-Step Fix for Windows 10 Not Detecting or Displaying Headphones in Audio Mixer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-complete-2024-manual-on-resolving-audio-delay-problems/"><u>The Complete 2024 Manual on Resolving Audio Delay Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-non-functioning-mics-in-dota-2-a-complete-guide/"><u>The Ultimate Fix for Non-Functioning Mics in Dota 2: A Complete Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726226804731-wma-m4v/"><u>WMA 및 M4V 파일을 원격으로 무료 전환 - 모바이비아</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eading-ladies-of-livestreams-top-10-female-youtubers-unveiled/"><u>[New] Leading Ladies of Livestreams Top 10 Female YouTubers Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-list-best-video-platforms-for-secure-businesses/"><u>2024 Approved Essential List Best Video Platforms for Secure Businesses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-strategies-for-recording-in-audacity/"><u>2024 Approved Innovative Strategies for Recording in Audacity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movaviflacaac/"><u>如何使用MOVAVI將FLAC格式自由轉換成AAC - 線上無縫服務</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-microphone-malfunctions-heres-how-to-repair-and-restore-functionality/"><u>Corsair Microphone Malfunctions? Here’s How to Repair and Restore Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-speakers-steps-to-reconnect-realtek-high-def-audio-devices/"><u>Fix Your Speakers! Steps to Reconnect Realtek High-Def Audio Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g430-mic-a-step-by-step-guide-to-restoring-functionality/"><u>Fixing Your Logitech G430 Mic - A Step-by-Step Guide to Restoring Functionality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-gpt-an-authoritative-guide-to-health-matters/"><u>Is GPT an Authoritative Guide to Health Matters?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015781048-master-the-art-of-uninterrupted-discord-communication-tackling-audio-problems-head-on/"><u>Master the Art of Uninterrupted Discord Communication - Tackling Audio Problems Head-On</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-quiet-pcs-fast-fixes-to-bring-back-the-audio-on-any-device/"><u>No More Quiet PCs: Fast Fixes to Bring Back the Audio on Any Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-the-challenge-correct-audio-output-from-headphones-rather-than-computer-speakers/"><u>Overcoming the Challenge: Correct Audio Output From Headphones Rather than Computer Speakers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-correcting-compatibility-concerns-with-i2c-hid-drivers/"><u>Step-by-Step Guide to Correcting Compatibility Concerns with I2C HID Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-getting-sound-to-work-on-your-windows-os/"><u>Step-by-Step Tutorial: Getting Sound to Work on Your Window's OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-7-critical-criteria-when-opting-for-an-ai-chatbot-platform/"><u>The 7 Critical Criteria When Opting for an AI Chatbot Platform</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unleash-the-power-of-love-in-different-languages-discover-more-ways-to-say-i-love-you-this-valentines-day/"><u>Unleash The Power Of Love In Different Languages! Discover More Ways To Say I Love You This Valentine's Day</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016634083-windows-11-sounds-silent-heres-how-you-can-restore-the-audio/"><u>Windows 11 Sounds Silent? Here's How You Can Restore the Audio.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/world-of-warcraft-fixes-now-playing-with-surround-sound/"><u>World of Warcraft Fixes – Now Playing with Surround Sound!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting Back on Track: A Guide to Fixing Sound Issues with Lenovo Laptops"
-date: 2024-11-12T16:51:37.294Z
-updated: 2024-11-15T17:17:48.579Z
+date: 2024-11-23T16:53:15.471Z
+updated: 2024-11-24T21:48:25.253Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for Headphones Crackling
 
  Here are 4 fixes that have helped other users resolve their**Windows 10** /**8** **.1/7** **sound crackling in headphones** issue.  
@@ -33,13 +37,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. [**Adjust the minimum processor state**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -62,16 +59,13 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
@@ -82,6 +76,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
@@ -105,13 +103,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 4: Adjust **the minimum processor state**
@@ -126,10 +117,7 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
@@ -138,10 +126,7 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -171,19 +156,21 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-high-quality-video-capture-for-tech-enthusiasts/"><u>[New] In 2024, High-Quality Video Capture for Tech Enthusiasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-the-setup-of-obs-and-streamlabs-for-mac-users/"><u>[New] Navigating the Setup of OBS & Streamlabs for Mac Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-swiftly-enhance-videos-on-android-devices/"><u>2024 Approved Swiftly Enhance Videos on Android Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-topview-assessment-report/"><u>2024 Approved TopView Assessment Report</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pushing-creative-boundaries-utilizing-advanced-techniques-for-luts-in-after-effects/"><u>In 2024, Pushing Creative Boundaries Utilizing Advanced Techniques for LUTs in After Effects</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-depth-evaluation-obs-as-an-advanced-recorder-for-2024/"><u>In-Depth Evaluation OBS as an Advanced Recorder for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/latest-update-to-dall-e-3-adds-editing-features-still-seeking-perfection/"><u>Latest Update to DALL-E 3 Adds Editing Features, Still Seeking Perfection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-battlefield-groove-woes-a-guide-to-restoring-sounds/"><u>Solve Your Battlefield Groove Woes: A Guide to Restoring Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-tips-for-a-nonfunctional-steelseries-arctis-pro-mic/"><u>Solved! Troubleshooting Tips for a Nonfunctional SteelSeries Arctis Pro Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-laptop-microphone-and-speaker-issues-efficiently-guide/"><u>Solving Laptop Microphone and Speaker Issues Efficiently [Guide]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-plugged-in-speakers-or-headphones-not-working-on-windows-pcs/"><u>Step-by-Step Fix for Plugged-In Speakers or Headphones Not Working on Windows PCs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-budget-friendly-4k-capture-devices/"><u>Top Budget-Friendly 4K Capture Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-windows-10-and-7-solutions-revealed/"><u>Troubleshooting Audio Glitches in Windows 10 & 7 - Solutions Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-monitoring-your-instagram-fan-loss-rate/"><u>[Updated] 2024 Approved Monitoring Your Instagram Fan-Loss Rate</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-advanced-google-slides-techniques-adding-youtube-media-for-2024/"><u>[Updated] Advanced Google Slides Techniques Adding YouTube Media for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-battle-of-the-lenses-sj6-vs-yi-4k-prodigy/"><u>2024 Approved Battle of the Lenses SJ6 Vs. Yi 4K Prodigy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-performing-chatgpt-prompts-compiled-for-you-on-github/"><u>Best Performing ChatGPT Prompts Compiled for You on GitHub</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-audio-expert-tips-to-repair-non-working-speakers-on-your-pc/"><u>Bring Back the Audio: Expert Tips to Repair Non-Working Speakers on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs35-mic-not-recognized-by-windows-solutions-to-get-your-audio-working-again/"><u>Corsair HS35 Mic Not Recognized by Windows: Solutions to Get Your Audio Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enabling-real-time-game-audio-in-your-discord-calls-easily/"><u>Enabling Real-Time Game Audio in Your Discord Calls Easily</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932856-9781855843493-finding-the-greater-self/"><u>Finding the Greater Self | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-and-warping-sounds-in-windows-10-and-7-solutions-unveiled/"><u>Fixing Audio Glitches & Warping Sounds in Windows 10 and 7 – Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-intermittent-sound-issues-in-windows-10-a-complete-guide/"><u>Fixing Intermittent Sound Issues in Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-boosting-youtube-visibility-mastering-titles-and-tags/"><u>In 2024, Boosting YouTube Visibility Mastering Titles & Tags</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-download-hassle-free-video-closures-here/"><u>In 2024, Exclusive Download Hassle-Free Video Closures Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/james-ritter-ascend-a-la-position-de-cfo/"><u>James Ritter Ascend À La Position De CFO</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-expert-guide-to-resolving-2024s-rec-room-microphone-woes-on-pc/"><u>Mastering Audio: Expert Guide To Resolving 2024'S Rec Room Microphone Woes on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-microphone-on-your-headset/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Microphone on Your Headset</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/verfahren-zur-integration-von-netzwerkspeichersymbolen-in-google-drive/"><u>Verfahren Zur Integration Von Netzwerkspeichersymbolen in Google Drive</u></a></li>
 </ul></div>
 

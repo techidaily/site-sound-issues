@@ -1,7 +1,7 @@
 ---
 title: "Silence No More: Resolving Laptop Speaker Problems Efficiently"
-date: 2024-11-09T16:31:46.359Z
-updated: 2024-11-15T18:00:27.154Z
+date: 2024-11-20T20:16:37.548Z
+updated: 2024-11-25T02:26:17.600Z
 tags:
   - win11
   - win10
@@ -35,9 +35,17 @@ When you try to play music or video on your laptop, but just find**no sound on t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Drag the slider to increase the volume to test if the sound could work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-22.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Set your speakers as default device
 
@@ -46,22 +54,12 @@ When you try to play music or video on your laptop, but just find**no sound on t
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)Highlight your speakers, then click **Set Default** . Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:**  If you couldn’t find your speakers on the playback device list, it might be disabled.
 
@@ -72,10 +70,7 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When your speakers shows up, right-click on it to choose**Enable** . Then you can set it as the default device.
@@ -91,10 +86,7 @@ Go with the easy steps to show it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Expand **Sound, video and game controllers** . Then right click on your sound card’s name and click **Uninstall** .
@@ -144,14 +136,21 @@ Any problems just feel free to leave your comment below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software/"><u>[New] In 2024, Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-journey-to-origin-how-to-utilize-reverse-image-functionality-on-instagram-for-2024/"><u>[New] The Journey to Origin How to Utilize Reverse Image Functionality on Instagram for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-head-mounted-display-creators/"><u>Elite Head-Mounted Display Creators</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-soundbank-freeness-central/"><u>FB Soundbank Freeness Central</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-zoom-audio-back-a-step-by-step-solution-for-windows-11-and-10-users/"><u>Get Your Zoom Audio Back: A Step-by-Step Solution for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-cs-go-how-to-fix-mic-not-working-error/"><u>Getting the Most Out of CS: GO - How to Fix Mic Not Working Error</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-windows-10-speakers-back-on-track-expert-solutions/"><u>Getting Windows 10 Speakers Back On Track – Expert Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hearthstone-quieted-down-heres-how-to-turn-up-the-volume-again/"><u>Hearthstone Quieted Down? Here's How to Turn Up the Volume Again!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nubia-red-magic-9-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nubia Red Magic 9 Pro FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-10-compact-discs-viewer-recommendations/"><u>[New] In 2024, Elite 10 Compact Discs Viewer Recommendations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-wholesale-sky-shelves-economic-bulk-data-holder/"><u>[New] Wholesale Sky Shelves Economic Bulk Data Holder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pro-tips-for-effortless-youtube-content-export-through-gmail-id/"><u>[Updated] In 2024, Pro-Tips for Effortless YouTube Content Export Through Gmail ID</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-orchestrating-your-playlists-from-one-to-another/"><u>2024 Approved Orchestrating Your Playlists From One to Another</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016887234-audio-malfunction-post-windows-11-update-easy-solutions-unveiled/"><u>Audio Malfunction Post-Windows 11 Update? Easy Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-pc-call-echo-on-discord-with-these-expert-tips-and-tricks-updated-for-2e4/"><u>Banish PC Call Echo on Discord with These Expert Tips and Tricks (Updated for 2E4)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configuration-complete-resource-lacking-response/"><u>Configuration Complete; Resource Lacking Response</u></a></li>
+<li><a href="https://facebook.techidaily.com/consumer-watch-a-new-economic-paradigm/"><u>Consumer Watch: A New Economic Paradigm</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/creative-pebble-audio-woes-heres-how-you-can-restore-your-sound/"><u>Creative Pebble Audio Woes? Here's How You Can Restore Your Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-setup-solving-the-silence-issue-in-pc-based-zoom-conferencing/"><u>Mastering Audio Setup: Solving the Silence Issue in PC-Based Zoom Conferencing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-c300-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C300 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-steps-to-document-your-youtube-creations-for-2024/"><u>Quick Steps to Document Your YouTube Creations for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restore-your-malfunctioning-bose-sound-system/"><u>Step-by-Step Guide to Restore Your Malfunctioning Bose Sound System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-astro-a50-for-immediate-audio-playback/"><u>Troubleshoot and Repair Your Astro A50 for Immediate Audio Playback</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017057033-windows-10-speaker-setup-errors-heres-how-to-identify-and-solve-the-problem/"><u>Windows 10 Speaker Setup Errors? Here's How to Identify and Solve the Problem!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wirelessly-sync-connecting-computers-and-bluetooth-speakers-made-simple/"><u>Wirelessly Sync: Connecting Computers and Bluetooth Speakers Made Simple</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fast Fixes: Dealing with the Playback Test Tone Error Smoothly and Easily"
-date: 2024-11-13T16:54:43.151Z
-updated: 2024-11-15T17:31:33.742Z
+date: 2024-11-22T17:03:02.518Z
+updated: 2024-11-24T17:19:56.111Z
 tags:
   - win11
   - win10
@@ -56,14 +56,11 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/volume-mixer-hold-and-drag.jpg)
 3. Play your video and see if you hear any sound.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t fix your problem, please take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: **Change to another browser**
 
@@ -73,11 +70,19 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 
  If the problem persists after changing your browser, please move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4:**Restart your computer**
 
  It may sound silly, but rebooting your computer actually solves many problems. Especially when you’ve kept your PC running for a long period, and some programs start to function improperly. In all cases, a restart resets the current state of a software, and it might just fix your no sound issue at the same time.
 
  If restarting your computer doesn’t help either, please continue to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Update your audio driver**
 
@@ -98,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-realtek-audio-driver.jpg)
 
@@ -106,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/c0f24db03b860c42b7a5483fee1c2648117629efa
  Once you’ve updated your audio driver, restart your computer for it to take full effect. Then you can play some videos and see if your problem has gone away.
 
  If this fix doesn’t give you any luck, please try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6:**Change your default playback device**
 
@@ -129,19 +131,6 @@ This method also applies to Windows 10, 8 or 7
 
  If changing your default output device doesn’t solve your problem, don’t worry. There’s still one last fix you can try.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7:**Change your audio channel**
 
  Some users reported that changing the audio channel saves the day, so it might also be a potential solution for your case.
@@ -152,38 +141,29 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-mmsys-cpl-audio-interface.jpg)
 2. Select your default playback device and click**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-audio-channel-1.jpg)
 3. For**Audio channels** , select**Stereo** and click**Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to**Front left and right** . Click **Next** to continue.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
 5. Click **Finish** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap110.jpg)
 6. Play some Facebook videos and see if your problem has disappeared.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -206,22 +186,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-masterclass-review-galaxy-s8-with-its-4k-features/"><u>[New] Masterclass Review Galaxy S8 with Its 4K Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-no-sound-in-world-of-warcraft/"><u>[Solved] No Sound in World of Warcraft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hero-vs-hero-upgraded-edition/"><u>[Updated] Hero Vs Hero Upgraded Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-seamless-webp-to-jpg-conversion-techniques/"><u>[Updated] In 2024, Seamless WebP to JPG Conversion Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unlocking-apples-audio-world-a-download-guide-for-ios-users/"><u>[Updated] In 2024, Unlocking Apple's Audio World A Download Guide for iOS Users</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-canons-timelapse-a-quick-guide/"><u>2024 Approved Mastering Canon's Timelapse A Quick Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-ultimate-arsenal-of-audio-manipulation-software-for-professional-use/"><u>2024 Approved The Ultimate Arsenal of Audio Manipulation Software for Professional Use</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016194624-how-to-get-your-onikuma-headset-mic-up-and-running-again/"><u>How To Get Your Onikuma Headset Mic Up And Running Again!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f34-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F34 5G Phone Network-Ready</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/moving-from-movie-plus-web-audio-files-swiftly-convert-m4b-to-m4a-formats-for-free-with-our-online-tools/"><u>Moving From MOVIE + WEB Audio Files - Swiftly Convert M4B to M4A Formats for Free with Our Online Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-microphones-volume-problem-a-step-by-step-guide/"><u>Solving Your Microphone’s Volume Problem - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/squad-mic-malfunction-solutions-and-tips-for-gamers-edition/"><u>Squad Mic Malfunction Solutions & Tips for Gamers - Edition</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-strategies-for-dealing-with-playback-tone-issues/"><u>Step-by-Step Strategies for Dealing with 'Playback Tone Issues'</u></a></li>
-<li><a href="https://os-tips.techidaily.com/sync-your-maciphoneipad-display-with-apple-tv-simple-mirroring-tutorial/"><u>Sync Your Mac/iPhone/iPad Display with Apple TV: Simple Mirroring Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-for-eliminating-audio-delays-2024s-top-strategies/"><u>The Definitive Solution for Eliminating Audio Delays: 2024'S Top Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-unconnected-nvidia-ports-with-proven-techniques/"><u>Troubleshoot Unconnected Nvidia Ports with Proven Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting and Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-video-production-atlas-xstudio-analysis-edition/"><u>[New] 2024 Approved Video Production Atlas XStudio Analysis Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-secrets-to-producing-visually-appealing-fb-promos/"><u>[New] In 2024, Secrets to Producing Visually Appealing FB Promos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-how-to-share-twitter-videos-on-whatsapp-in-2024/"><u>[Updated] 2023 | How to Share Twitter Videos on WhatsApp, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-engaging-video-credits-the-best-fonts-for-thumbnails-for-2024/"><u>[Updated] Engaging Video Credits The Best Fonts for Thumbnails for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-key-solutions-to-repair-audio-malfunctions-on-windows-10-computers/"><u>5 Key Solutions to Repair Audio Malfunctions on Windows 10 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-steelseries-arctis-prime-microphone-working-again-a-step-by-step-tutorial/"><u>Get Your SteelSeries Arctis Prime Microphone Working Again: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hardware-compatibility-issue-hp-drivers-not-found-on-win1110/"><u>Hardware Compatibility Issue: HP Drivers Not Found on Win11/10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-efficiently-connect-and-use-a-wd-ses-external-disk-via-new-usb-drivers-windows-2011plus/"><u>How to Efficiently Connect and Use a WD SES External Disk via New USB Drivers (Windows 2011+)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-10-audio-issues-step-by-step-guide/"><u>How to Fix Windows 10 Audio Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-itel-p55plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Itel P55+ to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-game-sound-resolving-no-audio-in-hearthstone-issues/"><u>Restore Your Game Sound: Resolving No Audio in Hearthstone Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-giants-on-trial-and-triumph-unpacking-googles-antitrust-setback-and-samsungs-strategic-expansion-into-ai-as-top-movers-in-the-2021-innovation-index-ana152/"><u>Tech Giants on Trial and Triumph: Unpacking Google's Antitrust Setback and Samsung's Strategic Expansion Into AI as Top Movers in the 2021 Innovation Index | Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-speaker-distortion-issues-on-windows-107-a-step-by-step-guide/"><u>Troubleshooting and Fixing Speaker Distortion Issues on Windows 10/7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-boosting-your-pcs-speakers-on-windows-1/"><u>Troubleshooting Audio Issues: Boosting Your PC's Speakers on Windows 1</u></a></li>
 </ul></div>
 

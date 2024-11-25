@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for When Your Discord Voice Connectivity Fails
-date: 2024-08-27T21:16:59.589Z
-updated: 2024-08-28T21:16:59.589Z
+date: 2024-11-18T01:12:47.061Z
+updated: 2024-11-24T19:57:12.487Z
 tags:
   - win11
   - win10
@@ -51,9 +51,17 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d55d7e26c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you see the Speakers disabled, right-click on the item, then select**Enable** . If you see the Speakers enabled, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
@@ -62,6 +70,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  1) Right-click on the speaker icon in the system tray, and select**Recording devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
@@ -109,6 +121,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
@@ -140,6 +156,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
 
@@ -174,8 +194,6 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,9 +201,24 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-iconic-20-anime-series-intros/"><u>[New] Iconic 20 Anime Series Intros</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-virtual-producer-duel-for-2024/"><u>[Updated] Virtual Producer Duel for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-high-definition-showdown-comparing-8k-tvs/"><u>2024 Approved The Ultimate High-Definition Showdown Comparing 8K TVs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-vsdm-video-capture-overview-thorough-scrutiny/"><u>2024 Approved VSDM Video Capture Overview Thorough Scrutiny</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-7-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 7 Activation Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/back-astock-exchange-traded-fund-etf-veubatsan-overview/"><u>Back Astock Exchange Traded Fund (ETF) - VEU/BATS:An Overview</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/end-discords-ear-pleasing-disruptions-a-step-by-step-fix-guide-updated/"><u>End Discord's Ear-Pleasing Disruptions: A Step-by-Step Fix Guide (Updated )</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restarting-your-realtek-hd-audio-management-tool-successfully/"><u>Expert Advice on Restarting Your Realtek HD Audio Management Tool Successfully</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Civi 3 Disney 100th Anniversary Edition? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-aeeusy-mobile-solar-generator-with-pure-sine-wave-output-ensuring-safety-in-healthcare-settings/"><u>In-Depth Review of the AEEUSY Mobile Solar Generator with Pure Sine Wave Output, Ensuring Safety in Healthcare Settings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-get-discord-to-capture-your-gaming-sessions-sound/"><u>Resolved: How to Get Discord to Capture Your Gaming Sessions' Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-realtek-hd-audio-a-comprehensive-guide-for-when-its-unplugged/"><u>Resolving Issues with Realtek HD Audio: A Comprehensive Guide for When It's Unplugged</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-for-addressing-malfunctioning-auditory-services/"><u>Solution Steps for Addressing Malfunctioning Auditory Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-mastery-uploading-subtitles-to-gain-visibility-in-online-communities-for-2024/"><u>Step-by-Step Mastery Uploading Subtitles to Gain Visibility in Online Communities for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/this-model-was-trained-by-microsoft-with-a-focus-on-generating-coherent-and-fluent-text-based-on-the-given-prompt-but-without-specific-fine-tuning-for-factu624/"><u>This Model Was Trained by Microsoft with a Focus on Generating Coherent and Fluent Text Based on the Given Prompt, but without Specific Fine-Tuning for Factual Correctness or Nuanced Understanding of Complex Topics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-problems-top-5-solutions-for-sound-device-issues-in-audacity/"><u>Troubleshoot Audio Problems: Top 5 Solutions for Sound Device Issues in Audacity</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

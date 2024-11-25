@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Eliminating the Can't Play Test Sound Problem with Ease"
-date: 2024-11-14T17:26:45.796Z
-updated: 2024-11-15T16:11:29.071Z
+date: 2024-11-23T01:24:11.893Z
+updated: 2024-11-24T23:07:14.490Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
 ![update sound card driver](https://images.drivereasy.com/wp-content/uploads/2021/09/update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer and check whether your problem is solved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -73,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/playback-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Set the right device as the default playback device. There will be a green tick and a signal icon on this device if it’s set as default.
 
 ![set the right default device](https://images.drivereasy.com/wp-content/uploads/2021/09/speaker.jpg)
@@ -85,16 +82,13 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
 ![choose a correct sample format](https://images.drivereasy.com/wp-content/uploads/2021/09/quality.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Apply** to save the changes.
 
  Now launch your Battlefield 4 to check if the sound is coming back. If unfortunately not, don’t worry since we have a few more fixes for you to try.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3\. Check Windows Volume Mixer
 
@@ -109,22 +103,12 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
 
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
@@ -142,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
 ![open firewall settings](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click the active network.
 
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
@@ -150,20 +138,10 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
 ![toggle firewall to off](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Launch your Battlefield 4 and check if the sound is working now.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5\. Verify the game integrity
@@ -176,6 +154,10 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![Battlefield 4 repair](https://images.drivereasy.com/wp-content/uploads/2021/09/battlefield-1200x686.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once complete, close Origin. Then run Origin as administrator.
 
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
@@ -183,16 +165,7 @@ Launch your Battlefield 4 and check if the sound is working now.
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6\. Rule out other interference
@@ -206,10 +179,7 @@ Launch your Battlefield 4 and check if the sound is working now.
 ![origin application settings](https://images.drivereasy.com/wp-content/uploads/2021/09/app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Origin In-Game** tab. Toggle the **Off** switch to turn Origin In-Game off.
@@ -241,24 +211,20 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-spectacular-scrutiny-and-different-directions/"><u>[New] In 2024, Spectacular Scrutiny & Different Directions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamline-communications-with-these-best-5-capture-tools/"><u>[New] In 2024, Streamline Communications with These Best 5 Capture Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-twist-tactics-achieving-angles-that-stand-out-on-social-media/"><u>[New] In 2024, Twist Tactics Achieving Angles That Stand Out on Social Media</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-subtle-sonic-reduction-in-the-world-of-audio-editing/"><u>[Updated] In 2024, Subtle Sonic Reduction in the World of Audio Editing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-supreme-choices-for-inexpensive-film-assets-for-2024/"><u>[Updated] Supreme Choices for Inexpensive Film Assets for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-instagram-circle-of-power-the-leading-25-titans-revealed-for-2024/"><u>[Updated] The Instagram Circle of Power The Leading 25 Titans Revealed for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-your-visual-potential-the-leading-ten-tools-for-instagram-grids-for-2024/"><u>[Updated] Unlock Your Visual Potential The Leading Ten Tools for Instagram Grids for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/acquiring-fluency-in-german-via-dark-on-streaming-platform/"><u>Acquiring Fluency in German via Dark on Streaming Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosis-and-fixes-for-hyperx-cloud-mic-that-wont-work-a-guide/"><u>Diagnosis & Fixes for HyperX Cloud Mic That Won't Work: A Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-voice-chat-problems-in-back-4-blood-multiplayer-mode/"><u>Effective Fixes for Voice Chat Problems in 'Back 4 Blood' Multiplayer Mode</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/efficient-techniques-to-fix-and-update-dell-sound-drivers-under-windows-7/"><u>Efficient Techniques to Fix and Update Dell Sound Drivers Under Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ending-that-annoying-popping-sound-while-using-windows-heres-how/"><u>Ending That Annoying Popping Sound While Using Windows – Here’s How!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-restoring-audio-functionality-in-toshiba-laptops/"><u>Expert Guide to Restoring Audio Functionality in Toshiba Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-to-common-problems-with-logitech-g933-headset-mic/"><u>Expert Solutions to Common Problems with Logitech G933 Headset Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-resolve-windows-10s-audio-problems-using-these-five-simple-solutions/"><u>Expert Tips: Resolve Windows 10'S Audio Problems Using These Five Simple Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-a-guide-to-resolving-your-lenovos-audio-troubles/"><u>Fixing the Silence: A Guide to Resolving Your Lenovo's Audio Troubles</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-back-in-the-game-with-fixes-for-non-working-mics-in-fortnite/"><u>Get Back in the Game with Fixes for Non-Working Mics in Fortnite</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/minimizing-disorientation-your-vr-wellbe-written-guide/"><u>Minimizing Disorientation Your VR Wellbe Written Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-chronicles-of-triumph-ranking-the-ultimate-game-odysseys/"><u>[New] 2024 Approved Chronicles of Triumph Ranking the Ultimate Game Odysseys</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-effective-streaming-strategies-facebook-crossposting/"><u>[New] Effective Streaming Strategies Facebook Crossposting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-profit-driven-tactics-for-successful-snapchat-brands/"><u>[Updated] In 2024, Profit-Driven Tactics for Successful Snapchat Brands</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-whats-your-youtube-revenue-breakdown-per-branded-playlist/"><u>[Updated] In 2024, What's Your Youtube Revenue Breakdown per Branded Playlist?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/alternative-methods-for-linking-your-logitech-optical-mouse-with-a-non-original-receiver/"><u>Alternative Methods for Linking Your Logitech Optical Mouse with a Non-Original Receiver</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eradicate-echo-glitches-in-discord-on-windows-advanced-fix-guide/"><u>Eradicate Echo Glitches in Discord on Windows: Advanced Fix Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-microphone-issues-in-microsoft-teams-solutions-for-windows-11-and-10-users/"><u>Fixing Microphone Issues in Microsoft Teams: Solutions for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-dolby-audio-back-starting-the-disabled-dolby-driver-in-windows-10-successfully/"><u>How To Get Your Dolby Audio Back: Starting The Disabled Dolby Driver In Windows 10 Successfully</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-volume-resolving-airpods-connected-no-audio-in-windows-environments/"><u>How to Restore Volume: Resolving 'AirPods Connected, No Audio' In Windows Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-team-play-fixes-for-voice-chat-glitches-in-lol/"><u>Mastering Team Play: Fixes for Voice Chat Glitches in LoL</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-static-quick-fix-for-your-headphones-audio-glitches/"><u>Say Goodbye to Static: Quick Fix for Your Headphones' Audio Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/smooth-out-your-instagram-experience-essential-fixes-for-mobile-devices/"><u>Smooth Out Your Instagram Experience: Essential Fixes for Mobile Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-zoom-microphone-issues-a-comprehensive-fix-guide/"><u>Solve Your PC's Zoom Microphone Issues: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/44or44k944kz44oz44gn44gu6auy5zob6loq44kq44o844oh44kj44kq44kt44oj44ox44ob44oj44go6yg44gr44kl44g544gn44oe44kk44kv44os44k344oq44o844oo44kk44k6/"><u>パソコンでの高品質オーディオキャプチャと避けるべきマイクレシバーノイズ</u></a></li>
 </ul></div>
 

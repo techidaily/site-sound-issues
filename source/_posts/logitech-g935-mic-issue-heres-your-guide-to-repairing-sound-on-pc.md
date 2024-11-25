@@ -1,7 +1,7 @@
 ---
 title: Logitech G935 Mic Issue? Here's Your Guide to Repairing Sound on PC
-date: 2024-11-10T16:37:20.453Z
-updated: 2024-11-15T17:08:58.982Z
+date: 2024-11-20T01:42:34.984Z
+updated: 2024-11-24T23:20:12.094Z
 tags:
   - win11
   - win10
@@ -36,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 6. **[Run the audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before you begin
@@ -64,19 +61,13 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check your microphone to see if it’s back to normal. If it isn’t, proceed to the next fix down below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
@@ -92,23 +83,9 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to the flagged audio drivers to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/DE-realtek-audio.jpg)
 4. After updating your audio drivers, reboot your computer for the trick to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com> .
 
@@ -132,10 +109,7 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 6. Under the**Levels** tab, drag the microphone slider to the highest value and then click**OK** to save your changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-3.jpg)
@@ -150,27 +124,21 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 2. Find the**Logitech Gaming Software** . Click on it and then click**Uninstall/Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-4-1.jpg)
 3. After uninstalling the program, head to ​[**Logitech’s support website**](https://support.logi.com/hc/en-us/articles/360025298053) and download the latest version of Logitech Gaming Software that matches your operating system.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/logitech-gaming-software-dedownlaod.jpg)
 4. Open the downloaded file and follow the on-screen instructions to install the software.
 
- Connect your Logitech G935 to your computer and check the mic to see if you can use it now.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Connect your Logitech G935 to your computer and check the mic to see if you can use it now.
 
 ## Method 5: Try an external sound card
 
@@ -202,6 +170,10 @@ Top Pick
 
 [See It](https://www.amazon.com/dp/B08T9LM3LM?tag=ad00905-20&rfsn=7084458.e07eac)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 6: Run the audio troubleshooter
 
  If none of the above fixes work, you can try your luck with the audio troubleshooter. It’s a built-in tool that may be able to diagnose and fix a variety of common sound issues in your computer. To use it:
@@ -209,6 +181,10 @@ Top Pick
 1. Type**audio troubleshooter** in the search box on the taskbar, select**Find and fix problems with playing sound** from the results  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/audio-troubleshooter-1.jpg)
 2. Click**Next** and then follow the wizard to complete the troubleshooting process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/audio-troubleshooter-2-1.jpg)
 
@@ -233,24 +209,17 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-crafting-consumer-connection-reimagining-receiving-for-2024/"><u>[New] Crafting Consumer Connection Reimagining Receiving for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigate-through-prime-virtual-bike-selections/"><u>[Updated] Navigate Through Prime Virtual Bike Selections</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-top-10-affordable-mobile-video-services-for-2024/"><u>[Updated] Navigating Top 10 Affordable Mobile Video Services for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-visual-voyage-documenting-desktop-views-on-winos/"><u>2024 Approved Visual Voyage Documenting Desktop Views on WinOS</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/bite-sized-content-explanation-the-lowdown/"><u>Bite-Sized Content Explanation The Lowdown</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/bringing-the-past-into-focus-techniques-for-upscaling-vhs-videos-to-hd-and-beyond/"><u>Bringing the Past Into Focus: Techniques for Upscaling VHS Videos to HD and Beyond</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-and-complex-microphone-malfunctions-in-windows-7-a-comprehensive-solution/"><u>Common and Complex Microphone Malfunctions in Windows 7: A Comprehensive Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-solutions-for-turtle-beach-recon-70-microphone-malfunctions/"><u>Common Solutions for Turtle Beach Recon 70 Microphone Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-audio-verification-mastering-the-art-of-rapid-microphone-tests/"><u>Effortless Audio Verification: Mastering the Art of Rapid Microphone Tests</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-unveiling-the-features-of-samsungs-latest-note20-ultra-with-5g/"><u>Expert Review: Unveiling the Features of Samsung's Latest Note20 Ultra with 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-nvidias-high-def-audio-functionality-and-eliminate-silence/"><u>Expert Tips to Restore NVIDIA's High Def Audio Functionality and Eliminate Silence</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014785664-fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1087/"><u>Fix “No Speakers or Headphones Are Plugged In” Issue in Windows 10/8/7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-apex-solutions-for-when-your-game-has-no-audio/"><u>Fixing Silent Apex: Solutions for When Your Game Has No Audio</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/full-diagnosis-and-treatment-for-beyond-the-wire-mic-troubleshooting/"><u>Full Diagnosis & Treatment for 'Beyond The Wire' Mic Troubleshooting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hearthstone-sound-problem-solved-guide-and-tips/"><u>Hearthstone Sound Problem Solved: Guide & Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-issues-only-seeing-sos-signal-in-status-area/"><u>How to Resolve iPhone Issues: Only Seeing SOS Signal in Status Area</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mh-world-error-12-solved-monsters-rejoice/"><u>MH World Error 12 Solved - Monsters Rejoice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015582228-revive-your-battlefield-soundscape-quick-troubleshooting-for-bf4-no-audio-faults/"><u>Revive Your Battlefield Soundscape - Quick Troubleshooting for BF4 No Audio Faults.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-smart-routers-can-tp-links-archer-ax6000-outshine-the-mqknighthawk-ax12/"><u>The Ultimate Guide to Smart Routers: Can TP-Link's Archer AX6000 Outshine the MQKNightHawk AX12</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-capturing-adventures-which-camera-reigns-supreme-gopro-vs-virb/"><u>[New] 2024 Approved Capturing Adventures Which Camera Reigns Supreme? GoPro Vs. VIRB</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-discovering-the-secret-to-instagram-voice-change/"><u>[Updated] 2024 Approved Discovering the Secret to Instagram Voice Change</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-discovering-video-content-on-fb-a-comprehensive-guide/"><u>[Updated] Discovering Video Content on FB A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-kickstart-your-twitch-streaming-journey/"><u>2024 Approved Kickstart Your Twitch Streaming Journey</u></a></li>
+<li><a href="https://win-dash.techidaily.com/associated-references-and-connections/"><u>Associated References & Connections</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-save-and-access-your-shots-seamlessly-with-free-and-paid-cloud-options/"><u>Capture, Save and Access Your Shots Seamlessly with Free & Paid Cloud Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-realtek-microphone-when-it-wont-work-anymore/"><u>How to Repair Your Realtek Microphone When It Won't Work Anymore</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-firefox-issue-guide-to-fixing-the-lack-of-sound/"><u>Resolving Silent Firefox Issue – Guide to Fixing the Lack of Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-2024-tutorial-eliminating-sound-lag-and-sync-issues/"><u>Ultimate 2024 Tutorial: Eliminating Sound Lag and Sync Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-setup-made-easy-dealing-with-unrecognized-speaker-systems/"><u>Windows 10 Audio Setup Made Easy: Dealing with Unrecognized Speaker Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-speaker-setup-errors-heres-how-to-identify-and-solve-the-problem/"><u>Windows 10 Speaker Setup Errors? Here's How to Identify and Solve the Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-google-calendars-latest-upgrade-seamless-bookable-appointment-scheduling-unleashed/"><u>ZDNet Explores Google Calendar's Latest Upgrade: Seamless Bookable Appointment Scheduling Unleashed!</u></a></li>
 </ul></div>
 

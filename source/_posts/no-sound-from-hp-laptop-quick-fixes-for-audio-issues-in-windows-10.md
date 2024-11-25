@@ -1,7 +1,7 @@
 ---
 title: No Sound From HP Laptop? Quick Fixes for Audio Issues in Windows 10
-date: 2024-11-11T17:41:50.502Z
-updated: 2024-11-15T17:43:36.173Z
+date: 2024-11-22T22:36:19.312Z
+updated: 2024-11-24T20:59:59.080Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for speakers crackling
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
@@ -44,13 +48,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
@@ -61,21 +58,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -90,12 +73,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -108,13 +103,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
@@ -122,10 +110,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -152,18 +137,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/hats-new-in-youtube-tv-updates-and-features-in-2024/"><u>[New] What's New in YouTube TV Updates & Features, In 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unveiling-the-seven-best-youtube-live-streaming-tools-for-iphoneandroid/"><u>[Updated] 2024 Approved Unveiling The Seven Best YouTube Live Streaming Tools for iPhone/Android</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-complete-guide-for-tiktok-elements/"><u>[Updated] In 2024, Complete Guide for Tiktok Elements</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-money-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers-for-2024/"><u>[Updated] Money Multiplier How to Maximize YouTube Profits with Mobile Viewers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-in-your-photography-with-gopro-time-lapses/"><u>[Updated] Unlocking Potential in Your Photography with GoPro Time-Lapses</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-honor-x7b-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor X7b Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-record-to-win-optimizing-your-twitch-broadcasting-skills/"><u>In 2024, Record to Win Optimizing Your Twitch Broadcasting Skills</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>In 2024, Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-stereo-sound-fixing-issues-with-stereo-mix-functionality/"><u>Reviving Your Stereo Sound: Fixing Issues with Stereo Mix Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-solutions-eliminate-that-unwanted-buzz-in-audio-equipment/"><u>Simple Solutions: Eliminate That Unwanted Buzz in Audio Equipment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-ending-your-quest-against-hearthstones-audio-problem/"><u>Solution Found: Ending Your Quest Against Hearthstone's Audio Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-speaking-problems-a-guide-to-repairing-phasmophobia-voice-chat/"><u>Solve Your Speaking Problems: A Guide to Repairing Phasmophobia Voice Chat</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-snipperpro-suite/"><u>[New] In 2024, SnipperPro Suite</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-learn-and-master-io-screen-recording-today/"><u>[Updated] In 2024, Learn and Master IO Screen Recording Today</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-ultimate-guide-solving-webm-format-issues-across-devices-and-browsers/"><u>1. Ultimate Guide: Solving WebM Format Issues Across Devices & Browsers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/complete-guide-fixing-the-unable-to-connect-to-windows-activation-services-issue/"><u>Complete Guide: Fixing the 'Unable to Connect to Windows Activation Services' Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unplugged-microphone-or-headset-problems-on-windows-11-8-and-7/"><u>How to Resolve Unplugged Microphone or Headset Problems on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-k11-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo K11 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-itel-s23plus-by-drfone-android-unlock-android-unlock/"><u>How to unlock Itel S23+</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016369439-logitech-g933-sound-issues-follow-these-quick-fixes/"><u>Logitech G933 Sound Issues? Follow These Quick Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-manager-wont-open-heres-the-solution/"><u>Realtek HD Audio Manager Won't Open? Here's The Solution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-to-enjoying-authentic-cricket-games-in-real-time-for-2024/"><u>Secrets to Enjoying Authentic Cricket Games in Real-Time for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-medias-new-frontier-in-relationship-building-with-facebook/"><u>Social Media's New Frontier in Relationship Building with Facebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-overcoming-voice-chat-problems-in-modern-warfare-multiplayer/"><u>Solved: Overcoming Voice Chat Problems in Modern Warfare Multiplayer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-restoring-bluetooth-functionality-in-windows-11-systems/"><u>Step-by-Step Guide: Restoring Bluetooth Functionality in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-nonfunctional-corsair-virtuoso-headset/"><u>Step-by-Step Solutions for a Nonfunctional Corsair Virtuoso Headset</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-logitech-webcam-and-mic-issues-for-smooth-online-communication/"><u>Troubleshooting Logitech Webcam & Mic Issues for Smooth Online Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-boosting-call-sound-quality-on-your-iphone-expert-advice/"><u>Ultimate Guide to Boosting Call Sound Quality on Your iPhone - Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-sound-sync-issues/"><u>Ultimate Guide: Solving Sound Sync Issues</u></a></li>
 </ul></div>
 

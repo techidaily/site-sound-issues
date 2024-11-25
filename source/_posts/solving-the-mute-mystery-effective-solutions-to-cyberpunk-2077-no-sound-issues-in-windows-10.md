@@ -1,7 +1,7 @@
 ---
 title: "Solving the Mute Mystery: Effective Solutions to 'Cyberpunk 2077' No Sound Issues in Windows 10"
-date: 2024-11-10T16:05:39.024Z
-updated: 2024-11-15T17:39:54.201Z
+date: 2024-11-23T23:15:45.256Z
+updated: 2024-11-24T23:18:42.862Z
 tags:
   - win11
   - win10
@@ -109,13 +109,25 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Recording** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d78abf2fa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under Playthrough, if you see**Software Playthrough of input** is checked, uncheck it. Then click the**OK** button. If not, skip this solution then try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d7d97fc21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
   
@@ -157,9 +169,17 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check to see if you can record successfully.  
   
@@ -183,24 +203,20 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-a-complete-resource-for-aspiring-xbox-streaming-pros/"><u>[Updated] In 2024, A Complete Resource for Aspiring Xbox Streaming Pros</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/aesthetics-9-1-9/"><u>Aesthetics = 9 1 = 9</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-the-tech-solving-your-squad-mic-woes/"><u>Beat the Tech: Solving Your Squad Mic Woes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-common-sound-blaster-microphone-problems/"><u>Effective Fixes for Common Sound Blaster Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortlessly-restore-sounds-on-windows-11-a-step-by-step-guide/"><u>Effortlessly Restore Sounds on Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/freshest-logitech-g920-driver-downloads-perfect-for-windows-11-7-users/"><u>Freshest Logitech G920 Driver Downloads Perfect for Windows 11-7 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-to-frustrating-response-rates-correcting-your-windows-11-keyboards-sluggishness/"><u>Say Goodbye to Frustrating Response Rates: Correcting Your Windows 11 Keyboard's Sluggishness</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/solving-sound-disconnection-on-live-feeds/"><u>Solving Sound Disconnection on Live Feeds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-system-resources-how-to-decrease-cpu-usage-in-a-windows-environment/"><u>Streamlining System Resources: How to Decrease CPU Usage in a Windows Environment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-mastering-multi-tasking-with-your-favorite-talk-shows/"><u>The Ultimate Guide to Mastering Multi-Tasking With Your Favorite Talk Shows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-lack-of-speakers-in-windows-11-setup/"><u>Troubleshooting Guide: Resolving Lack of Speakers in Windows 11 Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlocking-the-volume-puzzle-for-seamless-hearthstone-soundscape-restoration/"><u>Unlocking the Volume Puzzle for Seamless Hearthstone Soundscape Restoration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-restoring-rightful-representation-amidst-misguided-chatter/"><u>[Updated] 2024 Approved Restoring Rightful Representation Amidst Misguided Chatter</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-capturing-and-reducing-speed-with-iphone-a-step-by-step-guide/"><u>[Updated] Capturing and Reducing Speed with iPhone A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-expertise-in-iphone-the-ultimate-hdr-photo-journey/"><u>[Updated] In 2024, Expertise in iPhone The Ultimate HDR Photo Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-why-imovie-alters-video-borders/"><u>2024 Approved Unraveling Why iMovie Alters Video Borders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016533698-cyberpunk-2077-sound-troubleshooting-for-windows-11-users-now-playing/"><u>Cyberpunk 2077 Sound Troubleshooting for Windows 11 Users - Now Playing!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-a-malfunctioning-corsair-hs60-microphone-step-by-step/"><u>Expert Tips for Fixing a Malfunctioning Corsair HS60 Microphone - Step by Step</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-nonfunctional-jabra-headset-an-ultimate-step-by-step-manual/"><u>Fixing a Nonfunctional Jabra Headset : An Ultimate Step-by-Step Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-problems-with-the-steelseries-arctis-prise-a-users-guide-to-restoring-mic-functionality/"><u>Fixing Problems With the SteelSeries Arctis Prise: A User's Guide to Restoring Mic Functionality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/graphical-glimpse-radeons-resurgence/"><u>Graphical Glimpse Radeon's Resurgence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-undetected-headphones-on-windows-11-devices/"><u>How to Fix Undetected Headphones on Windows 11 Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-asserting-ownership-on-social-platforms-instagrams-watermarking-secrets/"><u>In 2024, Asserting Ownership on Social Platforms Instagram's Watermarking Secrets</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mobile-mastery-securing-your-snapchat-videos-on-phone/"><u>Mobile Mastery Securing Your Snapchat Videos on Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-no-sound-problems-on-your-windows-11-device/"><u>Quick Fixes for No Sound Problems on Your Windows 11 Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-silent-skirmishes-comprehensive-solutions-to-fix-no-sound-in-fortnites-battle-royale-2024-update/"><u>Tackling Silent Skirmishes: Comprehensive Solutions to Fix No-Sound in Fortnite's Battle Royale - 2024 Update</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

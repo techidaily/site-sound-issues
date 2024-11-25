@@ -1,7 +1,7 @@
 ---
 title: "Navigate Audio Troubleshooting for Windows 11: Follow This Quintet of Fixes"
-date: 2024-11-08T16:53:31.248Z
-updated: 2024-11-15T16:32:30.881Z
+date: 2024-11-20T20:07:05.658Z
+updated: 2024-11-24T23:44:33.159Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Before getting started, be sure**NOT** **to mute** your computer in the Volume icon. And drag the Volume slider to**Maximum** .
@@ -33,10 +37,7 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 3. [Roll back your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
@@ -60,6 +61,10 @@ Many people reported that**after Windows 10 update no soun** d available in comp
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72220f11f9.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if there’s any sound in your computer.
 
  If the problem still persists, don’t worry. We have other solutions.
@@ -77,18 +82,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7201dbcc98.jpg)
 3. Select your speaker audio device, and click**Set Default** to set it as your default device.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your device has been the default device, you’ll see a green check mark next to your device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72066a032c.jpg)
 4. Restart your computer, and plug a headphone to see if there’s any sound.
 
 Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Roll back your audio driver
 
@@ -100,21 +102,11 @@ Still no luck? Okay, there’s one more thing to try.
 3. Double click**Sound, video and game controllers** to expand it.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc72165a0e6f.jpg)
 4. Double click on your**audio device** to open the properties pane.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc7218e14fa5.jpg)
 5. Click the**Driver** tab, and click**Roll Back Driver** .  
@@ -148,24 +140,22 @@ Feel free to leave a comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-tips-for-uncovering-missing-exclusive-photos/"><u>[New] 2024 Approved Tips for Uncovering Missing Exclusive Photos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-clearview-record-pro-for-11-users/"><u>[New] ClearView Record Pro for 11 Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-swapping-streams-saving-songs-cross-service-shuffling/"><u>[New] Swapping Streams, Saving Songs Cross-Service Shuffling</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>[Updated] In 2024, Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-8-endorsed-methods-for-video-marketing-success/"><u>[Updated] Top 8 Endorsed Methods for Video Marketing Success</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-your-free-tool-to-record-androids-precision-for-2024/"><u>[Updated] Your Free Tool to Record Android's Precision for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-recorder-tools-the-8-best-lists/"><u>Essential Recorder Tools The 8 Best Lists</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-bluetooth-disconnects-on-xbox-s/"><u>Overcoming Bluetooth Disconnects on Xbox S</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/premier-video-editors-transforming-igtv-videos/"><u>Premier Video Editors Transforming IGTV Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-microphone-malfunction-resolving-common-issues/"><u>Realtek Microphone Malfunction: Resolving Common Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-in-game-audio-problems-effective-strategies-to-reactivate-your-wow-voice-chat/"><u>Resolving In-Game Audio Problems: Effective Strategies to Reactivate Your WoW Voice Chat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-audio-effective-techniques-to-fix-a-dead-microphone-in-astro-a50-earbuds/"><u>Revive Your Audio: Effective Techniques to Fix a Dead Microphone in Astro A50 Earbuds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-gaming-experience-fix-anthems-no-sound-glitch-in-windows-n10/"><u>Revive Your Gaming Experience: Fix Anthem's No-Sound Glitch in Windows N10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-how-to-repair-windows-11-bluetooth-connection-issues/"><u>Solution Guide: How to Repair Windows 11 Bluetooth Connection Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-common-windows-7-hdmi-audio-problems-with-easy-fixes/"><u>Solve Common Windows 7 HDMI Audio Problems with Easy Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-the-silence-problem-restoring-audio-output-on-windows-11-devices/"><u>Solve the Silence Problem: Restoring Audio Output on Windows 11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-issues-with-your-sound-blaster-headset-a-comprehensive-guide/"><u>Solving Audio Issues with Your Sound Blaster Headset - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mute-problem-in-battlefield-4-a-comprehensive-guide/"><u>Solving the Mute Problem in Battlefield 4 - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-future-is-now-examining-hp-envy-27s-innovations-for-2024/"><u>The Future Is Now Examining HP Envy 27'S Innovations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-2024s-most-economical-cloud-stores-revealed/"><u>[New] 2024'S Most Economical Cloud Stores Revealed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pixelpress-mastering-the-art-of-screen-recording/"><u>[Updated] 'PixelPress' Mastering the Art of Screen Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-economical-android-communication-tools-best-of-10-for-2024/"><u>[Updated] Economical Android Communication Tools, Best of 10 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-effortless-mp4-creation-from-facebook-feed/"><u>2024 Approved Effortless MP4 Creation From Facebook Feed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-beats-effective-remedies-for-silent-lenovo-laptops/"><u>Bring Back the Beats: Effective Remedies for Silent Lenovo Laptops</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-and-downloading-personalized-insta-ringtones/"><u>Crafting & Downloading Personalized Insta Ringtones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/elevate-your-listening-experience-with-these-proven-methods-for-increasing-volume-on-windows-11/"><u>Elevate Your Listening Experience with These Proven Methods for Increasing Volume on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-easy-steps-to-get-your-razer-mic-up-and-running-again/"><u>Five Easy Steps to Get Your Razer Mic Up and Running Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-persistent-audio-disruptions-on-your-pc-running-windows-10/"><u>Fixing Persistent Audio Disruptions on Your PC Running Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-moveavi-conversion-avchd-versus-mp4-en-ligne/"><u>Gratuit Moveavi Conversion AVCHD versus MP4 en Ligne</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-note-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Note 30 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/level-up-with-the-lenovo-legion-slim-5-a-gamers-dream-laptop-under-a-grand-at-newegg/"><u>Level Up with the Lenovo Legion Slim 5 - A Gamer's Dream Laptop Under a Grand at Newegg</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-get-your-dells-audio-working-again/"><u>Quick Solutions to Get Your Dell's Audio Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-black-ops-cold-war-pc-issues-fixing-the-silent-gameplay-problem/"><u>Solving Black Ops Cold War PC Issues - Fixing the Silent Gameplay Problem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-top-5-iphone-podcast-software/"><u>The Ultimate List of Top 5 iPhone Podcast Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolve-your-logitech-g430-headset-microphone-issues/"><u>Troubleshooting Guide: Resolve Your Logitech G430 Headset Microphone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-the-annoying-arctis-7-audio-issues-in-windows/"><u>Ultimate Guide: Solving the Annoying Arctis 7 Audio Issues in Windows</u></a></li>
 </ul></div>
 

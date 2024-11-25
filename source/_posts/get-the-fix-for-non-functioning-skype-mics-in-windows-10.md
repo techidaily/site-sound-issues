@@ -1,7 +1,7 @@
 ---
 title: Get the Fix for Non-Functioning Skype Mics in Windows 10
-date: 2024-11-12T17:34:56.468Z
-updated: 2024-11-15T17:27:58.116Z
+date: 2024-11-23T23:00:25.145Z
+updated: 2024-11-24T16:27:56.461Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ But first, ensure that your device has been connected and set correctly.
 5. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Restart the game**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Set your device as Default
 
  If you have multiple output devices (more than two), you’d better set the headset as default. It probably the reason for “Anthem no sound” error.
@@ -47,14 +51,11 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the Playback tab, select your device and click**Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go back to the Anthem and check it has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run audio troubleshooting
 
@@ -64,10 +65,7 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Playing Audio** . Then click **Run the troubleshooter** . Wait for the investigation complete. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/10-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Follow the on-screen instructions to finish the process.
@@ -82,13 +80,14 @@ But first, ensure that your device has been connected and set correctly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the **Advanced** tab, select the lowest setting on the Default Format drop-down menu. Then click **OK** . Back to the Sound window, click **Apply** \> **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Reboot your computer and check whether Anthem has sound or not.
@@ -101,13 +100,6 @@ But first, ensure that your device has been connected and set correctly.
 2. Click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the **Playback** tab, choose the device you’re using and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. In the **Enhancements** tab, uncheck “**Disable all sound effects** “. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 
@@ -131,10 +123,7 @@ But first, ensure that your device has been connected and set correctly.
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -142,10 +131,7 @@ But first, ensure that your device has been connected and set correctly.
 4. Restart your computer and check the Anthem has sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Restart the game
@@ -175,22 +161,16 @@ But first, ensure that your device has been connected and set correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-how-to-restore-voice-chat-capabilities-in-back-4-blood/"><u>[FIXED] How to Restore Voice Chat Capabilities in 'Back 4 Blood'</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-free-screen-capture-tools/"><u>[New] Exploring Free Screen Capture Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-discovering-the-capabilities-of-bandicams-screen-capture-feature/"><u>[New] In 2024, Discovering the Capabilities of Bandicam's Screen Capture Feature</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-dive-into-the-tiktok-universe-quick-setup-guide-on-macbook/"><u>[Updated] 2024 Approved Dive Into the TikTok Universe Quick Setup Guide on MacBook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-novice-to-pro-the-ultimate-instagram-story-journey/"><u>[Updated] In 2024, From Novice to Pro The Ultimate Instagram Story Journey</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-secure-your-contents-identity-adding-logo-and-watermark-to-videos-for-2024/"><u>[Updated] Secure Your Content's Identity Adding Logo and Watermark to Videos for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/beginners-ultra-durable-aquatic-photography-gear/"><u>Beginner's Ultra-Durable Aquatic Photography Gear</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-tips-to-reactivate-audio-during-zoom-video-conferences-on-your-desktop/"><u>Essential Tips to Reactivate Audio During Zoom Video Conferences on Your Desktop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-what-to-do-when-your-sennheiser-gaming-mic-wont-work-anymore/"><u>Expert Advice: What to Do When Your Sennheiser Gaming Mic Won't Work Anymore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fast-fixes-for-flawless-bluetooth-sound-say-goodbye-to-latency/"><u>Fast Fixes for Flawless Bluetooth Sound - Say Goodbye to Latency</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-how-to-restore-audio-in-hearthstone/"><u>Fixing Silent Gameplay: How to Restore Audio in Hearthstone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/front-speaker-connector-not-working-heres-how-you-can-fix-it-at-home/"><u>Front Speaker Connector Not Working? Here's How You Can Fix It at Home!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-voice-chat-back-on-track-in-apex-legends-expert-solutions/"><u>Get Your Voice Chat Back on Track in Apex Legends – Expert Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-voice-heard-again-fixing-mic-issues-in-counter-strike-global-offensive/"><u>Getting Your Voice Heard Again: Fixing Mic Issues in Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 6 Plus</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-streamlining-multimedia-experiences-through-youtube-music-links/"><u>In 2024, Streamlining Multimedia Experiences Through YouTube Music Links</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-peaking-at-number-one-on-youtube-what-to-know/"><u>[Updated] 2024 Approved Peaking at Number One on YouTube What to Know</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-boost-your-income-with-effective-vimeo-monetization-techniques-for-2024/"><u>[Updated] Boost Your Income with Effective Vimeo Monetization Techniques for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-vidmaster-pro-8-review-highlights/"><u>2024 Approved VidMaster Pro 8 Review Highlights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-your-creative-pebble-speakers-solutions-and-troubleshooting-tips/"><u>Fixing Issues with Your Creative Pebble Speakers: Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ize-attention-try-these-7-budget-friendly-tools/"><u>Maximize Attention - Try These 7 Budget-Friendly Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016566028-pc-microphone-silent-on-zoom-heres-how-you-can-rectify-the-problem/"><u>PC Microphone Silent on Zoom? Here's How You Can Rectify the Problem!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-screens-solutions-for-conexant-smartaudio-hd-issues-on-windows-10/"><u>Resolving Silent Screens: Solutions for Conexant SmartAudio HD Issues on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-underwhelming-volume-advanced-tweaks-for-your-pc-audio-on-windows-11/"><u>Resolving Underwhelming Volume: Advanced Tweaks for Your PC Audio on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102935039-troubleshooting-guide-installing-device-drivers-on-windows-1087-solution/"><u>Troubleshooting Guide: Installing Device Drivers on Windows 10/8/7 - SOLUTION</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers in Windows 11/10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-vibrance-essential-gadgets-for-video/"><u>Visual Vibrance Essential Gadgets for Video</u></a></li>
 </ul></div>
 

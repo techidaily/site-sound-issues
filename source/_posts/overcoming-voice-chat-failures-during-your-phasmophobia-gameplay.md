@@ -1,7 +1,7 @@
 ---
 title: Overcoming Voice Chat Failures During Your Phasmophobia Gameplay
-date: 2024-11-08T18:02:36.149Z
-updated: 2024-11-15T17:54:46.161Z
+date: 2024-11-23T19:41:31.784Z
+updated: 2024-11-25T01:27:27.443Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -34,13 +38,6 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![fix Phasmophobia voice chat not working](https://img.gamerjournalist.com/spai/w_1535+q_lossy+ret_img+to_webp/https://cdn.gamerjournalist.com/primary/2020/10/Test-Voice-Phasmophobia.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check sound settings
 
  Sometimes your Microphone may not be detected or selected correctly. So when you’re in-game, the voice chat would not be working as you wish. To fix it, you should check your sound settings.
@@ -49,16 +46,13 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2020/10/open-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that your input device is set to whatever microphone you’re currently using or prefer to use. Then click**Device properties** .
 
 ![check input device ](https://images.drivereasy.com/wp-content/uploads/2020/10/check-your-input-device-1200x903.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Set the volume to at least 50.
 
@@ -76,22 +70,12 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/click-options-1200x722.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure your Microphone has been set correctly. Then click**Test** to test the voice recognition.
 
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/test-Microphone-1200x715.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Remember to click**Apply** if you change the**Microphone** .
@@ -100,14 +84,11 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![check in-game audio settings Phasmophobia voice chat not working](https://images.drivereasy.com/wp-content/uploads/2020/10/we-heard-you-1200x725.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your audio driver
 
@@ -115,23 +96,9 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
  There are mainly two ways you can update your audio driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually update your audio driver
 
  To update drivers manually, you can go to the PC manufacturer’s website or the audio card’s website to check for the latest audio driver. If you are using a branded computer, it is recommended to go to the PC manufacturer’s website first, as they may customize the driver. Before you get started, ensure that you know the PC model or the device model and the specific operating system that you are using.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your audio driver (recommended)
 
@@ -144,6 +111,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
   
@@ -165,6 +136,10 @@ The**Phasmophobia voice chat not working** issue is plaguing many gamers. Undoub
 
 ![reset network to fix Phasmophobia voice chat not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Reset now** .
 
 ![reset network to fix Phasmophobia voice chat not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-reset-now.jpg)
@@ -184,6 +159,10 @@ Once it’s finished, play your game to check if it works.
  2) Select the **Installed Files**  tab and click the **Verify integrity of game files** button.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you.
 
@@ -208,24 +187,22 @@ Once it’s finished, play your game to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-affordable-recorder-apps-for-older-computers-for-2024/"><u>[New] Affordable Recorder Apps For Older Computers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-masterclass-on-minimizing-video-footage-in-youtube-for-2024/"><u>[Updated] Masterclass on Minimizing Video Footage in YouTube for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/10-must-know-italian-hand-signs-explained/"><u>10 Must-Know Italian Hand Signs Explained</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-realities-intertwined-what-is-mixed-reality/"><u>2024 Approved Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
-<li><a href="https://discover-help.techidaily.com/among-oxygen-o-nitrogen-n-carbon-c-and-boron-b/"><u>Among Oxygen (O), Nitrogen (N), Carbon (C), and Boron (B):</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-pro-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 Pro screen lock without data loss?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xr-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone XR Passcode not Working?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/g-an-impact-professional-thumbnail-design-for-youtube-for-2024/"><u>Making an Impact Professional Thumbnail Design for YouTube for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-to-disengage-sound-amplification-in-windows-11/"><u>Step-by-Step Instructions to Disengage Sound Amplification in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-unresponsive-phasmophobia-voice-chat-feature/"><u>Step-by-Step Solutions for Unresponsive Phasmophobia Voice Chat Feature</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-sound-issues-plaguing-your-outriders-adventure/"><u>The Ultimate Fix for Sound Issues Plaguing Your Outriders Adventure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-guide-to-get-the-best-out-of-your-jabra-headset/"><u>The Ultimate Fix Guide to Get the Best Out of Your Jabra Headset</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-motorola-moto-g13-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Motorola Moto G13 Screen | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functioning-voice-chat-in-fortnite-tips-for-swift-resolution/"><u>Troubleshooting Non-Functioning Voice Chat in Fortnite: Tips for Swift Resolution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-lack-of-audio-when-linking-pc-laptop-and-mac-to-hdtv/"><u>Troubleshooting Steps: Resolving Lack of Audio When Linking PC, Laptop & Mac To HDTV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-your-bose-speaker-connectivity-issues/"><u>Troubleshooting Tips: Solving Your Bose Speaker Connectivity Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-comprehensive-fix-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/update-overcoming-muted-sounds-in-mozillas-firefox-platform/"><u>Update: Overcoming Muted Sounds in Mozilla's Firefox Platform</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-practical-methods-for-instagram-story-capture/"><u>[Updated] 2024 Approved Practical Methods for Instagram Story Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excellent-pc-screen-grabbers-the-most-useful-1-5-for-2024/"><u>[Updated] Excellent PC Screen Grabbers The Most Useful #1-#5 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-reverberation-artisan-collection/"><u>[Updated] Reverberation Artisan Collection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-decreasing-decibels-a-lumafusion-approach/"><u>2024 Approved Decreasing Decibels A Lumafusion Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-guide-how-to-arrange-your-personalized-experience-at-the-apple-store/"><u>Effortless Guide: How to Arrange Your Personalized Experience at the Apple Store</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/havent-heard-about-the-chatgpt-desktop-app-yet-here-are-remarkable-free-alternatives/"><u>Haven't Heard About the ChatGPT Desktop App Yet? Here Are Remarkable Free Alternatives</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-problems-erase-that-crackling-in-seconds-with-easy-fixes/"><u>Headphone Problems? Erase That Crackling in Seconds with Easy Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-on-a-malfunctioning-laptop/"><u>How to Restore Sound Functionality on a Malfunctioning Laptop</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-making-valorants-voice-chat-work-flawlessly-again/"><u>Overcoming Glitches: Making Valorant's Voice Chat Work Flawlessly Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-malfunction-here-are-the-solutions/"><u>Realtek Microphone Malfunction? Here Are The Solutions!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safely-patch-and-enhance-with-the-latest-macos-14er-release-update-without-worry-zdnet/"><u>Safely Patch and Enhance with the Latest macOS 14.er Release - Update Without Worry | ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-invisibility-problems-with-headphones-on-your-pcs-playlist/"><u>Solving Invisibility Problems with Headphones on Your PC's Playlist</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016314521-sound-issues-on-windows-7-heres-what-you-can-do/"><u>Sound Issues on Windows 7? Here’s What You Can Do</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonfunctional-skype-mic-in-windows-11-environments/"><u>Step-by-Step Fix for Nonfunctional Skype Mic in Windows 11 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-glitches-effective-solutions-for-outriders-players/"><u>Troubleshooting Sound Glitches: Effective Solutions for Outriders Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-full-screen-potential-on-youtube-videos/"><u>Unlock Full Screen Potential on YouTube Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-fall-screen-fix-after-cu-installation/"><u>Win10 Fall Screen Fix After CU Installation</u></a></li>
 </ul></div>
 

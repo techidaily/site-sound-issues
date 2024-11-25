@@ -1,7 +1,7 @@
 ---
 title: Restore Volume to Your Mute Mac – Easy Fix Guide
-date: 2024-11-08T17:16:00.965Z
-updated: 2024-11-15T17:10:25.020Z
+date: 2024-11-21T02:39:12.337Z
+updated: 2024-11-24T16:05:16.514Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for Headphones Crackling
 
  Here are 4 fixes that have helped other users resolve their**Windows 10** /**8** **.1/7** **sound crackling in headphones** issue.  
@@ -33,13 +37,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. [**Adjust the minimum processor state**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -65,13 +62,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
@@ -105,10 +95,7 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -122,32 +109,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -176,20 +155,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-cutting-edge-video-ideas-for-maximum-impact-for-2024/"><u>[New] Cutting-Edge Video Ideas for Maximum Impact for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/levate-video-rankings-proven-youtube-seo-solutions-for-2024/"><u>[New] Elevate Video Rankings Proven YouTube SEO Solutions for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-2023-linking-tweets-to-facebook-videos-effortlessly/"><u>[New] In 2024, 2023 Linking Tweets to Facebook Videos Effortlessly</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-streamlining-youtube-watch-order-masterclass/"><u>2024 Approved Streamlining YouTube Watch Order Masterclass</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-communication-breakdowns-a-guide-to-restoring-sound-on-discord/"><u>Conquer Communication Breakdowns: A Guide to Restoring Sound on Discord</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-tozo-t6-connectivity-problems-under-windows-11/"><u>Diagnosing and Repairing Tozo T6 Connectivity Problems Under Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repairs-get-your-corsair-void-mic-working-again/"><u>DIY Repairs: Get Your Corsair Void Mic Working Again</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-motorola-razr-40-ultra-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Motorola Razr 40 Ultra in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminate-unwanted-noise-in-your-computers-speakers-fix-for-popping-sounds/"><u>Eliminate Unwanted Noise in Your Computer's Speakers - Fix for Popping Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-cyberpunk-2077-sound-glitches-for-a-smoother-gaming-experience/"><u>Eliminating Cyberpunk 2077 Sound Glitches for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/epson-printer-error-on-windows-1011/"><u>Epson Printer Error on Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-lost-ark-gameplay-overcoming-performance-difficulties/"><u>Optimizing Lost Ark Gameplay: Overcoming Performance Difficulties</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/phantom-footprints-videography-review/"><u>Phantom Footprints Videography Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quick-steps-to-convert-macs-image-file-types/"><u>Quick Steps to Convert Mac's Image File Types</u></a></li>
-<li><a href="https://program-issues.techidaily.com/uncover-the-solution-to-overcome-fallout-4s-persistent-black-screen-challenge/"><u>Uncover the Solution to Overcome Fallout 4'S Persistent Black Screen Challenge</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-non-scanning-epson-printer-regaining-functionality-in-windows-11/"><u>[FIXED] Non-Scanning Epson Printer - Regaining Functionality in Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elite-budget-free-fb-imagemotion-engineer-for-2024/"><u>[New] Elite Budget-Free FB Image/Motion Engineer for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-teamsnap-for-dynamic-virtual-presentations-for-2024/"><u>[New] Leveraging TeamSnap for Dynamic Virtual Presentations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[Updated] 2024 Approved For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fix-the-facebook-message-shows-its-you-in-this-video-for-2024/"><u>[Updated] Fix the Facebook Message Shows It's You in This Video for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-your-first-step-designing-attractive-videos-on-a-mac-for-2024/"><u>[Updated] Your First Step Designing Attractive Videos on a Mac for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/all-inclusive-remediation-steps-for-a-non-operational-beyond-the-wire-mic/"><u>All-Inclusive Remediation Steps for a Non-Operational Beyond the Wire Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boosting-sound-levels-in-windows-11-a-step-by-step-guide/"><u>Boosting Sound Levels in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-reviving-inactive-speakers-on-windows-10-computers/"><u>Comprehensive Fixes: Reviving Inactive Speakers on Windows 10 Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-solutions-for-no-audio-issue-on-windows-11/"><u>Fixing Silent PCs: Solutions for 'No Audio' Issue on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-fix-missing-game-audio-in-borderlands-3-on-desktop/"><u>How to Troubleshoot and Fix Missing Game Audio in Borderlands 3 on Desktop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-poco-x5-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Poco X5 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-15-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 15 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monster-hunters-unite-erratum-12-conquered/"><u>Monster Hunters Unite: Erratum 12 Conquered</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-12-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-audio-glitches-solve-headphone-distortion-fast-and-easy/"><u>No More Audio Glitches: Solve Headphone Distortion Fast and Easy!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-fortnite-speaking-glitches-expert-tips-on-microphone-repair/"><u>Overcome Fortnite Speaking Glitches: Expert Tips on Microphone Repair</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015866867-runmus-mic-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>RunmuS Mic Not Working? Here's How You Can Get It Up and Running Again!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-of-intelligent-mobile-search-on-any-smartphone-try-bings-innovative-feature-for-iosandroid-today/"><u>Unlock the Potential of Intelligent Mobile Search on Any Smartphone – Try Bing's Innovative Feature for iOS/Android Today</u></a></li>
 </ul></div>
 

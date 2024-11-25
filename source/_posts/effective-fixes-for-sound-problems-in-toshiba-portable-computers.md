@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Sound Problems in Toshiba Portable Computers
-date: 2024-11-09T17:03:27.661Z
-updated: 2024-11-15T17:18:16.180Z
+date: 2024-11-23T00:53:13.535Z
+updated: 2024-11-24T18:36:06.813Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other Logitech users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -35,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Check your microphone settings**
 
 This issue may occur if your Logitech G230 is not set as the default device, or if it is disabled on your PC. In this case, you can follow the instructions below to check your microphone settings on your PC:
@@ -50,24 +47,27 @@ This issue may occur if your Logitech G230 is not set as the default device, or 
 2. **View Control Panel by Category** . Then click**Hardware and Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000093.png)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click**Sound** to continue.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000094.png)
 4. Click the **Recording**  tab, then**right-click** on any empty place inside the device list and tick **Show Disabled Devices** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap892.png)
-5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+5. Right-click the**Headset Microphone** and click **Enable** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap893-1.png)
+
 6. Select the microphone you’re using and click **Set Default** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 8. Click **OK** .
@@ -82,13 +82,6 @@ If you don’t allow Windows 10 and applications to access your microphone, you 
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 Check if your Logitech G230 mic works. If not, try the next fix below to update your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -112,10 +105,7 @@ An outdated or corrupted audio driver can also be the root of this issue. To fix
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
@@ -145,22 +135,24 @@ Hopefully one of the fixes above resolved this issue for you. If you have any qu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-detailed-instructions-maximizing-mobizen-record-functionality/"><u>[New] 2024 Approved Detailed Instructions Maximizing Mobizen Record Functionality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-overcoming-virtual-reality-discomfort-for-2024/"><u>[New] Overcoming Virtual Reality Discomfort for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-compiling-the-finest-ios-psp-game-tools-1-5/"><u>[Updated] Compiling the Finest iOS PSP Game Tools #1-5</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/a-comprehensive-walkthrough-for-correcting-connectivity-and-sound-issues-in-corsair-void-microphones/"><u>A Comprehensive Walkthrough for Correcting Connectivity and Sound Issues in Corsair Void Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audacity-sound-device-error-try-our-five-proven-solutions-to-get-back-on-track/"><u>Audacity Sound Device Error? Try Our Five Proven Solutions to Get Back on Track</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016797936-battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here's The Fix!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-online-video-beats-to-your-phones-ringtones-a-simple-guide/"><u>In 2024, From Online Video Beats to Your Phone's Ringtones A Simple Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-get-your-video-dimensions-spot-on-for-instagram-sharing/"><u>In 2024, Get Your Video Dimensions Spot-On for Instagram Sharing</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-the-ultimate-list-of-twitter-sensations/"><u>In 2024, The Ultimate List of Twitter Sensations</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/solving-playback-issues-smoothen-mkv-video-streaming-on-vlc-and-more/"><u>Solving Playback Issues: Smoothen MKV Video Streaming on VLC & More</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functioning-astro-a20-mic/"><u>Troubleshooting Guide: How to Repair a Non-Functioning Astro A20 Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-on-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-systems-how-to-restore-your-laptops-sound/"><u>Troubleshooting Silent Systems: How to Restore Your Laptop's Sound</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-sonic-glitches-eliminating-popping-noise-effectively/"><u>Troubleshooting Window's Sonic Glitches: Eliminating Popping Noise Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-psn-crashes-top-troubleshooting-steps/"><u>Ultimate Guide: Solving PSN Crashes - Top Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-when-microsoft-word-files-wont-open/"><u>What to Do When Microsoft Word Files Won't Open</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastery-in-minutes-full-vsco-app-guide/"><u>[New] 2024 Approved Mastery in Minutes Full VSCO App Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-win11-savvy-essentials-you-cant-miss/"><u>[Updated] In 2024, Win11 Savvy Essentials You Can't Miss</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfecting-your-videos-farewell-scene/"><u>[Updated] Perfecting Your Video's Farewell Scene</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-vital-vittles-visuals-the-7-keys-to-creating-tasty-video-recipes/"><u>2024 Approved Vital Vittles Visuals - The 7 Keys to Creating Tasty Video Recipes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-voice-chat-glitches-in-wow-expert-solutions-for-players/"><u>Banish Voice Chat Glitches in WOW - Expert Solutions for Players</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-your-videos-free-of-cost-mpe-to-mp4-with-movavis-online-tools/"><u>Convert Your Videos Free of Cost: MPE to MP4 with Movavi's Online Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-how-to-silence-unwanted-static-or-rumble-in-headphone-experience/"><u>DIY Solutions: How to Silence Unwanted Static or Rumble in Headphone Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-noise-issues-how-to-restore-audio-on-your-hp-laptop-running-windows-11/"><u>Fixing Noise Issues: How to Restore Audio on Your HP Laptop Running Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-communication-problems-in-rainbow-six-siege-after-the-2024-patch/"><u>How to Fix Voice Communication Problems in Rainbow Six Siege After the 2024 Patch</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-use-ntbackup-in-windows-10-8-and-7-a-complete-guide/"><u>How to Use NTBackup in Windows 10, 8 & 7: A Complete Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-f14-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy F14 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/microsoft-surface-go-reviewed-balancing-budget-friendly-appeal-with-a-mysterious-role-as-a-tech-companion/"><u>Microsoft Surface Go Reviewed: Balancing Budget-Friendly Appeal with a Mysterious Role as a Tech Companion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-error-resolved-tips-for-a-quick-fix/"><u>Razer Kraken Microphone Error Resolved - Tips for a Quick Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-rainbow-six-siege-microphoneheadset-issues-a-step-by-step-guide/"><u>Resolving Rainbow Six Siege Microphone/Headset Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-savers-top-10plus-for-ease-and-convenience/"><u>Screen Savers Top 10+ for Ease and Convenience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-issue-in-windows-media-player-step-by-step-guide/"><u>Solving the Silent Issue in Windows Media Player - Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-non-functioning-headphone-port-on-your-laptop-solved/"><u>Troubleshooting a Non-Functioning Headphone Port on Your Laptop - Solved!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/understanding-and-fixing-stuttering-sound-in-your-bluetooth-setup-for-pcs-running-windows-11/"><u>Understanding and Fixing Stuttering Sound in Your Bluetooth Setup for PCs Running Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-world-laughter-excavating-the-best-metaverse-jokes/"><u>Virtual World Laughter Excavating the Best Metaverse Jokes</u></a></li>
 </ul></div>
 

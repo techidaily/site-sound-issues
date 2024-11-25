@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Non-Functional Voice Communication in Overwatch (PTT)
-date: 2024-11-08T17:48:55.164Z
-updated: 2024-11-15T17:38:10.460Z
+date: 2024-11-17T22:05:39.819Z
+updated: 2024-11-25T02:41:08.453Z
 tags:
   - win11
   - win10
@@ -81,9 +81,17 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6ee48396.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -135,11 +143,19 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d8b093ee6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating the driver, check to see if you can record sound successfully.
 
@@ -160,6 +176,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d97536340.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check to see if you can record successfully.  
   
@@ -183,35 +203,19 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/iscover-the-top-3-alternative-video-portals-for-2024/"><u>[New] Discover the Top 3 Alternative Video Portals for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fusing-data-and-design-for-dynamic-fb-video-campaigns/"><u>[New] Fusing Data & Design for Dynamic FB Video Campaigns</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-premier-iphone-tone-producers/"><u>[Updated] Ultimate List Premier iPhone Tone Producers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-y27s-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y27s Phone When You Forget the Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-the-silence-effective-fixes-for-hyperx-cloud-headset-microphone-failures/"><u>Bust the Silence: Effective Fixes for HyperX Cloud Headset Microphone Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-up-sound-issues-on-your-windows-10-system-with-this-handy-5-step-method/"><u>Clear up Sound Issues on Your Windows 10 System with This Handy 5-Step Method</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-tips-for-fixing-your-skype-microphone-in-windows-10-a-comprehensive-guide/"><u>Essential Tips for Fixing Your Skype Microphone in Windows 10 - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-computers-missing-sound-dilemma-your-ultimate-fix-guide/"><u>Expert Advice on Resolving Computer's Missing Sound Dilemma – Your Ultimate Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-the-voicemod-not-working-issue-step-by-step-tips-for-optimal-performance/"><u>Fix the Voicemod Not Working Issue: Step-by-Step Tips for Optimal Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-battlefield-4-sound-glitches-with-these-expert-troubleshooting-tips/"><u>Fix Your Battlefield 4 Sound Glitches with These Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/getting-started-in-drone-flying-in-depth-look-at-the-budget-friendly-syma-x5c-rc-quadcopter/"><u>Getting Started in Drone Flying: In-Depth Look at the Budget-Friendly SYMA X5C RC Quadcopter</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-and-repair-itunes-inability-to-detect-an-iphone-on-windows-10-solutions-provided/"><u>How to Troubleshoot and Repair iTunes' Inability to Detect an iPhone on Windows 10 - Solutions Provided</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016582580-no-audio-post-windows-11-upgrade-quick-fixes-inside/"><u>No Audio Post-Windows 11 Upgrade? Quick Fixes Inside</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/prime-mp4-fb-file-enhancer/"><u>Prime MP4-FB File Enhancer</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/seamless-screen-capture-software-w10-edition-for-2024/"><u>Seamless Screen Capture Software, W10 Edition for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-owning-a-nook-glowlight-n4-ereader-your-complete-review/"><u>The Ultimate Guide to Owning a Nook GlowLight N°4 eReader - Your Complete Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017012302-winning-back-your-windows-11-soundscape-noise-issues-corrected/"><u>Winning Back Your Windows 11 Soundscape – Noise Issues Corrected</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks-for-2024/"><u>[Updated] Flipping the Script Mobile Filmmaking & YouTube Thumbnail Tricks for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-twisting-the-narrative-a-guide-to-angled-photography-in-todays-digital-landscape/"><u>[Updated] In 2024, Twisting the Narrative A Guide to Angled Photography in Today's Digital Landscape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nighttime-luminosity-on-iphone-photos/"><u>[Updated] Nighttime Luminosity on iPhone Photos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-what-makes-a-youtube-short-go-viral/"><u>[Updated] What Makes a YouTube Short Go Viral?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/chrome-muted-discover-how-we-solve-playback-problems-with-clarity/"><u>Chrome Muted? Discover How We Solve Playback Problems with Clarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-windows-10-headphone-connectivity-woes/"><u>Expert Tips: Resolving Windows 10 Headphone Connectivity Woes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722845437826-exploring-the-concept-of-output-impedance-explained/"><u>Exploring the Concept of Output Impedance Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-audio-issue-how-to-resolve-speaker-crackling-on-pcs-running-windows-10-or-7/"><u>Fixing the Audio Issue: How to Resolve Speaker Crackling on PCs Running Windows 10 or 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-basics-to-expertise-3d-lut-creation/"><u>In 2024, From Basics to Expertise 3D LUT Creation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v29-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V29 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/joke-makers-haven-get-it-today-for-2024/"><u>Joke Makers' Haven - Get It Today for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016078711-solution-found-razor-kraken-headset-mic-wont-work-heres-why-and-how-to-fix-it/"><u>Solution Found: Razor Kraken Headset Mic Won't Work - Here's Why and How to Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-call-of-duty-modern-warfares-persistent-crashing-problem/"><u>Troubleshooting Guide for Call of Duty: Modern Warfare's Persistent Crashing Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unsilencing-discord-top-tips-to-restore-your-voice-connection/"><u>Unsilencing Discord: Top Tips to Restore Your Voice Connection</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Reviving Audio in Windows Media Player: Step-by-Step Solutions for No Sound Issues"
-date: 2024-08-27T21:15:34.316Z
-updated: 2024-08-28T21:15:34.316Z
+date: 2024-11-19T17:42:38.645Z
+updated: 2024-11-25T01:42:40.181Z
 tags:
   - win11
   - win10
@@ -32,6 +32,11 @@ Read on and follow the easy-doing images below!
 1. On your keyboard, press the**Windows key** and**X** at the same time, then choose**Device Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
@@ -40,6 +45,11 @@ Read on and follow the easy-doing images below!
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
 
@@ -61,6 +71,10 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -77,8 +91,9 @@ Read on and follow the easy-doing images below!
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 3: Change Speaker Settings
 
  Incorrect speaker settings could also relate to the sound keeping cutting out on Windows 10 issue. To see if this is your case:
@@ -86,29 +101,29 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
-4. Un-tick the box for**Front left and right** and then hit**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
-5. Click**Finish** to end the configuration.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
+4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
+5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
  Try to play audio with your computer again to see if the sound still cuts out.
 
  Hope one of the fixes above helps to fix the sound keeps cutting out on Windows 10 problem for you. If you have any other suggestions, please feel free to leave a comment below.
@@ -123,8 +138,6 @@ Read on and follow the easy-doing images below!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +145,26 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-liftoff-to-high-end-imagery-on-a-budget/"><u>[New] 2024 Approved Liftoff to High-End Imagery on a Budget</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-broadcast-friendly-techniques-for-fb-live-events-for-2024/"><u>[Updated] Broadcast-Friendly Techniques for FB Live Events for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-enhancing-switch-gaming-with-top-cards/"><u>[Updated] Enhancing Switch Gaming with Top Cards</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastery-of-color-grading-premiere-pros-lut-capabilities-for-2024/"><u>[Updated] Mastery of Color Grading Premiere Pro's LUT Capabilities for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-streamline-your-path-to-youtubes-srt-files/"><u>2024 Approved Streamline Your Path to YouTube's SRT Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/achieve-seamless-audio-streaming-on-bluetooth-devices/"><u>Achieve Seamless Audio Streaming on Bluetooth Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-audio-issues-on-discord-a-comprehensive-guide-to-restoring-sound/"><u>Dealing with Audio Issues on Discord - A Comprehensive Guide to Restoring Sound</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-fixing-malfunctioning-kotion-each-g2000-microphone-units/"><u>DIY Solutions for Fixing Malfunctioning KOTION Each G2000 Microphone Units</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-resolving-issues-with-your-desktop-or-laptop-speakers/"><u>Expert Tips on Resolving Issues with Your Desktop or Laptop Speakers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016019804-fixes-revealed-enabling-game-audio-streams-in-discord-now/"><u>Fixes Revealed: Enabling Game Audio Streams in Discord Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-mic-settings-in-obs-desktop-recording/"><u>Fixing Non-Functional Mic Settings in OBS Desktop Recording</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-logitec-pro-x-mic-issues-a-step-by-step-guide/"><u>How to Fix Logitec Pro X Mic Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-transform-your-youtube-vids-a-guide-to-softened-screens/"><u>How to Transform Your Youtube Vids A Guide to Softened Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-fusion-of-cost-effective-and-premium-video-collage-for-android-devices/"><u>In 2024, Best Fusion of Cost-Effective and Premium Video Collage for Android Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-kraken-microphone-troubleshooting-fixes-for-unresponsive-sound-device/"><u>Razer Kraken Microphone Troubleshooting: Fixes for Unresponsive Sound Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revealing-the-art-of-zoomed-details-using-kinemasters-tools/"><u>Revealing the Art of Zoomed Details Using Kinemaster's Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-cyberpunk-2077-audio-glitches-a-comprehensive-guide/"><u>Solving Cyberpunk 2077 Audio Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-skys-boldest-workhorses-top-10-drones/"><u>The Sky's Boldest Workhorses - Top 10 Drones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-g22-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia G22 Phones</u></a></li>
+</ul></div>
 

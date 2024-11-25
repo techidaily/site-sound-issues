@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Audio: Solutions for HP Devices on the Latest Windows 11 OS"
-date: 2024-11-12T18:02:48.910Z
-updated: 2024-11-15T17:05:43.395Z
+date: 2024-11-19T20:37:22.194Z
+updated: 2024-11-24T18:55:13.127Z
 tags:
   - win11
   - win10
@@ -55,6 +55,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d47875fcc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using a**laptop computer** , you also need to check if the**microphone** device is disabled.  
   
  Follow these steps:  
@@ -62,6 +66,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  1) Right-click on the speaker icon in the system tray, and select**Recording devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d59326203.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) If you see the Microphone disabled, right-click on the item, then select**Enable** . If you see the Microphone enabled, skip this step.
 
@@ -84,6 +92,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  3) Click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d6c34f39b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Ensure the**Host** field set to**Windows WASAPI** .
 
@@ -135,6 +147,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d83603b51.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -156,6 +172,10 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
  2) Type**services.msc** and press**Enter** to open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8d9350bf7b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Windows Audio Endpoint Builder** , then click**Restart** . The follow the on-screen instructions.
 
@@ -183,31 +203,18 @@ If you got error “**_Error opening sound device_**” while using Audacity to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-enhancing-presentations-incorporating-snap-features-on-meet/"><u>[New] Enhancing Presentations Incorporating Snap Features on Meet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-hue-harmony-the-definitive-guide-to-video-coloring/"><u>[New] In 2024, Hue Harmony The Definitive Guide to Video Coloring</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-freshly-taken-images-dissection-and-secondary-ideas/"><u>[Updated] 2024 Approved Freshly Taken Images Dissection & Secondary Ideas</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-achieving-affiliate-success-with-online-videos/"><u>[Updated] Achieving Affiliate Success with Online Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chromatic-magic-for-your-digital-photography-for-2024/"><u>Chromatic Magic for Your Digital Photography for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ngs-explosion-boosting-your-youtube-channels-income-via-mobile/"><u>Earnings Explosion Boosting Your YouTube Channel's Income via Mobile</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-google-pixel-8-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Google Pixel 8 Pro Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-social-media-the-finest-6-reel-enhancing-apps/"><u>Mastering Social Media The Finest 6 Reel-Enhancing Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/pushing-creative-boundaries-with-these-top-7-film-color-techniques/"><u>Pushing Creative Boundaries with These Top 7 Film Color Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-definitive-2024-manual-to-restoring-functionality-of-squad-microphones/"><u>The Definitive 2024 Manual to Restoring Functionality of Squad Microphones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-squad-microphone-problems/"><u>The Ultimate Guide to Fixing Squad Microphone Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-solution-for-cutting-out-sound-problems-in-windows-11-explained/"><u>The Ultimate Solution for Cutting Out Sound Problems in Windows 11 Explained</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-logitech-g933-mic-follow-these-steps-to-fix-it/"><u>Trouble with Your Logitech G933 Mic? Follow These Steps to Fix It!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-quietness-sound-issues-in-pcs-borderlands-3/"><u>Troubleshooting Complete Quietness - Sound Issues in PC's Borderlands 3</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-functional-steelseries-arctis-product-model-microphone/"><u>Troubleshooting Fixes: How To Repair a Non-Functional SteelSeries Arctis ([Product Model]) Microphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-smooth-bluetooth-audio-on-windows-10-and-11-without-interruptions/"><u>Troubleshooting Guide for Smooth Bluetooth Audio on Windows 10 and 11 Without Interruptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-logitech-webcam-mic/"><u>Troubleshooting Guide: Fixing a Malfunctioning Logitech Webcam Mic</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-discord-voice-chat-issues-push-to-talk-not-responding/"><u>Troubleshooting Guide: Fixing Discord Voice Chat Issues - Push-to-Talk Not Responding</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-hevc-encoding-key-benefits-for-high-resolution-4k-and-8k-videos/"><u>Understanding HEVC Encoding: Key Benefits for High-Resolution 4K & 8K Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-macos-apps-for-watching-mkv-files/"><u>[New] 2024 Approved Essential macOS Apps for Watching MKV Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ps4-broadcasting-made-easy-your-obs-guide-for-2024/"><u>[New] PS4 Broadcasting Made Easy Your OBS Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-social-media-marketing-get-more-viewers-with-youtube/"><u>[Updated] In 2024, Social Media Marketing Get More Viewers with YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-acknowledgment-series-free-vs-paid-template-choices/"><u>2024 Approved Acknowledgment Series Free vs Paid Template Choices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-time-saving-strategies-for-efficient-content-engagement-on-tiktok/"><u>2024 Approved Time-Saving Strategies for Efficient Content Engagement on TikTok</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-speaker-delay-woes-with-this-essential-2024-troubleshooting-guide/"><u>Beat Speaker Delay Woes with This Essential 2024 Troubleshooting Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/creative-pebble-bluetooth-speaker-problems-heres-how-to-get-them-running-smoothly-again/"><u>Creative Pebble Bluetooth Speaker Problems? Here's How to Get Them Running Smoothly Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-functionality-to-a-defective-bose-speaker/"><u>Expert Advice on Restoring Functionality to a Defective Bose Speaker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-with-creative-pebble-speakers-a-comprehensive-guide/"><u>Fixing Common Issues with Creative Pebble Speakers: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ibuypowers-high-powered-budget-friendly-custom-pc-builds-a-comprehensive-review/"><u>IBUYpower's High-Powered, Budget-Friendly Custom PC Builds – A Comprehensive Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-9-reasons-for-transitioning-to-modern-outlook/"><u>The Ultimate List of 9 Reasons for Transitioning to Modern Outlook</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-cut-to-the-chase-filmora-coupon-codes-without-the-fuss-for-2024/"><u>Updated Cut to the Chase Filmora Coupon Codes Without the Fuss for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

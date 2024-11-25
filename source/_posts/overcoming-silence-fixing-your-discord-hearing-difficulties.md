@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Silence: Fixing Your Discord Hearing Difficulties"
-date: 2024-11-14T18:02:34.497Z
-updated: 2024-11-15T16:43:51.173Z
+date: 2024-11-17T18:07:12.118Z
+updated: 2024-11-25T00:35:22.559Z
 tags:
   - win11
   - win10
@@ -30,11 +30,19 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Discord audio issues?
 
 * [1. Update audio drivers](https://tools.techidaily.com/drivereasy/download/)
 * [2. Change sound settings](https://tools.techidaily.com/drivereasy/download/)
 * [3. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Update audio drivers
 
@@ -56,13 +64,6 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -71,10 +72,7 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Change sound settings
@@ -85,18 +83,15 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
 
@@ -107,10 +102,7 @@ There’re mainly two ways for you to update an audio driver:
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
@@ -150,22 +142,18 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/hree-easy-ways-to-harvest-youtubes-default-iconography-for-2024/"><u>[New] Three Easy Ways to Harvest Youtube's Default Iconography for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/our-shorts-are-here-no-more-waiting-game-for-2024/"><u>[New] Your Shorts Are Here – No More Waiting Game for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/202n10-windows-mac-android-ios/"><u>全新202n年10月免費語音改編器 - Windows, Mac, Android, iOS 支持選項</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/addressing-mutism-problems-on-your-discord-conversations/"><u>Addressing Mutism Problems on Your Discord Conversations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/agricultural-bliss-the-10-perfect-gaming-friends-for-farmers-for-2024/"><u>Agricultural Bliss The 10 Perfect Gaming Friends for Farmers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016641166-beyond-the-wire-microphone-troubleshooting-a-complete-fix-guide-to-restore-sound-output/"><u>Beyond The Wire Microphone Troubleshooting: A Complete Fix Guide to Restore Sound Output!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/chrome-troubleshooting-how-to-restore-lost-sound-capabilities/"><u>Chrome Troubleshooting: How To Restore Lost Sound Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-personal-training-with-ai-how-chatgpt-can-shape-individual-fitness-plans/"><u>Enhancing Personal Training with AI: How ChatGPT Can Shape Individual Fitness Plans</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-back-on-track-resolving-pubg-voice-chat-malfunctions/"><u>Getting Back on Track: Resolving PUBG Voice Chat Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-recurrer-breakdowns-of-praey-for-the-gods-during-gameplay-on-personal-computers/"><u>How to Address Recurrer Breakdowns of 'Praey for the Gods' During Gameplay on Personal Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-silence-the-expiring-windows-license-message/"><u>How To Silence the Expiring Window's License Message</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-when-your-logitech-webcammicrophone-fails/"><u>How to Troubleshoot When Your Logitech Webcam/Microphone Fails</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-top-tier-free-video-editing-software-guide-for-iphoneipad-users/"><u>In 2024, Top-Tier Free Video Editing Software Guide for iPhone/iPad Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-mouses-volume-a-user-friendly-guide-to-restoring-sound-on-a-logitech-g933/"><u>Revive Your Mouse's Volume: A User-Friendly Guide to Restoring Sound on a Logitech G933</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-sound-experience-with-easy-fixes-for-windows-11-devices/"><u>Revive Your Sound Experience with Easy Fixes for Windows 11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-voicemod-malfunction-as-of-2024/"><u>Ultimate Fixes for Voicemod Malfunction as of 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-avi-video-rotation-tools-compare-the-best-options-for-windows-mac-mobile-and-online/"><u>Updated In 2024, Free AVI Video Rotation Tools Compare the Best Options for Windows, MAC, Mobile & Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-breaking-boundaries-with-mini-drones-an-in-depth-analysis-of-dji-spark/"><u>[New] 2024 Approved Breaking Boundaries with Mini Drones An In-Depth Analysis of DJI Spark</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-premiere-pro-starter-pack-2023-edition-free-for-2024/"><u>[New] Premiere Pro Starter Pack - 2023 Edition (Free) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>[Updated] 2024 Approved Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-solutions-for-cyberpunk-2077-audio-issues-on-windows-10/"><u>Fixing Silent Gameplay: Solutions for Cyberpunk 2077 Audio Issues on Windows 10</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/guide-simple-et-pratique-pour-creer-une-image-de-disque-dinstallation-windows-10/"><u>Guide Simple Et Pratique Pour Créer Une Image De Disque D'installation Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-block-someone-on-instagram-in-2024/"><u>How to Block Someone on Instagram, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-in-your-pc-gaming-experience-with-borderlands-cuz/"><u>How to Restore Audio in Your PC Gaming Experience with Borderlands Cuz</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-stable-audio-on-discord-ultimate-troubleshooting-tips/"><u>How to Restore Stable Audio on Discord (Ultimate Troubleshooting Tips )</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rclass-in-glamour-beauty-tutorials-for-all/"><u>Masterclass in Glamour Beauty Tutorials for All</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-zte-axon-40-lite-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My ZTE Axon 40 Lite Black and White | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ready-for-a-game-check-out-chatgpts-best-six-games/"><u>Ready for a Game? Check Out ChatGPT's Best Six Games!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-skype-audio-issue-repairing-the-inoperative-microphone-on-windows-11-devices/"><u>Solve Your Skype Audio Issue: Repairing the Inoperative Microphone on Windows 11 Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DIY Repair Guide for iPhone Sounds – Restoring Audio Functionality
-date: 2024-08-27T21:15:30.728Z
-updated: 2024-08-28T21:15:30.728Z
+date: 2024-11-22T00:36:00.875Z
+updated: 2024-11-24T19:39:36.517Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
  This is very annoying. You can’t use your headphone or microphone with the front jacks. But don’t worry. It can be fixed…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  The following are a few methods that have helped many people fix their front audio jack issues. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Try the back audio jacks**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Set your audio device as default
 
  Perhaps your device connected to your front audio jack is not working properly because it’s not set as the default device. To check your default audio device:
@@ -34,6 +42,10 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 **1)** Right click the**volume icon** , then click**Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b348985cac7a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** If you connect your_headphone_ or your_speakers_ to the front audio jack, click the**Playback** tab. If you connect your_microphone_ , click the**Recording** tab.
 
@@ -47,9 +59,6 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
  Hopefully this works for you. But if not, there are two more fixes for you to try…
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update your device drivers
 
  Your front audio jack may not be working if you’re using a wrong driver or it’s out of date. You should update your device drivers to see if that’s the case for you. If you don’t have the time, patience or skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -64,23 +73,22 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Click the **Update**  button next to_each of your devices_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b3494ff64802.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Try the back audio jacks
 
  You may have hardware issues with your front audio jacks. So it’s worth checking the audio jacks on your motherboard to see if your issues are occurring on your front jack only.
@@ -95,8 +103,6 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +110,21 @@ Your computer front audio jacks are not working properly? You’re not alone! Ma
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-premium-audio-devices-for-online-recording-reviewed-2023/"><u>[Updated] 2024 Approved Premium Audio Devices for Online Recording Reviewed 2023</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-skyrocket-your-channel-the-ultimate-guide-to-youtube-backlinks/"><u>[Updated] In 2024, Skyrocket Your Channel The Ultimate Guide to YouTube Backlinks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-instagram-video-makers-of-the-year-a-comprehensive-ranking-guide/"><u>Best Instagram Video Makers of the Year: A Comprehensive Ranking Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fix-how-to-get-your-turtle-beach-elite-atlas-microphone-working-again/"><u>DIY Fix: How to Get Your Turtle Beach Elite Atlas Microphone Working Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-restarting-dolby-audio-services-that-wont-launch-on-the-latest-version-of-windows-os/"><u>Expert Tips for Restarting Dolby Audio Services that Won't Launch on the Latest Version of Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-a-non-functional-hyperx-cloud-alpha-headset-mic/"><u>Fixes for a Non-Functional HyperX Cloud Alpha Headset Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-creative-pebble-audio-device-malfunction-success-stories-inside/"><u>Fixes for Creative Pebble Audio Device Malfunction - Success Stories Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-ambiguous-speaker-setup-problems-in-your-windows-pressing-a-comprehensive-guide/"><u>Fixing Ambiguous Speaker Setup Problems in Your Windows Pressing: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/flashlight-review-j5s-tactical-v1-pro-emphasizing-ruggedness-and-dimension-efficiency/"><u>Flashlight Review: J5's Tactical V1-Pro - Emphasizing Ruggedness & Dimension Efficiency</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-x7b-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor X7b.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pova-5-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pova 5 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-glitches-fix-your-soundscape-on-windows-10-and-7/"><u>Resolving Audio Glitches: Fix Your Soundscape on Windows 10 & 7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/starting-point-connecting-seamlessly-via-instagram/"><u>Starting Point Connecting Seamlessly via Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-pathway-to-earning-facebook-written-by-your-assistant/"><u>The Pathway to Earning Facebook’ Written by Your Assistant</u></a></li>
+</ul></div>
 

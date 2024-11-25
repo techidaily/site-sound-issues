@@ -1,7 +1,7 @@
 ---
 title: Guide to Solving No Sound Problems When Using External Speakers in Windows
-date: 2024-11-10T16:40:29.061Z
-updated: 2024-11-15T16:34:16.506Z
+date: 2024-11-19T23:24:11.454Z
+updated: 2024-11-25T00:05:59.575Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -50,29 +54,21 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Try to move the slider up to increase the volume.  
@@ -108,31 +104,15 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -146,16 +126,7 @@ Follow these steps:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -164,10 +135,7 @@ Follow these steps:
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hope the above helps to solve your speakers’ no sound issue in Windows 10\. If you have any other suggestions, please leave a comment below.
@@ -187,20 +155,19 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-quickcapture-ultimate-scan-for-2024/"><u>[New] QuickCapture Ultimate Scan for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-iphone-strategies-for-flawless-audio-downloads-for-2024/"><u>[New] Ultimate iPhone Strategies for Flawless Audio Downloads for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-8-most-viewed-videos-on-facebook/"><u>[Updated] 8 Most Viewed Videos on Facebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-efficiently-recording-your-xbox-adventures-for-2024/"><u>[Updated] Efficiently Recording Your Xbox Adventures for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>2024 Approved Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-fortnite-mic-ultimate-troubleshooting-tips/"><u>How to Repair a Malfunctioning Fortnite Mic - Ultimate Troubleshooting Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-12-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme 12 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-how-to-fix-multiple-unresponsive-audio-services/"><u>Resolved: How to Fix Multiple Unresponsive Audio Services</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-windows-amoled-11-idt-hd-audio-codec-driver-problems/"><u>Resolving Windows Amoled 11 IDT HD Audio Codec Driver Problems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-journey-of-press-back-through-languages/"><u>The Journey of 'Press Back' Through Languages</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-honor-x9a-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor X9a Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-csgo-audio-problems/"><u>Troubleshooting and Repairing CS:GO Audio Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015596586-troubleshooting-and-repairing-your-steelseries-arctis-pro-mic-expert-tips-revealed/"><u>Troubleshooting and Repairing Your SteelSeries Arctis Pro Mic - Expert Tips Revealed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unblock-your-sound-solving-no-speakers-or-headphones-detected-in-windows-operating-systems-windows-1087/"><u>Unblock Your Sound: Solving 'No Speakers or Headphones Detected' In Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-clarity-no-lag-just-precision-screen-snaps/"><u>[New] In 2024, Capture Clarity No Lag, Just Precision Screen Snaps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-step-by-step-tutorial-for-efficient-video-capturing-via-zd/"><u>[New] In 2024, Step-by-Step Tutorial for Efficient Video Capturing via ZD</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-beat-it-right-top-free-and-easy-online-analyzers-at-your-fingertips/"><u>[Updated] 2024 Approved Beat It Right Top Free & Easy Online Analyzers at Your Fingertips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-gamers-top-nine-live-video-destinations/"><u>[Updated] In 2024, Gamer’s Top Nine Live Video Destinations</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-se-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone SE without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dell-audio-driver-fixes-and-solutions-for-your-windows-7-system/"><u>Dell Audio Driver Fixes and Solutions for Your Windows 7 System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-fixing-mic-problems-in-logitech-webcam-systems/"><u>Expert Advice for Fixing Mic Problems in Logitech Webcam Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-solutions-for-no-audio-in-windows-11/"><u>Fixing Silent PCs: Solutions for 'No Audio' In Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humor-hacks-create-memes-free-and-easy-for-2024/"><u>Humor Hacks Create Memes Free and Easy for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-v-purse-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor V Purse Lock Screen Password?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-diagnose-and-resolve-silent-computers-in-minutes/"><u>The Ultimate Guide to Diagnose and Resolve Silent Computers in Minutes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-discover-the-best-top-10-public-domain-image-libraries-for-2024/"><u>Updated Discover the Best Top 10 Public Domain Image Libraries for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-s-best-zero-cost-movie-creation-tools-for-all-skill-levels/"><u>Updated In 2024, S Best Zero-Cost Movie Creation Tools for All Skill Levels</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-and-headphones-troubleshooting-techniques-that-work/"><u>Windows 11 and Headphones: Troubleshooting Techniques That Work</u></a></li>
 </ul></div>
 

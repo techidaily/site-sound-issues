@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Problems? Here's How You Can Repair Your Microphone
-date: 2024-11-14T17:35:07.337Z
-updated: 2024-11-15T17:21:59.433Z
+date: 2024-11-20T21:41:01.896Z
+updated: 2024-11-24T23:18:08.653Z
 tags:
   - win11
   - win10
@@ -41,16 +41,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -61,10 +58,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -81,16 +75,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -114,35 +105,29 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-249.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If**Headset** **Microphone Corsair VOID Wireless Gaming Dongle** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
  3) Click on **Headset** **Microphone Corsair VOID Wireless Gaming Dongle** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-250.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the **Levels** tab, then drag **the Microphone slider** all the way to _its top_ and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click **OK** to apply the changes in the windows.
 
  Now that with microphone set as default device and the volume turned up, test your mic and see if the**microphone on Corsair Void headset** problem has been fixed. If yes, then great! If the mic still doesn’t work, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for hardware issues
 
@@ -173,19 +158,19 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-finding-the-funny-10-best-meme-blueprints-unveiled/"><u>[New] Finding the Funny #10 Best Meme Blueprints Unveiled</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-stay-ahead-of-the-game-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[New] In 2024, Stay Ahead of the Game Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concepts-to-recordings-a-step-by-step-guide-for-podcast-writers/"><u>2024 Approved From Concepts to Recordings A Step-by-Step Guide for Podcast Writers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dive-into-the-dos-and-donts-of-youtube-beauty-channels/"><u>Dive Into the Do's and Don'ts of YouTube Beauty Channels</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/easy-file-sharing-methods-how-to-relocate-documents-to-your-samsung-galaxy-smartphonetablet/"><u>Easy File Sharing Methods: How to Relocate Documents to Your Samsung Galaxy Smartphone/Tablet</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-resolve-persona-5-strikers-crash-issues-on-your-pc/"><u>Fixes & Solutions: How to Resolve Persona 5 Strikers Crash Issues on Your PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y78plus-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-how-to-resolve-missing-sound-devices-on-windows-10-8-and-7/"><u>Troubleshooting Audio Problems: How to Resolve Missing Sound Devices on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-audio-glitches-in-re8/"><u>Troubleshooting Common Audio Glitches in RE8</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-successful-restoring-sound-functionality-in-firefox/"><u>Troubleshooting Successful: Restoring Sound Functionality in Firefox</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-dota-2-mic-solutions-for-pc-users/"><u>Troubleshooting Your Dota 2 Mic: Solutions for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-non-functional-mic-setups-on-windows-11-devices/"><u>Ultimate Fixes for Non-Functional Mic Setups on Windows 11 Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-for-speedy-microphone-sound-checks/"><u>Ultimate Tricks for Speedy Microphone Sound Checks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-the-secret-of-affordable-video-ad-creation-on-youtube-for-2024/"><u>Unveiling the Secret of Affordable Video Ad Creation on YouTube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-instant-screen-grabber-plus-easy-guide-soundtrack/"><u>[New] Instant Screen Grabber + Easy Guide Soundtrack</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-loves-cinematic-journey-youtube-and-vimeos-top-premium-marriage-videos/"><u>[New] Love's Cinematic Journey YouTube & Vimeo's Top Premium Marriage Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-taleshifters-academy-top-8-picks/"><u>[New] Top Taleshifters Academy - Top 8 Picks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-immersive-chronicles-a-brief-history/"><u>2024 Approved The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/advanced-text-tools-and-ae-plug-ins/"><u>Advanced Text Tools & AE Plug-Ins</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/back-4-blood-resolved-troubleshooting-guide-for-fixing-voice-chat-issues/"><u>Back 4 Blood: Resolved - Troubleshooting Guide for Fixing Voice Chat Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/echoes-returned-resolving-no-sound-problems-on-pc-while-playing-borderlands-3/"><u>Echoes Returned: Resolving No-Sound Problems on PC While Playing Borderlands 3</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leverage-advanced-tracking-solutions-discover-how-cookiebot-can-elevate-your-site-performance-now/"><u>Leverage Advanced Tracking Solutions - Discover How Cookiebot Can Elevate Your Site Performance Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-initiating-dolby-audio-driver-on-windows-10/"><u>Resolving Issues with Initiating Dolby Audio Driver on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-discord-voice-chat-solving-the-push-to-talk-malfunction/"><u>Revive Your Discord Voice Chat: Solving the Push-To-Talk Malfunction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminate-echo-problems-on-your-discord-app-for-windows/"><u>Step-by-Step Tutorial: Eliminate Echo Problems on Your Discord App for Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-starting-dolby-digital-audio-drivers-in-windows-10/"><u>Troubleshooting and Starting Dolby Digital Audio Drivers in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dpx-to-png-movavi/"><u>スピーディな無料Dpx to Png変換 - オンラインでMovaviを使ってみる方法</u></a></li>
 </ul></div>
 
